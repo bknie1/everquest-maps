@@ -358,3 +358,153 @@ def vine_edge(cv, x0, y0, x1, y1, nx, ny, leaf=(90,120,70), dleaf=(70,100,55)):
 # NOTE: the Kerra Isle palms and Toxxulia fish / skunk / hill / s-contour generators
 # lived in a prior-session helpers.py that does not persist. Re-upload that file OR the
 # toxxulia_2 / kerra_2 decoration files and they can be ported in here exactly.
+
+
+# ================================================================ FIRE / LAVASTORM DOODLES
+def lava_pool(cv, cx, cy, r, rim=(200,40,20), fill=(210,85,25), steam=(205,200,195)):
+    """Irregular steaming lava pool -- red rim, red scanline fill, rising steam wisps."""
+    n = random.randint(9, 13)
+    pts = [(cx + r*random.uniform(0.75,1.15)*math.cos(2*math.pi*k/n),
+            cy + r*random.uniform(0.75,1.15)*math.sin(2*math.pi*k/n)) for k in range(n)]
+    for i in range(n): cv.add(*pts[i], *pts[(i+1) % n], rim)
+    ys = [p[1] for p in pts]
+    for yy in np.arange(min(ys)+6, max(ys)-6, 11):          # molten scanline fill
+        xs = []
+        for i in range(n):
+            a, b = pts[i], pts[(i+1) % n]
+            if (a[1]-yy)*(b[1]-yy) < 0: xs.append(a[0] + (b[0]-a[0])*(yy-a[1])/(b[1]-a[1]))
+        xs.sort()
+        for j in range(0, len(xs)-1, 2): cv.add(xs[j], yy, xs[j+1], yy, fill)
+    for _ in range(3):                                      # steam
+        sx, sy = cx+random.uniform(-r*0.5,r*0.5), cy+random.uniform(-r*0.3,r*0.3)
+        for k in range(3): cv.add(sx, sy-k*10, sx+random.uniform(-6,6), sy-(k+1)*10, steam)
+
+def drake(cv, cx, cy, s, color=(180,60,40)):
+    """Fire-drake icon (colorable) -- small winged dragon silhouette, flying."""
+    cv.add(cx, cy-s*0.3, cx, cy+s*0.5, color)               # body + tail
+    cv.add(cx, cy-s*0.3, cx-s*0.12, cy-s*0.5, color); cv.add(cx, cy-s*0.3, cx+s*0.12, cy-s*0.5, color)  # head
+    for side in (-1, 1):                                    # swept bat wings
+        cv.add(cx, cy, cx+side*s, cy-s*0.35, color); cv.add(cx+side*s, cy-s*0.35, cx+side*s*0.6, cy+s*0.05, color)
+        cv.add(cx+side*s*0.6, cy+s*0.05, cx, cy+s*0.1, color); cv.add(cx+side*s*0.5, cy-s*0.15, cx+side*s*0.55, cy-s*0.02, color)
+
+def fire_elemental(cv, cx, cy, s, color=(215,90,25)):
+    """Fire elemental -- flame tornado column with two arms (voidwalker-ish, colorable)."""
+    pts = [(cx + (s*0.3 if i % 2 else -s*0.3)*(1-i/6), cy+s*0.6 - i*s*0.2) for i in range(7)]
+    for i in range(len(pts)-1): cv.add(*pts[i], *pts[i+1], color)
+    for side in (-1, 1):                                    # outer flame licks
+        cv.add(cx, cy+s*0.4, cx+side*s*0.4, cy-s*0.1, color); cv.add(cx+side*s*0.4, cy-s*0.1, cx+side*s*0.15, cy-s*0.5, color)
+    for side in (-1, 1):                                    # arms
+        cv.add(cx, cy, cx+side*s*0.55, cy-s*0.05, color); cv.add(cx+side*s*0.55, cy-s*0.05, cx+side*s*0.5, cy-s*0.3, color)
+    cv.add(cx-s*0.35, cy+s*0.6, cx+s*0.35, cy+s*0.6, color)
+
+def goblin_hut(cv, cx, cy, w, h, hide=(170,120,60), spot=(70,50,30)):
+    """Goblin/orc hide hut -- dome tent with cheetah-spot pattern + doorway (colorable)."""
+    dome = [(cx+w*math.cos(t), cy-h*math.sin(t)) for t in np.linspace(0, math.pi, 9)]
+    for i in range(len(dome)-1): cv.add(*dome[i], *dome[i+1], hide)
+    cv.add(cx-w, cy, cx+w, cy, hide)
+    for _ in range(6):                                      # cheetah spots
+        a = random.uniform(0.15, 0.85)*math.pi; rr = random.uniform(0.3, 0.8)
+        sx, sy = cx+w*rr*math.cos(a), cy-h*rr*math.sin(a)
+        cv.add(sx-3, sy, sx+3, sy, spot); cv.add(sx, sy-3, sx, sy+3, spot)
+    cv.add(cx-w*0.15, cy, cx-w*0.15, cy-h*0.4, spot); cv.add(cx+w*0.15, cy, cx+w*0.15, cy-h*0.4, spot)
+    cv.add(cx-w*0.15, cy-h*0.4, cx+w*0.15, cy-h*0.4, spot)
+
+def caldera(cv, cx, cy, r, rock=(80,60,55), lava=(210,70,25)):
+    """Massive caldera (Eye of Ro) -- concentric rock rim + molten center + radial cracks."""
+    for rr, c in [(r, rock), (r*0.75, rock), (r*0.5, lava), (r*0.28, lava)]:
+        ring = [(cx+rr*random.uniform(0.9,1.1)*math.cos(t), cy+rr*random.uniform(0.9,1.1)*math.sin(t)) for t in np.linspace(0, 2*math.pi, 25)]
+        for i in range(len(ring)-1): cv.add(*ring[i], *ring[i+1], c)
+    for k in range(8):
+        a = 2*math.pi*k/8; cv.add(cx+r*0.28*math.cos(a), cy+r*0.28*math.sin(a), cx+r*0.75*math.cos(a), cy+r*0.75*math.sin(a), lava)
+
+def solro_temple(cv, cx, cy, w, h, stone=(185,155,95), dark=(120,95,55)):
+    """Temple of Solusek Ro -- stepped sun-temple: tiered base, colonnade, pediment, sun disc."""
+    for i in range(3):
+        t = i/3; ww = w*(1-t*0.3); yy = cy - h*0.5*t
+        cv.add(cx-ww, yy, cx+ww, yy, stone)
+    for dx in np.linspace(-0.7, 0.7, 5): cv.add(cx+dx*w, cy-h*0.5, cx+dx*w, cy-h*0.85, stone)
+    cv.add(cx-w*0.8, cy-h*0.85, cx+w*0.8, cy-h*0.85, stone)
+    cv.add(cx-w*0.8, cy-h*0.85, cx, cy-h*1.12, stone); cv.add(cx, cy-h*1.12, cx+w*0.8, cy-h*0.85, stone)
+    sun = [(cx+w*0.18*math.cos(t), cy-h*0.62+w*0.18*math.sin(t)) for t in np.linspace(0, 2*math.pi, 9)]
+    for i in range(len(sun)-1): cv.add(*sun[i], *sun[i+1], dark)
+
+def flame_motif(cv, cx, cy, s, body, legs):
+    """Compass center motif: a flame (for fire zones)."""
+    cv.add(cx, cy+s*0.7, cx-s*0.4, cy, body); cv.add(cx-s*0.4, cy, cx, cy-s*0.8, body)
+    cv.add(cx, cy-s*0.8, cx+s*0.4, cy, body); cv.add(cx+s*0.4, cy, cx, cy+s*0.7, body)
+    cv.add(cx, cy+s*0.5, cx-s*0.2, cy, legs); cv.add(cx-s*0.2, cy, cx, cy-s*0.35, legs)
+    cv.add(cx, cy-s*0.35, cx+s*0.2, cy, legs); cv.add(cx+s*0.2, cy, cx, cy+s*0.5, legs)
+
+def solusek_ro_face(cv, cx, cy, s, dark=(45,40,45), flame=(175,45,30), eye=(180,50,35), light=None):
+    """Solusek Ro mask -- vertically split face (left dark / right light), angry red eyes,
+       surrounded by a red flame corona. Recurring-character margin icon (colorable)."""
+    n = 15                                                    # flame corona
+    for k in range(n):
+        a = 2*math.pi*k/n + 0.1; tip = s*(1.55 if k % 3 else 1.28)
+        bx, by = cx+s*0.82*math.cos(a-0.13), cy+s*0.82*math.sin(a-0.13)
+        b2x, b2y = cx+s*0.82*math.cos(a+0.13), cy+s*0.82*math.sin(a+0.13)
+        tx, ty = cx+tip*math.cos(a), cy+tip*math.sin(a)
+        cv.add(bx, by, tx, ty, flame); cv.add(b2x, b2y, tx, ty, flame)
+    P = [(cx,cy-s),(cx-s*0.6,cy-s*0.4),(cx-s*0.46,cy+s*0.32),(cx,cy+s),(cx+s*0.46,cy+s*0.32),(cx+s*0.6,cy-s*0.4)]
+    for i in range(len(P)): cv.add(*P[i], *P[(i+1) % len(P)], dark)
+    cv.add(cx, cy-s, cx, cy+s, dark)                          # vertical split
+    ys = [p[1] for p in P]
+    for yy in np.arange(min(ys)+4, max(ys)-4, 7):            # fill left half dark (+ optional light right)
+        xs = []
+        for i in range(len(P)):
+            a, b = P[i], P[(i+1) % len(P)]
+            if (a[1]-yy)*(b[1]-yy) < 0: xs.append(a[0]+(b[0]-a[0])*(yy-a[1])/(b[1]-a[1]))
+        if len(xs) >= 2:
+            xs.sort(); xL, xR = xs[0], xs[-1]
+            if xL < cx: cv.add(xL, yy, min(xR, cx), yy, dark)
+            if light and xR > cx: cv.add(max(xL, cx), yy, xR, yy, light)
+    for sgn in (-1, 1):                                       # angry angular eyes (red)
+        cv.add(cx+sgn*s*0.36, cy-s*0.06, cx+sgn*s*0.1, cy+s*0.04, eye)
+        cv.add(cx+sgn*s*0.1, cy+s*0.04, cx+sgn*s*0.12, cy+s*0.16, eye)
+        cv.add(cx+sgn*s*0.12, cy+s*0.16, cx+sgn*s*0.34, cy+s*0.06, eye)
+
+def caldera_inner(cv, cx, cy, r, rock=(85,62,55), lava=(210,75,25)):
+    """Inner caldera detailing ONLY (concentric rings + radial cracks) -- overlay onto an
+       existing lava-pool outline. Use the pool's real radius so it fits the boundary."""
+    for rr, c in [(r*0.7, rock), (r*0.45, lava), (r*0.24, lava)]:
+        ring = [(cx+rr*random.uniform(0.9,1.1)*math.cos(t), cy+rr*random.uniform(0.9,1.1)*math.sin(t)) for t in np.linspace(0, 2*math.pi, 25)]
+        for i in range(len(ring)-1): cv.add(*ring[i], *ring[i+1], c)
+    for k in range(8):
+        a = 2*math.pi*k/8
+        cv.add(cx+r*0.24*math.cos(a), cy+r*0.24*math.sin(a), cx+r*0.68*math.cos(a), cy+r*0.68*math.sin(a), lava)
+
+# ================================================================ UNDEAD / DUNGEON DOODLES
+def skull(cv, cx, cy, s, color=(210,205,195)):
+    """Small skull icon (undead decor)."""
+    dome=[(cx+s*0.55*math.cos(t), cy-s*0.1-s*0.5*math.sin(t)) for t in np.linspace(0,math.pi,9)]
+    for i in range(len(dome)-1): cv.add(*dome[i],*dome[i+1],color)
+    cv.add(cx-s*0.55,cy-s*0.1,cx-s*0.33,cy+s*0.45,color); cv.add(cx+s*0.55,cy-s*0.1,cx+s*0.33,cy+s*0.45,color)
+    cv.add(cx-s*0.33,cy+s*0.45,cx+s*0.33,cy+s*0.45,color)
+    for sx in (-1,1):                                        # eye sockets
+        ex=cx+sx*s*0.24
+        for a,b,c,d in [(-0.13,-0.04,0.13,-0.04),(0.13,-0.04,0.13,0.14),(0.13,0.14,-0.13,0.14),(-0.13,0.14,-0.13,-0.04)]:
+            cv.add(ex+a*s,cy+b*s,ex+c*s,cy+d*s,color)
+    cv.add(cx,cy+s*0.16,cx-s*0.07,cy+s*0.3,color); cv.add(cx,cy+s*0.16,cx+s*0.07,cy+s*0.3,color)   # nose
+    for tx in (-0.18,0,0.18): cv.add(cx+tx*s,cy+s*0.45,cx+tx*s,cy+s*0.6,color)                     # teeth
+
+def bone_pile(cv, cx, cy, s, color=(205,200,190)):
+    """Crossed bones."""
+    for ang in (0.5,-0.5):
+        dx,dy=math.cos(ang)*s, math.sin(ang)*s
+        cv.add(cx-dx,cy-dy,cx+dx,cy+dy,color)
+        for ex,ey in [(cx-dx,cy-dy),(cx+dx,cy+dy)]:
+            px,py=-dy*0.14, dx*0.14
+            cv.add(ex-px,ey-py,ex+px,ey+py,color)
+
+def spider(cv, cx, cy, s, color=(55,45,62), legs=None):
+    """Standalone spider (black widow)."""
+    legs=legs or color
+    cv.add(cx,cy-s*0.2,cx,cy+s*0.35,color)
+    for r in (s*0.18,s*0.3):
+        p=[(cx+r*0.8*math.cos(t),cy+s*0.1+r*math.sin(t)) for t in np.linspace(0,2*math.pi,9)]
+        for i in range(len(p)-1): cv.add(*p[i],*p[i+1],color)
+    for si in (-1,1):
+        for k in range(4):
+            a=math.radians(18+k*32); ly=cy+(k-1.5)*s*0.22
+            cv.add(cx+si*s*0.14,cy+(k-1.5)*s*0.16, cx+si*s*0.42*math.cos(a), ly, legs)
+            cv.add(cx+si*s*0.42*math.cos(a), ly, cx+si*s*0.7*math.cos(a), ly+s*0.18, legs)
