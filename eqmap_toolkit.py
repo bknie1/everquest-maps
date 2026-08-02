@@ -143,9 +143,10 @@ def _word(text, ox, oy, cw, ch, gap):
     return x, segs   # returns end-x and the segments
 
 def title(cv, text, color, shadow=None, height=270, gap=44, framed=True,
-          subword=None, subcolor=None):
+          subword=None, subcolor=None, arc=0):
     """Full-width heading in the top margin (row 0). Auto-scales to fit, drawn flipped.
-       Optional `subword` (e.g. 'EAST') is rendered small to the left of `text`."""
+       Optional `subword` (e.g. 'EAST') is rendered small to the left of `text`.
+       `arc` > 0 bows the heading upward in the middle (e.g. a sign over an archway)."""
     cw = height*0.66
     dcw, dch, dgap, subgap = cw*0.5, height*0.5, gap*0.55, 80
     def group_w():
@@ -165,9 +166,11 @@ def title(cv, text, color, shadow=None, height=270, gap=44, framed=True,
         for (a,b,c,d) in dsegs: cv.add(a, fy(b), c, fy(d), subcolor or color)
         x += len(subword)*dcw + (len(subword)-1)*dgap + subgap
     _, segs = _word(text, x, oy, cw, height, gap)
+    gc = (cv.minx+cv.maxx)/2; half = max(grp/2, 1)
+    av = lambda px: -arc*(1-((px-gc)/half)**2)      # arch: raise the middle, ends flat
     for (a,b,c,d) in segs:
-        cv.add(a, fy(b), c, fy(d), color)
-        if shadow: cv.add(a+8, fy(b)+10, c+8, fy(d)+10, shadow)
+        cv.add(a, fy(b)+av(a), c, fy(d)+av(c), color)
+        if shadow: cv.add(a+8, fy(b)+av(a)+10, c+8, fy(d)+av(c)+10, shadow)
     if framed:
         cv.add(ox-30, fy(oy-46), ox+grp+30, fy(oy-46), shadow or color)
         cv.add(ox-30, fy(oy+height+42), ox+grp+30, fy(oy+height+42), shadow or color)
@@ -508,3 +511,20 @@ def spider(cv, cx, cy, s, color=(55,45,62), legs=None):
             a=math.radians(18+k*32); ly=cy+(k-1.5)*s*0.22
             cv.add(cx+si*s*0.14,cy+(k-1.5)*s*0.16, cx+si*s*0.42*math.cos(a), ly, legs)
             cv.add(cx+si*s*0.42*math.cos(a), ly, cx+si*s*0.7*math.cos(a), ly+s*0.18, legs)
+
+# ---- Najena / dark-elf wall runes (gold glyphs seen etched on the walls) ----
+def rune_crescent(cv, cx, cy, s, color=(200,170,60)):
+    outer=[(cx+s*math.cos(t), cy+s*math.sin(t)) for t in np.linspace(-1.15,1.15,7)]
+    inner=[(cx-s*0.32+s*0.72*math.cos(t), cy+s*0.72*math.sin(t)) for t in np.linspace(-0.95,0.95,6)]
+    for i in range(len(outer)-1): cv.add(*outer[i],*outer[i+1],color)
+    for i in range(len(inner)-1): cv.add(*inner[i],*inner[i+1],color)
+    cv.add(*outer[0],*inner[0],color); cv.add(*outer[-1],*inner[-1],color)
+def rune_star(cv, cx, cy, s, color=(200,170,60)):
+    for k in range(5):
+        a=math.pi/2 + 2*math.pi*k/5
+        cv.add(cx, cy, cx+s*math.cos(a), cy+s*math.sin(a), color)
+def rune_s(cv, cx, cy, s, color=(200,170,60)):
+    pts=[(cx+s*0.5,cy-s),(cx-s*0.35,cy-s*0.5),(cx-s*0.05,cy-s*0.05),(cx+s*0.35,cy+s*0.1),(cx+s*0.05,cy+s*0.55),(cx-s*0.5,cy+s)]
+    for i in range(len(pts)-1): cv.add(*pts[i],*pts[i+1],color)
+def dark_rune(cv, cx, cy, s, kind=None, color=(200,170,60)):
+    (kind or random.choice([rune_crescent,rune_star,rune_s]))(cv,cx,cy,s,color)
