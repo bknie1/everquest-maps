@@ -102,7 +102,7 @@ def add_water(fname,floor):
             L(xx-5,yy,xx-1,yy-2,WRIP,z); L(xx-1,yy-2,xx+3,yy,WRIP,z); L(xx+3,yy,xx+7,yy-2,WRIP,z)
     return int(wm.sum())
 
-for fl,fn in [('f1','f1'),('f2','f2'),('f3','f3')]:
+for fl,fn in [('f2','f2'),('f3','f3')]:   # F1 ravine 'water' dropped: it's thin streams, not a fillable pool
     n=add_water(fn,fl); print('water cells %s: %d'%(fl,n))
 
 open('blackburrow_colored.txt','w',newline='').write('\r\n'.join(out)+'\r\n')

@@ -84,32 +84,6 @@ def snake(cv,cx,cy,length=120,amp=15,color=MOSS):
     cv.add(hx+7,hy,hx+15,hy+3,color); cv.add(hx+15,hy+3,hx+20,hy+5,color)
     cv.add(hx+2,hy-3,hx+4,hy-3,STONE)                                 # eye
 
-def gnoll_face(cv,cx,cy,s=74,color=STONE,accent=BANNER):
-    """Front-on snarling gnoll head (hyena/dog-like) -- margin emblem."""
-    # head outline: brow -> cheeks -> muzzle -> chin
-    _poly(cv,[(cx-s*0.42,cy-s*0.30),(cx-s*0.50,cy+s*0.02),(cx-s*0.30,cy+s*0.30),
-              (cx-s*0.12,cy+s*0.42),(cx,cy+s*0.50),(cx+s*0.12,cy+s*0.42),
-              (cx+s*0.30,cy+s*0.30),(cx+s*0.50,cy+s*0.02),(cx+s*0.42,cy-s*0.30)],color)
-    cv.add(cx-s*0.42,cy-s*0.30,cx+s*0.42,cy-s*0.30,color)             # brow ridge
-    # pointed ears
-    cv.add(cx-s*0.42,cy-s*0.30,cx-s*0.58,cy-s*0.74,color); cv.add(cx-s*0.58,cy-s*0.74,cx-s*0.16,cy-s*0.40,color)
-    cv.add(cx+s*0.42,cy-s*0.30,cx+s*0.58,cy-s*0.74,color); cv.add(cx+s*0.58,cy-s*0.74,cx+s*0.16,cy-s*0.40,color)
-    # eyes (angled, menacing)
-    for sgn in (-1,1):
-        ex=cx+sgn*s*0.22
-        _poly(cv,[(ex-s*0.11,cy-s*0.15),(ex+s*0.11,cy-s*0.07),(ex-s*0.02,cy-s*0.01)],color,close=True)
-        cv.add(ex-s*0.03,cy-s*0.09,ex+s*0.02,cy-s*0.09,accent)        # eye glint
-    # snout bridge + nose
-    cv.add(cx,cy-s*0.05,cx,cy+s*0.17,color)
-    _poly(cv,[(cx-s*0.07,cy+s*0.17),(cx,cy+s*0.25),(cx+s*0.07,cy+s*0.17)],color,close=True)
-    # snarling mouth + fangs
-    _poly(cv,[(cx-s*0.20,cy+s*0.30),(cx-s*0.10,cy+s*0.40),(cx,cy+s*0.34),
-              (cx+s*0.10,cy+s*0.40),(cx+s*0.20,cy+s*0.30)],color)
-    cv.add(cx-s*0.11,cy+s*0.31,cx-s*0.09,cy+s*0.41,color); cv.add(cx+s*0.11,cy+s*0.31,cx+s*0.09,cy+s*0.41,color)  # fangs
-    # cheek fur tufts
-    for sgn in (-1,1):
-        cv.add(cx+sgn*s*0.50,cy+s*0.02,cx+sgn*s*0.63,cy+s*0.05,color)
-        cv.add(cx+sgn*s*0.48,cy+s*0.12,cx+sgn*s*0.60,cy+s*0.17,color)
 
 def bone(cv,cx,cy,l=30,color=BONE,ang=0):
     ca,sa=math.cos(ang),math.sin(ang)
@@ -119,20 +93,6 @@ def bone(cv,cx,cy,l=30,color=BONE,ang=0):
         cv.add(px,py,px+d*4*ca-4*sa,py+d*4*sa+4*ca,color)
         cv.add(px,py,px+d*4*ca+4*sa,py+d*4*sa-4*ca,color)
 
-def gnoll_head_motif(cv,cx,cy,s,body,legs):
-    """Compass center: front-on gnoll head (snout down)."""
-    # skull outline
-    _poly(cv,[(cx-s*0.5,cy-s*0.3),(cx-s*0.55,cy+s*0.15),(cx-s*0.2,cy+s*0.5),
-              (cx,cy+s*0.62),(cx+s*0.2,cy+s*0.5),(cx+s*0.55,cy+s*0.15),
-              (cx+s*0.5,cy-s*0.3)],body,close=False)
-    # ears
-    cv.add(cx-s*0.5,cy-s*0.3,cx-s*0.66,cy-s*0.72,body); cv.add(cx-s*0.66,cy-s*0.72,cx-s*0.2,cy-s*0.4,body)
-    cv.add(cx+s*0.5,cy-s*0.3,cx+s*0.66,cy-s*0.72,body); cv.add(cx+s*0.66,cy-s*0.72,cx+s*0.2,cy-s*0.4,body)
-    # eyes + snout
-    cv.add(cx-s*0.28,cy-s*0.02,cx-s*0.12,cy-s*0.02,legs); cv.add(cx+s*0.28,cy-s*0.02,cx+s*0.12,cy-s*0.02,legs)
-    cv.add(cx-s*0.1,cy+s*0.5,cx+s*0.1,cy+s*0.5,legs)
-    # fang hints
-    cv.add(cx-s*0.12,cy+s*0.5,cx-s*0.16,cy+s*0.62,legs); cv.add(cx+s*0.12,cy+s*0.5,cx+s*0.16,cy+s*0.62,legs)
 
 def rock_corner(cv,x,y,sx,sy,color=STONE,reach=120):
     """Jagged rock cluster tucked in a frame corner."""
@@ -190,3 +150,62 @@ def hollow_tree(cv,cx,base_y,h=118,trunk=WOOD,dark=WOOD_D,void=STONE,leaf=MOSS):
     # roots at the base
     for s in (-1,1):
         cv.add(cx+s*w,base_y,cx+s*w*1.5,base_y+8,trunk); cv.add(cx+s*w*1.5,base_y+8,cx+s*w*1.9,base_y+6,trunk)
+
+def bone_skull_pile(cv,cx,cy,s=48,bcol=BONE,dark=WOOD_D):
+    """A gnoll's leftovers: a jumbled heap of gnawed bones and cracked skulls."""
+    from eqmap_toolkit import skull as _skull
+    # mound base
+    _poly(cv,[(cx-s,cy+2),(cx-s*0.55,cy-s*0.24),(cx-s*0.15,cy-s*0.08),
+              (cx+s*0.22,cy-s*0.30),(cx+s*0.60,cy-s*0.10),(cx+s,cy+2)],dark)
+    cv.add(cx-s,cy+2,cx+s,cy+2,dark)                       # ground
+    # long bones jutting at angles
+    for bx,by,ang,l in [(-s*0.55,-s*0.02,0.55,s*0.85),(s*0.42,-s*0.06,-0.5,s*0.75),
+                        (-s*0.05,-s*0.02,0.06,s*0.7),(s*0.12,-s*0.14,1.1,s*0.55)]:
+        bone(cv,cx+bx,cy+by,l,color=bcol,ang=ang)
+    # a few short ribs poking out
+    for rx in (-s*0.30,s*0.06,s*0.30):
+        cv.add(cx+rx,cy-s*0.03,cx+rx+s*0.12,cy-s*0.18,bcol)
+    # skulls nestled in the heap
+    _skull(cv,cx-s*0.42,cy-s*0.12,s*0.30,color=bcol)
+    _skull(cv,cx+s*0.36,cy-s*0.18,s*0.26,color=bcol)
+    _skull(cv,cx-s*0.02,cy-s*0.34,s*0.24,color=bcol)
+
+def shade_border(cv,inset,color,step=13):
+    """Diagonal hatch fill in the 4 border bands -> a 'shaded' border."""
+    x0,y0,x1,y1=cv.bx0,cv.by0,cv.bx1,cv.by1; d=inset*0.72
+    i=x0
+    while i<x1:
+        cv.add(i,y0,min(i+d,x1),y0+inset,color)           # top band
+        cv.add(i,y1-inset,min(i+d,x1),y1,color)           # bottom band
+        i+=step
+    j=y0
+    while j<y1:
+        cv.add(x0,j,x0+inset,min(j+d,y1),color)           # left band
+        cv.add(x1-inset,j,x1,min(j+d,y1),color)           # right band
+        j+=step
+
+def gnoll_glyph(cv,cx,cy,s=80,color=STONE):
+    """Authentic in-game gnoll banner glyph: round face, triangular ears,
+    angled downward eyes, wedge nose, fangs, and jaw flares."""
+    r=s*0.42
+    circ=[(cx+r*math.cos(t),cy+r*math.sin(t)) for t in [i*math.pi/16 for i in range(33)]]
+    _poly(cv,circ,color)
+    _poly(cv,[(cx-r*0.66,cy-r*0.60),(cx-r*0.52,cy-r*1.08),(cx-r*0.14,cy-r*0.82)],color,close=True)
+    _poly(cv,[(cx+r*0.66,cy-r*0.60),(cx+r*0.52,cy-r*1.08),(cx+r*0.14,cy-r*0.82)],color,close=True)
+    for sgn in (-1,1):
+        ex=cx+sgn*r*0.34
+        _poly(cv,[(ex-r*0.26,cy-r*0.28),(ex+r*0.26,cy-r*0.16),(ex-sgn*r*0.02,cy+r*0.10)],color,close=True)
+        _poly(cv,[(ex-r*0.18,cy-r*0.22),(ex+r*0.18,cy-r*0.12),(ex,cy+r*0.02)],color,close=True)
+    _poly(cv,[(cx-r*0.16,cy+r*0.18),(cx+r*0.16,cy+r*0.18),(cx,cy+r*0.50)],color,close=True)
+    cv.add(cx,cy+r*0.50,cx,cy+r*0.62,color)
+    cv.add(cx-r*0.30,cy+r*0.66,cx+r*0.30,cy+r*0.66,color)
+    _poly(cv,[(cx-r*0.30,cy+r*0.62),(cx-r*0.40,cy+r*0.96),(cx-r*0.18,cy+r*0.70)],color,close=True)
+    _poly(cv,[(cx+r*0.30,cy+r*0.62),(cx+r*0.40,cy+r*0.96),(cx+r*0.18,cy+r*0.70)],color,close=True)
+    cv.add(cx-r*0.86,cy+r*0.30,cx-r*1.16,cy+r*0.44,color)
+    cv.add(cx+r*0.86,cy+r*0.30,cx+r*1.16,cy+r*0.44,color)
+
+def gnoll_face(cv,cx,cy,s=82,color=STONE,accent=None):
+    gnoll_glyph(cv,cx,cy,s=s,color=color)
+
+def gnoll_head_motif(cv,cx,cy,s,body,legs):
+    gnoll_glyph(cv,cx,cy,s=s*2.1,color=body)
