@@ -1,4 +1,4 @@
-# EQ Legends — Custom Atlas Maps (Emoda)
+# Custom EQ Atlas Maps by Emoda
 
 Hand-drawn, atlas-style in-game map files for **EverQuest Legends**, built zone by zone.
 The look is a 2D contour map with 3D-effect features: parchment-white background,
