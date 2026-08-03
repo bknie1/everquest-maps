@@ -7,6 +7,12 @@ and zone-appropriate decorative sketches.
 
 ---
 
+External demo render:
+
+<img width="1180" height="936" alt="image" src="https://github.com/user-attachments/assets/6168ca8d-44eb-4db1-9923-1cb124d46080" />
+
+---
+
 ## How the files work
 
 Each zone is drawn as up to three stacked layers that the client overlays:
