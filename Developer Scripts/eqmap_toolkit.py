@@ -528,3 +528,105 @@ def rune_s(cv, cx, cy, s, color=(200,170,60)):
     for i in range(len(pts)-1): cv.add(*pts[i],*pts[i+1],color)
 def dark_rune(cv, cx, cy, s, kind=None, color=(200,170,60)):
     (kind or random.choice([rune_crescent,rune_star,rune_s]))(cv,cx,cy,s,color)
+
+# ================================================================ HOBBIT / COZY DOODLES
+def cottage(cv, cx, cy, w, h, wall=(158,128,92), roof=(128,82,50), door=(95,60,40), warm=(215,165,75)):
+    """Cozy cottage -- walls, overhanging thatched roof, round hobbit door, lit window."""
+    bh=h*0.55
+    cv.add(cx-w,cy,cx+w,cy,wall); cv.add(cx-w,cy,cx-w,cy-bh,wall); cv.add(cx+w,cy,cx+w,cy-bh,wall)
+    cv.add(cx-w,cy-bh,cx+w,cy-bh,wall)
+    cv.add(cx-w*1.25,cy-bh,cx,cy-h,roof); cv.add(cx,cy-h,cx+w*1.25,cy-bh,roof)     # thatched peak
+    cv.add(cx-w*1.25,cy-bh,cx+w*1.25,cy-bh,roof)
+    cv.add(cx-w*0.6,cy-bh-(h-bh)*0.5,cx-w*0.15,cy-bh,roof)                          # thatch lines
+    cv.add(cx+w*0.6,cy-bh-(h-bh)*0.5,cx+w*0.15,cy-bh,roof)
+    dr=w*0.3; dcx=cx-w*0.4                                                          # round hobbit door
+    arc=[(dcx+dr*math.cos(t), (cy-dr)-dr*math.sin(t)) for t in np.linspace(0,math.pi,7)]
+    for i in range(len(arc)-1): cv.add(*arc[i],*arc[i+1],door)
+    cv.add(dcx-dr,cy,dcx-dr,cy-dr,door); cv.add(dcx+dr,cy,dcx+dr,cy-dr,door); cv.add(dcx-dr,cy,dcx+dr,cy,door)
+    wx,wy,ws=cx+w*0.42,cy-bh*0.5,w*0.2                                              # lit window
+    for a,b,c,d in [(-ws,-ws,ws,-ws),(ws,-ws,ws,ws),(ws,ws,-ws,ws),(-ws,ws,-ws,-ws),(0,-ws,0,ws),(-ws,0,ws,0)]:
+        cv.add(wx+a,wy+b,wx+c,wy+d,warm)
+
+def wolf(cv, cx, cy, s, color=(96,88,82)):
+    """Trotting wolf in profile -- horizontal body, four long legs with paws, bushy tail, head with ears + snout."""
+    cv.add(cx-s*0.95,cy-s*0.5,cx+s*0.7,cy-s*0.5,color)                                            # back
+    cv.add(cx-s*0.6,cy-s*0.05,cx+s*0.72,cy-s*0.05,color)                                          # belly
+    cv.add(cx-s*0.95,cy-s*0.5,cx-s*0.6,cy-s*0.05,color)                                           # rump
+    cv.add(cx+s*0.7,cy-s*0.5,cx+s*1.02,cy-s*0.66,color); cv.add(cx+s*1.02,cy-s*0.66,cx+s*1.45,cy-s*0.54,color)  # nape+muzzle
+    cv.add(cx+s*1.45,cy-s*0.54,cx+s*1.4,cy-s*0.4,color); cv.add(cx+s*1.4,cy-s*0.4,cx+s*1.0,cy-s*0.42,color)     # nose+jaw
+    cv.add(cx+s*1.0,cy-s*0.42,cx+s*0.72,cy-s*0.05,color)                                          # throat->chest
+    cv.add(cx+s*1.02,cy-s*0.66,cx+s*0.98,cy-s*0.9,color); cv.add(cx+s*0.98,cy-s*0.9,cx+s*1.14,cy-s*0.68,color)  # ear1
+    cv.add(cx+s*1.16,cy-s*0.64,cx+s*1.14,cy-s*0.86,color); cv.add(cx+s*1.14,cy-s*0.86,cx+s*1.28,cy-s*0.62,color) # ear2
+    cv.add(cx+s*1.2,cy-s*0.55,cx+s*1.25,cy-s*0.55,color)                                          # eye
+    for lx in (-s*0.5,-s*0.18,s*0.4,s*0.66):                                                      # FOUR long legs + paws
+        cv.add(cx+lx,cy-s*0.05,cx+lx,cy+s*0.6,color); cv.add(cx+lx,cy+s*0.6,cx+lx+s*0.12,cy+s*0.6,color)
+    cv.add(cx-s*0.95,cy-s*0.42,cx-s*1.4,cy-s*0.25,color); cv.add(cx-s*1.4,cy-s*0.25,cx-s*1.55,cy+s*0.1,color)   # bushy tail
+    cv.add(cx-s*0.95,cy-s*0.3,cx-s*1.32,cy-s*0.08,color); cv.add(cx-s*1.32,cy-s*0.08,cx-s*1.45,cy+s*0.12,color) # tail fluff
+def hobbit_hole(cv, cx, cy, w, h, mound=(92,120,72), door=(120,85,55), smoke=(185,180,172), warm=(215,165,75)):
+    """Grassy smial: GREEN-SHADED dome hill (hatch fill), proper round brown door, chimney + smoke."""
+    dome=[(cx+w*math.cos(t), cy-h*math.sin(t)) for t in np.linspace(0,math.pi,15)]
+    for i in range(len(dome)-1): cv.add(*dome[i],*dome[i+1],mound)                                 # outline
+    cv.add(cx-w,cy,cx+w,cy,mound)
+    dr=w*0.3
+    for frac in np.linspace(0.1,0.92,8):                                                           # GREEN shading (hatch)
+        yy=cy-h*frac; hw=w*math.sqrt(max(0.0,1-frac*frac))
+        if frac<0.5 and hw>dr*1.35:
+            cv.add(cx-hw,yy,cx-dr*1.3,yy,mound); cv.add(cx+dr*1.3,yy,cx+hw,yy,mound)               # leave gap for door
+        elif hw>4: cv.add(cx-hw,yy,cx+hw,yy,mound)
+    for gx in np.linspace(-w*0.4,w*0.4,3): cv.add(cx+gx,cy-h*0.96,cx+gx-5,cy-h*0.96-12,mound)      # grass tufts
+    arc=[(cx+dr*math.cos(t),(cy-dr)-dr*math.sin(t)) for t in np.linspace(0,math.pi,9)]             # ROUND door
+    for i in range(len(arc)-1): cv.add(*arc[i],*arc[i+1],door)
+    cv.add(cx-dr,cy,cx-dr,cy-dr,door); cv.add(cx+dr,cy,cx+dr,cy-dr,door); cv.add(cx-dr,cy,cx+dr,cy,door)
+    cv.add(cx+dr*0.4,cy-dr*0.72,cx+dr*0.6,cy-dr*0.72,door)                                         # knob
+    chx,chy=cx+w*0.52,cy-h*0.7                                                                     # chimney + smoke
+    cv.add(chx-7,chy,chx-7,chy-26,door); cv.add(chx+7,chy,chx+7,chy-26,door); cv.add(chx-7,chy-26,chx+7,chy-26,door)
+    sc=[(chx,chy-26),(chx-13,chy-42),(chx+9,chy-58),(chx-7,chy-74)]
+    for i in range(len(sc)-1): cv.add(*sc[i],*sc[i+1],smoke)
+def fish(cv, cx, cy, s, color=(88,112,124)):
+    body=[(cx+s*math.cos(t), cy+s*0.5*math.sin(t)) for t in np.linspace(0.55,2*math.pi-0.55,11)]
+    for i in range(len(body)-1): cv.add(*body[i],*body[i+1],color)
+    cv.add(cx-s*0.85,cy-s*0.28,cx-s*1.4,cy-s*0.42,color); cv.add(cx-s*0.85,cy+s*0.28,cx-s*1.4,cy+s*0.42,color)
+    cv.add(cx-s*1.4,cy-s*0.42,cx-s*1.4,cy+s*0.42,color)                                           # tail
+    cv.add(cx+s*0.1,cy-s*0.5,cx+s*0.4,cy-s*0.8,color); cv.add(cx+s*0.4,cy-s*0.8,cx+s*0.55,cy-s*0.45,color)  # fin
+    cv.add(cx+s*0.55,cy-s*0.08,cx+s*0.62,cy-s*0.08,color)                                         # eye
+def pie(cv, cx, cy, s, crust=(185,145,95), steam=(185,180,172)):
+    """Lattice-top pie in a plate -- plate with rim lips, domed crust, crosshatch lattice, steam."""
+    cv.add(cx-s*1.15,cy,cx-s*0.9,cy+s*0.5,crust); cv.add(cx+s*1.15,cy,cx+s*0.9,cy+s*0.5,crust)   # plate sides
+    cv.add(cx-s*0.9,cy+s*0.5,cx+s*0.9,cy+s*0.5,crust)                                             # plate base
+    cv.add(cx-s*1.15,cy,cx-s*0.85,cy,crust); cv.add(cx+s*0.85,cy,cx+s*1.15,cy,crust)             # rim lips
+    dome=[(cx+s*0.85*math.cos(t), cy-s*0.55*math.sin(t)) for t in np.linspace(0,math.pi,11)]      # domed crust
+    for i in range(len(dome)-1): cv.add(*dome[i],*dome[i+1],crust)
+    cv.add(cx-s*0.85,cy,cx+s*0.85,cy,crust)                                                       # crust rim line
+    for off in np.linspace(-0.55,0.55,4):                                                         # lattice crosshatch
+        cv.add(cx+off*s,cy,cx+off*s+s*0.42,cy-s*0.45,crust); cv.add(cx+off*s,cy,cx+off*s-s*0.42,cy-s*0.45,crust)
+    for sx in (-0.3,0.3):
+        st=[(cx+sx*s,cy-s*0.55),(cx+sx*s-7,cy-s*0.55-15),(cx+sx*s+5,cy-s*0.55-28)]
+        for i in range(len(st)-1): cv.add(*st[i],*st[i+1],steam)
+def beer_mug(cv, cx, cy, s, mug=(155,125,85), foam=(232,227,214)):
+    cv.add(cx-s*0.5,cy,cx-s*0.5,cy-s,mug); cv.add(cx+s*0.5,cy,cx+s*0.5,cy-s,mug); cv.add(cx-s*0.5,cy,cx+s*0.5,cy,mug)
+    fp=[(cx-s*0.5,cy-s),(cx-s*0.25,cy-s*1.22),(cx,cy-s*0.98),(cx+s*0.25,cy-s*1.22),(cx+s*0.5,cy-s)]
+    for i in range(len(fp)-1): cv.add(*fp[i],*fp[i+1],foam)
+    cv.add(cx+s*0.5,cy-s*0.25,cx+s*0.86,cy-s*0.25,mug); cv.add(cx+s*0.86,cy-s*0.25,cx+s*0.86,cy-s*0.72,mug); cv.add(cx+s*0.86,cy-s*0.72,cx+s*0.5,cy-s*0.72,mug)
+def berries(cv, cx, cy, s, berry=(140,50,80), leaf=(90,120,70)):
+    for dx,dy in [(0,0),(-s*0.4,s*0.15),(s*0.4,s*0.15),(0,s*0.45)]:
+        c=[(cx+dx+s*0.24*math.cos(t), cy+dy+s*0.24*math.sin(t)) for t in np.linspace(0,2*math.pi,7)]
+        for i in range(len(c)-1): cv.add(*c[i],*c[i+1],berry)
+    cv.add(cx,cy-s*0.3,cx-s*0.32,cy-s*0.6,leaf); cv.add(cx,cy-s*0.3,cx+s*0.32,cy-s*0.6,leaf)
+def cheese(cv, cx, cy, s, color=(220,190,95)):
+    cv.add(cx-s,cy+s*0.4,cx+s,cy+s*0.4,color); cv.add(cx-s,cy+s*0.4,cx+s,cy-s*0.4,color); cv.add(cx+s,cy+s*0.4,cx+s,cy-s*0.4,color)
+    for hx,hy in [(-s*0.15,s*0.12),(s*0.35,s*0.18),(s*0.45,-s*0.08)]:
+        h=[(cx+hx+s*0.11*math.cos(t), cy+hy+s*0.11*math.sin(t)) for t in np.linspace(0,2*math.pi,6)]
+        for i in range(len(h)-1): cv.add(*h[i],*h[i+1],color)
+
+def goblin(cv, cx, cy, s, color=(70,115,55), spear=(110,85,55)):
+    """Hunched green goblin -- round pointy-eared head, stooped solid body, stubby legs, crude spear."""
+    head=[(cx+s*0.42*math.cos(t), cy-s*0.55+s*0.42*math.sin(t)) for t in np.linspace(0,2*math.pi,11)]
+    for i in range(len(head)-1): cv.add(*head[i],*head[i+1],color)
+    cv.add(cx-s*0.4,cy-s*0.6,cx-s*0.85,cy-s*0.72,color); cv.add(cx-s*0.85,cy-s*0.72,cx-s*0.36,cy-s*0.82,color)   # ears
+    cv.add(cx+s*0.4,cy-s*0.6,cx+s*0.85,cy-s*0.72,color); cv.add(cx+s*0.85,cy-s*0.72,cx+s*0.36,cy-s*0.82,color)
+    cv.add(cx-s*0.18,cy-s*0.6,cx-s*0.1,cy-s*0.6,color); cv.add(cx+s*0.1,cy-s*0.6,cx+s*0.18,cy-s*0.6,color)        # eyes
+    body=[(cx-s*0.3,cy-s*0.13),(cx-s*0.5,cy+s*0.35),(cx-s*0.4,cy+s*0.55),(cx+s*0.4,cy+s*0.55),(cx+s*0.5,cy+s*0.35),(cx+s*0.3,cy-s*0.13)]
+    for i in range(len(body)-1): cv.add(*body[i],*body[i+1],color)                                                # hunched body
+    cv.add(cx-s*0.2,cy+s*0.55,cx-s*0.22,cy+s*0.78,color); cv.add(cx+s*0.2,cy+s*0.55,cx+s*0.22,cy+s*0.78,color)
+    cv.add(cx-s*0.3,cy+s*0.78,cx-s*0.14,cy+s*0.78,color); cv.add(cx+s*0.14,cy+s*0.78,cx+s*0.3,cy+s*0.78,color)    # feet
+    cv.add(cx+s*0.5,cy+s*0.5,cx+s*0.82,cy-s*0.72,spear); cv.add(cx+s*0.82,cy-s*0.72,cx+s*0.72,cy-s*0.55,color); cv.add(cx+s*0.82,cy-s*0.72,cx+s*0.92,cy-s*0.6,color)  # spear
