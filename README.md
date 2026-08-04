@@ -15,8 +15,6 @@ External demo renders (pardon any visual issues; labels render differently in-ga
 
 <img width="1180" height="936" alt="image" src="https://github.com/user-attachments/assets/6168ca8d-44eb-4db1-9923-1cb124d46080" />
 
-<img width="1000" height="619" alt="lfay_full" src="https://github.com/user-attachments/assets/7b82b833-37f7-4dd3-acb4-b12b5e698db3" />
-
 ---
 
 ## How the files work
