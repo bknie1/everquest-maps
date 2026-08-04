@@ -690,15 +690,39 @@ def parse_L_segments(path):
             f=l[2:].split(','); seg.append((float(f[0]),float(f[1]),float(f[3]),float(f[4])))
     return seg
 
-def knockout(cv, i0, i1, bbox, samp=18):
-    """Delete lines cv.L[i0:i1] passing through bbox, so a border hides BEHIND a title
-    (the border 'passes under' the title). bbox=(x0,y0,x1,y1)."""
-    bx0,by0,bx1,by1=bbox
-    def crosses(l):
-        f=l[2:].split(','); x1,y1,x2,y2=float(f[0]),float(f[1]),float(f[3]),float(f[4])
-        n=max(1,int(max(abs(x2-x1),abs(y2-y1))/samp))
-        for k in range(n+1):
-            t=k/n; px=x1+(x2-x1)*t; py=y1+(y2-y1)*t
-            if bx0<=px<=bx1 and by0<=py<=by1: return True
-        return False
-    cv.L=[l for i,l in enumerate(cv.L) if not (i0<=i<i1 and crosses(l))]
+def knockout(cv, i0, i1, title_segments, pad=22, cell=7):
+    """Split lines cv.L[i0:i1] so they STOP before each title stroke and RESTART after —
+    the border/garland renders continuously but passes cleanly BEHIND the title letters.
+    title_segments: list of (x1,y1,x2,y2) of the title strokes."""
+    import numpy as np, math
+    txs=[v for s_ in title_segments for v in (s_[0],s_[2])]
+    tys=[v for s_ in title_segments for v in (s_[1],s_[3])]
+    mnx=min(txs)-pad-cell; mny=min(tys)-pad-cell
+    gw=int((max(txs)-min(txs)+2*(pad+cell))/cell)+2
+    gh=int((max(tys)-min(tys)+2*(pad+cell))/cell)+2
+    occ=np.zeros((gh,gw),bool)
+    for x1,y1,x2,y2 in title_segments:
+        n=int(max(abs(x2-x1),abs(y2-y1))/cell)+1
+        for i in range(n+1):
+            t=i/n; ix=int((x1+(x2-x1)*t-mnx)/cell); iy=int((y1+(y2-y1)*t-mny)/cell)
+            if 0<=ix<gw and 0<=iy<gh: occ[iy,ix]=True
+    from scipy.ndimage import binary_dilation
+    occ=binary_dilation(occ, iterations=max(1,round(pad/cell)))
+    def blocked(px,py):
+        ix=int((px-mnx)/cell); iy=int((py-mny)/cell)
+        return 0<=ix<gw and 0<=iy<gh and occ[iy,ix]
+    out=[]
+    for idx in range(i0,i1):
+        f=cv.L[idx][2:].split(',')
+        x1,y1,z1,x2,y2,z2=float(f[0]),float(f[1]),f[2].strip(),float(f[3]),float(f[4]),f[5].strip()
+        r,g,b=f[6].strip(),f[7].strip(),f[8].strip()
+        n=max(1,int(math.hypot(x2-x1,y2-y1)/5))
+        run=None
+        for i in range(n+1):
+            t=i/n; px=x1+(x2-x1)*t; py=y1+(y2-y1)*t
+            if blocked(px,py):
+                if run: out.append("L %.4f, %.4f, %s, %.4f, %.4f, %s, %s, %s, %s"%(run[0],run[1],z1,run[2],run[3],z2,r,g,b)); run=None
+            else:
+                run=(run[0],run[1],px,py) if run else (px,py,px,py)
+        if run: out.append("L %.4f, %.4f, %s, %.4f, %.4f, %s, %s, %s, %s"%(run[0],run[1],z1,run[2],run[3],z2,r,g,b))
+    cv.L = cv.L[:i0] + out + cv.L[i1:]
