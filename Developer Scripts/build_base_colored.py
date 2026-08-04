@@ -66,17 +66,18 @@ def add_water(fname,floor):
     for x,y in wp:
         ix,iy=gx(x),gy(y)
         if foot[iy,ix]: wm[iy,ix]=True
-    # close small gaps then keep only sizable blobs
     from scipy.ndimage import binary_closing,label
     wm=binary_closing(wm,iterations=2)
     lab,nlab=label(wm)
     for k in range(1,nlab+1):
         if (lab==k).sum()<12: wm[lab==k]=False
+    return fill_water_mask(wm, z, floor)
+
+def fill_water_mask(wm, z, seed):
     # hatch fill: horizontal runs every HSTEP native units
     HSTEP=5
     for iy in range(0,gh, max(1,int(HSTEP/CELL))):
-        row=wm[iy]
-        ix=0
+        row=wm[iy]; ix=0
         while ix<gw:
             if row[ix]:
                 j=ix
@@ -85,25 +86,51 @@ def add_water(fname,floor):
                 if x_b-x_a>=2: L(x_a,yy,x_b,yy,WFILL,z)
                 ix=j
             else: ix+=1
-    # edge outline: water cells with a non-water 4-neighbor
     edge=wm & ~(np.roll(wm,1,0)&np.roll(wm,-1,0)&np.roll(wm,1,1)&np.roll(wm,-1,1))
     ys,xs=np.where(edge)
     for iy,ix in zip(ys,xs):
         xx=minx+ix*CELL; yy=miny+iy*CELL
         L(xx-1.2,yy,xx+1.2,yy,WEDGE,z)
-    # ripples: scatter short tildes in the interior
     interior=wm & (np.roll(wm,3,1)&np.roll(wm,-3,1)&np.roll(wm,3,0)&np.roll(wm,-3,0))
     ys,xs=np.where(interior)
     if len(xs):
-        import random; random.seed(hash(floor)%99)
+        import random; random.seed(hash(seed)%99)
         idx=random.sample(range(len(xs)),min(len(xs)//40+3,40,len(xs)))
         for i in idx:
             xx=minx+xs[i]*CELL; yy=miny+ys[i]*CELL
             L(xx-5,yy,xx-1,yy-2,WRIP,z); L(xx-1,yy-2,xx+3,yy,WRIP,z); L(xx+3,yy,xx+7,yy-2,WRIP,z)
     return int(wm.sum())
 
-for fl,fn in [('f2','f2'),('f3','f3')]:   # F1 ravine 'water' dropped: it's thin streams, not a fillable pool
+def stamp_disc(mask,cx,cy,rad):
+    r=int(rad/CELL)
+    for dy in range(-r,r+1):
+        for dx in range(-r,r+1):
+            if (dx*CELL)**2+(dy*CELL)**2<=rad*rad:
+                ix=gx(cx)+dx; iy=gy(cy)+dy
+                if 0<=ix<gw and 0<=iy<gh: mask[iy,ix]=True
+
+def add_river_f1():
+    # The ravine river on Floor 1, traced from in-game /loc points the player
+    # walked along it (native coords == /loc). Waterfall at the north (high-y) end.
+    z=0.0
+    center=[(6,-52),(13,-26),(21,6),(29,42),(33,64),(35,82)]     # river centerline
+    wm=np.zeros((gh,gw),bool)
+    for (x1,y1),(x2,y2) in zip(center,center[1:]):
+        n=int(max(abs(x2-x1),abs(y2-y1))/CELL)+1
+        for i in range(n+1):
+            t=i/n; stamp_disc(wm, x1+(x2-x1)*t, y1+(y2-y1)*t, 8.5)
+    stamp_disc(wm, 35, 86, 15)                                    # plunge pool at the falls
+    ncells=fill_water_mask(wm, z, 'f1river')
+    # waterfall: vertical falling-water streaks above the plunge pool
+    for sx in (27,31,35,39,43):
+        L(sx, 84, sx, 108, WFILL, z)
+        L(sx-1, 90, sx-1, 104, WRIP, z)
+    L(24, 84, 46, 84, WEDGE, z)                                   # lip of the falls
+    return ncells
+
+for fl,fn in [('f2','f2'),('f3','f3')]:
     n=add_water(fn,fl); print('water cells %s: %d'%(fl,n))
+print('water cells f1-river: %d'%add_river_f1())
 
 open('blackburrow_colored.txt','w',newline='').write('\r\n'.join(out)+'\r\n')
 print('wrote blackburrow_colored.txt  L=%d'%len(out))
