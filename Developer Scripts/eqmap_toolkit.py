@@ -726,3 +726,48 @@ def knockout(cv, i0, i1, title_segments, pad=22, cell=7):
                 run=(run[0],run[1],px,py) if run else (px,py,px,py)
         if run: out.append("L %.4f, %.4f, %s, %.4f, %.4f, %s, %s, %s, %s"%(run[0],run[1],z1,run[2],run[3],z2,r,g,b))
     cv.L = cv.L[:i0] + out + cv.L[i1:]
+
+# ---------------- POI cell-sketch allocator (cite + prioritize POIs into margin cells) ----------------
+def caption(cv, text, cx, cy, height=80, color=(60,50,40), gap=None):
+    """Small upright stick-letter caption centered at (cx,cy top)."""
+    if gap is None: gap=height*0.30
+    cw=height*0.60
+    w,segs=_word(text.upper(), 0.0, 0.0, cw, height, gap)
+    ox=cx-w/2
+    for (a,b,c,d) in segs:
+        cv.add(ox+a, cy+(height-b), ox+c, cy+(height-d), color)
+    return w
+
+def margin_cells(cv, INSET, CLEAR, side, n, end_pad=0.0, fill=0.86):
+    """n stacked sketch cells along a margin side ('L','R','T','B'). Returns [(cx,cy,w,h)]."""
+    TIN=INSET+CLEAR
+    cells=[]
+    if side in ('L','R'):
+        y0=cv.by0+TIN+end_pad; y1=cv.by1-TIN-end_pad; ch=(y1-y0)/n
+        if side=='L': inner=cv.bx0+TIN; cw=(cv.minx-inner)*fill; cx=inner+cw/2
+        else:         inner=cv.bx1-TIN; cw=(inner-cv.maxx)*fill; cx=inner-cw/2
+        for i in range(n): cells.append((cx, y0+ch*(i+0.5), abs(cw), ch*fill))
+    else:
+        x0=cv.bx0+TIN+end_pad; x1=cv.bx1-TIN-end_pad; cw=(x1-x0)/n
+        if side=='T': cy=((cv.by0+TIN)+cv.miny)/2; chh=cv.miny-(cv.by0+TIN)
+        else:         cy=((cv.by1-TIN)+cv.maxy)/2; chh=(cv.by1-TIN)-cv.maxy
+        for i in range(n): cells.append((x0+cw*(i+0.5), cy, cw*fill, abs(chh)*fill))
+    return cells
+
+def poi_cell_sketches(cv, cells, pois, label_color=(70,58,44)):
+    """Assign highest-priority POIs to cells; draw each as a fit-scaled sketch with a
+    caption right beneath it. pois: [{priority,label,fn}]. Extra low-priority POIs are
+    dropped when cells run out. Returns [(label,cx,cy,seg_list)] for validation."""
+    chosen=sorted(pois, key=lambda p:-p['priority'])[:len(cells)]
+    placed=[]
+    for (cx,cy,w,h),poi in zip(cells, chosen):
+        sk=min(h*0.60, w*0.95)
+        i0=len(cv.L)
+        bb=draw_fit(cv, poi['fn'], cx, cy-sk*0.30, w*0.92, sk)
+        capy=(bb[3] if bb else cy)+max(28,sk*0.14)
+        caption(cv, poi['label'], cx, capy, height=min(w*0.11,60), color=label_color)
+        seg=[]
+        for l in cv.L[i0:]:
+            f=l[2:].split(','); seg.append((float(f[0]),float(f[1]),float(f[3]),float(f[4])))
+        placed.append((poi['label'],cx,cy,seg))
+    return placed
