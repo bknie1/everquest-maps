@@ -630,3 +630,75 @@ def goblin(cv, cx, cy, s, color=(70,115,55), spear=(110,85,55)):
     cv.add(cx-s*0.2,cy+s*0.55,cx-s*0.22,cy+s*0.78,color); cv.add(cx+s*0.2,cy+s*0.55,cx+s*0.22,cy+s*0.78,color)
     cv.add(cx-s*0.3,cy+s*0.78,cx-s*0.14,cy+s*0.78,color); cv.add(cx+s*0.14,cy+s*0.78,cx+s*0.3,cy+s*0.78,color)    # feet
     cv.add(cx+s*0.5,cy+s*0.5,cx+s*0.82,cy-s*0.72,spear); cv.add(cx+s*0.82,cy-s*0.72,cx+s*0.72,cy-s*0.55,color); cv.add(cx+s*0.82,cy-s*0.72,cx+s*0.92,cy-s*0.6,color)  # spear
+
+def draw_fit(cv, fn, cx, cy, max_w, max_h=None, align='center'):
+    """Scaling tool: run doodle `fn(cv)` (which draws at its natural size/pos), then
+    rescale+recenter everything it emitted to fit within max_w x max_h at (cx,cy).
+    Returns the placed bbox. align='center' or 'bottom' (feet at cy)."""
+    if max_h is None: max_h=max_w
+    i0=len(cv.L)
+    fn(cv)
+    if len(cv.L)==i0: return None
+    seg=cv.L[i0:]
+    P=[l[2:].split(',') for l in seg]
+    xs=[]; ys=[]
+    for p in P: xs+= [float(p[0]),float(p[3])]; ys+=[float(p[1]),float(p[4])]
+    bx0,bx1,by0,by1=min(xs),max(xs),min(ys),max(ys)
+    bw=(bx1-bx0) or 1.0; bh=(by1-by0) or 1.0
+    sc=min(max_w/bw, max_h/bh)
+    ox=(bx0+bx1)/2; oy=(by0+by1)/2 if align=='center' else by1
+    ty=cy if align=='center' else cy
+    for k,p in enumerate(P):
+        nx1=cx+(float(p[0])-ox)*sc; ny1=ty+(float(p[1])-oy)*sc
+        nx2=cx+(float(p[3])-ox)*sc; ny2=ty+(float(p[4])-oy)*sc
+        cv.L[i0+k]="L %.4f, %.4f, %s, %.4f, %.4f, %s, %s, %s, %s"%(
+            nx1,ny1,p[2].strip(),nx2,ny2,p[5].strip(),p[6].strip(),p[7].strip(),p[8].strip())
+    return (cx-max_w/2, ty-(max_h/2 if align=='center' else max_h), cx+max_w/2, ty+(max_h/2 if align=='center' else 0))
+
+# ---- content-overlap validation: does a decoration sketch cross MAP CONTENT? ----
+def build_occupancy(base_lines, bbox, cell=38.0, dilate=1):
+    """base_lines: iterable of (x1,y1,x2,y2). Returns an occupancy structure."""
+    import numpy as np
+    minx,maxx,miny,maxy=bbox
+    gw=int((maxx-minx)/cell)+2; gh=int((maxy-miny)/cell)+2
+    occ=np.zeros((gh,gw),bool)
+    for x1,y1,x2,y2 in base_lines:
+        n=int(max(abs(x2-x1),abs(y2-y1))/cell)+1
+        for i in range(n+1):
+            t=i/n; ix=int((x1+(x2-x1)*t-minx)/cell); iy=int((y1+(y2-y1)*t-miny)/cell)
+            if 0<=ix<gw and 0<=iy<gh: occ[iy,ix]=True
+    if dilate:
+        from scipy.ndimage import binary_dilation
+        occ=binary_dilation(occ,iterations=dilate)
+    return (occ,cell,minx,miny,gw,gh)
+
+def seg_hits_content(segments, occ_data):
+    """segments: iterable of (x1,y1,x2,y2). True if any sampled point lands on occupied map content."""
+    occ,cell,minx,miny,gw,gh=occ_data
+    for x1,y1,x2,y2 in segments:
+        n=int(max(abs(x2-x1),abs(y2-y1))/cell)+1
+        for i in range(n+1):
+            t=i/n; ix=int((x1+(x2-x1)*t-minx)/cell); iy=int((y1+(y2-y1)*t-miny)/cell)
+            if 0<=ix<gw and 0<=iy<gh and occ[iy,ix]: return True
+    return False
+
+def parse_L_segments(path):
+    seg=[]
+    for l in open(path,encoding='utf-8',errors='replace'):
+        l=l.strip()
+        if l.startswith('L'):
+            f=l[2:].split(','); seg.append((float(f[0]),float(f[1]),float(f[3]),float(f[4])))
+    return seg
+
+def knockout(cv, i0, i1, bbox, samp=18):
+    """Delete lines cv.L[i0:i1] passing through bbox, so a border hides BEHIND a title
+    (the border 'passes under' the title). bbox=(x0,y0,x1,y1)."""
+    bx0,by0,bx1,by1=bbox
+    def crosses(l):
+        f=l[2:].split(','); x1,y1,x2,y2=float(f[0]),float(f[1]),float(f[3]),float(f[4])
+        n=max(1,int(max(abs(x2-x1),abs(y2-y1))/samp))
+        for k in range(n+1):
+            t=k/n; px=x1+(x2-x1)*t; py=y1+(y2-y1)*t
+            if bx0<=px<=bx1 and by0<=py<=by1: return True
+        return False
+    cv.L=[l for i,l in enumerate(cv.L) if not (i0<=i<i1 and crosses(l))]
