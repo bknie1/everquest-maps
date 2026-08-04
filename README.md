@@ -15,8 +15,6 @@ External demo renders (pardon any visual issues; labels render differently in-ga
 
 <img width="1000" height="619" alt="lfay_full" src="https://github.com/user-attachments/assets/7b82b833-37f7-4dd3-acb4-b12b5e698db3" />
 
-<img width="1020" height="907" alt="butcher_full" src="https://github.com/user-attachments/assets/84ac322c-6683-4e44-98f2-94ab5b7b9a5d" />
-
 ---
 
 ## How the files work
