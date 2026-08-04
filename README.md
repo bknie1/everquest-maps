@@ -1,9 +1,11 @@
 # Custom EQ Atlas Maps by Emoda
 
-Hand-drawn, atlas-style in-game map files for **EverQuest Legends**, built zone by zone.
+Atlas-style in-game map files for **EverQuest Legends**, built zone by zone.
 The look is a 2D contour map with 3D-effect features: parchment-white background,
 color-coded points of interest, themed hand-crafted borders, etched titles, compasses,
 and zone-appropriate decorative sketches.
+
+It's just vector math. You can do cool vector art.
 
 ---
 
