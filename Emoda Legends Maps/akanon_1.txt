@@ -1,5 +1,8 @@
 P 78.4863, -61.4073, -0.8014, 150, 0, 200, 3, to_The_Steamfont_Mountains
 P 35.0000, -47.0000, -1.0000, 160, 105, 0, 2, Succor_(to_Steamfont)
+P 440.7800, -846.7900, -1.0000, 30, 80, 95, 3, Warrior_Guild_(Narron_Jenork_GM)
+P 108.0000, -816.0000, -1.0000, 30, 80, 95, 2, Rogue_Guild_(under_Abbey)
+P 437.0000, -2171.0000, -1.0000, 110, 0, 60, 3, Mines_of_Malfunction_(Necro_+_Undead)
 P 862.0000, -1348.0000, -1.0000, 30, 80, 95, 3, Bank_of_AkAnon
 P 946.0000, -1252.0000, -1.0000, 30, 80, 95, 2, The_Bar_(Brew_Barrel)
 P 715.0000, -1253.0000, -1.0000, 30, 80, 95, 2, The_Smithy_(Weapons_+_Forge)
@@ -7,11 +10,15 @@ P 952.0000, -1347.0000, -1.0000, 35, 95, 55, 2, Clockwork_Jeweler
 P 879.0000, -1250.0000, -1.0000, 35, 95, 55, 2, Clockwork_Bowyer_(Fletching)
 P 759.0000, -1174.0000, -1.0000, 35, 95, 55, 2, Clockwork_Cobbler_(Shoes)
 P 551.0000, -1198.0000, -1.0000, 35, 95, 55, 2, Clockwork_Priest_(Blunt)
+P 714.0000, -1208.0000, -1.0000, 35, 95, 55, 2, Clockwork_Armorer
+P 924.0000, -1265.0000, -1.0000, 35, 95, 55, 2, Clockwork_Brewmaster
 P 301.0000, -891.0000, -1.0000, 35, 95, 55, 2, Clockwork_Alchemist
 P 284.0000, -904.0000, -1.0000, 35, 95, 55, 2, Clockwork_Grocer_(Food)
+P 301.0000, -891.0000, -1.0000, 35, 95, 55, 2, Clockwork_Baker
 P 52.0000, -987.0000, -1.0000, 35, 95, 55, 2, Clockwork_Tailor
 P 37.0000, -954.0000, -1.0000, 35, 95, 55, 2, Clockwork_Tanner_(Leather)
 P 155.0000, -760.0000, -1.0000, 35, 95, 55, 2, Clockwork_Miner
 P 173.0000, -750.0000, -1.0000, 35, 95, 55, 2, Clockwork_Potter
+P 140.0000, -762.0000, -1.0000, 35, 95, 55, 2, Clockwork_Sketcher
+P 1004.0000, -1047.0000, -1.0000, 35, 95, 55, 2, Clockwork_Merchant_(North)
 P 192.0000, -1482.0000, -1.0000, 150, 90, 40, 2, A_Mechanic_(27)
-P 108.0000, -816.0000, -1.0000, 110, 0, 60, 2, Clockwork_Torturer_(Rogue_Guild)
