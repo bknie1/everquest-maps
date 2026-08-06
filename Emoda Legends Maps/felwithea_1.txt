@@ -62,3 +62,4 @@ P 457.0000, -26.0000, 14.0000, 35, 95, 55, 2, Wellin_Brookleap_(Cleric_Spells)
 P 435.0000, -13.0000, -4.0000, 90, 35, 110, 3, Yeolarn_Bronzeleaf_(Cleric_GM)
 P -197.2637, -40.8508, -0.8014, 150, 0, 200, 3, to_The_Greater_Faydark
 P 720.5178, -343.6229, -14.8014, 150, 0, 200, 3, to_Southern_Felwithe
+P 438.0000, -107.0000, 14.0000, 35, 95, 55, 2, Merchant_Tyslin_(Jewelcraft)
