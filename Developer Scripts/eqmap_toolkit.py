@@ -27,6 +27,7 @@ CRLF = "\r\n"
 
 # ---------------------------------------------------------------- stick font
 LETTERS = {
+    "'": [[(0.46,1.0),(0.40,0.70)]], '`': [[(0.40,1.0),(0.46,0.70)]],
  'A':[[(0,0),(0.5,1),(1,0)],[(0.25,0.4),(0.75,0.4)]],
  'B':[[(0,0),(0,1),(0.7,1),(0.9,0.8),(0.7,0.55),(0,0.55)],[(0,0.55),(0.75,0.55),(0.95,0.3),(0.7,0),(0,0)]],
  'C':[[(0.95,0.8),(0.7,1),(0.25,1),(0,0.7),(0,0.3),(0.25,0),(0.7,0),(0.95,0.2)]],
@@ -132,14 +133,16 @@ def grid(cv, color, step=None):
 
 
 # ---------------------------------------------------------------- TITLE
+def _adv(ch, cw): return cw*0.42 if ch in ("'", "`") else cw   # apostrophes are narrow
 def _word(text, ox, oy, cw, ch, gap):
     segs = []; x = ox
     for ch_ in text:
+        adv = _adv(ch_, cw)
         for poly in LETTERS.get(ch_, []):
             for i in range(len(poly)-1):
                 ax, ay = poly[i]; bx, by = poly[i+1]
-                segs.append((x+ax*cw, oy+ay*ch, x+bx*cw, oy+by*ch))
-        x += cw + gap
+                segs.append((x+ax*adv, oy+ay*ch, x+bx*adv, oy+by*ch))
+        x += adv + gap
     return x, segs   # returns end-x and the segments
 
 def title(cv, text, color, shadow=None, height=270, gap=44, framed=True,
@@ -150,7 +153,7 @@ def title(cv, text, color, shadow=None, height=270, gap=44, framed=True,
     cw = height*0.66
     dcw, dch, dgap, subgap = cw*0.5, height*0.5, gap*0.55, 80
     def group_w():
-        w = len(text)*cw + (len(text)-1)*gap
+        w = sum(_adv(c,cw) for c in text) + (len(text)-1)*gap
         if subword: w += len(subword)*dcw + (len(subword)-1)*dgap + subgap
         return w
     avail = (cv.bx1 - cv.bx0) - 360
@@ -727,9 +730,8 @@ def knockout(cv, i0, i1, title_segments, pad=22, cell=7):
         if run: out.append("L %.4f, %.4f, %s, %.4f, %.4f, %s, %s, %s, %s"%(run[0],run[1],z1,run[2],run[3],z2,r,g,b))
     cv.L = cv.L[:i0] + out + cv.L[i1:]
 
-# ---------------- POI cell-sketch allocator (cite + prioritize POIs into margin cells) ----------------
+# ---------------- POI cell-sketch allocators (restored) ----------------
 def caption(cv, text, cx, cy, height=80, color=(60,50,40), gap=None):
-    """Small upright stick-letter caption centered at (cx,cy top)."""
     if gap is None: gap=height*0.30
     cw=height*0.60
     w,segs=_word(text.upper(), 0.0, 0.0, cw, height, gap)
@@ -739,14 +741,12 @@ def caption(cv, text, cx, cy, height=80, color=(60,50,40), gap=None):
     return w
 
 def margin_cells(cv, INSET, CLEAR, side, n, end_pad=0.0, fill=0.86):
-    """n stacked sketch cells along a margin side ('L','R','T','B'). Returns [(cx,cy,w,h)]."""
-    TIN=INSET+CLEAR
-    cells=[]
+    TIN=INSET+CLEAR; cells=[]
     if side in ('L','R'):
         y0=cv.by0+TIN+end_pad; y1=cv.by1-TIN-end_pad; ch=(y1-y0)/n
-        if side=='L': inner=cv.bx0+TIN; cw=(cv.minx-inner)*fill; cx=inner+cw/2
-        else:         inner=cv.bx1-TIN; cw=(inner-cv.maxx)*fill; cx=inner-cw/2
-        for i in range(n): cells.append((cx, y0+ch*(i+0.5), abs(cw), ch*fill))
+        if side=='L': cx=((cv.bx0+TIN)+cv.minx)/2; cw=cv.minx-(cv.bx0+TIN)
+        else:         cx=((cv.bx1-TIN)+cv.maxx)/2; cw=(cv.bx1-TIN)-cv.maxx
+        for i in range(n): cells.append((cx, y0+ch*(i+0.5), abs(cw)*fill, ch*fill))
     else:
         x0=cv.bx0+TIN+end_pad; x1=cv.bx1-TIN-end_pad; cw=(x1-x0)/n
         if side=='T': cy=((cv.by0+TIN)+cv.miny)/2; chh=cv.miny-(cv.by0+TIN)
@@ -755,19 +755,29 @@ def margin_cells(cv, INSET, CLEAR, side, n, end_pad=0.0, fill=0.86):
     return cells
 
 def poi_cell_sketches(cv, cells, pois, label_color=(70,58,44)):
-    """Assign highest-priority POIs to cells; draw each as a fit-scaled sketch with a
-    caption right beneath it. pois: [{priority,label,fn}]. Extra low-priority POIs are
-    dropped when cells run out. Returns [(label,cx,cy,seg_list)] for validation."""
-    chosen=sorted(pois, key=lambda p:-p['priority'])[:len(cells)]
-    placed=[]
+    chosen=sorted(pois, key=lambda p:-p['priority'])[:len(cells)]; placed=[]
     for (cx,cy,w,h),poi in zip(cells, chosen):
-        sk=min(h*0.60, w*0.95)
-        i0=len(cv.L)
+        sk=min(h*0.60, w*0.95); i0=len(cv.L)
         bb=draw_fit(cv, poi['fn'], cx, cy-sk*0.30, w*0.92, sk)
         capy=(bb[3] if bb else cy)+max(28,sk*0.14)
         caption(cv, poi['label'], cx, capy, height=min(w*0.11,60), color=label_color)
-        seg=[]
-        for l in cv.L[i0:]:
-            f=l[2:].split(','); seg.append((float(f[0]),float(f[1]),float(f[3]),float(f[4])))
+        seg=[(float(l[2:].split(',')[0]),float(l[2:].split(',')[1]),float(l[2:].split(',')[3]),float(l[2:].split(',')[4])) for l in cv.L[i0:]]
+        placed.append((poi['label'],cx,cy,seg))
+    return placed
+
+def place_poi_sketches(cv, left_cells, right_cells, pois, label_color=(70,58,44), center_x=None):
+    import math
+    cells=[[c[0],c[1],c[2],c[3],False] for c in (list(left_cells)+list(right_cells))]; placed=[]
+    for poi in sorted(pois,key=lambda p:-p['priority']):
+        px,py=poi['loc']; best=None
+        for cell in cells:
+            if cell[4]: continue
+            d=math.hypot(cell[0]-px, cell[1]-py)
+            if best is None or d<best[0]: best=(d,cell)
+        if best is None: continue
+        cx,cy,w,h,_=best[1]; best[1][4]=True; sk=min(h*0.60,w*0.95); i0=len(cv.L)
+        bb=draw_fit(cv, poi['fn'], cx, cy-sk*0.30, w*0.92, sk)
+        caption(cv, poi['label'], cx, (bb[3] if bb else cy)+max(28,sk*0.14), height=min(w*0.11,60), color=label_color)
+        seg=[(float(l[2:].split(',')[0]),float(l[2:].split(',')[1]),float(l[2:].split(',')[3]),float(l[2:].split(',')[4])) for l in cv.L[i0:]]
         placed.append((poi['label'],cx,cy,seg))
     return placed
