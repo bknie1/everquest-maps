@@ -61,7 +61,8 @@ def stone_range(x0,x1,base_y,n):
 track_fn("range_bot", lambda: stone_range(SX0+40, SX1-40, SY1, 18))
 
 CR=210; LR=CR*1.30
-track_fn("compass", lambda: compass(cv, SX1-LR, SY0+LR, CR,
+band0=INSET; band1=PAD; bc=(band0+band1)/2; CRpad=max(70,(band1-band0)/2/1.28*0.66)
+track_fn("compass", lambda: compass(cv, cv.bx1-bc, cv.by0+bc, CRpad,
         ring=(BR,G.IRON), rose=(BR,G.BEARD), center=G.axe_motif,
         center_colors=(BR,G.IRON), label=BR, n_label=BR, arrow=BR))
 

@@ -66,7 +66,8 @@ for k,by in enumerate((-1950,-1400,-850,-300)):
     track(f"R{k}", (lambda by=by,k=k: draw_fit(cv, (_spider if k%2 else _cogs), RX, by, BOX, BOX)))
 
 CR=150; LR=CR*1.30
-track("compass", lambda: compass(cv, SX1-LR, SY1-LR, CR,
+band0=INSET; band1=PAD; bc=(band0+band1)/2; CRpad=max(70,(band1-band0)/2/1.28*0.66)
+track("compass", lambda: compass(cv, cv.bx1-bc, cv.by1-bc, CRpad,
         ring=(BR,STEELg), rose=(BR,GEM), center=G.cog_motif,
         center_colors=(STEELg,GEM), label=BR, n_label=BR, arrow=BR))
 

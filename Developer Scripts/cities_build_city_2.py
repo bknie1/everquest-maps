@@ -1,6 +1,6 @@
 """Generic city decoration (_2) with MARGIN STANDARD. Theme-colored frame/title/compass."""
 import sys, math
-from eqmap_toolkit import Canvas, frame, title, compass
+from eqmap_toolkit import Canvas, frame, title, compass, title_band_knockout
 ZONE=sys.argv[1]; TITLE=sys.argv[2]; THEME=sys.argv[3]
 THEMES={
  'ruins':  dict(OUT=(120,96,54), INN=(176,146,74), GC=(186,172,140), TC=(150,110,50), SH=(176,146,74)),  # oggok sandstone/bronze
@@ -26,7 +26,7 @@ MINX,MAXX,MINY,MAXY=min(xs),max(xs),min(ys),max(ys)
 span=max(MAXX-MINX,MAXY-MINY)
 PAD=max(150,int(span*0.16)); INSET=int(span*0.05); CLEAR=int(span*0.06)
 cv=Canvas((MINX,MAXX,MINY,MAXY),PAD)
-TIN=INSET+CLEAR; SX0=cv.bx0+TIN; SX1=cv.bx1-TIN; SY0=cv.by0+TIN; SY1=cv.by1-TIN
+g0=len(cv.L)                                   # --- grid + frame (knockout range) ---
 STEP=max(120, round(span/8/20)*20)
 gx=math.ceil(MINX/STEP)*STEP
 while gx<MAXX: cv.add(gx,MINY,gx,MAXY,T['GC']); gx+=STEP
@@ -34,8 +34,12 @@ gy=math.ceil(MINY/STEP)*STEP
 while gy<MAXY: cv.add(MINX,gy,MAXX,gy,T['GC']); gy+=STEP
 for a,b,c,d in [(MINX,MINY,MAXX,MINY),(MINX,MAXY,MAXX,MAXY),(MINX,MINY,MINX,MAXY),(MAXX,MINY,MAXX,MAXY)]: cv.add(a,b,c,d,T['GC'])
 frame(cv, outer=T['OUT'], inner=T['INN'], step=max(120,int(span*0.06)), depth=max(30,int(span*0.02)), inset=INSET)
+gf1=len(cv.L)                                  # end of grid+frame
 title(cv, TITLE, T['TC'], shadow=T['SH'], height=max(120,int(span*0.05)))
-CR=max(90,int(span*0.045)); LR=CR*1.25
-compass(cv, SX0+LR, SY1-LR, CR, ring=(T['OUT'],T['INN']), rose=(T['INN'],T['GC']), label=T['OUT'], n_label=T['TC'], arrow=T['TC'])
+title_band_knockout(cv, g0, gf1, pad_x=int(span*0.03), pad_y=int(span*0.05))   # clear grid/border around title
+# compass centered in the bottom-left MARGIN band, sized to fit (offset off the corner)
+band0=INSET; band1=PAD; bc=(band0+band1)/2
+CR=max(70, (band1-band0)/2/1.28*0.66); 
+compass(cv, cv.bx0+bc, cv.by1-bc, CR, ring=(T['OUT'],T['INN']), rose=(T['INN'],T['GC']), label=T['OUT'], n_label=T['TC'], arrow=T['TC'])
 cv.write(f'{ZONE}_2.txt')
 print('%s _2: MARGIN=%d L=%d'%(ZONE, MINX-(cv.bx0+INSET), len(cv.L)))

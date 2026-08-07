@@ -53,7 +53,8 @@ track("windmills",lambda: draw_fit(cv, lambda c: G.windmill_cluster(c,0,0,s=190)
 track("mtn_R",     lambda: draw_fit(cv, lambda c: G.mountain_steam(c,0,0,w=260,h=300), RX, 850, BOX, BOX))
 
 CR=180; LR=CR*1.30
-track("compass", lambda: compass(cv, SX1-LR, SY0+LR, CR,
+band0=INSET; band1=PAD; bc=(band0+band1)/2; CRpad=max(70,(band1-band0)/2/1.28*0.66)
+track("compass", lambda: compass(cv, cv.bx1-bc, cv.by0+bc, CRpad,
         ring=(BR,G.STEEL), rose=(BR,G.BRASS), center=G.cog_motif,
         center_colors=(G.STEEL,G.BRASS), label=BR, n_label=BR, arrow=BR))
 

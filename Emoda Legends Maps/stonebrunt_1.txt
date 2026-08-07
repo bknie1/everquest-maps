@@ -1,0 +1,8 @@
+P 200.0000, -700.0000, -1.0000, 30, 80, 95, 3, Kejek_Village_(merchants+tradeskill+rest)
+P 200.0000, -700.0000, -1.0000, 35, 95, 55, 2, Kejekan_Merchants_(Kejek)
+P -2600.0000, -1200.0000, -1.0000, 150, 0, 200, 3, to_The_Warrens
+P 900.0000, 2600.0000, -1.0000, 30, 80, 95, 3, Mount_Klaw_(Kerran_Village,_north)
+P -1400.0000, 1800.0000, -1.0000, 30, 80, 95, 2, Southern_Kobold_Camps
+P 1600.0000, 900.0000, -1.0000, 30, 80, 95, 2, Kobold_Camps_(east)
+P 0.0000, 0.0000, -1.0000, 110, 0, 60, 3, The_Ancients_(roaming_Titans)
+P -2000.0000, -3200.0000, -1.0000, 30, 80, 95, 2, Granite_Golem_Grounds

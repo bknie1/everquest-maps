@@ -150,6 +150,7 @@ def title(cv, text, color, shadow=None, height=270, gap=44, framed=True,
     """Full-width heading in the top margin (row 0). Auto-scales to fit, drawn flipped.
        Optional `subword` (e.g. 'EAST') is rendered small to the left of `text`.
        `arc` > 0 bows the heading upward in the middle (e.g. a sign over an archway)."""
+    _ti0 = len(cv.L)
     cw = height*0.66
     dcw, dch, dgap, subgap = cw*0.5, height*0.5, gap*0.55, 80
     def group_w():
@@ -177,6 +178,12 @@ def title(cv, text, color, shadow=None, height=270, gap=44, framed=True,
     if framed:
         cv.add(ox-30, fy(oy-46), ox+grp+30, fy(oy-46), shadow or color)
         cv.add(ox-30, fy(oy+height+42), ox+grp+30, fy(oy+height+42), shadow or color)
+    # record title bounding box (for band knockout)
+    tx=[]; ty=[]
+    for ln in cv.L[_ti0:]:
+        f=ln[2:].split(','); tx+=[float(f[0]),float(f[3])]; ty+=[float(f[1]),float(f[4])]
+    cv.title_bbox = (min(tx), max(tx), min(ty), max(ty)) if tx else None
+    cv._title_i = _ti0
 
 
 # ---------------------------------------------------------------- COMPASS
@@ -433,6 +440,21 @@ def solro_temple(cv, cx, cy, w, h, stone=(185,155,95), dark=(120,95,55)):
     cv.add(cx-w*0.8, cy-h*0.85, cx, cy-h*1.12, stone); cv.add(cx, cy-h*1.12, cx+w*0.8, cy-h*0.85, stone)
     sun = [(cx+w*0.18*math.cos(t), cy-h*0.62+w*0.18*math.sin(t)) for t in np.linspace(0, 2*math.pi, 9)]
     for i in range(len(sun)-1): cv.add(*sun[i], *sun[i+1], dark)
+
+def kobold_motif(cv, cx, cy, s, body, legs):
+    """Kobold face — pointed snout, ears, eyes, fangs (for compass center / margin)."""
+    cv.add(cx-s*0.5,cy-s*0.2,cx,cy+s*0.75,body); cv.add(cx+s*0.5,cy-s*0.2,cx,cy+s*0.75,body)
+    cv.add(cx-s*0.5,cy-s*0.2,cx+s*0.5,cy-s*0.2,body)              # brow
+    cv.add(cx-s*0.5,cy-s*0.2,cx-s*0.8,cy-s*0.95,legs); cv.add(cx-s*0.8,cy-s*0.95,cx-s*0.18,cy-s*0.5,legs)  # L ear
+    cv.add(cx+s*0.5,cy-s*0.2,cx+s*0.8,cy-s*0.95,legs); cv.add(cx+s*0.8,cy-s*0.95,cx+s*0.18,cy-s*0.5,legs)  # R ear
+    cv.add(cx-s*0.28,cy+s*0.02,cx-s*0.1,cy+s*0.02,legs); cv.add(cx+s*0.1,cy+s*0.02,cx+s*0.28,cy+s*0.02,legs) # eyes
+    cv.add(cx-s*0.14,cy+s*0.42,cx-s*0.14,cy+s*0.62,legs); cv.add(cx+s*0.14,cy+s*0.42,cx+s*0.14,cy+s*0.62,legs) # fangs
+
+def peak_motif(cv, cx, cy, s, c1, c2=None):
+    """Small mountain peak with a snow cap."""
+    c2=c2 or c1
+    cv.add(cx-s,cy+s*0.6,cx,cy-s,c1); cv.add(cx+s,cy+s*0.6,cx,cy-s,c1); cv.add(cx-s,cy+s*0.6,cx+s,cy+s*0.6,c1)
+    cv.add(cx-s*0.32,cy-s*0.15,cx,cy-s,c2); cv.add(cx+s*0.32,cy-s*0.15,cx,cy-s,c2)   # snow cap
 
 def flame_motif(cv, cx, cy, s, body, legs):
     """Compass center motif: a flame (for fire zones)."""
@@ -729,6 +751,20 @@ def knockout(cv, i0, i1, title_segments, pad=22, cell=7):
                 run=(run[0],run[1],px,py) if run else (px,py,px,py)
         if run: out.append("L %.4f, %.4f, %s, %.4f, %.4f, %s, %s, %s, %s"%(run[0],run[1],z1,run[2],run[3],z2,r,g,b))
     cv.L = cv.L[:i0] + out + cv.L[i1:]
+
+def title_band_knockout(cv, i0, i1, pad_x=60, pad_y=70):
+    """Remove any segments in cv.L[i0:i1] whose midpoint falls inside the title band
+    (title bbox expanded by pad). Clears grid/border ABOVE, BELOW and behind the title so it
+    sits on clean parchment. Call AFTER grid+frame are drawn and title bbox recorded."""
+    bb=getattr(cv,'title_bbox',None)
+    if not bb: return
+    x0,x1,y0,y1=bb[0]-pad_x,bb[1]+pad_x,bb[2]-pad_y,bb[3]+pad_y
+    keep=[]
+    for ln in cv.L[i0:i1]:
+        f=ln[2:].split(','); mx=(float(f[0])+float(f[3]))/2; my=(float(f[1])+float(f[4]))/2
+        if x0<=mx<=x1 and y0<=my<=y1: continue   # drop: inside title band
+        keep.append(ln)
+    cv.L = cv.L[:i0] + keep + cv.L[i1:]
 
 # ---------------- POI cell-sketch allocators (restored) ----------------
 def caption(cv, text, cx, cy, height=80, color=(60,50,40), gap=None):
