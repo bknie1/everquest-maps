@@ -111,14 +111,31 @@ decoration set across Antonica, Odus, Faydwer, and the planes, plus EQOA easter-
 layers on the 22+ outdoor zones. The featured write-ups below cover a few zones in depth;
 the rest follow the same conventions.
 
-| Zone | Region | Theme | Status |
-|------|--------|-------|--------|
-| Toxxulia Forest | Odus | Kerra Isle | Complete |
-| Paineel | Odus | Evil Erudite City | Complete |
-| The Warrens | Odus | Kobold Cavern | Complete |
-| New Sebilis (Expedition) | Antonica | Elddar Era Civilization Remnant | Complete |
-| Lavastorm | Antonica | Volcanic / Fire | Complete |
-| Blackburrow | Antonica | Gnoll Warren | Complete |
+✳ = carries an EQOA easter-egg `_3` layer.
+
+**Antonica** — 52 zones
+
+Befallen · Blackburrow · Cazic-Thule · East Commonlands ✳ · East Freeport · East Karana ✳ · Estate of Unrest · Everfrost Peaks ✳ · Freeport Sewers · Gorge of King Xorbb · Grobb · Halas · High Keep · Highpass Hold ✳ · Innothule Swamp ✳ · Kithicor Forest ✳ · Lake Rathetear ✳ · Lavastorm Mountains ✳ · Lower Guk · Misty Thicket ✳ · Nagafen's Lair (Sol B) · Najena · Nektulos Forest ✳ · Neriak — Commons · Neriak — Foreign Quarter · Neriak — Third Gate · North Freeport · North Karana ✳ · North Qeynos · Northern Desert of Ro ✳ · Oasis of Marr ✳ · Ocean of Tears · Oggok · Permafrost Keep · Qeynos Catacombs · Qeynos Hills ✳ · Rathe Mountains ✳ · Rivervale ✳ · Runnyeye · Solusek's Eye (Sol A) · Solusek's Eye (lower) · South Karana ✳ · South Qeynos · Southern Desert of Ro ✳ · Splitpaw Lair · Surefall Glade ✳ · Temple of Solusek Ro · The Feerrott ✳ · Upper Guk · West Commonlands ✳ · West Freeport · West Karana ✳
+
+**Odus** — 9 zones
+
+Erud's Crossing · Erudin · Erudin Palace · Kerra Isle · Paineel · Stonebrunt Mountains ✳ · The Hole · The Warrens · Toxxulia Forest ✳
+
+**Faydwer** — 13 zones
+
+Ak'Anon · Butcherblock Mountains · Castle Mistmoore · Crushbone · Dagnor's Cauldron · Greater Faydark · Kedge Keep · Lesser Faydark · North Kaladim · Northern Felwithe · South Kaladim · Southern Felwithe · Steamfont Mountains
+
+**Planes** — 4 zones
+
+Plane of Fear · Plane of Hate · Plane of Hate (lower) · Plane of Sky
+
+**Custom** — 1 zone
+
+New Sebilis (Expedition)
+
+### Featured zones — detailed treatment
+
+A few zones received special base/decoration work worth documenting:
 
 ### Toxxulia Forest — *Complete*
 Stylized forest atlas. Decoration finalized: rounded and angular hills with S-curve slope
