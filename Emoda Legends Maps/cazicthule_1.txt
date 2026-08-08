@@ -1,0 +1,5 @@
+P 66, -27, 0, 150, 0, 200, 3, to_The_Feerrott
+P -124.9550, -155.0438, -1.0000, 110, 0, 60, 3, Cazic_Thule_(Avatar_of_Fear,_boss)
+P -124.9550, -481.3940, -1.0000, 30, 80, 95, 3, Lizardman_Temple_Halls
+P -269.2960, -778.0760, -1.0000, 150, 90, 40, 2, Idol_of_the_Thorned_(named)
+P -124.9550, -629.7350, -1.0000, 110, 0, 60, 2, Lord_Klard_Sotur_(named)

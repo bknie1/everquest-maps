@@ -24,6 +24,7 @@ Each zone is drawn as up to three stacked layers that the client overlays:
 | `zonename.txt`   | **base**       | The zone wall geometry. Some zones ship a **recolored** base (tinted by area or by floor, water shaded). |
 | `zonename_1.txt` | **markers**    | Color-coded POI: NPCs, vendors, quest givers, exits, danger flags. |
 | `zonename_2.txt` | **decoration** | Border, grid, title, compass, and themed margin sketches. |
+| `zonename_3.txt` | **extra**      | Optional overflow/effect layer (e.g. Lavastorm vents) **and EQOA easter-egg labels** — see below. |
 
 **Format:** EQ native L/P line format with **mandatory CRLF (`\r\n`) line endings**.
 
@@ -49,6 +50,28 @@ draws twice. Always keep a backup of the original base.
 | Purple | Dangerous high-level NPCs / bosses |
 
 (Individual zones tune this slightly to fit their content.)
+
+---
+
+## EQOA easter-egg labels (`_3`)
+
+EverQuest Online Adventures (EQOA / *Tunaria*) is set ~500 years before EverQuest on the
+same continents, so it names hundreds of places the sparse EQ1 zone map never labels. The
+`_3` layer sprinkles a curated handful of these onto each outdoor zone as muted-violet
+side-labels — easter eggs for players who know the old world — never crammed, 1–3 per zone.
+
+- **Coverage:** every outdoor Antonica **and** Odus zone (Everfrost, the four Karanas,
+  Misty Thicket, Rivervale, Kithicor, both Commonlands, Nektulos, Lavastorm, both Ros,
+  Oasis, Innothule, Feerrott, the Rathe zones, Surefall Glade, Toxxulia, Stonebrunt, …) —
+  22+ zones in all. Cities and dungeons are skipped (their EQOA name *is* the zone name);
+  Faydwer gets nothing (it was never in EQOA).
+- **Sourcing & placement:** labels come from the EQOA/Tunaria & Odus world maps, verified
+  for spelling against the canonical zone list at `wiki.eqoa.live`. Because EQOA’s
+  coordinate space does **not** map to EQL geometry, each label is placed by **matching the
+  terrain by eye**, not by transformed coordinates — so it sits where the geography says it
+  should. Positions are deliberate approximations; nudge in-game to taste.
+- **Style:** muted violet `(150, 90, 150)`, size-3 text, each with a small diamond cairn
+  doodle. **Appended** to any existing `_3` content — never overwriting prior layers.
 
 ---
 
@@ -82,6 +105,11 @@ draws twice. Always keep a backup of the original base.
 ---
 
 ## Zone catalog
+
+**Status — the classic atlas is complete.** All **79 zones** ship a full base + markers +
+decoration set across Antonica, Odus, Faydwer, and the planes, plus EQOA easter-egg `_3`
+layers on the 22+ outdoor zones. The featured write-ups below cover a few zones in depth;
+the rest follow the same conventions.
 
 | Zone | Region | Theme | Status |
 |------|--------|-------|--------|
@@ -136,3 +164,14 @@ Three-floor gnoll warren (ravine on top, cave systems below, a deep underground 
 - **23 POI**, each floor-tagged (e.g. `[F3-9]`) with Z sampled within its own floor band;
   bosses (Lord Elgnub, Sabertooth Overseer, Sharpshooter) as purple stars, the Everfrost
   zone-in placed from the in-game `/loc`.
+
+---
+
+## Reference sources
+
+- **EQOA / Tunaria & Odus world maps** — geography and place names for the `_3` layer.
+- **`wiki.eqoa.live`** (EQOA: Sandstorm wiki) — canonical EQOA zone/POI name list, used to
+  verify label spellings (caught e.g. *Box Canyons*, *Bobble-by-Water*, *Muniel’s Tea
+  Garden*, *Mount Hatespike*).
+- **EQL wiki / Project 1999 / the EverQuest Locations Key** — EQ1 zone connections, named
+  NPCs (with levels), and landmark `/loc`s for the `_1` marker layer.

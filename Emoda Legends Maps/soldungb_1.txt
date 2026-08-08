@@ -1,0 +1,10 @@
+P 350.0000, 120.0000, -1.0000, 150, 0, 200, 3, to_Lavastorm_(entrance)
+P -200.0000, 700.0000, -1.0000, 150, 0, 200, 3, to_Soluseks_Eye_(Sol_A)
+P 400.0000, 220.0000, -1.0000, 30, 80, 95, 3, Kobold_Entrance_Caverns
+P 200.0000, 560.0000, -1.0000, 30, 80, 95, 3, Kobold_King_Room_(Targin_the_Rock)
+P 520.0000, 880.0000, -1.0000, 150, 90, 40, 2, Efreeti_Lord_Djarn_(Golden_Efreeti_Boots)
+P 300.0000, 1120.0000, -1.0000, 30, 80, 95, 3, Fire_Giant_Halls
+P 300.0000, 1240.0000, -1.0000, 110, 0, 60, 2, Magi_Rokyl_(Channelling_Crystal)
+P 360.0000, 1440.0000, -1.0000, 110, 0, 60, 3, Lord_Nagafen_(RED_DRAGON_RAID_BOSS)
+P 600.0000, 760.0000, -1.0000, 110, 0, 60, 2, Stone_Spider_(45)
+P 150.0000, 900.0000, -1.0000, 30, 80, 95, 2, Voidling_(hail_for_Raid_instance)

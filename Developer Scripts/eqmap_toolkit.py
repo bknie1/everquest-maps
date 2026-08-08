@@ -456,6 +456,47 @@ def peak_motif(cv, cx, cy, s, c1, c2=None):
     cv.add(cx-s,cy+s*0.6,cx,cy-s,c1); cv.add(cx+s,cy+s*0.6,cx,cy-s,c1); cv.add(cx-s,cy+s*0.6,cx+s,cy+s*0.6,c1)
     cv.add(cx-s*0.32,cy-s*0.15,cx,cy-s,c2); cv.add(cx+s*0.32,cy-s*0.15,cx,cy-s,c2)   # snow cap
 
+def redwood(cv, cx, cy, R, bark, ring, core):
+    """Massive redwood trunk cross-section (viewed from above - can't see the top).
+    Filled disc with concentric tree-rings."""
+    import math
+    for rr in range(int(R), 2, -3):
+        col = core if rr < R*0.35 else (ring if (rr//3)%2 else bark)
+        pts=[]
+        for a in range(0,360,20):
+            pts.append((cx+rr*math.cos(math.radians(a)), cy+rr*math.sin(math.radians(a))))
+        for i in range(len(pts)):
+            x1,y1=pts[i]; x2,y2=pts[(i+1)%len(pts)]; cv.add(x1,y1,x2,y2,col)
+    # radial cracks
+    for a in range(0,360,60):
+        cv.add(cx,cy,cx+R*0.9*math.cos(math.radians(a)),cy+R*0.9*math.sin(math.radians(a)),ring)
+
+def dark_tree(cv, cx, cy, s, canopy, trunk):
+    """Small dark forest tree (canopy dot + trunk)."""
+    import math
+    for rr in (s, s*0.6):
+        pts=[(cx+rr*math.cos(math.radians(a)), cy+rr*math.sin(math.radians(a))) for a in range(0,360,30)]
+        for i in range(len(pts)):
+            cv.add(pts[i][0],pts[i][1],pts[(i+1)%len(pts)][0],pts[(i+1)%len(pts)][1],canopy)
+    cv.add(cx,cy+s,cx,cy+s*1.6,trunk)
+
+def spike_rock(cv, cx, cy, s, c1, c2=None):
+    """Jagged spiky rock cluster — a few sharp triangular shards."""
+    c2=c2 or c1; import random as _r; rng=_r.Random(int(cx*7+cy*13))
+    for _ in range(rng.randint(2,4)):
+        bx=cx+rng.uniform(-s*0.6,s*0.6); h=s*rng.uniform(0.8,1.5); w=s*rng.uniform(0.25,0.5)
+        cv.add(bx-w,cy+s*0.3,bx,cy-h,c1); cv.add(bx+w,cy+s*0.3,bx,cy-h,c1)
+        cv.add(bx-w,cy+s*0.3,bx+w,cy+s*0.3,c2)
+
+def steam_vent(cv, cx, cy, s, rock, steam):
+    """A fumarole: small rock ring with wavy steam rising."""
+    cv.add(cx-s*0.5,cy+s*0.25,cx-s*0.3,cy,rock); cv.add(cx-s*0.3,cy,cx+s*0.3,cy,rock)
+    cv.add(cx+s*0.3,cy,cx+s*0.5,cy+s*0.25,rock); cv.add(cx-s*0.5,cy+s*0.25,cx+s*0.5,cy+s*0.25,rock)
+    for dx in (-s*0.18, s*0.12):                      # two wavy steam wisps
+        cv.add(cx+dx,cy-s*0.05,cx+dx-s*0.15,cy-s*0.5,steam)
+        cv.add(cx+dx-s*0.15,cy-s*0.5,cx+dx+s*0.1,cy-s*0.95,steam)
+        cv.add(cx+dx+s*0.1,cy-s*0.95,cx+dx-s*0.08,cy-s*1.35,steam)
+
 def flame_motif(cv, cx, cy, s, body, legs):
     """Compass center motif: a flame (for fire zones)."""
     cv.add(cx, cy+s*0.7, cx-s*0.4, cy, body); cv.add(cx-s*0.4, cy, cx, cy-s*0.8, body)

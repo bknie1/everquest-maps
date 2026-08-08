@@ -1,0 +1,6 @@
+P -93.3732, -60.4089, -0.8014, 150, 0, 200, 3, to_Highpass_Hold
+P -92.7729, 90.7294, -0.8014, 150, 0, 200, 3, to_Highpass_Hold
+P 40.0000, 20.0000, 0.0000, 30, 80, 95, 2, Guard_Barracks_(approx)
+P 300.0000, 40.0000, 0.0000, 30, 80, 95, 2, Kings_Chamber_(approx)
+P 480.0000, -80.0000, 0.0000, 110, 0, 60, 3, Pickclaw_Goblins_(mines_below_approx)
+P 120.0000, -120.0000, 0.0000, 110, 0, 60, 3, Giant_Dungeon_(below_approx)

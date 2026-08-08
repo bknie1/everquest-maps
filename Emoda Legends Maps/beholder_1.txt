@@ -1,0 +1,7 @@
+P 475, 1210, 31.2820, 150, 0, 200, 3, to_The_Eastern_Plains_of_Karana
+P 1837.0751, -902.7319, 1.6259, 150, 0, 200, 3, to_The_Liberated_Citadel_of_Runnyeye
+P -600.0000, 500.0000, 0.0000, 30, 80, 95, 2, Xorbbs_Altar_/_Kings_Throne
+P -600.0000, 500.0000, 0.0000, 110, 0, 60, 3, King_Xorbb_(Evil_Eye_BOSS_~35)
+P -642.0000, 480.0000, 0.0000, 150, 90, 40, 3, Sviir_and_Syrkl_(Xorbbs_Lords)
+P 300.0000, 1000.0000, 0.0000, 30, 80, 95, 2, Goblin_Lookouts_(approx)
+P 750.0000, 150.0000, 0.0000, 30, 80, 95, 2, Minotaur_and_Muddite_Camp_(approx)
