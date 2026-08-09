@@ -55,24 +55,42 @@ draws twice. Always keep a backup of the original base.
 
 ## EQOA easter-egg labels (`_3`)
 
-EverQuest Online Adventures (EQOA / *Tunaria*) is set ~500 years before EverQuest on the
-same continents, so it names hundreds of places the sparse EQ1 zone map never labels. The
-`_3` layer sprinkles a curated handful of these onto each outdoor zone as muted-violet
-side-labels — easter eggs for players who know the old world — never crammed, 1–3 per zone.
+EverQuest Online Adventures — the **Age of Adventure** — is set ~500 years before
+EverQuest on the same continents (Antonica **and** Odus), so it names hundreds of places
+EQ1 never labels. The `_3` layer sprinkles them on in muted violet. Faydwer gets nothing:
+it was never in EQOA.
 
-- **Coverage:** every outdoor Antonica **and** Odus zone (Everfrost, the four Karanas,
-  Misty Thicket, Rivervale, Kithicor, both Commonlands, Nektulos, Lavastorm, both Ros,
-  Oasis, Innothule, Feerrott, the Rathe zones, Surefall Glade, Toxxulia, Stonebrunt, …) —
-  22+ zones in all. Cities and dungeons are skipped (their EQOA name *is* the zone name);
-  Faydwer gets nothing (it was never in EQOA).
-- **Sourcing & placement:** labels come from the EQOA/Tunaria & Odus world maps, verified
-  for spelling against the canonical zone list at `wiki.eqoa.live`. Because EQOA’s
-  coordinate space does **not** map to EQL geometry, each label is placed by **matching the
-  terrain by eye**, not by transformed coordinates — so it sits where the geography says it
-  should. Positions are deliberate approximations; nudge in-game to taste.
-- **Style:** muted violet `(150, 90, 150)`, size-3 text, each with a small diamond cairn
-  doodle. **Appended** to any existing `_3` content — never overwriting prior layers.
+**25 on-map diamonds · 283 margin signposts · 32 zones.**
 
+Every name resolves one of four ways:
+
+| Case | Treatment |
+|---|---|
+| Terrain that persists (plains, valleys, hills, canyons, coasts) | on-map **diamond** |
+| A real EQ1 feature sits there | on-map **diamond, snapped onto that feature** |
+| Off-map, or nothing there to see | **margin signpost** `← To X`, sized by distance |
+| Not in the game at all | dropped |
+
+The hard test is simple: **if you walk to a diamond there must be something there.** An
+empty field means it should have been a signpost — that test demoted 45 of the original 69.
+
+- **Signpost sizing** — near = large (size 4), mid = 3, far = 2, so the arrows convey
+  distance. Max 3 per compass direction, ≤12 per map. Broad geography never crowds out
+  the characterful specific places.
+- **Placement** — exact transformed `/loc` (`native = (-loc2, -loc1)`) where a real feature
+  exists; otherwise matched to the terrain by eye, since EQOA's coordinate space does not
+  map to EQL geometry.
+- **Style** — muted violet `(150, 90, 150)`, narrow diamond markers, **appended** to any
+  existing `_3` content (e.g. Lavastorm's vents) rather than overwriting it.
+- **Names** verified against the canonical zone index at `wiki.eqoa.live`.
+- **Modern context** — EQOA cities are ruins five centuries on: *Ruins of Klik'Anon*,
+  *Ruins of Fayspire*, *Ruins of Moradhim*, *Old Arcadin*, *Old Rogue Clockworks*.
+- **Lavastorm** lies inside EQOA's **NE Mountain Boundary** — never a playable EQOA zone,
+  so it carries signposts and a boundary marker only.
+
+See `EQOA_alignment_report.md` and `_age_of_adventure_alignment.png`.
+
+> **Orientation:** these maps are north-up in game.
 ---
 
 ## Coordinate & build methodology

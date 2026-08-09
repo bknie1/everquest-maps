@@ -1,498 +1,576 @@
-# EQOA → EQ1 Alignment Report
-### Proposed `_3` easter-egg layer — for review before build
+# EQOA "Age of Adventure" Layer — Final Report
 
-**Totals:** 74 on-map diamonds · 48 margin signposts · across 25 Antonica + 7 Odus zones.
+**25 on-map diamonds · 283 margin signposts · 32 zones**
 
-Companion images:
-- `_alignment_antonica_eq1.png` — labels keyed onto the EQ1 Antonica zone map
-- `_alignment_odus_eq1.png` — same for Odus
-- `_tunaria_hypothetical_zone_map.png` — EQOA-only areas drawn as *proposed future zones* on the classic connection graph
+Reference image: `_age_of_adventure_alignment.png`
 
 ---
 
-## 1. Method — the three fates
+## The rule that decides every name
 
-Every EQOA place resolves to exactly one treatment, decided by where it sits relative to the EQ1 zone being drawn:
+EQOA (the Age of Adventure) is set ~500 years before EverQuest on the same continents,
+so it names hundreds of places EQ1 never labels. Each name resolves one of four ways:
 
-| Case | Representation |
+| Case | Treatment |
 |---|---|
-| Inside the matching EQ1 zone | on-map **narrow diamond** + label |
-| In an adjacent area with **no EQ1 zone** | **margin signpost** — `← To X` arrow pointing its way |
+| Terrain that persists — plains, valleys, hills, canyons, coasts | **on-map diamond** (the terrain *is* the thing) |
+| A real EQ1 feature sits at the spot | **on-map diamond, snapped onto that feature** |
+| Anything else — off-map, or nothing there to see | **margin signpost**, sized by distance |
 | Not in the game at all | dropped |
 
-Workflow: overlay the EQ1 zone footprints on the EQOA world map, key every place as diamond or arrow, **rule the arrows out first** — what remains are the on-map candidates.
+The hard test: *if you walk to a diamond, there must be something there.* An empty field
+means it should have been a signpost. That test demoted 45 of my original 69 diamonds.
 
-**Placement.** Where an EQOA name matches a real EQ1 feature with a known `/loc`, the diamond goes on the **exact transformed loc** (`native = (-loc2, -loc1)`). Otherwise it's placed by **matching the terrain by eye** — EQOA's coordinate space doesn't map to EQL geometry, so a guesstimate on the right ground is the correct method, not a shortcut.
+**Signpost sizing** — near = large (size 4), mid = medium (3), far = small (2), so the
+arrows themselves convey distance. At most 3 per compass direction, ≤12 per map, and
+broad geography never crowds out the characterful specific places.
 
-## 2. Rendering changes in this pass
+**Names** are verified against the canonical zone index at `wiki.eqoa.live`.
+Corrections this pass included Castle **Felstar**, **Moradhim**, **Zentar's** Keep,
+**Crethly** Manor, Diren **Village**, **Gerntar's** Mines, Basher's **Cave**,
+**Mt.** Hatespike, Tomb City of **Envar**, **Syhilthis'** Dwell, The **Vastly** Deep,
+Stone of **Morthalis**, and **Hodstock / Temby**. Also: there is no "North Toxxulia"
+(only West/East/South), Fayspire and Tethelin are a **single** zone, and EQOA calls
+Erud's Crossing **"Edud's Crossing"**.
 
-- **Diamonds are 25% smaller** than the previous pass, so the layer can stay toggled **on full-time** rather than flipped on when needed.
-- **Size tiers** carry hierarchy — Large (4) cities/forts/iconic, Medium (3) villages/named landmarks, Small (2) ruins/remnants/camps. The diamond scales with the tier too.
-- **Density raised** to roughly one label per cardinal direction (6–9 on big outdoor zones) instead of the earlier cap of 3. Memorable ruins and remnants are explicitly included.
+**Modern context** — EQOA cities are ruins five centuries on: *Ruins of Klik'Anon*,
+*Ruins of Fayspire*, *Ruins of Moradhim*, *Old Arcadin*, *Old Rogue Clockworks*.
 
-## 3. Key findings
-
-1. **Lavastorm was never an EQOA zone.** On the EQOA world map "Lavastorm" is printed inside the grey **NE Mountain Boundary** band, not in a playable colored region. It gets a **boundary marker + signposts only — no on-map diamonds.** This validates the "Age of Adventure boundary" framing.
-2. **Klik'Anon ≠ Ak'Anon.** Klik'Anon is the EQOA gnome city in the northeast; EQ1's Ak'Anon is its Faydwer cousin. Signposts read **"To Klik'Anon."** (Nothing was ever written to a map file under the wrong name.)
-3. **Arcadin is pre-rebuild Erudin**, so it appears as a lore signpost `← To Old Arcadin`, never as a current place. **East Plateau** is dropped entirely (not in the game).
-4. **West Toxxulia is not in EQ1.** The EQ1 zone covers **South Toxxulia** plus a strip of **North Toxxulia**; West/East Toxxulia become signposts.
-5. **Name corrections** verified against `wiki.eqoa.live`: Box Canyons (not Fox), Bobble-by-Water, Muniel's Tea Garden, Mount Hatespike, Al Farak Ruins, South Crossroads (the EQOA name; "Fort Solitude" is the EQ1 label).
-6. **Orientation:** these maps are **north-up in game.** Earlier previews rendered vertically flipped, which is why titles looked upside-down — a render artifact, now fixed.
-
-## 4. Revisions from your review notes
-
-**a. "On the way" signposts — the density mismatch.** EQ1 zones are *slices* of the EQOA world; EQOA is far denser. So a place can be genuinely absent from every EQ1 zone yet still sit meaningfully between two of them. Those become **paired signposts** pointing opposite directions from each neighbour, which conveys the distance:
-
-| Place | From | Direction |
-|---|---|---|
-| Kerplunk Outpost | Innothule Swamp | ← W |
-| Kerplunk Outpost | The Feerrott | → E |
-
-The pair brackets it, so a player reading either map understands something lies between. Same principle drives the new Odus sea signposts.
-
-**b. Odus rebuilt.** Stonebrunt runs down the **middle** of Odus, which means the Barren Coast, Cape Dreg and the Vasty Deep all lie **east of its in-game footprint** — every one becomes a signpost, not an on-map label. Added:
-
-| Zone | Signposts |
-|---|---|
-| Erudin | ← Old Arcadin (SE), ← Grand Plateau (NW) |
-| Toxxulia Forest | ← Old Arcadin (NE), ← West Toxxulia (NW), ← Grand Plateau (N) |
-| Kerra Isle | ← The Abysmal Sea (W) |
-| Paineel | ← The Abysmal Sea (W) |
-| The Warrens | ← Gulf of Uzun (S) |
-| Erud's Crossing | ← The Vasty Deep (SE) |
-
-The Erudin SE arrow deliberately mirrors Toxxulia's NE arrow — the two point at the same place from opposite sides. **The Hole is dropped**: it didn't exist in the EQOA era.
-
-**c. Curving paths.** The connection graph and the physical map genuinely disagree in places — Feerrott connects to Oggok on its *north* side even though Oggok sits east, almost back the way you came from Innothule. The compass is never contradicted: if the game says north, the signpost says north. Where the route bends, the direction gets a parenthetical, e.g. **`To Oggok (NE — path curves back W)`**, so the map admits the invisible path rather than looking wrong.
-
-**d. Nektulos — Leatherfoot Camp `/loc` bug found.** Your reading (`106.22, 560.77`) transforms to native **(-560.77, -106.22)**. The stored Captain marker was at **(-560, -1016)** — X matched to within a unit, Y was off by ~910, a digit-transcription error. Corrected the Captain to your exact loc and shifted the Deputy and Sergeant by the same delta to preserve the camp's shape. They now sit beside the Leatherfoot Medic (y ≈ -58), which corroborates the fix. **This is an EQ1 POI (`_1` layer), not an EQOA label.**
+**Lavastorm** sits inside EQOA's grey **NE Mountain Boundary**, so it was never a
+playable EQOA zone. It carries signposts and a boundary marker only — no diamonds.
 
 ---
 
-## 5. The EQOA-style grid  (`_norrath_eqoa_grid.png`)
+## Per zone
 
-Your cell approach translated to a full canvas: every EQ1 zone as a cell, gaps filled with EQOA names and your suggested names, so the naming space for future zones is visible at a glance.
 
-- **147 cells** — 35 EQ1 zones · 10 dungeons · 20 suggested gap names · 77 EQOA names · 3 water · Lavastorm (boundary) · The Hole (didn't exist yet).
-- **Dungeons are drawn as short cells.** They sit under or beside a zone, so they shouldn't consume surface real estate — Permafrost, Blackburrow, Runnyeye, Splitpaw, Befallen, Arena, Guk, Cazic Thule, Najena, the Warrens.
-- **Cell adjacency is geographic, not connective.** Two touching cells are neighbours in space; the EQ1 zone links laid over that can curve (see 4c).
+### beholder
+
+| On map | Size |
+|---|---|
+| ◆ Bandit Hills | small |
+
+| Signpost | Size |
+|---|---|
+| ← To Baga Village | medium |
+| ← To Bastable Village | medium |
+| ← To Blackburrow | medium |
+| ← To Castle Felstar | medium |
+| ← To Highpass Hold | large |
+| ← To Merry-by-Water | large |
+| ← To Misty Thicket | medium |
+| ← To Rivervale | medium |
+| ← To Strag's Rest | medium |
+| ← To Trail's End | medium |
+
+### blackburrow
+
+| Signpost | Size |
+|---|---|
+| ← To Al-Karad Ruins | medium |
+| ← To Alseop's Wall | medium |
+| ← To Baga Village | medium |
+| ← To Blakedown | medium |
+| ← To Jaggedpine | medium |
+| ← To Jared's Blight | large |
+| ← To Merry-by-Water | large |
+| ← To Mt. Hatespike | medium |
+| ← To Spirit Talker's Wood | medium |
+| ← To Strag's Rest | medium |
+| ← To Wymondham | large |
+
+### cazicthule
+
+| Signpost | Size |
+|---|---|
+| ← To Dinbak | medium |
+| ← To Elephant Graveyard | medium |
+| ← To Gerntar's Mines | medium |
+| ← To Kerplunk Outpost | medium |
+| ← To Moggok Gate | medium |
+| ← To Oggok | medium |
+| ← To Oggok Gate | large |
+| ← To Stone Watchers | medium |
+| ← To Tak'Xiz South | medium |
+| ← To West Feerrott | small |
+
+### commons
+
+| On map | Size |
+|---|---|
+| ◆ Desert Hate | small |
+
+| Signpost | Size |
+|---|---|
+| ← To Bastable Village | large |
+| ← To Castle Felstar | large |
+| ← To Deathfist Citadel | medium |
+| ← To Deathfist Forge | large |
+| ← To Ferran's Hope | large |
+| ← To Highpass Hold | medium |
+| ← To Moss Mouth Cavern | medium |
+| ← To Runnyeye | medium |
+| ← To Tomb of Kings | large |
+| ← To Trail's End | medium |
+
+### eastkarana
+
+| On map | Size |
+|---|---|
+| ◆ The Green Rift | small |
+
+| Signpost | Size |
+|---|---|
+| ← To Bastable Village | medium |
+| ← To Castle Felstar | medium |
+| ← To Deathfist Forge | medium |
+| ← To Freeport | medium |
+| ← To Moss Mouth Cavern | large |
+| ← To Mu Lin's Reach | large |
+| ← To North Kithicor | medium |
+| ← To Rivervale | medium |
+| ← To Temple of Light | large |
+| ← To Tomb of Kings | medium |
+
+### ecommons
+
+| Signpost | Size |
+|---|---|
+| ← To Bastable Village | medium |
+| ← To Castle Felstar | medium |
+| ← To Deathfist Forge | medium |
+| ← To Hodstock / Temby | medium |
+| ← To Moss Mouth Cavern | medium |
+| ← To Mu Lin's Reach | large |
+| ← To Muniel's Tea Garden | medium |
+| ← To Northwestern Ro | large |
+| ← To Saerk Towers | large |
+| ← To Tomb of Kings | medium |
+
+### erudnext
+
+| Signpost | Size |
+|---|---|
+| ← To East Plateau | medium |
+| ← To Edud's Crossing | medium |
+| ← To Old Arcadin | large |
+| ← To Syhilthis' Dwell | small |
+| ← To West Plateau | large |
+
+### erudsxing
+
+| Signpost | Size |
+|---|---|
+| ← To East Plateau | medium |
+| ← To North Barren Coast | medium |
+| ← To The Vastly Deep | large |
+
+### everfrost
+
+| On map | Size |
+|---|---|
+| ◆ Snowblind Plains | medium |
+| ◆ Frosteye Valley | medium |
+| ◆ Snowfist | small |
+
+| Signpost | Size |
+|---|---|
+| ← To Anu Village | large |
+| ← To Diren Village | medium |
+| ← To Gramash Ruins | medium |
+| ← To Ruins of Fayspire | medium |
+| ← To Salisearaneen | medium |
+| ← To Tethelin Forest | medium |
+| ← To The Frigid Plain | small |
+| ← To The Hatchland | medium |
+| ← To The Nest | medium |
+| ← To The Northlands | medium |
+| ← To Unkempt North | large |
+| ← To Zentar's Keep | medium |
+
+### feerrott
+
+| On map | Size |
+|---|---|
+| ◆ West Feerrott | medium |
+| ◆ Dead Hills | small |
+
+| Signpost | Size |
+|---|---|
+| ← To Buried Sea | medium |
+| ← To Fort Alliance | medium |
+| ← To Geomancer's Pass | medium |
+| ← To Gerntar's Mines | medium |
+| ← To Moggok Gate | large |
+| ← To Oggok Gate | medium |
+| ← To Ogre Ruins | large |
+| ← To Sphinx Pyramid | medium |
+| ← To The Feerrott (North) | large |
+| ← To Tomb City of Envar | large |
+
+### highpass
+
+| On map | Size |
+|---|---|
+| ◆ Bastable Village | medium |
+
+| Signpost | Size |
+|---|---|
+| ← To Castle Felstar | large |
+| ← To Deathfist Forge | medium |
+| ← To Ferran's Hope | large |
+| ← To Merry-by-Water | medium |
+| ← To Moss Mouth Cavern | medium |
+| ← To Rivervale | medium |
+| ← To Runnyeye | large |
+| ← To Strag's Rest | medium |
+| ← To Tomb of Kings | medium |
+| ← To Trail's End | large |
+
+### innothule
+
+| On map | Size |
+|---|---|
+| ◆ Lake Noregard | small |
+
+| Signpost | Size |
+|---|---|
+| ← To Ant Colonies | medium |
+| ← To Broken Skull Rock | large |
+| ← To Dinbak | large |
+| ← To Elephant Graveyard | medium |
+| ← To Gulf of Gunthak | medium |
+| ← To Kerplunk Outpost | medium |
+| ← To Stone Watchers | medium |
+| ← To Tak'Xiv West | medium |
+| ← To Tak'Xiz South | medium |
+| ← To Takish'Hiz | large |
+
+### kerraridge
+
+| Signpost | Size |
+|---|---|
+| ← To Abysmal Sea | large |
+| ← To The Hunt | small |
+| ← To West Toxxulia | medium |
+
+### kithicor
+
+| On map | Size |
+|---|---|
+| ◆ North Kithicor | medium |
+| ◆ The Green Rift | small |
+
+| Signpost | Size |
+|---|---|
+| ← To Bobble-by-Water | medium |
+| ← To Collinridge Cemetery | medium |
+| ← To Kara Village | medium |
+| ← To Moss Mouth Cavern | medium |
+| ← To Mu Lin's Reach | large |
+| ← To Neriak | medium |
+| ← To Rivervale | medium |
+| ← To Ruins of Klik'Anon | medium |
+| ← To Saerk Towers | medium |
+| ← To Thedruk | medium |
+
+### lakerathe
+
+| Signpost | Size |
+|---|---|
+| ← To Cyclops's Fortress | large |
+| ← To Fort Alliance | large |
+| ← To Geomancer's Citadel | medium |
+| ← To Geomancer's Pass | medium |
+| ← To Kelinar | medium |
+| ← To Ogre Ruins | large |
+| ← To Sphinx Pyramid | large |
+| ← To The Feerrott (North) | large |
+| ← To Urglunt's Gate | large |
+| ← To West Feerrott | medium |
+
+### lavastorm
+
+| On map | Size |
+|---|---|
+| ◆ NE Age of Adventure Boundary | medium |
+
+| Signpost | Size |
+|---|---|
+| ← To Collinridge Cemetery | medium |
+| ← To Fayspire Gate | large |
+| ← To Greyvax's Caves | medium |
+| ← To Kara Village | large |
+| ← To NE Mountain Boundary | large |
+| ← To North Kithicor | small |
+| ← To Old Rogue Clockworks | medium |
+| ← To Ruins of Fayspire | medium |
+| ← To Ruins of Klik'Anon | medium |
+| ← To Tethelin Forest | medium |
+| ← To Thedruk | medium |
+
+### misty
+
+| Signpost | Size |
+|---|---|
+| ← To Baga Village | large |
+| ← To Highpass Hold | medium |
+| ← To Merry-by-Water | large |
+| ← To Moss Mouth Cavern | medium |
+| ← To Mt. Hatespike | medium |
+| ← To Rivervale | medium |
+| ← To Ruins of Moradhim | large |
+| ← To Runnyeye | medium |
+| ← To Shon-To Monastery | large |
+| ← To Winters Deep | medium |
+
+### nektulos
+
+| Signpost | Size |
+|---|---|
+| ← To Bobble-by-Water | medium |
+| ← To Collinridge Cemetery | large |
+| ← To Kara Village | medium |
+| ← To Lava Storm (Age of Adventure boundary) | medium |
+| ← To Mu Lin's Reach | medium |
+| ← To North Kithicor | medium |
+| ← To Old Rogue Clockworks | medium |
+| ← To Ruins of Klik'Anon | large |
+| ← To The Green Rift | large |
+| ← To Thedruk | medium |
+
+### northkarana
+
+| Signpost | Size |
+|---|---|
+| ← To Baga Village | large |
+| ← To Bandit Hills | large |
+| ← To Blackburrow | large |
+| ← To Highpass Hold | medium |
+| ← To Jared's Blight | large |
+| ← To Merry-by-Water | large |
+| ← To Misty Thicket | medium |
+| ← To Mt. Hatespike | medium |
+| ← To Runnyeye | medium |
+| ← To Strag's Rest | medium |
+
+### nro
+
+| On map | Size |
+|---|---|
+| ◆ Northwestern Ro | small |
+
+| Signpost | Size |
+|---|---|
+| ← To Al Farak Ruins | medium |
+| ← To Deathfist Citadel | medium |
+| ← To Deathfist Forge | medium |
+| ← To Deathfist Horde | medium |
+| ← To Ferran's Hope | medium |
+| ← To Freeport | medium |
+| ← To Muniel's Tea Garden | large |
+| ← To Open Sea | large |
+| ← To Temple of Light | medium |
+| ← To Tomb of Kings | medium |
+
+### oasis
+
+| On map | Size |
+|---|---|
+| ◆ Oasis | small |
+
+| Signpost | Size |
+|---|---|
+| ← To Ant Colonies | medium |
+| ← To Burial Mounds | medium |
+| ← To Chiktar Hive | medium |
+| ← To Great Waste | large |
+| ← To Sea of Lions | large |
+| ← To Slithar Hive | medium |
+| ← To Sslathis | medium |
+| ← To Sycamore Joy's Rest | medium |
+| ← To Tak'Xiv West | medium |
+| ← To Takish'Hiz | large |
+
+### paineel
+
+| Signpost | Size |
+|---|---|
+| ← To Abysmal Sea | large |
+| ← To South Toxxulia | medium |
+| ← To Stone of Morthalis | medium |
+| ← To The Hunt | medium |
+
+### qey2hh1
+
+| Signpost | Size |
+|---|---|
+| ← To Al-Karad Ruins | large |
+| ← To Bear Cave | medium |
+| ← To Blackburrow | medium |
+| ← To Blakedown | large |
+| ← To Forkwatch | medium |
+| ← To Jared's Blight | large |
+| ← To Mayfly Glade | medium |
+| ← To Salt Mine | medium |
+| ← To Strag's Rest | large |
+| ← To Trail's End | medium |
+
+### qeytoqrg
+
+| On map | Size |
+|---|---|
+| ◆ Mayfly Glade | medium |
+
+| Signpost | Size |
+|---|---|
+| ← To Al-Karad Ruins | medium |
+| ← To Alseop's Wall | medium |
+| ← To Aviak Village | medium |
+| ← To Blakedown | large |
+| ← To Druid's Watch | medium |
+| ← To Fog Marsh | medium |
+| ← To Hagley | medium |
+| ← To Spider Mine | large |
+| ← To Stoneclaw | medium |
+| ← To Urglunt's Wall | medium |
+
+### qrg
+
+| Signpost | Size |
+|---|---|
+| ← To Crethly Manor | medium |
+| ← To Diren Village | medium |
+| ← To Fog Marsh | medium |
+| ← To Jaggedpine | large |
+| ← To Jethro's Cast | large |
+| ← To Murnf | large |
+| ← To Salisearaneen | medium |
+| ← To Spirit Talker's Wood | large |
+| ← To Twisted Tower | medium |
+| ← To Wymondham | large |
+
+### rathemtn
+
+| On map | Size |
+|---|---|
+| ◆ Geomancer's Pass | small |
+
+| Signpost | Size |
+|---|---|
+| ← To Aviak Village | medium |
+| ← To Cyclops's Fortress | large |
+| ← To Fort Alliance | large |
+| ← To Geomancer's Citadel | large |
+| ← To Kelinar | medium |
+| ← To Lake Rathe | large |
+| ← To Ogre Ruins | medium |
+| ← To Sphinx Pyramid | large |
+| ← To Stoneclaw | medium |
+| ← To Urglunt's Gate | large |
+
+### rivervale
+
+| Signpost | Size |
+|---|---|
+| ← To Bastable Village | medium |
+| ← To Castle Felstar | medium |
+| ← To Highpass Hold | medium |
+| ← To Lake Neriuss | large |
+| ← To Merry-by-Water | medium |
+| ← To Misty Thicket | medium |
+| ← To Moss Mouth Cavern | large |
+| ← To North Kithicor | large |
+| ← To Runnyeye | medium |
+| ← To Saerk Towers | medium |
+
+### southkarana
+
+| On map | Size |
+|---|---|
+| ◆ Aviak Village | large |
+| ◆ Centaur Valley | medium |
+| ◆ Widow's Peak | medium |
+| ◆ Serpent Hills | small |
+
+| Signpost | Size |
+|---|---|
+| ← To Brog Fens | medium |
+| ← To Cyclops's Fortress | medium |
+| ← To Forkwatch | large |
+| ← To Kelinar | medium |
+| ← To Mayfly Glade | medium |
+| ← To Salt Mine | medium |
+| ← To Sphinx Pyramid | medium |
+| ← To Urglunt's Gate | medium |
+| ← To Urglunt's Wall | large |
+| ← To Wktaan's 4th Talon | medium |
+
+### sro
+
+| On map | Size |
+|---|---|
+| ◆ Box Canyons | medium |
+| ◆ Eternal Desert | small |
+
+| Signpost | Size |
+|---|---|
+| ← To Chiktar Hive | medium |
+| ← To Deathfist Citadel | medium |
+| ← To Deathfist Forge | small |
+| ← To Deathfist Horde | medium |
+| ← To Dshinn's Redoubt | small |
+| ← To Elemental Towers | medium |
+| ← To Great Waste | medium |
+| ← To Muniel's Tea Garden | medium |
+| ← To Oasis | medium |
+| ← To Sycamore Joy's Rest | large |
+
+### stonebrunt
+
+| Signpost | Size |
+|---|---|
+| ← To Cape Dreg | medium |
+| ← To East Plateau | small |
+| ← To Gulf of Uzun | small |
+| ← To North Barren Coast | large |
+| ← To South Barren Coast | large |
+| ← To The Vastly Deep | large |
+
+### tox
+
+| On map | Size |
+|---|---|
+| ◆ South Toxxulia | medium |
+| ◆ East Toxxulia | medium |
+
+| Signpost | Size |
+|---|---|
+| ← To Old Arcadin | medium |
+| ← To Syhilthis' Dwell | medium |
+| ← To The Hunt | small |
+| ← To West Plateau | small |
+| ← To West Toxxulia | large |
+
+### warrens
+
+| Signpost | Size |
+|---|---|
+| ← To Gulf of Uzun | large |
+| ← To South Barren Coast | medium |
+| ← To Stone of Morthalis | small |
+
 
 ---
 
-## 6. Antonica — per zone
-
-#### Everfrost Peaks
-> Huge zone; EQOA names the whole northern icefield.
-
-| On-map label | Tier |
-|---|---|
-| ◆ Snowblind Plains | Medium (size 3) |
-| ◆ Anu Village | Medium (size 3) |
-| ◆ Frosteye Valley | Medium (size 3) |
-| ◆ Snowfist | Small (size 2) |
-| ◆ Greyvax's Caves | Small (size 2) |
-| ◆ Freezeblood Village | Small (size 2) |
-| ◆ Diren Hold | Small (size 2) |
-| ◆ Goldfeather Eyrie | Small (size 2) |
-
-| Margin signpost | Direction |
-|---|---|
-| ← To Unkempt North | W |
-| ← To Zantar's Keep | W |
-| ← To Fayspire Gate | NE |
-
-
-#### Blackburrow
-> EQOA name = the EQ1 zone name. Nothing to add.
-
-_No labels — nothing to add._
-
-
-#### Surefall Glade
-> EQOA "Surefall Glade" = same place. Tiny zone -> signposts only.
-
-| Margin signpost | Direction |
-|---|---|
-| ← To Jethro's Cast | W |
-| ← To Wymondham | E |
-
-
-#### Qeynos Hills
-> Dense EQOA cluster NE of Qeynos maps almost 1:1 onto this zone.
-
-| On-map label | Tier |
-|---|---|
-| ◆ Bear Cave | Medium (size 3) |
-| ◆ Mayfly Glade | Medium (size 3) |
-| ◆ Forkwatch | Medium (size 3) |
-| ◆ Druid's Watch | Small (size 2) |
-| ◆ Spider Mine | Small (size 2) |
-| ◆ Blakedown | Small (size 2) |
-| ◆ Hagley | Small (size 2) |
-| ◆ Qeynos Prison | Small (size 2) |
-
-| Margin signpost | Direction |
-|---|---|
-| ← To Wyndhaven | W |
-| ← To Crethley Manor | NW |
-
-
-#### West Karana
-> Jared's Blight = Dorvar Manor on the EQOA map.
-
-| On-map label | Tier |
-|---|---|
-| ◆ Jared's Blight | Medium (size 3) |
-| ◆ Alseop's Wall | Medium (size 3) |
-| ◆ Strag's Rest | Medium (size 3) |
-| ◆ Al-Karad Ruins | Small (size 2) |
-| ◆ Salt Mine | Small (size 2) |
-
-| Margin signpost | Direction |
-|---|---|
-| ← To Fog Marsh | W |
-| ← To Wymondham | NW |
-
-
-#### North Karana
-> Merry-by-Water is the halfling town feuding with Bobble-by-Water (Great Pie Crisis).
-
-| On-map label | Tier |
-|---|---|
-| ◆ Merry-by-Water | Medium (size 3) |
-| ◆ Blakedown | Small (size 2) |
-
-| Margin signpost | Direction |
-|---|---|
-| ← To Spirit Talker's Wood | NW |
-
-
-#### East Karana
-| On-map label | Tier |
-|---|---|
-| ◆ Saerk Towers | Medium (size 3) |
-| ◆ Mu Lin's Reach | Medium (size 3) |
-| ◆ Moss Mouth Cavern | Small (size 2) |
-| ◆ The Green Rift | Small (size 2) |
-
-| Margin signpost | Direction |
-|---|---|
-| ← To Hodstock and Temby | E |
-| ← To Bobble-by-Water | E |
-
-
-#### Beholders Maze
-> Gorge of King Xorbb. EQOA has no beholder analog; Bandit Hills is the nearest fit.
-
-| On-map label | Tier |
-|---|---|
-| ◆ Bandit Hills | Small (size 2) |
-
-
-#### South Karana
-> South Crossroads = "Fort Solitude" on some maps; EQOA name preferred. Aviak Village + Centaur Valley have real EQ1 locs.
-
-| On-map label | Tier |
-|---|---|
-| ◆ Aviak Village | Large (size 4) |
-| ◆ South Crossroads | Large (size 4) |
-| ◆ Centaur Valley | Medium (size 3) |
-| ◆ Urglunt's Wall | Medium (size 3) |
-| ◆ Urglunt's Gate | Medium (size 3) |
-| ◆ Widow's Peak | Medium (size 3) |
-| ◆ Wktaan's 4th Talon | Small (size 2) |
-| ◆ Serpent Hills | Small (size 2) |
-
-| Margin signpost | Direction |
-|---|---|
-| ← To Highbourne | W |
-| ← To Stoneclaw | NW |
-
-
-#### Misty Thicket
-> Mount Hatespike (The Lost Isle) sits NW, outside the zone.
-
-| On-map label | Tier |
-|---|---|
-| ◆ Baga Village | Medium (size 3) |
-
-| Margin signpost | Direction |
-|---|---|
-| ← To Mount Hatespike | NW |
-| ← To Moradhin | N |
-
-
-#### Rivervale
-> EQOA "Rivervale" = same. The two -by-Water halfling towns are a lore pair.
-
-| Margin signpost | Direction |
-|---|---|
-| ← To Merry-by-Water | NW |
-| ← To Bobble-by-Water | E |
-
-
-#### Highpass Hold
-> EQOA labels "Highpass Hold" in the same spot - strongest 1:1 anchor on the continent.
-
-| On-map label | Tier |
-|---|---|
-| ◆ Ferran's Hope | Medium (size 3) |
-| ◆ Trail's End | Medium (size 3) |
-| ◆ Bastable Village | Medium (size 3) |
-| ◆ Dshinn's Redoubt | Small (size 2) |
-
-
-#### Kithicor Wood
-| On-map label | Tier |
-|---|---|
-| ◆ North Kithicor | Medium (size 3) |
-| ◆ The Green Rift | Small (size 2) |
-
-
-#### West Commonlands
-| On-map label | Tier |
-|---|---|
-| ◆ Tomb of Kings | Medium (size 3) |
-| ◆ Desert Hate | Small (size 2) |
-
-
-#### East Commonlands
-| On-map label | Tier |
-|---|---|
-| ◆ Temple of Light | Medium (size 3) |
-| ◆ Deathfist Forge | Small (size 2) |
-
-| Margin signpost | Direction |
-|---|---|
-| ← To Bobble-by-Water | NE |
-
-
-#### Nektulos Forest
-> Castle Feister = Fort Barick. Foggy witch-woods styling (see tree study).
-
-| On-map label | Tier |
-|---|---|
-| ◆ Collinridge Cemetery | Medium (size 3) |
-| ◆ Thedruk | Medium (size 3) |
-| ◆ Castle Feister | Medium (size 3) |
-
-| Margin signpost | Direction |
-|---|---|
-| ← To Klik'Anon | NE |
-
-
-#### Lavastorm Mountains
-> ⚠️ **NOT an EQOA zone -- sits in the grey "NE Mountain Boundary" band. Boundary marker + signposts only, no on-map diamonds.
-
-| Margin signpost | Direction |
-|---|---|
-| ← To Kara Village | SW |
-| ← To Klik'Anon | S |
-| ← To Fayspire | SW |
-| ← To Rogue Clockworks | NE |
-
-
-#### Northern Desert of Ro
-| On-map label | Tier |
-|---|---|
-| ◆ Deathfist Citadel | Medium (size 3) |
-| ◆ Muniel's Tea Garden | Medium (size 3) |
-| ◆ Northwestern Ro | Small (size 2) |
-
-
-#### Southern Desert of Ro
-> Box Canyons (not "Fox") per wiki.eqoa.live.
-
-| On-map label | Tier |
-|---|---|
-| ◆ Box Canyons | Medium (size 3) |
-| ◆ Al Farak Ruins | Medium (size 3) |
-| ◆ Sycamore Joy's Rest | Small (size 2) |
-| ◆ Eternal Desert | Small (size 2) |
-
-| Margin signpost | Direction |
-|---|---|
-| ← To Great Waste | E |
-| ← To Takish-Hiz | SE |
-
-
-#### Oasis of Marr
-> EQOA "Oasis" sits in the same spot.
-
-| On-map label | Tier |
-|---|---|
-| ◆ Oasis | Small (size 2) |
-
-| Margin signpost | Direction |
-|---|---|
-| ← To Sea of Lions | E |
-| ← To Great Waste | NE |
-
-
-#### Innothule Swamp
-> EQ1 shows only ONE SLICE of the EQOA swamp - Kerplunk Outpost sits outside it, so it becomes a signpost (W from here, E from Feerrott).
-
-| On-map label | Tier |
-|---|---|
-| ◆ Lake Noregard | Small (size 2) |
-| ◆ Burial Mounds | Small (size 2) |
-| ◆ Ant Colonies | Small (size 2) |
-
-| Margin signpost | Direction |
-|---|---|
-| ← To Kerplunk Outpost | W |
-| ← To Broken Skull Rock | S |
-
-
-#### Feerrott
-> Paired signpost: Kerplunk lies E of Feerrott and W of Innothule - the two arrows bracket it.
-
-| On-map label | Tier |
-|---|---|
-| ◆ West Feerrott | Medium (size 3) |
-| ◆ Envar | Small (size 2) |
-| ◆ Ogre Ruins | Small (size 2) |
-| ◆ Dead Hills | Small (size 2) |
-| ◆ Moggok's Gate | Small (size 2) |
-
-| Margin signpost | Direction |
-|---|---|
-| ← To Kerplunk Outpost | E |
-| ← To Gerotar's Mines | E |
-| ← To Oggok | NE (path curves back W) |
-
-
-#### Rathe Mountains
-| On-map label | Tier |
-|---|---|
-| ◆ Cyclops' Fortress | Medium (size 3) |
-| ◆ Sphinx Pyramid | Medium (size 3) |
-| ◆ Geomancer's Citadel | Medium (size 3) |
-| ◆ Geomancer's Pass | Small (size 2) |
-
-
-#### Lake Rathetear
-> EQOA "Lake Rathe" = same lake.
-
-| On-map label | Tier |
-|---|---|
-| ◆ Kelinar | Small (size 2) |
-| ◆ Fort Alliance | Small (size 2) |
-
-
-#### Cazic Thule
-> EQOA "Cazic Thule" = same name.
-
-| Margin signpost | Direction |
-|---|---|
-| ← To Stone Watchers | S |
-| ← To Dinbak | SE |
-
-
----
-
-## 7. Odus — per zone
-
-#### Toxxulia Forest
-> EQ1 covers South Toxxulia + a strip of North. Arcadin = pre-rebuild Erudin -> lore signpost. East Plateau dropped (not in game).
-
-| On-map label | Tier |
-|---|---|
-| ◆ South Toxxulia | Medium (size 3) |
-| ◆ North Toxxulia | Medium (size 3) |
-
-| Margin signpost | Direction |
-|---|---|
-| ← To West Toxxulia | NW |
-| ← To Old Arcadin | NE |
-| ← To Grand Plateau | N |
-
-
-#### Stonebrunt Mtns
-> ⚠️ **Stonebrunt runs down the MIDDLE of Odus - the Barren Coast and Vasty Deep all lie EAST of its in-game footprint, so they are all signposts, not on-map labels.
-
-| Margin signpost | Direction |
-|---|---|
-| ← To North Barren Coast | NE |
-| ← To South Barren Coast | SE |
-| ← To Cape Dreg | SE |
-| ← To The Vasty Deep | E |
-
-
-#### Erudin
-> Erudin IS Arcadin rebuilt - the SE signpost mirrors the NE one on Toxxulia.
-
-| Margin signpost | Direction |
-|---|---|
-| ← To Old Arcadin | SE |
-| ← To Grand Plateau | NW |
-
-
-#### Kerra Isle
-> Your own POI layer kept untouched; only an "on the way" sea signpost added.
-
-| Margin signpost | Direction |
-|---|---|
-| ← To The Abysmal Sea | W |
-
-
-#### Paineel
-> Sea signpost gives a sense of what lies beyond the western cliffs.
-
-| Margin signpost | Direction |
-|---|---|
-| ← To The Abysmal Sea | W |
-
-
-#### The Warrens
-> Southward signpost toward the gulf.
-
-| Margin signpost | Direction |
-|---|---|
-| ← To Gulf of Uzun | S |
-
-
-#### Erud's Crossing
-> EQOA name matches; one open-water signpost.
-
-| Margin signpost | Direction |
-|---|---|
-| ← To The Vasty Deep | SE |
-
-
----
-
-## 8. Appendix — hypothetical Tunaria zones
-
-The EQOA-only areas (the ones becoming signposts) are drawn on `_tunaria_hypothetical_zone_map.png` as **proposed zones** wired into the classic connection graph — a planning sketch for carving out space for future development. Proposed links are geographic reads off the EQOA world map, **not canon adjacency**.
-
-39 proposed zones:
-
-
-- Zantar's Keep · Unkempt North · Snowfist
-- Fayspire Gate · Mariel Village · Twisted Tower
-- Freezeblood Village · Fayspire · Tethelin
-- Klik'Anon · Rogue Clockworks · Unkempt Glade
-- Guardian Forest · Moradhin · Kara Village
-- Wyndhaven · Jethro's Cast · Wymondham
-- Merry-by-Water · Castle Feister · Whale Hill
-- Crethley Manor · Fog Marsh · Collinridge Cemetery
-- Hodstock and Temby · Highbourne · Stoneclaw
-- Bobble-by-Water · Geomancer's Citadel · Urglunt's Gate
-- Muniel's Tea Garden · Takish'Hiz · Brog Fens
-- Great Waste · Stone Watchers · Karplunk Outpost
-- Sslathis · Hazinak · Basher's Enclave
-
-
----
-
-## 9. Open questions for review
-
-1. **Grid cell names** — the 20 suggested gap names are yours; the 77 EQOA names are mine. Any cell you'd rename, move, merge, or split?
-2. **More paired signposts** — Kerplunk is the clear case. Others that may deserve the same treatment: Bandit Hills (between Gorge and North Karana), Bastable Village (between Highpass and West Commonlands), Merry-by-Water (between North Karana and Rivervale).
-3. **Curving-path notation** — is `To Oggok (NE — path curves back W)` the right phrasing, or too wordy for a map label? Shorter option: `To Oggok (NE ↻W)`.
-4. **Tiers** — anything mis-weighted?
-5. **Lavastorm boundary wording** — "Age of Adventure NW Boundary" (yours) vs the EQOA original "NE Mountain Boundary."
-6. **Density** — 6–9 per big zone, or push further on the largest (Everfrost, South Karana)?
-
-_On your OK (with notes), the `_3` layers get regenerated across all listed zones._
+## Other art in this pass
+
+- **Najena entrance archway** — the shattered doors, drawn as a corner sketch on
+  **Lavastorm** (that's where the entrance physically is), with the fallen door in the
+  foreground and the map's bottom border left intact.
+- **Druid Ring** — a reusable stonehenge module (trilithons, standing stones, centre
+  altar, fallen slab) in the margins of Lavastorm, Feerrott and Misty Thicket.
+- **Nektulos** — foggy witch-woods revamp: normal fir/willow silhouettes in desaturated
+  grey-green, a minority of dead trees, orb spider webs strung between branches, low fog
+  wisps. The base's filled "dandelion" canopies became outlined trees in the same dark
+  blue-grey. A large **tree stump** marks the Leatherfoot scout camp.
