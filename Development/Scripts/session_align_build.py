@@ -8,8 +8,8 @@ from PIL import Image, ImageDraw, ImageFont
 ANT = {
  'Everfrost Peaks': dict(pos=(170,107), off=(-150,-60), dia=[
       ('Snowblind Plains',2),('Anu Village',2),('Frosteye Valley',2),('Snowfist',1),
-      ("Greyvax's Caves",1),('Freezeblood Village',1),('Diren Hold',1),('Goldfeather Eyrie',1)],
-    arr=[('Unkempt North','W'),("Zantar's Keep",'W'),('Fayspire Gate','NE')],
+      ("Greyvax's Caves",1),('Freezeblood Village',1),('Diren Village',1),('Goldfeather Eyrie',1)],
+    arr=[('Unkempt North','W'),("Zentar's Keep",'W'),('Fayspire Gate','NE')],
     note='Huge zone; EQOA names the whole northern icefield.'),
  'Blackburrow': dict(pos=(140,197), off=(-118,10), dia=[], arr=[],
     note='EQOA name = the EQ1 zone name. Nothing to add.'),
@@ -18,18 +18,18 @@ ANT = {
  'Qeynos Hills': dict(pos=(68,261), off=(-62,26), dia=[
       ('Bear Cave',2),('Mayfly Glade',2),('Forkwatch',2),("Druid's Watch",1),
       ('Spider Mine',1),('Blakedown',1),('Hagley',1),('Qeynos Prison',1)],
-    arr=[('Wyndhaven','W'),('Crethley Manor','NW')],
+    arr=[('Wyndhaven','W'),('Crethly Manor','NW')],
     note='Dense EQOA cluster NE of Qeynos maps almost 1:1 onto this zone.'),
  'West Karana': dict(pos=(114,261), off=(-40,64), dia=[
       ("Jared's Blight",2),("Alseop's Wall",2),("Strag's Rest",2),('Al-Karad Ruins',1),('Salt Mine',1)],
     arr=[('Fog Marsh','W'),('Wymondham','NW')],
     note="Jared's Blight = Dorvar Manor on the EQOA map."),
  'North Karana': dict(pos=(156,261), off=(6,-70), dia=[
-      ('Merry-by-Water',2),('Blakedown',1)], arr=[("Spirit Talker's Wood",'NW')],
+      ], arr=[("Spirit Talker's Wood",'NW')],
     note='Merry-by-Water is the halfling town feuding with Bobble-by-Water (Great Pie Crisis).'),
  'East Karana': dict(pos=(199,261), off=(52,-78), dia=[
       ('Saerk Towers',2),("Mu Lin's Reach",2),('Moss Mouth Cavern',1),('The Green Rift',1)],
-    arr=[('Hodstock and Temby','E'),('Bobble-by-Water','E')], note=''),
+    arr=[('Hodstock / Temby','E'),('Bobble-by-Water','E')], note=''),
  'Beholders Maze': dict(pos=(210,205), off=(58,-30), dia=[('Bandit Hills',1)], arr=[],
     note='Gorge of King Xorbb. EQOA has no beholder analog; Bandit Hills is the nearest fit.'),
  'South Karana': dict(pos=(158,330), off=(-118,52), dia=[
@@ -38,8 +38,8 @@ ANT = {
     arr=[('Highbourne','W'),('Stoneclaw','NW')],
     note='South Crossroads = "Fort Solitude" on some maps; EQOA name preferred. Aviak Village + Centaur Valley have real EQ1 locs.'),
  'Misty Thicket': dict(pos=(258,211), off=(52,-16), dia=[('Baga Village',2)],
-    arr=[('Mount Hatespike','NW'),('Moradhin','N')],
-    note='Mount Hatespike (The Lost Isle) sits NW, outside the zone.'),
+    arr=[('Mt. Hatespike','NW'),('Moradhim','N')],
+    note='Mt. Hatespike (The Lost Isle) sits NW, outside the zone.'),
  'Rivervale': dict(pos=(262,243), off=(56,12), dia=[], arr=[('Merry-by-Water','NW'),('Bobble-by-Water','E')],
     note='EQOA "Rivervale" = same. The two -by-Water halfling towns are a lore pair.'),
  'Highpass Hold': dict(pos=(249,270), off=(-96,40), dia=[
@@ -52,17 +52,17 @@ ANT = {
  'East Commonlands': dict(pos=(375,281), off=(30,90), dia=[('Temple of Light',2),('Deathfist Forge',1)],
     arr=[('Bobble-by-Water','NE')], note=''),
  'Nektulos Forest': dict(pos=(393,226), off=(48,-46), dia=[
-      ('Collinridge Cemetery',2),('Thedruk',2),('Castle Feister',2)],
+      ],
     arr=[('Klik\'Anon','NE')],
-    note='Castle Feister = Fort Barick. Foggy witch-woods styling (see tree study).'),
+    note='Castle Felstar = Fort Barick. Foggy witch-woods styling (see tree study).'),
  'Lavastorm Mountains': dict(pos=(373,129), off=(-104,-58), dia=[],
-    arr=[('Kara Village','SW'),("Klik'Anon",'S'),('Fayspire','SW'),('Rogue Clockworks','NE')],
+    arr=[('Kara Village','SW'),("Klik'Anon",'S'),('Fayspire','SW')],
     note='*** NOT an EQOA zone -- sits in the grey "NE Mountain Boundary" band. Boundary marker + signposts only, no on-map diamonds.'),
  'Northern Desert of Ro': dict(pos=(402,335), off=(46,-8), dia=[
       ('Deathfist Citadel',2),("Muniel's Tea Garden",2),('Northwestern Ro',1)], arr=[], note=''),
  'Southern Desert of Ro': dict(pos=(327,478), off=(-128,-30), dia=[
       ('Box Canyons',2),('Al Farak Ruins',2),("Sycamore Joy's Rest",1),('Eternal Desert',1)],
-    arr=[('Great Waste','E'),('Takish-Hiz','SE')],
+    arr=[('Great Waste','E'),("Takish'Hiz","SE")],
     note='Box Canyons (not "Fox") per wiki.eqoa.live.'),
  'Oasis of Marr': dict(pos=(367,423), off=(44,-16), dia=[('Oasis',1)],
     arr=[('Sea of Lions','E'),('Great Waste','NE')], note='EQOA "Oasis" sits in the same spot.'),
@@ -71,11 +71,11 @@ ANT = {
     arr=[('Kerplunk Outpost','W'),('Broken Skull Rock','S')],
     note='EQ1 shows only ONE SLICE of the EQOA swamp - Kerplunk Outpost sits outside it, so it becomes a signpost (W from here, E from Feerrott).'),
  'Feerrott': dict(pos=(120,460), off=(-112,26), dia=[
-      ('West Feerrott',2),('Envar',1),('Ogre Ruins',1),('Dead Hills',1),("Moggok's Gate",1)],
-    arr=[('Kerplunk Outpost','E'),("Gerotar's Mines",'E'),('Oggok','NE (path curves back W)')],
+      ('West Feerrott',2),('Tomb City of Envar',1),('Ogre Ruins',1),('Dead Hills',1),("Moggok Gate",1)],
+    arr=[('Kerplunk Outpost','E'),("Gerntar's Mines",'E'),('Oggok','NE (path curves back W)')],
     note='Paired signpost: Kerplunk lies E of Feerrott and W of Innothule - the two arrows bracket it.'),
  'Rathe Mountains': dict(pos=(112,429), off=(-116,-40), dia=[
-      ("Cyclops' Fortress",2),('Sphinx Pyramid',2),("Geomancer's Citadel",2),("Geomancer's Pass",1)],
+      ("Cyclops's Fortress",2),('Sphinx Pyramid',2),("Geomancer's Citadel",2),("Geomancer's Pass",1)],
     arr=[], note=''),
  'Lake Rathetear': dict(pos=(146,398), off=(36,-6), dia=[('Kelinar',1),('Fort Alliance',1)],
     arr=[], note='EQOA "Lake Rathe" = same lake.'),
@@ -84,22 +84,22 @@ ANT = {
 }
 
 ODUS = {
- 'Toxxulia Forest': dict(pos=(96,118), off=(-88,26), dia=[('South Toxxulia',2),('North Toxxulia',2)],
+ 'Toxxulia Forest': dict(pos=(96,118), off=(-88,26), dia=[('South Toxxulia',2),('East Toxxulia',2)],
     arr=[('West Toxxulia','NW'),('Old Arcadin','NE'),('Grand Plateau','N')],
     note='EQ1 covers South Toxxulia + a strip of North. Arcadin = pre-rebuild Erudin -> lore signpost. East Plateau dropped (not in game).'),
  'Stonebrunt Mtns': dict(pos=(150,150), off=(40,26), dia=[],
-    arr=[('North Barren Coast','NE'),('South Barren Coast','SE'),('Cape Dreg','SE'),('The Vasty Deep','E')],
+    arr=[('North Barren Coast','NE'),('South Barren Coast','SE'),('Cape Dreg','SE'),('The Vastly Deep','E')],
     note='*** Stonebrunt runs down the MIDDLE of Odus - the Barren Coast and Vasty Deep all lie EAST of its in-game footprint, so they are all signposts, not on-map labels.'),
  'Erudin': dict(pos=(112,40), off=(26,-30), dia=[],
     arr=[('Old Arcadin','SE'),('Grand Plateau','NW')],
     note='Erudin IS Arcadin rebuilt - the SE signpost mirrors the NE one on Toxxulia.'),
- 'Kerra Isle': dict(pos=(40,118), off=(-38,34), dia=[], arr=[('The Abysmal Sea','W')],
+ 'Kerra Isle': dict(pos=(40,118), off=(-38,34), dia=[], arr=[('Abysmal Sea','W')],
     note='Your own POI layer kept untouched; only an "on the way" sea signpost added.'),
- 'Paineel': dict(pos=(78,168), off=(-70,30), dia=[], arr=[('The Abysmal Sea','W')],
+ 'Paineel': dict(pos=(78,168), off=(-70,30), dia=[], arr=[('Abysmal Sea','W')],
     note='Sea signpost gives a sense of what lies beyond the western cliffs.'),
  'The Warrens': dict(pos=(96,196), off=(24,30), dia=[], arr=[('Gulf of Uzun','S')],
     note='Southward signpost toward the gulf.'),
- "Erud's Crossing": dict(pos=(196,60), off=(26,30), dia=[], arr=[('The Vasty Deep','SE')],
+ "Erud's Crossing": dict(pos=(196,60), off=(26,30), dia=[], arr=[('The Vastly Deep','SE')],
     note='EQOA name matches; one open-water signpost.'),
 }
 

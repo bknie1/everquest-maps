@@ -20,7 +20,7 @@ N={
  # north band
  "Mariel Village":(105,158,'hy'), "Twisted Tower":(268,158,'hy'), "Everfrost Peaks":(505,158,'eq'),
  "Permafrost":(660,158,'eq'), "Freezeblood Village":(838,158,'hy'), "Fayspire":(1012,158,'hy'),
- "Tethelin":(1170,158,'hy'), "Klik'Anon":(1332,158,'hy'), "Rogue Clockworks":(1508,158,'hy'),
+ "Tethelin":(1170,158,'hy'), "Klik'Anon":(1332,158,'hy'),
  # upper mid
  "Unkempt Glade":(186,246,'hy'), "Guardian Forest":(420,246,'hy'), "Blackburrow":(578,246,'eq'),
  "Moradhin":(838,246,'hy'), "Kara Village":(1090,246,'hy'), "Solusek's Eye":(1250,246,'eq'),
@@ -81,7 +81,7 @@ HE=[("Everfrost Peaks","Snowfist"),("Snowfist","Fayspire Gate"),("Fayspire Gate"
  ("Crethley Manor","Qeynos Hills"),("Jethro's Cast","Surefall Glade"),("Surefall Glade","Wymondham"),
  ("Wymondham","West Karana"),("Fog Marsh","West Karana"),("Fog Marsh","Crethley Manor"),
  ("Merry-by-Water","North Karana"),("Merry-by-Water","Rivervale"),("Moradhin","Misty Thicket"),
- ("Fayspire","Tethelin"),("Tethelin","Klik'Anon"),("Klik'Anon","Rogue Clockworks"),
+ ("Fayspire","Tethelin"),("Tethelin","Klik'Anon"),
  ("Klik'Anon","Kara Village"),("Kara Village","Castle Feister"),("Castle Feister","Nektulos Forest"),
  ("Collinridge Cemetery","Nektulos Forest"),("Highbourne","Stoneclaw"),("Stoneclaw","South Karana"),
  ("Highbourne","South Karana"),("Geomancer's Citadel","Rathe Mountains"),("Urglunt's Gate","South Karana"),
