@@ -1,0 +1,182 @@
+{
+ "everfrost": [
+  {
+   "name": "Snowblind Plains",
+   "tier": 2,
+   "snap": null,
+   "why": "geographic region"
+  },
+  {
+   "name": "Frosteye Valley",
+   "tier": 2,
+   "snap": null,
+   "why": "geographic region"
+  },
+  {
+   "name": "Snowfist",
+   "tier": 1,
+   "snap": null,
+   "why": "geographic region"
+  }
+ ],
+ "qeytoqrg": [
+  {
+   "name": "Mayfly Glade",
+   "tier": 2,
+   "snap": null,
+   "why": "geographic region"
+  }
+ ],
+ "eastkarana": [
+  {
+   "name": "The Green Rift",
+   "tier": 1,
+   "snap": null,
+   "why": "geographic region"
+  }
+ ],
+ "beholder": [
+  {
+   "name": "Bandit Hills",
+   "tier": 1,
+   "snap": null,
+   "why": "geographic region"
+  }
+ ],
+ "southkarana": [
+  {
+   "name": "Aviak Village",
+   "tier": 3,
+   "snap": [
+    -1500.0,
+    2000.0
+   ],
+   "why": "1:1 -> Aviak_Village_(Grimlings)"
+  },
+  {
+   "name": "Centaur Valley",
+   "tier": 2,
+   "snap": null,
+   "why": "geographic region"
+  },
+  {
+   "name": "Widow's Peak",
+   "tier": 2,
+   "snap": null,
+   "why": "geographic region"
+  },
+  {
+   "name": "Serpent Hills",
+   "tier": 1,
+   "snap": null,
+   "why": "geographic region"
+  }
+ ],
+ "highpass": [
+  {
+   "name": "Bastable Village",
+   "tier": 2,
+   "snap": [
+    -40.0,
+    -230.0
+   ],
+   "why": "near the Golden Roosters Inn (residents live around here)"
+  }
+ ],
+ "kithicor": [
+  {
+   "name": "North Kithicor",
+   "tier": 2,
+   "snap": null,
+   "why": "geographic region"
+  },
+  {
+   "name": "The Green Rift",
+   "tier": 1,
+   "snap": null,
+   "why": "geographic region"
+  }
+ ],
+ "commons": [
+  {
+   "name": "Desert Hate",
+   "tier": 1,
+   "snap": null,
+   "why": "geographic region"
+  }
+ ],
+ "nro": [
+  {
+   "name": "Northwestern Ro",
+   "tier": 1,
+   "snap": null,
+   "why": "geographic region"
+  }
+ ],
+ "sro": [
+  {
+   "name": "Box Canyons",
+   "tier": 2,
+   "snap": null,
+   "why": "geographic region"
+  },
+  {
+   "name": "Eternal Desert",
+   "tier": 1,
+   "snap": null,
+   "why": "geographic region"
+  }
+ ],
+ "oasis": [
+  {
+   "name": "Oasis",
+   "tier": 1,
+   "snap": null,
+   "why": "geographic region"
+  }
+ ],
+ "innothule": [
+  {
+   "name": "Lake Noregard",
+   "tier": 1,
+   "snap": null,
+   "why": "geographic region"
+  }
+ ],
+ "feerrott": [
+  {
+   "name": "West Feerrott",
+   "tier": 2,
+   "snap": null,
+   "why": "geographic region"
+  },
+  {
+   "name": "Dead Hills",
+   "tier": 1,
+   "snap": null,
+   "why": "geographic region"
+  }
+ ],
+ "rathemtn": [
+  {
+   "name": "Geomancer's Pass",
+   "tier": 1,
+   "snap": null,
+   "why": "geographic region"
+  }
+ ],
+ "tox": [
+  {
+   "name": "South Toxxulia",
+   "tier": 2,
+   "snap": null,
+   "why": "geographic region"
+  },
+  {
+   "name": "East Toxxulia",
+   "tier": 2,
+   "snap": null,
+   "why": "geographic region"
+  }
+ ]
+}
