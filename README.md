@@ -528,6 +528,16 @@ Other people's work that informed this pack, and deserves the credit.
   interest are taken from them** — those packs target *EverQuest Live*, which carries
   NPCs and content that don't exist on EQL or P1999.
 
+**Lore**
+
+- [History of Norrath](http://lorenorrath.free.fr/read.php?link=ages_creation), compiled by
+  Lumena Naktame of Traders of The Edge. In-game books gathered and annotated, arranged by
+  age: Creation, the Age of Scale, the Elder Age, the Age of Monuments, the Age of Blood,
+  the Lost Age, the Age of Enlightenment and the Age of Turmoil. That sequence is where the
+  ages named at the top of this page come from. The same archive carries race histories and
+  zone-specific books that inform the sketches and the marker layer. Texts there are
+  copyright their respective owners; this project cites them rather than reproducing them.
+
 **EQOA / Age of Adventure**
 
 - **EQOA / Tunaria & Odus world maps** — geography and place names for the `_3` layer.

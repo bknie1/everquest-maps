@@ -459,6 +459,14 @@ def water_fill(segments, ink=None, row=15.0, dash=13.0, min_area=180.0):
             if (y1>y) != (y2>y):
                 hits.append(x1 + (y-y1)*(x2-x1)/(y2-y1))
         hits.sort()
+        # Outlines are often drawn twice or more over themselves. Duplicated
+        # crossings flip parity an even number of times and cancel, so a pool
+        # comes out empty. Collapse coincident crossings before pairing them.
+        if hits:
+            ded=[hits[0]]
+            for h in hits[1:]:
+                if h - ded[-1] > 0.75: ded.append(h)
+            hits = ded
         for i in range(0, len(hits)-1, 2):       # even-odd: inside between pairs
             a,b = hits[i], hits[i+1]
             if b-a < 4: continue
@@ -626,7 +634,7 @@ def library_facade(cx, cy, w, h, ink=None, cols=6):
 
 def water_flood(water_segments, struct_segments, ink=None,
                 cell=5.0, row=11.0, dash=9.0, blue_frac=0.26, max_frac=0.30,
-                clearance=2, solid=True, corridor=30.0, min_pool=24):
+                clearance=2, solid=True, corridor=30.0, min_pool=24, use_mask=True):
     """Shade water by FLOOD FILL rather than by polygon.
 
     Real maps bound a pool partly with a shoreline and partly with the walls of
@@ -749,7 +757,11 @@ def water_flood(water_segments, struct_segments, ink=None,
     # Concentric shorelines (a moat ringing an island) only come out right if the
     # mask is built by crossing parity across the whole loop set at once.
     inwater = bytearray(W*H)
-    if closed:
+    # Some maps draw water as FILL rather than as an outline. Feeding those lines
+    # to the parity mask bands the result, because every fill stroke reads as a
+    # shoreline crossing. Pass use_mask=False there and let the flood regions
+    # decide on their own.
+    if closed and use_mask:
         allsegs=[sg for segs,_,_,_,_ in closed for sg in segs]
         for gy in range(H):
             py = y0 + gy*cell + cell*0.5
@@ -1084,6 +1096,386 @@ def bastion_gate(cx, cy, w, h, ink=None):
         out.append((cx-hw, y, cx+hw, y, PALETTE['basalt']))
     out.append((cx-w*0.10, cy+h*0.05, cx-w*0.15, cy+h*0.30, ink))
     out.append((cx+w*0.10, cy+h*0.05, cx+w*0.15, cy+h*0.30, ink))
+    return out
+
+
+def water_seed_fill(seed_segments, struct_segments, ink=None, cell=5.0, row=11.0,
+                    clearance=2, min_pool=26, solid=True):
+    """Shade water by flooding OUT from existing water strokes until land stops it.
+
+    Use this where a map draws water as fill rather than as an outline: an old flat
+    hatch, say, that ignores the islands standing in it. The strokes tell you where
+    the water is; the land geometry tells you where it ends. Islands, spits and
+    shorelines fall out for free because they are walls the flood cannot cross.
+    """
+    import collections
+    ink = ink or PALETTE['arcane']
+    if not seed_segments: return []
+    xs=[a for s in seed_segments for a in (s[0],s[2])]
+    ys=[a for s in seed_segments for a in (s[1],s[3])]
+    sxs=[a for s in struct_segments for a in (s[0],s[2])] or xs
+    sys_=[a for s in struct_segments for a in (s[1],s[3])] or ys
+    pad=cell*6
+    x0,x1=min(min(xs),min(sxs))-pad, max(max(xs),max(sxs))+pad
+    y0,y1=min(min(ys),min(sys_))-pad, max(max(ys),max(sys_))+pad
+    W=int((x1-x0)/cell)+2; H=int((y1-y0)/cell)+2
+    if W*H > 6_000_000: cell*=2; W//=2; H//=2
+    wall=bytearray(W*H)
+    for (ax,ay,bx,by) in struct_segments:
+        n=max(1,int(math.hypot(bx-ax,by-ay)/(cell*0.5)))
+        for i in range(n+1):
+            t=i/n
+            gx=int((ax+(bx-ax)*t-x0)/cell); gy=int((ay+(by-ay)*t-y0)/cell)
+            if 0<=gx<W and 0<=gy<H: wall[gy*W+gx]=1
+    seeds=[]
+    for (ax,ay,bx,by) in seed_segments:
+        n=max(1,int(math.hypot(bx-ax,by-ay)/(cell*0.5)))
+        for i in range(n+1):
+            t=i/n
+            gx=int((ax+(bx-ax)*t-x0)/cell); gy=int((ay+(by-ay)*t-y0)/cell)
+            if 0<=gx<W and 0<=gy<H and not wall[gy*W+gx]: seeds.append(gy*W+gx)
+    wet=bytearray(W*H); dq=collections.deque()
+    for i in seeds:
+        if not wet[i]: wet[i]=1; dq.append(i)
+    while dq:
+        i=dq.popleft(); gx=i%W; gy=i//W
+        for dx,dy in ((1,0),(-1,0),(0,1),(0,-1)):
+            nx,ny=gx+dx,gy+dy
+            if not (0<=nx<W and 0<=ny<H): continue
+            j=ny*W+nx
+            if not wall[j] and not wet[j]: wet[j]=1; dq.append(j)
+    if clearance>0:                       # keep a margin off the shore
+        dist=bytearray(W*H); q=collections.deque()
+        for i in range(W*H):
+            if wall[i]: dist[i]=1; q.append(i)
+        while q:
+            i=q.popleft(); d=dist[i]
+            if d>clearance: continue
+            gx=i%W; gy=i//W
+            for dx,dy in ((1,0),(-1,0),(0,1),(0,-1)):
+                nx,ny=gx+dx,gy+dy
+                if not (0<=nx<W and 0<=ny<H): continue
+                j=ny*W+nx
+                if dist[j]==0 and not wall[j]:
+                    dist[j]=d+1
+                    if d+1<=clearance: q.append(j)
+        for i in range(W*H):
+            if 0<dist[i]<=clearance: wet[i]=0
+    out=[]; rows=max(1,int(row/cell))
+    byrow=collections.defaultdict(list)
+    for i in range(W*H):
+        if wet[i]: byrow[i//W].append(i%W)
+    for gy in sorted(byrow):
+        if gy % rows: continue
+        cols=sorted(byrow[gy])
+        runs=[]; s_=cols[0]; p=cols[0]
+        for c in cols[1:]:
+            if c==p+1: p=c; continue
+            runs.append((s_,p)); s_=c; p=c
+        runs.append((s_,p))
+        yy=y0+gy*cell
+        for a,b in runs:
+            ax=x0+a*cell; bx=x0+b*cell
+            if bx-ax < cell*1.5: continue
+            out.append((ax,yy,bx,yy,ink))
+    if min_pool and out:
+        C=max(cell*2.0,row*1.6,7.0)
+        cells_=collections.defaultdict(list)
+        for i,(a,b,c,d,_c) in enumerate(out):
+            steps=max(2,int(math.hypot(c-a,d-b)/(C*0.5))+1)
+            for k in range(steps+1):
+                t=k/steps
+                cells_[(int((a+(c-a)*t)//C), int((b+(d-b)*t)//C))].append(i)
+        seen=set(); keep=set()
+        for k in list(cells_):
+            if k in seen: continue
+            st=[k]; comp=set()
+            while st:
+                dd=st.pop()
+                if dd in seen or dd not in cells_: continue
+                seen.add(dd); comp.update(cells_[dd])
+                for ddx in (-1,0,1):
+                    for ddy in (-1,0,1):
+                        nn=(dd[0]+ddx, dd[1]+ddy)
+                        if nn in cells_ and nn not in seen: st.append(nn)
+            if len(comp)>=min_pool: keep.update(comp)
+        out=[o for i,o in enumerate(out) if i in keep]
+    return out
+
+
+def water_between_banks(bank_segments, max_width, ink=None, cell=None, row=None,
+                        clearance=1, min_pool=20, island_frac=0.30, require_both=False):
+    """Fill the water between banks, without needing the banks to form closed loops.
+
+    Rivers and coastlines are usually traced as open polylines: one line per bank,
+    loose at both ends where they leave the map. Even-odd fill cannot use those,
+    and stitching their endpoints pairs the wrong banks together.
+
+    So test each cell instead: if a bank lies on two OPPOSITE sides within
+    `max_width`, the cell is between banks and therefore wet. Islands are handled
+    separately — any closed bank loop smaller than `island_frac` of the whole is
+    treated as land and knocked back out.
+    """
+    import collections
+    ink = ink or PALETTE['arcane']
+    if not bank_segments: return []
+    xs=[a for s in bank_segments for a in (s[0],s[2])]
+    ys=[a for s in bank_segments for a in (s[1],s[3])]
+    span=max(max(xs)-min(xs), max(ys)-min(ys))
+    cell = cell or max(3.0, span*0.0022)
+    row  = row  or cell
+    pad=cell*3
+    x0,x1=min(xs)-pad,max(xs)+pad
+    y0,y1=min(ys)-pad,max(ys)+pad
+    W=int((x1-x0)/cell)+2; H=int((y1-y0)/cell)+2
+    bank=bytearray(W*H)
+    for (ax,ay,bx,by) in bank_segments:
+        n=max(1,int(math.hypot(bx-ax,by-ay)/(cell*0.5)))
+        for i in range(n+1):
+            t=i/n
+            gx=int((ax+(bx-ax)*t-x0)/cell); gy=int((ay+(by-ay)*t-y0)/cell)
+            if 0<=gx<W and 0<=gy<H: bank[gy*W+gx]=1
+    R=max(2,int(max_width/cell))
+    wet=bytearray(W*H)
+    for gy in range(H):
+        base=gy*W
+        # horizontal spans between banks on this row
+        cols=[gx for gx in range(W) if bank[base+gx]]
+        for a,b in zip(cols, cols[1:]):
+            if 1 < b-a <= R:
+                for gx in range(a+1,b): wet[base+gx] |= 1
+    for gx in range(W):
+        rows_=[gy for gy in range(H) if bank[gy*W+gx]]
+        for a,b in zip(rows_, rows_[1:]):
+            if 1 < b-a <= R:
+                for gy in range(a+1,b): wet[gy*W+gx] |= 2
+    # One axis is enough. A river running north-south has banks to its left and
+    # right but nothing above or below within reach, so demanding both axes
+    # agree leaves every long watercourse empty.
+    for i in range(W*H):
+        wet[i] = 1 if (wet[i]==3 if require_both else wet[i]) else 0
+
+    # islands: closed bank loops below island_frac of the extent are land
+    key=lambda p:(round(p[0],1),round(p[1],1))
+    adj=collections.defaultdict(list)
+    for i,s in enumerate(bank_segments):
+        adj[key((s[0],s[1]))].append(i); adj[key((s[2],s[3]))].append(i)
+    seen=set(); islands=0
+    for i in range(len(bank_segments)):
+        if i in seen: continue
+        st=[i]; comp=[]
+        while st:
+            j=st.pop()
+            if j in seen: continue
+            seen.add(j); comp.append(j)
+            for k in adj[key((bank_segments[j][0],bank_segments[j][1]))] + \
+                     adj[key((bank_segments[j][2],bank_segments[j][3]))]:
+                if k not in seen: st.append(k)
+        deg=collections.Counter()
+        for j in comp:
+            deg[key((bank_segments[j][0],bank_segments[j][1]))]+=1
+            deg[key((bank_segments[j][2],bank_segments[j][3]))]+=1
+        if any(v==1 for v in deg.values()): continue          # open: not an island
+        cxs=[a for j in comp for a in (bank_segments[j][0],bank_segments[j][2])]
+        cys=[a for j in comp for a in (bank_segments[j][1],bank_segments[j][3])]
+        if max(max(cxs)-min(cxs), max(cys)-min(cys)) > span*island_frac: continue
+        loop=[bank_segments[j] for j in comp]
+        for gy in range(max(0,int((min(cys)-y0)/cell)), min(H,int((max(cys)-y0)/cell)+2)):
+            py=y0+gy*cell
+            hits=sorted(sx1+(py-sy1)*(sx2-sx1)/(sy2-sy1)
+                        for sx1,sy1,sx2,sy2 in loop if (sy1>py)!=(sy2>py))
+            ded=[]
+            for h in hits:
+                if not ded or h-ded[-1] > cell*0.6: ded.append(h)
+            for k in range(0,len(ded)-1,2):
+                for gx in range(max(0,int((ded[k]-x0)/cell)), min(W,int((ded[k+1]-x0)/cell)+1)):
+                    wet[gy*W+gx]=0
+        islands+=1
+
+    if clearance>0:
+        dist=bytearray(W*H); q=collections.deque()
+        for i in range(W*H):
+            if bank[i]: dist[i]=1; q.append(i)
+        while q:
+            i=q.popleft(); d=dist[i]
+            if d>clearance: continue
+            gx=i%W; gy=i//W
+            for dx,dy in ((1,0),(-1,0),(0,1),(0,-1)):
+                nx,ny=gx+dx,gy+dy
+                if not (0<=nx<W and 0<=ny<H): continue
+                j=ny*W+nx
+                if dist[j]==0 and not bank[j]:
+                    dist[j]=d+1
+                    if d+1<=clearance: q.append(j)
+        for i in range(W*H):
+            if 0<dist[i]<=clearance: wet[i]=0
+
+    out=[]; rows=max(1,int(row/cell))
+    byrow=collections.defaultdict(list)
+    for i in range(W*H):
+        if wet[i]: byrow[i//W].append(i%W)
+    for gy in sorted(byrow):
+        if gy % rows: continue
+        cols=sorted(byrow[gy]); runs=[]; s_=cols[0]; p=cols[0]
+        for c in cols[1:]:
+            if c==p+1: p=c; continue
+            runs.append((s_,p)); s_=c; p=c
+        runs.append((s_,p))
+        yy=y0+gy*cell
+        for a,b in runs:
+            ax=x0+a*cell; bx=x0+b*cell
+            if bx-ax < cell*1.2: continue
+            out.append((ax,yy,bx,yy,ink))
+    if min_pool and out:
+        C=max(cell*2.0,row*1.6,7.0)
+        cells_=collections.defaultdict(list)
+        for i,(a,b,c,d,_c) in enumerate(out):
+            steps=max(2,int(math.hypot(c-a,d-b)/(C*0.5))+1)
+            for k in range(steps+1):
+                t=k/steps
+                cells_[(int((a+(c-a)*t)//C), int((b+(d-b)*t)//C))].append(i)
+        seen2=set(); keep=set()
+        for k in list(cells_):
+            if k in seen2: continue
+            st=[k]; comp=set()
+            while st:
+                dd=st.pop()
+                if dd in seen2 or dd not in cells_: continue
+                seen2.add(dd); comp.update(cells_[dd])
+                for ddx in (-1,0,1):
+                    for ddy in (-1,0,1):
+                        nn=(dd[0]+ddx, dd[1]+ddy)
+                        if nn in cells_ and nn not in seen2: st.append(nn)
+            if len(comp)>=min_pool: keep.update(comp)
+        out=[o for i,o in enumerate(out) if i in keep]
+    return out
+
+
+def water_scanline(border_segments, ink=None, cell=None, row=None, clearance=1,
+                   min_pool=18, both_axes=True):
+    """Fill water by pairing border crossings along each scan line.
+
+    Walk a row left to right. Every time you cross a water border you are either
+    entering the water or leaving it, so fill between the 1st and 2nd crossing,
+    the 3rd and 4th, and so on. No distance limit, no closed loops, no bank
+    pairing: two rivers on the same row give four crossings and fill correctly as
+    two separate spans.
+
+    `both_axes` runs the same pass down each column and unions the two. That is
+    what rescues right-angle bends, where a row entering the corner finds only one
+    crossing and contributes nothing, while the column through it finds its pair.
+
+    Coincident crossings are collapsed first — borders are frequently drawn twice
+    over themselves, and a duplicate flips parity an extra time and empties the
+    body.
+    """
+    import collections
+    ink = ink or PALETTE['arcane']
+    if not border_segments: return []
+    xs=[a for s in border_segments for a in (s[0],s[2])]
+    ys=[a for s in border_segments for a in (s[1],s[3])]
+    span=max(max(xs)-min(xs), max(ys)-min(ys))
+    cell = cell or max(3.0, span*0.0020)
+    row  = row  or cell
+    pad=cell*2
+    x0,x1=min(xs)-pad,max(xs)+pad
+    y0,y1=min(ys)-pad,max(ys)+pad
+    W=int((x1-x0)/cell)+2; H=int((y1-y0)/cell)+2
+    wet=bytearray(W*H)
+
+    def sweep(vertical):
+        n_outer = W if vertical else H
+        for k in range(n_outer):
+            pos = (x0+k*cell) if vertical else (y0+k*cell)
+            hits=[]
+            for (ax,ay,bx,by) in border_segments:
+                if vertical:
+                    if (ax>pos)!=(bx>pos) and ax!=bx:
+                        hits.append(ay+(pos-ax)*(by-ay)/(bx-ax))
+                else:
+                    if (ay>pos)!=(by>pos) and ay!=by:
+                        hits.append(ax+(pos-ay)*(bx-ax)/(by-ay))
+            if len(hits)<2: continue
+            hits.sort()
+            ded=[hits[0]]
+            for h in hits[1:]:
+                if h-ded[-1] > cell*0.75: ded.append(h)
+            for i in range(0, len(ded)-1, 2):
+                a,b = ded[i], ded[i+1]
+                if vertical:
+                    ga=int((a-y0)/cell); gb=int((b-y0)/cell)
+                    for gy in range(max(0,ga), min(H,gb+1)): wet[gy*W+k] |= 2
+                else:
+                    ga=int((a-x0)/cell); gb=int((b-x0)/cell)
+                    for gx in range(max(0,ga), min(W,gb+1)): wet[k*W+gx] |= 1
+    sweep(False)
+    if both_axes: sweep(True)
+    for i in range(W*H):
+        wet[i] = 1 if wet[i] else 0
+
+    if clearance>0:
+        border=bytearray(W*H)
+        for (ax,ay,bx,by) in border_segments:
+            n=max(1,int(math.hypot(bx-ax,by-ay)/(cell*0.5)))
+            for i in range(n+1):
+                t=i/n
+                gx=int((ax+(bx-ax)*t-x0)/cell); gy=int((ay+(by-ay)*t-y0)/cell)
+                if 0<=gx<W and 0<=gy<H: border[gy*W+gx]=1
+        dist=bytearray(W*H); q=collections.deque()
+        for i in range(W*H):
+            if border[i]: dist[i]=1; q.append(i)
+        while q:
+            i=q.popleft(); d=dist[i]
+            if d>clearance: continue
+            gx=i%W; gy=i//W
+            for dx,dy in ((1,0),(-1,0),(0,1),(0,-1)):
+                nx,ny=gx+dx,gy+dy
+                if not (0<=nx<W and 0<=ny<H): continue
+                j=ny*W+nx
+                if dist[j]==0 and not border[j]:
+                    dist[j]=d+1
+                    if d+1<=clearance: q.append(j)
+        for i in range(W*H):
+            if 0<dist[i]<=clearance: wet[i]=0
+
+    out=[]; rows=max(1,int(row/cell))
+    byrow=collections.defaultdict(list)
+    for i in range(W*H):
+        if wet[i]: byrow[i//W].append(i%W)
+    for gy in sorted(byrow):
+        if gy % rows: continue
+        cols=sorted(byrow[gy]); runs=[]; s_=cols[0]; p=cols[0]
+        for c in cols[1:]:
+            if c==p+1: p=c; continue
+            runs.append((s_,p)); s_=c; p=c
+        runs.append((s_,p))
+        yy=y0+gy*cell
+        for a,b in runs:
+            ax=x0+a*cell; bx=x0+b*cell
+            if bx-ax < cell*1.2: continue
+            out.append((ax,yy,bx,yy,ink))
+    if min_pool and out:
+        C=max(cell*2.0,row*1.6,7.0)
+        cells_=collections.defaultdict(list)
+        for i,(a,b,c,d,_c) in enumerate(out):
+            steps=max(2,int(math.hypot(c-a,d-b)/(C*0.5))+1)
+            for k in range(steps+1):
+                t=k/steps
+                cells_[(int((a+(c-a)*t)//C), int((b+(d-b)*t)//C))].append(i)
+        seen=set(); keep=set()
+        for k in list(cells_):
+            if k in seen: continue
+            st=[k]; comp=set()
+            while st:
+                dd=st.pop()
+                if dd in seen or dd not in cells_: continue
+                seen.add(dd); comp.update(cells_[dd])
+                for ddx in (-1,0,1):
+                    for ddy in (-1,0,1):
+                        nn=(dd[0]+ddx, dd[1]+ddy)
+                        if nn in cells_ and nn not in seen: st.append(nn)
+            if len(comp)>=min_pool: keep.update(comp)
+        out=[o for i,o in enumerate(out) if i in keep]
     return out
 
 

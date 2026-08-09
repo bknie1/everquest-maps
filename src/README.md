@@ -14,8 +14,11 @@ separately and never flattened.
 | `toolkit/` | map primitives: canvas, frame, grid, title, compass, doodles |
 | `zones/` | per-zone build scripts |
 | `tools/` | cross-atlas utilities: validation, sweeps, alignment, EQOA layer |
-| `docs/` | conventions |
+| `docs/` | conventions, and an index of lore sources |
 | `design/` | review renders, kit catalogues, EQOA alignment, source archive |
+
+`docs/LORE_SOURCES.md` indexes the History of Norrath archive by age, race, zone and
+god, so a sketch or a race silhouette can be checked against the lore before it is drawn.
 
 ## `kit/`
 
