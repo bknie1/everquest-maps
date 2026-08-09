@@ -1,11 +1,9 @@
 P 851.5900, -215.8600, -1.0000, 150, 0, 200, 3, to_Neriak_Commons
 P 969.0000, -892.0000, -1.0000, 160, 105, 0, 3, Succor
-P 789.0000, -408.0000, -1.0000, 30, 80, 95, 3, Temple_of_Innoruuk_(Cleric_Guild)
 P 854.0000, -400.0000, -1.0000, 35, 95, 55, 2, Merchant_(Cleric_Spells)_Myris
 P 1255.0000, -1303.0000, -1.0000, 30, 80, 95, 3, Necromancer+SK_Guild_(Hall_of_the_Dead)
 P 1278.0000, -913.0000, -1.0000, 30, 80, 95, 3, Library_(Wiz/Ench/Mag_Spells)
 P 1278.0000, -913.0000, -1.0000, 35, 95, 55, 2, Merchant_(Wizard_Portal_Spells)_Jusar
-P 1318.0000, -628.0000, -1.0000, 30, 80, 95, 3, Rogue_Guild_(Hall_of_the_Ebon_Mask)
 P 1310.0000, -769.0000, -1.0000, 35, 95, 55, 2, Merchant_(Small_Leather)_Furrier_Royale
 P 1424.0000, -864.0000, -1.0000, 30, 80, 95, 2, The_Maidens_Fancy_(Bar)
 P 1425.0000, -816.0000, -1.0000, 35, 95, 55, 2, Merchant_(Gems/Jewelcraft)_The_Bauble
