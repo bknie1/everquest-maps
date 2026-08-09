@@ -7,13 +7,89 @@ and zone-appropriate decorative sketches.
 
 It's just vector math. You can do cool vector art.
 
-**79 zones · 274 files · 1,556 markers · 349 place and EQOA labels.**
+**79 zones · 273 files · 1,556 markers · 349 points of interest from the Age of
+Monuments, the Age of Blood, the Lost Age, the Age of Adventure, the Age of
+Enlightenment, and the Age of Turmoil.**
 
 ---
 
 External demo renders (pardon any visual issues; labels render differently in-game)
 
 <img width="700" height="1074" alt="ak_full" src="https://github.com/user-attachments/assets/b6a0f60b-3fbb-4b8a-bd2d-ec686c11b75d" />
+
+<details>
+<summary><b>Gallery — every zone, and the asset kits</b> (click to expand)</summary>
+
+<br>
+
+Renders of the finished maps, all layers composited, on the same parchment the client
+uses. Click any image for full size. Labels render differently in game — these are for
+browsing and for marking up.
+
+### Asset kits
+
+The reusable pieces zones are composed from, rather than drawn one-off.
+
+| | |
+|---|---|
+| <a href="src/design/kits/fauna_kit.png"><img src="src/design/kits/fauna_kit.png" width="380"></a><br><sub>Fauna — 15 playable races and 5 creatures</sub> | <a href="src/design/kits/flora_kit.png"><img src="src/design/kits/flora_kit.png" width="380"></a><br><sub>Flora — 6 trees and 6 kinds of undergrowth</sub> |
+| <a href="src/design/kits/darkelf_kit.png"><img src="src/design/kits/darkelf_kit.png" width="380"></a><br><sub>Teir'Dal set — gates, temple, library, Lodge of the Dead</sub> | <a href="src/design/kits/terrain_kit.png"><img src="src/design/kits/terrain_kit.png" width="380"></a><br><sub>Terrain — peaks, rock band, grass field</sub> |
+
+### Antonica — 52 zones
+
+| | | |
+|---|---|---|
+| <a href="src/design/zones/befallen.png"><img src="src/design/zones/befallen.png" width="260"></a><br><sub><b>Befallen</b> · <code>befallen</code></sub> | <a href="src/design/zones/blackburrow.png"><img src="src/design/zones/blackburrow.png" width="260"></a><br><sub><b>Blackburrow</b> · <code>blackburrow</code></sub> | <a href="src/design/zones/cazicthule.png"><img src="src/design/zones/cazicthule.png" width="260"></a><br><sub><b>Cazic-Thule</b> · <code>cazicthule</code></sub> |
+| <a href="src/design/zones/ecommons.png"><img src="src/design/zones/ecommons.png" width="260"></a><br><sub><b>East Commonlands</b> · <code>ecommons</code></sub> | <a href="src/design/zones/freporte.png"><img src="src/design/zones/freporte.png" width="260"></a><br><sub><b>East Freeport</b> · <code>freporte</code></sub> | <a href="src/design/zones/eastkarana.png"><img src="src/design/zones/eastkarana.png" width="260"></a><br><sub><b>East Karana</b> · <code>eastkarana</code></sub> |
+| <a href="src/design/zones/unrest.png"><img src="src/design/zones/unrest.png" width="260"></a><br><sub><b>Estate of Unrest</b> · <code>unrest</code></sub> | <a href="src/design/zones/everfrost.png"><img src="src/design/zones/everfrost.png" width="260"></a><br><sub><b>Everfrost Peaks</b> · <code>everfrost</code></sub> | <a href="src/design/zones/freeportsewers.png"><img src="src/design/zones/freeportsewers.png" width="260"></a><br><sub><b>Freeport Sewers</b> · <code>freeportsewers</code></sub> |
+| <a href="src/design/zones/beholder.png"><img src="src/design/zones/beholder.png" width="260"></a><br><sub><b>Gorge of King Xorbb</b> · <code>beholder</code></sub> | <a href="src/design/zones/grobb.png"><img src="src/design/zones/grobb.png" width="260"></a><br><sub><b>Grobb</b> · <code>grobb</code></sub> | <a href="src/design/zones/halas.png"><img src="src/design/zones/halas.png" width="260"></a><br><sub><b>Halas</b> · <code>halas</code></sub> |
+| <a href="src/design/zones/highkeep.png"><img src="src/design/zones/highkeep.png" width="260"></a><br><sub><b>High Keep</b> · <code>highkeep</code></sub> | <a href="src/design/zones/highpass.png"><img src="src/design/zones/highpass.png" width="260"></a><br><sub><b>Highpass Hold</b> · <code>highpass</code></sub> | <a href="src/design/zones/innothule.png"><img src="src/design/zones/innothule.png" width="260"></a><br><sub><b>Innothule Swamp</b> · <code>innothule</code></sub> |
+| <a href="src/design/zones/kithicor.png"><img src="src/design/zones/kithicor.png" width="260"></a><br><sub><b>Kithicor Forest</b> · <code>kithicor</code></sub> | <a href="src/design/zones/lakerathe.png"><img src="src/design/zones/lakerathe.png" width="260"></a><br><sub><b>Lake Rathetear</b> · <code>lakerathe</code></sub> | <a href="src/design/zones/lavastorm.png"><img src="src/design/zones/lavastorm.png" width="260"></a><br><sub><b>Lavastorm Mountains</b> · <code>lavastorm</code></sub> |
+| <a href="src/design/zones/gukbottom.png"><img src="src/design/zones/gukbottom.png" width="260"></a><br><sub><b>Lower Guk</b> · <code>gukbottom</code></sub> | <a href="src/design/zones/misty.png"><img src="src/design/zones/misty.png" width="260"></a><br><sub><b>Misty Thicket</b> · <code>misty</code></sub> | <a href="src/design/zones/soldungb.png"><img src="src/design/zones/soldungb.png" width="260"></a><br><sub><b>Nagafen's Lair (Sol B)</b> · <code>soldungb</code></sub> |
+| <a href="src/design/zones/najena.png"><img src="src/design/zones/najena.png" width="260"></a><br><sub><b>Najena</b> · <code>najena</code></sub> | <a href="src/design/zones/nektulos.png"><img src="src/design/zones/nektulos.png" width="260"></a><br><sub><b>Nektulos Forest</b> · <code>nektulos</code></sub> | <a href="src/design/zones/neriakb.png"><img src="src/design/zones/neriakb.png" width="260"></a><br><sub><b>Neriak — Commons</b> · <code>neriakb</code></sub> |
+| <a href="src/design/zones/neriaka.png"><img src="src/design/zones/neriaka.png" width="260"></a><br><sub><b>Neriak — Foreign Quarter</b> · <code>neriaka</code></sub> | <a href="src/design/zones/neriakc.png"><img src="src/design/zones/neriakc.png" width="260"></a><br><sub><b>Neriak — Third Gate</b> · <code>neriakc</code></sub> | <a href="src/design/zones/freportn.png"><img src="src/design/zones/freportn.png" width="260"></a><br><sub><b>North Freeport</b> · <code>freportn</code></sub> |
+| <a href="src/design/zones/northkarana.png"><img src="src/design/zones/northkarana.png" width="260"></a><br><sub><b>North Karana</b> · <code>northkarana</code></sub> | <a href="src/design/zones/qeynos2.png"><img src="src/design/zones/qeynos2.png" width="260"></a><br><sub><b>North Qeynos</b> · <code>qeynos2</code></sub> | <a href="src/design/zones/nro.png"><img src="src/design/zones/nro.png" width="260"></a><br><sub><b>Northern Desert of Ro</b> · <code>nro</code></sub> |
+| <a href="src/design/zones/oasis.png"><img src="src/design/zones/oasis.png" width="260"></a><br><sub><b>Oasis of Marr</b> · <code>oasis</code></sub> | <a href="src/design/zones/oot.png"><img src="src/design/zones/oot.png" width="260"></a><br><sub><b>Ocean of Tears</b> · <code>oot</code></sub> | <a href="src/design/zones/oggok.png"><img src="src/design/zones/oggok.png" width="260"></a><br><sub><b>Oggok</b> · <code>oggok</code></sub> |
+| <a href="src/design/zones/permafrost.png"><img src="src/design/zones/permafrost.png" width="260"></a><br><sub><b>Permafrost Keep</b> · <code>permafrost</code></sub> | <a href="src/design/zones/qcat.png"><img src="src/design/zones/qcat.png" width="260"></a><br><sub><b>Qeynos Catacombs</b> · <code>qcat</code></sub> | <a href="src/design/zones/qeytoqrg.png"><img src="src/design/zones/qeytoqrg.png" width="260"></a><br><sub><b>Qeynos Hills</b> · <code>qeytoqrg</code></sub> |
+| <a href="src/design/zones/rathemtn.png"><img src="src/design/zones/rathemtn.png" width="260"></a><br><sub><b>Rathe Mountains</b> · <code>rathemtn</code></sub> | <a href="src/design/zones/rivervale.png"><img src="src/design/zones/rivervale.png" width="260"></a><br><sub><b>Rivervale</b> · <code>rivervale</code></sub> | <a href="src/design/zones/runnyeye.png"><img src="src/design/zones/runnyeye.png" width="260"></a><br><sub><b>Runnyeye</b> · <code>runnyeye</code></sub> |
+| <a href="src/design/zones/soldunga.png"><img src="src/design/zones/soldunga.png" width="260"></a><br><sub><b>Solusek's Eye (Sol A)</b> · <code>soldunga</code></sub> | <a href="src/design/zones/soldungc.png"><img src="src/design/zones/soldungc.png" width="260"></a><br><sub><b>Solusek's Eye (lower)</b> · <code>soldungc</code></sub> | <a href="src/design/zones/southkarana.png"><img src="src/design/zones/southkarana.png" width="260"></a><br><sub><b>South Karana</b> · <code>southkarana</code></sub> |
+| <a href="src/design/zones/qeynos.png"><img src="src/design/zones/qeynos.png" width="260"></a><br><sub><b>South Qeynos</b> · <code>qeynos</code></sub> | <a href="src/design/zones/sro.png"><img src="src/design/zones/sro.png" width="260"></a><br><sub><b>Southern Desert of Ro</b> · <code>sro</code></sub> | <a href="src/design/zones/paw.png"><img src="src/design/zones/paw.png" width="260"></a><br><sub><b>Splitpaw Lair</b> · <code>paw</code></sub> |
+| <a href="src/design/zones/qrg.png"><img src="src/design/zones/qrg.png" width="260"></a><br><sub><b>Surefall Glade</b> · <code>qrg</code></sub> | <a href="src/design/zones/soltemple.png"><img src="src/design/zones/soltemple.png" width="260"></a><br><sub><b>Temple of Solusek Ro</b> · <code>soltemple</code></sub> | <a href="src/design/zones/feerrott.png"><img src="src/design/zones/feerrott.png" width="260"></a><br><sub><b>The Feerrott</b> · <code>feerrott</code></sub> |
+| <a href="src/design/zones/guktop.png"><img src="src/design/zones/guktop.png" width="260"></a><br><sub><b>Upper Guk</b> · <code>guktop</code></sub> | <a href="src/design/zones/commons.png"><img src="src/design/zones/commons.png" width="260"></a><br><sub><b>West Commonlands</b> · <code>commons</code></sub> | <a href="src/design/zones/freportw.png"><img src="src/design/zones/freportw.png" width="260"></a><br><sub><b>West Freeport</b> · <code>freportw</code></sub> |
+| <a href="src/design/zones/qey2hh1.png"><img src="src/design/zones/qey2hh1.png" width="260"></a><br><sub><b>West Karana</b> · <code>qey2hh1</code></sub> |  |  |
+
+### Odus — 9 zones
+
+| | | |
+|---|---|---|
+| <a href="src/design/zones/erudsxing.png"><img src="src/design/zones/erudsxing.png" width="260"></a><br><sub><b>Erud's Crossing</b> · <code>erudsxing</code></sub> | <a href="src/design/zones/erudnext.png"><img src="src/design/zones/erudnext.png" width="260"></a><br><sub><b>Erudin</b> · <code>erudnext</code></sub> | <a href="src/design/zones/erudnint.png"><img src="src/design/zones/erudnint.png" width="260"></a><br><sub><b>Erudin Palace</b> · <code>erudnint</code></sub> |
+| <a href="src/design/zones/kerraridge.png"><img src="src/design/zones/kerraridge.png" width="260"></a><br><sub><b>Kerra Isle</b> · <code>kerraridge</code></sub> | <a href="src/design/zones/paineel.png"><img src="src/design/zones/paineel.png" width="260"></a><br><sub><b>Paineel</b> · <code>paineel</code></sub> | <a href="src/design/zones/stonebrunt.png"><img src="src/design/zones/stonebrunt.png" width="260"></a><br><sub><b>Stonebrunt Mountains</b> · <code>stonebrunt</code></sub> |
+| <a href="src/design/zones/hole.png"><img src="src/design/zones/hole.png" width="260"></a><br><sub><b>The Hole</b> · <code>hole</code></sub> | <a href="src/design/zones/warrens.png"><img src="src/design/zones/warrens.png" width="260"></a><br><sub><b>The Warrens</b> · <code>warrens</code></sub> | <a href="src/design/zones/tox.png"><img src="src/design/zones/tox.png" width="260"></a><br><sub><b>Toxxulia Forest</b> · <code>tox</code></sub> |
+
+### Faydwer — 13 zones
+
+| | | |
+|---|---|---|
+| <a href="src/design/zones/akanon.png"><img src="src/design/zones/akanon.png" width="260"></a><br><sub><b>Ak'Anon</b> · <code>akanon</code></sub> | <a href="src/design/zones/butcher.png"><img src="src/design/zones/butcher.png" width="260"></a><br><sub><b>Butcherblock Mountains</b> · <code>butcher</code></sub> | <a href="src/design/zones/mistmoore.png"><img src="src/design/zones/mistmoore.png" width="260"></a><br><sub><b>Castle Mistmoore</b> · <code>mistmoore</code></sub> |
+| <a href="src/design/zones/crushbone.png"><img src="src/design/zones/crushbone.png" width="260"></a><br><sub><b>Crushbone</b> · <code>crushbone</code></sub> | <a href="src/design/zones/cauldron.png"><img src="src/design/zones/cauldron.png" width="260"></a><br><sub><b>Dagnor's Cauldron</b> · <code>cauldron</code></sub> | <a href="src/design/zones/gfaydark.png"><img src="src/design/zones/gfaydark.png" width="260"></a><br><sub><b>Greater Faydark</b> · <code>gfaydark</code></sub> |
+| <a href="src/design/zones/kedge.png"><img src="src/design/zones/kedge.png" width="260"></a><br><sub><b>Kedge Keep</b> · <code>kedge</code></sub> | <a href="src/design/zones/lfaydark.png"><img src="src/design/zones/lfaydark.png" width="260"></a><br><sub><b>Lesser Faydark</b> · <code>lfaydark</code></sub> | <a href="src/design/zones/kaladima.png"><img src="src/design/zones/kaladima.png" width="260"></a><br><sub><b>North Kaladim</b> · <code>kaladima</code></sub> |
+| <a href="src/design/zones/felwithea.png"><img src="src/design/zones/felwithea.png" width="260"></a><br><sub><b>Northern Felwithe</b> · <code>felwithea</code></sub> | <a href="src/design/zones/kaladimb.png"><img src="src/design/zones/kaladimb.png" width="260"></a><br><sub><b>South Kaladim</b> · <code>kaladimb</code></sub> | <a href="src/design/zones/felwitheb.png"><img src="src/design/zones/felwitheb.png" width="260"></a><br><sub><b>Southern Felwithe</b> · <code>felwitheb</code></sub> |
+| <a href="src/design/zones/steamfont.png"><img src="src/design/zones/steamfont.png" width="260"></a><br><sub><b>Steamfont Mountains</b> · <code>steamfont</code></sub> |  |  |
+
+### The Planes — 4 zones
+
+| | | |
+|---|---|---|
+| <a href="src/design/zones/fearplane.png"><img src="src/design/zones/fearplane.png" width="260"></a><br><sub><b>Plane of Fear</b> · <code>fearplane</code></sub> | <a href="src/design/zones/hateplane.png"><img src="src/design/zones/hateplane.png" width="260"></a><br><sub><b>Plane of Hate</b> · <code>hateplane</code></sub> | <a href="src/design/zones/hateplaneb.png"><img src="src/design/zones/hateplaneb.png" width="260"></a><br><sub><b>Plane of Hate (lower)</b> · <code>hateplaneb</code></sub> |
+| <a href="src/design/zones/airplane.png"><img src="src/design/zones/airplane.png" width="260"></a><br><sub><b>Plane of Sky</b> · <code>airplane</code></sub> |  |  |
+
+### Custom — 1 zones
+
+| | | |
+|---|---|---|
+| <a href="src/design/zones/newsebexp.png"><img src="src/design/zones/newsebexp.png" width="260"></a><br><sub><b>New Sebilis (Expedition)</b> · <code>newsebexp</code></sub> |  |  |
+
+</details>
 
 ---
 
@@ -191,6 +267,8 @@ The **Extra layer** column says what `_3` carries in that zone, if anything:
 - **effects** — zone-specific overflow, such as Steamfont's dragon bones (1 zone)
 
 `File` is the map file's name, which is what the client and any bug report will use.
+
+Every zone below has a render in the **Gallery** at the top of this page.
 
 
 ### Antonica — 52 zones
@@ -411,15 +489,15 @@ handled*.
 ## For developers
 
 Everything here is generated from Python — no map file is edited by hand. The build
-sources live in the developer folder, which has its own README. In brief:
+sources live in [`src/`](src/), which has its own README. In brief:
 
 | | |
 |---|---|
-| `kit/` | reusable art: `terrain` (peaks, rock, grass, canopy), `flora` (trees and undergrowth), `fauna` (every playable race plus creatures), the Teir'Dal set, and fallen logs |
-| `toolkit/` | map primitives: canvas, frame, grid, title, compass, doodles |
-| `zones/` | per-zone build scripts |
-| `tools/` | cross-atlas utilities: validation, compass placement, alignment |
-| `design/` | catalogue sheets, a render of all 79 zones, the EQOA report, source archive |
+| [`src/kit/`](src/kit) | reusable art: `terrain` (peaks, rock, grass, canopy), `flora` (trees and undergrowth), `fauna` (every playable race plus creatures), the Teir'Dal set, and fallen logs |
+| [`src/toolkit/`](src/toolkit) | map primitives: canvas, frame, grid, title, compass, doodles |
+| [`src/zones/`](src/zones) | per-zone build scripts |
+| [`src/tools/`](src/tools) | cross-atlas utilities: validation, compass placement, alignment |
+| [`src/design/`](src/design) | catalogue sheets, a render of all 79 zones, the EQOA report, source archive |
 
 Zones are **composed from kits** rather than drawn one-off, so a fix to a tree or a race
 silhouette propagates everywhere it appears.
