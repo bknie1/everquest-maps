@@ -2,12 +2,11 @@ P 851.5900, -215.8600, -1.0000, 96, 0, 140, 3, to_Neriak_Commons
 P 969.0000, -892.0000, -1.0000, 112, 68, 20, 3, Succor
 P 854.0000, -400.0000, -1.0000, 24, 62, 78, 2, Merchant_(Cleric_Spells)_Myris
 P 1255.0000, -1303.0000, -1.0000, 28, 48, 112, 3, Lodge_of_the_Dead_(Necromancer+SK_Guild)
-P 1278.0000, -913.0000, -1.0000, 28, 48, 112, 3, Library_(Wiz/Ench/Mag_Spells)
+P 1278.0000, -913.0000, -1.0000, 28, 48, 112, 3, Spell_Merchants_(Wiz/Ench/Mag)
 P 1278.0000, -913.0000, -1.0000, 24, 62, 78, 2, Merchant_(Wizard_Portal_Spells)_Jusar
-P 1310.0000, -769.0000, -1.0000, 24, 62, 78, 2, Merchant_(Small_Leather)_Furrier_Royale
-P 1424.0000, -864.0000, -1.0000, 28, 48, 112, 2, The_Maidens_Fancy_(Bar)
-P 1425.0000, -816.0000, -1.0000, 24, 62, 78, 2, Merchant_(Gems/Jewelcraft)_The_Bauble
-P 1472.0000, -703.0000, -1.0000, 24, 62, 78, 2, Merchant_(Alcohol)_Cuisine_Excelsior
+P 1310.0000, -769.0000, -1.0000, 24, 62, 78, 2, Merchant_(Small_Leather)
+P 1425.0000, -816.0000, -1.0000, 24, 62, 78, 2, Merchant_(Gems/Jewelcraft)
+P 1472.0000, -703.0000, -1.0000, 24, 62, 78, 2, Merchant_(Alcohol)
 P 1512.0000, -763.0000, -1.0000, 24, 62, 78, 2, Merchant_(Wine)_The_Rack
 P 1780.0000, -694.0000, -1.0000, 24, 62, 78, 2, Merchant_(Smithing/DE_Chain)_Draan
 P 789.0000, -408.0000, -1.0000, 62, 24, 92, 2, Perrir_Zexus_(GM_Cleric_61)
