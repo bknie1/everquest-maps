@@ -16,7 +16,7 @@ Enlightenment, and the Age of Turmoil.**
 ## Gallery
 
 <details>
-<summary><b>Gallery — every zone, and the asset kits</b> (click to expand)</summary>
+<summary><b>Every zone, and the asset kits</b> (click to expand)</summary>
 
 <br>
 
