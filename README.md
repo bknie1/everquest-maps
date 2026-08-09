@@ -13,9 +13,7 @@ Enlightenment, and the Age of Turmoil.**
 
 ---
 
-External demo renders (pardon any visual issues; labels render differently in-game)
-
-<img width="700" height="1074" alt="ak_full" src="https://github.com/user-attachments/assets/b6a0f60b-3fbb-4b8a-bd2d-ec686c11b75d" />
+## Gallery
 
 <details>
 <summary><b>Gallery — every zone, and the asset kits</b> (click to expand)</summary>
