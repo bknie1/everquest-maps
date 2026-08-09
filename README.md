@@ -1,22 +1,23 @@
-# Custom EQ Atlas Maps by Emoda
+<p align="center">
+  <img src="src/design/banner/hero.png" alt="Emoda Legends Maps — an atlas of the Old World">
+</p>
 
-Atlas-style in-game map files for **EverQuest Legends** and **Project 1999**, built zone
-by zone. The look is a 2D contour map with 3D-effect features: parchment background,
-color-coded points of interest, themed hand-crafted borders, etched titles, compasses,
-and zone-appropriate decorative sketches.
+Atlas-style in-game map files for EverQuest Legends and Project 1999, built zone by zone.
+The look is a 2D contour map with 3D-effect features: parchment background, color-coded
+points of interest, themed hand-crafted borders, etched titles, compasses, and
+zone-appropriate decorative sketches.
 
 It's just vector math. You can do cool vector art.
 
-**79 zones · 273 files · 1,556 markers · 349 points of interest from the Age of
-Monuments, the Age of Blood, the Lost Age, the Age of Adventure, the Age of
-Enlightenment, and the Age of Turmoil.**
+349 points of interest span the Age of Monuments, the Age of Blood, the Lost Age, the
+Age of Adventure, the Age of Enlightenment, and the Age of Turmoil.
 
----
-
-## Gallery
+<p align="center">
+  <img src="src/design/banner/layers.png" alt="The four map layers, added one at a time">
+</p>
 
 <details>
-<summary><b>Gallery — every zone, and the asset kits</b> (click to expand)</summary>
+<summary><b>Gallery: every zone, and the asset kits</b> (click to expand)</summary>
 
 <br>
 
