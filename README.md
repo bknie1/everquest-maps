@@ -11,6 +11,8 @@ It's just vector math. You can do cool vector art.
 
 External demo renders (pardon any visual issues; labels render differently in-game)
 
+<img width="300" height="356" alt="image" src="https://github.com/user-attachments/assets/58a39931-9d00-4f38-b057-95386dc934da" />
+
 <img width="700" height="1074" alt="ak_full" src="https://github.com/user-attachments/assets/b6a0f60b-3fbb-4b8a-bd2d-ec686c11b75d" />
 
 ---
