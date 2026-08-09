@@ -626,7 +626,7 @@ def library_facade(cx, cy, w, h, ink=None, cols=6):
 
 def water_flood(water_segments, struct_segments, ink=None,
                 cell=5.0, row=11.0, dash=9.0, blue_frac=0.26, max_frac=0.30,
-                clearance=2, solid=True):
+                clearance=2, solid=True, corridor=30.0, min_pool=24):
     """Shade water by FLOOD FILL rather than by polygon.
 
     Real maps bound a pool partly with a shoreline and partly with the walls of
@@ -806,6 +806,55 @@ def water_flood(water_segments, struct_segments, ink=None,
 
     for cells in regions:
         for i in cells: inwater[i] = 1
+
+    # ---- anything ENCLOSED BY STRUCTURE is never water ------------------------
+    # A bridge or island standing in a pool sits inside the shoreline, so the
+    # even-odd mask calls it water and only the edge gutter trims it. Flood in
+    # from the map border through everything that is not a structural wall: what
+    # that flood cannot reach is walled in by buildings, and is land.
+    reach = bytearray(W*H)
+    dq = collections.deque()
+    for gx in range(W):
+        for gy in (0, H-1):
+            i = gy*W+gx
+            if wall[i] != 1 and not reach[i]: reach[i]=1; dq.append(i)
+    for gy in range(H):
+        for gx in (0, W-1):
+            i = gy*W+gx
+            if wall[i] != 1 and not reach[i]: reach[i]=1; dq.append(i)
+    while dq:
+        i = dq.popleft(); gx=i%W; gy=i//W
+        for dx,dy in ((1,0),(-1,0),(0,1),(0,-1)):
+            nx,ny = gx+dx, gy+dy
+            if not (0<=nx<W and 0<=ny<H): continue
+            j = ny*W+nx
+            if wall[j] != 1 and not reach[j]:
+                reach[j]=1; dq.append(j)
+    walled_in = sum(1 for i in range(total) if inwater[i] and not reach[i])
+    for i in range(total):
+        if not reach[i]: inwater[i] = 0
+
+    # ---- corridors: structure on BOTH sides means a bridge or walkway --------
+    # A wide gutter would clear bridges but also eat narrow moats, whose banks are
+    # shoreline rather than structure. So test for structure on two OPPOSITE
+    # sides within a short reach: that is a corridor, and never water.
+    if corridor:
+        R = max(2, int(corridor/cell))
+        def hits(i, dx, dy):
+            gx, gy = i%W, i//W
+            for k in range(1, R+1):
+                nx, ny = gx+dx*k, gy+dy*k
+                if not (0<=nx<W and 0<=ny<H): return False
+                j = ny*W+nx
+                if wall[j] == 1: return True
+                if wall[j] == 2: return False      # shoreline first: open water
+            return False
+        removed = 0
+        for i in range(total):
+            if not inwater[i]: continue
+            if (hits(i,1,0) and hits(i,-1,0)) or (hits(i,0,1) and hits(i,0,-1)):
+                inwater[i] = 0; removed += 1
+
     regions = [[i for i in range(total) if inwater[i] and not wall[i]]]
 
     out=[]
@@ -833,6 +882,36 @@ def water_flood(water_segments, struct_segments, ink=None,
                     while x < bx:
                         out.append((x, yy, min(x+dash, bx), yy, ink))
                         x += dash*1.4
+
+    # ---- drop undersized bodies -------------------------------------------
+    # A handful of strokes stranded on land is an artefact, not a puddle: real
+    # pools here run to dozens of runs. Cheaper to discard them than to chase
+    # every leak that produced them.
+    if min_pool and out:
+        C = max(cell*2.0, row*1.6, 7.0)   # tight: adjacency must be real, not grid slop
+        cells_ = collections.defaultdict(list)
+        for i,(x1,y1,x2,y2,_c) in enumerate(out):
+            # sample ALONG the run: solid rows are long, and three samples leave
+            # gaps wider than the grid, which splits one pool into many
+            steps = max(2, int(math.hypot(x2-x1, y2-y1)/(C*0.5)) + 1)
+            for k in range(steps+1):
+                t = k/steps
+                px, py = x1+(x2-x1)*t, y1+(y2-y1)*t
+                cells_[(int(px//C), int(py//C))].append(i)
+        seen_=set(); keep=set()
+        for k in list(cells_):
+            if k in seen_: continue
+            st=[k]; comp=set()
+            while st:
+                d=st.pop()
+                if d in seen_ or d not in cells_: continue
+                seen_.add(d); comp.update(cells_[d])
+                for dx in (-1,0,1):
+                    for dy in (-1,0,1):
+                        nn=(d[0]+dx, d[1]+dy)
+                        if nn in cells_ and nn not in seen_: st.append(nn)
+            if len(comp) >= min_pool: keep.update(comp)
+        out = [o for i,o in enumerate(out) if i in keep]
     return out
 
 

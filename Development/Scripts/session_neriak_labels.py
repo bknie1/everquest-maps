@@ -60,7 +60,7 @@ print("neriakc_1: Hall of the Dead -> Lodge of the Dead")
 # ---- 3. the city's own places, on the _3 layer -----------------------------
 PLACES = [
     # name,                              loc1,     loc2,     z,      ink
-    ("The_Rock_(Bar)",                   772.72,  -1517.85, -80.15,  VENUE),
+    ("The_Rock",                         772.72,  -1517.85, -80.15,  VENUE),
     ("Cuisine_Excelsior",                761.99,  -1447.97, -80.15,  VENUE),
     ("The_Bauble",                       823.87,  -1420.25, -80.15,  VENUE),
     ("The_Maiden's_Fancy",               883.23,  -1452.40, -80.15,  VENUE),

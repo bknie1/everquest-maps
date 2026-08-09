@@ -164,7 +164,7 @@ for z,(main, sub, accent, right) in ZONES.items():
         fill = DE.water_flood(water, struct,
                               cell=max(2.5, span*0.0026),
                               row=max(2.5, span*0.0026),   # tight rows = solid water
-                              clearance=4, solid=True)
+                              clearance=4, solid=True, corridor=34.0)
         raw_n = len(fill)
         for (x1,y1,x2,y2,ink) in fill: cv.add(x1,y1,x2,y2,ink)
         print(f"   {z}: water {raw_n} strokes by flood fill "
