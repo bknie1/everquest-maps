@@ -164,6 +164,111 @@ def hill(cx, cy, w, h, ink=None, shade=None, seed=0):
     return out
 
 
+def volcano(cx, cy, w, h, ink=None, lava=None, seed=0):
+    """A volcanic cone: broken rim, lava tongues down the flanks, a smoke plume."""
+    ink = ink or (96, 78, 70); lava = lava or (198, 92, 40)
+    rnd = random.Random(seed)
+    out = []
+    rim = h*0.30
+    _p = [(cx-w*0.5, cy+h*0.5)]
+    n = 9
+    for k in range(1, n):
+        t = k/n
+        x = cx-w*0.5+w*t
+        y = cy+h*0.5-h*(1.0-abs(t-0.5)*2)*rnd.uniform(0.80, 1.0)
+        _p.append((x, y))
+    _p.append((cx+w*0.5, cy+h*0.5))
+    for i in range(len(_p)-1):
+        out.append((_p[i][0], _p[i][1], _p[i+1][0], _p[i+1][1], ink))
+    out.append((cx-w*0.16, cy-h*0.34, cx+w*0.16, cy-h*0.34, ink))          # crater lip
+    for k in range(rnd.randint(2, 4)):                                      # lava tongues
+        x0 = cx + rnd.uniform(-w*0.14, w*0.14)
+        px, py = x0, cy-h*0.32
+        for j in range(rnd.randint(3, 5)):
+            nx = px + rnd.uniform(-w*0.10, w*0.10)
+            ny = py + h*rnd.uniform(0.12, 0.22)
+            if ny > cy+h*0.48: break
+            out.append((px, py, nx, ny, lava)); px, py = nx, ny
+    for k in range(3):                                                      # plume
+        yy = cy-h*(0.42+0.16*k)
+        wob = w*(0.10+0.06*k)
+        out.append((cx-wob, yy, cx+wob*0.6, yy-h*0.06, ink))
+    for k in range(rnd.randint(4, 7)):                                      # rubble
+        x = cx + rnd.uniform(-w*0.5, w*0.5)
+        out.append((x, cy+h*0.5, x+rnd.uniform(-w*0.04, w*0.04), cy+h*0.44, ink))
+    return out
+
+
+def snowdrift(cx, cy, w, h, ink=None, seed=0):
+    """Wind-blown snow: stacked scallops, lighter than rock hachures."""
+    ink = ink or (176, 196, 212)
+    rnd = random.Random(seed)
+    out = []
+    for r in range(rnd.randint(2, 3)):
+        yy = cy + r*h*0.22
+        x = cx - w*0.5
+        while x < cx + w*0.5:
+            lw = w*rnd.uniform(0.10, 0.20)
+            prev = None
+            for k in range(7):
+                a = math.pi + math.pi*k/6
+                p = (x+lw*0.5+math.cos(a)*lw*0.5, yy+math.sin(a)*h*0.10)
+                if prev: out.append((prev[0], prev[1], p[0], p[1], ink))
+                prev = p
+            x += lw*rnd.uniform(0.9, 1.3)
+    return out
+
+
+def mudflat(cx, cy, w, h, ink=None, dark=None, seed=0):
+    """Churned mud: overlapping puddle rings and drag marks. For pens and wallows."""
+    ink = ink or (110, 92, 68); dark = dark or (84, 68, 50)
+    rnd = random.Random(seed)
+    out = []
+    for k in range(rnd.randint(3, 6)):
+        px = cx + rnd.uniform(-w*0.4, w*0.4)
+        py = cy + rnd.uniform(-h*0.4, h*0.4)
+        rx = w*rnd.uniform(0.10, 0.22); ry = rx*rnd.uniform(0.45, 0.75)
+        prev = None
+        for j in range(13):
+            a = 2*math.pi*j/12
+            wob = 1.0 + 0.16*math.sin(3*a+k)
+            p = (px+math.cos(a)*rx*wob, py+math.sin(a)*ry*wob)
+            if prev: out.append((prev[0], prev[1], p[0], p[1], ink if k % 2 else dark))
+            prev = p
+    for k in range(rnd.randint(4, 8)):                                     # drag marks
+        x0 = cx + rnd.uniform(-w*0.45, w*0.45); y0 = cy + rnd.uniform(-h*0.45, h*0.45)
+        out.append((x0, y0, x0+rnd.uniform(-w*0.12, w*0.12), y0+rnd.uniform(-3, 3), dark))
+    return out
+
+
+def ruin_arch(cx, cy, w, h, ink=None, seed=0):
+    """A crumbling arcade: columns under a broken entablature. Roman, half-fallen."""
+    ink = ink or (150, 140, 122)
+    rnd = random.Random(seed)
+    out = []
+    base_y = cy + h*0.5
+    cols = rnd.randint(3, 5)
+    for k in range(cols):
+        x = cx - w*0.5 + w*(k+0.5)/cols
+        ch = h*rnd.uniform(0.55, 1.0)                                       # some snapped
+        cw = w*0.05
+        out.append((x-cw, base_y, x-cw, base_y-ch, ink))
+        out.append((x+cw, base_y, x+cw, base_y-ch, ink))
+        out.append((x-cw*1.5, base_y-ch, x+cw*1.5, base_y-ch, ink))
+        out.append((x-cw*1.6, base_y, x+cw*1.6, base_y, ink))
+    out.append((cx-w*0.5, base_y-h, cx+w*0.16, base_y-h, ink))              # broken lintel
+    out.append((cx-w*0.5, base_y-h*1.06, cx+w*0.10, base_y-h*1.06, ink))
+    out.append((cx-w*0.52, base_y, cx+w*0.52, base_y, ink))
+    for k in range(rnd.randint(2, 4)):                                      # fallen blocks
+        x = cx + rnd.uniform(-w*0.5, w*0.5)
+        bw = w*0.05
+        out.append((x, base_y+3, x+bw, base_y+3, ink))
+        out.append((x, base_y+3, x, base_y+9, ink))
+        out.append((x+bw, base_y+3, x+bw, base_y+9, ink))
+        out.append((x, base_y+9, x+bw, base_y+9, ink))
+    return out
+
+
 def rock_band(inside, x0, y0, x1, y1, step=26.0, ink=None, lit=None, seed=0):
     """Brown rock shading over any region `inside(x,y)` reports true for.
     Short broken strokes with occasional outcrops — reads as bare stone, and

@@ -33,6 +33,14 @@ PALETTE = {
     'froglok':   (74, 100, 62),
     'iksar':     (92, 96, 86),
     'ratman':    (108, 100, 94),
+    'kobold':    (104, 88, 70),
+    'gnoll':     (120, 102, 74),
+    'sprite':    (128, 150, 176),
+    'myconid':   (126, 108, 128),
+    'snake':     (92, 104, 70),
+    'rat':       (110, 100, 92),
+    'skunk':     (72, 68, 72),
+    'drake':     (128, 82, 58),
     'fur':       (92, 80, 68),
 }
 
@@ -419,6 +427,181 @@ def ratman(cx, cy, s, ink=None, seed=0):
     return out
 
 
+# ------------------------------------------------- beast-folk & vermin -----
+def kobold(cx, cy, s, ink=None, seed=0):
+    """Kobold: short, hunched, long snouted head with a backswept crest."""
+    ink = ink or PALETTE['kobold']
+    out = []
+    s = s*0.82
+    top, hip, w = _humanoid(out, cx, cy, s, ink, build=1.0, height=0.88)
+    hy = top - s*0.16
+    _P(out, [(cx+s*0.06, hy+s*0.10), (cx-s*0.12, hy+s*0.08), (cx-s*0.14, hy-s*0.04),
+             (cx+s*0.06, hy-s*0.12), (cx+s*0.30, hy-s*0.02), (cx+s*0.32, hy+s*0.06)],
+       ink, close=True)
+    _P(out, [(cx-s*0.06, hy-s*0.10), (cx-s*0.18, hy-s*0.28), (cx+s*0.02, hy-s*0.16)], ink)
+    out.append((cx-w*1.0, top+s*0.12, cx-s*0.30, cy+s*0.20, ink))
+    out.append((cx+w*1.0, top+s*0.12, cx+s*0.34, cy+s*0.06, ink))
+    _P(out, [(cx+s*0.30, cy+s*0.02), (cx+s*0.44, cy-s*0.24)], ink)      # short spear
+    return out
+
+
+def gnoll(cx, cy, s, ink=None, seed=0):
+    """Gnoll: tall hyena-folk, sloped back, upright ears, spotted shoulders."""
+    ink = ink or PALETTE['gnoll']
+    out = []
+    top = cy - s*0.46; hip = cy + s*0.10; w = s*0.19
+    _P(out, [(cx-w, hip), (cx-w*1.2, top+s*0.14), (cx+s*0.02, top-s*0.02),
+             (cx+w*1.05, top+s*0.14), (cx+w, hip)], ink, close=True)     # sloped back
+    hy = top - s*0.14
+    _ring(out, cx+s*0.02, hy, s*0.13, s*0.12, ink)
+    for side in (-1, 1):                                                 # upright ears
+        _P(out, [(cx+s*0.02+side*s*0.06, hy-s*0.10),
+                 (cx+s*0.02+side*s*0.10, hy-s*0.30),
+                 (cx+s*0.02+side*s*0.16, hy-s*0.08)], ink)
+    _P(out, [(cx+s*0.14, hy+s*0.04), (cx+s*0.30, hy+s*0.08), (cx+s*0.14, hy+s*0.12)], ink)
+    for dx, dy in ((-0.10,-0.22),(0.02,-0.16),(-0.04,-0.06)):            # spots
+        _ring(out, cx+s*dx, cy+s*dy, s*0.03, s*0.03, ink, n=6)
+    out.append((cx-w*1.1, top+s*0.20, cx-s*0.34, cy+s*0.24, ink))
+    out.append((cx+w*1.0, top+s*0.20, cx+s*0.34, cy+s*0.10, ink))
+    out.append((cx-w*0.5, hip, cx-w*0.6, cy+s*0.44, ink))
+    out.append((cx+w*0.5, hip, cx+w*0.65, cy+s*0.44, ink))
+    prev = None
+    for k in range(7):                                                    # low tail
+        t = k/6.0
+        p = (cx-w-s*0.04-t*s*0.30, hip+s*0.02+math.sin(t*2.2)*s*0.10+t*s*0.18)
+        if prev: out.append((prev[0], prev[1], p[0], p[1], ink))
+        prev = p
+    return out
+
+
+def sprite(cx, cy, s, ink=None, seed=0):
+    """Sprite: a small body between two upswept wings, with a trailing glimmer."""
+    ink = ink or PALETTE['sprite']
+    rnd = random.Random(seed)
+    out = []
+    s = s*0.60
+    _ring(out, cx, cy, s*0.10, s*0.16, ink, n=8)
+    for side in (-1, 1):
+        _P(out, [(cx+side*s*0.08, cy-s*0.06),
+                 (cx+side*s*0.34, cy-s*0.44),
+                 (cx+side*s*0.44, cy-s*0.10),
+                 (cx+side*s*0.22, cy+s*0.06)], ink)
+    _ring(out, cx, cy-s*0.24, s*0.07, s*0.07, ink, n=7)
+    for k in range(3):
+        d = s*(0.30+0.18*k)
+        out.append((cx-d, cy+s*0.24+k*s*0.06, cx-d-s*0.10, cy+s*0.26+k*s*0.06, ink))
+    return out
+
+
+def myconid(cx, cy, s, ink=None, seed=0):
+    """Mushroom folk: broad cap over a stout stalk, with stubby arms."""
+    ink = ink or PALETTE['myconid']
+    rnd = random.Random(seed)
+    out = []
+    s = s*0.78
+    capy = cy - s*0.34
+    prev = None
+    for k in range(15):
+        a = math.pi + math.pi*k/14
+        p = (cx+math.cos(a)*s*0.36, capy+math.sin(a)*s*0.26)
+        if prev: out.append((prev[0], prev[1], p[0], p[1], ink))
+        prev = p
+    out.append((cx-s*0.36, capy, cx+s*0.36, capy, ink))
+    for k in range(4):                                                    # gills
+        x = cx-s*0.24+k*s*0.16
+        out.append((x, capy, x+rnd.uniform(-2,2), capy+s*0.09, ink))
+    _P(out, [(cx-s*0.14, capy+s*0.04), (cx-s*0.16, cy+s*0.40),
+             (cx+s*0.16, cy+s*0.40), (cx+s*0.14, capy+s*0.04)], ink)      # stalk
+    out.append((cx-s*0.15, cy-s*0.02, cx-s*0.30, cy+s*0.10, ink))
+    out.append((cx+s*0.15, cy-s*0.02, cx+s*0.30, cy+s*0.10, ink))
+    out.append((cx-s*0.22, cy+s*0.40, cx+s*0.22, cy+s*0.40, ink))
+    return out
+
+
+def snake(cx, cy, s, ink=None, seed=0):
+    """A serpent in an S-curve, head raised."""
+    ink = ink or PALETTE['snake']
+    out = []
+    prev = None
+    for k in range(19):
+        t = k/18.0
+        x = cx - s*0.48 + t*s*0.92
+        y = cy + math.sin(t*3.4)*s*0.20
+        if prev: out.append((prev[0], prev[1], x, y, ink))
+        prev = (x, y)
+    hx, hy = prev
+    _P(out, [(hx, hy), (hx+s*0.14, hy-s*0.14), (hx+s*0.26, hy-s*0.10),
+             (hx+s*0.16, hy-s*0.02)], ink, close=True)
+    out.append((hx+s*0.26, hy-s*0.11, hx+s*0.36, hy-s*0.14, ink))         # tongue
+    return out
+
+
+def rat(cx, cy, s, ink=None, seed=0):
+    """Common rat: low body, pointed snout, long bare tail."""
+    ink = ink or PALETTE['rat']
+    out = []
+    s = s*0.62
+    _P(out, [(cx-s*0.34, cy), (cx-s*0.20, cy-s*0.18), (cx+s*0.14, cy-s*0.20),
+             (cx+s*0.34, cy-s*0.06), (cx+s*0.46, cy+s*0.02),
+             (cx+s*0.28, cy+s*0.08), (cx-s*0.18, cy+s*0.10)], ink, close=True)
+    _ring(out, cx+s*0.12, cy-s*0.22, s*0.07, s*0.07, ink, n=7)            # ear
+    for dx in (-0.16, 0.02, 0.20):
+        out.append((cx+s*dx, cy+s*0.08, cx+s*(dx-0.03), cy+s*0.26, ink))
+    prev = None
+    for k in range(8):
+        t = k/7.0
+        p = (cx-s*0.34-t*s*0.44, cy+math.sin(t*2.6)*s*0.12)
+        if prev: out.append((prev[0], prev[1], p[0], p[1], ink))
+        prev = p
+    return out
+
+
+def skunk(cx, cy, s, ink=None, seed=0):
+    """Skunk: low body, plume tail up, pale stripe along the back."""
+    ink = ink or PALETTE['skunk']
+    out = []
+    s = s*0.66
+    _P(out, [(cx-s*0.30, cy), (cx-s*0.16, cy-s*0.16), (cx+s*0.16, cy-s*0.18),
+             (cx+s*0.36, cy-s*0.04), (cx+s*0.26, cy+s*0.08),
+             (cx-s*0.16, cy+s*0.10)], ink, close=True)
+    out.append((cx-s*0.14, cy-s*0.13, cx+s*0.20, cy-s*0.15, ink))         # stripe
+    for dx in (-0.12, 0.04, 0.20):
+        out.append((cx+s*dx, cy+s*0.08, cx+s*(dx-0.02), cy+s*0.24, ink))
+    prev = None                                                            # plume
+    for k in range(9):
+        t = k/8.0
+        a = -0.2 - t*2.0
+        p = (cx-s*0.32+math.cos(a)*s*0.30, cy-s*0.02+math.sin(a)*s*0.36)
+        if prev: out.append((prev[0], prev[1], p[0], p[1], ink))
+        prev = p
+    return out
+
+
+def drake(cx, cy, s, ink=None, seed=0):
+    """Small drake: long neck, membranous wings, whip tail."""
+    ink = ink or PALETTE['drake']
+    out = []
+    _P(out, [(cx-s*0.22, cy), (cx-s*0.04, cy-s*0.12), (cx+s*0.20, cy-s*0.06),
+             (cx+s*0.26, cy+s*0.06), (cx-s*0.10, cy+s*0.10)], ink, close=True)
+    _P(out, [(cx-s*0.22, cy-s*0.02), (cx-s*0.38, cy-s*0.24),
+             (cx-s*0.52, cy-s*0.30)], ink)                                 # neck
+    _P(out, [(cx-s*0.52, cy-s*0.30), (cx-s*0.66, cy-s*0.36),
+             (cx-s*0.58, cy-s*0.22), (cx-s*0.48, cy-s*0.24)], ink, close=True)
+    for side, sw in ((-1, 0.9), (1, 1.15)):                                # wings
+        _P(out, [(cx-s*0.02, cy-s*0.10),
+                 (cx+side*s*0.26, cy-s*0.52*sw),
+                 (cx+side*s*0.50, cy-s*0.34*sw),
+                 (cx+side*s*0.20, cy-s*0.12)], ink)
+        out.append((cx+side*s*0.26, cy-s*0.52*sw, cx+side*s*0.24, cy-s*0.18, ink))
+    prev = None
+    for k in range(8):
+        t = k/7.0
+        p = (cx+s*0.26+t*s*0.46, cy+s*0.06+math.sin(t*2.4)*s*0.14)
+        if prev: out.append((prev[0], prev[1], p[0], p[1], ink))
+        prev = p
+    return out
+
+
 RACES = {
     'dark_elf': dark_elf, 'high_elf': high_elf, 'wood_elf': wood_elf,
     'halfling': halfling, 'gnome': gnome, 'dwarf': dwarf,
@@ -428,7 +611,9 @@ RACES = {
     'froglok': froglok, 'iksar': iksar,
 }
 CREATURES = {'spider': spider, 'skeleton': skeleton, 'wolf': wolf, 'bat': bat,
-             'ratman': ratman}
+             'ratman': ratman, 'kobold': kobold, 'gnoll': gnoll, 'sprite': sprite,
+             'myconid': myconid, 'snake': snake, 'rat': rat, 'skunk': skunk,
+             'drake': drake}
 
 # which folk belong to which home city, for populating a zone plausibly
 HOMELANDS = {
