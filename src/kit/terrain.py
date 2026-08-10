@@ -27,6 +27,11 @@ PALETTE = {
     'rock_shade':  (132, 124, 120),
     'rock_brown':  (124, 96, 68),
     'rock_brown_l':(150, 124, 92),
+    # sky
+    'cloud':       (150, 176, 196),
+    'cloud_deep':  (122, 150, 176),
+    'sky_earth':   (128, 128, 112),
+    'sky_earth_l': (156, 152, 132),
 }
 
 
@@ -53,6 +58,36 @@ def scatter(x0, y0, x1, y1, n, min_dist, reject=None, seed=0, tries_mult=40):
         if not ok: continue
         pts.append((x, y)); grid.setdefault((gx,gy), []).append((x,y))
     return pts
+
+
+def cloud(cx, cy, w, h, ink=None, deep=None, seed=0):
+    """A drifting cloud: overlapping lobes along the top, flat-ish base, a few
+    interior strokes for volume. Drawn open so anything beneath still reads."""
+    ink = ink or PALETTE['cloud']; deep = deep or PALETTE['cloud_deep']
+    rnd = random.Random(seed)
+    out = []
+    lobes = rnd.randint(3, 5)
+    pts = []
+    for i in range(lobes):
+        t = i/(lobes-1) if lobes > 1 else 0.5
+        lx = cx - w*0.5 + w*t
+        lr = h*rnd.uniform(0.42, 0.72)
+        ly = cy - h*0.12 - lr*0.35
+        a0, a1 = math.pi*1.05, math.pi*1.95
+        n = 7
+        for k in range(n+1):
+            a = a0 + (a1-a0)*k/n
+            pts.append((lx + math.cos(a)*lr, ly + math.sin(a)*lr*0.85))
+    pts = [p for i, p in enumerate(pts) if i == 0 or p[1] < cy + h*0.1]
+    for i in range(len(pts)-1):
+        if abs(pts[i+1][0]-pts[i][0]) > w*0.55: continue
+        out.append((pts[i][0], pts[i][1], pts[i+1][0], pts[i+1][1], ink))
+    out.append((cx-w*0.5, cy+h*0.06, cx+w*0.5, cy+h*0.06, ink))      # base
+    for k in range(rnd.randint(2, 4)):                                # volume
+        yy = cy - h*rnd.uniform(0.05, 0.30)
+        x0 = cx - w*rnd.uniform(0.1, 0.38); x1 = x0 + w*rnd.uniform(0.15, 0.34)
+        out.append((x0, yy, x1, yy, deep))
+    return out
 
 
 def peak(cx, cy, w, h, ink=None, shade=None, seed=0):

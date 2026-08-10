@@ -102,7 +102,7 @@ def check(zone, fix=False):
     xs = [a for s in base for a in (s[0], s[2])]
     ys = [a for s in base for a in (s[1], s[3])]
     span = max(max(xs)-min(xs), max(ys)-min(ys))
-    cell = max(4.0, span*0.0025)
+    cell = max(3.0, span*0.0012)   # fine enough to catch a single pond
     m = water_mask(water, cell)
     if not m: return 0, 0
     wet, x0, y0, W, H = m

@@ -1352,7 +1352,7 @@ def water_between_banks(bank_segments, max_width, ink=None, cell=None, row=None,
 
 
 def water_scanline(border_segments, ink=None, cell=None, row=None, clearance=1,
-                   min_pool=18, both_axes=True):
+                   min_pool=18, both_axes=True, close_at_bounds=None):
     """Fill water by pairing border crossings along each scan line.
 
     Walk a row left to right. Every time you cross a water border you are either
@@ -1372,6 +1372,26 @@ def water_scanline(border_segments, ink=None, cell=None, row=None, clearance=1,
     import collections
     ink = ink or PALETTE['arcane']
     if not border_segments: return []
+    # A body running off the edge of the map has no border on that side, so its
+    # rows never pair and the shading stops short. Close those open ends against
+    # the given bounds — pass the zone's own extent, not the water's.
+    if close_at_bounds:
+        bx0, by0, bx1, by1 = close_at_bounds
+        tol = max((bx1-bx0), (by1-by0)) * 0.035
+        ends = collections.Counter()
+        k_ = lambda p: (round(p[0],1), round(p[1],1))
+        for s_ in border_segments:
+            ends[k_((s_[0],s_[1]))] += 1; ends[k_((s_[2],s_[3]))] += 1
+        loose = [p for p,v in ends.items() if v == 1]
+        added = []
+        for (px,py) in loose:
+            d = [(abs(px-bx0),(bx0,py)), (abs(bx1-px),(bx1,py)),
+                 (abs(py-by0),(px,by0)), (abs(by1-py),(px,by1))]
+            dist, tgt = min(d, key=lambda t: t[0])
+            if dist <= tol:
+                added.append((px,py,tgt[0],tgt[1]))
+        if added:
+            border_segments = list(border_segments) + added
     xs=[a for s in border_segments for a in (s[0],s[2])]
     ys=[a for s in border_segments for a in (s[1],s[3])]
     span=max(max(xs)-min(xs), max(ys)-min(ys))
