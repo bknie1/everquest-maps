@@ -37,3 +37,5 @@ P -686.0000, -1236.0000, -39.0000, 110, 0, 60, 3, Darkglow_Palace_(1)_(Overlord_
 P -641.0000, -1040.0000, -41.9700, 110, 0, 60, 2, Toryn_Roltaire_(Merchant,_Assists_Guards)
 P -399.0000, -1164.0000, -41.9700, 110, 0, 60, 2, a_spirit_chanter_(45)
 P 93.0000, -946.0000, 15.0000, 30, 70, 90, 2, Newbie_Yard_(Guards,_Bone_Key)
+P 642.9000, -1193.6200, 3.1900, 110, 0, 60, 3, Mass_Gravesite
+P 534.0000, -1459.9900, 3.1900, 110, 0, 60, 3, Mass_Gravesite
