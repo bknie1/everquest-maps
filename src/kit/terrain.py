@@ -134,6 +134,36 @@ def peak(cx, cy, w, h, ink=None, shade=None, seed=0):
     return out
 
 
+def hill(cx, cy, w, h, ink=None, shade=None, seed=0):
+    """A rolling hill: one outline, one inner contour, a handful of hachures.
+
+    Restraint is the point. Three or four nested rings read as a contour survey and
+    fight the rest of the map; two lines and a few ticks read as a hill.
+    """
+    ink = ink or PALETTE.get('rock_brown_l', (150,124,92))
+    shade = shade or PALETTE.get('rock_brown', (124,96,68))
+    rnd = random.Random(seed)
+    out = []
+    for r, t in ((0, 1.0), (1, 0.52)):
+        rx, ry = w*0.5*t, h*0.5*t
+        oy = -h*0.10*r
+        prev = None
+        n = 30
+        for k in range(n+1):
+            a = 2*math.pi*k/n
+            wob = 1.0 + 0.06*math.sin(3*a + seed) + 0.03*math.sin(5*a - seed)
+            p = (cx + math.cos(a)*rx*wob, cy + oy + math.sin(a)*ry*wob)
+            if prev: out.append((prev[0], prev[1], p[0], p[1], ink if r == 0 else shade))
+            prev = p
+    for k in range(rnd.randint(4, 6)):
+        a = math.pi*(0.20 + 0.60*k/5) + rnd.uniform(-0.06, 0.06)
+        x0 = cx + math.cos(a)*w*0.47
+        y0 = cy + math.sin(a)*h*0.47
+        ln = h*rnd.uniform(0.06, 0.10)
+        out.append((x0, y0, x0 + math.cos(a)*ln, y0 + math.sin(a)*ln, shade))
+    return out
+
+
 def rock_band(inside, x0, y0, x1, y1, step=26.0, ink=None, lit=None, seed=0):
     """Brown rock shading over any region `inside(x,y)` reports true for.
     Short broken strokes with occasional outcrops — reads as bare stone, and
