@@ -1,7 +1,7 @@
 # The map files MUST keep CRLF line endings. The EverQuest client will not read
 # them otherwise. Marking them binary stops git normalising the bytes on commit
 # or on checkout, on any platform.
-"Emoda Legends Maps/*.txt" -text
+Emoda Legends Maps/*.txt -text
 
 # Everything else normalises as usual.
 * text=auto

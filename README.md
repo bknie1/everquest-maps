@@ -119,7 +119,7 @@ still sits on top of cleanly.
 
 ## Install
 
-1. Download **`maps.zip`** from the [latest release](../../releases); provided there is a stable release available.
+1. Download **`maps.zip`** from the [latest release](../../releases).
 2. Extract it into your EverQuest maps folder:
 
    ```
