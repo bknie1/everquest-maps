@@ -1,0 +1,6 @@
+# Release artifact -- built with Compress-Archive from "Emoda Legends Maps",
+# attached to GitHub releases, never committed.
+maps.zip
+
+# Local render output from src/tools/render_zone.py
+renders/

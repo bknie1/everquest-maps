@@ -15,8 +15,8 @@ short on one side by a value chosen somewhere unrelated, and stops the margin
 motif bleeding inside the grid.
 """
 GAP     = 0.055   # content -> grid
-MARGIN  = 0.150   # grid    -> margin, sides and bottom
-MARG_T  = 0.240   # grid    -> margin, top (the title lives here)
+MARGIN  = 0.105   # grid    -> margin, sides and bottom
+MARG_T  = 0.165   # grid    -> margin, top (the title lives here)
 FRAME   = 0.020   # margin  -> frame
 
 def layout(content, top_extra=0.0):

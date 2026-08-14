@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Emoda Maps Preview</title>
+<style>
+  :root { --parchment: #e8d9b9; --ink: #3a2f1e; }
+  * { box-sizing: border-box; }
+  body { margin: 0; font: 14px/1.4 Georgia, serif; color: var(--ink); background: #2b2723; display: flex; height: 100vh; }
+  #side { width: 240px; background: #241f1a; color: #d8c9a5; display: flex; flex-direction: column; border-right: 2px solid #10100c; }
+  #side header { padding: 10px 12px 6px; }
+  #side h1 { font-size: 16px; margin: 0 0 8px; letter-spacing: 1px; }
+  #side input[type=file] { display: none; }
+  .btn { display: block; width: 100%; padding: 7px; background: #6d5a35; color: #f4e9cd; border: 1px solid #10100c; cursor: pointer; font: inherit; text-align: center; }
+  .btn:hover { background: #85703f; }
+  #filter { width: 100%; margin-top: 8px; padding: 5px 7px; background: #17130f; color: #d8c9a5; border: 1px solid #443a2b; font: inherit; }
+  #zones { flex: 1; overflow-y: auto; margin: 8px 0 0; padding: 0; list-style: none; }
+  #zones li { padding: 4px 12px; cursor: pointer; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  #zones li:hover { background: #382f24; }
+  #zones li.sel { background: #6d5a35; color: #fff; }
+  #layers { padding: 8px 12px; border-top: 1px solid #443a2b; font-size: 13px; }
+  #layers label { margin-right: 8px; user-select: none; }
+  #main { flex: 1; position: relative; overflow: hidden; }
+  #cv { position: absolute; inset: 0; cursor: grab; }
+  #hint { position: absolute; top: 40%; width: 100%; text-align: center; color: #8d8065; font-size: 18px; pointer-events: none; }
+  #status { position: absolute; bottom: 0; left: 0; right: 0; padding: 3px 10px; background: rgba(20,17,13,.8); color: #b7a985; font-size: 12px; }
+</style>
+</head>
+<body>
+<div id="side">
+  <header>
+    <h1>Emoda Maps</h1>
+    <button class="btn" id="openBtn">Open maps folder&hellip;</button>
+    <input type="file" id="dir" webkitdirectory multiple>
+    <input id="filter" placeholder="filter zones" disabled>
+  </header>
+  <ul id="zones"></ul>
+  <div id="layers">
+    <label><input type="checkbox" data-l="0" checked> base</label><label><input type="checkbox" data-l="1" checked> POI</label><br>
+    <label><input type="checkbox" data-l="2" checked> deco</label><label><input type="checkbox" data-l="3" checked> EQOA</label><br>
+    <label><input type="checkbox" id="lbl" checked> labels</label>
+  </div>
+</div>
+<div id="main">
+  <canvas id="cv"></canvas>
+  <div id="hint">Open your <b>Emoda Legends Maps</b> folder to begin.<br><small>Drag to pan &middot; wheel to zoom &middot; double-click to fit</small></div>
+  <div id="status"></div>
+</div>
+<script>
+"use strict";
+const files = new Map();      // zone -> {0:File,1:File,2:File,3:File}
+const cache = new Map();      // zone -> parsed layers
+let current = null, view = { x: 0, y: 0, k: 1 };
+
+const cv = document.getElementById("cv"), ctx = cv.getContext("2d");
+const zonesEl = document.getElementById("zones"), statusEl = document.getElementById("status");
+
+document.getElementById("openBtn").onclick = () => document.getElementById("dir").click();
+document.getElementById("dir").onchange = e => {
+  files.clear(); cache.clear();
+  for (const f of e.target.files) {
+    const m = /^([^\/\\]+?)(?:_([123]))?\.txt$/.exec(f.name);
+    if (!m) continue;
+    if (!files.has(m[1])) files.set(m[1], {});
+    files.get(m[1])[m[2] || "0"] = f;
+  }
+  buildList();
+  document.getElementById("filter").disabled = false;
+  document.getElementById("hint").style.display = files.size ? "none" : "";
+  status(files.size + " zones loaded");
+};
+
+function buildList() {
+  const q = document.getElementById("filter").value.toLowerCase();
+  zonesEl.innerHTML = "";
+  [...files.keys()].sort().forEach(z => {
+    if (q && !z.includes(q)) return;
+    const li = document.createElement("li");
+    li.textContent = z;
+    li.className = z === current ? "sel" : "";
+    li.onclick = () => select(z);
+    zonesEl.appendChild(li);
+  });
+}
+document.getElementById("filter").oninput = buildList;
+
+async function parseZone(z) {
+  if (cache.has(z)) return cache.get(z);
+  const layers = {};
+  for (const [k, f] of Object.entries(files.get(z))) {
+    const lines = [], points = [];
+    for (const raw of (await f.text()).split("\n")) {
+      const t = raw.trim();
+      if (t[0] === "L") {
+        const p = t.slice(1).split(",");
+        if (p.length >= 9) lines.push([+p[0], +p[1], +p[3], +p[4], `rgb(${+p[6]},${+p[7]},${+p[8]})`]);
+      } else if (t[0] === "P") {
+        const p = t.slice(1).split(",");
+        if (p.length >= 8) points.push([+p[0], +p[1], `rgb(${+p[3]},${+p[4]},${+p[5]})`, p.slice(7).join(",").replace(/_/g, " ").trim()]);
+      }
+    }
+    layers[k] = { lines, points };
+  }
+  cache.set(z, layers);
+  return layers;
+}
+
+function activeLayers() {
+  return [...document.querySelectorAll("#layers input[data-l]")].filter(c => c.checked).map(c => c.dataset.l);
+}
+
+async function select(z) {
+  current = z;
+  buildList();
+  await fit();
+}
+
+async function fit() {
+  if (!current) return;
+  const layers = await parseZone(current);
+  let minx = 1e9, maxx = -1e9, miny = 1e9, maxy = -1e9;
+  for (const k of activeLayers()) {
+    const L = layers[k]; if (!L) continue;
+    for (const [x1, y1, x2, y2] of L.lines) {
+      minx = Math.min(minx, x1, x2); maxx = Math.max(maxx, x1, x2);
+      miny = Math.min(miny, y1, y2); maxy = Math.max(maxy, y1, y2);
+    }
+    for (const [x, y] of L.points) {
+      minx = Math.min(minx, x); maxx = Math.max(maxx, x);
+      miny = Math.min(miny, y); maxy = Math.max(maxy, y);
+    }
+  }
+  if (minx > maxx) return draw();
+  const pad = 30;
+  view.k = Math.min((cv.width - 2 * pad) / (maxx - minx || 1), (cv.height - 2 * pad) / (maxy - miny || 1));
+  view.x = (cv.width - (maxx + minx) * view.k) / 2;
+  view.y = (cv.height - (maxy + miny) * view.k) / 2;
+  draw();
+}
+
+async function draw() {
+  ctx.setTransform(1, 0, 0, 1, 0, 0);
+  ctx.fillStyle = getComputedStyle(document.body).getPropertyValue("--parchment");
+  ctx.fillRect(0, 0, cv.width, cv.height);
+  if (!current) return;
+  const layers = await parseZone(current);
+  ctx.setTransform(view.k, 0, 0, view.k, view.x, view.y);
+  ctx.lineWidth = 1 / view.k;
+  const showLbl = document.getElementById("lbl").checked;
+  for (const k of activeLayers()) {
+    const L = layers[k]; if (!L) continue;
+    let last = null;
+    for (const [x1, y1, x2, y2, c] of L.lines) {
+      if (c !== last) { if (last !== null) ctx.stroke(); ctx.beginPath(); ctx.strokeStyle = c; last = c; }
+      ctx.moveTo(x1, y1); ctx.lineTo(x2, y2);
+    }
+    if (last !== null) ctx.stroke();
+    const r = 3 / view.k;
+    ctx.font = `${12 / view.k}px Georgia`;
+    for (const [x, y, c, label] of L.points) {
+      ctx.fillStyle = c;
+      ctx.beginPath(); ctx.arc(x, y, r, 0, 7); ctx.fill();
+      if (showLbl && label) ctx.fillText(label, x + r * 1.6, y - r * 0.6);
+    }
+  }
+  status(current + "  ·  zoom " + view.k.toFixed(2) + "x");
+}
+
+function status(s) { statusEl.textContent = s; }
+
+function resize() {
+  cv.width = cv.parentElement.clientWidth;
+  cv.height = cv.parentElement.clientHeight;
+  draw();
+}
+window.onresize = resize;
+
+let dragging = null;
+cv.onmousedown = e => { dragging = { x: e.clientX - view.x, y: e.clientY - view.y }; cv.style.cursor = "grabbing"; };
+window.onmousemove = e => { if (dragging) { view.x = e.clientX - dragging.x; view.y = e.clientY - dragging.y; draw(); } };
+window.onmouseup = () => { dragging = null; cv.style.cursor = "grab"; };
+cv.ondblclick = fit;
+cv.onwheel = e => {
+  e.preventDefault();
+  const f = e.deltaY < 0 ? 1.15 : 1 / 1.15;
+  view.x = e.offsetX - (e.offsetX - view.x) * f;
+  view.y = e.offsetY - (e.offsetY - view.y) * f;
+  view.k *= f;
+  draw();
+};
+document.querySelectorAll("#layers input").forEach(c => c.onchange = draw);
+resize();
+</script>
+</body>
+</html>

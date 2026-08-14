@@ -20,6 +20,24 @@ separately and never flattened.
 `docs/LORE_SOURCES.md` indexes the History of Norrath archive by age, race, zone and
 god, so a sketch or a race silhouette can be checked against the lore before it is drawn.
 
+## Previewing maps
+
+Two ways to see a map without launching the game:
+
+- **`tools/preview.html`** — open it in any browser (no server, no install), click
+  *Open maps folder…* and point it at `Emoda Legends Maps`. Zone list with filter,
+  per-layer toggles (base / POI / deco / EQOA), labels on/off, pan with drag, zoom
+  with the wheel, double-click to re-fit. Everything stays local; nothing is uploaded.
+- **`tools/render_zone.py`** — batch-render zones to PNG on parchment:
+
+  ```
+  python src/tools/render_zone.py                  # all zones -> renders/
+  python src/tools/render_zone.py halas oggok      # just these
+  python src/tools/render_zone.py --layers 02      # base + deco only
+  ```
+
+  Requires `pillow`. Used to produce the gallery renders and review sheets.
+
 ## `kit/`
 
 - **`terrain.py`** — `peak()` broken rocky summit · `rock_band()` brown rock over a
