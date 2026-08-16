@@ -21,4 +21,5 @@ P -27.0000, -700.0000, -1.0000, 110, 0, 60, 2, a_reclusive_ghoul_magus_(2F,_Bras
 P 39.0000, -668.0000, -1.0000, 110, 0, 60, 2, an_undead_barkeep_(3F,_Silver_Key:_tower)
 P 15.0000, -572.0000, -1.0000, 110, 0, 60, 2, a_reanimated_hand_(3F,_Stone_Key:_magus_rm)
 P -90.0000, -699.0000, -1.0000, 110, 0, 60, 2, a_lesser_blade_fiend_(1F)
-P -62.0000, -742.0000, -1.0000, 30, 80, 95, 2, Basement_Door_(Glass_Key:_knight)
+P -62.0000, -742.0000, -1.0000, 30, 80, 95, 2, K5_Basement_Door_(Glass_Key)
+P -27.0900, -648.0100, 21.8100, 30, 80, 95, 2, K1_Door:_Stone_Key_opens_(magus_rm?)
