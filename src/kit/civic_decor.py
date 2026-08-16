@@ -239,3 +239,43 @@ SHAPES = {
  'crude_pillar':crude_pillar,'aqueduct':aqueduct,'war_drum':war_drum,
  'lily_pad':lily_pad,'fish_rack':fish_rack,
 }
+
+
+def timber_cottage(cx, cy, r, ink=(96,78,58), timber=(70,56,42), roof=(96,128,170), seed=0):
+    """Tudor half-timbered cottage, side view: steep gable roof, plaster wall
+    with X-bracing timbers, stone chimney. The LOCKED common human building
+    motif (see docs/CITY_MOTIFS.md). r ~ half-width."""
+    rng = random.Random(seed)
+    out = []
+    w, h = r * 2.0, r * 1.5
+    wall_h = h * 0.45
+    # wall
+    out.append((cx - w/2, cy, cx - w/2, cy - wall_h, ink))
+    out.append((cx + w/2, cy, cx + w/2, cy - wall_h, ink))
+    out.append((cx - w/2, cy, cx + w/2, cy, timber))
+    # steep gable roof with slight eave overhang
+    apex = (cx + rng.uniform(-0.04, 0.04) * w, cy - h)
+    out.append((cx - w/2 - w*0.08, cy - wall_h, apex[0], apex[1], ink))
+    out.append((cx + w/2 + w*0.08, cy - wall_h, apex[0], apex[1], ink))
+    out.append((cx - w/2 - w*0.08, cy - wall_h, cx + w/2 + w*0.08, cy - wall_h, timber))
+    # roof shading strokes (parallel to right slope)
+    for k in range(3):
+        t0 = 0.25 + k * 0.22
+        ax = apex[0] + (cx + w/2 + w*0.08 - apex[0]) * t0
+        ay = apex[1] + (cy - wall_h - apex[1]) * t0
+        out.append((ax, ay, ax - w * 0.10, ay + h * 0.05, roof))
+    # timber X-bracing on the wall, two bays
+    for bx in (cx - w*0.25, cx + w*0.25):
+        out.append((bx - w*0.18, cy, bx + w*0.18, cy - wall_h, timber))
+        out.append((bx - w*0.18, cy - wall_h, bx + w*0.18, cy, timber))
+    out.append((cx, cy, cx, cy - wall_h, timber))
+    # stone chimney off the right slope
+    chx = cx + w * 0.28
+    out.append((chx, cy - h * 0.72, chx, cy - h * 1.08, ink))
+    out.append((chx + w*0.09, cy - h * 0.66, chx + w*0.09, cy - h * 1.08, ink))
+    out.append((chx, cy - h * 1.08, chx + w*0.09, cy - h * 1.08, timber))
+    # door
+    out.append((cx - w*0.06, cy, cx - w*0.06, cy - wall_h*0.6, timber))
+    out.append((cx + w*0.06, cy, cx + w*0.06, cy - wall_h*0.6, timber))
+    out.append((cx - w*0.06, cy - wall_h*0.6, cx + w*0.06, cy - wall_h*0.6, timber))
+    return out
