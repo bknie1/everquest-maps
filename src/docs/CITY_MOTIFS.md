@@ -108,6 +108,20 @@ foundation. Applies to Qeynos, the Karana farmhouses, Highpass, and any common
 human structure. Sketch shape: `civic_decor.timber_cottage`. Roof tint for
 shading: slate blue-grey (see shade_city qeynos palette).
 
+## Karana / Qeynos field motifs (Brandon, in-game captures 2026-08-15)
+
+- **Guard towers**: square stone towers (rough block coursing) flying the QEYNOS
+  CREST as a shield/banner near the top. These mark the "Guard Tower" POIs across
+  the Karanas and Qeynos approaches. Shape to build: `qeynos_decor.guard_tower`.
+- **Wizard Spires**: a cluster of tall pale crystalline spires rising from the
+  plain (the teleport structure — "Wizard Spires (teleport)" POI in West Karana).
+  Visible for miles; draw as a landmark glyph, not a building.
+  Shape: `qeynos_decor.wizard_spires`.
+- **Druid rings**: rune-marked standing-stone circles (North Karana has one at
+  native (1459, 2742), no POI label in _1). Landmark sketches at true /loc
+  positions. Shape: `landmarks.druid_ring`.
+- Human commons: see the LOCKED Tudor half-timbered cottage motif above.
+
 ## Color + shading directive (Brandon, 2026-08-15)
 
 A LOT of color. Hand-made cartographical maps with shading. Buildings get
