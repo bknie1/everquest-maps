@@ -227,6 +227,63 @@ def mine_entrance(cx, cy, w, seed=0, caved_in=True):
     return out
 
 
+def flaming_sword(cx, cy, h, seed=0):
+    """Memorial: a sword planted point-down in a stone mound, flames rising
+    along the blade. For Aradune. cx, cy = ground point; h = full height."""
+    rng = random.Random(seed)
+    STEEL = (150, 155, 165)
+    STEEL_DARK = (110, 115, 125)
+    FLAME = (200, 110, 50)
+    FLAME_IN = (230, 170, 60)
+    STONE_ = (108, 108, 92)
+    out = []
+    w = h * 0.30
+    tip = (cx, cy)
+    guard_y = cy - h * 0.62
+    pommel_y = cy - h * 0.92
+    # blade: two edges tapering to the tip, center fuller line
+    out.append((cx - w * 0.10, guard_y, tip[0], tip[1], STEEL))
+    out.append((cx + w * 0.10, guard_y, tip[0], tip[1], STEEL))
+    out.append((cx, guard_y - h * 0.01, cx, cy - h * 0.10, STEEL_DARK))
+    # crossguard, slightly swept
+    out.append((cx - w * 0.55, guard_y - h * 0.035, cx + w * 0.55, guard_y + h * 0.035, STEEL))
+    out.append((cx - w * 0.55, guard_y - h * 0.035, cx - w * 0.62, guard_y - h * 0.075, STEEL_DARK))
+    out.append((cx + w * 0.55, guard_y + h * 0.035, cx + w * 0.62, guard_y - h * 0.005, STEEL_DARK))
+    # grip and pommel
+    out.append((cx - w * 0.06, guard_y, cx - w * 0.06, pommel_y, STEEL_DARK))
+    out.append((cx + w * 0.06, guard_y, cx + w * 0.06, pommel_y, STEEL_DARK))
+    for k in range(3):
+        gy = guard_y - (guard_y - pommel_y) * (k + 1) / 4
+        out.append((cx - w * 0.06, gy, cx + w * 0.06, gy, STEEL_DARK))
+    out.append((cx - w * 0.13, pommel_y, cx + w * 0.13, pommel_y, STEEL))
+    out.append((cx - w * 0.13, pommel_y, cx, pommel_y - h * 0.045, STEEL))
+    out.append((cx + w * 0.13, pommel_y, cx, pommel_y - h * 0.045, STEEL))
+    # flames: wavy licks hugging the blade, inner and outer
+    for sgn in (-1, 1):
+        for (ink, r0, amp) in ((FLAME, 0.16, 0.10), (FLAME_IN, 0.10, 0.06)):
+            px = None
+            for k in range(6):
+                t = k / 5
+                y = cy - h * (0.08 + t * 0.48)
+                x = cx + sgn * w * (r0 + math.sin(t * math.pi * 2.2 + sgn) * amp) \
+                    * (1.0 - t * 0.35)
+                if px and rng.random() < 0.9:
+                    out.append((px[0], px[1], x, y, ink))
+                px = (x, y)
+            # a detached lick above
+            lx = cx + sgn * w * rng.uniform(0.12, 0.22)
+            ly = cy - h * rng.uniform(0.58, 0.66)
+            out.append((lx, ly, lx + sgn * w * 0.05, ly - h * 0.05, FLAME))
+    # stone mound at the base
+    for k in range(4):
+        rx = cx + (k - 1.5) * w * 0.28
+        rr = w * rng.uniform(0.10, 0.16)
+        out.append((rx - rr, cy, rx, cy - rr, STONE_))
+        out.append((rx, cy - rr, rx + rr, cy, STONE_))
+    out.append((cx - w * 0.65, cy, cx + w * 0.65, cy, STONE_))
+    return out
+
+
 def wizard_spires(cx, cy, r, seed=0):
     """Cluster of pale crystalline teleport spires: one tall center, three flanks."""
     rng = random.Random(seed)
