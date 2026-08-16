@@ -21,8 +21,8 @@ P -27.0000, -700.0000, 21.8100, 110, 0, 60, 2, K2_ghoul_magus_(2F)_drops_Brass_K
 P 39.0000, -668.0000, 39.8100, 110, 0, 60, 2, K3_barkeep_(3F)_drops_Silver_Key
 P 15.0000, -572.0000, 39.8100, 110, 0, 60, 2, K1_reanimated_hand_Stone_Key
 P -90.0000, -699.0000, -1.0000, 110, 0, 60, 2, a_lesser_blade_fiend_(1F)
-P -62.0000, -742.0000, -25.0000, 30, 80, 95, 2, K5_Basement_Door_(Glass_Key)
-P -27.0900, -648.0100, 21.8100, 30, 80, 95, 2, K1_Door:_Stone_Key_opens_(magus_rm?)
-P 18.8700, -701.9600, 55.7800, 30, 80, 95, 2, K3_Door:_Silver_Key_opens_(tower)
+P -62.0000, -742.0000, -25.0000, 30, 80, 95, 2, Basement_Door_(K4_Glass_Key)
+P -27.0900, -648.0100, 21.8100, 30, 80, 95, 2, Magus_Room_Door_(K1_Stone_Key)
+P 18.8700, -701.9600, 55.7800, 30, 80, 95, 2, Tower_Door_(K3_Silver_Key)
 P 15.0000, -572.0000, 39.8100, 30, 80, 95, 2, Southwest_Tower
 P 20.0000, -770.0000, 55.7800, 30, 80, 95, 2, Northwest_Tower
