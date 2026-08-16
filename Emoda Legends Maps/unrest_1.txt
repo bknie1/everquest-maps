@@ -15,7 +15,7 @@ P 20.0000, -770.0000, -1.0000, 110, 0, 60, 2, Undead_Knight_of_Unrest
 P 90.0000, -710.0000, -1.0000, 110, 0, 60, 2, Khrix_Fritchoff_(Gnome,_avoid)
 P 30.0000, -775.0000, -1.0000, 110, 0, 60, 2, a_priest_of_Najena_(avoid)
 P -20.0000, -528.0000, 55.7800, 30, 80, 95, 2, Hand_Room_(4F,_balcony)
-P -30.0000, -748.0000, 2.0000, 30, 80, 95, 2, Fake_Library_Door_(1F,_to_basement)
+P -59.1400, -599.9100, 5.8100, 30, 80, 95, 2, Fake_Library_Door_(1F,_to_basement)
 P -140.0000, -485.0000, -25.0000, 30, 80, 95, 2, Dwarf_Room_(Basement)
 P -27.0000, -700.0000, 21.8100, 110, 0, 60, 2, K2_ghoul_magus_(2F)_drops_Brass_Key
 P 39.0000, -668.0000, 39.8100, 110, 0, 60, 2, K3_barkeep_(3F)_drops_Silver_Key
