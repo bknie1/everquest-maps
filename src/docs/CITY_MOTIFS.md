@@ -64,6 +64,48 @@ from generic fantasy. Race packs of motif items go in `src/kit/` per race.
   Pond. Underground aqueducts connect everything.
 - qcat title style: QEYNOS big, CATACOMBS subtitle beneath (unequal emphasis).
 
+### Kelethin / Greater Faydark (wood elf)
+- Platform city in the canopy: rope bridge networks, three lift towers (Newbie,
+  PoD, Orc), guild/merchant/bank/tavern platforms at multiple levels.
+- Perpetual twilight under the canopy; wooden tree-integrated structures.
+- Kit: treehouse exists; NEED platform + rope bridge + lift shapes.
+
+### Paineel (heretic erudite)
+- Skeletal guards, portal network (teleporter hubs A/B/C), Darkglow Palace,
+  Tabernacle of Terror / The Abbatoir / The Fell Blade, graveyard courtyard with
+  dancing skeletons, Observatory above; built over Old Paineel in the chasm by
+  The Hole; elemental-scarred terrain.
+- Kit: skeleton, obelisk, tome exist; NEED portal ring + observatory dome.
+
+### Neriak trio (dark elf)
+- Carved from the mountain, no natural light, NEON magical glow accents.
+- Foreign Quarter: trolls/ogres tolerated, specialty vendor clusters.
+- Commons: bank "Neriak Down Under", caster + warrior guilds.
+- Third Gate: deepest — Temple of Innoruuk dominates, white marble cleric
+  temple ringed by water, red-skulled necromancer hall, library.
+- Kit: darkelf.py is COMPLETE (gates, temple, library, lodge, webs, monoliths).
+
+### Erudin (erudite)
+- Practical pale architecture, Prexus/ocean theming, docks with ships, grand
+  Library focal point, three guild towers, fountains, Toxxulia dark at its back.
+- Kit: tome/orrery/obelisk/caravel exist; NEED lighthouse + fountain.
+
+### Kaladim (dwarf)
+- Carved into the mountain, winding deeper; Everhot Forge, kilns; guard posts,
+  fortified feel; rough rock frames everything; function over ornament.
+- Kit: anvil/forge/ore_cart exist. Legitimately has greenery (BRAIN) — keep.
+
+### Felwithe (high elf)
+- GOLDEN walls with a faint glow, rising out of the Faydark fog; mage tower
+  suspended over a pool; a river runs through it; serene, grand, marble+gold.
+- Kit: elf_spire exists; NEED golden arch/gate + suspended tower.
+
+## Color + shading directive (Brandon, 2026-08-15)
+
+A LOT of color. Hand-made cartographical maps with shading. Buildings get
+detected algorithmically from base geometry and styled per city motif: tinted
+roof fills + a darker shadow side, palette per city (see shade_city.py STYLES).
+
 ### Still to fetch from the wiki at build time
 - Kelethin/Greater Faydark (wood elf platform city in the trees), Paineel
   (heretic necromancers, The Hole), Neriak trio (Teir'Dal — darkelf.py kit
