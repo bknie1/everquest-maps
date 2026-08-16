@@ -100,6 +100,14 @@ from generic fantasy. Race packs of motif items go in `src/kit/` per race.
   suspended over a pool; a river runs through it; serene, grand, marble+gold.
 - Kit: elf_spire exists; NEED golden arch/gate + suspended tower.
 
+## Common HUMAN building motif (LOCKED — Brandon, in-game reference 2026-08-15)
+
+Tudor half-timbered cottage: steep gabled roof (slate/thatch), pale plaster
+walls with dark timber framing (X-bracing between posts), stone chimney and
+foundation. Applies to Qeynos, the Karana farmhouses, Highpass, and any common
+human structure. Sketch shape: `civic_decor.timber_cottage`. Roof tint for
+shading: slate blue-grey (see shade_city qeynos palette).
+
 ## Color + shading directive (Brandon, 2026-08-15)
 
 A LOT of color. Hand-made cartographical maps with shading. Buildings get
