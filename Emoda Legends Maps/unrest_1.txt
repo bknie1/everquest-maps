@@ -12,7 +12,7 @@ P 0.0000, -600.0000, -25.0000, 30, 80, 95, 2, Basement_(highest_level)
 P 0.0000, -700.0000, -1.0000, 110, 0, 60, 3, Garanel_Rucksif_(Ghost_Lord_of_Unrest)
 P 58.9600, -609.0200, -1.0000, 150, 90, 40, 2, Torklar_Battlemaster_(named)
 P 20.0000, -770.0000, -1.0000, 110, 0, 60, 2, Undead_Knight_of_Unrest
-P 90.0000, -710.0000, -1.0000, 110, 0, 60, 2, Khrix_Fritchoff_(Gnome,_avoid)
+P -60.6700, -595.0900, 19.8100, 110, 0, 60, 2, Khrix_Fritchoff_(35_NEC_avoid)
 P 30.0000, -775.0000, -1.0000, 110, 0, 60, 2, a_priest_of_Najena_(avoid)
 P -20.0000, -528.0000, 55.7800, 30, 80, 95, 2, Hand_Room_(4F,_balcony)
 P -59.1400, -599.9100, 5.8100, 30, 80, 95, 2, Fake_Library_Door_(1F,_to_basement)
