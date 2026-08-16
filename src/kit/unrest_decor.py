@@ -19,8 +19,10 @@ PUMPKIN_DK = (140, 84, 30)
 GLOW = (214, 176, 84)
 STONE = (128, 122, 110)      # rusticated granite
 STONE_DK = (94, 90, 80)
-SAND = (200, 172, 116)       # sandstone
-SAND_DK = (156, 130, 84)
+SAND = (160, 124, 72)        # sandstone (kept off pale yellow -- parchment rule)
+SAND_DK = (118, 90, 52)
+CARPET = (122, 38, 34)       # deep red carpet
+MOSAIC = (116, 92, 64)       # muted ceiling-mosaic lattice
 CHECK = (44, 40, 36)         # checkerboard dark squares
 BEETLE = (58, 50, 42)
 BEETLE_HL = (110, 96, 70)
@@ -51,51 +53,74 @@ def _poly(poly, ink, close=True):
              poly[(i + 1) % len(poly)][1], ink) for i in range(n)]
 
 
-def scarecrow(cx, cy, s, seed=0):
-    """Cross-pole scarecrow with a jack-o-lantern head. (cx, cy) = base of the
-    pole, s = full height. The signature Unrest shape -- make it read."""
+def scarecrow(cx, cy, s, seed=0, face=1):
+    """A WALKING scarecrow-man mid-shamble: no planted cross-pole -- stride
+    legs, loose swinging arms, ragged coat, straw at the wrists and a wisp
+    trailing behind, jack-o-lantern head. (cx, cy) = ground, s = height."""
     rnd = random.Random(seed)
+    f = 1 if face >= 0 else -1
     out = []
-    lean = rnd.uniform(-0.03, 0.03) * s
 
-    # pole and cross-beam
-    top = (cx + lean, cy - s)
-    out.append((cx - s*0.012, cy, top[0] - s*0.012, top[1] + s*0.16, POLE))
-    out.append((cx + s*0.012, cy, top[0] + s*0.012, top[1] + s*0.16, POLE))
-    bar_y = cy - s*0.62
-    out.append((cx - s*0.34, bar_y, cx + s*0.34, bar_y, POLE))
-    out.append((cx - s*0.34, bar_y + s*0.018, cx + s*0.34, bar_y + s*0.018, POLE))
-    # lashing at the crossing
-    for k in (-1, 1):
-        out.append((cx - s*0.04, bar_y + k * s*0.03, cx + s*0.04,
-                    bar_y - k * s*0.03, COAT_DK))
+    def X(x):
+        return cx + f * x
 
-    # ragged coat: shoulders at the beam, jagged sawtooth hem
-    coat = [(cx - s*0.30, bar_y + s*0.02), (cx - s*0.20, bar_y - s*0.03),
-            (cx + s*0.20, bar_y - s*0.03), (cx + s*0.30, bar_y + s*0.02),
-            (cx + s*0.22, bar_y + s*0.14)]
+    hip_y = cy - s*0.42
+    sh_y = cy - s*0.72
+
+    # stride legs: thin timber-limbed, lead leg planted, rear leg pushing off
+    for (hx, kx, ky, fx, fy) in (
+            (-0.02, -0.13, -0.22, -0.17, 0.0),        # lead leg
+            (0.03, 0.13, -0.20, 0.24, -0.06)):        # trailing leg, heel up
+        pts = [(X(s*hx), hip_y), (X(s*kx), cy - s*0.20 + s*ky*0.0),
+               (X(s*kx), cy + s*ky), (X(s*fx), cy + s*fy)]
+        out.append((pts[0][0], pts[0][1], X(s*kx), cy + s*ky, POLE))
+        out.append((X(s*kx), cy + s*ky, X(s*fx), cy + s*fy, POLE))
+        out.append((pts[0][0] + f*0.5, pts[0][1], X(s*kx) + f*0.5, cy + s*ky, COAT_DK))
+        # ragged trouser cuff tick
+        out.append((X(s*kx) - s*0.03, cy + s*ky - s*0.06,
+                    X(s*kx) + s*0.03, cy + s*ky - s*0.04, STRAW))
+
+    # ragged coat torso, leaning into the walk, sawtooth hem swinging
+    coat = [(X(-s*0.16), sh_y), (X(s*0.12), sh_y - s*0.015),
+            (X(s*0.19), sh_y + s*0.10), (X(s*0.16), hip_y - s*0.02)]
     hem_pts = []
-    n = 6
+    n = 5
     for i in range(n + 1):
         t = i / n
-        hx = cx + s*0.22 - s*0.44 * t
-        hy = bar_y + s*0.30 + (s*0.09 if i % 2 else 0.0) + rnd.uniform(-1, 1) * s*0.015
+        hx = X(s*0.16 - s*0.36 * t)
+        hy = hip_y + s*0.07 + (s*0.075 if i % 2 else 0.0) \
+            + rnd.uniform(-1, 1) * s*0.015 - t * s*0.03
         hem_pts.append((hx, hy))
-    coat += hem_pts + [(cx - s*0.22, bar_y + s*0.14)]
+    coat += hem_pts + [(X(-s*0.20), hip_y - s*0.04)]
     out += _poly(coat, COAT)
-    for (x1, y1, x2, y2, c) in _hatch(coat, COAT, s*0.055, rnd, s*0.012):
-        out.append((x1, y1, x2, y2, COAT_DK if (x1 + x2) * 0.5 > cx + s*0.05 else c))
-    # straw bursting from the sleeve ends
-    for sx in (cx - s*0.31, cx + s*0.31):
-        d = -1 if sx < cx else 1
-        for k in range(3):
-            a = (k - 1) * 0.35
-            out.append((sx, bar_y, sx + d * s*0.07 * math.cos(a),
-                        bar_y + s*0.07 * math.sin(a) + s*0.03, STRAW))
+    for (x1, y1, x2, y2, c) in _hatch(coat, COAT, s*0.06, rnd, s*0.012):
+        out.append((x1, y1, x2, y2,
+                    COAT_DK if (x1 + x2) * 0.5 > cx + f * s*0.04 else c))
 
-    # jack-o-lantern head on the pole top
+    # loose arms: lead arm swinging forward-down, rear arm dangling back
+    arm_f = [(X(s*0.10), sh_y + s*0.03), (X(s*0.24), sh_y + s*0.16),
+             (X(s*0.30), sh_y + s*0.30)]
+    arm_b = [(X(-s*0.12), sh_y + s*0.02), (X(-s*0.24), sh_y + s*0.14),
+             (X(-s*0.30), sh_y + s*0.28)]
+    for pts in (arm_f, arm_b):
+        out += _poly(pts, COAT, close=False)
+        out += _poly([(x + f*0.6, y + 0.5) for (x, y) in pts], COAT_DK, close=False)
+        # straw bursting from the sleeve end
+        ex, ey = pts[-1]
+        d = 1 if pts is arm_f else -1
+        for k in range(3):
+            a = (k - 1) * 0.4
+            out.append((ex, ey, ex + f * d * s*0.06 * math.cos(a),
+                        ey + s*0.06 * math.sin(a) + s*0.03, STRAW))
+
+    # straw wisp trailing off the coat-tail
+    wx, wy = X(-s*0.20), hip_y + s*0.04
+    out.append((wx, wy, wx - f * s*0.10, wy + s*0.02, STRAW))
+    out.append((wx - f * s*0.10, wy + s*0.02, wx - f * s*0.16, wy - s*0.015, STRAW))
+
+    # jack-o-lantern head, tipped into the walk
     hr = s*0.155
-    hx0, hy0 = top[0], top[1] + s*0.02
+    hx0, hy0 = X(s*0.05), sh_y - hr * 0.95
     ring = []
     for k in range(13):
         a = 2 * math.pi * k / 12

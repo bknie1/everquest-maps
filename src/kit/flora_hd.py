@@ -358,3 +358,83 @@ TREES = {'fir': fir, 'broadleaf': broadleaf, 'palm': palm,
 UNDERGROWTH = {'bush': bush, 'fern': fern, 'reeds': reeds,
                'flowers': flowers, 'mushrooms': mushrooms, 'grass_tuft': grass_tuft}
 ALL = dict(TREES); ALL.update(UNDERGROWTH)
+
+
+# ---------------------------------------------------------------------------
+# Faydwer forest floor -- the pack-wide ground convention for Faydwer zones.
+# Not a uniform meadow (that is Antonica's Qeynos-Hills tick style): clumped
+# MOSS PATCHES and small FERN CURLS in a deeper, cooler green, gathered around
+# anchors (trees, hedges, walls) and thinning to bare parchment in open lawn.
+
+MOSS = (56, 92, 60)
+MOSS_DK = (42, 72, 48)
+
+
+def moss_patch(cx, cy, s, ink=None, dark=None, seed=0):
+    """A blobby moss clump: 2-3 overlapping partial-ellipse arcs plus a couple
+    of interior ticks. ~7-11 strokes."""
+    ink = ink or MOSS; dark = dark or MOSS_DK
+    rnd = random.Random(seed)
+    out = []
+    for b in range(rnd.randint(2, 3)):
+        bx = cx + rnd.uniform(-0.5, 0.5) * s
+        by = cy + rnd.uniform(-0.3, 0.3) * s
+        rx = s * rnd.uniform(0.4, 0.7)
+        ry = rx * rnd.uniform(0.45, 0.65)
+        a0 = rnd.uniform(0, math.pi)
+        n = 4
+        pts = []
+        for k in range(n + 1):
+            a = a0 + math.pi * (0.7 + rnd.uniform(0, 0.5)) * k / n
+            pts.append((bx + math.cos(a) * rx, by + math.sin(a) * ry))
+        for i in range(n):
+            out.append((pts[i][0], pts[i][1], pts[i+1][0], pts[i+1][1],
+                        ink if b < 2 else dark))
+    out.append((cx - s*0.2, cy, cx + s*0.15, cy + s*0.08, dark))
+    return out
+
+
+def fern_curl(cx, cy, s, ink=None, seed=0):
+    """A small curled frond: stem rising and hooking over, two pinnae ticks.
+    4-5 strokes."""
+    ink = ink or MOSS
+    rnd = random.Random(seed)
+    f = rnd.choice((-1, 1))
+    out = []
+    p0 = (cx, cy)
+    p1 = (cx + f*s*0.12, cy - s*0.55)
+    p2 = (cx + f*s*0.42, cy - s*0.80)
+    p3 = (cx + f*s*0.58, cy - s*0.62)
+    p4 = (cx + f*s*0.46, cy - s*0.52)
+    for a, b in ((p0, p1), (p1, p2), (p2, p3), (p3, p4)):
+        out.append((a[0], a[1], b[0], b[1], ink))
+    out.append((cx + f*s*0.05, cy - s*0.30, cx + f*s*0.22, cy - s*0.34, ink))
+    return out
+
+
+def faydwer_floor(anchors, reject=None, seed=0, clumps=(2, 5), spread=16.0,
+                  size=(3.0, 5.5), ink=None, dark=None, fern_frac=0.35):
+    """Clumped forest-floor cover around anchor points.
+
+    anchors : [(x, y), ...] -- tree feet, hedge edges, wall bases. Cover clumps
+              gather around these with gaussian falloff; open lawn away from
+              any anchor stays bare parchment.
+    reject  : callable(x, y) -> True to veto a spot (labels, paths, water).
+    Returns (x1, y1, x2, y2, ink) segs like every other shape here.
+    """
+    ink = ink or MOSS; dark = dark or MOSS_DK
+    rnd = random.Random(seed)
+    out = []
+    for ai, (ax, ay) in enumerate(anchors):
+        for k in range(rnd.randint(*clumps)):
+            px = ax + rnd.gauss(0, spread)
+            py = ay + rnd.gauss(0, spread * 0.8)
+            if reject and reject(px, py):
+                continue
+            s = rnd.uniform(*size)
+            sd = seed * 7919 + ai * 131 + k
+            if rnd.random() < fern_frac:
+                out += fern_curl(px, py, s * 1.1, ink=ink, seed=sd)
+            else:
+                out += moss_patch(px, py, s, ink=ink, dark=dark, seed=sd)
+    return out

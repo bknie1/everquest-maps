@@ -1,9 +1,10 @@
 """fauna_hd_ghoul.py -- high-fidelity ghoul for the Estate of Unrest interior.
 
-Shadowy, goblin-like rigging per Brandon's in-game read: a low crouch on bent
-haunches, oversized head with tall ears, long arms with claws splayed to the
-floor. Built from closed part polygons with even-odd hatch and a darker shadow
-side (troll_hd / bookshelf method). ~80-120 strokes.
+Brandon's round-2 correction: ghouls are LEANER than the first pass -- lanky,
+creepy, small. So: a narrow hunched torso with only a whisper of hatch, long
+thin single-stroke limbs with knobbed joints, oversized head on a craned neck,
+and long splayed fingers. Draw them SMALLER than the zombies (s ~ 9-11 where
+zombies are 15-16). ~55-75 strokes.
 
     from fauna_hd_ghoul import ghoul
     segs = ghoul(cx, cy, s, seed=1)       # (cx, cy) = ground, s = crouch height
@@ -36,91 +37,93 @@ def _hatch(poly, ink, step, jitter, rnd):
     return out
 
 
-def _outline(poly, ink, rnd, jitter):
-    out = []
-    for i in range(len(poly)):
-        x1, y1 = poly[i]
-        x2, y2 = poly[(i + 1) % len(poly)]
-        out.append((x1, y1 + rnd.uniform(-jitter, jitter),
-                    x2, y2 + rnd.uniform(-jitter, jitter), ink))
-    return out
+def _poly(pts, ink, close=False):
+    n = len(pts) if close else len(pts) - 1
+    return [(pts[i][0], pts[i][1], pts[(i + 1) % len(pts)][0],
+             pts[(i + 1) % len(pts)][1], ink) for i in range(n)]
 
 
-def _part(poly, ink, dark, step, rnd, shade_frac=0.45):
-    j = step * 0.18
-    out = _outline(poly, ink, rnd, j * 0.6)
-    xs = [p[0] for p in poly]
-    cut = min(xs) + (max(xs) - min(xs)) * (1.0 - shade_frac)
-    for (x1, y1, x2, y2, c) in _hatch(poly, ink, step, j, rnd):
-        out.append((x1, y1, x2, y2, dark if (x1 + x2) * 0.5 > cut else c))
+def _limb(pts, ink, dark):
+    """A thin limb: one clean stroke chain plus a broken shadow strand and
+    knob ticks at the joints."""
+    out = _poly(pts, ink)
+    for i in range(1, len(pts) - 1):
+        jx, jy = pts[i]
+        out.append((jx - 0.4, jy - 0.4, jx + 0.4, jy + 0.4, dark))
+    if len(pts) >= 3:
+        out.append((pts[0][0] + 0.5, pts[0][1] + 0.4,
+                    pts[1][0] + 0.5, pts[1][1] + 0.4, dark))
     return out
 
 
 def ghoul(cx, cy, s, seed=0, face=-1):
-    """A crouched ghoul. (cx, cy) = ground under it, s = crouched height."""
+    """A lanky crouched ghoul. (cx, cy) = ground under it, s = crouch height."""
     rnd = random.Random(seed)
     f = -1 if face < 0 else 1
-    step = max(0.8, s * 0.06)
     out = []
 
     def X(x):
         return cx + f * x
 
-    # crouched body: a low wedge, spine arched high at the haunches
-    body = [(X(-s*0.30), cy - s*0.42), (X(-s*0.12), cy - s*0.58),
-            (X(s*0.10), cy - s*0.66), (X(s*0.30), cy - s*0.58),
-            (X(s*0.38), cy - s*0.38), (X(s*0.30), cy - s*0.18),
-            (X(s*0.10), cy - s*0.12), (X(-s*0.16), cy - s*0.16),
-            (X(-s*0.28), cy - s*0.28)]
-    out += _part(body, HIDE, DARK, step, rnd, shade_frac=0.55)
+    # narrow hunched torso: high arched spine, hollow belly
+    spine = [(X(-s*0.26), cy - s*0.50), (X(-s*0.08), cy - s*0.64),
+             (X(s*0.14), cy - s*0.68), (X(s*0.30), cy - s*0.56),
+             (X(s*0.34), cy - s*0.34)]
+    belly = [(X(-s*0.24), cy - s*0.44), (X(-s*0.02), cy - s*0.50),
+             (X(s*0.18), cy - s*0.48), (X(s*0.28), cy - s*0.34)]
+    out += _poly(spine, HIDE)
+    out += _poly(belly, DARK)
+    # ribs: three short ticks between the strands
+    for k in range(3):
+        t = 0.25 + k * 0.22
+        sx = X(-s*0.20 + s*0.50 * t)
+        out.append((sx, cy - s*(0.52 + 0.08 * (1 - abs(2*t - 1))),
+                    sx + f*s*0.02, cy - s*0.46, DARK))
     # knobbed spine ridge
     for k in range(4):
         t = k / 3.0
-        sx = X(-s*0.10 + s*0.36 * t)
-        sy = cy - s*(0.60 + 0.06 * (1 - abs(2 * t - 1)))
-        out.append((sx, sy, sx + f*s*0.03, sy - s*0.035, DARK))
+        sx = X(-s*0.12 + s*0.38 * t)
+        sy = cy - s*(0.62 + 0.05 * (1 - abs(2*t - 1)))
+        out.append((sx, sy, sx + f*s*0.025, sy - s*0.04, DARK))
 
-    # oversized head thrust forward, underslung jaw
-    head = [(X(-s*0.30), cy - s*0.56), (X(-s*0.44), cy - s*0.60),
-            (X(-s*0.54), cy - s*0.52), (X(-s*0.50), cy - s*0.40),
-            (X(-s*0.38), cy - s*0.36), (X(-s*0.28), cy - s*0.44)]
-    out += _part(head, HIDE, DARK, step * 0.8, rnd, shade_frac=0.35)
-    # goblin ears: short, ragged, swept flat back along the skull
-    out.append((X(-s*0.30), cy - s*0.58, X(-s*0.16), cy - s*0.66, HIDE))
-    out.append((X(-s*0.16), cy - s*0.66, X(-s*0.24), cy - s*0.57, DARK))
-    out.append((X(-s*0.38), cy - s*0.60, X(-s*0.26), cy - s*0.665, HIDE))
-    out.append((X(-s*0.26), cy - s*0.665, X(-s*0.33), cy - s*0.585, DARK))
-    # jaw + teeth
-    out.append((X(-s*0.52), cy - s*0.40, X(-s*0.42), cy - s*0.33, HIDE))
-    out.append((X(-s*0.42), cy - s*0.33, X(-s*0.34), cy - s*0.36, HIDE))
+    # craned neck + oversized head thrust low and forward
+    out.append((X(-s*0.26), cy - s*0.50, X(-s*0.40), cy - s*0.56, HIDE))
+    head = [(X(-s*0.40), cy - s*0.62), (X(-s*0.54), cy - s*0.58),
+            (X(-s*0.58), cy - s*0.48), (X(-s*0.48), cy - s*0.41),
+            (X(-s*0.38), cy - s*0.46), (X(-s*0.37), cy - s*0.56)]
+    out += _poly(head, HIDE, close=True)
+    out += _hatch(head, DARK, s*0.09, s*0.01, rnd)[:3]
+    # ragged swept-back ears
+    out.append((X(-s*0.38), cy - s*0.60, X(-s*0.28), cy - s*0.68, HIDE))
+    out.append((X(-s*0.28), cy - s*0.68, X(-s*0.34), cy - s*0.59, DARK))
+    # narrow jaw + teeth
+    out.append((X(-s*0.56), cy - s*0.44, X(-s*0.44), cy - s*0.38, HIDE))
     for k in range(2):
-        tx = X(-s*(0.44 + 0.04 * k))
-        out.append((tx, cy - s*0.37, tx - f*s*0.012, cy - s*0.33, CLAW))
+        tx = X(-s*(0.50 + 0.045 * k))
+        out.append((tx, cy - s*0.42, tx - f*s*0.01, cy - s*0.38, CLAW))
     # sunken eye
-    out.append((X(-s*0.44), cy - s*0.52, X(-s*0.40), cy - s*0.51, DARK))
+    out.append((X(-s*0.49), cy - s*0.54, X(-s*0.45), cy - s*0.53, DARK))
 
-    # near arm: long, down to splayed claws
-    arm = [(X(-s*0.22), cy - s*0.46), (X(-s*0.32), cy - s*0.28),
-           (X(-s*0.38), cy - s*0.08), (X(-s*0.34), cy - s*0.02),
-           (X(-s*0.28), cy - s*0.16), (X(-s*0.18), cy - s*0.36)]
-    out += _part(arm, HIDE, DARK, step, rnd, shade_frac=0.4)
+    # long thin arms, knuckles at the ground, splayed fingers
+    out += _limb([(X(-s*0.20), cy - s*0.52), (X(-s*0.34), cy - s*0.30),
+                  (X(-s*0.42), cy - s*0.06)], HIDE, DARK)
     for k in range(3):
-        fx = X(-s*(0.30 + 0.05 * k))
-        out.append((fx, cy - s*0.03, fx - f*s*0.035, cy, CLAW))
-
-    # far arm hinted behind, darker
-    out.append((X(-s*0.06), cy - s*0.40, X(-s*0.14), cy - s*0.18, DARK))
-    out.append((X(-s*0.14), cy - s*0.18, X(-s*0.12), cy - s*0.03, DARK))
-    out.append((X(-s*0.12), cy - s*0.03, X(-s*0.17), cy, DARK))
-
-    # haunch leg folded under, big foot
-    leg = [(X(s*0.16), cy - s*0.36), (X(s*0.30), cy - s*0.30),
-           (X(s*0.32), cy - s*0.14), (X(s*0.20), cy - s*0.04),
-           (X(s*0.06), cy - s*0.02), (X(s*0.06), cy - s*0.12),
-           (X(s*0.14), cy - s*0.22)]
-    out += _part(leg, HIDE, DARK, step, rnd, shade_frac=0.6)
-    out.append((X(s*0.06), cy - s*0.02, X(-s*0.06), cy, HIDE))
+        fx = X(-s*(0.40 + 0.045 * k))
+        out.append((fx, cy - s*0.05, fx - f*s*0.05, cy + s*0.005, CLAW))
+    out += _limb([(X(-s*0.02), cy - s*0.50), (X(-s*0.12), cy - s*0.26),
+                  (X(-s*0.10), cy - s*0.04)], DARK, DARK)
     for k in range(2):
-        fx = X(-s*0.02 - s*0.045 * k)
-        out.append((fx, cy, fx - f*s*0.03, cy + s*0.01, CLAW))
+        fx = X(-s*(0.09 + 0.05 * k))
+        out.append((fx, cy - s*0.03, fx - f*s*0.045, cy + s*0.005, DARK))
+
+    # folded haunch legs: thin double-jointed shanks, long feet
+    out += _limb([(X(s*0.28), cy - s*0.38), (X(s*0.42), cy - s*0.24),
+                  (X(s*0.34), cy - s*0.06), (X(s*0.16), cy - s*0.02)],
+                 HIDE, DARK)
+    out += _limb([(X(s*0.20), cy - s*0.36), (X(s*0.30), cy - s*0.20),
+                  (X(s*0.24), cy - s*0.04)], DARK, DARK)
+    # long toes
+    for k in range(3):
+        fx = X(s*0.16 - f*0 + s*0.0) - f * s*0.02 * k
+        out.append((fx, cy - s*0.02, fx - f*s*0.05, cy + s*0.01, CLAW))
     return out

@@ -122,6 +122,18 @@ shading: slate blue-grey (see shade_city qeynos palette).
   positions. Shape: `landmarks.druid_ring`.
 - Human commons: see the LOCKED Tudor half-timbered cottage motif above.
 
+## Ground-cover conventions by continent (Brandon, 2026-08-16)
+
+- **Antonica plains** (Karanas, Qeynos Hills, commonlands): meadow style —
+  short green ticks + three-blade tufts, fairly even field, road halos.
+- **Faydwer** (Unrest, Faydarks, Butcherblock...): forest floor — clumped moss
+  patches + small fern curls, deeper/cooler greens (56,92,60 / 42,72,48),
+  PATCHY (clumped near trees/walls, bare in open lawn). Reusable generator
+  lives in the kit (faydwer_floor).
+- **Deserts** (Ro, Oasis): existing pale sand dash treatment — unchanged.
+- Odus / others: decide when their passes come up.
+- Draw-budget doctrine everywhere: fewer, longer, stylized strokes.
+
 ## Color + shading directive (Brandon, 2026-08-15)
 
 A LOT of color. Hand-made cartographical maps with shading. Buildings get
