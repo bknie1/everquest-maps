@@ -87,8 +87,32 @@ def components(segs):
     return out
 
 
-def fill_component(strokes, step, inset=1.5, dedupe=3.0, min_run=4.0):
-    """Even-odd scanline fill of one component. Returns runs; odd rows skipped."""
+def fill_component(strokes, step, inset=1.5, dedupe=3.0, min_run=4.0, stitch=40.0):
+    """Even-odd scanline fill of one component. Returns runs; odd rows skipped.
+
+    Loose endpoints (doorways, sloppy corners) are stitched shut first when the
+    gap is small -- a building with an open door should still get a roof.
+    """
+    cnt = {}
+    for (x1, y1, x2, y2, _c) in strokes:
+        for p in ((round(x1, 1), round(y1, 1)), (round(x2, 1), round(y2, 1))):
+            cnt[p] = cnt.get(p, 0) + 1
+    loose = [p for p, c in cnt.items() if c == 1]
+    used = set()
+    strokes = list(strokes)
+    for i, p in enumerate(loose):
+        if p in used:
+            continue
+        best, bd = None, stitch
+        for q in loose[i + 1:]:
+            if q in used:
+                continue
+            d = ((p[0] - q[0]) ** 2 + (p[1] - q[1]) ** 2) ** 0.5
+            if d < bd:
+                best, bd = q, d
+        if best:
+            strokes.append((p[0], p[1], best[0], best[1], None))
+            used.update((p, best))
     ys = [v for s in strokes for v in (s[1], s[3])]
     y = min(ys) + step * 0.6
     runs = []
