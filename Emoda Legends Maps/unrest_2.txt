@@ -8006,4 +8006,4 @@ P -326.2800, 111.6832, 0.0000, 30, 80, 95, 2, K1_hand_(3F)_>_Stone_>_magus_rm
 P -326.2800, 139.1118, 0.0000, 30, 80, 95, 2, K2_magus_>_Brass_>_barroom
 P -326.2800, 166.5405, 0.0000, 30, 80, 95, 2, K3_barkeep_>_Silver_>_tower
 P -326.2800, 193.9691, 0.0000, 30, 80, 95, 2, K4_knight_(4F)_>_Glass_>_basement
-P -326.2800, 221.3977, 0.0000, 30, 80, 95, 2, bonus:_najena_priest_>_Bronze_Key
+P -326.2800, 221.3977, 0.0000, 30, 80, 95, 2, quest:_priest_>_Bronze_(Mystic_Cloak,_Najena)
