@@ -24,7 +24,8 @@ CRLF = '\r\n'
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('zone')
-    ap.add_argument('--ink', required=True, help='r,g,b of the water outline (fill uses the same)')
+    ap.add_argument('--ink', required=True, action='append',
+                    help='r,g,b of the water outline (repeatable; fill uses the first)')
     ap.add_argument('--fill-ink', help='r,g,b for the fill runs if different from the outline')
     ap.add_argument('--step', type=float, default=11.0)
     ap.add_argument('--min-run', type=float, default=14.0)
@@ -38,8 +39,9 @@ def main():
     ap.add_argument('--dry-run', action='store_true')
     args = ap.parse_args()
 
-    ink = tuple(int(v) for v in args.ink.split(','))
-    fill = tuple(int(v) for v in (args.fill_ink or args.ink).split(','))
+    inks = [tuple(int(v) for v in i.split(',')) for i in args.ink]
+    ink = inks[0]
+    fill = tuple(int(v) for v in (args.fill_ink or args.ink[0]).split(','))
     excl = []
     for e in args.exclude:
         x0, x1, y0, y1 = (float(v) for v in e.split(','))
@@ -52,10 +54,10 @@ def main():
         if not l.startswith('L'):
             continue
         f = l[2:].split(',')
-        if tuple(int(float(v)) for v in f[6:9]) == ink:
+        if tuple(int(float(v)) for v in f[6:9]) in inks:
             water.append((float(f[0]), float(f[1]), float(f[3]), float(f[4])))
     if not water:
-        sys.exit(f'no strokes in ink {ink}')
+        sys.exit(f'no strokes in inks {inks}')
 
     # stitch SHORT breaks in the outline (BRAIN: under ~70 units only, mutual
     # nearest neighbour -- long pairings drew a chord across Kerra's bay once)
