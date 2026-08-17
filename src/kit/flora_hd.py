@@ -438,3 +438,52 @@ def faydwer_floor(anchors, reject=None, seed=0, clumps=(2, 5), spread=16.0,
             else:
                 out += moss_patch(px, py, s, ink=ink, dark=dark, seed=sd)
     return out
+
+
+def grass_meander(x0, x1, y0, y1, blocked=None, seed=0, row_step=85.0,
+                  inks=((56, 96, 52), (78, 116, 64)), tuft_ink=(46, 72, 48),
+                  density=1.0):
+    """Plains grass as LONG wandering lines, not tick fields (draw-budget craft).
+
+    One 6-10 segment meander reads as ~25 ticks of texture for a third of the
+    strokes. Rows alternate two greens; occasional three-blade tufts accent.
+    blocked(x, y) -> True suppresses growth there (roads, water, labels).
+    Returns stroke tuples (x1, y1, x2, y2, ink).
+    """
+    rng = random.Random(seed)
+    out = []
+    row = 0
+    y = y0 + row_step * 0.5
+    while y < y1:
+        ink = inks[row % len(inks)]
+        x = x0 + rng.uniform(0, 120)
+        while x < x1:
+            if rng.random() > 0.86 * density:
+                x += rng.uniform(150, 380)          # deliberate bare gap
+                continue
+            # one meander: 6-10 gentle segments
+            n = rng.randint(6, 10)
+            seg = rng.uniform(38, 64)
+            py = y + rng.uniform(-14, 14)
+            px = x
+            drew = 0
+            for k in range(n):
+                nx = px + seg * rng.uniform(0.85, 1.15)
+                ny = py + rng.uniform(-9, 9)
+                mid_x, mid_y = (px + nx) / 2, (py + ny) / 2
+                if nx > x1 or (blocked and blocked(mid_x, mid_y)):
+                    px = nx + rng.uniform(30, 90)   # break the line, hop the obstacle
+                    py = y + rng.uniform(-14, 14)
+                    continue
+                out.append((px, py, nx, ny, ink))
+                px, py = nx, ny
+                drew += 1
+            # tuft accent at some meander ends
+            if drew and rng.random() < 0.18:
+                h = rng.uniform(16, 26)
+                for kk in (-1, 0, 1):
+                    out.append((px, py, px + kk * h * 0.35, py - h * (1 - abs(kk) * 0.25), tuft_ink))
+            x = px + rng.uniform(60, 160)
+        y += row_step * rng.uniform(0.9, 1.1)
+        row += 1
+    return out
