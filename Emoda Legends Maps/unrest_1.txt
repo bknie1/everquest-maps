@@ -8,7 +8,7 @@ P -120.0000, -650.0000, 39.8100, 30, 80, 95, 2, Barroom_(Undead_Barkeep,_Zombie_
 P -100.0000, -720.0000, -1.0000, 30, 80, 95, 2, Back_Room_(Lesser_Blade_Fiend)
 P 60.0000, -700.0000, -1.0000, 30, 80, 95, 2, 2nd_Floor_(Reclusive_Ghoul_Magus)
 P 0.0000, -760.0000, 39.8100, 30, 80, 95, 2, 3rd_Floor_Towers_(Festering_Hags)
-P 0.0000, -600.0000, -25.0000, 30, 80, 95, 2, Basement_(highest_level)
+P 0.0000, -600.0000, -32.1900, 30, 80, 95, 2, Basement_(highest_level)
 P 0.0000, -700.0000, -1.0000, 110, 0, 60, 3, Garanel_Rucksif_(Ghost_Lord_of_Unrest)
 P 58.9600, -609.0200, -1.0000, 150, 90, 40, 2, Torklar_Battlemaster_(named)
 P 20.0000, -770.0000, 55.7800, 110, 0, 60, 2, Undead_Knight_of_Unrest
@@ -16,15 +16,16 @@ P -60.6700, -595.0900, 19.8100, 110, 0, 60, 2, Khrix_Fritchoff_(35_NEC_avoid)
 P 30.0000, -775.0000, -1.0000, 110, 0, 60, 2, a_priest_of_Najena_(avoid)
 P -20.0000, -528.0000, 55.7800, 30, 80, 95, 2, Hand_Room_(4F,_balcony)
 P -59.1400, -599.9100, 5.8100, 30, 80, 95, 2, Fake_Library_Door_(1F,_to_basement)
-P -140.0000, -485.0000, -25.0000, 30, 80, 95, 2, Dwarf_Room_(Basement)
+P -131.1400, -497.0300, -32.1900, 30, 80, 95, 2, Rucksifs_Haunt_(Garanel_rare)
 P -27.0000, -700.0000, 21.8100, 110, 0, 60, 2, K2_ghoul_magus_(2F)_drops_Brass_Key
 P 39.0000, -668.0000, 39.8100, 110, 0, 60, 2, K3_barkeep_(3F)_drops_Silver_Key
 P 15.0000, -572.0000, 39.8100, 110, 0, 60, 2, K1_reanimated_hand_Stone_Key
 P -90.0000, -699.0000, -1.0000, 110, 0, 60, 2, a_lesser_blade_fiend_(1F)
-P -62.0000, -742.0000, -25.0000, 30, 80, 95, 2, Basement_Door_(K4_Glass_Key)
+P -62.0000, -742.0000, -32.1900, 30, 80, 95, 2, Basement_Door_(K4_Glass_Key)
 P -27.0900, -648.0100, 21.8100, 30, 80, 95, 2, Magus_Room_Door_(K1_Stone_Key)
 P 18.8700, -701.9600, 55.7800, 30, 80, 95, 2, Tower_Door_(K3_Silver_Key)
 P 15.0000, -572.0000, 39.8100, 30, 80, 95, 2, Southwest_Tower
 P 20.0000, -770.0000, 55.7800, 30, 80, 95, 2, Northwest_Tower
 P 18.8300, -700.8800, 39.8100, 30, 80, 95, 2, Barroom_Door_(K2_Brass_Key)
 P 69.2100, -700.6200, 39.8100, 30, 80, 95, 2, Bar_Room
+P -73.1800, -523.8000, -32.1900, 150, 60, 25, 2, Blood_Trap_(walk_THRU_the_lava)
