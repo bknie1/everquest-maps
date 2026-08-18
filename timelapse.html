@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Emoda Maps — Time-lapse</title>
+<style>
+  :root { --parchment:#e8d9b9; --ink:#3a2f1e; }
+  * { box-sizing:border-box; }
+  body { margin:0; font:14px/1.4 Georgia, serif; color:#d8c9a5; background:#2b2723; display:flex; height:100vh; }
+  #side { width:230px; background:#241f1a; display:flex; flex-direction:column; border-right:2px solid #10100c; }
+  #side header { padding:10px 12px 6px; }
+  h1 { font-size:16px; margin:0 0 8px; letter-spacing:1px; }
+  #filter { width:100%; padding:5px 7px; background:#17130f; color:#d8c9a5; border:1px solid #443a2b; font:inherit; }
+  #zones { flex:1; overflow-y:auto; margin:8px 0 0; padding:0; list-style:none; }
+  #zones li { padding:4px 12px; cursor:pointer; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+  #zones li:hover { background:#382f24; }
+  #zones li.sel { background:#6d5a35; color:#fff; }
+  #main { flex:1; position:relative; display:flex; flex-direction:column; }
+  #stage { flex:1; display:flex; align-items:center; justify-content:center; overflow:hidden; padding:14px; }
+  #frame { max-width:100%; max-height:100%; image-rendering:auto; background:var(--parchment); border:1px solid #10100c; }
+  #bar { padding:8px 14px 12px; background:#1c1813; border-top:1px solid #10100c; }
+  #info { font-size:13px; color:#b7a985; margin-bottom:6px; min-height:18px; }
+  #info b { color:#e8d9b9; }
+  .row { display:flex; align-items:center; gap:10px; }
+  button.ctl { background:#6d5a35; color:#f4e9cd; border:1px solid #10100c; cursor:pointer; font:inherit; padding:6px 12px; }
+  button.ctl:hover { background:#85703f; }
+  #scrub { flex:1; }
+  #speed { width:120px; }
+  .lbl { font-size:12px; color:#9c8a63; }
+  #hint { position:absolute; inset:0; display:flex; align-items:center; justify-content:center; color:#8d8065; font-size:18px; }
+</style>
+</head>
+<body>
+<div id="side">
+  <header>
+    <h1>Time-lapse</h1>
+    <input id="filter" placeholder="filter zones">
+  </header>
+  <ul id="zones"></ul>
+</div>
+<div id="main">
+  <div id="stage"><img id="frame" alt="" style="display:none;"><div id="hint">Pick a zone to watch it built, commit by commit.</div></div>
+  <div id="bar">
+    <div id="info"></div>
+    <div class="row">
+      <button class="ctl" id="play">&#9654; Play</button>
+      <button class="ctl" id="prev">&#9664;</button>
+      <button class="ctl" id="next">&#9654;</button>
+      <input type="range" id="scrub" min="1" max="1" value="1">
+      <span class="lbl">fps</span>
+      <input type="range" id="speed" min="1" max="15" step="1" value="3">
+      <span class="lbl" id="fpsval">3</span>
+    </div>
+  </div>
+</div>
+<script>
+"use strict";
+let index = null, zone = null, frames = 0, commits = [], cur = 1, playing = false, timer = null;
+const framesCache = new Map();
+
+const zonesEl = document.getElementById("zones");
+const img = document.getElementById("frame"), hint = document.getElementById("hint");
+const infoEl = document.getElementById("info"), scrub = document.getElementById("scrub");
+const speed = document.getElementById("speed"), fpsval = document.getElementById("fpsval");
+const playBtn = document.getElementById("play");
+
+function pad(n) { return String(n).padStart(4, "0"); }
+function frameSrc(z, i) { return `src/design/timelapse/${z}/${pad(i)}.png`; }
+
+async function load() {
+  const res = await fetch("timelapse-index.json", { cache: "no-cache" });
+  index = await res.json();
+  buildList();
+}
+
+function buildList() {
+  const q = document.getElementById("filter").value.toLowerCase();
+  zonesEl.innerHTML = "";
+  Object.keys(index.zones).sort().forEach(z => {
+    if (q && !z.includes(q)) return;
+    const li = document.createElement("li");
+    li.textContent = `${z}  (${index.zones[z].frames})`;
+    li.className = z === zone ? "sel" : "";
+    li.onclick = () => select(z);
+    zonesEl.appendChild(li);
+  });
+}
+document.getElementById("filter").oninput = buildList;
+
+function preload(z, n) {
+  for (let i = 1; i <= n; i++) {
+    const s = frameSrc(z, i);
+    if (!framesCache.has(s)) { const im = new Image(); im.src = s; framesCache.set(s, im); }
+  }
+}
+
+function select(z) {
+  stop();
+  zone = z;
+  frames = index.zones[z].frames;
+  commits = index.zones[z].commits || [];
+  cur = frames;                       // show the finished map first
+  scrub.min = 1; scrub.max = frames; scrub.value = cur;
+  hint.style.display = "none"; img.style.display = "";
+  buildList();
+  preload(z, frames);
+  show();
+}
+
+function show() {
+  if (!zone) return;
+  img.src = frameSrc(zone, cur);
+  scrub.value = cur;
+  const c = commits[cur - 1] || {};
+  const date = c.date ? new Date(c.date * 1000).toISOString().slice(0, 10) : "";
+  infoEl.innerHTML = `<b>${zone}</b> — frame ${cur}/${frames}` + (date ? ` &middot; ${date}` : "") + (c.msg ? ` &middot; ${c.msg}` : "");
+}
+
+function step() {
+  if (cur >= frames) { stop(); return; }
+  cur++; show();
+}
+function play() {
+  if (!zone) return;
+  if (cur >= frames) cur = 1;         // restart from the beginning
+  playing = true; playBtn.innerHTML = "&#9632; Pause";
+  const fps = +speed.value;
+  clearInterval(timer);
+  timer = setInterval(step, 1000 / fps);
+}
+function stop() {
+  playing = false; playBtn.innerHTML = "&#9654; Play";
+  clearInterval(timer); timer = null;
+}
+playBtn.onclick = () => playing ? stop() : play();
+document.getElementById("prev").onclick = () => { stop(); if (cur > 1) { cur--; show(); } };
+document.getElementById("next").onclick = () => { stop(); if (cur < frames) { cur++; show(); } };
+scrub.oninput = () => { stop(); cur = +scrub.value; show(); };
+speed.oninput = () => { fpsval.textContent = speed.value; if (playing) play(); };
+
+load();
+</script>
+</body>
+</html>
