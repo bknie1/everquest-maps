@@ -39,9 +39,10 @@
   </header>
   <ul id="zones"></ul>
   <div id="layers">
-    <label><input type="checkbox" data-l="0" checked> base</label><label><input type="checkbox" data-l="1" checked> POI</label><br>
-    <label><input type="checkbox" data-l="2" checked> deco</label><br>
-    <label><input type="checkbox" data-l="3" checked> Historical POI &amp; Zones</label><br>
+    <label><input type="checkbox" data-l="0" checked> Base (Map)</label>
+    <label><input type="checkbox" data-l="1" checked> 1 (POI)</label><br>
+    <label><input type="checkbox" data-l="2" checked> 2 (Deco)</label>
+    <label><input type="checkbox" data-l="3" checked> 3 (Historical)</label><br>
     <label><input type="checkbox" id="lbl" checked> labels</label>
     <div id="zbox" style="margin-top:8px; border-top:1px solid #443a2b; padding-top:8px;">
       <label><input type="checkbox" id="zon"> filter by height (z)</label>
@@ -52,6 +53,11 @@
         <div style="font-size:11px; color:#9c8a63;">to (ceiling)</div>
         <input type="range" id="zmax" step="1" style="width:100%; margin:2px 0;">
       </div>
+    </div>
+    <div id="buildbox" style="margin-top:8px; border-top:1px solid #443a2b; padding-top:8px;">
+      <button class="btn" id="buildBtn">&#9654; Build Map</button>
+      <div style="font-size:11px; color:#9c8a63; margin-top:6px;">build time (s)</div>
+      <input type="range" id="bspeed" min="2" max="15" step="1" value="6" style="width:100%;">
     </div>
   </div>
 </div>
@@ -68,6 +74,8 @@ const files = new Map();      // zone -> {0:src,1:src,2:src,3:src}
 const cache = new Map();      // zone -> parsed layers
 let current = null, view = { x: 0, y: 0, k: 1 };
 let zEnabled = false, zMinV = 0, zMaxV = 0, zZone = null;
+let zLoCur = 0, zHiCur = 0;
+let building = false, buildP = 0, buildMode = "z", buildTotal = 0, buildRAF = null;
 
 const cv = document.getElementById("cv"), ctx = cv.getContext("2d");
 const zonesEl = document.getElementById("zones"), statusEl = document.getElementById("status");
@@ -170,6 +178,7 @@ function activeLayers() {
 }
 
 async function select(z) {
+  if (building) { building = false; cancelAnimationFrame(buildRAF); document.getElementById("buildBtn").innerHTML = "&#9654; Build Map"; }
   current = z;
   hintEl.style.display = "none";
   buildList();
@@ -185,6 +194,7 @@ function computeZBounds(layers) {
   }
   if (lo > hi) { lo = 0; hi = 0; }
   lo = Math.floor(lo); hi = Math.ceil(hi);
+  zLoCur = lo; zHiCur = hi;
   const zmin = document.getElementById("zmin"), zmax = document.getElementById("zmax");
   zmin.min = zmax.min = lo; zmin.max = zmax.max = hi;
   document.getElementById("zon").disabled = (hi - lo) < 1;
@@ -229,11 +239,19 @@ async function draw() {
   ctx.setTransform(view.k, 0, 0, view.k, view.x, view.y);
   ctx.lineWidth = 1 / view.k;
   const showLbl = document.getElementById("lbl").checked;
+  let idx = 0;
+  const revealZ = zLoCur + (zHiCur - zLoCur) * buildP;
+  const revealN = buildTotal * buildP;
+  const pass = (z) => {
+    if (building) return buildMode === "z" ? (z <= revealZ) : ((idx++) < revealN);
+    if (zEnabled) return z >= zMinV && z <= zMaxV;
+    return true;
+  };
   for (const k of activeLayers()) {
     const L = layers[k]; if (!L) continue;
     let last = null;
     for (const [x1, y1, x2, y2, c, z] of L.lines) {
-      if (zEnabled && (z < zMinV || z > zMaxV)) continue;
+      if (!pass(z)) continue;
       if (c !== last) { if (last !== null) ctx.stroke(); ctx.beginPath(); ctx.strokeStyle = c; last = c; }
       ctx.moveTo(x1, y1); ctx.lineTo(x2, y2);
     }
@@ -241,7 +259,7 @@ async function draw() {
     const r = 3 / view.k;
     ctx.font = `${12 / view.k}px Georgia`;
     for (const [x, y, c, label, z] of L.points) {
-      if (zEnabled && (z < zMinV || z > zMaxV)) continue;
+      if (!pass(z)) continue;
       ctx.fillStyle = c;
       ctx.beginPath(); ctx.arc(x, y, r, 0, 7); ctx.fill();
       if (showLbl && label) ctx.fillText(label, x + r * 1.6, y - r * 0.6);
@@ -299,6 +317,34 @@ document.getElementById("zon").onchange = e => {
   }
   zmin.oninput = onZ; zmax.oninput = onZ;
 })();
+
+// "Build Map": reveal the map from the ground up, like a 3D print. Multi-floor
+// zones reveal bottom-to-top by height (z); flat zones reveal in draw order.
+async function startBuild() {
+  const btn = document.getElementById("buildBtn");
+  if (building) { building = false; cancelAnimationFrame(buildRAF); btn.innerHTML = "&#9654; Build Map"; draw(); return; }
+  if (!current) return;
+  const layers = await parseZone(current);
+  buildMode = (zHiCur - zLoCur) >= 8 ? "z" : "order";
+  buildTotal = 1;
+  if (buildMode === "order") {
+    buildTotal = 0;
+    for (const k of activeLayers()) { const L = layers[k]; if (L) buildTotal += L.lines.length + L.points.length; }
+    buildTotal = Math.max(buildTotal, 1);
+  }
+  building = true; buildP = 0;
+  btn.innerHTML = "&#9632; Stop";
+  const dur = (+document.getElementById("bspeed").value) * 1000;
+  let last = performance.now();
+  function step(now) {
+    buildP += (now - last) / dur; last = now;
+    if (buildP >= 1) { buildP = 1; building = false; btn.innerHTML = "&#9654; Build Map"; draw(); return; }
+    draw();
+    buildRAF = requestAnimationFrame(step);
+  }
+  buildRAF = requestAnimationFrame(step);
+}
+document.getElementById("buildBtn").onclick = startBuild;
 
 async function init() {
   resize();
