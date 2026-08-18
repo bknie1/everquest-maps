@@ -16,6 +16,18 @@ Age of Adventure, the Age of Enlightenment, and the Age of Turmoil.
   <img src="src/design/banner/layers.png" alt="The four map layers, added one at a time">
 </p>
 
+## Preview the maps without the game
+
+**[`preview.html`](preview.html)** is a single, self-contained page — no install, no
+server, no dependencies. Download that one file, open it in any browser, click **Open
+maps folder…**, and point it at your `Emoda Legends Maps` folder. You get a zone list
+with a filter, per-layer toggles (base / POI / deco / EQOA), labels on/off, drag to pan,
+wheel to zoom, double-click to re-fit. Everything stays on your machine — nothing is
+uploaded.
+
+> On GitHub, clicking the link above shows the source. Use the **Download raw file**
+> button (or right-click → Save) to get the file, then open it locally.
+
 <details>
 <summary><b>Gallery: every zone, and the asset kits</b> (click to expand)</summary>
 
