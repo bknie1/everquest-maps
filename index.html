@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Emoda Legends Maps</title>
+<style>
+  :root { --parchment:#e8d9b9; --ink:#3a2f1e; --accent:#6d5a35; --accent2:#85703f; }
+  * { box-sizing:border-box; }
+  body { margin:0; padding:0 20px 60px; background:var(--parchment); color:var(--ink);
+         font:17px/1.6 Georgia, 'Times New Roman', serif; }
+  .wrap { max-width:760px; margin:0 auto; }
+  header { text-align:center; padding:36px 0 8px; }
+  header img { max-width:100%; height:auto; }
+  h1 { font-size:30px; letter-spacing:1px; margin:18px 0 4px; }
+  .tag { color:#5c4f38; font-style:italic; margin:0 0 28px; text-align:center; }
+  .launch { display:block; max-width:420px; margin:26px auto; padding:16px 22px;
+            background:var(--accent); color:#f4e9cd; text-decoration:none; text-align:center;
+            font-size:20px; letter-spacing:.5px; border:1px solid #10100c; border-radius:4px; }
+  .launch:hover { background:var(--accent2); }
+  .card { background:rgba(255,255,255,.28); border:1px solid #c9b791; border-radius:6px;
+          padding:18px 22px; margin:22px 0; }
+  h2 { font-size:20px; margin:0 0 10px; }
+  ol { margin:0; padding-left:22px; }
+  li { margin:6px 0; }
+  a { color:#6d5a35; }
+  .row { display:flex; gap:14px; flex-wrap:wrap; justify-content:center; margin-top:10px; }
+  .row a { display:inline-block; padding:9px 16px; background:rgba(109,90,53,.12);
+           border:1px solid #c9b791; border-radius:4px; text-decoration:none; }
+  footer { text-align:center; color:#6b5d42; font-size:14px; margin-top:34px; }
+  .note { font-size:14.5px; color:#5c4f38; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <img src="src/design/banner/hero.png" alt="Emoda Legends Maps — an atlas of the Old World">
+    <h1>Emoda Legends Maps</h1>
+    <p class="tag">A hand-drawn atlas of the Old World for EverQuest Legends and Project 1999.</p>
+  </header>
+
+  <a class="launch" href="preview.html">Launch the Map Previewer&nbsp;→</a>
+  <p class="note" style="text-align:center;">
+    Runs entirely in your browser — no install, nothing uploaded. You pick the folder; it never leaves your machine.
+  </p>
+
+  <div class="card">
+    <h2>How the previewer works</h2>
+    <ol>
+      <li>Download the map pack from the <a href="https://github.com/bknie1/everquest-maps/releases">latest release</a> and extract it.</li>
+      <li>Click <b>Launch the Map Previewer</b> above.</li>
+      <li>Hit <b>Open maps folder…</b> and point it at your <code>Emoda Legends Maps</code> folder.</li>
+      <li>Browse: filter zones, toggle layers (base / POI / deco / historical), labels on or off, drag to pan, wheel to zoom.</li>
+    </ol>
+  </div>
+
+  <div class="row">
+    <a href="https://github.com/bknie1/everquest-maps/releases">Download the maps</a>
+    <a href="https://github.com/bknie1/everquest-maps">Source on GitHub</a>
+    <a href="preview.html">Open the previewer</a>
+  </div>
+
+  <footer>Built zone by zone. It's just vector math.</footer>
+</div>
+</body>
+</html>
