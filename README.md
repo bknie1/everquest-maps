@@ -2,6 +2,12 @@
   <img src="src/design/banner/hero.png" alt="Emoda Legends Maps — an atlas of the Old World">
 </p>
 
+<p align="center">
+  <a href="https://bknie1.github.io/everquest-maps/"><b>▶ Open the live map browser</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/bknie1/everquest-maps/releases">Download the maps</a>
+</p>
+
 Atlas-style in-game map files for EverQuest Legends and Project 1999, built zone by zone.
 The look is a 2D contour map with 3D-effect features: parchment background, color-coded
 points of interest, themed hand-crafted borders, etched titles, compasses, and

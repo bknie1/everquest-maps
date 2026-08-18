@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Emoda Maps Preview</title>
 <style>
   :root { --parchment: #e8d9b9; --ink: #3a2f1e; }
@@ -13,6 +14,8 @@
   #side input[type=file] { display: none; }
   .btn { display: block; width: 100%; padding: 7px; background: #6d5a35; color: #f4e9cd; border: 1px solid #10100c; cursor: pointer; font: inherit; text-align: center; }
   .btn:hover { background: #85703f; }
+  .btn.sub { background: transparent; color: #9c8a63; border-color: #443a2b; margin-top: 6px; font-size: 12px; padding: 5px; }
+  .btn.sub:hover { background: #2c251c; color: #d8c9a5; }
   #filter { width: 100%; margin-top: 8px; padding: 5px 7px; background: #17130f; color: #d8c9a5; border: 1px solid #443a2b; font: inherit; }
   #zones { flex: 1; overflow-y: auto; margin: 8px 0 0; padding: 0; list-style: none; }
   #zones li { padding: 4px 12px; cursor: pointer; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
@@ -30,9 +33,9 @@
 <div id="side">
   <header>
     <h1>Emoda Maps</h1>
-    <button class="btn" id="openBtn">Open maps folder&hellip;</button>
-    <input type="file" id="dir" webkitdirectory multiple>
     <input id="filter" placeholder="filter zones" disabled>
+    <button class="btn sub" id="openBtn">Load a local folder instead&hellip;</button>
+    <input type="file" id="dir" webkitdirectory multiple>
   </header>
   <ul id="zones"></ul>
   <div id="layers">
@@ -44,21 +47,23 @@
 </div>
 <div id="main">
   <canvas id="cv"></canvas>
-  <div id="hint">Open your <b>Emoda Legends Maps</b> folder to begin.<br><small>Drag to pan &middot; wheel to zoom &middot; double-click to fit</small></div>
+  <div id="hint">Loading the atlas&hellip;</div>
   <div id="status"></div>
 </div>
 <script>
 "use strict";
-const files = new Map();      // zone -> {0:File,1:File,2:File,3:File}
+// A layer source is either a File (local folder) or a URL string (repo/hosted).
+const files = new Map();      // zone -> {0:src,1:src,2:src,3:src}
 const cache = new Map();      // zone -> parsed layers
 let current = null, view = { x: 0, y: 0, k: 1 };
 
 const cv = document.getElementById("cv"), ctx = cv.getContext("2d");
 const zonesEl = document.getElementById("zones"), statusEl = document.getElementById("status");
+const hintEl = document.getElementById("hint");
 
 document.getElementById("openBtn").onclick = () => document.getElementById("dir").click();
 document.getElementById("dir").onchange = e => {
-  files.clear(); cache.clear();
+  files.clear(); cache.clear(); current = null;
   for (const f of e.target.files) {
     const m = /^([^\/\\]+?)(?:_([123]))?\.txt$/.exec(f.name);
     if (!m) continue;
@@ -66,10 +71,34 @@ document.getElementById("dir").onchange = e => {
     files.get(m[1])[m[2] || "0"] = f;
   }
   buildList();
-  document.getElementById("filter").disabled = false;
-  document.getElementById("hint").style.display = files.size ? "none" : "";
-  status(files.size + " zones loaded");
+  document.getElementById("filter").disabled = files.size === 0;
+  hintEl.style.display = files.size ? "none" : "";
+  status(files.size + " zones loaded from folder");
+  autoSelect();
 };
+
+// Auto-load the maps that ship in this repo, so the hosted page is a live
+// view of current map progress. Falls back silently when opened as a local
+// file (no server) or when the manifest is absent.
+async function loadFromRepo() {
+  let man;
+  try {
+    const res = await fetch("maps-manifest.json", { cache: "no-cache" });
+    if (!res.ok) return false;
+    man = await res.json();
+  } catch (_) { return false; }
+  files.clear(); cache.clear();
+  const folder = man.folder;
+  for (const [zone, layers] of Object.entries(man.zones)) {
+    const entry = {};
+    for (const k of layers) {
+      const suffix = k === "0" ? "" : "_" + k;
+      entry[k] = encodeURI(folder + "/" + zone + suffix + ".txt");
+    }
+    files.set(zone, entry);
+  }
+  return files.size > 0;
+}
 
 function buildList() {
   const q = document.getElementById("filter").value.toLowerCase();
@@ -85,13 +114,31 @@ function buildList() {
 }
 document.getElementById("filter").oninput = buildList;
 
+function autoSelect() {
+  if (current || files.size === 0) return;
+  const prefer = ["unrest", "newsebexp", "ecommons", "qeynos", "freporte"];
+  const pick = prefer.find(z => files.has(z)) || [...files.keys()].sort()[0];
+  select(pick);
+}
+
+async function layerText(src) {
+  if (typeof src === "string") {
+    const res = await fetch(src, { cache: "no-cache" });
+    if (!res.ok) throw new Error(res.status);
+    return res.text();
+  }
+  return src.text();
+}
+
 async function parseZone(z) {
   if (cache.has(z)) return cache.get(z);
   const layers = {};
-  for (const [k, f] of Object.entries(files.get(z))) {
+  for (const [k, src] of Object.entries(files.get(z))) {
     const lines = [], points = [];
-    for (const raw of (await f.text()).split("\n")) {
-      const t = raw.trim();
+    let raw;
+    try { raw = await layerText(src); } catch (_) { layers[k] = { lines, points }; continue; }
+    for (const line of raw.split("\n")) {
+      const t = line.trim();
       if (t[0] === "L") {
         const p = t.slice(1).split(",");
         if (p.length >= 9) lines.push([+p[0], +p[1], +p[3], +p[4], `rgb(${+p[6]},${+p[7]},${+p[8]})`]);
@@ -112,7 +159,9 @@ function activeLayers() {
 
 async function select(z) {
   current = z;
+  hintEl.style.display = "none";
   buildList();
+  status("loading " + z + "…");
   await fit();
 }
 
@@ -190,7 +239,20 @@ cv.onwheel = e => {
   draw();
 };
 document.querySelectorAll("#layers input").forEach(c => c.onchange = draw);
-resize();
+
+async function init() {
+  resize();
+  const ok = await loadFromRepo();
+  if (ok) {
+    document.getElementById("filter").disabled = false;
+    buildList();
+    status(files.size + " zones · live from the repo");
+    autoSelect();
+  } else {
+    hintEl.innerHTML = "Click <b>Load a local folder</b> and pick your <b>Emoda Legends Maps</b> folder.<br><small>Drag to pan &middot; wheel to zoom &middot; double-click to fit</small>";
+  }
+}
+init();
 </script>
 </body>
 </html>
