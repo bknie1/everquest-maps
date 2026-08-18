@@ -334,3 +334,85 @@ python src/tools/validate_overlay.py --fix   # decoration standing in water
    and was right to.
 8. **Drawing shapes inline in a build script.** That is how the original `nse_decor`
    was lost before it reached the repo. Anything used on a map goes in a kit.
+
+
+---
+
+## 14. ADDENDUM (2026-08-17) — read this before anything else. Plain rules.
+
+These rules were learned the hard way across the alpha sessions. Follow them
+exactly. When in doubt, do less and ask Brandon.
+
+### Hard limits
+1. EVERY ZONE SHIPS AT OR UNDER 31,000 TOTAL L-STROKES (all layers summed).
+   The client stops drawing assets around ~32k. Symptoms of breaking this:
+   map only renders zoomed in, or individual elements (trees, bridges) vanish
+   at distance. File order does NOT help. LOD silhouette tricks do NOT help.
+   The ONLY fix is fewer total strokes. Count first:
+   python -c with sum(1 for l in open(f) if l.startswith('L')) per layer.
+2. Before fighting the budget, DEDUPE THE BASE: many bases carry exact
+   duplicate strokes (same xy, same z, same ink - also check reversed
+   endpoints). Unrest was 4x overdrawn; Mistmoore had 9,890. Keep-first.
+3. CRLF line endings on every map file, every write. Python:
+   open(path, 'w', newline='') and join with \r\n. Verify: no bare LF bytes.
+
+### Labels (P records)
+4. NO COMMAS inside label text ever (breaks parsing). Underscores for spaces.
+5. NO question marks / uncertainty in labels. A map states confirmed facts.
+   Keep uncertainty in the workflow, not on the map.
+6. Labels need REAL z heights. The client height-filters by player elevation.
+   z=-1 on an upstairs label makes it invisible upstairs. Calibrate floor
+   bands from Brandon /loc readings (Unrest: 1F 2 / 2F 21.81 / 3F 39.81 /
+   4F 55.78 / basement -32.19). Warning labels go at WALKING height.
+7. Merchants and NPCs use the zone's existing color conventions - read the
+   zone _1 file first and match. Named mobs (110,0,60). Places (30,80,95).
+8. Legends / key chains / info blocks go OUTSIDE the map entirely, off the
+   LEFT edge, in the BASE layer: src/tools/add_legend.py (idempotent).
+   Single-line records, stacked, generous spacing. No line breaks exist.
+
+### Brandon field-survey protocol (the most important workflow)
+9. Brandon plays the game and sends /loc readings. Transform: /loc (a, b, z)
+   -> map native (-b, -a), keep z as-is. ALWAYS sanity-check the result
+   against a known point in the zone before trusting a batch (a wiki page
+   once listed coords in (b, a) order - the Xorbb lesson).
+10. His /loc IS ground truth. It beats the wiki, beats the base geometry,
+    beats existing labels. When he sends one, fix the map immediately,
+    commit, deploy (copy changed txts to D:\EverQuest Legends\maps\Emoda
+    Maps), and if a release is current, gh release upload --clobber the zip.
+11. NEVER touch his original _1 records without his explicit direction.
+    Appending new records is fine. His word in chat = authorization.
+
+### Style laws (Brandon-approved, do not relitigate)
+12. No pale yellows/golds on parchment - they vanish. Darker bronze
+    (130,82,12) family only. Same for any low-contrast ink: check against
+    parchment (232,217,185).
+13. Texture = FEWER, LONGER, STYLIZED strokes. grass_meander in
+    src/kit/flora_hd.py is the Karana standard. NEVER dense tick/speckle
+    fields (they killed 6 zones once). Qeynos Hills keeps its tick grass
+    (west-Antonica signature) - do not convert it.
+14. Ground cover by continent: Antonica plains = meanders; Faydwer = forest
+    floor moss/fern (flora_hd.faydwer_floor); deserts = sand dashes.
+15. Multi-floor dungeons: hue-coded floor wall inks, dark enough to survive
+    elevation fade (Unrest: 1F brown, 2F red, 3F purple, 4F charcoal,
+    basement grey). Hue differentiates; lightness does not survive fading.
+16. Cities get the full pass: shade_city sandstone/etc palettes, race motif
+    kits, wiki POIs. If a city core is one connected component, flood-fill
+    rooms (see build_freportn.py NPC-seed trick).
+17. Shapes live in kits (src/kit/*), never inline in build scripts.
+
+### Locked zones - DO NOT MODIFY without Brandon saying so in chat
+18. unrest (flagship, final), eastkarana. East Commonlands grass/transition
+    is sacred: thinned once WITH his approval, never again without it.
+
+### The loop that works
+19. For any zone work: render (src/tools/render_zone.py ZONE --width 1100
+    --out src/design/zones), LOOK at the PNG, edit, re-render, LOOK again.
+    Never write without looking. Validators after every pass:
+    validate_titles.py, validate_overlay.py. They are necessary, not
+    sufficient - the render is the truth.
+20. Commit small with clear messages, push (rebase if wiki-sync committed),
+    deploy changed txts to the live folder, and offer a release when a
+    coherent chunk lands: Compress-Archive the map folder -> maps.zip,
+    git tag vX.Y.Z-alpha, gh release create with notes.
+21. Wiki lore is cached in src/data/wiki/ (wiki_sync.py, daily GitHub
+    Action). Grep the cache before fetching anything.
