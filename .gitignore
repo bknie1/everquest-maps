@@ -4,3 +4,6 @@ maps.zip
 
 # Local render output from src/tools/render_zone.py
 renders/
+
+# Fable's thinking/reasoning doc - kept locally as a build guide, not tracked in source.
+src/docs/BRAIN.md
