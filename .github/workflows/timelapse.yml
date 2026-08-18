@@ -1,0 +1,39 @@
+name: timelapse
+# Regenerate the per-commit time-lapse frames whenever the maps change, so the
+# flip-book at timelapse.html always reflects the latest state.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "Emoda Legends Maps/**"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+# One run at a time; a newer push supersedes an in-flight regen.
+concurrency:
+  group: timelapse
+  cancel-in-progress: true
+
+jobs:
+  frames:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0        # gen_timelapse walks full history
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pillow
+      - name: Regenerate frames
+        run: python src/tools/gen_timelapse.py
+      - name: Commit if changed
+        run: |
+          git config user.name "timelapse-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add src/design/timelapse timelapse-index.json
+          git diff --cached --quiet && echo "no frame changes" && exit 0
+          git commit -m "timelapse: refresh frames after map update"
+          git push
