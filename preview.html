@@ -43,11 +43,22 @@
     <label><input type="checkbox" data-l="2" checked> deco</label><br>
     <label><input type="checkbox" data-l="3" checked> Historical POI &amp; Zones</label><br>
     <label><input type="checkbox" id="lbl" checked> labels</label>
+    <div id="zbox" style="margin-top:8px; border-top:1px solid #443a2b; padding-top:8px;">
+      <label><input type="checkbox" id="zon"> filter by height (z)</label>
+      <div id="zctl" style="display:none; margin-top:6px;">
+        <div id="zval" style="font-size:12px; color:#b7a985;"></div>
+        <div style="font-size:11px; color:#9c8a63;">from (floor)</div>
+        <input type="range" id="zmin" step="1" style="width:100%; margin:2px 0;">
+        <div style="font-size:11px; color:#9c8a63;">to (ceiling)</div>
+        <input type="range" id="zmax" step="1" style="width:100%; margin:2px 0;">
+      </div>
+    </div>
   </div>
 </div>
 <div id="main">
   <canvas id="cv"></canvas>
   <div id="hint">Loading the atlas&hellip;</div>
+  <div id="coords" style="position:absolute; top:6px; left:8px; padding:3px 8px; background:rgba(20,17,13,.8); color:#d8c9a5; font-size:12px; border-radius:3px; display:none; pointer-events:none; font-family:monospace;"></div>
   <div id="status"></div>
 </div>
 <script>
@@ -56,6 +67,7 @@
 const files = new Map();      // zone -> {0:src,1:src,2:src,3:src}
 const cache = new Map();      // zone -> parsed layers
 let current = null, view = { x: 0, y: 0, k: 1 };
+let zEnabled = false, zMinV = 0, zMaxV = 0, zZone = null;
 
 const cv = document.getElementById("cv"), ctx = cv.getContext("2d");
 const zonesEl = document.getElementById("zones"), statusEl = document.getElementById("status");
@@ -141,10 +153,10 @@ async function parseZone(z) {
       const t = line.trim();
       if (t[0] === "L") {
         const p = t.slice(1).split(",");
-        if (p.length >= 9) lines.push([+p[0], +p[1], +p[3], +p[4], `rgb(${+p[6]},${+p[7]},${+p[8]})`]);
+        if (p.length >= 9) lines.push([+p[0], +p[1], +p[3], +p[4], `rgb(${+p[6]},${+p[7]},${+p[8]})`, (+p[2] + +p[5]) / 2]);
       } else if (t[0] === "P") {
         const p = t.slice(1).split(",");
-        if (p.length >= 8) points.push([+p[0], +p[1], `rgb(${+p[3]},${+p[4]},${+p[5]})`, p.slice(7).join(",").replace(/_/g, " ").trim()]);
+        if (p.length >= 8) points.push([+p[0], +p[1], `rgb(${+p[3]},${+p[4]},${+p[5]})`, p.slice(7).join(",").replace(/_/g, " ").trim(), +p[2]]);
       }
     }
     layers[k] = { lines, points };
@@ -165,9 +177,29 @@ async function select(z) {
   await fit();
 }
 
+function computeZBounds(layers) {
+  let lo = 1e9, hi = -1e9;
+  for (const L of Object.values(layers)) {
+    for (const ln of L.lines) { const z = ln[5]; if (z < lo) lo = z; if (z > hi) hi = z; }
+    for (const pt of L.points) { const z = pt[4]; if (z < lo) lo = z; if (z > hi) hi = z; }
+  }
+  if (lo > hi) { lo = 0; hi = 0; }
+  lo = Math.floor(lo); hi = Math.ceil(hi);
+  const zmin = document.getElementById("zmin"), zmax = document.getElementById("zmax");
+  zmin.min = zmax.min = lo; zmin.max = zmax.max = hi;
+  document.getElementById("zon").disabled = (hi - lo) < 1;
+  if (current !== zZone) {                 // new zone: reset the range to full
+    zZone = current;
+    zmin.value = lo; zmax.value = hi;
+    zMinV = lo; zMaxV = hi;
+    document.getElementById("zval").textContent = "z " + lo + " … " + hi;
+  }
+}
+
 async function fit() {
   if (!current) return;
   const layers = await parseZone(current);
+  computeZBounds(layers);
   let minx = 1e9, maxx = -1e9, miny = 1e9, maxy = -1e9;
   for (const k of activeLayers()) {
     const L = layers[k]; if (!L) continue;
@@ -200,14 +232,16 @@ async function draw() {
   for (const k of activeLayers()) {
     const L = layers[k]; if (!L) continue;
     let last = null;
-    for (const [x1, y1, x2, y2, c] of L.lines) {
+    for (const [x1, y1, x2, y2, c, z] of L.lines) {
+      if (zEnabled && (z < zMinV || z > zMaxV)) continue;
       if (c !== last) { if (last !== null) ctx.stroke(); ctx.beginPath(); ctx.strokeStyle = c; last = c; }
       ctx.moveTo(x1, y1); ctx.lineTo(x2, y2);
     }
     if (last !== null) ctx.stroke();
     const r = 3 / view.k;
     ctx.font = `${12 / view.k}px Georgia`;
-    for (const [x, y, c, label] of L.points) {
+    for (const [x, y, c, label, z] of L.points) {
+      if (zEnabled && (z < zMinV || z > zMaxV)) continue;
       ctx.fillStyle = c;
       ctx.beginPath(); ctx.arc(x, y, r, 0, 7); ctx.fill();
       if (showLbl && label) ctx.fillText(label, x + r * 1.6, y - r * 0.6);
@@ -238,7 +272,33 @@ cv.onwheel = e => {
   view.k *= f;
   draw();
 };
-document.querySelectorAll("#layers input").forEach(c => c.onchange = draw);
+const coordsEl = document.getElementById("coords");
+cv.addEventListener("mousemove", e => {
+  const rect = cv.getBoundingClientRect();
+  const wx = (e.clientX - rect.left - view.x) / view.k;
+  const wy = (e.clientY - rect.top - view.y) / view.k;
+  // game /loc is the inverse of the native transform: native = (-b, -a)
+  coordsEl.style.display = "";
+  coordsEl.textContent = `/loc ${(-wy).toFixed(1)}, ${(-wx).toFixed(1)}   ·   xy ${wx.toFixed(1)}, ${wy.toFixed(1)}`;
+});
+cv.addEventListener("mouseleave", () => { coordsEl.style.display = "none"; });
+
+document.querySelectorAll("#layers input[data-l], #lbl").forEach(c => c.onchange = draw);
+document.getElementById("zon").onchange = e => {
+  zEnabled = e.target.checked;
+  document.getElementById("zctl").style.display = zEnabled ? "" : "none";
+  draw();
+};
+(function () {
+  const zmin = document.getElementById("zmin"), zmax = document.getElementById("zmax");
+  function onZ() {
+    zMinV = Math.min(+zmin.value, +zmax.value);
+    zMaxV = Math.max(+zmin.value, +zmax.value);
+    document.getElementById("zval").textContent = "z " + zMinV + " … " + zMaxV;
+    draw();
+  }
+  zmin.oninput = onZ; zmax.oninput = onZ;
+})();
 
 async function init() {
   resize();
