@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-18
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -383,7 +383,7 @@ tone
 |
 Wind Rune Meda
 |
-Light Woolen Mask (3 - Gorgalosk)
+Light Woolen Mask (3-Gorga)
 |
 Mask of SongMask of Song
 MAGIC ITEM LORE ITEM NO DROP
@@ -401,16 +401,15 @@ voice
 |
 Wind Rune Kala
 |
-Light Woolen Mantle (4 - Keeper of Souls)
+Light Woolen Mantle (4-KoS)
 |
 Mantle of the SongweaverMantle of the Songweaver
 MAGIC ITEM LORE ITEM NO DROP
 Slot: SHOULDERS
-Charges: 5
 AC: 9
 STR: +7 DEX: +7 CHA: +5 AGI: +5
 SV MAGIC: +5
-Effect: Fury (Must Equip, Casting Time: Instant) at Level 45
+Effect: Fury (Must Equip, Casting Time: Instant, Cooldown: 120s) at Level 45
 WT: 2.5 Size: SMALL
 Class: BRD
 Race: ALL
@@ -421,7 +420,7 @@ pitch
 |
 Wind Rune Azia
 |
-Crude Wooden Flute (5 - The Spiroc Lord)
+Crude Wooden Flute (5-SL)
 |
 Ervaj's Flute of FlightErvaj's Flute of Flight
 MAGIC ITEM LORE ITEM NO DROP
@@ -438,7 +437,7 @@ wind
 |
 Wind Rune Caza
 |
-Amulet of Woven Hair (6 - Bazzt_Zzzt)
+Amulet of Woven Hair (6-BZ)
 |
 Fae AmuletFae Amulet
 MAGIC ITEM LORE ITEM NO DROP
@@ -458,7 +457,7 @@ brass
 |
 Wind Rune Fana
 |
-Glowing Diamond (7 - Sister of the Spire)
+Glowing Diamond (7-SotS)
 Efreeti War Horn
 |
 Denon's Horn of DisasterDenon's Horn of Disaster
@@ -476,7 +475,7 @@ harmony
 |
 Wind Rune Heda
 |
-Nebulous Diamond (8 - Eye of Veeshan)
+Nebulous Diamond (8-EoV)
 Efreeti War Spear
 |
 Spear of HarmonySpear of Harmony
@@ -504,7 +503,7 @@ aviak
 |
 Wind Rune Beza
 |
-Spiroc Elder's Totem (5 - The Spiroc Lord)
+Spiroc Elder's Totem (5-SL)
 |
 Spiroc Beak EarcuffSpiroc Beak Earcuff
 Lore Equipped, No Trade
@@ -526,7 +525,7 @@ azarack
 |
 Wind Rune Heda
 |
-Azarack Skin (2 - Protector of Sky)
+Azarack Skin (2-PoS)
 |
 Azarack Skin WristwrapsAzarack Skin Wristwraps
 No Trade
@@ -544,8 +543,8 @@ claw
 |
 Wind Rune Izah
 |
-Sphinx Claw (7 - Sister of the Spire)
-Mithril Bands (8 - Eye of Veeshan)
+Sphinx Claw (7-SotS)
+Mithril Bands (8-EoV)
 Brass Knuckles
 |
 WindhowlWindhowl
@@ -576,7 +575,7 @@ harpy
 |
 Wind Rune Kala
 |
-Leather Cord (3 - Gorgalosk)
+Leather Cord (3-Gorga)
 |
 Griffin-Hide ArmguardsGriffin-Hide Armguards
 LORE ITEM NO TRADE
@@ -595,7 +594,7 @@ wind
 |
 Wind Rune Geza
 |
-Silken Wrap (6 - Bazzt_Zzzt)
+Silken Wrap (6-BZ)
 |
 Diaphonous WaistbandDiaphonous Waistband
 Lore Equipped, No Trade
@@ -621,7 +620,7 @@ sharpness
 |
 Wind Rune Jaka
 |
-Djinni War Blade (7 - Sister of the Spire)
+Djinni War Blade (7-SotS)
 Efreeti Standard
 |
 SkycleaverSkycleaver
@@ -642,7 +641,7 @@ will
 |
 Wind Rune Ena
 |
-Pulsating Ruby (6 - Bazzt_Zzzt)
+Pulsating Ruby (6-BZ)
 |
 Molten CoilMolten Coil
 Lore Equipped, No Trade
@@ -661,7 +660,7 @@ ferocity
 |
 Wind Rune Ozah
 |
-High Quality Raiment (5 - The Spiroc Lord)
+High Quality Raiment (5-SL)
 |
 Sash of FerocitySash of Ferocity
 Lore Equipped, No Trade
@@ -680,7 +679,7 @@ burden
 |
 Wind Rune Azia
 |
-Feathered Cape (3 - Gorgalosk)
+Feathered Cape (3-Gorga)
 |
 Shroud of the SkyShroud of the Sky
 Lore Equipped, No Trade
@@ -702,7 +701,7 @@ blood
 |
 Wind Rune Lena
 |
-Azarack Blood (2 - Protector of Sky)
+Azarack Blood (2-PoS)
 |
 Blood-Drawn RunesBlood-Drawn Runes
 No Trade, Quest
@@ -720,17 +719,17 @@ fools errand
 |
 Wind Rune Dena
 |
-Jester's Mask (4 - Keeper of Souls)
+Jester's Mask (4-KoS)
 Efreeti Great Staff
 |
 Cudgel of the FoolCudgel of the Fool
 LORE ITEM NO TRADE
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 52
-DMG: 45 Dmg Bonus: 40
-INT: -7
+DMG: 45
+INT: -10 END: +100
 Effect: Fury of the Chosen (Combat)
-WT: 5.7 Size: GIANT
+WT: 8.0 Size: GIANT
 Class: BER
 Race: ALL
 |
@@ -748,7 +747,7 @@ courage
 |
 Wind Rune Lena
 |
-Silver Hoop (3 - Gorgalosk)
+Silver Hoop (3-Gorga)
 |
 Truewind EarringTruewind Earring
 MAGIC ITEM LORE ITEM NO DROP
@@ -765,7 +764,7 @@ skill
 |
 Wind Rune Meda
 |
-Small Shield (4 - Keeper of Souls)
+Small Shield (4-KoS)
 |
 Aegis of the WindAegis of the Wind
 MAGIC ITEM LORE ITEM NO DROP
@@ -783,7 +782,7 @@ protection
 |
 Wind Rune Caza
 |
-Shiny Pauldrons (5 - The Spiroc Lord)
+Shiny Pauldrons (5-SL)
 |
 Pauldrons of PietyPauldrons of Piety
 MAGIC ITEM LORE ITEM NO DROP
@@ -800,7 +799,7 @@ resolution
 |
 Wind Rune Neza
 |
-Silvered Spiroc Necklace (6 - Bazzt_Zzzt)
+Silvered Spiroc Necklace (6-BZ)
 |
 Necklace of ResolutionNecklace of Resolution
 MAGIC ITEM LORE ITEM NO DROP
@@ -819,7 +818,7 @@ theurgy
 |
 Wind Rune Kala
 |
-Djinni Aura (7 - Sister of the Spire)
+Djinni Aura (7-SotS)
 Efreeti Mace
 |
 Theurgist's StarTheurgist's Star
@@ -840,7 +839,7 @@ weak
 |
 Wind Rune Ena
 |
-Mithril Bands (8 - Eye of Veeshan)
+Mithril Bands (8-EoV)
 Efreeti Standard
 |
 Baton of the SkyBaton of the Sky
@@ -873,7 +872,7 @@ wolf
 |
 Wind Rune Meda
 |
-Worn Leather Mask (3 - Gorgalosk)
+Worn Leather Mask (3-Gorga)
 |
 Drake-Hide MaskDrake-Hide Mask
 MAGIC ITEM LORE ITEM NO DROP
@@ -891,7 +890,7 @@ bear
 |
 Wind Rune Kala
 |
-Mantle of Woven Grass (4 - Keeper of Souls)
+Mantle of Woven Grass (4-KoS)
 |
 Nature Walker's MantleNature Walker's Mantle
 MAGIC ITEM LORE ITEM NO DROP
@@ -908,7 +907,7 @@ tree
 |
 Wind Rune Azia
 |
-Spiroc Battle Staff (5 - The Spiroc Lord)
+Spiroc Battle Staff (5-SL)
 Efreeti Statuette
 |
 ShillelaghShillelagh
@@ -928,7 +927,7 @@ bee
 |
 Wind Rune Dena
 |
-Divine Honeycomb (6 - Bazzt_Zzzt)
+Divine Honeycomb (6-BZ)
 |
 Honeycomb BeltHoneycomb Belt
 MAGIC ITEM LORE ITEM NO DROP
@@ -946,8 +945,8 @@ eagle
 |
 Wind Rune Ena
 |
-Ethereal Ruby (7 - Sister of the Spire)
-Spiroc Elder's Totem (5 - The Spiroc Lord)
+Ethereal Ruby (7-SotS)
+Spiroc Elder's Totem (5-SL)
 |
 Spiroc Banisher FocusSpiroc Banisher Focus
 MAGIC ITEM LORE ITEM NO DROP
@@ -963,7 +962,7 @@ nature
 |
 Wind Rune Izah
 |
-Storm Sky Opal (8 - Eye of Veeshan)
+Storm Sky Opal (8-EoV)
 Efreeti Scimitar
 |
 EspriEspri
@@ -991,7 +990,7 @@ illusion
 |
 Wind Rune Meda
 |
-Finely Woven Cloth Cord (3 - Gorgalosk)
+Finely Woven Cloth Cord (3-Gorga)
 |
 Sphinx Hair CordSphinx Hair Cord
 MAGIC ITEM LORE ITEM NO DROP
@@ -1009,7 +1008,7 @@ metamorphism
 |
 Wind Rune Ozah
 |
-Light Cloth Mantle (4 - Keeper of Souls)
+Light Cloth Mantle (4-KoS)
 |
 Wind Walker's MantleWind Walker's Mantle
 MAGIC ITEM LORE ITEM NO DROP
@@ -1026,7 +1025,7 @@ deception
 |
 Wind Rune Beza
 |
-Silken Mask (5 - The Spiroc Lord)
+Silken Mask (5-SL)
 |
 Ivory MaskIvory Mask
 MAGIC ITEM LORE ITEM NO DROP
@@ -1043,7 +1042,7 @@ disillusion
 |
 Wind Rune Caza
 |
-Adamantium Earring (6 - Bazzt_Zzzt)
+Adamantium Earring (6-BZ)
 |
 Earring of DisplacementEarring of Displacement
 MAGIC ITEM LORE ITEM NO DROP
@@ -1062,7 +1061,7 @@ memorization
 |
 Wind Rune Fana
 |
-Glowing Necklace (7 - Sister of the Spire)
+Glowing Necklace (7-SotS)
 |
 Necklace of Whispering WindsNecklace of Whispering Winds
 MAGIC ITEM LORE ITEM NO DROP
@@ -1081,7 +1080,7 @@ incapacitation
 |
 Wind Rune Izah
 |
-Large Sky Sapphire (8 - Eye of Veeshan)
+Large Sky Sapphire (8-EoV)
 Efreeti Wind Staff
 |
 Rod of the Protecting WindsRod of the Protecting Winds
@@ -1111,7 +1110,7 @@ clarification
 |
 Wind Rune Lena
 |
-Feathered Cape (3 - Gorgalosk)
+Feathered Cape (3-Gorga)
 |
 Bracelet of ClarificationBracelet of Clarification
 LORE ITEM NO DROP
@@ -1128,7 +1127,7 @@ empowerment
 |
 Wind Rune Neza
 |
-Ceramic Mask (4 - Keeper of Souls)
+Ceramic Mask (4-KoS)
 |
 Mask of EmpowermentMask of Empowerment
 MAGIC ITEM LORE ITEM NO DROP
@@ -1147,7 +1146,7 @@ shielding
 |
 Wind Rune Azia
 |
-Golden Coffer (5 - The Spiroc Lord)
+Golden Coffer (5-SL)
 |
 Gold White PendantGold White Pendant
 MAGIC ITEM LORE ITEM NO DROP
@@ -1164,7 +1163,7 @@ summoning
 |
 Wind Rune Dena
 |
-Large Diamond (6 - Bazzt_Zzzt)
+Large Diamond (6-BZ)
 |
 Drake-Hide AmiceDrake-Hide Amice
 MAGIC ITEM LORE ITEM NO DROP
@@ -1183,7 +1182,7 @@ interpretation
 |
 Wind Rune Ena
 |
-Golden Efreeti Ring (7 - Sister of the Spire)
+Golden Efreeti Ring (7-SotS)
 |
 Duennan Shielding RingDuennan Shielding Ring
 MAGIC ITEM LORE ITEM NO DROP
@@ -1202,7 +1201,7 @@ gesticulation
 |
 Wind Rune Jaka
 |
-Hazy Opal (8 - Eye of Veeshan)
+Hazy Opal (8-EoV)
 Efreeti Magi Staff
 |
 Staff of The MagisterStaff of The Magister
@@ -1223,8 +1222,8 @@ displacement
 Wind Rune Heda
 |
 Crown of Elemental Mastery (7-Trash)
-Large Opal (8 - Eye of Veeshan)
-Djinni Stave (7 - Sister of the Spire)
+Large Opal (8-EoV)
+Djinni Stave (7-SotS)
 |
 Staff of Elemental Mastery: AirStaff of Elemental Mastery: Air
 MAGIC ITEM LORE ITEM NO DROP
@@ -1251,7 +1250,7 @@ strength
 |
 Wind Rune Caza
 |
-Silken Strands (3 - Gorgalosk)
+Silken Strands (3-Gorga)
 |
 Back Straps of MasteryBack Straps of Mastery
 MAGIC ITEM LORE ITEM NO DROP
@@ -1268,7 +1267,7 @@ sight
 |
 Wind Rune Geza
 |
-Cracked Leather Eyepatch (4 - Keeper of Souls)
+Cracked Leather Eyepatch (4-KoS)
 |
 Ton Po's Eye PatchTon Po's Eye Patch
 MAGIC ITEM LORE ITEM NO DROP
@@ -1286,7 +1285,7 @@ speed
 |
 Wind Rune Jaka
 |
-Dove Slippers (5 - The Spiroc Lord)
+Dove Slippers (5-SL)
 |
 Sandals of AlacritySandals of Alacrity
 MAGIC ITEM LORE ITEM NO DROP
@@ -1305,7 +1304,7 @@ tears
 |
 Wind Rune Beza
 |
-Silken Wrap (6 - Bazzt_Zzzt)
+Silken Wrap (6-BZ)
 |
 Ton Po's Shoulder WrapsTon Po's Shoulder Wraps
 MAGIC ITEM LORE ITEM NO DROP
@@ -1323,7 +1322,7 @@ fists
 |
 Wind Rune Neza
 |
-Nebulous Sapphire (7 - Sister of the Spire)
+Nebulous Sapphire (7-SotS)
 Brass Knuckles
 |
 Wu's Fist of MasteryWu's Fist of Mastery
@@ -1341,7 +1340,7 @@ tranquility
 |
 Wind Rune Lena
 |
-Tear of Quellious (8 - Eye of Veeshan)
+Tear of Quellious (8-EoV)
 |
 Golden Sash of TranquilityGolden Sash of Tranquility
 MAGIC ITEM LORE ITEM NO DROP
@@ -1367,7 +1366,7 @@ flight
 |
 Wind Rune Lena
 |
-Griffon's Beak (3 - Gorgalosk)
+Griffon's Beak (3-Gorga)
 |
 Bloody Griffon-Hide Wrist GuardBloody Griffon-Hide Wrist Guard
 MAGIC ITEM LORE ITEM
@@ -1386,7 +1385,7 @@ power
 |
 Wind Rune Neza
 |
-Black Silk Cape (4 - Keeper of Souls)
+Black Silk Cape (4-KoS)
 |
 Cloak of Spiroc FeathersCloak of Spiroc Feathers
 LORE ITEM NO DROP
@@ -1403,7 +1402,7 @@ mind
 |
 Wind Rune Ozah
 |
-Fine Cloth Raiment (5 - The Spiroc Lord)
+Fine Cloth Raiment (5-SL)
 |
 Bloodsoaked RaimentBloodsoaked Raiment
 MAGIC ITEM LORE ITEM NO DROP
@@ -1420,7 +1419,7 @@ heart
 |
 Wind Rune Azia
 |
-Pulsating Ruby (6 - Bazzt_Zzzt)
+Pulsating Ruby (6-BZ)
 |
 Sphinx Heart AmuletSphinx Heart Amulet
 MAGIC ITEM LORE ITEM
@@ -1439,7 +1438,7 @@ finger
 |
 Wind Rune Caza
 |
-Ring of Veeshan (7 - Sister of the Spire)
+Ring of Veeshan (7-SotS)
 |
 Band of Wailing WindsBand of Wailing Winds
 MAGIC ITEM LORE ITEM NO DROP
@@ -1458,7 +1457,7 @@ hands
 |
 Wind Rune Fana
 |
-Gorgon Head (3 - Gorgalosk)
+Gorgon Head (3-Gorga)
 Efreeti Great Staff
 |
 Gorgon Head StaffGorgon Head Staff
@@ -1487,7 +1486,7 @@ spirit
 |
 Wind Rune Lena
 |
-Ivory Sky Diamond (5 - The Spiroc Lord)
+Ivory Sky Diamond (5-SL)
 |
 Girdle of FaithGirdle of Faith
 MAGIC ITEM LORE ITEM NO DROP
@@ -1505,7 +1504,7 @@ sacrifice
 |
 Wind Rune Ozah
 |
-Bixie Sword Blade (6 - Bazzt_Zzzt)
+Bixie Sword Blade (6-BZ)
 |
 Aldryn, Blade of the OceanAldryn, Blade of the Ocean
 MAGIC ITEM LORE ITEM NO DROP
@@ -1524,7 +1523,7 @@ love
 Wind Rune Geza
 |
 Golden Hilt (7)
-Sphinx Claw (7 - Sister of the Spire)
+Sphinx Claw (7-SotS)
 |
 Thelvorn, Blade of LightThelvorn, Blade of Light
 MAGIC ITEM LORE ITEM NO DROP
@@ -1543,7 +1542,7 @@ compassion
 |
 Wind Rune Izah
 |
-Large Sky Diamond (8 - Eye of Veeshan)
+Large Sky Diamond (8-EoV)
 Efreeti Zweihander
 |
 TruvinanTruvinan
@@ -1570,7 +1569,7 @@ body
 |
 Wind Rune Meda
 |
-Griffon Talon (3 - Gorgalosk)
+Griffon Talon (3-Gorga)
 |
 Griffon Talon NecklaceGriffon Talon Necklace
 MAGIC ITEM LORE ITEM NO DROP
@@ -1588,7 +1587,7 @@ defense
 |
 Wind Rune Neza
 |
-Fine Velvet Cloak (4 - Keeper of Souls)
+Fine Velvet Cloak (4-KoS)
 |
 Dark Cloak of the SkyDark Cloak of the Sky
 MAGIC ITEM LORE ITEM NO DROP
@@ -1606,7 +1605,7 @@ elemental earth
 |
 Wind Rune Kala
 |
-Spiroc Earth Totem (5 - The Spiroc Lord)
+Spiroc Earth Totem (5-SL)
 |
 Earthshaker's MantleEarthshaker's Mantle
 MAGIC ITEM LORE ITEM NO DROP
@@ -1626,7 +1625,7 @@ elemental thunder
 |
 Wind Rune Azia
 |
-White Gold Earring (6 - Bazzt_Zzzt)
+White Gold Earring (6-BZ)
 |
 Thunderforged EarringThunderforged Earring
 MAGIC ITEM LORE ITEM NO DROP
@@ -1644,7 +1643,7 @@ blade
 |
 Wind Rune Ena
 |
-Circlet of Brambles (7 - Sister of the Spire)
+Circlet of Brambles (7-SotS)
 Efreeti Long Sword
 |
 ArydryidriyornArydryidriyorn
@@ -1664,7 +1663,7 @@ ranged attack
 |
 Wind Rune Heda
 |
-Shimmering Pearl (8 - Eye of Veeshan)
+Shimmering Pearl (8-EoV)
 Efreeti War Bow
 |
 WindstrikerWindstriker
@@ -1692,7 +1691,7 @@ thievery
 |
 Wind Rune Ozah
 |
-Inlaid Choker (3 - Gorgalosk)
+Inlaid Choker (3-Gorga)
 |
 Wispy Choker of VigorWispy Choker of Vigor
 MAGIC ITEM LORE ITEM NO DROP
@@ -1709,7 +1708,7 @@ trickery
 |
 Wind Rune Izah
 |
-Sphinxian Circlet (7 - Sister of the Spire)
+Sphinxian Circlet (7-SotS)
 |
 Renard's Belt of QuicknessRenard's Belt of Quickness
 MAGIC ITEM LORE ITEM NO DROP
@@ -1727,7 +1726,7 @@ silence
 |
 Wind Rune Ena
 |
-Spiroc Sky Totem (5 - The Spiroc Lord)
+Spiroc Sky Totem (5-SL)
 |
 Griffon Wing SpauldorsGriffon Wing Spauldors
 MAGIC ITEM LORE ITEM NO DROP
@@ -1746,7 +1745,7 @@ cunning
 |
 Wind Rune Dena
 |
-Jester's Mask (4 - Keeper of Souls)
+Jester's Mask (4-KoS)
 |
 Crystal MaskCrystal Mask
 MAGIC ITEM LORE ITEM NO DROP
@@ -1765,7 +1764,7 @@ stealth
 |
 Wind Rune Geza
 |
-Fine Wool Cloak (6 - Bazzt_Zzzt)
+Fine Wool Cloak (6-BZ)
 |
 Shimmering Bracer of ProtectionShimmering Bracer of Protection
 MAGIC ITEM LORE ITEM NO DROP
@@ -1784,8 +1783,8 @@ deception
 |
 Wind Rune Jaka
 |
-Bixie Stinger (6 - Bazzt_Zzzt)
-Bloodsky Sapphire (8 - Eye of Veeshan)
+Bixie Stinger (6-BZ)
+Bloodsky Sapphire (8-EoV)
 |
 ThornstingerThornstinger
 MAGIC ITEM LORE ITEM NO DROP
@@ -1812,7 +1811,7 @@ bash
 |
 Wind Rune Ozah
 |
-Finely Crafted Amulet (3 - Gorgalosk)
+Finely Crafted Amulet (3-Gorga)
 |
 Amulet of the Sphinx EyeAmulet of the Sphinx Eye
 MAGIC ITEM LORE ITEM NO DROP
@@ -1830,7 +1829,7 @@ smash
 |
 Wind Rune Beza
 |
-Silvery Ring (4 - Keeper of Souls)
+Silvery Ring (4-KoS)
 |
 Crimson Ring of the DjinniCrimson Ring of the Djinni
 MAGIC ITEM LORE ITEM NO DROP
@@ -1848,7 +1847,7 @@ slash
 |
 Wind Rune Dena
 |
-Finely Woven Cloth Belt (5 - The Spiroc Lord)
+Finely Woven Cloth Belt (5-SL)
 |
 Pegasus-Hide BeltPegasus-Hide Belt
 MAGIC ITEM LORE ITEM NO DROP
@@ -1866,7 +1865,7 @@ disempowerment
 |
 Wind Rune Fana
 |
-Rusted Pauldrons (6 - Bazzt_Zzzt)
+Rusted Pauldrons (6-BZ)
 |
 Blood Sky Face PlateBlood Sky Face Plate
 MAGIC ITEM LORE ITEM NO DROP
@@ -1902,8 +1901,8 @@ raising of the dead
 |
 Wind Rune Izah
 |
-Sphinxian Ring (7 - Sister of the Spire)
-Fae Pauldrons (8 - Eye of Veeshan)
+Sphinxian Ring (7-SotS)
+Fae Pauldrons (8-EoV)
 |
 Pearlescent PauldronsPearlescent Pauldrons
 MAGIC ITEM LORE ITEM NO DROP
@@ -1920,7 +1919,7 @@ necropotence
 |
 Wind Rune Kala
 |
-Blood Sky Ruby (8 - Eye of Veeshan)
+Blood Sky Ruby (8-EoV)
 Efreeti War Axe
 |
 Khyldorn the Blood DrinkerKhyldorn the Blood Drinker
@@ -1948,7 +1947,7 @@ might
 |
 Wind Rune Meda
 |
-Leather Cord (3 - Gorgalosk)
+Leather Cord (3-Gorga)
 |
 Amulet of the FangAmulet of the Fang
 MAGIC ITEM LORE ITEM NO DROP
@@ -1966,7 +1965,7 @@ health
 |
 Wind Rune Kala
 |
-Ceremonial Belt (5 - The Spiroc Lord)
+Ceremonial Belt (5-SL)
 |
 Bracelet of the SpiritsBracelet of the Spirits
 MAGIC ITEM LORE ITEM NO DROP
@@ -1985,7 +1984,7 @@ sight
 |
 Wind Rune Beza
 |
-Light Damask Mantle (5 - The Spiroc Lord)
+Light Damask Mantle (5-SL)
 |
 Fairy-Hide MantleFairy-Hide Mantle
 MAGIC ITEM LORE ITEM NO DROP
@@ -2005,7 +2004,7 @@ shrink
 |
 Wind Rune Ena
 |
-Corrosive Venom (6 - Bazzt_Zzzt)
+Corrosive Venom (6-BZ)
 Efreeti War Club
 |
 Warhammer of the WindWarhammer of the Wind
@@ -2025,7 +2024,7 @@ snake
 Wind Rune Heda
 |
 Bixie Essence (6)
-Spiritualist`s Ring (7 - Sister of the Spire)
+Spiritualist`s Ring (7-SotS)
 |
 Vermilion Sky RingVermilion Sky Ring
 MAGIC ITEM LORE ITEM NO DROP
@@ -2044,7 +2043,7 @@ witch doctor
 |
 Wind Rune Geza
 |
-Symbol of Veeshan (8 - Eye of Veeshan)
+Symbol of Veeshan (8-EoV)
 Efreeti War Maul
 |
 GardukGarduk
@@ -2072,7 +2071,7 @@ skill
 |
 Wind Rune Neza
 |
-Azure Ring (3 - Gorgalosk)
+Azure Ring (3-Gorga)
 |
 Azure Ruby RingAzure Ruby Ring
 MAGIC ITEM LORE ITEM NO DROP
@@ -2089,7 +2088,7 @@ strength
 |
 Wind Rune Azia
 |
-Stone Amulet (4 - Keeper of Souls)
+Stone Amulet (4-KoS)
 |
 Runed Wind AmuletRuned Wind Amulet
 MAGIC ITEM LORE ITEM NO DROP
@@ -2106,7 +2105,7 @@ force
 |
 Wind Rune Beza
 |
-Spiroc Air Totem (5 - The Spiroc Lord)
+Spiroc Air Totem (5-SL)
 |
 Pauldrons of the Blue SkyPauldrons of the Blue Sky
 MAGIC ITEM LORE ITEM NO DROP
@@ -2125,7 +2124,7 @@ think
 |
 Wind Rune Fana
 |
-Wind Tablet (6 - Bazzt_Zzzt)
+Wind Tablet (6-BZ)
 Efreeti Belt
 |
 Belt of the Four WindsBelt of the Four Winds
@@ -2145,7 +2144,7 @@ smash
 |
 Wind Rune Jaka
 |
-Djinni War Blade (7 - Sister of the Spire)
+Djinni War Blade (7-SotS)
 Gem of Invigoration (7-Trash)
 |
 DagasDagas
@@ -2164,7 +2163,7 @@ bash
 |
 Wind Rune Dena
 |
-Ethereal Emerald (8 - Eye of Veeshan)
+Ethereal Emerald (8-EoV)
 Efreeti Battle Axe
 |
 FangolFangol
@@ -2193,7 +2192,7 @@ concentration
 |
 Wind Rune Dena
 |
-Grey Damask Cloak (3 - Gorgalosk)
+Grey Damask Cloak (3-Gorga)
 |
 Augmentor's MaskAugmentor's Mask
 MAGIC ITEM LORE ITEM NO DROP
@@ -2210,7 +2209,7 @@ focus
 |
 Wind Rune Fana
 |
-Woven Skull Cap (4 - Keeper of Souls)
+Woven Skull Cap (4-KoS)
 |
 Al`Kabor's Cap of BindingAl`Kabor's Cap of Binding
 MAGIC ITEM LORE ITEM NO DROP
@@ -2230,7 +2229,7 @@ meditation
 |
 Wind Rune Geza
 |
-High Quality Raiment (5 - The Spiroc Lord)
+High Quality Raiment (5-SL)
 |
 Raiment of ThunderRaiment of Thunder
 MAGIC ITEM LORE ITEM NO DROP
@@ -2250,7 +2249,7 @@ conception
 |
 Wind Rune Izah
 |
-Box of Winds (6 - Bazzt_Zzzt)
+Box of Winds (6-BZ)
 Efreeti Statuette
 |
 Solidate Mithril RingSolidate Mithril Ring
@@ -2270,7 +2269,7 @@ visualization
 |
 Wind Rune Jaka
 |
-Amethyst Amulet (7 - Sister of the Spire)
+Amethyst Amulet (7-SotS)
 |
 Amulet of the VoidAmulet of the Void
 MAGIC ITEM LORE ITEM NO DROP
@@ -2289,7 +2288,7 @@ preparation
 |
 Wind Rune Caza
 |
-Large Sky Lapis (8 - Eye of Veeshan)
+Large Sky Lapis (8-EoV)
 Efreeti War Staff
 |
 Nargon's StaffNargon's Staff
@@ -5552,12 +5551,12 @@ Slot: PRIMARY
 Skill: 1H Slashing Atk Delay: 20
 DMG: 12
 WT: 2.0 Size: MEDIUM
-Class: PAL
+Class: PAL BST
 Race: ALL
 |
 Sister of the Spire |
 1H Slashing |
-Atk Delay: 20 DMG: 12 WT: 2.0 Size: MEDIUM Class: PAL Race: ALL |
+Atk Delay: 20 DMG: 12 WT: 2.0 Size: MEDIUM Class: PAL BST Race: ALL |
 Sphinx CrownSphinx Crown
 LORE ITEM
 Slot: HEAD
@@ -6089,13 +6088,13 @@ Race: ALL
 Protector of Sky |
 (None) |
 LORE ITEM WT: 6.0 Size: MEDIUM Class: ALL Race: ALL |
-Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Sky&oldid=169701"
+Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Sky&oldid=170331"
 Categories: Sky Era
 Classic Era
 Zones
 How to Contribute
 Donate
-This page was last edited on 15 August 2026, at 05:09.
+This page was last edited on 17 August 2026, at 09:39.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

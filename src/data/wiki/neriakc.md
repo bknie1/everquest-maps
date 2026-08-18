@@ -1,5 +1,5 @@
 # Neriak_Third_Gate (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-18
 
 Neriak - EverQuest Legends Wiki
 Jump to content
@@ -2840,7 +2840,7 @@ Rogue |
 (678, -1303) |
 None |
 Description needed. |
-Items - Found 7 items that drop in Neriak Third Gate:
+Items - Found 8 items that drop in Neriak Third Gate:
 Item Name | Drops From | Slot | Stats |
 Dark Elf Decapitated HeadDark Elf Decapitated Head
 LORE ITEM
@@ -2916,6 +2916,20 @@ Race: ALL
 Ratraz |
 1H Blunt |
 Atk Delay: 32 DMG: 6 WT: 5.0 Size: MEDIUM Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM Race: ALL |
+Zraxthril Forged FlambergeZraxthril Forged Flamberge
+LORE ITEM
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing
+Atk Delay: 35
+DMG: 9
+STR: +2 WIS: +1 HP: +5 Mana: +5 End: +5
+WT: 6.0 Size: LARGE
+Class: WAR PAL RNG SHD DRU BRD ROG
+Race: ALL
+|
+None? |
+1H Slashing |
+Atk Delay: 35 DMG: 9 STR: +2 WIS: +1 HP: +5 Mana: +5 End: +5 WT: 6.0 Size: LARGE Class: WAR PAL RNG SHD DRU BRD ROG Race: ALL |
 External links
 EQ Map Preserve: Neriak
 Retrieved from "https://eqlwiki.com/index.php?title=Neriak&oldid=131397"

@@ -1,5 +1,5 @@
 # Eastern_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-18
 
 Eastern Plains of Karana - EverQuest Legends Wiki
 Jump to content
@@ -1365,14 +1365,14 @@ None? |
 Wrist |
 AC: 2 WIS: +3 INT: +3 WT: 0.4 Size: TINY Class: ALL Race: ALL |
 Rain of KaranaRain of Karana
-MAGIC ITEM LORE ITEM NO DROP
+MAGIC ITEM NO TRADE
 WT: 0.0 Size: TINY
 Class: NONE
 Race: NONE
 |
 Tarbul Earthstrider |
 (None) |
-MAGIC ITEM LORE ITEM NO DROP WT: 0.0 Size: TINY Class: NONE Race: NONE |
+MAGIC ITEM NO TRADE WT: 0.0 Size: TINY Class: NONE Race: NONE |
 Sir Gregon's HeadSir Gregon's Head
 LORE ITEM NO DROP
 WT: 1.0 Size: MEDIUM

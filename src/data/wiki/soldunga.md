@@ -1,5 +1,5 @@
 # Solusek's_Eye (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-18
 
 Solusek's Eye - EverQuest Legends Wiki
 Jump to content
@@ -1371,13 +1371,13 @@ Singe
 Drake |
 Warrior |
 28 |
-Will always path to #6 on map, eventually, actual spawn location is pretty random.
-@ (-530, -785) #6 on the map -7/31/26
-@ (-616, -665) the room south and a little west of room 6 on the map, with a single clockwork in it - 7/31/26
+Will always path to #6 on map, eventually, actual spawn location is pretty random.Sightings, ordered by /loc (not travel path - it can fly any direction):
 @ (-182, -743) south of efreeti pits - 7/31/26
-@ (-362, -604) kobold pred hallway, south doorway -7/31/26
 @ (-379, -733) east of kobold pred hallway - 7/31/26
+@ (-362, -604) kobold pred hallway, south doorway -7/31/26
 @ (-567, -704) between #6 on map and room to the southwest - 7/31/26
+@ (-616, -665) the room south and a little west of room 6 on the map, with a single clockwork in it - 7/31/26
+@ (-530, -785) #6 on the map -7/31/26
 @ (-542, -929) all the way past #6 by the miners next to the lava - 7/31/26 |
 Drakescale BeltDrakescale Belt
 Slot: WAIST

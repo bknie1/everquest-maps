@@ -1,5 +1,5 @@
 # Erud's_Crossing (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-18
 
 Erud's Crossing - EverQuest Legends Wiki
 Jump to content
@@ -137,7 +137,7 @@ Traveling To and From
 Erud's Crossing can only be reached via the ferry that runs from Qeynos (the long dock at the end of Mermaid's Lure) to Erudin. When coming from Qeynos, the ferry runs along the shore for quite some time before actually reaching the docks, so many impatient adventurers jump ship and swim for shore. This also helps you to avoid the Kerrans at the docks. When on the boat from Erudin to Qeynos, the boat passes far north of the island, but if you are an able swimmer you could jump ship and make it to the island. Catching the boat to Qeynos this way, however, is significantly more difficult. The zone line to Erudin is at -4347, 4829.
 For those trying to catch the boat from Erudin > Erud's Crossing > Qeynos it zones in to Erud's Crossing at 1819.11, 4802.90 (so a lot further north than shows on the map picture) and moves east along the map at the 1842.25 line on the X axis until it zones to Qeynos at 1842.25, -2747.89.
 What's in this zone?
-NPCs - Found 28 NPCs that spawn in Erud's Crossing:
+NPCs - Found 29 NPCs that spawn in Erud's Crossing:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Kerra Snake
 |
@@ -582,6 +582,14 @@ Wizard |
 50% @ (-1175, 1239) |
 None |
 Sits on the wall of the crater at the center of the island. Dispells, casts root, nukes. |
+Yun Assistant Maldock
+|
+Froglock |
+Shaman |
+20 |
+-1301, 2132 |
+None |
+Guarded by four zombie guardians. On hailing, says "Were you sent by Kintok? What's that you say? You don't know who Ki... |
 Items - Found 18 items that drop in Erud's Crossing:
 Item Name | Drops From | Slot | Stats |
 Algae Covered FleshAlgae Covered Flesh

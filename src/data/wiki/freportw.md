@@ -1,5 +1,5 @@
 # West_Freeport (eqlwiki.com)
-fetched: 2026-08-16
+fetched: 2026-08-18
 
 Freeport - EverQuest Legends Wiki
 Jump to content
@@ -2976,7 +2976,7 @@ Nestral TGaza
 |
 Dark Elf |
 GM Rogue |
-61 |
+70 |
 (-194, -836) |
 None |
 She is a Rogue GM part of the evil underground Freeport Tunnels closest to the ... |

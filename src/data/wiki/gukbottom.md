@@ -1,5 +1,5 @@
 # Lower_Guk (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-18
 
 Lower Guk - EverQuest Legends Wiki
 Jump to content
@@ -1784,7 +1784,7 @@ DEX: +3 AGI: +9
 WT: 0.8 Size: SMALL
 Class: ALL
 Race: ALLFocus Effect: Burning Affliction II
-, Adamantite BandAdamantite Band
+(Common), Adamantite BandAdamantite Band
 MAGIC ITEM
 Slot: FINGER
 HP: +75
@@ -1792,7 +1792,7 @@ SV MAGIC: -10
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALLFocus Effect: Summoning Haste I
-|
+(Rare) |
 A ghastly hand that spawns in with an undead froglok at the top of a water shaft in Lower Guk.
 Note: pets don't play ... |
 A tal ghoul wizard

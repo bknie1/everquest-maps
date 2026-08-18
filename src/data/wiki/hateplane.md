@@ -1,5 +1,5 @@
 # Plane_of_Hate (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-18
 
 Plane of Hate - EverQuest Legends Wiki
 Jump to content
@@ -1654,14 +1654,14 @@ Engineer's RingEngineer's Ring
 MAGIC ITEM LORE ITEM NO DROP
 Slot: FINGER
 AC: 20
-STR: +5 DEX: +5 STA: +5 CHA: +5 WIS: +5 INT: +5 AGI: +5 HP: +5 MANA: +20
+STR: +5 DEX: +5 STA: +5 CHA: +5 WIS: +5 INT: +5 AGI: +5 HP: +5 MANA: +20 END: +20
 WT: 0.1 Size: TINY
 Class: WAR CLR PAL SHD ROG NEC WIZ MAG ENC
 Race: ALL
 |
 Innoruuk |
 Fingers |
-AC: 20 STR: +5 DEX: +5 STA: +5 CHA: +5 WIS: +5 INT: +5 AGI: +5 HP: +5 MANA: +20 WT: 0.1 Size: TINY Class: WAR CLR PAL SHD ROG NEC WIZ MAG ENC Race: ALL |
+AC: 20 STR: +5 DEX: +5 STA: +5 CHA: +5 WIS: +5 INT: +5 AGI: +5 HP: +5 MANA: +20 END: +20 WT: 0.1 Size: TINY Class: WAR CLR PAL SHD ROG NEC WIZ MAG ENC Race: ALL |
 Essence of a VampireEssence of a Vampire
 MAGIC ITEM LORE ITEM NO DROP
 WT: 0.1 Size: TINY
