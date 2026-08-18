@@ -2,8 +2,14 @@
   <img src="src/design/banner/hero.png" alt="Emoda Legends Maps — an atlas of the Old World">
 </p>
 
+<h3 align="center">
+  🗺️ <a href="https://bknie1.github.io/everquest-maps/">bknie1.github.io/everquest-maps</a> — explore every map live in your browser
+</h3>
+
 <p align="center">
-  <a href="https://bknie1.github.io/everquest-maps/"><b>▶ Open the live map browser</b></a>
+  <a href="https://bknie1.github.io/everquest-maps/">Map browser</a>
+  &nbsp;·&nbsp;
+  <a href="https://bknie1.github.io/everquest-maps/timelapse.html">Time-lapse</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/bknie1/everquest-maps/releases">Download the maps</a>
 </p>
