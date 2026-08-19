@@ -1,5 +1,5 @@
 # Ocean_of_Tears (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-19
 
 Ocean of Tears - EverQuest Legends Wiki
 Jump to content
@@ -444,7 +444,11 @@ Lizard Man |
 Warrior |
 50 |
 75% @ (-3007, -698) |
-Various |
+Classic Raid Tier Treasures (Common?), Crystallized SulfurCrystallized Sulfur
+WT: 0.1 Size: TINY
+Class: ALL
+Race: ALL
+(Uncommon) |
 This monstrous lizard is famous for dropping high level gems. Placeholder is Aqua Goblin Sacrifice, respawn is exact... |
 An Aqua Goblin
 |

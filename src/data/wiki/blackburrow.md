@@ -1,5 +1,5 @@
 # Blackburrow (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-19
 
 Blackburrow - EverQuest Legends Wiki
 Jump to content
@@ -625,7 +625,7 @@ Splitpaw Commander
 Gnoll |
 Warrior |
 14 |
-Floor 2: @ (-97, -38)
+Floor 2: @ (-97, -38, -34)
 Floor 3: @ (251, 363) |
 Various |
 There are two Splitpaw Commanders found in Blackburrow. The first can be found overlooking the underground river (landma... |

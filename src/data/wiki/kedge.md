@@ -1,5 +1,5 @@
 # Kedge_Keep (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-19
 
 Kedge Keep - EverQuest Legends Wiki
 Jump to content
@@ -577,7 +577,10 @@ WT: 1.5 Size: MEDIUM
 Class: NEC
 Race: ALL
 |
-Hits like a truck for their level (up to 165, I believe). Placeholder is a cauldron hammerhead on a 22 minute respaw... |
+Hits like a truck for their level (up to 165, I believe). The Driftwood Treasure ChestDriftwood Treasure Chest
+WT: 10.0 Weight Reduction: 100%
+Capacity: 10 Size Capacity: GIANT
+drops about 1/10th of the ti... |
 A fierce impaler
 |
 Swordfish |
@@ -838,7 +841,9 @@ Cauldronboil
 Shark |
 Warrior |
 49 |
-50%? @ (86, 15) |
+X: -257
+Y: -132
+Z: -99 |
 Kedgemail GauntletsKedgemail Gauntlets
 MAGIC ITEM NO DROP
 Slot: HANDS
@@ -856,7 +861,9 @@ WT: 2.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
-Spawns at #13 on the map - Spawn time is 6 hours. Placeholder is a a cauldron hammerhead that paths closest to the e... |
+Spawns in the jail cells (very bottom of default map).
+To get to boss from spawn:
+Swim south into the big room with a h... |
 Cauldronbubble
 |
 Shark |
@@ -881,7 +888,10 @@ WT: 3.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC BER
 Race: ALL
 |
-A big fish with sharp teeth. |
+A big fish with sharp teeth.
+Respawn timer of ~14.5 min (Aug 18th, 2026 - D1 Zone)
+How to get to the boss:
+From the s... |
 Coralyn Kelpmaiden
 |
 Mermaid |

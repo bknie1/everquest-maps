@@ -1,5 +1,5 @@
 # The_Hole (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-19
 
 The Hole - EverQuest Legends Wiki
 Jump to content
@@ -942,7 +942,7 @@ Niltoth the Unholy
 Erudite Ghost |
 Necromancer |
 51 |
-Various |
+(840, 531, -663) |
 Withered Leather GlovesWithered Leather Gloves
 MAGIC ITEM LORE ITEM
 Slot: HANDS
@@ -1025,7 +1025,7 @@ Slizik the Mighty
 Ratman |
 Warrior |
 54 |
-(372, -88) |
+(372, -88. -213) |
 Imbued Granite SpauldersImbued Granite Spaulders
 LORE ITEM
 Slot: SHOULDERS

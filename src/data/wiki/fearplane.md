@@ -1,5 +1,5 @@
 # Plane_of_Fear (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-19
 
 Plane of Fear - EverQuest Legends Wiki
 Jump to content
@@ -70,12 +70,19 @@ Toggle Enemies and Loot subsection
 Armor drops, condensed table
 2.2
 Common Mobs
-2.3
-Raid Targets
 3
 Additional Maps
 4
 What's in this zone?
+5
+Raid Instance
+Toggle Raid Instance subsection
+5.1
+Raid Map
+5.2
+Solo vs. Multiplayer
+5.3
+Raid Targets
 Plane of Fear
 From EverQuest Legends Wiki
 Map of the Plane of FearThe god of fear himself, Cazic Thule, resides here in the Plane of Fear. Its rough terrain and bloodred sky are indicative of the horrors that await those who dare venture here. Deathtouching golems, shadowstepping scarelings, mass-dispelling tentacles terrors and evil eyes, blinding nightmares, and other vicious creatures are just a few of the denizens which serve Cazic Thule, and which look to destroy any mortals foolish enough trespass into their realm.
@@ -113,7 +120,6 @@ Getting In and Out
 To begin, do not enter this zone unless you are prepared to deal with high level mobs with extreme aggro ranges that see through invisibility. The entrance to the Plane of Fear is a one-way portal located in the spectre caves in The Feerrott, and if you die inside it will be almost impossible to recover your corpse alone. You must be at least level 46 to enter. Once you zone in, the only way out is either through gating/porting or through an exit portal deep inside the Temple. The latter is not recommended as there are see-invis mobs nearby which will aggro through the temple's ceiling and walls.
 The entrance portal is guarded by several see invis mobs which will gank you immediately upon stepping through, so going in alone is not recommended. No matter your class or the size of your party, a charged Leatherfoot Raider Skullcap is invaluable to have here.
 It is possible to bind within the zone but this is generally not recommended.
-For an in-depth guide on this zone, camp spots & places to bind, see A Cazicite's Guide to the Plane of Fear
 Enemies and Loot
 General foes in the Plane of Fear drop planar-level armor for Chest, Wrist, Hands, and Feet. They can be divided into 2 groups:
 Group 1 drops armor for Wisdom casters, Berserkers, Monks, and also all pieces of Lustrous Russet Armor. (Cleric, Druid, Shaman, Beastlord, Ranger, Paladin, Berserker, Monk)
@@ -433,49 +439,6 @@ Race: ALL
 (Enchanter Epic)
 |
 Non-raid mobs in fear are level 48(49?)-51. The level 51 ones will summon. Irak Altil is always 51 and Wraith of a Shissar is always 55. Unlike many other zones, there are no rare/named mobs with placeholders, but certain spawn points (notably on the western side of the zone) can have multiple potential spawns, such as a spinechiller spider in place of a scareling.
-Raid Targets
-Mob Name |
-Creature Type |
-Class |
-Abilities |
-Notes |
-Unique Drops
-|
-Fright |
-Golem |
-Warrior |
-Enrage |
-|
-Various
-|
-Dread |
-Golem |
-Warrior |
-Scarab Storm, Enrage |
-|
-Various
-|
-Terror |
-Golem |
-Warrior |
-Frost Breath, 56 point lifetap proc, Enrage |
-Frost Breath is a dispel and will likely break charm on pets |
-Various
-|
-a dracoliche |
-Dragon Skeleton (NOT undead) |
-Shadow Knight |
-Deadly Lifetap, Rotting Flesh, small hitbox |
-Utilize Evasive Discipline and damage absorption (e.g. Rune IV) to mitigate Deadly Lifetap. Can be difficult for melee to hit due to the small hitbox |
-Various
-|
-Cazic Thule (God) |
-Diety |
-Shadow Knight |
-Avatar Power, Panic (random target), Enrage |
-All mobs will zone-wide social aggro with Cazic when he is engaged. Avatar Power is a top slot dispel. See page for full encounter details. |
-Various
-|
 Additional Maps
 What's in this zone?
 Quests - Found 1 quests that start in Plane of Fear:
@@ -2390,13 +2353,398 @@ Race: ALL
 Dracoliche |
 Wrist |
 AC: 6 INT: +5 HP: +65 MANA: +65 Effect: Breath of the Dead (Worn) WT: 0.0 Size: TINY Class: NEC WIZ MAG ENC Race: ALL |
-Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Fear&oldid=162978"
+Raid Instance
+Plane of Fear (Raid) is a Raid Encounter in EverQuest Legends that includes the Raid Bosse Cazic-Thule, as well as the mini bosses a dracoliche, Dread, Fright and Terror. Entrance to the raid is by hailing a voidling in The Feerrott zone.
+|
+Level of Monsters:
+|
+49 - 55
+|
+Types of Monsters:
+|
+a Frightfinger, a glare lord, a gorgon, a phantasm, a shiverback, a spinechiller spider, a turmoil toad, a worry wraith, Amygdalan warrior
+|
+Mini Boss NPCs
+|
+a dracoliche, Dread, Fright, Terror
+|
+Raid Boss NPCs:
+|
+Cazic-Thule
+|
+Mini Boss Drops
+|
+Amulet of NecropotenceAmulet of Necropotence
+MAGIC ITEM
+Slot: NECK
+INT: +13 HP: -100
+SV MAGIC: +10
+Effect: Illusion: Skeleton (Any Slot, Casting Time: Instant)
+WT: 0.1 Size: SMALL
+Class: ENC MAG NEC WIZ
+Race: ALL
+, Ball of Everliving GolemBall of Everliving Golem
+MAGIC ITEM LORE ITEM NO DROP
+Slot: RANGE
+HP: +15
+SV FIRE: +2 SV DISEASE: +2 SV COLD: +2 SV MAGIC: +2 SV POISON: +2
+WT: 10.0 Size: LARGE
+Class: ALL
+Race: ALL
+, Barbarian Spiritist`s HammerBarbarian Spiritist`s Hammer
+MAGIC ITEM
+Slot: PRIMARY
+Skill: 2H Blunt Atk Delay: 43
+DMG: 22
+WIS: +13 INT: +13
+Effect: Winter's Roar (Combat, Casting Time: Instant) at Level 30
+WT: 10.0 Size: LARGE
+Class: SHM
+Race: ALL
+, Blood FireBlood Fire
+MAGIC ITEM LORE ITEM
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing Atk Delay: 24
+DMG: 11
+Effect: Boil Blood (Combat, Casting Time: Instant) at Level 46
+WT: 2.5 Size: MEDIUM
+Class: WAR
+Race: ALL
+, Bone RazorBone Razor
+MAGIC ITEM LORE ITEM
+Slot: PRIMARY SECONDARY
+Skill: Piercing Atk Delay: 22
+DMG: 10BACKSTAB: 10
+WT: 1.5 Size: MEDIUM
+Class: ROG
+Race: ALL
+, Bone-Clasped GirdleBone-Clasped Girdle
+MAGIC ITEM
+Slot: WAIST
+AC: 4
+STR: +7 DEX: +7 STA: +7 HP: +75 MANA: +75
+WT: 0.1 Size: SMALL
+Class: CLR DRU BRD SHM NEC WIZ MAG ENC
+Race: ALLFocus Effect: Burning Affliction III
+, Crimson Robe of AlendineCrimson Robe of Alendine
+MAGIC ITEM
+Slot: CHEST
+AC: 12
+DEX: +15 INT: +15 HP: +50 MANA: +50
+WT: 1.0 Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: ALL
+, Darkwood TrunkDarkwood Trunk
+LORE ITEM
+WT: 2.0 Weight Reduction: 100%
+Capacity: 10 Size Capacity: GIANT
+, DawnFire, Morning Star of LightDawnFire, Morning Star of Light
+MAGIC ITEM
+Slot: PRIMARY
+Skill: 1H Blunt Atk Delay: 34
+DMG: 11
+WIS: +7
+SV DISEASE: +10 SV POISON: +10
+Effect: Banish Undead (Combat, Casting Time: Instant) at Level 40
+WT: 6.5 Size: MEDIUM
+Class: CLR
+Race: ALL
+, Lyssa`s Darkwood PiccoloLyssa`s Darkwood Piccolo
+MAGIC ITEM
+Slot: SECONDARY
+Wind Resonance: 14
+WT: 0.5 Size: TINY
+Class: BRD
+Race: ALL
+, Monsoon, Sword of the SwiftwindMonsoon, Sword of the Swiftwind
+MAGIC ITEM LORE ITEM NO DROP
+Slot: PRIMARY
+Skill: 2H Slashing Atk Delay: 45
+DMG: 30
+STR: +10 STA: +9
+Haste: +36%
+WT: 2.0 Size: MEDIUM
+Class: WAR
+Race: ALL
+, Puppet StringsPuppet Strings
+MAGIC ITEM LORE ITEM
+Charges: 10
+Effect: Allure (Any Slot, Casting Time: 3.0)
+WT: 0.2 Size: SMALL
+Class: ALL
+Race: ALL
+, Shield of Rainbow HuesShield of Rainbow Hues
+MAGIC ITEM
+Slot: SECONDARY
+AC: 18
+SV FIRE: +20 SV DISEASE: +20 SV COLD: +20 SV MAGIC: +20 SV POISON: +20
+WT: 0.5 Size: MEDIUM
+Class: WAR PAL RNG SHD MNK ROG
+Race: ALL
+, Slime Blood of Cazic-ThuleSlime Blood of Cazic-Thule
+MAGIC ITEM LORE ITEM
+Slot: HANDS
+AC: 16
+STR: +2 DEX: +2 STA: +2 CHA: +2 WIS: +2 INT: +2 AGI: +2 HP: +20 MANA: +20
+SV FIRE: +2 SV DISEASE: +2 SV COLD: +2 SV MAGIC: +2 SV POISON: +2
+WT: 15.0 Size: SMALL
+Class: ALL
+Race: ALL
+, Soul Leech, Dark Sword of BloodSoul Leech, Dark Sword of Blood
+MAGIC ITEM LORE ITEM NO DROP
+Slot: PRIMARY
+Skill: 2H Slashing Atk Delay: 45
+DMG: 30
+Effect: Soul Leech (Combat, Casting Time: Instant) at Level 45
+WT: 9.5 Size: LARGE
+Class: WAR SHD
+Race: ALL
+, Spined Dragon ClawsSpined Dragon Claws
+MAGIC ITEM LORE ITEM
+Slot: PRIMARY
+Skill: 1H Slashing Atk Delay: 21
+DMG: 10
+WT: 3.5 Size: MEDIUM
+Class: WAR RNG
+Race: ALL
+, Staff of Undead LegionsStaff of Undead Legions
+MAGIC ITEM
+Slot: PRIMARY
+Skill: 2H Blunt Atk Delay: 47
+DMG: 20
+Effect: Banish Undead (Combat, Casting Time: Instant) at Level 46
+WT: 6.5 Size: LARGE
+Class: NEC
+Race: ALL
+, Staff of the EarthcrafterStaff of the Earthcrafter
+MAGIC ITEM
+Slot: PRIMARY
+Skill: 2H Blunt Atk Delay: 48
+DMG: 21
+WIS: +15 HP: +100 MANA: +50
+Effect: Drones of Doom (Combat, Casting Time: Instant) at Level 40
+WT: 7.5 Size: LARGE
+Class: DRU
+Race: ALL
+|
+Cazic-Thule Drops
+|
+Bile Etched Obsidian ChokerBile Etched Obsidian Choker
+MAGIC ITEM LORE ITEM NO DROP
+Slot: NECK WAIST
+AC: 10
+STR: +10 DEX: +10 STA: +10 HP: +100
+SV FIRE: +5 SV DISEASE: +5 SV COLD: +5 SV MAGIC: +5 SV POISON: +5
+Effect: See Invisible (Worn)
+WT: 0.2 Size: SMALL
+Class: WAR PAL RNG SHD MNK BRD ROG
+Race: ALL
+, Brain of Cazic ThuleBrain of Cazic Thule
+MAGIC ITEM LORE ITEM NO DROP
+Slot: RANGE
+AC: 10
+STR: +10 STA: +10 CHA: -25 WIS: +10 INT: +10 HP: +100 MANA: +100
+SV FIRE: +10 SV DISEASE: +10 SV COLD: +10 SV MAGIC: +10 SV POISON: +10
+Effect: Flowing Thought I (Worn)
+WT: 10.0 Size: LARGE
+Class: ALL
+Race: ALL
+, Cloak of the FearsomeCloak of the Fearsome
+MAGIC ITEM LORE ITEM NO DROP
+Slot: BACK
+AC: 15
+STR: +15 STA: +15 HP: +100
+WT: 0.8 Size: MEDIUM
+Class: ALL except DRU SHM NEC WIZ MAG ENC
+Race: ALL
+, Eye of Cazic ThuleEye of Cazic Thule
+MAGIC ITEM LORE ITEM NO DROP
+Slot: FACE
+AC: 15
+STA: +5 CHA: -25 WIS: +5 INT: +5 HP: +50 MANA: +100
+SV FIRE: +5 SV DISEASE: +5 SV COLD: +5 SV MAGIC: +5 SV POISON: +5
+Effect: Flowing Thought I (Worn)
+WT: 0.5 Size: SMALL
+Class: ALL
+Race: ALL
+, Halo of the EnlightenedHalo of the Enlightened
+MAGIC ITEM LORE ITEM NO DROP
+Slot: HEAD
+AC: 25
+STR: +10 STA: +10 WIS: +15 HP: +100 MANA: +100
+SV FIRE: +7 SV DISEASE: +7 SV COLD: +7 SV MAGIC: +7 SV POISON: +7
+Effect: See Invisible (Worn)
+WT: 0.1 Size: SMALL
+Class: CLR
+Race: ALL
+, Pauldrons of FerocityPauldrons of Ferocity
+MAGIC ITEM LORE ITEM NO DROP
+Slot: SHOULDERS
+AC: 20
+STR: +10 STA: +10 HP: +20 MANA: +20
+SV FIRE: +5 SV DISEASE: +5 SV COLD: +5 SV MAGIC: +5 SV POISON: +5
+Effect: Aura of Battle (Must Equip, Casting Time: Instant)
+WT: 4.0 Size: MEDIUM
+Class: WAR PAL SHD
+Race: ALL
+, Robe of InspirationRobe of Inspiration
+MAGIC ITEM LORE ITEM NO DROP
+Slot: CHEST
+AC: 20
+INT: +20 MANA: +100
+SV FIRE: +15 SV DISEASE: +15 SV COLD: +15 SV MAGIC: +15 SV POISON: +15
+Effect: Flowing Thought I (Worn)
+WT: 0.5 Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: ALL
+, Amulet of NecropotenceAmulet of Necropotence
+MAGIC ITEM
+Slot: NECK
+INT: +13 HP: -100
+SV MAGIC: +10
+Effect: Illusion: Skeleton (Any Slot, Casting Time: Instant)
+WT: 0.1 Size: SMALL
+Class: ENC MAG NEC WIZ
+Race: ALL
+, Barbarian Spiritist`s HammerBarbarian Spiritist`s Hammer
+MAGIC ITEM
+Slot: PRIMARY
+Skill: 2H Blunt Atk Delay: 43
+DMG: 22
+WIS: +13 INT: +13
+Effect: Winter's Roar (Combat, Casting Time: Instant) at Level 30
+WT: 10.0 Size: LARGE
+Class: SHM
+Race: ALL
+, Blood FireBlood Fire
+MAGIC ITEM LORE ITEM
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing Atk Delay: 24
+DMG: 11
+Effect: Boil Blood (Combat, Casting Time: Instant) at Level 46
+WT: 2.5 Size: MEDIUM
+Class: WAR
+Race: ALL
+, Crimson Robe of AlendineCrimson Robe of Alendine
+MAGIC ITEM
+Slot: CHEST
+AC: 12
+DEX: +15 INT: +15 HP: +50 MANA: +50
+WT: 1.0 Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: ALL
+, Darkwood TrunkDarkwood Trunk
+LORE ITEM
+WT: 2.0 Weight Reduction: 100%
+Capacity: 10 Size Capacity: GIANT
+, DawnFire, Morning Star of LightDawnFire, Morning Star of Light
+MAGIC ITEM
+Slot: PRIMARY
+Skill: 1H Blunt Atk Delay: 34
+DMG: 11
+WIS: +7
+SV DISEASE: +10 SV POISON: +10
+Effect: Banish Undead (Combat, Casting Time: Instant) at Level 40
+WT: 6.5 Size: MEDIUM
+Class: CLR
+Race: ALL
+, Lyssa`s Darkwood PiccoloLyssa`s Darkwood Piccolo
+MAGIC ITEM
+Slot: SECONDARY
+Wind Resonance: 14
+WT: 0.5 Size: TINY
+Class: BRD
+Race: ALL
+, Puppet StringsPuppet Strings
+MAGIC ITEM LORE ITEM
+Charges: 10
+Effect: Allure (Any Slot, Casting Time: 3.0)
+WT: 0.2 Size: SMALL
+Class: ALL
+Race: ALL
+, Shield of Rainbow HuesShield of Rainbow Hues
+MAGIC ITEM
+Slot: SECONDARY
+AC: 18
+SV FIRE: +20 SV DISEASE: +20 SV COLD: +20 SV MAGIC: +20 SV POISON: +20
+WT: 0.5 Size: MEDIUM
+Class: WAR PAL RNG SHD MNK ROG
+Race: ALL
+, Soul Leech, Dark Sword of BloodSoul Leech, Dark Sword of Blood
+MAGIC ITEM LORE ITEM NO DROP
+Slot: PRIMARY
+Skill: 2H Slashing Atk Delay: 45
+DMG: 30
+Effect: Soul Leech (Combat, Casting Time: Instant) at Level 45
+WT: 9.5 Size: LARGE
+Class: WAR SHD
+Race: ALL
+, Staff of the EarthcrafterStaff of the Earthcrafter
+MAGIC ITEM
+Slot: PRIMARY
+Skill: 2H Blunt Atk Delay: 48
+DMG: 21
+WIS: +15 HP: +100 MANA: +50
+Effect: Drones of Doom (Combat, Casting Time: Instant) at Level 40
+WT: 7.5 Size: LARGE
+Class: DRU
+Race: ALL
+|
+|
+Raid Map
+Plane of Fear Raid
+1. Zone in location
+2. Terror
+3. Dread
+4. a dracoliche
+5. Fright
+6. Cazic-Thule
+|
+Solo vs. Multiplayer
+When creating the raid instance, players can choose between solo and multiplayer instances. These instances share lockouts, so players cannot do both in the same week and receive full loot.
+There is no difference between solo and multiplayer as far as trash mobs or mobs locations in Plane of Fear.
+Raid Targets
+Mob Name |
+Creature Type |
+Class |
+Abilities |
+Notes |
+|
+Fright |
+Golem |
+Warrior |
+Enrage |
+|
+Dread |
+Golem |
+Warrior |
+Scarab Storm, Enrage |
+|
+Terror |
+Golem |
+Warrior |
+Frost Breath, 56 point lifetap proc, Enrage |
+Frost Breath is a dispel and will likely break charm on pets
+|
+a dracoliche |
+Dragon Skeleton (NOT undead) |
+Shadow Knight |
+Deadly Lifetap, Rotting Flesh, small hitbox |
+Utilize Evasive Discipline and damage absorption (e.g. Rune IV) to mitigate Deadly Lifetap. Can be difficult for melee to hit due to the small hitbox
+|
+Cazic Thule (God) |
+Diety |
+Shadow Knight |
+Avatar Power, Panic (random target), Enrage |
+All mobs will zone-wide social aggro with Cazic when he is engaged. Avatar Power is a top slot dispel. See page for full encounter details.
+|
+Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Fear&oldid=170589"
 Categories: Classic Era
 Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 27 July 2026, at 20:45.
+This page was last edited on 18 August 2026, at 16:04.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

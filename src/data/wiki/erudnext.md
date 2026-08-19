@@ -1,5 +1,5 @@
 # Erudin (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-19
 
 Erudin - EverQuest Legends Wiki
 Jump to content
@@ -931,7 +931,8 @@ Rogue |
 35 |
 (-1170, -70, 83) |
 None |
-Staying in a room on the top floor of the Vasty Deep Inn, Collier will offer a special weapon treatment in exchange for ... |
+Collier currently does not spawn in EQL and you cannot complete his quest.
+Staying in a room on the top floor of the Va... |
 Demicla Tanner
 |
 Erudite |

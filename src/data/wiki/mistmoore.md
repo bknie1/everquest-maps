@@ -1,5 +1,5 @@
 # Castle_Mistmoore (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-19
 
 Mistmoore Castle - EverQuest Legends Wiki
 Jump to content
@@ -141,6 +141,16 @@ SV MAGIC: +7
 WT: 0.1 Size: SMALL
 Class: CLR DRU BRD SHM NEC WIZ MAG ENC
 Race: ALLFocus Effect: Enhancement Haste I
+, Cherista's FangsCherista's Fangs
+Attunable
+Slot: PRIMARY SECONDARY
+Skill: Hand to Hand
+DMG: 10
+Atk Delay: 28 DMG Bonus: 13
+Effect: Lifebite (Combat)
+WT: 0.5 Size: SMALL
+Class: MNK BST
+Race: ALL
 , Chestplate of the Dark FlameChestplate of the Dark Flame
 MAGIC ITEM LORE ITEM
 Slot: CHEST
@@ -182,13 +192,23 @@ STR: +3 HP: +12
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALLFocus Effect: Affliction Efficiency I
-, Gypsy LuteGypsy Lute
-Lore Equipped, No Trade, Quest, Placeable
-Slot: PRIMARY SECONDARY
-SV MAGIC: +5
-WT: 0.7 Size: SMALL
-Class: ALL
-Race: ALLFocus Effect: String Resonance 11
+, Fleeting MemoryFleeting Memory
+Attunable
+Slot: AMMO
+Skill: Archery
+DMG: 8 Cold DMG: 1 Range: 150
+WT: 0.1 Size: SMALL
+Class: WAR PAL RNG SHD ROG
+Race: ALL
+, Gargoyle GripsGargoyle Grips
+Attunable
+Slot: HANDS
+AC: 10
+STR: 5 STA: 5
+SV Magic: 5
+WT: 6.0 Size: SMALL
+Class: WAR CLR PAL SHD BRD
+Race: ALL
 , Gem-Encrusted ScepterGem-Encrusted Scepter
 MAGIC ITEM
 Slot: PRIMARY
@@ -197,6 +217,15 @@ DMG: 7
 WIS: +5
 WT: 4.5 Size: MEDIUM
 Class: CLR DRU BRD SHM
+Race: ALL
+, Gilded Mistmoore VisorGilded Mistmoore Visor
+Attunable
+Slot: FACE
+AC: 7
+STR: 5
+SV Fire: 10
+WT: 2.0 Size: SMALL
+Class: WAR CLR PAL SHD BRD
 Race: ALL
 , Glowing Iron PikeGlowing Iron Pike
 MAGIC ITEM
@@ -211,6 +240,13 @@ MAGIC ITEM LORE ITEM NODROP
 WT: 0.2 Size: SMALL
 Class: ALL
 Race: ALL
+, Gypsy LuteGypsy Lute
+Lore Equipped, No Trade, Quest, Placeable
+Slot: PRIMARY SECONDARY
+SV MAGIC: +5
+WT: 0.7 Size: SMALL
+Class: ALL
+Race: ALLFocus Effect: String Resonance 11
 , Hooded Black CloakHooded Black Cloak
 MAGIC ITEM LORE ITEM
 Slot: BACK
@@ -230,6 +266,15 @@ LORE ITEM
 WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
+, Maid's StockingsMaid's Stockings
+Attunable
+Slot: LEGS
+AC: 4
+STA: 4 MANA: 12
+SV Fire: 3 SV Magic: 2
+WT: 0.7 Size: SMALL
+Class: NEC WIZ MAG ENC
+Race: ALL
 , Mistmoore Battle DrumsMistmoore Battle Drums
 Attunable Placeable
 Slot: Primary Secondary
@@ -241,6 +286,14 @@ NO DROP
 WT: 2.0 Size: TINY
 Class: ALL
 Race: ALL
+, Mistmoore Heirloom RingMistmoore Heirloom Ring
+Attuneable
+Slot: FINGER
+AC: 1
+INT: 3 HP: 10
+WT: 0.1 Size: TINY
+Class: ALL
+Race: ALLFocus Effect: Heritage of Mistmoore
 , Nightshade WreathNightshade Wreath
 MAGIC ITEM
 Slot: HEAD
@@ -249,6 +302,15 @@ WIS: +5 INT: +5
 WT: 0.1 Size: SMALL
 Class: CLR DRU BRD SHM NEC WIZ MAG ENC
 Race: ALLFocus Effect: Reanimation Haste I
+, Noble's RobesNoble's Robes
+MAGIC ITEM LORE ITEM
+Slot: CHEST
+AC: 6
+CHA: +5
+SV FIRE: +6 SV DISEASE: +3 SV COLD: +6 SV MAGIC: +3 SV POISON: +3
+WT: 5.2 Size: MEDIUM
+Class: CLR NEC WIZ MAG ENC
+Race: ALL
 , Platinum Skull RingPlatinum Skull Ring
 MAGIC ITEM
 Slot: FINGER
@@ -262,6 +324,17 @@ Slot: CHEST
 AC: 8
 INT: +2
 WT: 3.5 Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: ALL
+, Rod of UnderstandingRod of Understanding
+Attunable Lore Equipped
+Slot: PRIMARY
+Skill: 1H Blunt
+DMG: 5
+Atk Delay: 25 DMG Bonus: 12
+DEX: 5 INT: 5
+Effect: Dyn's Dizzying Draught (Proc)
+WT: 6.5 Size: MEDIUM
 Class: NEC WIZ MAG ENC
 Race: ALL
 , Rune of FortuneRune of Fortune
@@ -278,6 +351,22 @@ INT: +5
 WT: 2.5 Size: MEDIUM
 Class: ALL except CLR PAL DRU MNK SHM
 Race: ALL
+, Tarnished Ancient TiaraTarnished Ancient Tiara
+Attunable
+Slot: HEAD
+AC: 2
+CHA: 2 WIS: 3 INT: 3
+WT: 0.6 Size: SMALL
+Class: CLR BRD NEC WIZ MAG ENC
+Race: ALLFocus Effect: Mana Preservation I
+, Veil of SilenceVeil of Silence
+Attunable
+Slot: FACE
+AC: 4
+STR: 6 MANA: -37
+WT: 0.5 Size: SMALL
+Class: ALL
+Race: ALL
 , Vial of Vampire BloodVial of Vampire Blood
 MAGIC ITEM
 EXPENDABLE Charges: 1
@@ -285,6 +374,23 @@ Effect: Resistance to Magic (Any Slot, Casting Time: Instant) as Level 50
 WT: 0.4 Size: SMALL
 Class: ALL
 Race: ALL
+, Visage of the GargoyleVisage of the Gargoyle
+Attunable
+Slot: FACE
+AC: 7
+CHA: -10 HP: 25
+WT: 2.5 Size: SMALL
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+, Wine ThiefWine Thief
+Attuneable
+Slot: PRIMARY
+Skill: 1H Piercing
+DMG: 9
+Atk Delay: 31 DMG Bonus: 15 Backstab DMG: 8
+WT: 2.5 Size: TINY
+Class: SHD NEC
+Race: ALLFocus Effect: Improved Vampirism II
 |
 Related Quests:
 |
@@ -296,7 +402,7 @@ Lesser Faydark
 |
 Respawn time:
 |
-22 minutes for the zone (Mistmoore castle has both 6 AM/8 PM respawns for vampires which reset the timer).
+6.5 minutes for the zone (Mistmoore castle has both 6 AM/8 PM respawns for vampires which reset the timer).
 |
 Name in /who:
 |
@@ -346,7 +452,15 @@ SV DISEASE: +10 SV MAGIC: +10 SV POISON: +10
 WT: 6.5 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD DRU BRD ROG SHM
 Race: ALL
-(Rare)
+and Gilded Mistmoore VisorGilded Mistmoore Visor
+Attunable
+Slot: FACE
+AC: 7
+STR: 5
+SV Fire: 10
+WT: 2.0 Size: SMALL
+Class: WAR CLR PAL SHD BRD
+Race: ALL
 2. Tomb with Coffin; behind it is Ssynthi who drops Robe of the KeeperRobe of the Keeper
 MAGIC ITEM QUEST ITEM
 Slot: CHEST
@@ -357,12 +471,28 @@ Class: NEC WIZ MAG ENC
 Race: ALL
 , and a Secret Entrance leading one way to the Jail
 3. "The Pit"
-4. "The Canyon" where Black Dire spawns, as well as Enynti, who drops Rune of FortuneRune of Fortune
+4. "The Canyon" where Black Dire spawns, as well as Enynti, who drops Gargoyle GripsGargoyle Grips
+Attunable
+Slot: HANDS
+AC: 10
+STR: 5 STA: 5
+SV Magic: 5
+WT: 6.0 Size: SMALL
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+, Rune of FortuneRune of Fortune
 MAGIC ITEM LORE ITEM NO DROP
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
-(Rare)
+and Visage of the GargoyleVisage of the Gargoyle
+Attunable
+Slot: FACE
+AC: 7
+CHA: -10 HP: 25
+WT: 2.5 Size: SMALL
+Class: WAR CLR PAL SHD BRD
+Race: ALL
 5. "Jail" where a deathly usher spawns, who drops Black Silk GlovesBlack Silk Gloves
 MAGIC ITEM LORE ITEM NO DROP
 Slot: HANDS
@@ -393,15 +523,31 @@ NO DROP
 WT: 0.4 Size: SMALL
 Class: ALL
 Race: ALL
-.
-7. Fountain where a cloaked dhampyre spawns, drops Blood of the DhampyreBlood of the Dhampyre
+and Wine ThiefWine Thief
+Attuneable
+Slot: PRIMARY
+Skill: 1H Piercing
+DMG: 9
+Atk Delay: 31 DMG Bonus: 15 Backstab DMG: 8
+WT: 2.5 Size: TINY
+Class: SHD NEC
+Race: ALLFocus Effect: Improved Vampirism II
+7. Fountain where a cloaked dhampyre spawns, who drops Blood of the DhampyreBlood of the Dhampyre
 MAGIC ITEM
 EXPENDABLE Charges: 1
 Effect: Extended Regeneration (Any Slot, Casting Time: Instant)
 WT: 0.4 Size: SMALL
 Class: ALL
 Race: ALL
-(Common) and Hooded Black CloakHooded Black Cloak
+, Fleeting MemoryFleeting Memory
+Attunable
+Slot: AMMO
+Skill: Archery
+DMG: 8 Cold DMG: 1 Range: 150
+WT: 0.1 Size: SMALL
+Class: WAR PAL RNG SHD ROG
+Race: ALL
+and Hooded Black CloakHooded Black Cloak
 MAGIC ITEM LORE ITEM
 Slot: BACK
 AC: 10
@@ -409,7 +555,15 @@ STR: +5 HP: +45
 WT: 2.5 Size: MEDIUM
 Class: ALL
 Race: ALL
-(Rare). Spawn location of A Fallen Noble who drops Noble's RobesNoble's Robes
+. Also location of A Fallen Noble who drops Mistmoore Heirloom RingMistmoore Heirloom Ring
+Attuneable
+Slot: FINGER
+AC: 1
+INT: 3 HP: 10
+WT: 0.1 Size: TINY
+Class: ALL
+Race: ALLFocus Effect: Heritage of Mistmoore
+, Noble's RobesNoble's Robes
 MAGIC ITEM LORE ITEM
 Slot: CHEST
 AC: 6
@@ -418,12 +572,11 @@ SV FIRE: +6 SV DISEASE: +3 SV COLD: +6 SV MAGIC: +3 SV POISON: +3
 WT: 5.2 Size: MEDIUM
 Class: CLR NEC WIZ MAG ENC
 Race: ALL
-(Uncommon) and Vial of Noble's BloodVial of Noble's Blood
+and Vial of Noble's BloodVial of Noble's Blood
 MAGIC ITEM NO DROP
 WT: 0.2 Size: TINY
 Class: ALL
 Race: ALL
-(Uncommon)
 8. Entry Hall
 9. "Piano"
 10. "Ballroom" where gypsies and Mynthi Davissi spawn, drops Lute of the Gypsy PrincessLute of the Gypsy Princess
@@ -461,7 +614,16 @@ Race: ALL
 14. Torture Chamber
 15. Mayong Mistmoore's Coffin Room
 16. Kitchen
-17. Servant Room where Maid Issis spawns, drops Nightshade WreathNightshade Wreath
+17. Servant Room where Maid Issis spawns, who drops Maid's StockingsMaid's Stockings
+Attunable
+Slot: LEGS
+AC: 4
+STA: 4 MANA: 12
+SV Fire: 3 SV Magic: 2
+WT: 0.7 Size: SMALL
+Class: NEC WIZ MAG ENC
+Race: ALL
+, Nightshade WreathNightshade Wreath
 MAGIC ITEM
 Slot: HEAD
 AC: 1
@@ -469,12 +631,11 @@ WIS: +5 INT: +5
 WT: 0.1 Size: SMALL
 Class: CLR DRU BRD SHM NEC WIZ MAG ENC
 Race: ALLFocus Effect: Reanimation Haste I
-(Common) and Maid Issis FangMaid Issis Fang
+and Maid Issis FangMaid Issis Fang
 LORE ITEM
 WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
-(Rare)
 18. Servant Room where Butler Syncall spawns, drops Cape of Midnight MistCape of Midnight Mist
 MAGIC ITEM
 Slot: NECK
@@ -490,7 +651,17 @@ WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
 (Rare)
-19. Library
+19. Library Room where a dark librarian spawns, who drops Rod of UnderstandingRod of Understanding
+Attunable Lore Equipped
+Slot: PRIMARY
+Skill: 1H Blunt
+DMG: 5
+Atk Delay: 25 DMG Bonus: 12
+DEX: 5 INT: 5
+Effect: Dyn's Dizzying Draught (Proc)
+WT: 6.5 Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: ALL
 19a. Advisor room where an advisor spawns who drops Advisor RobeAdvisor Robe
 MAGIC ITEM LORE ITEM
 Slot: CHEST
@@ -500,7 +671,25 @@ SV MAGIC: +5
 WT: 3.5 Size: MEDIUM
 Class: MNK NEC WIZ MAG ENC
 Race: ALL
-20. Throne Room where Princess Cherista spawns, drops Gem-Encrusted ScepterGem-Encrusted Scepter
+20. Throne Room where Princess Cherista spawns, drops Cherista's FangsCherista's Fangs
+Attunable
+Slot: PRIMARY SECONDARY
+Skill: Hand to Hand
+DMG: 10
+Atk Delay: 28 DMG Bonus: 13
+Effect: Lifebite (Combat)
+WT: 0.5 Size: SMALL
+Class: MNK BST
+Race: ALL
+, Diamondine EarringDiamondine Earring
+MAGIC ITEM
+Slot: EAR
+AC: 2
+STR: +3 HP: +12
+WT: 0.1 Size: TINY
+Class: ALL
+Race: ALLFocus Effect: Affliction Efficiency I
+, Gem-Encrusted ScepterGem-Encrusted Scepter
 MAGIC ITEM
 Slot: PRIMARY
 Skill: 1H Blunt Atk Delay: 28
@@ -509,15 +698,14 @@ WIS: +5
 WT: 4.5 Size: MEDIUM
 Class: CLR DRU BRD SHM
 Race: ALL
-(Uncommon) and Diamondine EarringDiamondine Earring
-MAGIC ITEM
-Slot: EAR
+& Tarnished Ancient TiaraTarnished Ancient Tiara
+Attunable
+Slot: HEAD
 AC: 2
-STR: +3 HP: +12
-WT: 0.1 Size: TINY
-Class: ALL
-Race: ALLFocus Effect: Affliction Efficiency I
-(Rare)
+CHA: 2 WIS: 3 INT: 3
+WT: 0.6 Size: SMALL
+Class: CLR BRD NEC WIZ MAG ENC
+Race: ALLFocus Effect: Mana Preservation I
 21. "The Bath" where Lasna Cheroon spawns, who drops Diamondine EarringDiamondine Earring
 MAGIC ITEM
 Slot: EAR
@@ -533,7 +721,11 @@ CHA: -5 HP: +30 MANA: +20
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALLFocus Effect: Reanimation Efficiency II
-(Rare), and Xicotl, who drops Hilt of Soulfire
+(Rare), and Xicotl, who drops Glowing Sword HiltGlowing Sword Hilt
+MAGIC ITEM LORE ITEM NODROP
+WT: 0.2 Size: SMALL
+Class: ALL
+Race: ALL
 22. Bedroom
 23. a dark ass`t librarian spawns who drops Illegible ScrollIllegible Scroll
 LORE ITEM
@@ -596,7 +788,15 @@ LORE ITEM
 WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
-("Vok Na Zov V") |
+("Vok Na Zov V"), Veil of SilenceVeil of Silence
+Attunable
+Slot: FACE
+AC: 4
+STR: 6 MANA: -37
+WT: 0.5 Size: SMALL
+Class: ALL
+Race: ALL
+|
 Spawn into the Library. |
 A Dark Offerer
 |
@@ -644,7 +844,15 @@ Dark Elf |
 Cleric |
 28 |
 (23, 105) |
-Noble's RobesNoble's Robes
+Mistmoore Heirloom RingMistmoore Heirloom Ring
+Attuneable
+Slot: FINGER
+AC: 1
+INT: 3 HP: 10
+WT: 0.1 Size: TINY
+Class: ALL
+Race: ALLFocus Effect: Heritage of Mistmoore
+, Noble's RobesNoble's Robes
 MAGIC ITEM LORE ITEM
 Slot: CHEST
 AC: 6
@@ -802,7 +1010,16 @@ Dark Elf |
 Warrior |
 33 |
 100% @ (-67, 171) |
-Blood Spirit |
+Blood Spirit, Blood Wine, Wine ThiefWine Thief
+Attuneable
+Slot: PRIMARY
+Skill: 1H Piercing
+DMG: 9
+Atk Delay: 31 DMG Bonus: 15 Backstab DMG: 8
+WT: 2.5 Size: TINY
+Class: SHD NEC
+Race: ALLFocus Effect: Improved Vampirism II
+|
 Description needed. |
 A Jeering Gargoyle
 |
@@ -1101,7 +1318,14 @@ Elf Vampire |
 Shadow Knight |
 33 |
 (-5, 77, -193) |
-Hooded Black CloakHooded Black Cloak
+Blood of the DhampyreBlood of the Dhampyre
+MAGIC ITEM
+EXPENDABLE Charges: 1
+Effect: Extended Regeneration (Any Slot, Casting Time: Instant)
+WT: 0.4 Size: SMALL
+Class: ALL
+Race: ALL
+, Hooded Black CloakHooded Black Cloak
 MAGIC ITEM LORE ITEM
 Slot: BACK
 AC: 10
@@ -1109,12 +1333,13 @@ STR: +5 HP: +45
 WT: 2.5 Size: MEDIUM
 Class: ALL
 Race: ALL
-, Blood of the DhampyreBlood of the Dhampyre
-MAGIC ITEM
-EXPENDABLE Charges: 1
-Effect: Extended Regeneration (Any Slot, Casting Time: Instant)
-WT: 0.4 Size: SMALL
-Class: ALL
+, Fleeting MemoryFleeting Memory
+Attunable
+Slot: AMMO
+Skill: Archery
+DMG: 8 Cold DMG: 1 Range: 150
+WT: 0.1 Size: SMALL
+Class: WAR PAL RNG SHD ROG
 Race: ALL
 |
 A Cloaked Dhampyre spawns in the little fountain area against the east wall. 11 minute spawn timer.
@@ -1172,7 +1397,32 @@ Dark Elf |
 Warrior |
 27 |
 (38, 597, -206 roams slightly), (218, 522, -223), (157, 565, -233), (-187, 486, -232), (-107, 371, -234), (-385, 516, -220) |
-Various |
+Crested Mistmoore ShieldCrested Mistmoore Shield
+MAGIC ITEM LORE ITEM
+Slot: SECONDARY
+AC: 10
+DEX: +6
+SV DISEASE: +10 SV MAGIC: +10 SV POISON: +10
+WT: 6.5 Size: MEDIUM
+Class: WAR CLR PAL RNG SHD DRU BRD ROG SHM
+Race: ALL
+, Gilded Mistmoore VisorGilded Mistmoore Visor
+Attunable
+Slot: FACE
+AC: 7
+STR: 5
+SV Fire: 10
+WT: 2.0 Size: SMALL
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+, Vial of Vampire BloodVial of Vampire Blood
+MAGIC ITEM
+EXPENDABLE Charges: 1
+Effect: Resistance to Magic (Any Slot, Casting Time: Instant) as Level 50
+WT: 0.4 Size: SMALL
+Class: ALL
+Race: ALL
+|
 The glyphed ghoul spawns in the pool, the Gorge, and the gates outside the Grave Yard - anywhere a familiar does. Neithe... |
 A gypsy ambassador
 |
@@ -1393,12 +1643,29 @@ Dark Elf |
 Warrior |
 27 |
 (80, -112) |
-Rune of FortuneRune of Fortune
+Gargoyle GripsGargoyle Grips
+Attunable
+Slot: HANDS
+AC: 10
+STR: 5 STA: 5
+SV Magic: 5
+WT: 6.0 Size: SMALL
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+, Rune of FortuneRune of Fortune
 MAGIC ITEM LORE ITEM NO DROP
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
-(Top) |
+, Visage of the GargoyleVisage of the Gargoyle
+Attunable
+Slot: FACE
+AC: 7
+CHA: -10 HP: 25
+WT: 2.5 Size: SMALL
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+|
 Description needed. |
 Garton Viswin
 |
@@ -1454,7 +1721,21 @@ Dark Elf |
 Necromancer |
 35 |
 100% @ (-340, -90) |
-Nightshade WreathNightshade Wreath
+Maid's StockingsMaid's Stockings
+Attunable
+Slot: LEGS
+AC: 4
+STA: 4 MANA: 12
+SV Fire: 3 SV Magic: 2
+WT: 0.7 Size: SMALL
+Class: NEC WIZ MAG ENC
+Race: ALL
+, Maid Issis FangMaid Issis Fang
+LORE ITEM
+WT: 0.1 Size: SMALL
+Class: ALL
+Race: ALL
+, Nightshade WreathNightshade Wreath
 MAGIC ITEM
 Slot: HEAD
 AC: 1
@@ -1462,11 +1743,6 @@ WIS: +5 INT: +5
 WT: 0.1 Size: SMALL
 Class: CLR DRU BRD SHM NEC WIZ MAG ENC
 Race: ALLFocus Effect: Reanimation Haste I
-, Maid Issis FangMaid Issis Fang
-LORE ITEM
-WT: 0.1 Size: SMALL
-Class: ALL
-Race: ALL
 |
 The butler and the maid both spawn as either the DE Robed version or the vampire version. a deathly usher is the PH. |
 Mayong Mistmoore
@@ -1511,14 +1787,15 @@ Elf Vampire |
 Necromancer |
 35 |
 33% @ (-131, 23) Level 2 |
-Gem-Encrusted ScepterGem-Encrusted Scepter
-MAGIC ITEM
-Slot: PRIMARY
-Skill: 1H Blunt Atk Delay: 28
-DMG: 7
-WIS: +5
-WT: 4.5 Size: MEDIUM
-Class: CLR DRU BRD SHM
+Cherista's FangsCherista's Fangs
+Attunable
+Slot: PRIMARY SECONDARY
+Skill: Hand to Hand
+DMG: 10
+Atk Delay: 28 DMG Bonus: 13
+Effect: Lifebite (Combat)
+WT: 0.5 Size: SMALL
+Class: MNK BST
 Race: ALL
 , Diamondine EarringDiamondine Earring
 MAGIC ITEM
@@ -1528,6 +1805,23 @@ STR: +3 HP: +12
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALLFocus Effect: Affliction Efficiency I
+(Unconfirmed in Legends), Gem-Encrusted ScepterGem-Encrusted Scepter
+MAGIC ITEM
+Slot: PRIMARY
+Skill: 1H Blunt Atk Delay: 28
+DMG: 7
+WIS: +5
+WT: 4.5 Size: MEDIUM
+Class: CLR DRU BRD SHM
+Race: ALL
+, Tarnished Ancient TiaraTarnished Ancient Tiara
+Attunable
+Slot: HEAD
+AC: 2
+CHA: 2 WIS: 3 INT: 3
+WT: 0.6 Size: SMALL
+Class: CLR BRD NEC WIZ MAG ENC
+Race: ALLFocus Effect: Mana Preservation I
 |
 Spawns on the chair in her room. A Dark Ritualist is the PH. A Deathly Herald spawns on each side of her. Does not alw... |
 Ssynthi
@@ -1559,7 +1853,7 @@ Class: ALL
 Race: ALL
 |
 PH is a Mistmoore guard, 22-minute respawn. |
-Items - Found 41 items that drop in Mistmoore Castle:
+Items - Found 53 items that drop in Mistmoore Castle:
 Item Name | Drops From | Slot | Stats |
 A Dark CauldronA Dark Cauldron
 NO DROP
@@ -1613,6 +1907,15 @@ Race: ALL
 a hemo enologist |
 (None) |
 NO DROP WT: 0.4 Size: SMALL Class: ALL Race: ALL |
+Blood WineBlood Wine
+CHA: 2 Mana: 5
+WT: 0.1 Size: TINY
+Class: ALL
+Race: ALL
+|
+a hemo enologist |
+(None) |
+CHA: 2 Mana: 5 WT: 0.1 Size: TINY Class: ALL Race: ALL |
 Blood of the DhampyreBlood of the Dhampyre
 MAGIC ITEM
 EXPENDABLE Charges: 1
@@ -1658,6 +1961,20 @@ Race: ALLFocus Effect: Enhancement Haste I
 Butler Syncall |
 Neck |
 AC: 2 STR: +5 SV MAGIC: +7 WT: 0.1 Size: SMALL Class: CLR DRU BRD SHM NEC WIZ MAG ENC Race: ALL |
+Cherista's FangsCherista's Fangs
+Attunable
+Slot: PRIMARY SECONDARY
+Skill: Hand to Hand
+DMG: 10
+Atk Delay: 28 DMG Bonus: 13
+Effect: Lifebite (Combat)
+WT: 0.5 Size: SMALL
+Class: MNK BST
+Race: ALL
+|
+Princess Cherista |
+Hand to Hand |
+DMG: 10 Atk Delay: 28 DMG Bonus: 13 Effect: Lifebite (Combat) WT: 0.5 Size: SMALL Class: MNK BST Race: ALL |
 Chestplate of the Dark FlameChestplate of the Dark Flame
 MAGIC ITEM LORE ITEM
 Slot: CHEST
@@ -1737,6 +2054,31 @@ Race: None
 an initiate familiar |
 (None) |
 Quest WT: 0.1 Size: SMALL Class: None Race: None |
+Fleeting MemoryFleeting Memory
+Attunable
+Slot: AMMO
+Skill: Archery
+DMG: 8 Cold DMG: 1 Range: 150
+WT: 0.1 Size: SMALL
+Class: WAR PAL RNG SHD ROG
+Race: ALL
+|
+a cloaked dhampyre |
+Archery |
+DMG: 8 Cold DMG: 1 Range: 150 WT: 0.1 Size: SMALL Class: WAR PAL RNG SHD ROG Race: ALL |
+Gargoyle GripsGargoyle Grips
+Attunable
+Slot: HANDS
+AC: 10
+STR: 5 STA: 5
+SV Magic: 5
+WT: 6.0 Size: SMALL
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+|
+Enynti |
+Hands |
+AC: 10 STR: 5 STA: 5 SV Magic: 5 WT: 6.0 Size: SMALL Class: WAR CLR PAL SHD BRD Race: ALL |
 Gem-Encrusted ScepterGem-Encrusted Scepter
 MAGIC ITEM
 Slot: PRIMARY
@@ -1750,6 +2092,19 @@ Race: ALL
 Princess Cherista |
 1H Blunt |
 Atk Delay: 28 DMG: 7 WIS: +5 WT: 4.5 Size: MEDIUM Class: CLR DRU BRD SHM Race: ALL |
+Gilded Mistmoore VisorGilded Mistmoore Visor
+Attunable
+Slot: FACE
+AC: 7
+STR: 5
+SV Fire: 10
+WT: 2.0 Size: SMALL
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+|
+a glyphed ghoul |
+Face |
+AC: 7 STR: 5 SV Fire: 10 WT: 2.0 Size: SMALL Class: WAR CLR PAL SHD BRD Race: ALL |
 Glowing Iron PikeGlowing Iron Pike
 MAGIC ITEM
 Slot: PRIMARY
@@ -1813,6 +2168,19 @@ Race: ALLFocus Effect: String Resonance 11
 a werewolf gypsy, Mynthi Davissi |
 Primary, Secondary |
 WT: 0.8 Size: SMALL Class: ALL Race: ALL |
+Maid's StockingsMaid's Stockings
+Attunable
+Slot: LEGS
+AC: 4
+STA: 4 MANA: 12
+SV Fire: 3 SV Magic: 2
+WT: 0.7 Size: SMALL
+Class: NEC WIZ MAG ENC
+Race: ALL
+|
+Maid Issis |
+Legs |
+AC: 4 STA: 4 MANA: 12 SV Fire: 3 SV Magic: 2 WT: 0.7 Size: SMALL Class: NEC WIZ MAG ENC Race: ALL |
 Maid Issis FangMaid Issis Fang
 LORE ITEM
 WT: 0.1 Size: SMALL
@@ -1841,6 +2209,18 @@ Race: ALL
 a flouting gargoyle, a jeering gargoyle, a leering gargoyle |
 (None) |
 NO DROP WT: 2.0 Size: TINY Class: ALL Race: ALL |
+Mistmoore Heirloom RingMistmoore Heirloom Ring
+Attuneable
+Slot: FINGER
+AC: 1
+INT: 3 HP: 10
+WT: 0.1 Size: TINY
+Class: ALL
+Race: ALLFocus Effect: Heritage of Mistmoore
+|
+a fallen noble |
+Fingers |
+AC: 1 INT: 3 HP: 10 WT: 0.1 Size: TINY Class: ALL Race: ALL |
 Nightshade WreathNightshade Wreath
 MAGIC ITEM
 Slot: HEAD
@@ -1898,6 +2278,21 @@ Race: ALL
 Ssynthi |
 Chest |
 AC: 8 INT: +2 WT: 3.5 Size: MEDIUM Class: NEC WIZ MAG ENC Race: ALL |
+Rod of UnderstandingRod of Understanding
+Attunable Lore Equipped
+Slot: PRIMARY
+Skill: 1H Blunt
+DMG: 5
+Atk Delay: 25 DMG Bonus: 12
+DEX: 5 INT: 5
+Effect: Dyn's Dizzying Draught (Proc)
+WT: 6.5 Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: ALL
+|
+a dark librarian |
+1H Blunt |
+DMG: 5 Atk Delay: 25 DMG Bonus: 12 DEX: 5 INT: 5 Effect: Dyn's Dizzying Draught (Proc) WT: 6.5 Size: MEDIUM Class: NEC WIZ MAG ENC Race: ALL |
 Rune of IvyRune of Ivy
 MAGIC ITEM LORE ITEM NO DROP
 WT: 0.1 Size: TINY
@@ -1938,6 +2333,18 @@ Race: ALL
 None? |
 (None) |
 This is a meal! WT: 0.6 Size: SMALL Class: ALL Race: ALL |
+Tarnished Ancient TiaraTarnished Ancient Tiara
+Attunable
+Slot: HEAD
+AC: 2
+CHA: 2 WIS: 3 INT: 3
+WT: 0.6 Size: SMALL
+Class: CLR BRD NEC WIZ MAG ENC
+Race: ALLFocus Effect: Mana Preservation I
+|
+Princess Cherista |
+Head |
+AC: 2 CHA: 2 WIS: 3 INT: 3 WT: 0.6 Size: SMALL Class: CLR BRD NEC WIZ MAG ENC Race: ALL |
 Thick Caustic FluidThick Caustic Fluid
 No Trade
 WT: 0.4 Size: SMALL
@@ -1947,6 +2354,18 @@ Race: ALL
 a dark offerer |
 (None) |
 No Trade WT: 0.4 Size: SMALL Class: ALL Race: ALL |
+Veil of SilenceVeil of Silence
+Attunable
+Slot: FACE
+AC: 4
+STR: 6 MANA: -37
+WT: 0.5 Size: SMALL
+Class: ALL
+Race: ALL
+|
+a dark librarian |
+Face |
+AC: 4 STR: 6 MANA: -37 WT: 0.5 Size: SMALL Class: ALL Race: ALL |
 Vial of Noble's BloodVial of Noble's Blood
 MAGIC ITEM NO DROP
 WT: 0.2 Size: TINY
@@ -1967,6 +2386,18 @@ Race: ALL
 a glyphed ghoul |
 (None) |
 MAGIC ITEM EXPENDABLE Charges: 1 Effect: Resistance to Magic as Level 50 WT: 0.4 Size: SMALL Class: ALL Race: ALL |
+Visage of the GargoyleVisage of the Gargoyle
+Attunable
+Slot: FACE
+AC: 7
+CHA: -10 HP: 25
+WT: 2.5 Size: SMALL
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+|
+Enynti |
+Face |
+AC: 7 CHA: -10 HP: 25 WT: 2.5 Size: SMALL Class: WAR CLR PAL SHD BRD Race: ALL |
 Werewolf ClawsWerewolf Claws
 MAGIC ITEM
 WT: 3.5 Size: LARGE
@@ -1994,13 +2425,26 @@ Race: ALL
 a gypsy musician, a werewolf |
 (None) |
 MAGIC ITEM LORE ITEM NO DROP WT: 0.1 Size: SMALL Class: ALL Race: ALL |
-Retrieved from "https://eqlwiki.com/index.php?title=Mistmoore_Castle&oldid=165797"
+Wine ThiefWine Thief
+Attuneable
+Slot: PRIMARY
+Skill: 1H Piercing
+DMG: 9
+Atk Delay: 31 DMG Bonus: 15 Backstab DMG: 8
+WT: 2.5 Size: TINY
+Class: SHD NEC
+Race: ALLFocus Effect: Improved Vampirism II
+|
+a hemo enologist |
+Primary |
+Skill: 1H Piercing DMG: 9 Atk Delay: 31 DMG Bonus: 15 Backstab DMG: 8 WT: 2.5 Size: TINY Class: SHD NEC Race: ALL |
+Retrieved from "https://eqlwiki.com/index.php?title=Mistmoore_Castle&oldid=170645"
 Categories: Classic Era
 Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 4 August 2026, at 08:38.
+This page was last edited on 18 August 2026, at 19:50.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

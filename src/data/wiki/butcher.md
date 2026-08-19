@@ -1,5 +1,5 @@
 # Butcherblock_Mountains (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-19
 
 Butcherblock Mountains - EverQuest Legends Wiki
 Jump to content
@@ -334,8 +334,7 @@ WT: 0.5 Size: SMALL
 Class: ALL
 Race: ALL
 |
-Does this NPC exist on Legends? Please confirm.
-See Alla page: https://everquest.allakhazam.com/db/npc.html?id=6599 |
+Found sleeping outside Butcherblock Docks. Not a very good beggar. |
 A Krag Chick
 |
 Aviak |

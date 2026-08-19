@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-08-18
+fetched: 2026-08-19
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -2214,11 +2214,10 @@ Woven Skull Cap (4-KoS)
 Al`Kabor's Cap of BindingAl`Kabor's Cap of Binding
 MAGIC ITEM LORE ITEM NO DROP
 Slot: HEAD
-Charges: 4
 AC: 6
 STR: +5 INT: +8 HP: +40 MANA: +20
 SV FIRE: +10 SV COLD: +10
-Effect: Bonds of Force (Must Equip, Casting Time: Instant) at Level 45
+Effect: Bonds of Force (Must Equip, Casting Time: Instant, Cooldown: 180 seconds) at Level 45
 WT: 0.2 Size: SMALL
 Class: WIZ
 Race: ALL
@@ -2255,10 +2254,9 @@ Efreeti Statuette
 Solidate Mithril RingSolidate Mithril Ring
 MAGIC ITEM LORE ITEM NO DROP
 Slot: FINGER
-Charges: 3
 AC: 4
 STR: +5 INT: +5 AGI: +6 MANA: +50
-Effect: Steelskin (Must Equip, Casting Time: Instant) at Level 45
+Effect: Steelskin (Must Equip, Casting Time: Instant, Cooldown: 180 seconds) at Level 45
 WT: 0.1 Size: TINY
 Class: WIZ
 Race: ALL
@@ -2274,10 +2272,9 @@ Amethyst Amulet (7-SotS)
 Amulet of the VoidAmulet of the Void
 MAGIC ITEM LORE ITEM NO DROP
 Slot: NECK
-Charges: 1
 AC: 4
 DEX: +5 CHA: +5 INT: +5 AGI: +5 MANA: +50
-Effect: Alter Plane: Sky (Any Slot/Can Equip, Casting Time: Instant) at Level 45
+Effect: Alter Plane: Sky (Any Slot/Can Equip, Casting Time: Instant, Cooldown: 120 seconds) at Level 45
 WT: 0.1 Size: TINY
 Class: WIZ
 Race: ALL
@@ -3414,17 +3411,16 @@ AC: 2 STR: +3 STA: +3 WT: 0.1 Size: MEDIUM Class: WIZ Race: ALL |
 Amulet of the VoidAmulet of the Void
 MAGIC ITEM LORE ITEM NO DROP
 Slot: NECK
-Charges: 1
 AC: 4
 DEX: +5 CHA: +5 INT: +5 AGI: +5 MANA: +50
-Effect: Alter Plane: Sky (Any Slot/Can Equip, Casting Time: Instant) at Level 45
+Effect: Alter Plane: Sky (Any Slot/Can Equip, Casting Time: Instant, Cooldown: 120 seconds) at Level 45
 WT: 0.1 Size: TINY
 Class: WIZ
 Race: ALL
 |
 None? |
 Neck |
-Charges: 1 AC: 4 DEX: +5 CHA: +5 INT: +5 AGI: +5 MANA: +50 Effect: Alter Plane: Sky (Casting Time: Instant) at Level 45 WT: 0.1 Size: TINY Class: WIZ Race: ALL |
+AC: 4 DEX: +5 CHA: +5 INT: +5 AGI: +5 MANA: +50 Effect: Alter Plane: Sky (Casting Time: Instant, Cooldown: 120 seconds) at Level 45 WT: 0.1 Size: TINY Class: WIZ Race: ALL |
 Animal FigurineAnimal Figurine
 LORE ITEM NO DROP
 WT: 0.1 Size: TINY

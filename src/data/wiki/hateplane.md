@@ -1,5 +1,5 @@
 # Plane_of_Hate (eqlwiki.com)
-fetched: 2026-08-18
+fetched: 2026-08-19
 
 Plane of Hate - EverQuest Legends Wiki
 Jump to content
@@ -73,15 +73,22 @@ Armor drops, condensed table
 3.2
 Common Mobs
 3.3
-Minibosses and Bosses
+Minibosses
 4
 Alternate Maps
 5
 What's in this zone?
+6
+Raid Instance
+Toggle Raid Instance subsection
+6.1
+Raid Map
+6.2
+Solo vs. Multiplayer
 Plane of Hate
 From EverQuest Legends Wiki
-Map of the Plane of Hate, first floor
-Map of the Plane of Hate, second floor
+Map of the Plane of Hate, First Floor
+Map of the Plane of Hate, Second Floor
 The Plane of Hate is home to Innoruuk and his numerous minions. The plane opened back in 1999 after the famous in game event - The Battle of Kithicor Forest between the armies of Lanys T'Vyl and Firiona Vie. The terrible battle both cursed Kithicor forever and opened the Plane of Hate to mortals permanently.
 Innoruuk does not care for trespassers into his realm. All those entering, even his followers, are met with vicious resistance.
 |
@@ -111,12 +118,16 @@ ZEM Value:
 |
 |
 Map Locations
-1. Port In Location
-2-19. Various buildings.
-20. The Church
-21-28. Various buildings.
-29. The Organ Hall with Maestro of Rancor. This building has a second floor.
-30. Spiral staircase to the second level. The Fountain is immediately to the east.
+1. Lord of Ire location
+2. Lord of Loathing location
+3. Coercer T`vala location (2nd floor of building)
+4. High Priest M`kari location (2nd floor of building)
+5. Ashenbone Broodmaster location
+6. Magi P`Tasa location
+7. Avatar of Abhorrence location
+8. Master of Spite location
+9. Grandmaster R`Tal location
+10. Mistress of Scorn location
 Getting In and Out
 The Plane of Hate can either be reached via the wizard spell Alter Plane: Hate, which requires the reagent Fuligan Soulstone of Innoruuk, or by a one-way portal in the Oasis of Marr. The stone is sold by Wizard spell supply vendors in various locations and costs 62.5pp. The zone in in the Oasis of Marr is done by interacting with the black sword at the top of the tower for the public instance, or the voidling for the raid instance. Any character below level 46 will not be able to enter the Plane of Hate. Many monsters will see through invisibility and Invisibility versus Undead.
 There are no conventional zone exits; players must Gate, Origin, use a wizard or druid portal, or use other means to exit the zone.
@@ -452,7 +463,7 @@ WT: 7.5 Size: MEDIUM
 Class: SHM
 Race: ALL
 |
-Minibosses and Bosses
+Minibosses
 Mob Name |
 Creature Type |
 Class |
@@ -529,20 +540,6 @@ Warrior |
 Strong Disease, See Invis |
 Miniboss scorn banshee |
 Various, Imbrued Platemail Armor
-|
-Maestro of Rancor |
-Vampire |
-Bard |
-Maestro Lifetap, See Invis |
-Raid Boss |
-Various
-|
-Innoruuk |
-Diety |
-Wizard |
-Pillage Enchantment, Lifetap, Knockback |
-Raid Boss |
-Various
 |
 Alternate Maps
 What's in this zone?
@@ -1037,7 +1034,7 @@ Lord of Ire
 Ghoul |
 Shadow Knight |
 55 |
-34% @ (502, -598)Level 2 |
+-352, -165 1st floor |
 Various |
 A bigger, meaner ire ghast.
 Lore
@@ -1380,9 +1377,9 @@ DMG: 18
 STR: +10
 WT: 3.0 Size: MEDIUM
 Class: SHD
-Race: ALL
+Race: ALLFocus Effect: Improved Vampirism III
 |
-Innoruuk (God), Lord of Ire |
+Lord of Ire |
 1H Slashing |
 Atk Delay: 28 DMG: 18 STR: +10 WT: 3.0 Size: MEDIUM Class: SHD Race: ALL |
 Boots of the RighteousBoots of the Righteous
@@ -2834,7 +2831,7 @@ WT: 7.3 Size: MEDIUM
 Class: PAL
 Race: ALL
 |
-an eerie chest, Maestro of Rancor |
+an eerie chest, Lord of Ire, Maestro of Rancor |
 Secondary |
 AC: 35 STR: +20 STA: +20 Effect: Ultravision (Worn) WT: 7.3 Size: MEDIUM Class: PAL Race: ALL |
 Shiverback-hide BootsShiverback-hide Boots
@@ -3388,14 +3385,230 @@ Race: ALL
 a Disciple of Innoruuk |
 Wrist |
 AC: 8 WIS: +8 MANA: +15 SV FIRE: +2 Effect: Drones of Doom (Must Equip, Casting Time: 7.5) at Level 46 WT: 1.0 Size: SMALL Class: DRU Race: ALL |
-Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Hate&oldid=162959"
+Raid Instance
+Plane of Hate (Raid) is a Raid Encounter in EverQuest Legends that includes the Raid Bosses Maestro of Rancor and Innoruuk. Entrance to the raid is by hailing a voidling in the Oasis of Marr zone.
+|
+Level of Monsters:
+|
+49 - 55
+|
+Types of Monsters:
+|
+a haunted chest, , a Knight of Innoruuk, a loathing lich, a scorn banshee, a spite golem, Cleric of Innoruuk, An Evangelist of Hate, a forsaken revenant, Innoruuk's Chosen
+|
+Mini Boss NPCs
+|
+Ashenbone Broodmaster, Avatar of Abhorrence, Coercer T`vala, Grandmaster R`Tal, High Priest M`kari, Lord of Ire, Lord of Loathing, Magi P`Tasa, Master of Spite, Mistress of Scorn
+|
+Raid Boss NPCs:
+|
+Maestro of Rancor, Innoruuk
+|
+Maestro of Rancor Drops
+|
+EvensongEvensong
+MAGIC ITEM LORE ITEM NO DROP
+Slot: RANGE PRIMARY SECONDARY
+Skill: 1H Blunt Atk Delay: 25
+DMG: 11
+WT: 3.0 Range: 50 Size: MEDIUM
+Class: BRD
+Race: ALL
+, Hand of the MaestroHand of the Maestro
+MAGIC ITEM LORE ITEM NO DROP
+Slot: PRIMARY SECONDARY
+AC: 5
+INT: +5 HP: +20 MANA: +30
+WT: 0.0 Size: TINY
+Class: MAG ENC
+Race: ALL
+, Kelin`s Seven Stringed LuteKelin`s Seven Stringed Lute
+MAGIC ITEM LORE ITEM NO DROP
+Slot: SECONDARY
+String Resonance: 14
+DEX: +9 CHA: +15 AGI: +9
+WT: 0.6 Size: SMALL
+Class: BRD
+Race: ALL
+, Mempo of LikatoMempo of Likato
+MAGIC ITEM LORE ITEM NO DROP
+Slot: FACE
+AC: 6
+Effect: Ultravision (Worn)
+WT: 0.1 Size: SMALL
+Class: MNK
+Race: ALL
+, Shield of the Stalwart SeasShield of the Stalwart Seas
+MAGIC ITEM LORE ITEM
+Slot: SECONDARY
+AC: 35
+STR: +20 STA: +20
+Effect: Ultravision (Worn)
+WT: 7.3 Size: MEDIUM
+Class: PAL
+Race: ALL
+, Six Note BladeSix Note Blade
+MAGIC ITEM LORE ITEM NO DROP
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing Atk Delay: 25
+DMG: 11
+WT: 3.0 Size: MEDIUM
+Class: BRD
+Race: ALL
+|
+Innoruuk Drops
+|
+Bloodstar PendantBloodstar Pendant
+MAGIC ITEM LORE ITEM NO DROP
+Slot: NECK
+AC: 5
+STR: +9 CHA: +9 WIS: +9 INT: +9
+SV FIRE: +5 SV DISEASE: +5 SV COLD: +5 SV MAGIC: +5 SV POISON: +5
+WT: 0.1 Size: TINY
+Class: ALL except SHM
+Race: ALL
+, Brewer's Mesh CloakBrewer's Mesh Cloak
+MAGIC ITEM LORE ITEM NO DROP
+Slot: BACK
+AC: 13
+STR: +12 WIS: +12 HP: +50 MANA: +50
+WT: 1.0 Size: SMALL
+Class: WAR CLR PAL ROG
+Race: ALL
+, Cloak of ScalesCloak of Scales
+MAGIC ITEM LORE ITEM NO DROP
+Slot: BACK
+AC: 15
+STR: +10 WIS: +10 INT: +10 HP: +50 MANA: +50
+WT: 1.0 Size: SMALL
+Class: WAR SHD SHM MNK NEC
+Race: ALL
+, Darkbrood MaskDarkbrood Mask
+MAGIC ITEM LORE ITEM NO DROP
+Slot: FACE
+AC: 7
+STR: +5 CHA: +5 WIS: +5 INT: +5 AGI: +5 MANA: +50
+SV FIRE: +5 SV DISEASE: +5 SV COLD: +5 SV POISON: +5
+WT: 1.0 Size: SMALL
+Class: WAR CLR SHD ROG NEC WIZ MAG ENC
+Race: ALL
+, Earring of BashingEarring of Bashing
+MAGIC ITEM LORE ITEM NO DROP
+Slot: EAR
+AC: 5
+STR: +8 WIS: +8
+SV FIRE: +5 SV DISEASE: +5 SV COLD: +5 SV MAGIC: +5 SV POISON: +5
+WT: 0.1 Size: TINY
+Class: WAR SHD SHM
+Race: ALL
+, Engineer's RingEngineer's Ring
+MAGIC ITEM LORE ITEM NO DROP
+Slot: FINGER
+AC: 20
+STR: +5 DEX: +5 STA: +5 CHA: +5 WIS: +5 INT: +5 AGI: +5 HP: +5 MANA: +20 END: +20
+WT: 0.1 Size: TINY
+Class: WAR CLR PAL SHD ROG NEC WIZ MAG ENC
+Race: ALL
+, Eye of InnoruukEye of Innoruuk
+MAGIC ITEM LORE ITEM
+Slot: PRIMARY SECONDARY
+AC: 5
+INT: +5 MANA: +55
+SV MAGIC: +10
+Effect: Chill Sight (Any Slot/Can Equip, Casting Time: Instant)
+WT: 1.5 Size: SMALL
+Class: WIZ
+Race: ALL
+, Hotof's BracerHotof's Bracer
+MAGIC ITEM LORE ITEM NO DROP
+Slot: WRIST
+AC: 10
+STR: +10 CHA: +10 WIS: +10
+SV FIRE: +15 SV COLD: +15
+WT: 1.0 Size: SMALL
+Class: WAR RNG DRU BRD ROG
+Race: ALL
+, IcebeltIcebelt
+MAGIC ITEM LORE ITEM NO DROP
+Slot: WAIST
+AC: 10
+STR: +10 DEX: +10 WIS: +10 AGI: +10
+SV FIRE: +5 SV DISEASE: +5 SV COLD: +5 SV MAGIC: +5 SV POISON: +5
+WT: 2.0 Size: SMALL
+Class: WAR ROG SHM
+Race: ALL
+, Leatherfoot SandalsLeatherfoot Sandals
+MAGIC ITEM LORE ITEM NO DROP
+Slot: FEET
+AC: 11
+STR: +10 WIS: +10 AGI: +10 MANA: +30
+SV MAGIC: +20
+WT: 0.5 Size: SMALL
+Class: WAR CLR PAL RNG DRU ROG
+Race: ALL
+, Pauldrons of PowerPauldrons of Power
+MAGIC ITEM LORE ITEM NO DROP
+Slot: SHOULDERS
+AC: 10
+STR: +9 CHA: +9 WIS: +9 INT: +9 HP: +30 MANA: +30
+WT: 2.0 Size: SMALL
+Class: CLR PAL SHD NEC WIZ MAG ENC
+Race: ALL
+, Ring of PurebloodRing of Pureblood
+MAGIC ITEM LORE ITEM NO DROP
+Slot: FINGER
+AC: 3
+STR: +5 CHA: +5 WIS: +5 INT: +5 HP: +30 MANA: +30
+WT: 0.1 Size: TINY
+Class: CLR PAL WIZ MAG ENC
+Race: ALL
+, Shattered Emerald of CorruptionShattered Emerald of Corruption
+MAGIC ITEM LORE ITEM NO DROP
+WT: 0.1 Size: TINY
+Class: ALL
+Race: ALL
+, Skinner's BeltSkinner's Belt
+MAGIC ITEM LORE ITEM NO DROP
+Slot: WAIST
+AC: 12
+STR: +15 WIS: +15 HP: +20 MANA: +20
+SV DISEASE: +20 SV POISON: +20
+WT: 1.0 Size: SMALL
+Class: WAR SHD SHM
+Race: ALL
+, Triumphant MaskTriumphant Mask
+MAGIC ITEM LORE ITEM NO DROP
+Slot: FACE
+AC: 10
+STR: +7 CHA: +7 WIS: +7 AGI: +7
+SV MAGIC: +20
+WT: 0.5 Size: SMALL
+Class: WAR PAL RNG DRU BRD ROG
+Race: ALL
+|
+|
+Raid Map
+Plane of Hate Raid Floor 1
+1. Ashenbone Broodmaster, Avatar of Abhorrence, Master of Spite or Mistress of Scorn
+2. Coercer T`vala or Magi P`Tasa
+|
+Plane of Hate Raid Floor 2
+3. Grandmaster R`Tal, High Priest M`kari
+4. Maestro of Rancor
+5. Lord of Ire or Lord of Loathing
+6. Innoruuk
+|
+Solo vs. Multiplayer
+When creating the raid instance, players can choose between solo and multiplayer instances. These instances share lockouts, so players cannot do both in the same week and receive full loot.
+There is no difference between solo and multiplayer as far as trash mobs or mobs locations in Plane of Hate.
+Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Hate&oldid=170583"
 Categories: Classic Era
 Zones
 Plane of Hate
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 27 July 2026, at 20:20.
+This page was last edited on 18 August 2026, at 15:47.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers
