@@ -27,9 +27,25 @@
   #cv { position: absolute; inset: 0; cursor: grab; }
   #hint { position: absolute; top: 40%; width: 100%; text-align: center; color: #8d8065; font-size: 18px; pointer-events: none; }
   #status { position: absolute; bottom: 0; left: 0; right: 0; padding: 3px 10px; background: rgba(20,17,13,.8); color: #b7a985; font-size: 12px; }
+  #cv { touch-action: none; }
+  #fitBtn { position: absolute; bottom: 26px; right: 10px; z-index: 15; background: rgba(36,31,26,.9); color: #d8c9a5; border: 1px solid #10100c; width: 40px; height: 40px; border-radius: 6px; font-size: 18px; cursor: pointer; }
+  #menuBtn { display: none; }
+  #scrim { display: none; position: fixed; inset: 0; background: rgba(0,0,0,.45); z-index: 24; }
+  @media (max-width: 760px) {
+    #menuBtn { display: flex; align-items: center; justify-content: center; position: fixed; top: 8px; left: 8px; z-index: 30; background: #241f1a; color: #d8c9a5; border: 1px solid #10100c; font-size: 20px; width: 42px; height: 42px; border-radius: 6px; cursor: pointer; }
+    #side { position: fixed; top: 0; left: 0; bottom: 0; z-index: 25; width: 80vw; max-width: 300px; transform: translateX(-100%); transition: transform .22s ease; box-shadow: 2px 0 14px rgba(0,0,0,.55); }
+    body.drawer-open #side { transform: translateX(0); }
+    body.drawer-open #scrim { display: block; }
+    #side header { padding-top: 54px; }
+    #zones li { padding: 9px 14px; }
+    #layers label { display: inline-block; margin: 5px 10px 5px 0; }
+    #coords { left: auto; right: 8px; }
+  }
 </style>
 </head>
 <body>
+<button id="menuBtn" aria-label="Menu">&#9776;</button>
+<div id="scrim"></div>
 <div id="side">
   <header>
     <h1>Emoda Maps</h1>
@@ -65,6 +81,7 @@
   <canvas id="cv"></canvas>
   <div id="hint">Loading the atlas&hellip;</div>
   <div id="coords" style="position:absolute; top:6px; left:8px; padding:3px 8px; background:rgba(20,17,13,.8); color:#d8c9a5; font-size:12px; border-radius:3px; display:none; pointer-events:none; font-family:monospace;"></div>
+  <button id="fitBtn" title="Fit to view">&#10530;</button>
   <div id="status"></div>
 </div>
 <script>
@@ -180,6 +197,7 @@ function activeLayers() {
 async function select(z) {
   if (building) { building = false; cancelAnimationFrame(buildRAF); document.getElementById("buildBtn").innerHTML = "&#9654; Build Map"; }
   current = z;
+  document.body.classList.remove("drawer-open");
   hintEl.style.display = "none";
   buildList();
   status("loading " + z + "…");
@@ -223,8 +241,10 @@ async function fit() {
     }
   }
   if (minx > maxx) return draw();
-  const pad = 30;
-  view.k = Math.min((cv.width - 2 * pad) / (maxx - minx || 1), (cv.height - 2 * pad) / (maxy - miny || 1));
+  const pad = Math.min(30, cv.width * 0.08, cv.height * 0.08);
+  const availW = Math.max(10, cv.width - 2 * pad), availH = Math.max(10, cv.height - 2 * pad);
+  view.k = Math.min(availW / (maxx - minx || 1), availH / (maxy - miny || 1));
+  if (!(view.k > 0) || !isFinite(view.k)) view.k = 1;
   view.x = (cv.width - (maxx + minx) * view.k) / 2;
   view.y = (cv.height - (maxy + miny) * view.k) / 2;
   draw();
@@ -236,8 +256,9 @@ async function draw() {
   ctx.fillRect(0, 0, cv.width, cv.height);
   if (!current) return;
   const layers = await parseZone(current);
+  const k = Math.max(view.k, 1e-4);
   ctx.setTransform(view.k, 0, 0, view.k, view.x, view.y);
-  ctx.lineWidth = 1 / view.k;
+  ctx.lineWidth = 1 / k;
   const showLbl = document.getElementById("lbl").checked;
   let idx = 0;
   const revealZ = zLoCur + (zHiCur - zLoCur) * buildP;
@@ -256,8 +277,8 @@ async function draw() {
       ctx.moveTo(x1, y1); ctx.lineTo(x2, y2);
     }
     if (last !== null) ctx.stroke();
-    const r = 3 / view.k;
-    ctx.font = `${12 / view.k}px Georgia`;
+    const r = 3 / k;
+    ctx.font = `${12 / k}px Georgia`;
     for (const [x, y, c, label, z] of L.points) {
       if (!pass(z)) continue;
       ctx.fillStyle = c;
@@ -277,10 +298,55 @@ function resize() {
 }
 window.onresize = resize;
 
-let dragging = null;
-cv.onmousedown = e => { dragging = { x: e.clientX - view.x, y: e.clientY - view.y }; cv.style.cursor = "grabbing"; };
-window.onmousemove = e => { if (dragging) { view.x = e.clientX - dragging.x; view.y = e.clientY - dragging.y; draw(); } };
-window.onmouseup = () => { dragging = null; cv.style.cursor = "grab"; };
+const coordsEl = document.getElementById("coords");
+function showCoords(clientX, clientY) {
+  const rect = cv.getBoundingClientRect();
+  const wx = (clientX - rect.left - view.x) / view.k;
+  const wy = (clientY - rect.top - view.y) / view.k;
+  // game /loc is the inverse of the native transform: native = (-b, -a)
+  coordsEl.style.display = "";
+  coordsEl.textContent = `/loc ${(-wy).toFixed(1)}, ${(-wx).toFixed(1)}   ·   xy ${wx.toFixed(1)}, ${wy.toFixed(1)}`;
+}
+
+// Unified mouse + touch input: one pointer pans, two pinch-zoom.
+const pointers = new Map();
+let lastPan = null, lastPinch = 0;
+const pinchDist = () => { const [a, b] = [...pointers.values()]; return Math.hypot(a.x - b.x, a.y - b.y); };
+const pinchMid = () => { const [a, b] = [...pointers.values()]; return { x: (a.x + b.x) / 2, y: (a.y + b.y) / 2 }; };
+
+cv.addEventListener("pointerdown", e => {
+  try { cv.setPointerCapture(e.pointerId); } catch (_) {}
+  pointers.set(e.pointerId, { x: e.clientX, y: e.clientY });
+  if (pointers.size === 1) { lastPan = { x: e.clientX, y: e.clientY }; cv.style.cursor = "grabbing"; }
+  else if (pointers.size === 2) { lastPinch = pinchDist(); lastPan = null; }
+});
+cv.addEventListener("pointermove", e => {
+  if (pointers.has(e.pointerId)) pointers.set(e.pointerId, { x: e.clientX, y: e.clientY });
+  if (e.pointerType === "mouse" && pointers.size === 0) { showCoords(e.clientX, e.clientY); return; }
+  if (pointers.size === 1 && lastPan) {
+    view.x += e.clientX - lastPan.x; view.y += e.clientY - lastPan.y;
+    lastPan = { x: e.clientX, y: e.clientY };
+    showCoords(e.clientX, e.clientY); draw();
+  } else if (pointers.size >= 2) {
+    const d = pinchDist();
+    if (lastPinch > 0) {
+      const f = d / lastPinch, m = pinchMid(), rect = cv.getBoundingClientRect();
+      const mx = m.x - rect.left, my = m.y - rect.top;
+      view.x = mx - (mx - view.x) * f; view.y = my - (my - view.y) * f; view.k *= f;
+      draw();
+    }
+    lastPinch = d;
+  }
+});
+function endPointer(e) {
+  pointers.delete(e.pointerId);
+  cv.style.cursor = "grab";
+  if (pointers.size === 1) { const p = [...pointers.values()][0]; lastPan = { x: p.x, y: p.y }; lastPinch = 0; }
+  else if (pointers.size === 0) { lastPan = null; lastPinch = 0; }
+}
+cv.addEventListener("pointerup", endPointer);
+cv.addEventListener("pointercancel", endPointer);
+cv.addEventListener("pointerleave", e => { if (e.pointerType === "mouse") coordsEl.style.display = "none"; });
 cv.ondblclick = fit;
 cv.onwheel = e => {
   e.preventDefault();
@@ -290,16 +356,12 @@ cv.onwheel = e => {
   view.k *= f;
   draw();
 };
-const coordsEl = document.getElementById("coords");
-cv.addEventListener("mousemove", e => {
-  const rect = cv.getBoundingClientRect();
-  const wx = (e.clientX - rect.left - view.x) / view.k;
-  const wy = (e.clientY - rect.top - view.y) / view.k;
-  // game /loc is the inverse of the native transform: native = (-b, -a)
-  coordsEl.style.display = "";
-  coordsEl.textContent = `/loc ${(-wy).toFixed(1)}, ${(-wx).toFixed(1)}   ·   xy ${wx.toFixed(1)}, ${wy.toFixed(1)}`;
-});
-cv.addEventListener("mouseleave", () => { coordsEl.style.display = "none"; });
+
+// chrome: fit button + mobile drawer
+document.getElementById("fitBtn").onclick = fit;
+const menuBtn = document.getElementById("menuBtn"), scrim = document.getElementById("scrim");
+menuBtn.onclick = () => document.body.classList.toggle("drawer-open");
+scrim.onclick = () => document.body.classList.remove("drawer-open");
 
 document.querySelectorAll("#layers input[data-l], #lbl").forEach(c => c.onchange = draw);
 document.getElementById("zon").onchange = e => {
