@@ -24,12 +24,14 @@ from fix_title import content_bbox  # noqa: E402
 from layout import layout  # noqa: E402
 import build as B  # place, ring_slots, _fa, _fl, _tr  # noqa: E402
 import fauna as FA, flora as FL, terrain as TR  # noqa: E402
-import fauna_hd_gnoll, fauna_hd_troll, fauna_hd_ogre, fauna_hd_zombie, fauna_hd_ghoul  # noqa: E402
+import fauna_hd_gnoll, fauna_hd_troll, fauna_hd_zombie, fauna_hd_ghoul  # noqa: E402
+import fauna_hd_kobold, fauna_hd_darkelf, fauna_hd_iksar  # noqa: E402
 
 # detailed HD figures where they exist (feet at cx,cy; s = height; take face+seed)
 HD_FIG = {
     "gnoll": fauna_hd_gnoll.gnoll, "troll": fauna_hd_troll.troll,
-    "zombie": fauna_hd_zombie.zombie,
+    "kobold": fauna_hd_kobold.kobold, "dark_elf": fauna_hd_darkelf.dark_elf,
+    "iksar": fauna_hd_iksar.iksar, "zombie": fauna_hd_zombie.zombie,
     "skeleton": fauna_hd_zombie.zombie, "ghoul": fauna_hd_ghoul.ghoul,
 }
 
