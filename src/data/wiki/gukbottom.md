@@ -1,5 +1,5 @@
 # Lower_Guk (eqlwiki.com)
-fetched: 2026-08-18
+fetched: 2026-08-19
 
 Lower Guk - EverQuest Legends Wiki
 Jump to content
@@ -1474,7 +1474,7 @@ A ghoul cavalier
 Old Froglok Ghoul |
 Shadow Knight |
 36 |
-75% @ (578, -609) |
+75% @ (578, -609, -192) |
 Adamantite EpauletsAdamantite Epaulets
 MAGIC ITEM
 Slot: SHOULDERS
