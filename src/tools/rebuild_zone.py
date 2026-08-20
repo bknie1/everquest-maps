@@ -140,6 +140,11 @@ THEMES = {
     "castle_gothic": dict(
         title_ink=(96, 84, 112), frame_ink=(108, 94, 122), compass_ink=(92, 80, 108),
         tree=FH.dead_tree, tree_ink=(86, 80, 94), n_top=5, n_bot=6, n_side=4),
+    # Plain cave/dungeon: base IS the layout; just frame + grid + title + corner
+    # compass on a bare margin (no biome fill, no trees). For runnyeye et al.
+    "dungeon_plain": dict(
+        title_ink=(92, 80, 66), frame_ink=(112, 96, 78), compass_ink=(88, 76, 62),
+        grid_ink=(152, 142, 120)),
     # Faydwer forest: canopy already lives in the base, so NO interior fill --
     # just a clean frame/title/corner-compass and a dense broadleaf tree border.
     "faydark": dict(
@@ -156,14 +161,27 @@ def build(zone, name, theme, probe=False):
     band = LO["title_band"]
     out = []
 
+    S = LO["S"]
+    bg = []          # background: frame, grid, interior, margins (knocked out under title/compass)
+
     # frame
-    out += jag_rect(LO["frame"], theme["frame_ink"], LO["S"] * 0.010, LO["S"] * 0.018)
+    bg += jag_rect(LO["frame"], theme["frame_ink"], S * 0.010, S * 0.018)
+
+    # grid over the content (a standard cartographic motif -- never drop it)
+    if theme.get("grid", True):
+        gink = theme.get("grid_ink", (150, 142, 122))
+        n = theme.get("grid_n", 8)
+        for i in range(1, n):
+            x = gx0 + (gx1 - gx0) * i / n
+            bg.append(L(x, gy0, x, gy1, gink))
+        for j in range(1, n):
+            y = gy0 + (gy1 - gy0) * j / n
+            bg.append(L(gx0, y, gx1, y, gink))
 
     # compass -- bottom-right margin corner
-    r = LO["S"] * 0.036
+    r = S * 0.036
     ccx = (gx1 + mx1) / 2
     ccy = (gy1 + my1) / 2
-    out += rose(ccx, ccy, r, theme["compass_ink"])
     reserved = [(ccx, ccy, r * 2.4)]
 
     # interior biome fill, bounded by the CONTENT box (never the margin)
@@ -173,28 +191,50 @@ def build(zone, name, theme, probe=False):
     if theme.get("interior") == "grass":
         rocky_cut = CY0 + (CY1 - CY0) * theme.get("rocky_top_frac", 0.0)
         if theme.get("rocky_top_frac"):
-            out += [L(*s[:4], s[4]) for s in TR.rock_band(
+            bg += [L(*s[:4], s[4]) for s in TR.rock_band(
                 lambda x, y: inside(x, y) and y < rocky_cut,
                 CX0, CY0, CX1, rocky_cut, step=theme.get("rock_step", 46.0), seed=3)]
-        out += [L(*s[:4], s[4]) for s in TR.grass_field(
+        bg += [L(*s[:4], s[4]) for s in TR.grass_field(
             lambda x, y: inside(x, y) and y >= rocky_cut,
             CX0, rocky_cut, CX1, CY1, step=theme.get("grass_step", 48.0),
             ink=tuple(theme["grass_ink"]) if isinstance(theme["grass_ink"], list) else theme["grass_ink"],
             seed=7, density=theme.get("grass_density", 0.6))]
 
-    # title (drawn last so it sits on top)
-    out += title(name, band, theme["title_ink"])
+    # margin decoration (skip for bare-margin themes)
+    if theme.get("tree"):
+        bg += margin_trees(LO, theme, reserved)
 
-    # margin decoration
-    out += margin_trees(LO, theme, reserved)
+    # foreground: title + compass
+    tstrokes = title(name, band, theme["title_ink"])
+    cstrokes = rose(ccx, ccy, r, theme["compass_ink"])
+
+    # knockout: clear a soft halo behind title + compass so they read cleanly
+    def _mid(l):
+        f = l[2:].split(","); return (float(f[0]) + float(f[3])) / 2, (float(f[1]) + float(f[4])) / 2
+    def _bbox(strokes):
+        xs = []; ys = []
+        for l in strokes:
+            f = l[2:].split(","); xs += [float(f[0]), float(f[3])]; ys += [float(f[1]), float(f[4])]
+        return min(xs), max(xs), min(ys), max(ys)
+    tx0, tx1, ty0, ty1 = _bbox(tstrokes); pad = (ty1 - ty0) * 0.5
+    cr = r * 1.4
+    kept = []
+    for l in bg:
+        mx, my = _mid(l)
+        if tx0 - pad < mx < tx1 + pad and ty0 - pad < my < ty1 + pad:
+            continue
+        if (mx - ccx) ** 2 + (my - ccy) ** 2 < cr * cr:
+            continue
+        kept.append(l)
+    out += kept + tstrokes + cstrokes
 
     if probe:
         print(f"{zone}: would write {len(out)} strokes to _2 "
-              f"(content {CX1-CX0:.0f}x{CY1-CY0:.0f}, S={LO['S']:.0f})")
+              f"(content {CX1-CX0:.0f}x{CY1-CY0:.0f}, S={S:.0f})")
         return
     path = os.path.join(MAPS, zone + "_2.txt")
     open(path, "w", newline="", encoding="utf-8").write(CRLF.join(out) + CRLF)
-    print(f"{zone}: rebuilt _2 with {len(out)} strokes (frame+title+compass+biome)")
+    print(f"{zone}: rebuilt _2 with {len(out)} strokes (frame+grid+title+compass+biome, knockout)")
 
 
 def main():
