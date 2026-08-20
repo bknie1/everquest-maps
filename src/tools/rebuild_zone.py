@@ -140,6 +140,11 @@ THEMES = {
     "castle_gothic": dict(
         title_ink=(96, 84, 112), frame_ink=(108, 94, 122), compass_ink=(92, 80, 108),
         tree=FH.dead_tree, tree_ink=(86, 80, 94), n_top=5, n_bot=6, n_side=4),
+    # Faydwer forest: canopy already lives in the base, so NO interior fill --
+    # just a clean frame/title/corner-compass and a dense broadleaf tree border.
+    "faydark": dict(
+        title_ink=(74, 96, 60), frame_ink=(96, 116, 76), compass_ink=(66, 86, 56),
+        tree=FH.broadleaf, tree_ink=(56, 84, 54), n_top=8, n_bot=9, n_side=6),
 }
 
 
