@@ -10,9 +10,13 @@ Tiers: **A** ship as-is · **B** minor fix · **C** needs a real pass · **D** r
 
 ## The two dominant, mechanical issues (fix these first — biggest lift)
 - **compass-fix (~21):** broken/loose/arrow-only compass → rebuild as a rose.
-  `fix_compass.py`. Zones: befallen, butcher, commons, crushbone, felwithea,
-  felwitheb, gukbottom, guktop, highkeep, kaladima, kaladimb, kedge, lfaydark,
-  mistmoore, najena, rathemtn, soldunga, soldungb, soldungc, steamfont, warrens
+  `fix_compass.py` (auto-detects N/E/S/W letters OR an arrow glyph cluster).
+  - DONE (13): butcher, commons, kedge, steamfont, crushbone, gukbottom, guktop,
+    highkeep, mistmoore, soldunga, soldungb, soldungc, warrens
+  - residual stray arrow to clean in their full pass: crushbone, soldungb
+  - TODO: najena (bare "+", pass --center), lfaydark + rathemtn (compass is
+    INSIDE content — relocate to a margin), felwithe a/b + kaladim a/b (do in
+    their city passes, low --clear-frac to spare dense margins)
 - **artifact-cleanup (~19):** stray title carets/arrows/ghosts/rules → delete.
   Zones: akanon, beholder, befallen, cauldron, cazicthule, eastkarana, erudnext,
   erudsxing, feerrott, innothule, lavastorm, nektulos, qcat, qey2hh1, qeynos2,
