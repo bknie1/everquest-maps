@@ -1,5 +1,5 @@
 # Qeynos (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-20
 
 Qeynos - EverQuest Legends Wiki
 Jump to content
@@ -3165,7 +3165,7 @@ Merchant |
 47 |
 (88, 343) |
 |
-Will sell "Crows Special Brew" only in limited supply (restock on death or server restart). Raz the Rat Misk gives a... |
+Will sell "Crows Special Brew" (note it is not limited in Legends, unlike some other versions of the game). [[Raz the Ra... |
 Danloc Starn
 |
 Human |

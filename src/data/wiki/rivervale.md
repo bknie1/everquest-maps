@@ -1,5 +1,5 @@
 # Rivervale (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-20
 
 Rivervale - EverQuest Legends Wiki
 Jump to content
@@ -508,7 +508,7 @@ Marshal Ghobber |
 All |
 None |
 Hendi Mrubble |
-NPCs - Found 105 NPCs that spawn in Rivervale:
+NPCs - Found 106 NPCs that spawn in Rivervale:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Shady Halfling
 |
@@ -669,6 +669,14 @@ Merchant |
 (-206, -416) |
 |
 Description needed. |
+Bodbin Gimple
+|
+Halfling |
+Merchant |
+50 |
+(-80, -370) |
+|
+|
 Bouncer Bigboot
 |
 Halfling |

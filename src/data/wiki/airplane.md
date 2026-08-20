@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-08-19
+fetched: 2026-08-20
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -1036,9 +1036,9 @@ WT: 0.5 Size: MEDIUM
 Class: ENC
 Race: ALL
 |
-Enchanter Test of Disillusion
+Enchanter Test of Dislocation
 |
-disillusion
+dislocation
 |
 Wind Rune Caza
 |
@@ -1047,10 +1047,9 @@ Adamantium Earring (6-BZ)
 Earring of DisplacementEarring of Displacement
 MAGIC ITEM LORE ITEM NO DROP
 Slot: EAR
-Charges: 2
 AC: 6
 CHA: +4 INT: +4 MANA: +25
-Effect: Gravity Flux (Must Equip, Casting Time: Instant) at Level 45
+Effect: Gravity Flux (Must Equip, Casting Time: Instant, Cooldown: 180 seconds) at Level 45
 WT: 0.1 Size: TINY
 Class: ENC
 Race: ALL
@@ -1769,8 +1768,8 @@ Fine Wool Cloak (6-BZ)
 Shimmering Bracer of ProtectionShimmering Bracer of Protection
 MAGIC ITEM LORE ITEM NO DROP
 Slot: WRIST
-AC: 9
-STR: +3 DEX: +3 WIS: +2
+AC: 10
+STR: +9 DEX: +3 WIS: +2
 SV FIRE: +8 SV DISEASE: +8 SV COLD: +8 SV MAGIC: +8 SV POISON: +8
 WT: 2.5 Size: MEDIUM
 Class: ROG
@@ -4402,7 +4401,7 @@ WT: 0.1 Size: SMALL
 Class: WAR PAL RNG SHD
 Race: ALL
 |
-Noble Dojorn, Overseer of Air |
+Noble Dojorn, Overseer of Air, The Hand of Veeshan |
 2H Slashing |
 Atk Delay: 45 DMG: 24 WT: 0.1 Size: SMALL Class: WAR PAL RNG SHD Race: ALL |
 Emerald Spiroc FeatherEmerald Spiroc Feather
@@ -6084,13 +6083,13 @@ Race: ALL
 Protector of Sky |
 (None) |
 LORE ITEM WT: 6.0 Size: MEDIUM Class: ALL Race: ALL |
-Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Sky&oldid=170331"
+Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Sky&oldid=170770"
 Categories: Sky Era
 Classic Era
 Zones
 How to Contribute
 Donate
-This page was last edited on 17 August 2026, at 09:39.
+This page was last edited on 19 August 2026, at 19:36.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

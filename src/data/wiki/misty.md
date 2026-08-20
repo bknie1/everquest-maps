@@ -1,5 +1,5 @@
 # Misty_Thicket (eqlwiki.com)
-fetched: 2026-08-16
+fetched: 2026-08-20
 
 Misty Thicket - EverQuest Legends Wiki
 Jump to content
@@ -233,7 +233,7 @@ Blixkin Entopop |
 ? |
 Southern Desert of Ro |
 Terrorantula |
-NPCs - Found 67 NPCs that spawn in Misty Thicket:
+NPCs - Found 74 NPCs that spawn in Misty Thicket:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Bixie
 |
@@ -643,6 +643,15 @@ Race: ALL
 WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
+, Rat WhiskersRat Whiskers
+QUEST ITEM
+WT: 0.1 Size: TINY
+Class: ALL
+Race: ALL
+, Rat EyeRat Eye
+Class: ALL
+Race: ALL
+WT: 0.2 Size: SMALL
 |
 A diseased rat.
 Lore
@@ -751,6 +760,39 @@ Race: ALL
 |
 Description needed.
 Note: These despawn at night, at 9pm I believe and more undead come out. |
+A giant wood spider
+|
+Spider |
+Warrior |
+7-10 |
+West side of the wall. |
+Spider SilkSpider Silk
+WT: 0.1 Size: SMALL
+Class: ALL
+Race: ALL
+(Common)
+|
+Wanders the west side of Misty Thicket. |
+A giant yellowjacket
+|
+Animal |
+Warrior |
+7-8 |
+West side of the map. |
+Giant Wasp EyeGiant Wasp Eye
+WT: 0.1 Size: SMALL
+Class: ALL
+Race: ALL
+Giant Wasp WingGiant Wasp Wing
+WT: 0.1 Size: SMALL
+Class: ALL
+Race: ALL
+Giant Wasp Venom SacGiant Wasp Venom Sac
+WT: 0.1 Size: SMALL
+Class: ALL
+Race: ALL
+Drops no coin. |
+Originally released in the Luclin era, this wasp inhabits the Misty Thicket. |
 A goblin alchemist (Misty Thicket)
 |
 Goblin |
@@ -767,6 +809,20 @@ Class: ALL
 Race: ALL
 |
 Sometimes spawns in Misty Thicket as a PH for Mooto, running between the goblin camps. Placeholder can be a gobl... |
+A halfling skeleton
+|
+Undead |
+Warrior |
+4-5 |
+East side of the wall. |
+Bone ChipsBone Chips
+WT: 0.1 Size: SMALL
+Class: ALL
+Race: ALL
+(Common)
+Rusty Weapons (Common)
+|
+Found on the far east and northeast parts of the map. Hangs out with the diseased rats and giant thicket rats. |
 A klaknak warrior
 |
 Beetle |
@@ -796,6 +852,14 @@ Class: ALL
 Race: ALL
 |
 Not aggressive. |
+A large fruit bat
+|
+Animal |
+Warrior |
+6 |
+East side of the wall. |
+None |
+Originally from the Luclin era, this bat wanders the east side of the zone. |
 A large thicket rat
 |
 Giant Rat |
@@ -822,6 +886,20 @@ Warrior |
 Various |
 Various |
 Commonly found around Toxxulia, these spiders are not aggressive but will social aggro with other spiders. |
+A large yellowjacket
+|
+Animal |
+Warrior |
+4-5 |
+Various |
+Large Yellowjacket Tarsus (Common)
+Giant Wasp EyeGiant Wasp Eye
+WT: 0.1 Size: SMALL
+Class: ALL
+Race: ALL
+(Common)
+Drops no coin. |
+Originally released during the Luclin era, this wasp inhabits the Misty Thicket. |
 A shadow wolf
 |
 Animal |
@@ -842,6 +920,26 @@ Class: ALL
 Race: ALL
 |
 These are found in various low-level zones and are a step up from decaying skeletons that haunt ... |
+A thorn drakeling
+|
+Monster |
+Warrior |
+3-5 |
+East side of the wall. |
+None |
+Inhabits the lower-level east area of Misty Thicket. |
+An orc lumberjack
+|
+Orc |
+Warrior |
+10 |
+West side of the wall. |
+Deathfist Slashed BeltDeathfist Slashed Belt
+WT: 1.3 Size: SMALL
+Class: ALL
+Race: ALL
+|
+This orc wanders around not too far from the center west side of the middle wall. |
 Bim Buskin
 |
 Rivervale Citizen |

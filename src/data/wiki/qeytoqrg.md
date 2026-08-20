@@ -1,5 +1,5 @@
 # Qeynos_Hills (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-20
 
 Qeynos Hills - EverQuest Legends Wiki
 Jump to content
@@ -846,7 +846,7 @@ Konem Matse
 Human |
 Quest NPC |
 28 |
-100% @ (1439, 327) |
+(1439, 327) OR (1103, -682) |
 Yellow HeadbandYellow Headband
 MAGIC ITEM LORE ITEM
 Slot: HEAD

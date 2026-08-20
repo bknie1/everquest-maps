@@ -1,5 +1,5 @@
 # Castle_Mistmoore (eqlwiki.com)
-fetched: 2026-08-19
+fetched: 2026-08-20
 
 Mistmoore Castle - EverQuest Legends Wiki
 Jump to content
@@ -386,8 +386,9 @@ Race: ALL
 Attuneable
 Slot: PRIMARY
 Skill: 1H Piercing
+Atk Delay: 31
 DMG: 9
-Atk Delay: 31 DMG Bonus: 15 Backstab DMG: 8
+BACKSTAB : 8
 WT: 2.5 Size: TINY
 Class: SHD NEC
 Race: ALLFocus Effect: Improved Vampirism II
@@ -527,8 +528,9 @@ and Wine ThiefWine Thief
 Attuneable
 Slot: PRIMARY
 Skill: 1H Piercing
+Atk Delay: 31
 DMG: 9
-Atk Delay: 31 DMG Bonus: 15 Backstab DMG: 8
+BACKSTAB : 8
 WT: 2.5 Size: TINY
 Class: SHD NEC
 Race: ALLFocus Effect: Improved Vampirism II
@@ -1014,8 +1016,9 @@ Blood Spirit, Blood Wine, Wine ThiefWine Thief
 Attuneable
 Slot: PRIMARY
 Skill: 1H Piercing
+Atk Delay: 31
 DMG: 9
-Atk Delay: 31 DMG Bonus: 15 Backstab DMG: 8
+BACKSTAB : 8
 WT: 2.5 Size: TINY
 Class: SHD NEC
 Race: ALLFocus Effect: Improved Vampirism II
@@ -2429,15 +2432,16 @@ Wine ThiefWine Thief
 Attuneable
 Slot: PRIMARY
 Skill: 1H Piercing
+Atk Delay: 31
 DMG: 9
-Atk Delay: 31 DMG Bonus: 15 Backstab DMG: 8
+BACKSTAB : 8
 WT: 2.5 Size: TINY
 Class: SHD NEC
 Race: ALLFocus Effect: Improved Vampirism II
 |
 a hemo enologist |
 Primary |
-Skill: 1H Piercing DMG: 9 Atk Delay: 31 DMG Bonus: 15 Backstab DMG: 8 WT: 2.5 Size: TINY Class: SHD NEC Race: ALL |
+Skill: 1H Piercing Atk Delay: 31 DMG: 9 BACKSTAB : 8 WT: 2.5 Size: TINY Class: SHD NEC Race: ALL |
 Retrieved from "https://eqlwiki.com/index.php?title=Mistmoore_Castle&oldid=170645"
 Categories: Classic Era
 Zones
