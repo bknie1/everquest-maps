@@ -27,6 +27,7 @@ sys.path.insert(0, os.path.join(HERE, "..", "kit"))
 
 from fix_title import content_bbox, word_segs, group_width  # noqa: E402
 from layout import layout  # noqa: E402
+from titles import find_title as _find_title, parse as _tparse  # noqa: E402
 import terrain as TR  # noqa: E402
 import flora_hd as FH  # noqa: E402
 
@@ -153,7 +154,20 @@ THEMES = {
 }
 
 
-def build(zone, name, theme, probe=False):
+def keep_old_title(zone, grid):
+    """Extract the existing title's L-strings from _2 (so a rebuild keeps the
+    exact lettering instead of re-typing a name that might be wrong)."""
+    p = os.path.join(MAPS, zone + "_2.txt")
+    raw = [l for l in open(p, encoding="utf-8").read().splitlines() if l.startswith("L")]
+    deco = [_tparse(l) for l in raw]
+    r = _find_title(deco, grid)
+    if not r:
+        return None
+    idx = set(r[0])
+    return [raw[i] for i in idx]
+
+
+def build(zone, name, theme, probe=False, keep_title=False):
     CX0, CX1, CY0, CY1 = content_bbox(zone)
     LO = layout((CX0, CX1, CY0, CY1))
     gx0, gx1, gy0, gy1 = LO["grid"]
@@ -205,7 +219,12 @@ def build(zone, name, theme, probe=False):
         bg += margin_trees(LO, theme, reserved)
 
     # foreground: title + compass
-    tstrokes = title(name, band, theme["title_ink"])
+    if keep_title:
+        tstrokes = keep_old_title(zone, LO["grid"])
+        if not tstrokes:
+            sys.exit(f"{zone}: --keep-title but no title detected; pass --name instead")
+    else:
+        tstrokes = title(name, band, theme["title_ink"])
     cstrokes = rose(ccx, ccy, r, theme["compass_ink"])
 
     # knockout: clear a soft halo behind title + compass so they read cleanly
@@ -241,12 +260,17 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("zone")
     ap.add_argument("--theme", required=True)
-    ap.add_argument("--name", required=True, help="title text to draw")
+    ap.add_argument("--name", help="title text to draw (omit with --keep-title)")
+    ap.add_argument("--keep-title", action="store_true",
+                    help="preserve the zone's existing title instead of drawing --name")
     ap.add_argument("--probe", action="store_true")
     args = ap.parse_args()
     if args.theme not in THEMES:
         sys.exit(f"unknown theme {args.theme}; have: {', '.join(THEMES)}")
-    build(args.zone, args.name.upper(), THEMES[args.theme], probe=args.probe)
+    if not args.keep_title and not args.name:
+        sys.exit("give --name or --keep-title")
+    build(args.zone, (args.name or "").upper(), THEMES[args.theme],
+          probe=args.probe, keep_title=args.keep_title)
 
 
 if __name__ == "__main__":
