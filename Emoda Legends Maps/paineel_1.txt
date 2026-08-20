@@ -1,7 +1,7 @@
 P 942.9023, -604.8320, -98.7701, 150, 0, 200, 3, to_The_Ruins_of_Old_Paineel_(Hole)
 P 881.2239, -729.6641, -37.8014, 150, 0, 200, 3, to_The_Warrens
-P -107.0792, -877.2638, -0.8014, 150, 0, 200, 3, to_Toxullia_Forest
-P -227.5702, -778.3869, -1.8418, 150, 0, 200, 3, to_The_Ruins_of_Old_Paineel_(Hole_-_jump)
+P -107.0792, -877.2638, 0.6260, 150, 0, 200, 3, to_Toxullia_Forest
+P -227.5702, -778.3869, -0.6784, 150, 0, 200, 3, to_The_Ruins_of_Old_Paineel_(Hole_-_jump)
 P -525.1819, -914.2513, -122.7388, 150, 0, 200, 3, portal_A
 P -541.1555, -958.7368, -80.7701, 150, 0, 200, 3, portal_A
 P -755.6918, -876.0317, -81.7701, 150, 0, 200, 3, portal_B
@@ -25,7 +25,7 @@ P 129.0000, -872.0000, 15.0000, 140, 35, 30, 3, Azzar_Habbib_(Dreadful_Hat)
 P -829.0000, -762.0000, -83.9700, 140, 35, 30, 2, Antus_Shelbra_(Cat_Courier/Fisherman)
 P -444.0000, -863.0000, -123.9400, 140, 35, 30, 2, Davorre_Bloodthorn_(Courier_Quests)
 P -685.0000, -1308.0000, -41.9700, 140, 35, 30, 3, Royal_Guards_Sheltuin/Lilkus_(Cold_Iron,_Molars)
-P 101.0000, -983.0000, 0.0000, 140, 35, 30, 2, Noclin_Saah_(The_Lost_Pet)
+P 101.0000, -983.0000, 0.6260, 140, 35, 30, 2, Noclin_Saah_(The_Lost_Pet)
 P -899.0000, -1136.0000, -28.0000, 140, 35, 30, 2, Ernax_the_Scholar_(Azraxs'_Legacy)
 P -535.0000, -1130.0000, -39.0000, 140, 35, 30, 2, Miadera_Shadowfyre_(Summon_Terror)
 P -519.0000, -1116.0000, -39.0000, 140, 35, 30, 2, Nivold_Predd_(Summon_Dread)

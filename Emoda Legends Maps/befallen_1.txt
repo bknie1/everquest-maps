@@ -1,5 +1,5 @@
 P 195.0000, 988.0000, -71.6562, 140, 35, 30, 3, Shadowknight_(Dark_Elf_Female)_(Key_Dropper)
-P -183.0000, 334.0000, 0.0000, 140, 35, 30, 3, Shadowknight_(Dark_Elf_Male)_(Key_Dropper)
+P -183.0000, 334.0000, -14.0000, 140, 35, 30, 3, Shadowknight_(Dark_Elf_Male)_(Key_Dropper)
 P 54.0000, 552.0000, -43.9688, 140, 35, 30, 3, Shadowknight_(Human)_(Key_Dropper)
 P -152.0000, 511.0000, -28.0000, 140, 35, 30, 3, Shadowknight_(Ogre)_(Key_Dropper)
 P 105.0000, 372.0000, -67.6562, 140, 35, 30, 3, Shadowknight_(Troll)_(Key_Dropper)

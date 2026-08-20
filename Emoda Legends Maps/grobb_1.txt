@@ -1,9 +1,9 @@
 P -49.6028, 109.7717, -1.0000, 150, 0, 200, 3, to_Innothule_Swamp
 P 0.0000, 100.0000, -1.0000, 160, 105, 0, 3, Succor
-P 162.0000, -308.0000, -1.0000, 30, 80, 95, 3, Warrior_Guild_(Da_Barshin_Place)
+P 162.0000, -308.0000, 22.0000, 30, 80, 95, 3, Warrior_Guild_(Da_Barshin_Place)
 P 956.0000, -507.0000, -1.0000, 30, 80, 95, 3, Shadow_Knight_Guild_(Night_Keep,_mines)
 P 490.0000, -20.0000, -1.0000, 30, 80, 95, 3, Shaman_Guild
-P 558.0000, -450.0000, -1.0000, 30, 80, 95, 3, Bank_of_Grobb
+P 558.0000, -450.0000, 10.0000, 30, 80, 95, 3, Bank_of_Grobb
 P 306.0000, -141.0000, -1.0000, 30, 80, 95, 2, Gunthaks_Belch_(Bar_+_Brew_Barrel)
 P 300.0000, -234.0000, -1.0000, 35, 95, 55, 2, Merchant_(Adventuring_Supplies)_Beka
 P 433.0000, -589.0000, -1.0000, 35, 95, 55, 2, Merchant_(Weapons)_Sanfik
@@ -15,8 +15,8 @@ P 178.0000, -455.0000, -1.0000, 35, 95, 55, 2, Merchant_(Gems)_Rezslog
 P 411.0000, -302.0000, -1.0000, 35, 95, 55, 2, Merchant_(Shaman_Spells)_Barsk
 P 402.0000, -367.0000, -1.0000, 35, 95, 55, 2, Merchant_(Beastlord_Spells)_Tracab
 P 621.0000, -520.0000, -1.0000, 35, 95, 55, 2, Merchant_(SK_Spells)_Crilt
-P 407.0000, -410.0000, -1.0000, 35, 95, 55, 2, Merchant_(Alchemy)_Bahagg
-P 162.0000, -308.0000, -1.0000, 90, 35, 110, 2, Ranjor_(GM_Warrior_61)
+P 407.0000, -410.0000, -10.0000, 35, 95, 55, 2, Merchant_(Alchemy)_Bahagg
+P 162.0000, -308.0000, 22.0000, 90, 35, 110, 2, Ranjor_(GM_Warrior_61)
 P 125.0000, -310.0000, -1.0000, 90, 35, 110, 2, Hergor_(GM_Warrior_61)
 P 490.0000, -20.0000, -1.0000, 90, 35, 110, 2, Kaglari_(GM_Shaman_61)
 P 500.0000, 0.0000, -1.0000, 90, 35, 110, 2, Urako_(GM_Shaman_61)

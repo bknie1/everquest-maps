@@ -1,5 +1,5 @@
 P -266.9967, -2861.9607, 469.9697, 150, 0, 200, 3, to_The_Butcherblock_Mountains
 P 1010.8057, 1199.9568, -335.1691, 150, 0, 200, 3, to_Kedge_Keep
 P 626.9838, 2046.0129, 89.3512, 150, 0, 200, 3, to_The_Estate_of_Unrest
-P 823.5200, -628.1960, -1.0000, 30, 80, 95, 3, Kedge_Keep_Entrance_(underwater)
+P 823.5200, -628.1960, -7.6000, 30, 80, 95, 3, Kedge_Keep_Entrance_(underwater)
 P -224.6810, 1615.8280, -1.0000, 30, 80, 95, 2, Aviak/Newbie_area
