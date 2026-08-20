@@ -56,7 +56,9 @@ ALIAS = {
     "mushroom": "myconid", "froglok": "froglok", "frog": "froglok", "skunk": "skunk",
     "dark elf": "dark_elf", "high elf": "high_elf", "wood elf": "wood_elf",
     "gnome": "gnome", "dwarf": "dwarf", "ogre": "ogre", "troll": "troll",
-    "orc": "kobold", "minotaur": "ogre", "ghoul": "skeleton", "zombie": "skeleton",
+    "orc": "kobold", "minotaur": "ogre", "ghoul": "ghoul", "zombie": "zombie",
+    "undead": "skeleton", "shadowknight": "skeleton", "lizardman": "iksar",
+    "lizard": "iksar", "froglok": "froglok",
 }
 
 # biome flora/terrain by a coarse tag, chosen per zone below
@@ -73,7 +75,7 @@ def wiki_motifs(zone, top=3):
     """Ranked kit-figure keys present in the zone's wiki page."""
     p = os.path.join(WIKI, zone + ".md")
     if not os.path.exists(p):
-        return []
+        return [], collections.Counter()
     text = open(p, encoding="utf-8").read().lower()
     hits = collections.Counter()
     for word, key in ALIAS.items():
