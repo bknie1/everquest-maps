@@ -43,6 +43,65 @@ def find_center(zone, raw):
     return cx, cy, r, pts
 
 
+def find_cluster_compass(zone, raw):
+    """Arrow-only compass: a compact isolated glyph sitting in a MARGIN corner.
+
+    Proximity-clusters the deco strokes, then scores compact clusters that live
+    outside the content but inside the frame -- the classic 'arrow in a circle'.
+    """
+    CX0, CX1, CY0, CY1 = content_bbox(zone)
+    segs = [parse(l) for l in raw if l.startswith("L")]
+    xs = [v for s in segs for v in (s[0], s[2])]
+    ys = [v for s in segs for v in (s[1], s[3])]
+    if not xs:
+        return None
+    FX0, FX1, FY0, FY1 = min(xs), max(xs), min(ys), max(ys)
+    span = max(FX1 - FX0, FY1 - FY0)
+    thr = span * 0.02
+    # union-find over endpoint proximity (grid-bucketed)
+    cell = thr
+    parent = {}
+    def find(a):
+        while parent.get(a, a) != a:
+            parent[a] = parent.get(parent[a], parent[a]); a = parent[a]
+        return a
+    def union(a, b):
+        parent.setdefault(a, a); parent.setdefault(b, b)
+        parent[find(a)] = find(b)
+    def key(x, y):
+        return (round(x / cell), round(y / cell))
+    for i, s in enumerate(segs):
+        parent.setdefault(i, i)
+        for (px, py) in ((s[0], s[1]), (s[2], s[3])):
+            for dx in (-1, 0, 1):
+                for dy in (-1, 0, 1):
+                    parent.setdefault(("g", key(px, py)[0] + dx, key(px, py)[1] + dy),
+                                      ("g", key(px, py)[0] + dx, key(px, py)[1] + dy))
+            union(i, ("g",) + key(px, py))
+    comps = collections.defaultdict(list)
+    for i in range(len(segs)):
+        comps[find(i)].append(i)
+    best, best_score = None, -1
+    for members in comps.values():
+        if not (6 <= len(members) <= 90):
+            continue
+        cx2 = [v for i in members for v in (segs[i][0], segs[i][2])]
+        cy2 = [v for i in members for v in (segs[i][1], segs[i][3])]
+        w, h = max(cx2) - min(cx2), max(cy2) - min(cy2)
+        d = max(w, h)
+        if not (span * 0.03 < d < span * 0.14) or min(w, h) < d * 0.55:
+            continue
+        cx, cy = (min(cx2) + max(cx2)) / 2, (min(cy2) + max(cy2)) / 2
+        in_margin = not (CX0 < cx < CX1 and CY0 < cy < CY1)
+        near_frame = min(cx - FX0, FX1 - cx, cy - FY0, FY1 - cy) < span * 0.03
+        if not in_margin or near_frame:
+            continue
+        score = (1.0 / (1 + abs(w - h))) + len(members) * 0.001
+        if score > best_score:
+            best_score, best = score, (cx, cy, d / 2, None)
+    return best
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("zone")
@@ -58,16 +117,23 @@ def main():
     path = os.path.join(MAPS, args.zone + "_2.txt")
     raw = [l for l in open(path, encoding="utf-8").read().splitlines() if l.strip()]
 
+    mode = "manual"
     if args.center:
         cx, cy = (float(v) for v in args.center.split(","))
         r = args.radius or 80.0
-        found = None
     else:
         det = find_center(args.zone, raw)
+        mode = "letters"
         if not det:
-            sys.exit("no N/E/S/W point-records found; pass --center x,y --radius r")
-        cx, cy, rdet, found = det
-        r = args.radius or max(60.0, min(rdet, 140.0))
+            det = find_cluster_compass(args.zone, raw)
+            mode = "cluster"
+        if not det:
+            sys.exit("no compass found (no N/E/S/W letters, no glyph cluster); pass --center x,y --radius r")
+        cx, cy, rdet, _extra = det
+        r = args.radius or max(55.0, min(rdet, 150.0))
+    # cluster (arrow-only) glyphs are isolated in a sparse margin -> clear the old
+    # glyph fully; letter/manual modes stay conservative to spare decoration
+    clear = args.clear_frac if mode != "cluster" else max(args.clear_frac, 1.3)
 
     ink = tuple(int(v) for v in args.ink.split(",")) if args.ink else (78, 70, 92)
     CX0, CX1, CY0, CY1 = content_bbox(args.zone)
@@ -75,7 +141,7 @@ def main():
 
     if args.probe:
         print(f"{args.zone}: center ({cx:.0f},{cy:.0f}) r={r:.0f} "
-              f"{'margin' if in_margin else 'INSIDE content'} letters={found is not None}")
+              f"{'margin' if in_margin else 'INSIDE content'} mode={mode} clear={clear}")
         return
 
     # remove old compass: the N/E/S/W point letters + compass-ish strokes near center
@@ -90,7 +156,7 @@ def main():
             s = parse(l)
             mx, my = (s[0] + s[2]) / 2, (s[1] + s[3]) / 2
             length = math.hypot(s[2] - s[0], s[3] - s[1])
-            near = math.hypot(mx - cx, my - cy) < r * args.clear_frac
+            near = math.hypot(mx - cx, my - cy) < r * clear
             # only strip short strokes near center; if the compass is inside the
             # content, be conservative (short strokes only) to spare map geometry
             if near and length < r * 1.6:
