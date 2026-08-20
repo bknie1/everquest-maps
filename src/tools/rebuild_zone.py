@@ -135,6 +135,11 @@ THEMES = {
         grass_ink=[(96, 122, 78), (110, 138, 88), (78, 104, 64)],
         rocky_top_frac=0.32, rock_step=46.0,
         tree=FH.broadleaf, tree_ink=(60, 90, 58), n_top=5, n_bot=6, n_side=4),
+    # Gothic castle/dungeon: NO interior fill (base IS the structure), gothic
+    # purple-slate ink, dead trees ringing the margin. For Mistmoore et al.
+    "castle_gothic": dict(
+        title_ink=(96, 84, 112), frame_ink=(108, 94, 122), compass_ink=(92, 80, 108),
+        tree=FH.dead_tree, tree_ink=(86, 80, 94), n_top=5, n_bot=6, n_side=4),
 }
 
 
