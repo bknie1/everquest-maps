@@ -17,10 +17,19 @@ Tiers: **A** ship as-is · **B** minor fix · **C** needs a real pass · **D** r
   - TODO: najena (bare "+", pass --center), lfaydark + rathemtn (compass is
     INSIDE content — relocate to a margin), felwithe a/b + kaladim a/b (do in
     their city passes, low --clear-frac to spare dense margins)
-- **artifact-cleanup (~19):** stray title carets/arrows/ghosts/rules → delete.
-  Zones: akanon, beholder, befallen, cauldron, cazicthule, eastkarana, erudnext,
-  erudsxing, feerrott, innothule, lavastorm, nektulos, qcat, qey2hh1, qeynos2,
-  qeytoqrg, southkarana, sro, stonebrunt
+- **artifact-cleanup — DONE (2026-08-19):** the "title carets/arrows" were NOT
+  in _2 at all. They were bare EQOA up-arrows in the **_3 historical layer**,
+  ink (150,90,150), parked in the top margin over the title (base=0 title-band
+  strokes pack-wide; _2 titles were already clean). `clear_title_artifacts.py`
+  removes _3 violet strokes above the grid top UNLESS a _3 "To X" label sits
+  within 380u (spares real north-exits: blackburrow, rivervale kept theirs).
+  Stripped 121 strokes across 23 zones. **eastkarana skipped (LOCKED)** — 3
+  strokes await Brandon's ok. Zones whose flag was really biome/shading/compass
+  (akanon, beholder, befallen, cauldron, erudnext, erudsxing, qcat, qeynos2,
+  lavastorm, oasis) had no title arrow — fix those in their real pass.
+- NOTE: `rebuild_zone.py` (from-source _2 composer: frame+title+compass+biome
+  from clean base) exists + works, but is for genuinely broken _2 zones. Do NOT
+  run it on rich zones (qeytoqrg proved this — its _2 was already good).
 
 ## Waves (execution order toward 0.2)
 1. **Mechanical batch** — compass-fix + artifact-cleanup above. Lifts most B→A.
