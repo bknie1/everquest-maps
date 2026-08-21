@@ -1,5 +1,5 @@
 # Plane_of_Fear (eqlwiki.com)
-fetched: 2026-08-19
+fetched: 2026-08-21
 
 Plane of Fear - EverQuest Legends Wiki
 Jump to content
@@ -117,9 +117,10 @@ At the PoF portal in Feerrott
 |
 |
 Getting In and Out
-To begin, do not enter this zone unless you are prepared to deal with high level mobs with extreme aggro ranges that see through invisibility. The entrance to the Plane of Fear is a one-way portal located in the spectre caves in The Feerrott, and if you die inside it will be almost impossible to recover your corpse alone. You must be at least level 46 to enter. Once you zone in, the only way out is either through gating/porting or through an exit portal deep inside the Temple. The latter is not recommended as there are see-invis mobs nearby which will aggro through the temple's ceiling and walls.
-The entrance portal is guarded by several see invis mobs which will gank you immediately upon stepping through, so going in alone is not recommended. No matter your class or the size of your party, a charged Leatherfoot Raider Skullcap is invaluable to have here.
-It is possible to bind within the zone but this is generally not recommended.
+To begin, be aware that this zone is populated with high level mobs with extreme aggro ranges that see through invisibility. The entrance to the Plane of Fear is a one-way portal located in the spectre caves in The Feerrott. Entrance requires level 46.
+Once inside, the entrance portal is patrolled by see-invis mobs which can attack you immediately upon stepping through, so be prepared.
+Once you zone in, the only way out is either through gating, porting, or through an exit portal deep inside the Temple. The portal is on the Temple's second floor, and can be found by following the left wall after entering from the outside ledge.
+It is possible to bind within the zone.
 Enemies and Loot
 General foes in the Plane of Fear drop planar-level armor for Chest, Wrist, Hands, and Feet. They can be divided into 2 groups:
 Group 1 drops armor for Wisdom casters, Berserkers, Monks, and also all pieces of Lustrous Russet Armor. (Cleric, Druid, Shaman, Beastlord, Ranger, Paladin, Berserker, Monk)
@@ -733,7 +734,7 @@ Warrior |
 Various |
 The wraith spawns every 72 hours, or when Cazic Thule spawns and repops the zone.
 Spawn location: in the top of the tem... |
-Items - Found 130 items that drop in Plane of Fear:
+Items - Found 131 items that drop in Plane of Fear:
 Item Name | Drops From | Slot | Stats |
 Amulet of NecropotenceAmulet of Necropotence
 MAGIC ITEM
@@ -873,7 +874,7 @@ WT: 1.0 Size: MEDIUM
 Class: NEC
 Race: ALL
 |
-a boogeyman |
+a boogeyman, Amygdalan warrior |
 Chest |
 AC: 11 DEX: +10 STA: +10 INT: +13 MANA: +40 WT: 1.0 Size: MEDIUM Class: NEC Race: ALL |
 Blighted SkullcapBlighted Skullcap
@@ -1014,7 +1015,7 @@ WT: 1.0 Size: MEDIUM
 Class: WIZ
 Race: ALL
 |
-a frightfinger |
+a frightfinger, an Amygdalan warrior |
 Chest |
 AC: 11 DEX: +7 STA: +14 INT: +14 MANA: +30 WT: 1.0 Size: MEDIUM Class: WIZ Race: ALL |
 Carmine SleevesCarmine Sleeves
@@ -1039,7 +1040,7 @@ WT: 0.3 Size: SMALL
 Class: WIZ
 Race: ALL
 |
-a frightfinger |
+a frightfinger, a fetid fiend |
 Wrist |
 AC: 3 STR: +2 DEX: +6 MANA: +15 WT: 0.3 Size: SMALL Class: WIZ Race: ALL |
 Carmine TurbanCarmine Turban
@@ -1556,7 +1557,7 @@ WT: 3.0 Size: SMALL
 Class: BRD
 Race: ALL
 |
-phoboplasm |
+phoboplasm, a fetid fiend |
 Wrist |
 AC: 11 DEX: +3 INT: +3 HP: +10 WT: 3.0 Size: SMALL Class: BRD Race: ALL |
 Indicolite GauntletsIndicolite Gauntlets
@@ -1701,6 +1702,19 @@ Race: ALL
 a samhain |
 (None) |
 WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+Shadow Rage GlovesShadow Rage Gloves
+Lore Equipped, No Trade, Quest
+Slot: HANDS
+AC: 10
+STR: 6 DEX: 5 AGI: 2 END: 10
+SV Magic: 8
+WT: 2.7 Size: SMALL
+Class: BER
+Race: ALL
+|
+a scareling |
+Hands |
+AC: 10 STR: 6 DEX: 5 AGI: 2 END: 10 SV Magic: 8 WT: 2.7 Size: SMALL Class: BER Race: ALL |
 Shawl of ProtectionShawl of Protection
 MAGIC ITEM LORE ITEM NO DROP
 Slot: SHOULDERS
@@ -1761,7 +1775,7 @@ WT: 0.1 Size: SMALL
 Class: MNK
 Race: ALL
 |
-a shiverback, phoboplasm |
+Various |
 Hands |
 AC: 5 STR: +5 DEX: +9 INT: +5 SV MAGIC: +7 Effect: Serpent Sight (Worn, Casting Time: Instant) WT: 0.1 Size: SMALL Class: MNK Race: ALL |
 Shiverback-hide JerkinShiverback-hide Jerkin
@@ -2010,7 +2024,7 @@ WT: 3.0 Size: SMALL
 Class: SHD
 Race: ALL
 |
-Amygdalan knight |
+Amygdalan knight, a fetid fiend |
 Wrist |
 AC: 10 DEX: +5 INT: +3 WT: 3.0 Size: SMALL Class: SHD Race: ALL |
 Umbral Platemail BreastplateUmbral Platemail Breastplate
@@ -2099,7 +2113,7 @@ WT: 3.0 Size: SMALL
 Class: PAL
 Race: ALL
 |
-a fetid fiend, phoboplasm |
+a fetid fiend, phoboplasm, Samhain |
 Wrist |
 AC: 10 STR: +5 DEX: +5 MANA: +10 SV POISON: +5 WT: 3.0 Size: SMALL Class: PAL Race: ALL |
 Valorium ChestplateValorium Chestplate
@@ -2738,13 +2752,13 @@ Shadow Knight |
 Avatar Power, Panic (random target), Enrage |
 All mobs will zone-wide social aggro with Cazic when he is engaged. Avatar Power is a top slot dispel. See page for full encounter details.
 |
-Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Fear&oldid=170589"
+Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Fear&oldid=170878"
 Categories: Classic Era
 Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 18 August 2026, at 16:04.
+This page was last edited on 20 August 2026, at 11:43.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

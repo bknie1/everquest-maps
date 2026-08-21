@@ -1,5 +1,5 @@
 # Stonebrunt_Mountains (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-21
 
 Stonebrunt Mountains - EverQuest Legends Wiki
 Jump to content
@@ -610,7 +610,7 @@ Jali Kaliio |
 All (Melee) |
 Oasis of Marr |
 Various |
-NPCs - Found 86 NPCs that spawn in Stonebrunt Mountains:
+NPCs - Found 87 NPCs that spawn in Stonebrunt Mountains:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Burly Kobold
 |
@@ -1760,6 +1760,15 @@ Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 |
 Description needed. |
+Scout Malom
+|
+Vah Shir |
+Warrior |
+15 |
+100% @ (3644.0, -3533.0, 1308.6) |
+None |
+You say, 'Hail, Scout Malom'
+Scout Malom says, 'It is a pleasure to meet you, but I do not have time to speak. I am wai... |
 Shazda Kaekwon
 |
 Kerran |

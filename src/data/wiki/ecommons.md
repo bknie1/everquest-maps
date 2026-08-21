@@ -1,5 +1,5 @@
 # East_Commonlands (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-21
 
 East Commonlands - EverQuest Legends Wiki
 Jump to content
@@ -181,7 +181,7 @@ Scholar Darnath |
 ?? |
 East Commonlands |
 ?? |
-NPCs - Found 58 NPCs that spawn in East Commonlands:
+NPCs - Found 59 NPCs that spawn in East Commonlands:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Black Bear
 |
@@ -462,6 +462,14 @@ Class: ALL
 Race: ALL
 |
 Has a lethal poison bite. |
+A sand scarab hatchling
+|
+Beetle |
+Warrior |
+4 |
+Far south side of map. |
+None |
+Wanders through the dunes on the south side of the map. |
 A skeleton
 |
 Undead |

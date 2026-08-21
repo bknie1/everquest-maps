@@ -1,5 +1,5 @@
 # Misty_Thicket (eqlwiki.com)
-fetched: 2026-08-20
+fetched: 2026-08-21
 
 Misty Thicket - EverQuest Legends Wiki
 Jump to content
@@ -233,7 +233,7 @@ Blixkin Entopop |
 ? |
 Southern Desert of Ro |
 Terrorantula |
-NPCs - Found 74 NPCs that spawn in Misty Thicket:
+NPCs - Found 80 NPCs that spawn in Misty Thicket:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Bixie
 |
@@ -521,6 +521,14 @@ Warrior |
 Various |
 Various |
 All mummies occasionally afflict their melee target with Rabies. |
+A Mangy Rat
+|
+Giant Rat |
+Warrior |
+1-3 |
+Various |
+Rat Head |
+Aggressive. In Qeynos Hills, these are found in the northwest corner of the zone. Or rather the northeast corner of ... |
 A Moss Snake
 |
 Giant Snake |
@@ -823,6 +831,20 @@ Race: ALL
 Rusty Weapons (Common)
 |
 Found on the far east and northeast parts of the map. Hangs out with the diseased rats and giant thicket rats. |
+A halfling zombie
+|
+Zombie |
+Warrior |
+8 |
+Far east and northeast areas. |
+Zombie SkinZombie Skin
+QUEST ITEM
+WT: 0.1 Size: SMALL
+Class: ALL
+Race: ALL
+Rusty Weapons
+|
+Seems to be a bit of a rare spawn in areas with halfling skeletons. |
 A klaknak warrior
 |
 Beetle |
@@ -928,6 +950,25 @@ Warrior |
 East side of the wall. |
 None |
 Inhabits the lower-level east area of Misty Thicket. |
+A tree snake
+|
+Giant Snake |
+Warrior |
+4-6 |
+Various |
+Snake FangSnake Fang
+QUEST ITEM
+WT: 0.1 Size: TINY
+Class: ALL
+Race: ALL
+, Snake EggSnake Egg
+QUEST ITEM
+This is a snack!
+WT: 0.2 Size: TINY
+Class: ALL
+Race: ALL
+|
+Extremely common in South Ro in the green southern part of the zone. Not aggressive. They proc Weak Poison. |
 An orc lumberjack
 |
 Orc |
@@ -940,6 +981,14 @@ Class: ALL
 Race: ALL
 |
 This orc wanders around not too far from the center west side of the middle wall. |
+Bidils the Quickhand
+|
+Halfling |
+Rogue |
+61 |
+(331, -1998, -12) |
+None |
+NPC initially released in the Velious era for a GM event that is no longer active. No faction gains or losses from killi... |
 Bim Buskin
 |
 Rivervale Citizen |
@@ -1158,6 +1207,14 @@ Warrior |
 20% @ (100, -2300), (-200, -2200), (-500, -1700) |
 None |
 Ember is the pet fire beetle of Blixkin Entopop, and follows him around as he wanders the southeast region of [[Mist... |
+Epicurean halfling
+|
+Halfling |
+Druid |
+15 |
+(882, 80, -23) |
+None |
+Chilling next to a tree stump. Cannot currently be attacked or targeted with spells. |
 Faano Windmaker
 |
 Halfling |
@@ -1215,6 +1272,14 @@ Shaman |
 5% @ (-885, 1115) |
 Various |
 Mooto spawns near the goblin camps outside of Runnyeye Citadel ( specifically on the left side of the campfire at the go... |
+Orc Apprentice
+|
+Orc |
+Shaman |
+2 |
+12% @ (1043, 2423) |
+Various |
+Description needed. |
 Orc Centurion (Deathfist)
 |
 Orc |

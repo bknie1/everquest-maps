@@ -1,5 +1,5 @@
 # Ak'Anon (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-21
 
 Ak'Anon - EverQuest Legends Wiki
 Jump to content
@@ -598,7 +598,7 @@ Toko's Head
 |
 Elemental GrimoireElemental Grimoire
 WT: 0.4 Weight Reduction: 0%
-Capacity: 4 Size Capacity: LARGE
+Capacity: 10 Size Capacity: LARGE
 |
 Tergon Brenclog |
 15 |

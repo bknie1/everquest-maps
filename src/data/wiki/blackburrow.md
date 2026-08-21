@@ -1,5 +1,5 @@
 # Blackburrow (eqlwiki.com)
-fetched: 2026-08-19
+fetched: 2026-08-21
 
 Blackburrow - EverQuest Legends Wiki
 Jump to content
@@ -167,7 +167,7 @@ blackburrow
 |
 Zone Spawn Timer:
 |
-22:00
+3:55
 |
 Succor/Evacuate:
 |
@@ -1125,7 +1125,7 @@ WT: 0.5 Size: SMALL
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 |
-an elite gnoll guard |
+a gnoll, an elite gnoll guard |
 Neck |
 AC: 3 STR: +1 STA: +1 WT: 0.5 Size: SMALL Class: ALL except NEC WIZ MAG ENC Race: ALL |
 Vagrant's TunicVagrant's Tunic
@@ -1177,13 +1177,13 @@ Race: ALL
 a gnoll shaman, the gnoll high shaman |
 Primary, Secondary |
 MANA: +10 WT: 0.8 Size: SMALL Class: CLR DRU BRD SHM Race: ALL |
-Retrieved from "https://eqlwiki.com/index.php?title=Blackburrow&oldid=165754"
+Retrieved from "https://eqlwiki.com/index.php?title=Blackburrow&oldid=171109"
 Categories: Classic Era
 Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 4 August 2026, at 00:30.
+This page was last edited on 20 August 2026, at 22:48.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

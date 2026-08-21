@@ -1,5 +1,5 @@
 # Qeynos_Hills (eqlwiki.com)
-fetched: 2026-08-20
+fetched: 2026-08-21
 
 Qeynos Hills - EverQuest Legends Wiki
 Jump to content
@@ -414,7 +414,7 @@ A Mangy Rat
 |
 Giant Rat |
 Warrior |
-1 |
+1-3 |
 Various |
 Rat Head |
 Aggressive. In Qeynos Hills, these are found in the northwest corner of the zone. Or rather the northeast corner of ... |

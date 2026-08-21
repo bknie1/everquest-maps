@@ -1,5 +1,5 @@
 # Castle_Mistmoore (eqlwiki.com)
-fetched: 2026-08-20
+fetched: 2026-08-21
 
 Mistmoore Castle - EverQuest Legends Wiki
 Jump to content
@@ -196,7 +196,7 @@ Race: ALLFocus Effect: Affliction Efficiency I
 Attunable
 Slot: AMMO
 Skill: Archery
-DMG: 8 Cold DMG: 1 Range: 150
+DMG: 8 Cold DMG: 1 Range: 200
 WT: 0.1 Size: SMALL
 Class: WAR PAL RNG SHD ROG
 Race: ALL
@@ -545,7 +545,7 @@ Race: ALL
 Attunable
 Slot: AMMO
 Skill: Archery
-DMG: 8 Cold DMG: 1 Range: 150
+DMG: 8 Cold DMG: 1 Range: 200
 WT: 0.1 Size: SMALL
 Class: WAR PAL RNG SHD ROG
 Race: ALL
@@ -845,8 +845,8 @@ A Fallen Noble
 Dark Elf |
 Cleric |
 28 |
-(23, 105) |
-Mistmoore Heirloom RingMistmoore Heirloom Ring
+100% @ (23, 105) |
+(25%?) Mistmoore Heirloom RingMistmoore Heirloom Ring
 Attuneable
 Slot: FINGER
 AC: 1
@@ -854,7 +854,7 @@ INT: 3 HP: 10
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALLFocus Effect: Heritage of Mistmoore
-, Noble's RobesNoble's Robes
+, (common) Noble's RobesNoble's Robes
 MAGIC ITEM LORE ITEM
 Slot: CHEST
 AC: 6
@@ -863,13 +863,13 @@ SV FIRE: +6 SV DISEASE: +3 SV COLD: +6 SV MAGIC: +3 SV POISON: +3
 WT: 5.2 Size: MEDIUM
 Class: CLR NEC WIZ MAG ENC
 Race: ALL
-, Vial of Noble's BloodVial of Noble's Blood
+, (common) Vial of Noble's BloodVial of Noble's Blood
 MAGIC ITEM NO DROP
 WT: 0.2 Size: TINY
 Class: ALL
 Race: ALL
 |
-Rare spawn. |
+|
 A Flouting Gargoyle
 |
 Gargoyle |
@@ -1011,8 +1011,8 @@ A Hemo Enologist
 Dark Elf |
 Warrior |
 33 |
-100% @ (-67, 171) |
-Blood Spirit, Blood Wine, Wine ThiefWine Thief
+100% @ (-67, 171) (castle west garden) |
+Blood Spirit (common), Blood Wine (common), (25%?) Wine ThiefWine Thief
 Attuneable
 Slot: PRIMARY
 Skill: 1H Piercing
@@ -1340,7 +1340,7 @@ Race: ALL
 Attunable
 Slot: AMMO
 Skill: Archery
-DMG: 8 Cold DMG: 1 Range: 150
+DMG: 8 Cold DMG: 1 Range: 200
 WT: 0.1 Size: SMALL
 Class: WAR PAL RNG SHD ROG
 Race: ALL
@@ -2061,14 +2061,14 @@ Fleeting MemoryFleeting Memory
 Attunable
 Slot: AMMO
 Skill: Archery
-DMG: 8 Cold DMG: 1 Range: 150
+DMG: 8 Cold DMG: 1 Range: 200
 WT: 0.1 Size: SMALL
 Class: WAR PAL RNG SHD ROG
 Race: ALL
 |
 a cloaked dhampyre |
 Archery |
-DMG: 8 Cold DMG: 1 Range: 150 WT: 0.1 Size: SMALL Class: WAR PAL RNG SHD ROG Race: ALL |
+DMG: 8 Cold DMG: 1 Range: 200 WT: 0.1 Size: SMALL Class: WAR PAL RNG SHD ROG Race: ALL |
 Gargoyle GripsGargoyle Grips
 Attunable
 Slot: HANDS

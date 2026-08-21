@@ -1,5 +1,5 @@
 # East_Freeport (eqlwiki.com)
-fetched: 2026-08-18
+fetched: 2026-08-21
 
 Freeport - EverQuest Legends Wiki
 Jump to content
@@ -2153,7 +2153,7 @@ Xelha Nevagon |
 Necromancer |
 Various |
 Various cyclopes' |
-NPCs - Found 137 NPCs that spawn in East Freeport:
+NPCs - Found 138 NPCs that spawn in East Freeport:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Decaying Skeleton
 |
@@ -3247,6 +3247,14 @@ Merchant |
 (76, -335) |
 |
 Description needed. |
+Stable Hand Brack
+|
+Human |
+Merchant |
+35 |
+gate area — just past the first gate on the way out to the newbie yard |
+|
+Freeport's stable hand, found beside the gates on the eastern edge of the city. He sells horse bridles (mounts) in four ... |
 Ston O`Donner
 |
 Freeport Guards |

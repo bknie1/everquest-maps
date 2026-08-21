@@ -1,5 +1,5 @@
 # Plane_of_Hate (eqlwiki.com)
-fetched: 2026-08-19
+fetched: 2026-08-21
 
 Plane of Hate - EverQuest Legends Wiki
 Jump to content
@@ -1254,7 +1254,7 @@ WT: 1.0 Size: MEDIUM
 Class: MAG
 Race: ALL
 |
-a forsaken revenant |
+a forsaken revenant, an Amygdalan warrior |
 Chest |
 AC: 11 DEX: +5 STA: +12 INT: +14 MANA: +40 WT: 1.0 Size: MEDIUM Class: MAG Race: ALL |
 Apothic SleevesApothic Sleeves

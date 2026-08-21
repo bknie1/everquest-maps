@@ -1,5 +1,5 @@
 # The_Hole (eqlwiki.com)
-fetched: 2026-08-19
+fetched: 2026-08-21
 
 The Hole - EverQuest Legends Wiki
 Jump to content
@@ -522,7 +522,16 @@ SV FIRE: +10 SV DISEASE: +10 SV COLD: +10 SV MAGIC: +10 SV POISON: +10
 WT: 45.0 Size: SMALL
 Class: WAR CLR PAL RNG SHD MNK BRD ROG SHM
 Race: ALL
-, Bow of the UnderfootBow of the Underfoot
+(Rare), Mudman EnforcerMudman Enforcer
+MAGIC ITEM LORE ITEM
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt Atk Delay: 20
+DMG: 8
+STR: +3
+WT: 1.9 Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+(Rare), Bow of the UnderfootBow of the Underfoot
 MAGIC ITEM LORE ITEM NO DROP
 Slot: RANGE
 Skill: Archery Atk Delay: 60
@@ -532,16 +541,7 @@ SV COLD: +10
 WT: 4.0 Range: 150 Size: MEDIUM
 Class: WAR PAL RNG SHD ROG
 Race: ALL
-, Mudman EnforcerMudman Enforcer
-MAGIC ITEM LORE ITEM
-Slot: PRIMARY SECONDARY
-Skill: 1H Blunt Atk Delay: 20
-DMG: 8
-STR: +3
-WT: 1.9 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC
-Race: ALL
-|
+(Ultra Rare) |
 A rock golem will always spawn in the same location you find it is not a placeholder for other mobs. Very magic resista... |
 A wanderer
 |
@@ -1449,7 +1449,7 @@ WT: 0.4 Size: SMALL
 Class: NEC WIZ MAG ENC
 Race: ALL
 |
-Gibartik |
+Gibartik, an elemental crusader |
 Hands |
 AC: 4 DEX: +8 INT: +4 HP: +10 MANA: +5 SV COLD: +10 WT: 0.4 Size: SMALL Class: NEC WIZ MAG ENC Race: ALL |
 Loam Encrusted Lined ShoesLoam Encrusted Lined Shoes

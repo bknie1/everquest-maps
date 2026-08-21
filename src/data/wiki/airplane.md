@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-08-20
+fetched: 2026-08-21
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -1774,7 +1774,6 @@ SV FIRE: +8 SV DISEASE: +8 SV COLD: +8 SV MAGIC: +8 SV POISON: +8
 WT: 2.5 Size: MEDIUM
 Class: ROG
 Race: ALL
-(item is actually SHIMMERING Bracer)
 |
 Rogue Test of Deception
 |
@@ -3667,17 +3666,17 @@ a spiroc walker, The Spiroc Guardian |
 (None) |
 LORE ITEM WT: 5.0 Size: MEDIUM Class: ALL Race: ALL |
 Black Silk CapeBlack Silk Cape
-LORE ITEM NO DROP
+Lore Equipped, No Trade, Quest
 Slot: BACK
 AC: 3
 MANA: +10
-WT: 0.0 Size: TINY
+Size: TINY
 Class: NEC
 Race: ALL
 |
 Keeper of Souls |
 Back |
-AC: 3 MANA: +10 WT: 0.0 Size: TINY Class: NEC Race: ALL |
+AC: 3 MANA: +10 Size: TINY Class: NEC Race: ALL |
 Black Sky DiamondBlack Sky Diamond
 LORE ITEM
 WT: 3.0 Size: MEDIUM
@@ -3986,16 +3985,15 @@ Various |
 Head |
 AC: 5 INT: +5 SV FIRE: +5 SV COLD: +5 WT: 8.0 Size: MEDIUM Class: MAG Race: ALL |
 Crude Wooden FluteCrude Wooden Flute
-LORE ITEM NO DROP
-Slot: PRIMARY
-Wind Resonance: 0
+Lore Equipped, No Trade, Quest, Placeable
+Slot: Primary Secondary
 WT: 0.1 Size: SMALL
 Class: BRD
-Race: ALL
+Race: ALLFocus Effect: Wind Resonance 8
 |
 The Spiroc Lord |
-Primary |
-Wind Resonance: 0 WT: 0.1 Size: SMALL Class: BRD Race: ALL |
+Primary, Secondary |
+WT: 0.1 Size: SMALL Class: BRD Race: ALL |
 Dark Spiroc FeatherDark Spiroc Feather
 LORE ITEM
 WT: 1.0 Size: SMALL
@@ -4073,17 +4071,18 @@ a soul carrier, an essence carrier |
 (None) |
 LORE ITEM WT: 2.0 Size: MEDIUM Class: ALL Race: ALL |
 Djinni StaveDjinni Stave
-MAGIC ITEM LORE ITEM
-Slot: PRIMARY
+Lore Equipped, No Trade, Quest, Placeable
+Slot: Primary
 Skill: 1H Blunt Atk Delay: 19
 DMG: 5
+Dmg Bon: 9
 WT: 0.5 Size: SMALL
-Class: CLR DRU SHM NEC WIZ MAG ENC
+Class: MAG
 Race: ALL
 |
 Sister of the Spire |
 1H Blunt |
-Atk Delay: 19 DMG: 5 WT: 0.5 Size: SMALL Class: CLR DRU SHM NEC WIZ MAG ENC Race: ALL |
+Atk Delay: 19 DMG: 5 Dmg Bon: 9 WT: 0.5 Size: SMALL Class: MAG Race: ALL |
 Djinni War BladeDjinni War Blade
 MAGIC ITEM LORE ITEM NO DROP
 Slot: PRIMARY SECONDARY
@@ -4308,17 +4307,18 @@ Noble Dojorn, Overseer of Air, The Hand of Veeshan |
 Archery |
 Atk Delay: 100 DMG: 40 WT: 1.0 Range: 75 Size: MEDIUM Class: WAR RNG Race: ALL |
 Efreeti War ClubEfreeti War Club
-MAGIC ITEM LORE ITEM
-Slot: PRIMARY
+Lore Equipped, Attunable, Quest, Placeable
+Slot: Primary
 Skill: 1H Blunt Atk Delay: 26
 DMG: 11
+Dmg Bon: 12
 WT: 1.0 Size: MEDIUM
-Class: ALL except BRD NEC WIZ MAG ENC
+Class: War CLR PAL RNG SHD DRU MNK ROG SHM BST
 Race: ALL
 |
-Noble Dojorn, Overseer of Air |
+Noble Dojorn, Overseer of Air, the Hand of Veeshan |
 1H Blunt |
-Atk Delay: 26 DMG: 11 WT: 1.0 Size: MEDIUM Class: ALL except BRD NEC WIZ MAG ENC Race: ALL |
+Atk Delay: 26 DMG: 11 Dmg Bon: 12 WT: 1.0 Size: MEDIUM Class: War CLR PAL RNG SHD DRU MNK ROG SHM BST Race: ALL |
 Efreeti War HornEfreeti War Horn
 MAGIC ITEM LORE ITEM
 Slot: PRIMARY
@@ -4393,17 +4393,18 @@ Noble Dojorn, The Hand of Veeshan |
 2H Blunt |
 Atk Delay: 36 DMG: 12 INT: +3 WT: 15.0 Size: LARGE Class: CLR DRU SHM NEC WIZ MAG ENC Race: ALL |
 Efreeti ZweihanderEfreeti Zweihander
-MAGIC ITEM LORE ITEM
-Slot: PRIMARY
+Lore Equipped, Attunable, Quest, Placeable
+Slot: Primary
 Skill: 2H Slashing Atk Delay: 45
 DMG: 24
+Dmg Bon: 27
 WT: 0.1 Size: SMALL
-Class: WAR PAL RNG SHD
+Class: WAR PAL RNG SHD BER
 Race: ALL
 |
 Noble Dojorn, Overseer of Air, The Hand of Veeshan |
 2H Slashing |
-Atk Delay: 45 DMG: 24 WT: 0.1 Size: SMALL Class: WAR PAL RNG SHD Race: ALL |
+Atk Delay: 45 DMG: 24 Dmg Bon: 27 WT: 0.1 Size: SMALL Class: WAR PAL RNG SHD BER Race: ALL |
 Emerald Spiroc FeatherEmerald Spiroc Feather
 LORE ITEM
 WT: 2.0 Size: MEDIUM
@@ -4844,27 +4845,27 @@ a watchful guard, an avenging gazer, heart harpie |
 (None) |
 LORE ITEM WT: 0.5 Size: SMALL Class: ALL Race: ALL |
 Hazy OpalHazy Opal
-LORE ITEM NO DROP
+No Trade, Quest
 WT: 0.2 Size: SMALL
 Class: MAG
 Race: ALL
 |
 Eye of Veeshan |
 (None) |
-LORE ITEM NO DROP WT: 0.2 Size: SMALL Class: MAG Race: ALL |
+No Trade, Quest WT: 0.2 Size: SMALL Class: MAG Race: ALL |
 High Quality RaimentHigh Quality Raiment
-MAGIC ITEM LORE ITEM NO DROP
-Slot: SHOULDERS
+Lore Equipped, No Trade, Quest
+Slot: Shoulders
 AC: 6
 INT: +2 AGI: +2
 SV MAGIC: +3
 WT: 15.0 Size: LARGE
-Class: WIZ
+Class: WIZ BER
 Race: ALL
 |
 The Spiroc Lord |
 Shoulders |
-AC: 6 INT: +2 AGI: +2 SV MAGIC: +3 WT: 15.0 Size: LARGE Class: WIZ Race: ALL |
+AC: 6 INT: +2 AGI: +2 SV MAGIC: +3 WT: 15.0 Size: LARGE Class: WIZ BER Race: ALL |
 Honeyed NectarHoneyed Nectar
 LORE ITEM
 WT: 10.0 Size: LARGE
@@ -4917,14 +4918,14 @@ a soul carrier, an essence carrier, an essence tamer |
 Neck |
 AC: 2 WIS: +2 INT: +2 WT: 1.0 Size: MEDIUM Class: ALL Race: ALL |
 Ivory Sky DiamondIvory Sky Diamond
-LORE ITEM NO DROP
+No Trade, Quest
 WT: 0.2 Size: SMALL
-Class: ALL
+Class: PAL
 Race: ALL
 |
 The Spiroc Lord |
 (None) |
-LORE ITEM NO DROP WT: 0.2 Size: SMALL Class: ALL Race: ALL |
+No Trade, Quest WT: 0.2 Size: SMALL Class: PAL Race: ALL |
 Ivory TesseraIvory Tessera
 LORE ITEM
 WT: 4.0 Size: MEDIUM
@@ -4974,14 +4975,14 @@ Bazzt Zzzt |
 (None) |
 LORE ITEM NO DROP WT: 12.0 Size: LARGE Class: ALL Race: ALL |
 Large OpalLarge Opal
-LORE ITEM NO DROP
+No Trade, Quest
 WT: 8.0 Size: LARGE
-Class: ALL
+Class: MAG
 Race: ALL
 |
 Eye of Veeshan |
 (None) |
-LORE ITEM NO DROP WT: 8.0 Size: LARGE Class: ALL Race: ALL |
+No Trade, Quest WT: 8.0 Size: LARGE Class: MAG Race: ALL |
 Large Sky DiamondLarge Sky Diamond
 LORE ITEM NO DROP
 WT: 0.1 Size: SMALL
@@ -5070,8 +5071,8 @@ Bazzzazzt |
 (None) |
 LORE ITEM WT: 0.1 Size: SMALL Class: ALL Race: ALL |
 Mantle of Woven GrassMantle of Woven Grass
-MAGIC ITEM LORE ITEM NO DROP
-Slot: SHOULDERS
+Lore Equipped, No Trade, Quest
+Slot: Shoulders
 AC: 4
 WIS: +4 INT: +2
 WT: 2.0 Size: MEDIUM
@@ -6083,13 +6084,13 @@ Race: ALL
 Protector of Sky |
 (None) |
 LORE ITEM WT: 6.0 Size: MEDIUM Class: ALL Race: ALL |
-Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Sky&oldid=170770"
+Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Sky&oldid=171123"
 Categories: Sky Era
 Classic Era
 Zones
 How to Contribute
 Donate
-This page was last edited on 19 August 2026, at 19:36.
+This page was last edited on 21 August 2026, at 01:25.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

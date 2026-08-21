@@ -1,5 +1,5 @@
 # Greater_Faydark (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-21
 
 Greater Faydark - EverQuest Legends Wiki
 Jump to content
@@ -606,7 +606,7 @@ Slot: RANGE
 Skill: Archery Atk Delay: 45
 DMG: 20
 STR: +6 DEX: +6
-Effect: Firestrike (proc) (Must Equip, Casting Time: Instant, Cooldown: 120s) at Level 40
+Effect: Firestrike (Must Equip, Casting Time: Instant, Cooldown: 120s) at Level 40
 WT: 3.0 Range: 200 Size: LARGE
 Class: RNG
 Race: ALL

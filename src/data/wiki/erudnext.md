@@ -1,5 +1,5 @@
 # Erudin (eqlwiki.com)
-fetched: 2026-08-19
+fetched: 2026-08-21
 
 Erudin - EverQuest Legends Wiki
 Jump to content
@@ -170,8 +170,16 @@ The city of Erudin is notable for its practicality, and there are buildings for 
 People
 The city of Erudin is a very calm and quiet place, designed for the silent reflection and learning of its inhabitants. There are several prominent locals in the various guilds, and these Erudites, in many cases, represent the most knowledgable in all of Norrath in their various fields of study.
 What's in this zone?
-Quests - Found 34 quests that start in Erudin:
+Quests - Found 35 quests that start in Erudin:
 Quest Name | Reward | Quest Giver | Minimum Level | Classes | Related Zones | Related NPCs |
+A sealed letter
+|
+? |
+|
+|
+|
+|
+|
 Barnacle Breastplate Quest
 |
 Barnacle BreastplateBarnacle Breastplate

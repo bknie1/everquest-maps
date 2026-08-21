@@ -1,5 +1,5 @@
 # Lower_Guk (eqlwiki.com)
-fetched: 2026-08-19
+fetched: 2026-08-21
 
 Lower Guk - EverQuest Legends Wiki
 Jump to content
@@ -1120,7 +1120,12 @@ Old Froglok Ghoul |
 Wizard |
 24-28 |
 4x ~(1000, -500) |
-Fine Steel Weapons |
+Fine Steel Weapons, Undead Froglok TongueUndead Froglok Tongue
+QUEST ITEM
+WT: 0.1 Size: SMALL
+Class: ALL
+Race: ALL
+|
 Flagged as undead, and so see invis. |
 A Shin Ghoul Knight
 |
