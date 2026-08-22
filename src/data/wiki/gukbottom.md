@@ -1,5 +1,5 @@
 # Lower_Guk (eqlwiki.com)
-fetched: 2026-08-21
+fetched: 2026-08-22
 
 Lower Guk - EverQuest Legends Wiki
 Jump to content
@@ -1141,7 +1141,7 @@ SV POISON: +5
 WT: 5.0 Size: SMALL
 Class: WAR CLR PAL SHD BRD
 Race: ALL
-(Rare), Shin GreavesShin Greaves
+(Rare) Probably not on EQL (200+ kills), Shin GreavesShin Greaves
 MAGIC ITEM LORE ITEM NO DROP
 Slot: LEGS
 AC: 10
@@ -1722,7 +1722,6 @@ Warrior |
 35-39 |
 100% @ (103, -85) |
 Swirling MistSwirling Mist
-MAGIC ITEM
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL

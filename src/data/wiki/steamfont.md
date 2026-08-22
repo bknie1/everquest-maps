@@ -1,5 +1,5 @@
 # Steamfont_Mountains (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-22
 
 Steamfont Mountains - EverQuest Legends Wiki
 Jump to content
@@ -591,7 +591,6 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , Swirling MistSwirling Mist
-MAGIC ITEM
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL

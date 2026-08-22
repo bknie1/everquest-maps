@@ -1,5 +1,5 @@
 # Southern_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-22
 
 Southern Karana - EverQuest Legends Wiki
 Jump to content
@@ -1124,13 +1124,20 @@ Kroldir Thunderhoof
 Centaur |
 Warrior |
 20 |
-10% @ (70, -2514) |
+Various Points |
 Runed Oak BowRuned Oak Bow
 MAGIC ITEM
 Slot: RANGE
 Skill: Archery Atk Delay: 43
 DMG: 21
 WT: 4.5 Range: 125 Size: LARGE
+Class: WAR PAL RNG SHD ROG
+Race: ALL
+, ArrowArrow
+QUEST ITEM
+Slot: AMMO
+DMG: 1
+WT: 0.1 Range: 25 Size: SMALL
 Class: WAR PAL RNG SHD ROG
 Race: ALL
 , LongbowLongbow
@@ -1144,7 +1151,7 @@ Race: ALL
 WT: 0.4 Weight Reduction: 33%
 Capacity: 4 Size Capacity: MEDIUM
 |
-centaur foal and centaur archer is a place holder. Respawn Time 6 min (confirmed). Kroldir or his place holder w... |
+centaur foal and centaur archer is a place holder. Respawn Time 6 min (confirmed). Kroldir or his place holde... |
 Lord Grimrot
 |
 Human |

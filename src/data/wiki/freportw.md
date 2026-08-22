@@ -1,5 +1,5 @@
 # West_Freeport (eqlwiki.com)
-fetched: 2026-08-21
+fetched: 2026-08-22
 
 Freeport - EverQuest Legends Wiki
 Jump to content
@@ -2269,7 +2269,7 @@ Biggle Limbokker
 |
 14% @ (-236, -855) |
 None |
-One of the random spawns in the Seafarer's Roost. |
+One of the random spawns in the Seafarer's Roost. Part of the Tykar Renlin spawn cycle for the Soulfire. |
 Branis Noolright
 |
 Human |

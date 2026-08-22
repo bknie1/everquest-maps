@@ -1,5 +1,5 @@
 # Plane_of_Hate (eqlwiki.com)
-fetched: 2026-08-21
+fetched: 2026-08-22
 
 Plane of Hate - EverQuest Legends Wiki
 Jump to content
@@ -141,7 +141,7 @@ Armor drops, condensed table
 |
 Group 1: CLR DRU SHM BST RNG PAL BER MNK Lustrous Russet
 |
-Group 2: ENC MAG NEC WIZ BRD SHD ROG WAR Midnight Clad
+Group 2: MAG NEC WIZ ENC BRD SHD ROG WAR Midnight Clad
 |
 Head |
 Cleric of Innoruuk |
@@ -2006,7 +2006,7 @@ WT: 3.0 Size: SMALL
 Class: BRD
 Race: ALL
 |
-a scorn banshee |
+a scorn banshee, a loathing lich |
 Wrist |
 AC: 11 DEX: +3 INT: +3 HP: +10 WT: 3.0 Size: SMALL Class: BRD Race: ALL |
 Imbrued Platemail BreastplateImbrued Platemail Breastplate
@@ -2096,7 +2096,7 @@ WT: 3.0 Size: SMALL
 Class: WAR
 Race: ALL
 |
-a kiraikuei |
+a kiraikuei, Innoruuk's Chosen |
 Wrist |
 AC: 12 STR: +3 DEX: +3 SV FIRE: +7 SV COLD: +7 SV MAGIC: +7 WT: 3.0 Size: SMALL Class: WAR Race: ALL |
 Indicolite BreastplateIndicolite Breastplate
@@ -2108,7 +2108,7 @@ WT: 7.5 Size: LARGE
 Class: WAR
 Race: ALL
 |
-a kiraikuei |
+a kiraikuei, Innoruuk's Chosen |
 Chest |
 AC: 35 STR: +15 DEX: +15 STA: +15 WT: 7.5 Size: LARGE Class: WAR Race: ALL |
 Indicolite GauntletsIndicolite Gauntlets
@@ -3589,11 +3589,11 @@ Race: ALL
 |
 Raid Map
 Plane of Hate Raid Floor 1
-1. Ashenbone Broodmaster, Avatar of Abhorrence, Master of Spite or Mistress of Scorn
+1. Ashenbone Broodmaster, Avatar of Abhorrence or Master of Spite
 2. Coercer T`vala or Magi P`Tasa
 |
 Plane of Hate Raid Floor 2
-3. Grandmaster R`Tal, High Priest M`kari
+3. Grandmaster R`Tal, High Priest M`kari or Mistress of Scorn
 4. Maestro of Rancor
 5. Lord of Ire or Lord of Loathing
 6. Innoruuk
@@ -3601,14 +3601,14 @@ Plane of Hate Raid Floor 2
 Solo vs. Multiplayer
 When creating the raid instance, players can choose between solo and multiplayer instances. These instances share lockouts, so players cannot do both in the same week and receive full loot.
 There is no difference between solo and multiplayer as far as trash mobs or mobs locations in Plane of Hate.
-Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Hate&oldid=170583"
+Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Hate&oldid=171374"
 Categories: Classic Era
 Zones
 Plane of Hate
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 18 August 2026, at 15:47.
+This page was last edited on 21 August 2026, at 20:49.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

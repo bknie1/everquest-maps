@@ -1,5 +1,5 @@
 # Plane_of_Fear (eqlwiki.com)
-fetched: 2026-08-21
+fetched: 2026-08-22
 
 Plane of Fear - EverQuest Legends Wiki
 Jump to content
@@ -734,7 +734,7 @@ Warrior |
 Various |
 The wraith spawns every 72 hours, or when Cazic Thule spawns and repops the zone.
 Spawn location: in the top of the tem... |
-Items - Found 131 items that drop in Plane of Fear:
+Items - Found 134 items that drop in Plane of Fear:
 Item Name | Drops From | Slot | Stats |
 Amulet of NecropotenceAmulet of Necropotence
 MAGIC ITEM
@@ -762,6 +762,43 @@ Race: ALL
 Amygdalan warrior |
 1H Slashing |
 Atk Delay: 25 DMG: 9 STR: +5 DEX: +4 WT: 2.0 Size: SMALL Class: WAR Race: ALL |
+Anthemion BootsAnthemion Boots
+Lore Equipped, No Trade, Quest
+Slot: FEET
+AC: 6
+STR: 4 AGI: 9
+WT: 0.3 Size: SMALL
+Class: BST
+Race: ALL
+|
+a boogeyman |
+Feet |
+AC: 6 STR: 4 AGI: 9 WT: 0.3 Size: SMALL Class: BST Race: ALL |
+Anthemion GlovesAnthemion Gloves
+Lore Equipped, No Trade, Quest
+Slot: HANDS
+AC: 5
+STR: 5 DEX: 6 MANA: 20
+SV Magic: 7
+WT: 0.3 Size: SMALL
+Class: BST
+Race: ALL
+|
+a scareling |
+Hands |
+AC: 5 STR: 5 DEX: 6 MANA: 20 SV Magic: 7 WT: 0.3 Size: SMALL Class: BST Race: ALL |
+Anthemion JerkinAnthemion Jerkin
+Lore Equpped, No Trade, Quest
+Slot: CHEST
+AC: 11
+STR: 7 STA: 8 WIS: 10 AGI: 8
+WT: 0.3 Size: SMALL
+Class: BST
+Race: ALL
+|
+a glare lord |
+Chest |
+AC: 11 STR: 7 STA: 8 WIS: 10 AGI: 8 WT: 0.3 Size: SMALL Class: BST Race: ALL |
 Ball of Everliving GolemBall of Everliving Golem
 MAGIC ITEM LORE ITEM NO DROP
 Slot: RANGE
@@ -836,7 +873,7 @@ WT: 0.3 Size: SMALL
 Class: NEC
 Race: ALL
 |
-a boogeyman |
+a boogeyman, a spinechiller spider, Amygdalan warrior |
 Wrist |
 AC: 3 STR: +4 DEX: +5 MANA: +15 WT: 0.3 Size: SMALL Class: NEC Race: ALL |
 Blighted BootsBlighted Boots
@@ -1108,7 +1145,7 @@ WT: 0.3 Size: SMALL
 Class: NEC WIZ MAG ENC
 Race: ALL
 |
-a spinechiller spider, still drops? |
+a spinechiller spider |
 Shoulders |
 AC: 4 STA: +2 INT: +1 MANA: +10 SV COLD: +10 WT: 0.3 Size: SMALL Class: NEC WIZ MAG ENC Race: ALL |
 Cryosilk BraceletCryosilk Bracelet
@@ -1557,7 +1594,7 @@ WT: 3.0 Size: SMALL
 Class: BRD
 Race: ALL
 |
-phoboplasm, a fetid fiend |
+phoboplasm, a fetid fiend, a spinechiller spider |
 Wrist |
 AC: 11 DEX: +3 INT: +3 HP: +10 WT: 3.0 Size: SMALL Class: BRD Race: ALL |
 Indicolite GauntletsIndicolite Gauntlets

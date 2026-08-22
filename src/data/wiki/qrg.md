@@ -1,5 +1,5 @@
 # Surefall_Glade (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-22
 
 Surefall Glade - EverQuest Legends Wiki
 Jump to content
@@ -149,8 +149,16 @@ The only powerful rangers and druids on the entire west coast of Antonica are fo
 The mighty bear Mammoth is also occasionally seen in the caves behind the falls. Many still believe this massive bear is simply a legend, but he is all too real, and in constant danger from the other significant player in Surefall Glade.
 There is a very real and serious problem with poachers in the Glade and the nearby areas. The rangers and druids are on constant patrol for them, and one druid can regularly be seen making rounds through the tunnels looking for them. Mammoth is, sadly, considered to be a great prize for the poacher who finally fells him, and his life is in constant danger.
 What's in this zone?
-Quests - Found 12 quests that start in Surefall Glade:
+Quests - Found 13 quests that start in Surefall Glade:
 Quest Name | Reward | Quest Giver | Minimum Level | Classes | Related Zones | Related NPCs |
+Acquire a Mark of Karana
+|
+? |
+Qaelin Hailstorm |
+1 |
+Any; requires Karana as your active deity. |
+None |
+Qaelin Hailstorm |
 Blackburrow Brewers
 |
 Faction, Cloak of JaggedpineCloak of Jaggedpine
@@ -311,7 +319,7 @@ DMG: 13 / 12 / 11
 WT: 4.0 Range: 75 Size: LARGE
 Class: WAR PAL RNG SHD ROG
 Race: ALL
-, coin |
+, coin, Faction |
 Gillarian Naelev |
 5 |
 All |
@@ -341,7 +349,7 @@ Frenway Marthank |
 All |
 None |
 Mammoth |
-NPCs - Found 40 NPCs that spawn in Surefall Glade:
+NPCs - Found 41 NPCs that spawn in Surefall Glade:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Bear Cub
 |
@@ -640,6 +648,14 @@ WT: 1.0 Size: SMALL
 Class: ALL
 Race: ALL
 but not always. Respawn time: 22 Minutes. LOC: (221, -179) |
+Qaelin Hailstorm
+|
+Human |
+Merchant |
+50 |
+(162, 130) |
+|
+Fletching Supplier for Karana blessed Guardian Arrows. |
 Qomber Roblen
 |
 Qeynos Citizen |

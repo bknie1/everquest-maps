@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-08-21
+fetched: 2026-08-22
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -548,21 +548,23 @@ Mithril Bands (8-EoV)
 Brass Knuckles
 |
 WindhowlWindhowl
-No Trade
+Lore Equipped, No Trade
 Slot: Primary
 Skill: Hand to Hand Atk Delay: 22
 DMG: 12
-HP: +55 End: +25
+Dmg Bon: 10
+HP: +50 End: +25
 STR: +4 DEX: +4
 Effect: Herikol's Soothing (Combat, Casting Time: Instant) at Level 46
 WT: 0.1 Size: Tiny
 Class: BST
 Race: ALL
 , Spirit RenderSpirit Render
-No Trade
+Lore Equipped, No Trade
 Slot: Secondary
 Skill: Hand to Hand Atk Delay: 23
 DMG: 10
+Dmg Bon: 11
 HP: 25 Mana: 25
 Effect: Sha's Lethargy (Combat, Casting Time: Instant) at Level 46
 WT: 0.1 Size: Tiny
@@ -1571,8 +1573,8 @@ Wind Rune Meda
 Griffon Talon (3-Gorga)
 |
 Griffon Talon NecklaceGriffon Talon Necklace
-MAGIC ITEM LORE ITEM NO DROP
-Slot: NECK
+Lore Equipped, No Trade
+Slot: Neck
 AC: 4
 STR: +4 STA: +4 WIS: +5
 SV FIRE: +5 SV COLD: +5
@@ -1727,13 +1729,12 @@ Wind Rune Ena
 |
 Spiroc Sky Totem (5-SL)
 |
-Griffon Wing SpauldorsGriffon Wing Spauldors
-MAGIC ITEM LORE ITEM NO DROP
+Griffon Wing SpauldersGriffon Wing Spaulders
+Lore Equipped, No Trade
 Slot: SHOULDERS
-Charges: 10
 AC: 9
 STR: +6 DEX: +6 AGI: +4 HP: +30
-Effect: Levitate (Must Equip, Casting Time: Instant) at Level 45
+Effect: Levitate (Must Equip, Casting Time: Instant, Cooldown: 120s) at Level 45
 WT: 2.5 Size: SMALL
 Class: ROG
 Race: ALL
@@ -2313,8 +2314,8 @@ Class: BRD
 Race: ALL
 (Bard)
 Belt of ContentionBelt of Contention
-MAGIC ITEM LORE ITEM NO DROP
-Slot: WAIST
+Lore Equipped, No Trade
+Slot: Waist
 AC: 10
 STR: +5 STA: +5
 SV FIRE: +5
@@ -2324,8 +2325,8 @@ Class: WAR
 Race: ALL
 (Warrior)
 Belt of IniquityBelt of Iniquity
-MAGIC ITEM LORE ITEM NO DROP
-Slot: WAIST
+Lore Equipped, No Trade
+Slot: Waist
 AC: 8
 STR: +5 INT: +5
 SV MAGIC: +5
@@ -2335,8 +2336,8 @@ Class: SHD
 Race: ALL
 (Shadow Knight)
 Belt of the PineBelt of the Pine
-MAGIC ITEM LORE ITEM NO DROP
-Slot: WAIST
+Lore Equipped, No Trade
+Slot: Waist
 AC: 6
 STR: +5 WIS: +5
 SV DISEASE: +5
@@ -2357,8 +2358,8 @@ Class: MNK
 Race: ALL
 (Monk)
 Belt of TransienceBelt of Transience
-MAGIC ITEM LORE ITEM NO DROP
-Slot: WAIST
+Lore Equipped, No Trade
+Slot: Waist
 AC: 6
 STR: +5 DEX: +5
 SV POISON: +10
@@ -2368,11 +2369,11 @@ Class: ROG
 Race: ALL
 (Rogue)
 Belt of VirtueBelt of Virtue
-MAGIC ITEM LORE ITEM NO DROP
-Slot: WAIST
+Lore Equipped, No Trade
+Slot: Waist
 AC: 8
-STR: +5 WIS: +5
-SV MAGIC: +5
+STR: 5 WIS: 5
+SV MAGIC: 5
 Haste: +16%
 WT: 0.1 Size: SMALL
 Class: PAL
@@ -2405,19 +2406,20 @@ Class: MAG
 Race: ALL
 (Magician)
 Bracelet of QuiescenceBracelet of Quiescence
-MAGIC ITEM LORE ITEM NO DROP
-Slot: WRIST
-CHA: +7 INT: +7 MANA: +20
+Lore Equipped, No Trade
+Slot: Wrist
+CHA: 7 INT: 7 MANA: 20
 WT: 0.1 Size: TINY
 Class: ENC
 Race: ALL
 (Enchanter)
 Other Random Drops
 Blade of AbrogationBlade of Abrogation
-MAGIC ITEM LORE ITEM NO DROP
-Slot: PRIMARY
+Lore Equipped, No Trade, Quest, Placeable
+Slot: Primary
 Skill: 1H Slashing Atk Delay: 39
 DMG: 20
+Dmg Bon: 19
 STR: +7 INT: +3
 WT: 7.5 Size: MEDIUM
 Class: SHD
@@ -2433,8 +2435,8 @@ Class: SHM
 Race: ALL
 (SHM)
 Symbol of MarrSymbol of Marr
-MAGIC ITEM LORE ITEM NO DROP
-Slot: NECK
+Lore Equipped, No Trade
+Slot: Neck
 AC: 15
 STR: +5 WIS: +5
 WT: 0.1 Size: TINY
@@ -2442,18 +2444,18 @@ Class: PAL
 Race: ALL
 (PAL)
 Treant TearTreant Tear
-MAGIC ITEM LORE ITEM NO DROP
-Slot: EAR
+Lore Equipped, No Trade
+Slot: Ear
 AC: 2
-MANA: +40
-SV FIRE: +5 SV DISEASE: +5 SV COLD: +5 SV MAGIC: +5 SV POISON: +5
+MANA: 40
+SV FIRE: 5 SV DISEASE: 5 SV COLD: 5 SV MAGIC: 5 SV POISON: 5
 WT: 0.1 Size: TINY
 Class: DRU
 Race: ALL
 (DRU)
 Weight of the GodsWeight of the Gods
-MAGIC ITEM LORE ITEM NO DROP
-Slot: SHOULDERS
+Lore Equipped, No Trade
+Slot: Shoulders
 AC: 12
 WIS: +5 AGI: +5 MANA: +50
 SV MAGIC: +25
@@ -2462,20 +2464,21 @@ Class: CLR
 Race: ALL
 (CLR)
 White Satin GlovesWhite Satin Gloves
-MAGIC ITEM LORE ITEM NO DROP
-Slot: HANDS
+Lore Equipped, No Trade
+Slot: Hands
 AC: 4
-HP: +25 MANA: +25
-SV FIRE: +30 SV DISEASE: -5 SV COLD: -5 SV MAGIC: -5 SV POISON: -5
+HP: 25 MANA: 25 End: 25
+SV FIRE: 30 SV DISEASE: -5 SV COLD: -5 SV MAGIC: -5 SV POISON: -5
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 (All)
 Whitened Treant FistsWhitened Treant Fists
-MAGIC ITEM NO DROP
-Slot: PRIMARY SECONDARY
-Skill: 1H Blunt Atk Delay: 28
+No Trade, Placeable
+Slot: Primary Secondary
+Skill: Hand to Hand Atk Delay: 28
 DMG: 14
+Dmg Bon: 13
 WT: 0.1 Size: TINY
 Class: MNK
 Race: ALL
@@ -2809,10 +2812,11 @@ Warrior |
 55 |
 Island 4 |
 Blade of AbrogationBlade of Abrogation
-MAGIC ITEM LORE ITEM NO DROP
-Slot: PRIMARY
+Lore Equipped, No Trade, Quest, Placeable
+Slot: Primary
 Skill: 1H Slashing Atk Delay: 39
 DMG: 20
+Dmg Bon: 19
 STR: +7 INT: +3
 WT: 7.5 Size: MEDIUM
 Class: SHD
@@ -3502,8 +3506,8 @@ Various |
 Waist |
 AC: 6 STR: +5 CHA: +5 SV POISON: +5 Haste: +16% WT: 0.1 Size: SMALL Class: BRD Race: ALL |
 Belt of ContentionBelt of Contention
-MAGIC ITEM LORE ITEM NO DROP
-Slot: WAIST
+Lore Equipped, No Trade
+Slot: Waist
 AC: 10
 STR: +5 STA: +5
 SV FIRE: +5
@@ -3516,8 +3520,8 @@ Various |
 Waist |
 AC: 10 STR: +5 STA: +5 SV FIRE: +5 Haste: +21% WT: 0.1 Size: SMALL Class: WAR Race: ALL |
 Belt of IniquityBelt of Iniquity
-MAGIC ITEM LORE ITEM NO DROP
-Slot: WAIST
+Lore Equipped, No Trade
+Slot: Waist
 AC: 8
 STR: +5 INT: +5
 SV MAGIC: +5
@@ -3544,8 +3548,8 @@ Various |
 Waist |
 AC: 4 STR: +5 DEX: +5 SV COLD: +5 Haste: +21% WT: 0.1 Size: SMALL Class: MNK Race: ALL |
 Belt of TransienceBelt of Transience
-MAGIC ITEM LORE ITEM NO DROP
-Slot: WAIST
+Lore Equipped, No Trade
+Slot: Waist
 AC: 6
 STR: +5 DEX: +5
 SV POISON: +10
@@ -3558,11 +3562,11 @@ Various |
 Waist |
 AC: 6 STR: +5 DEX: +5 SV POISON: +10 Haste: +21% WT: 0.1 Size: SMALL Class: ROG Race: ALL |
 Belt of VirtueBelt of Virtue
-MAGIC ITEM LORE ITEM NO DROP
-Slot: WAIST
+Lore Equipped, No Trade
+Slot: Waist
 AC: 8
-STR: +5 WIS: +5
-SV MAGIC: +5
+STR: 5 WIS: 5
+SV MAGIC: 5
 Haste: +16%
 WT: 0.1 Size: SMALL
 Class: PAL
@@ -3570,10 +3574,10 @@ Race: ALL
 |
 Various |
 Waist |
-AC: 8 STR: +5 WIS: +5 SV MAGIC: +5 Haste: +16% WT: 0.1 Size: SMALL Class: PAL Race: ALL |
+AC: 8 STR: 5 WIS: 5 SV MAGIC: 5 Haste: +16% WT: 0.1 Size: SMALL Class: PAL Race: ALL |
 Belt of the PineBelt of the Pine
-MAGIC ITEM LORE ITEM NO DROP
-Slot: WAIST
+Lore Equipped, No Trade
+Slot: Waist
 AC: 6
 STR: +5 WIS: +5
 SV DISEASE: +5
@@ -3627,17 +3631,18 @@ Bazzt Zzzt |
 Piercing |
 Atk Delay: 22 DMG: 7 DMG Bonus: 10 Effect: Weak Poison (Combat, Casting Time: Instant) at Level 46 WT: 2.0 Size: MEDIUM Class: ROG Race: ALL |
 Bixie Sword BladeBixie Sword Blade
-MAGIC ITEM LORE ITEM NO DROP
-Slot: PRIMARY
+Lore Equipped, No Trade, Quest, Placeable
+Slot: Primary
 Skill: 1H Slashing Atk Delay: 16
 DMG: 2
+Dmg Bon: 7
 WT: 1.0 Size: MEDIUM
 Class: PAL
 Race: ALL
 |
 Bazzt Zzzt |
 1H Slashing |
-Atk Delay: 16 DMG: 2 WT: 1.0 Size: MEDIUM Class: PAL Race: ALL |
+Atk Delay: 16 DMG: 2 Dmg Bon: 7 WT: 1.0 Size: MEDIUM Class: PAL Race: ALL |
 Black Face PaintBlack Face Paint
 LORE ITEM
 WT: 1.0 Size: MEDIUM
@@ -3667,16 +3672,16 @@ a spiroc walker, The Spiroc Guardian |
 LORE ITEM WT: 5.0 Size: MEDIUM Class: ALL Race: ALL |
 Black Silk CapeBlack Silk Cape
 Lore Equipped, No Trade, Quest
-Slot: BACK
+Slot: Back
 AC: 3
-MANA: +10
+MANA: 10
 Size: TINY
 Class: NEC
 Race: ALL
 |
 Keeper of Souls |
 Back |
-AC: 3 MANA: +10 Size: TINY Class: NEC Race: ALL |
+AC: 3 MANA: 10 Size: TINY Class: NEC Race: ALL |
 Black Sky DiamondBlack Sky Diamond
 LORE ITEM
 WT: 3.0 Size: MEDIUM
@@ -3687,10 +3692,11 @@ a greater sphinx, an undine spirit |
 (None) |
 LORE ITEM WT: 3.0 Size: MEDIUM Class: ALL Race: ALL |
 Blade of AbrogationBlade of Abrogation
-MAGIC ITEM LORE ITEM NO DROP
-Slot: PRIMARY
+Lore Equipped, No Trade, Quest, Placeable
+Slot: Primary
 Skill: 1H Slashing Atk Delay: 39
 DMG: 20
+Dmg Bon: 19
 STR: +7 INT: +3
 WT: 7.5 Size: MEDIUM
 Class: SHD
@@ -3698,7 +3704,7 @@ Race: ALL
 |
 Various |
 1H Slashing |
-Atk Delay: 39 DMG: 20 STR: +7 INT: +3 WT: 7.5 Size: MEDIUM Class: SHD Race: ALL |
+Atk Delay: 39 DMG: 20 Dmg Bon: 19 STR: +7 INT: +3 WT: 7.5 Size: MEDIUM Class: SHD Race: ALL |
 Blood-Drawn RunesBlood-Drawn Runes
 No Trade, Quest
 Slot: CHEST
@@ -3731,14 +3737,14 @@ The Spiroc Guardian, a spiroc arbiter |
 (None) |
 LORE ITEM WT: 1.0 Size: SMALL Class: ALL Race: ALL |
 Blood Sky RubyBlood Sky Ruby
-LORE ITEM NO DROP
+No Trade, Quest
 WT: 10.0 Size: LARGE
 Class: SHD
 Race: ALL
 |
 Eye of Veeshan |
 (None) |
-LORE ITEM NO DROP WT: 10.0 Size: LARGE Class: SHD Race: ALL |
+No Trade, Quest WT: 10.0 Size: LARGE Class: SHD Race: ALL |
 Bloodsky SapphireBloodsky Sapphire
 LORE ITEM NO DROP
 WT: 2.0 Size: MEDIUM
@@ -3818,16 +3824,16 @@ Various |
 Wrist |
 STR: +5 HP: +75 MANA: +35 WT: 0.1 Size: TINY Class: MAG Race: ALL |
 Bracelet of QuiescenceBracelet of Quiescence
-MAGIC ITEM LORE ITEM NO DROP
-Slot: WRIST
-CHA: +7 INT: +7 MANA: +20
+Lore Equipped, No Trade
+Slot: Wrist
+CHA: 7 INT: 7 MANA: 20
 WT: 0.1 Size: TINY
 Class: ENC
 Race: ALL
 |
 Various |
 Wrist |
-CHA: +7 INT: +7 MANA: +20 WT: 0.1 Size: TINY Class: ENC Race: ALL |
+CHA: 7 INT: 7 MANA: 20 WT: 0.1 Size: TINY Class: ENC Race: ALL |
 Breath of GwanBreath of Gwan
 MAGIC ITEM LORE ITEM NO DROP
 WT: 0.1 Size: SMALL
@@ -3874,8 +3880,8 @@ Various |
 (None) |
 LORE ITEM WT: 1.0 Size: SMALL Class: ALL Race: ALL |
 Ceramic MaskCeramic Mask
-MAGIC ITEM LORE ITEM NO DROP
-Slot: FACE
+Lore Equipped, No Trade, Quest
+Slot: Face
 AC: 4
 INT: +2
 WT: 1.0 Size: MEDIUM
@@ -3886,8 +3892,8 @@ Keeper of Souls |
 Face |
 AC: 4 INT: +2 WT: 1.0 Size: MEDIUM Class: MAG Race: ALL |
 Ceremonial BeltCeremonial Belt
-MAGIC ITEM LORE ITEM NO DROP
-Slot: WAIST
+Lore Equipped, No Trade, Quest
+Slot: Waist
 AC: 6
 WIS: +5
 WT: 0.1 Size: SMALL
@@ -3952,8 +3958,8 @@ Bizazzzt |
 Waist |
 AC: 4 DEX: +2 STA: +2 AGI: +2 WT: 1.0 Size: SMALL Class: ALL except NEC WIZ MAG ENC Race: ALL |
 Cracked Leather EyepatchCracked Leather Eyepatch
-MAGIC ITEM LORE ITEM NO DROP
-Slot: FACE
+Lore Equipped, No Trade, Quest
+Slot: Face
 AC: 2
 WT: 0.1 Size: SMALL
 Class: MNK
@@ -4212,29 +4218,31 @@ Eye of Veeshan, Noble Dojorn (May not drop in EQL from this mob) |
 2H Blunt |
 Atk Delay: 42 DMG: 14 INT: +4 SV FIRE: +5 SV COLD: +5 WT: 0.2 Size: SMALL Class: NEC Race: ALL |
 Efreeti Long SwordEfreeti Long Sword
-MAGIC ITEM LORE ITEM
-Slot: PRIMARY SECONDARY
+Lore Equipped, Attunable, Quest, Placeable
+Slot: Primary Secondary
 Skill: 1H Slashing Atk Delay: 28
 DMG: 11
+Dmg Bon: 13
 WT: 0.1 Size: SMALL
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
-Noble Dojorn |
+Noble Dojorn, Overseer of Air, the Hand of Veeshan |
 1H Slashing |
-Atk Delay: 28 DMG: 11 WT: 0.1 Size: SMALL Class: WAR PAL RNG SHD BRD ROG Race: ALL |
+Atk Delay: 28 DMG: 11 Dmg Bon: 13 WT: 0.1 Size: SMALL Class: WAR PAL RNG SHD BRD ROG Race: ALL |
 Efreeti MaceEfreeti Mace
-MAGIC ITEM LORE ITEM
-Slot: PRIMARY
+Lore Equipped, Attunable, Quest, Placeable
+Slot: Primary
 Skill: 1H Blunt Atk Delay: 30
 DMG: 10
+Dmg Bon: 15
 WT: 1.0 Size: MEDIUM
-Class: ALL except DRU NEC WIZ MAG ENC
+Class: WAR CLR PAL RNG SHD MNK BRD ROG SHM BST
 Race: ALL
 |
-Noble Dojorn, Overseer of Air |
+Noble Dojorn, Overseer of Air, the Hand of Veeshan |
 1H Blunt |
-Atk Delay: 30 DMG: 10 WT: 1.0 Size: MEDIUM Class: ALL except DRU NEC WIZ MAG ENC Race: ALL |
+Atk Delay: 30 DMG: 10 Dmg Bon: 15 WT: 1.0 Size: MEDIUM Class: WAR CLR PAL RNG SHD MNK BRD ROG SHM BST Race: ALL |
 Efreeti Magi StaffEfreeti Magi Staff
 MAGIC ITEM LORE ITEM
 Slot: PRIMARY
@@ -4262,41 +4270,43 @@ Noble Dojorn, Overseer of Air |
 1H Slashing |
 Atk Delay: 29 DMG: 12 MANA: +10 WT: 0.1 Size: SMALL Class: WAR PAL RNG SHD DRU MNK BRD ROG Race: ALL |
 Efreeti StandardEfreeti Standard
-MAGIC ITEM LORE ITEM
-Slot: SECONDARY
+Lore Equipped, Attunable, Quest, Placeable
+Slot: Secondary
 Skill: 1H Blunt Atk Delay: 10
 DMG: 3
+Dmg Bon: 5
 WT: 10.0 Size: LARGE
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC
 Race: ALL
 |
-Noble Dojorn |
+Noble Dojorn, the Hand of Veeshan |
 1H Blunt |
-Atk Delay: 10 DMG: 3 WT: 10.0 Size: LARGE Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC Race: ALL |
+Atk Delay: 10 DMG: 3 Dmg Bon: 5 WT: 10.0 Size: LARGE Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC Race: ALL |
 Efreeti StatuetteEfreeti Statuette
-LORE ITEM
+No Trade, Quest
 WT: 1.0 Size: SMALL
-Class: ALL
+Class: DRU WIZ
 Race: ALL
 |
 Noble Dojorn, Overseer of Air, The Hand of Veeshan |
 (None) |
-LORE ITEM WT: 1.0 Size: SMALL Class: ALL Race: ALL |
+No Trade, Quest WT: 1.0 Size: SMALL Class: DRU WIZ Race: ALL |
 Efreeti War AxeEfreeti War Axe
-MAGIC ITEM LORE ITEM
-Slot: PRIMARY
+Lore Equipped, Attunable, Quest, Placeable
+Slot: Primary
 Skill: 2H Slashing Atk Delay: 28
 DMG: 12
+Dmg Bon: 19
 WT: 0.1 Size: SMALL
-Class: WAR PAL SHD
+Class: WAR PAL SHD BER
 Race: ALL
 |
-Noble Dojorn, Overseer of Air |
+Noble Dojorn, Overseer of Air, the Hand of Veeshan |
 2H Slashing |
-Atk Delay: 28 DMG: 12 WT: 0.1 Size: SMALL Class: WAR PAL SHD Race: ALL |
+Atk Delay: 28 DMG: 12 Dmg Bon: 19 WT: 0.1 Size: SMALL Class: WAR PAL SHD BER Race: ALL |
 Efreeti War BowEfreeti War Bow
-MAGIC ITEM LORE ITEM
-Slot: RANGE
+Lore Equipped, Attunable, Quest, Placeable
+Slot: Range
 Skill: Archery Atk Delay: 100
 DMG: 40
 WT: 1.0 Range: 75 Size: MEDIUM
@@ -4320,41 +4330,42 @@ Noble Dojorn, Overseer of Air, the Hand of Veeshan |
 1H Blunt |
 Atk Delay: 26 DMG: 11 Dmg Bon: 12 WT: 1.0 Size: MEDIUM Class: War CLR PAL RNG SHD DRU MNK ROG SHM BST Race: ALL |
 Efreeti War HornEfreeti War Horn
-MAGIC ITEM LORE ITEM
-Slot: PRIMARY
-Brass Resonance: 12
+Lore Equipped, Attunable, Quest, Placeable
+Slot: Primary Secondary
 WT: 5.0 Size: MEDIUM
-Class: BRD
-Race: ALL
+Class: ALL
+Race: ALLFocus Effect: Brass Resonance: 13
 |
 Noble Dojorn, Overseer of Air, The Hand of Veeshan |
-Primary |
-Brass Resonance: 12 WT: 5.0 Size: MEDIUM Class: BRD Race: ALL |
+Primary, Secondary |
+WT: 5.0 Size: MEDIUM Class: ALL Race: ALL |
 Efreeti War MaulEfreeti War Maul
-MAGIC ITEM LORE ITEM
-Slot: PRIMARY
+Lore Equipped, Attunable, Quest, Placeable
+Slot: Primary
 Skill: 2H Blunt Atk Delay: 35
 DMG: 15
+Dmg Bon: 24
 WT: 10.0 Size: LARGE
-Class: WAR PAL RNG SHD SHM
+Class: WAR PAL RNG SHD SHM BST BER
 Race: ALL
 |
-Noble Dojorn, Overseer of Air |
+Noble Dojorn, Overseer of Air, the Hand of Veeshan |
 2H Blunt |
-Atk Delay: 35 DMG: 15 WT: 10.0 Size: LARGE Class: WAR PAL RNG SHD SHM Race: ALL |
+Atk Delay: 35 DMG: 15 Dmg Bon: 24 WT: 10.0 Size: LARGE Class: WAR PAL RNG SHD SHM BST BER Race: ALL |
 Efreeti War ShieldEfreeti War Shield
-MAGIC ITEM LORE ITEM
-Slot: SECONDARY
+Lore Equipped, Attunable, Quest, Placeable
+Slot: Secondary
 AC: 15
 STR: +5
 SV FIRE: +10
 WT: 2.0 Size: MEDIUM
+Skill: Shield
 Class: WAR CLR PAL RNG SHD
 Race: ALL
 |
 Noble Dojorn, Overseer of Air |
 Secondary |
-AC: 15 STR: +5 SV FIRE: +10 WT: 2.0 Size: MEDIUM Class: WAR CLR PAL RNG SHD Race: ALL |
+AC: 15 STR: +5 SV FIRE: +10 WT: 2.0 Size: MEDIUM Skill: Shield Class: WAR CLR PAL RNG SHD Race: ALL |
 Efreeti War SpearEfreeti War Spear
 MAGIC ITEM LORE ITEM
 Slot: PRIMARY
@@ -4368,43 +4379,46 @@ Noble Dojorn, Overseer of Air |
 Piercing |
 Atk Delay: 40 DMG: 15 WT: 5.0 Size: MEDIUM Class: WAR BRD ROG SHM Race: ALL |
 Efreeti War StaffEfreeti War Staff
-MAGIC ITEM LORE ITEM
-Slot: PRIMARY
+Lore Equipped, Attunable, Quest, Placeable
+Slot: Primary
 Skill: 2H Blunt Atk Delay: 30
 DMG: 10
+Dmg Bon: 20
+End: 11
 WT: 1.0 Size: MEDIUM
 Class: ALL
 Race: ALL
 |
-The Hand of Veeshan, Noble Dojorn, Overseer of Air |
+Noble Dojorn, Overseer of Air, the Hand of Veeshan |
 2H Blunt |
-Atk Delay: 30 DMG: 10 WT: 1.0 Size: MEDIUM Class: ALL Race: ALL |
+Atk Delay: 30 DMG: 10 Dmg Bon: 20 End: 11 WT: 1.0 Size: MEDIUM Class: ALL Race: ALL |
 Efreeti Wind StaffEfreeti Wind Staff
-MAGIC ITEM LORE ITEM
-Slot: PRIMARY
+Lore Equipped, Attunable, Quest, Placeable
+Slot: Primary
 Skill: 2H Blunt Atk Delay: 36
 DMG: 12
-INT: +3
+Dmg Bon: 24
+INT: 3
 WT: 15.0 Size: LARGE
-Class: CLR DRU SHM NEC WIZ MAG ENC
+Class: CLR DRU SHM NEC WIZ MAG ENC BST BER
 Race: ALL
 |
-Noble Dojorn, The Hand of Veeshan |
+Noble Dojorn, Overseer of Air, the Hand of Veeshan |
 2H Blunt |
-Atk Delay: 36 DMG: 12 INT: +3 WT: 15.0 Size: LARGE Class: CLR DRU SHM NEC WIZ MAG ENC Race: ALL |
+Atk Delay: 36 DMG: 12 Dmg Bon: 24 INT: 3 WT: 15.0 Size: LARGE Class: CLR DRU SHM NEC WIZ MAG ENC BST BER Race: ALL |
 Efreeti ZweihanderEfreeti Zweihander
 Lore Equipped, Attunable, Quest, Placeable
 Slot: Primary
 Skill: 2H Slashing Atk Delay: 45
 DMG: 24
-Dmg Bon: 27
+Dmg Bon: 30
 WT: 0.1 Size: SMALL
 Class: WAR PAL RNG SHD BER
 Race: ALL
 |
 Noble Dojorn, Overseer of Air, The Hand of Veeshan |
 2H Slashing |
-Atk Delay: 45 DMG: 24 Dmg Bon: 27 WT: 0.1 Size: SMALL Class: WAR PAL RNG SHD BER Race: ALL |
+Atk Delay: 45 DMG: 24 Dmg Bon: 30 WT: 0.1 Size: SMALL Class: WAR PAL RNG SHD BER Race: ALL |
 Emerald Spiroc FeatherEmerald Spiroc Feather
 LORE ITEM
 WT: 2.0 Size: MEDIUM
@@ -4451,14 +4465,14 @@ a gorgalask |
 (None) |
 LORE ITEM WT: 2.0 Size: MEDIUM Class: ALL Race: ALL |
 Ethereal RubyEthereal Ruby
-LORE ITEM NO DROP
+No Trade, Quest
 WT: 1.0 Size: MEDIUM
-Class: ALL
+Class: DRU
 Race: ALL
 |
 Sister of the Spire |
 (None) |
-LORE ITEM NO DROP WT: 1.0 Size: MEDIUM Class: ALL Race: ALL |
+No Trade, Quest WT: 1.0 Size: MEDIUM Class: DRU Race: ALL |
 Ethereal SapphireEthereal Sapphire
 LORE ITEM
 WT: 1.0 Size: SMALL
@@ -4487,17 +4501,17 @@ an essence carrier |
 (None) |
 LORE ITEM WT: 18.0 Size: LARGE Class: ALL Race: ALL |
 Feathered CapeFeathered Cape
-LORE ITEM NO DROP
-Slot: BACK
+Lore Equipped, No Trade, Quest
+Slot: Back
 AC: 4
 INT: +3 MANA: +10
 WT: 0.5 Size: SMALL
-Class: MAG
+Class: MAG BER
 Race: ALL
 |
 Gorgalosk |
 Back |
-AC: 4 INT: +3 MANA: +10 WT: 0.5 Size: SMALL Class: MAG Race: ALL |
+AC: 4 INT: +3 MANA: +10 WT: 0.5 Size: SMALL Class: MAG BER Race: ALL |
 Fine Cloth RaimentFine Cloth Raiment
 MAGIC ITEM LORE ITEM NO DROP
 Slot: SHOULDERS
@@ -4523,14 +4537,14 @@ Keeper of Souls |
 Back |
 AC: 5 INT: +2 MANA: +10 WT: 8.0 Size: LARGE Class: RNG Race: ALL |
 Finely Crafted AmuletFinely Crafted Amulet
-LORE ITEM NO DROP
+No Trade, Quest
 WT: 0.1 Size: TINY
-Class: ALL
+Class: SHD
 Race: ALL
 |
 Gorgalosk |
 (None) |
-LORE ITEM NO DROP WT: 0.1 Size: TINY Class: ALL Race: ALL |
+No Trade, Quest WT: 0.1 Size: TINY Class: SHD Race: ALL |
 Finely Woven Cloth AmiceFinely Woven Cloth Amice
 LORE ITEM
 Slot: SHOULDERS
@@ -4620,8 +4634,8 @@ Sister of the Spire |
 (None) |
 LORE ITEM NO DROP WT: 0.1 Size: SMALL Class: ALL Race: ALL |
 Glowing NecklaceGlowing Necklace
-MAGIC ITEM LORE ITEM NO DROP
-Slot: NECK
+Lore Equipped, No Trade, Quest
+Slot: Neck
 AC: 2
 SV DISEASE: +5 SV POISON: +5
 WT: 1.0 Size: MEDIUM
@@ -4659,27 +4673,27 @@ The Spiroc Lord |
 (None) |
 LORE ITEM NO DROP WT: 10.0 Size: LARGE Class: ALL Race: ALL |
 Golden Efreeti BracersGolden Efreeti Bracers
-MAGIC ITEM NO DROP
-Slot: WRIST
+No Trade
+Slot: Wrist
 AC: 8
-AGI: +5 MANA: +20
+AGI: 5 MANA: 20
 WT: 3.0 Size: SMALL
 Class: ALL
 Race: ALL
 |
-Noble Dojorn, Overseer of Air |
+Noble Dojorn, Overseer of Air, the Hand of Veeshan |
 Wrist |
-AC: 8 AGI: +5 MANA: +20 WT: 3.0 Size: SMALL Class: ALL Race: ALL |
+AC: 8 AGI: 5 MANA: 20 WT: 3.0 Size: SMALL Class: ALL Race: ALL |
 Golden Efreeti ChestplateGolden Efreeti Chestplate
-MAGIC ITEM LORE ITEM NO DROP
-Slot: CHEST
+Lore Equipped, No Trade
+Slot: Chest
 AC: 20
 STR: +5 WIS: +10
 WT: 7.5 Size: LARGE
 Class: ALL
 Race: ALL
 |
-Noble Dojorn, Overseer of Air |
+Noble Dojorn, Overseer of Air, the Hand of Veeshan |
 Chest |
 AC: 20 STR: +5 WIS: +10 WT: 7.5 Size: LARGE Class: ALL Race: ALL |
 Golden Efreeti GauntletsGolden Efreeti Gauntlets
@@ -4721,8 +4735,8 @@ Sister of the Spire |
 Fingers |
 AC: 4 STA: +4 CHA: +4 SV FIRE: +3 SV DISEASE: +3 WT: 0.2 Size: SMALL Class: MAG Race: ALL |
 Golden Efreeti TurbanGolden Efreeti Turban
-MAGIC ITEM LORE ITEM NO DROP
-Slot: HEAD
+Lore Equipped, No Trade
+Slot: Head
 AC: 10
 STR: +5
 SV FIRE: +6 SV DISEASE: +6 SV COLD: +6 SV MAGIC: +6 SV POISON: +6
@@ -4730,21 +4744,22 @@ WT: 4.5 Size: SMALL
 Class: ALL
 Race: ALL
 |
-Noble Dojorn, Overseer of Air |
+Noble Dojorn, Overseer of Air, the Hand of Veeshan |
 Head |
 AC: 10 STR: +5 SV FIRE: +6 SV DISEASE: +6 SV COLD: +6 SV MAGIC: +6 SV POISON: +6 WT: 4.5 Size: SMALL Class: ALL Race: ALL |
 Golden Efreeti VambracesGolden Efreeti Vambraces
-MAGIC ITEM LORE ITEM NO DROP
-Slot: ARMS
+Lore Equipped, No Trade
+Slot: Arms
 AC: 12
 DEX: +6 STA: +10
+End: 20
 WT: 4.9 Size: SMALL
 Class: ALL
 Race: ALL
 |
-Noble Dojorn, Overseer of Air |
+Noble Dojorn, Overseer of Air, the Hand of Veeshan |
 Arms |
-AC: 12 DEX: +6 STA: +10 WT: 4.9 Size: SMALL Class: ALL Race: ALL |
+AC: 12 DEX: +6 STA: +10 End: 20 WT: 4.9 Size: SMALL Class: ALL Race: ALL |
 Golden HiltGolden Hilt
 LORE ITEM
 WT: 1.0 Size: MEDIUM
@@ -4945,17 +4960,17 @@ Bazzzazzt |
 (None) |
 LORE ITEM WT: 5.0 Size: MEDIUM Class: ALL Race: ALL |
 Jester's MaskJester's Mask
-MAGIC ITEM LORE ITEM NO DROP
-Slot: FACE
+Lore Equipped, No Trade, Quest
+Slot: Face
 AC: 5
 AGI: +2
 WT: 15.0 Size: LARGE
-Class: ROG
+Class: ROG BER
 Race: ALL
 |
 Keeper of Souls |
 Face |
-AC: 5 AGI: +2 WT: 15.0 Size: LARGE Class: ROG Race: ALL |
+AC: 5 AGI: +2 WT: 15.0 Size: LARGE Class: ROG BER Race: ALL |
 Key of MisfortuneKey of Misfortune
 LORE ITEM NO DROP
 WT: 1.0 Size: SMALL
@@ -5011,17 +5026,17 @@ Noble Dojorn, Overseer of Air, The Hand of Veeshan |
 (None) |
 LORE ITEM WT: 0.1 Size: SMALL Class: ALL Race: ALL |
 Light Cloth MantleLight Cloth Mantle
-MAGIC ITEM LORE ITEM NO DROP
-Slot: SHOULDERS
+Lore Equipped, Attunable, Quest
+Slot: Shoulders
 AC: 4
-STA: +3 CHA: +3
+STA: 3 CHA: 3
 WT: 9.0 Size: LARGE
 Class: ENC
 Race: ALL
 |
 Keeper of Souls |
 Shoulders |
-AC: 4 STA: +3 CHA: +3 WT: 9.0 Size: LARGE Class: ENC Race: ALL |
+AC: 4 STA: 3 CHA: 3 WT: 9.0 Size: LARGE Class: ENC Race: ALL |
 Light Damask MantleLight Damask Mantle
 LORE ITEM NO DROP
 Slot: SHOULDERS
@@ -5104,14 +5119,14 @@ The Spiroc Guardian |
 Fingers |
 CHA: +2 HP: +4 MANA: +4 SV FIRE: +3 SV COLD: +3 WT: 1.0 Size: SMALL Class: ALL Race: ALL |
 Mithril BandsMithril Bands
-LORE ITEM NO DROP
+No Trade, Quest
 WT: 12.0 Size: LARGE
-Class: ALL
+Class: CLR BST
 Race: ALL
 |
 Eye of Veeshan |
 (None) |
-LORE ITEM NO DROP WT: 12.0 Size: LARGE Class: ALL Race: ALL |
+No Trade, Quest WT: 12.0 Size: LARGE Class: CLR BST Race: ALL |
 Mithril DiscMithril Disc
 LORE ITEM
 WT: 8.0 Size: MEDIUM
@@ -5167,14 +5182,14 @@ Bizazzzt, Bzzzt |
 (None) |
 LORE ITEM WT: 10.0 Size: LARGE Class: ALL Race: ALL |
 Nebulous SapphireNebulous Sapphire
-LORE ITEM NO DROP
+No Trade, Quest
 WT: 5.0 Size: MEDIUM
-Class: ALL
+Class: MNK
 Race: ALL
 |
 Sister of the Spire |
 (None) |
-LORE ITEM NO DROP WT: 5.0 Size: MEDIUM Class: ALL Race: ALL |
+No Trade, Quest WT: 5.0 Size: MEDIUM Class: MNK Race: ALL |
 Noise MakerNoise Maker
 LORE ITEM NO DROP
 WT: 0.1 Size: TINY
@@ -5393,14 +5408,14 @@ The Spiroc Lord |
 Back |
 AC: 2 DEX: +3 AGI: +3 WT: 5.0 Size: MEDIUM Class: ENC Race: ALL |
 Silken StrandsSilken Strands
-LORE ITEM NO DROP
+No Trade, Quest
 WT: 0.5 Size: SMALL
-Class: ALL
+Class: MNK
 Race: ALL
 |
 Gorgalosk |
 (None) |
-LORE ITEM NO DROP WT: 0.5 Size: SMALL Class: ALL Race: ALL |
+No Trade, Quest WT: 0.5 Size: SMALL Class: MNK Race: ALL |
 Silken WrapSilken Wrap
 LORE ITEM NO DROP
 WT: 0.1 Size: SMALL
@@ -5441,8 +5456,8 @@ a soul harvester |
 Waist |
 AC: 10 STR: +5 STA: +5 WT: 0.2 Size: SMALL Class: PAL Race: ALL |
 Silvery RingSilvery Ring
-MAGIC ITEM LORE ITEM NO DROP
-Slot: FINGER
+Lore Equipped, No Trade, Quest
+Slot: Fingers
 SV MAGIC: +5
 WT: 5.0 Size: MEDIUM
 Class: SHD
@@ -5521,8 +5536,8 @@ a gorgalask |
 (None) |
 LORE ITEM NO DROP WT: 0.1 Size: TINY Class: ALL Race: ALL |
 Small ShieldSmall Shield
-MAGIC ITEM LORE ITEM NO DROP
-Slot: SECONDARY
+Lore Equipped, No Trade, Quest
+Slot: Secondary
 AC: 15
 WIS: +4
 WT: 2.5 Size: SMALL
@@ -5542,17 +5557,18 @@ Protector of Sky |
 (None) |
 LORE ITEM WT: 6.0 Size: MEDIUM Class: ALL Race: ALL |
 Sphinx ClawSphinx Claw
-LORE ITEM NO DROP
+Lore Equipped, No Trade, Quest, Placeable
 Slot: PRIMARY
 Skill: 1H Slashing Atk Delay: 20
 DMG: 12
+Dmg Bon: 10
 WT: 2.0 Size: MEDIUM
 Class: PAL BST
 Race: ALL
 |
 Sister of the Spire |
 1H Slashing |
-Atk Delay: 20 DMG: 12 WT: 2.0 Size: MEDIUM Class: PAL BST Race: ALL |
+Atk Delay: 20 DMG: 12 Dmg Bon: 10 WT: 2.0 Size: MEDIUM Class: PAL BST Race: ALL |
 Sphinx CrownSphinx Crown
 LORE ITEM
 Slot: HEAD
@@ -5619,10 +5635,11 @@ Sister of the Spire |
 Fingers |
 MANA: +10 WT: 2.0 Size: MEDIUM Class: ALL Race: ALL |
 Spirit RenderSpirit Render
-No Trade
+Lore Equipped, No Trade
 Slot: Secondary
 Skill: Hand to Hand Atk Delay: 23
 DMG: 10
+Dmg Bon: 11
 HP: 25 Mana: 25
 Effect: Sha's Lethargy (Combat, Casting Time: Instant) at Level 46
 WT: 0.1 Size: Tiny
@@ -5631,7 +5648,7 @@ Race: ALL
 |
 None? |
 Hand to Hand |
-Atk Delay: 23 DMG: 10 HP: 25 Mana: 25 Effect: Sha's Lethargy (Combat, Casting Time: Instant) at Level 46 WT: 0.1 Size: Tiny Class: BST Race: ALL |
+Atk Delay: 23 DMG: 10 Dmg Bon: 11 HP: 25 Mana: 25 Effect: Sha's Lethargy (Combat, Casting Time: Instant) at Level 46 WT: 0.1 Size: Tiny Class: BST Race: ALL |
 Spiritualist`s RingSpiritualist`s Ring
 MAGIC ITEM LORE ITEM NO DROP
 Slot: FINGER
@@ -5654,18 +5671,19 @@ The Spiroc Lord |
 (None) |
 LORE ITEM NO DROP WT: 0.1 Size: SMALL Class: ALL Race: ALL |
 Spiroc Battle StaffSpiroc Battle Staff
-MAGIC ITEM LORE ITEM NO DROP
-Slot: PRIMARY
+Lore Equipped, No Trade, Quest, Placeable
+Slot: Primary
 Skill: 1H Blunt Atk Delay: 30
 DMG: 8
+Dmg Bon: 15
 WIS: +2 MANA: +10
 WT: 5.0 Size: MEDIUM
-Class: ALL except BRD ROG
+Class: DRU
 Race: ALL
 |
 The Spiroc Lord |
 1H Blunt |
-Atk Delay: 30 DMG: 8 WIS: +2 MANA: +10 WT: 5.0 Size: MEDIUM Class: ALL except BRD ROG Race: ALL |
+Atk Delay: 30 DMG: 8 Dmg Bon: 15 WIS: +2 MANA: +10 WT: 5.0 Size: MEDIUM Class: DRU Race: ALL |
 Spiroc Beak EarcuffSpiroc Beak Earcuff
 Lore Equipped, No Trade
 Slot: EAR
@@ -5729,14 +5747,14 @@ Various |
 (None) |
 LORE ITEM WT: 2.0 Size: MEDIUM Class: ALL Race: ALL |
 Spiroc Sky TotemSpiroc Sky Totem
-LORE ITEM NO DROP
+No Trade, Quest
 WT: 3.0 Size: MEDIUM
-Class: ALL
+Class: ROG
 Race: ALL
 |
 The Spiroc Lord |
 (None) |
-LORE ITEM NO DROP WT: 3.0 Size: MEDIUM Class: ALL Race: ALL |
+No Trade, Quest WT: 3.0 Size: MEDIUM Class: ROG Race: ALL |
 Spiroc StatuetteSpiroc Statuette
 LORE ITEM
 WT: 0.1 Size: SMALL
@@ -5774,10 +5792,11 @@ Various |
 (None) |
 LORE ITEM WT: 0.1 Size: SMALL Class: ALL Race: ALL |
 Spiroc WingbladeSpiroc Wingblade
-MAGIC ITEM LORE ITEM NO DROP
-Slot: PRIMARY SECONDARY
+Lore Equipped, No Trade, Quest, Placeable
+Slot: Primary Secondary
 Skill: 1H Slashing Atk Delay: 38
 DMG: 15
+Dmg Bon: 18
 Effect: Serpent Sight (Casting Time: Instant) at Level 45
 WT: 10.0 Size: MEDIUM
 Class: WAR RNG
@@ -5785,7 +5804,7 @@ Race: ALL
 |
 The Spiroc Lord |
 1H Slashing |
-Atk Delay: 38 DMG: 15 Effect: Serpent Sight (Casting Time: Instant) at Level 45 WT: 10.0 Size: MEDIUM Class: WAR RNG Race: ALL |
+Atk Delay: 38 DMG: 15 Dmg Bon: 18 Effect: Serpent Sight (Casting Time: Instant) at Level 45 WT: 10.0 Size: MEDIUM Class: WAR RNG Race: ALL |
 Stein of Flowing IchorStein of Flowing Ichor
 MAGIC ITEM LORE ITEM NO DROP
 Slot: SECONDARY
@@ -5837,8 +5856,8 @@ an essence tamer |
 (None) |
 MAGIC ITEM LORE ITEM NO DROP WT: 0.1 Size: TINY Class: ALL Race: ALL |
 Symbol of MarrSymbol of Marr
-MAGIC ITEM LORE ITEM NO DROP
-Slot: NECK
+Lore Equipped, No Trade
+Slot: Neck
 AC: 15
 STR: +5 WIS: +5
 WT: 0.1 Size: TINY
@@ -5849,23 +5868,23 @@ Various |
 Neck |
 AC: 15 STR: +5 WIS: +5 WT: 0.1 Size: TINY Class: PAL Race: ALL |
 Symbol of VeeshanSymbol of Veeshan
-LORE ITEM NO DROP
+No Trade, Quest
 WT: 5.0 Size: MEDIUM
-Class: ALL
+Class: SHM
 Race: ALL
 |
 Eye of Veeshan |
 (None) |
-LORE ITEM NO DROP WT: 5.0 Size: MEDIUM Class: ALL Race: ALL |
+No Trade, Quest WT: 5.0 Size: MEDIUM Class: SHM Race: ALL |
 Tear of QuelliousTear of Quellious
-LORE ITEM NO DROP
+No Trade, Quest
 WT: 1.0 Size: MEDIUM
-Class: ALL
+Class: MNK
 Race: ALL
 |
 Eye of Veeshan |
 (None) |
-LORE ITEM NO DROP WT: 1.0 Size: MEDIUM Class: ALL Race: ALL |
+No Trade, Quest WT: 1.0 Size: MEDIUM Class: MNK Race: ALL |
 Thickened NectarThickened Nectar
 LORE ITEM
 WT: 20.0 Size: GIANT
@@ -5885,18 +5904,18 @@ a sprited harpie, a watchful guard |
 (None) |
 LORE ITEM WT: 0.1 Size: LARGE Class: ALL Race: ALL |
 Treant TearTreant Tear
-MAGIC ITEM LORE ITEM NO DROP
-Slot: EAR
+Lore Equipped, No Trade
+Slot: Ear
 AC: 2
-MANA: +40
-SV FIRE: +5 SV DISEASE: +5 SV COLD: +5 SV MAGIC: +5 SV POISON: +5
+MANA: 40
+SV FIRE: 5 SV DISEASE: 5 SV COLD: 5 SV MAGIC: 5 SV POISON: 5
 WT: 0.1 Size: TINY
 Class: DRU
 Race: ALL
 |
 Various |
 Ear |
-AC: 2 MANA: +40 SV FIRE: +5 SV DISEASE: +5 SV COLD: +5 SV MAGIC: +5 SV POISON: +5 WT: 0.1 Size: TINY Class: DRU Race: ALL |
+AC: 2 MANA: 40 SV FIRE: 5 SV DISEASE: 5 SV COLD: 5 SV MAGIC: 5 SV POISON: 5 WT: 0.1 Size: TINY Class: DRU Race: ALL |
 Verdant TesseraVerdant Tessera
 LORE ITEM
 WT: 0.5 Size: SMALL
@@ -5916,8 +5935,8 @@ Bazzzazzt, Bizazzzt, Bzzzt |
 (None) |
 LORE ITEM WT: 1.0 Size: MEDIUM Class: ALL Race: ALL |
 Weight of the GodsWeight of the Gods
-MAGIC ITEM LORE ITEM NO DROP
-Slot: SHOULDERS
+Lore Equipped, No Trade
+Slot: Shoulders
 AC: 12
 WIS: +5 AGI: +5 MANA: +50
 SV MAGIC: +25
@@ -5958,17 +5977,18 @@ a spiroc caller, a spiroc expulser |
 (None) |
 LORE ITEM WT: 20.0 Size: GIANT Class: ALL Race: ALL |
 Whitened Treant FistsWhitened Treant Fists
-MAGIC ITEM NO DROP
-Slot: PRIMARY SECONDARY
-Skill: 1H Blunt Atk Delay: 28
+No Trade, Placeable
+Slot: Primary Secondary
+Skill: Hand to Hand Atk Delay: 28
 DMG: 14
+Dmg Bon: 13
 WT: 0.1 Size: TINY
 Class: MNK
 Race: ALL
 |
 Various |
-1H Blunt |
-Atk Delay: 28 DMG: 14 WT: 0.1 Size: TINY Class: MNK Race: ALL |
+Hand to Hand |
+Atk Delay: 28 DMG: 14 Dmg Bon: 13 WT: 0.1 Size: TINY Class: MNK Race: ALL |
 Wind Etched Boots of RoWind Etched Boots of Ro
 MAGIC ITEM LORE ITEM NO DROP
 Slot: FEET
@@ -6021,20 +6041,21 @@ Noble Dojorn |
 Head |
 AC: 20 STR: +2 WIS: +5 MANA: +15 SV MAGIC: +13 WT: 4.5 Size: SMALL Class: PAL Race: ALL |
 Wind TabletWind Tablet
-LORE ITEM NO DROP
+No Trade, Quest
 WT: 2.0 Size: MEDIUM
-Class: ALL
+Class: WAR
 Race: ALL
 |
 Bazzt Zzzt |
 (None) |
-LORE ITEM NO DROP WT: 2.0 Size: MEDIUM Class: ALL Race: ALL |
+No Trade, Quest WT: 2.0 Size: MEDIUM Class: WAR Race: ALL |
 WindhowlWindhowl
-No Trade
+Lore Equipped, No Trade
 Slot: Primary
 Skill: Hand to Hand Atk Delay: 22
 DMG: 12
-HP: +55 End: +25
+Dmg Bon: 10
+HP: +50 End: +25
 STR: +4 DEX: +4
 Effect: Herikol's Soothing (Combat, Casting Time: Instant) at Level 46
 WT: 0.1 Size: Tiny
@@ -6043,7 +6064,7 @@ Race: ALL
 |
 None? |
 Hand to Hand |
-Atk Delay: 22 DMG: 12 HP: +55 End: +25 STR: +4 DEX: +4 Effect: Herikol's Soothing (Combat, Casting Time: Instant) at Level 46 WT: 0.1 Size: Tiny Class: BST Race: ALL |
+Atk Delay: 22 DMG: 12 Dmg Bon: 10 HP: +50 End: +25 STR: +4 DEX: +4 Effect: Herikol's Soothing (Combat, Casting Time: Instant) at Level 46 WT: 0.1 Size: Tiny Class: BST Race: ALL |
 Wooden BandsWooden Bands
 LORE ITEM
 WT: 0.1 Size: TINY

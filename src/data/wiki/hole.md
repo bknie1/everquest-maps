@@ -1,5 +1,5 @@
 # The_Hole (eqlwiki.com)
-fetched: 2026-08-21
+fetched: 2026-08-22
 
 The Hole - EverQuest Legends Wiki
 Jump to content
@@ -580,19 +580,19 @@ Appears in both male and female form, extremely magic resistant. Do not recommen
 An Elemental Crusader
 |
 Earth Elemental |
-Paladin |
+Warrior |
 40-44 |
-3% @ (340, -250), 3% @ (246, -176) |
+Various locations throughout the zone |
 Various |
-Casts an annoying quick heal spell on itself around 30%, need to stun to send it into flee mode at 20%. Most will cast ... |
+|
 An Elemental Warrior
 |
 Earth Elemental |
 Warrior |
 38-42 |
-See Discussion |
 Various |
-Commonly found at the entrance and inside the first castle after drop off. Starts to con green (but still gives exp) co... |
+Various |
+Commonly found at the entrance and inside the first castle after drop off. |
 An elemental capturer
 |
 Elemental |
@@ -901,7 +901,7 @@ Wizard |
 (800, 200) |
 Various |
 Master Yael is found at the very bottom of The Hole, the large pit which runs through the zone.
-Master Yael has the... |
+Summon nukes do not... |
 Muck covered elemental
 |
 Elemental |
