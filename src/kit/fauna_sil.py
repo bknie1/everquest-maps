@@ -56,7 +56,7 @@ class _F:
     def __init__(self, cx, cy, s, face):
         self.cx, self.cy, self.s, self.f = cx, cy, s, face
         self.out = []
-        self.step = max(0.8, s * 0.016)          # fill pitch scales with size
+        self.step = max(0.6, s * 0.012)          # fill pitch scales with size
 
     def P(self, pts):
         return [(self.cx + self.f * x * self.s, self.cy - y * self.s) for x, y in pts]
@@ -190,6 +190,32 @@ def guard(cx, cy, s, seed=0, face=-1):
     return F.out
 
 
+def freeport_guard(cx, cy, s, seed=0, face=-1):
+    """Freeport Militia: rust-red tabard, tall kite shield, halberd -- reads
+    apart from the slate-blue round-shield Qeynos guard at a glance."""
+    F = _F(cx, cy, s, face)
+    TAB = (128, 54, 44); DEEP = (86, 38, 32); MAIL = (128, 128, 138)
+    STEEL = (160, 160, 170); WOODC = (116, 96, 66); TRIM = (168, 138, 70)
+    F.poly([(-0.10, 0.02), (-0.115, 0.22), (-0.10, 0.42), (0.09, 0.42),
+            (0.10, 0.22), (0.09, 0.02), (0.045, 0.02), (0.05, 0.20),
+            (-0.005, 0.20), (-0.05, 0.02)], DEEP, DEEP)                        # legs
+    F.poly([(-0.13, 0.40), (-0.145, 0.56), (-0.125, 0.72), (-0.05, 0.78),
+            (0.05, 0.77), (0.115, 0.70), (0.13, 0.55), (0.11, 0.40)], TAB, DEEP)
+    F.L(-0.13, 0.62, 0.12, 0.63, TRIM)                                          # gold band
+    F.poly([(-0.02, 0.79), (-0.09, 0.815), (-0.11, 0.86), (-0.075, 0.90),
+            (-0.01, 0.905), (0.03, 0.86), (0.025, 0.80)], MAIL, DEEP)           # helm
+    F.poly([(-0.04, 0.905), (-0.02, 0.96), (0.02, 0.90)], TAB, None)            # helm crest
+    # tall KITE shield covering the leading side
+    F.poly([(-0.21, 0.66), (-0.13, 0.68), (-0.115, 0.50), (-0.165, 0.30),
+            (-0.235, 0.50)], MAIL, DEEP)
+    F.L(-0.17, 0.64, -0.175, 0.36, TAB)                                         # shield stripe
+    # halberd: tall haft + axe blade + spike
+    F.L(0.10, 0.40, 0.075, 1.04, WOODC)
+    F.poly([(0.075, 0.96), (0.16, 0.99), (0.155, 0.88), (0.08, 0.90)], STEEL, (110, 110, 120))
+    F.poly([(0.075, 1.04), (0.055, 1.12), (0.095, 1.12)], STEEL, STEEL)
+    return F.out
+
+
 def barbarian(cx, cy, s, seed=0, face=-1):
     F = _F(cx, cy, s, face)
     SKIN = (150, 118, 92); DEEP = (110, 84, 62); FUR = (92, 72, 50); STEEL = (150, 150, 160)
@@ -209,21 +235,38 @@ def barbarian(cx, cy, s, seed=0, face=-1):
 
 
 def halfling(cx, cy, s, seed=0, face=-1):
-    F = _F(cx, cy, s, face)   # s should be given SMALL by the placer (~60% of human)
-    CLOAK = (104, 82, 56); DEEP = (74, 58, 40); SKIN = (176, 142, 108)
-    HAIR = (112, 72, 42); STEEL = (160, 160, 170)
-    F.poly([(-0.16, 0.02), (-0.20, 0.02), (-0.17, 0.06), (-0.10, 0.08),
-            (-0.13, 0.30), (-0.16, 0.52), (-0.10, 0.64), (0.02, 0.68),
-            (0.13, 0.62), (0.17, 0.46), (0.13, 0.26), (0.15, 0.08),
-            (0.22, 0.06), (0.245, 0.02), (0.18, 0.02), (0.06, 0.05),
-            (-0.05, 0.05)], CLOAK, DEEP)                                       # round body + BIG bare feet
-    F.poly([(-0.02, 0.685), (-0.10, 0.71), (-0.115, 0.76), (-0.075, 0.805),
-            (0.0, 0.81), (0.045, 0.765), (0.03, 0.70)], SKIN, DEEP)
-    F.poly([(-0.09, 0.805), (-0.01, 0.835), (0.055, 0.80), (0.065, 0.745),
-            (0.03, 0.75), (0.0, 0.79), (-0.06, 0.78)], HAIR, DEEP, pitch=1.1)  # curls
-    F.L(-0.075, 0.765, -0.10, 0.758, DEEP)
-    F.L(-0.14, 0.44, -0.30, 0.52, STEEL)                                       # short sword out
-    F.L(-0.13, 0.42, -0.16, 0.47, DEEP)
+    """A small PERSON: trousers, waistcoat over a shirt, curly mop, big bare
+    feet, short sword. Human proportions scaled down, not a blob."""
+    F = _F(cx, cy, s, face)   # placer gives ~60% of human height
+    PANTS = (96, 74, 48); VEST = (128, 84, 52); SHIRT = (186, 176, 152)
+    DEEP = (70, 54, 38); SKIN = (180, 146, 110); HAIR = (110, 70, 40)
+    STEEL = (162, 162, 172)
+    # legs in trousers + big bare feet
+    F.poly([(-0.10, 0.10), (-0.12, 0.24), (-0.10, 0.38), (0.09, 0.38),
+            (0.11, 0.22), (0.09, 0.10), (0.04, 0.10), (0.045, 0.22),
+            (-0.02, 0.22), (-0.045, 0.10)], PANTS, DEEP)
+    F.poly([(-0.115, 0.10), (-0.185, 0.055), (-0.175, 0.02), (-0.04, 0.02),
+            (-0.045, 0.09)], SKIN, DEEP)                                        # big foot fwd
+    F.poly([(0.04, 0.09), (0.05, 0.02), (0.17, 0.02), (0.16, 0.06),
+            (0.095, 0.10)], SKIN, DEEP)
+    # shirt torso + waistcoat over it
+    F.poly([(-0.10, 0.36), (-0.13, 0.48), (-0.10, 0.585), (0.0, 0.625),
+            (0.09, 0.58), (0.12, 0.47), (0.10, 0.36)], SHIRT, DEEP)
+    F.poly([(-0.11, 0.38), (-0.125, 0.50), (-0.09, 0.57), (-0.045, 0.585),
+            (-0.05, 0.38)], VEST, DEEP)
+    F.poly([(0.06, 0.58), (0.10, 0.56), (0.115, 0.46), (0.10, 0.375),
+            (0.055, 0.375)], VEST, DEEP)
+    # round friendly head + curly mop
+    F.poly([(-0.015, 0.63), (-0.09, 0.655), (-0.105, 0.705), (-0.065, 0.75),
+            (0.01, 0.755), (0.05, 0.71), (0.035, 0.645)], SKIN, DEEP)
+    F.poly([(-0.10, 0.74), (-0.045, 0.785), (0.03, 0.785), (0.075, 0.74),
+            (0.065, 0.69), (0.03, 0.735), (-0.03, 0.75), (-0.08, 0.70)], HAIR, DEEP, pitch=1.1)
+    F.L(-0.06, 0.712, -0.085, 0.706, DEEP)                                      # eye
+    # arm out with a short sword
+    F.poly([(-0.09, 0.54), (-0.16, 0.50), (-0.20, 0.455), (-0.175, 0.435),
+            (-0.13, 0.475), (-0.07, 0.505)], SHIRT, DEEP)
+    F.L(-0.19, 0.445, -0.30, 0.50, STEEL)
+    F.L(-0.175, 0.425, -0.21, 0.47, DEEP)                                       # guard
     return F.out
 
 
@@ -267,77 +310,125 @@ def dwarf(cx, cy, s, seed=0, face=-1):
 
 
 def troll(cx, cy, s, seed=0, face=-1):
+    """Lanky green troll: pointed ears, LONG pointed nose, underbite tusks,
+    gangly arms past the knees. Lean, not massive (that's the ogre)."""
     F = _F(cx, cy, s, face)
-    SKIN = (74, 92, 62); DEEP = (52, 66, 44)
-    # hunched mass: back arc high, head thrust low+forward, knuckle arm to ground
-    F.poly([(-0.24, 0.02), (-0.30, 0.02), (-0.27, 0.10), (-0.24, 0.28),
-            (-0.26, 0.44), (-0.20, 0.58), (-0.08, 0.68), (0.08, 0.70),
-            (0.20, 0.62), (0.26, 0.46), (0.24, 0.26), (0.28, 0.02),
-            (0.14, 0.02), (0.16, 0.22), (0.06, 0.30), (-0.06, 0.26),
-            (-0.12, 0.10)], SKIN, DEEP)
-    F.poly([(-0.20, 0.56), (-0.32, 0.60), (-0.40, 0.565), (-0.44, 0.52),
-            (-0.36, 0.49), (-0.24, 0.50)], SKIN, DEEP)                        # jutting head
-    F.L(-0.42, 0.525, -0.44, 0.575, (200, 195, 180))                           # tusk up
-    F.L(-0.36, 0.515, -0.375, 0.555, (200, 195, 180))
-    F.L(-0.31, 0.575, -0.345, 0.567, (30, 40, 26))
-    F.poly([(-0.16, 0.52), (-0.22, 0.36), (-0.26, 0.16), (-0.30, 0.04),
-            (-0.24, 0.03), (-0.19, 0.16), (-0.14, 0.36)], DEEP, DEEP)          # long arm
+    SKIN = (74, 98, 60); DEEP = (50, 70, 42)
+    # long slightly-bent legs + big feet
+    F.poly([(-0.11, 0.02), (-0.16, 0.02), (-0.12, 0.05), (-0.09, 0.20),
+            (-0.11, 0.38), (0.10, 0.38), (0.09, 0.20), (0.13, 0.05),
+            (0.17, 0.02), (0.11, 0.02), (0.06, 0.07), (-0.02, 0.07),
+            (-0.06, 0.04)], SKIN, DEEP)
+    # lean torso, hunched a touch forward at the shoulders
+    F.poly([(-0.12, 0.36), (-0.15, 0.50), (-0.13, 0.62), (-0.04, 0.68),
+            (0.07, 0.66), (0.12, 0.56), (0.11, 0.42), (0.06, 0.36)], SKIN, DEEP)
+    # gangly arms hanging past the knees, big hands
+    F.poly([(-0.11, 0.60), (-0.17, 0.48), (-0.20, 0.30), (-0.22, 0.16),
+            (-0.17, 0.14), (-0.15, 0.28), (-0.11, 0.44), (-0.07, 0.56)], SKIN, DEEP)
+    F.L(-0.22, 0.16, -0.245, 0.10, DEEP); F.L(-0.20, 0.15, -0.215, 0.09, DEEP)  # claw fingers
+    F.poly([(0.08, 0.60), (0.13, 0.48), (0.16, 0.30), (0.18, 0.16),
+            (0.13, 0.14), (0.12, 0.28), (0.08, 0.44), (0.04, 0.56)], DEEP, DEEP)
+    # head: narrow skull, LONG pointed nose spike, underbite jaw + tusks
+    F.poly([(-0.02, 0.68), (-0.10, 0.70), (-0.135, 0.745), (-0.10, 0.795),
+            (-0.03, 0.805), (0.025, 0.77), (0.02, 0.70)], SKIN, DEEP)
+    F.poly([(-0.115, 0.77), (-0.30, 0.725), (-0.115, 0.715)], SKIN, DEEP)      # nose spike
+    F.poly([(-0.135, 0.70), (-0.19, 0.685), (-0.135, 0.665), (-0.05, 0.675)], SKIN, DEEP)  # jaw
+    F.L(-0.175, 0.69, -0.19, 0.735, (205, 200, 185))                            # tusk up
+    F.L(-0.125, 0.675, -0.135, 0.715, (205, 200, 185))
+    F.poly([(-0.02, 0.785), (0.09, 0.88), (0.035, 0.755)], SKIN, DEEP)          # tall pointed ear
+    F.L(-0.095, 0.765, -0.12, 0.758, (26, 36, 22))                              # eye
     return F.out
 
 
 def ogre(cx, cy, s, seed=0, face=-1):
+    """Pale, bald, ROUND -- almost baby-like. No visible ears, clean dome head
+    sitting on the shoulders, enormous drooping belly, thick limbs, club."""
     F = _F(cx, cy, s, face)
-    SKIN = (98, 88, 60); DEEP = (70, 62, 42); WOODC = (104, 80, 52)
-    F.poly([(-0.14, 0.02), (-0.18, 0.16), (-0.16, 0.30), (0.16, 0.30),
-            (0.18, 0.14), (0.14, 0.02), (0.06, 0.02), (0.07, 0.14),
-            (-0.03, 0.14), (-0.06, 0.02)], SKIN, DEEP)
-    F.poly([(-0.20, 0.28), (-0.26, 0.44), (-0.22, 0.60), (-0.08, 0.68),
-            (0.10, 0.66), (0.24, 0.56), (0.28, 0.42), (0.22, 0.28)], SKIN, DEEP)  # HUGE belly-torso
-    F.L(-0.10, 0.34, 0.14, 0.36, DEEP)                                         # belly crease
-    F.poly([(-0.03, 0.685), (-0.09, 0.70), (-0.105, 0.74), (-0.07, 0.775),
-            (0.0, 0.775), (0.03, 0.735), (0.015, 0.69)], SKIN, DEEP)           # tiny head
-    F.L(-0.08, 0.72, -0.10, 0.715, (40, 34, 24))
-    F.L(-0.10, 0.755, -0.085, 0.735, (200, 195, 180))                          # tooth
-    F.L(0.16, 0.42, 0.34, 0.78, WOODC)                                         # club
-    F.poly([(0.30, 0.70), (0.40, 0.84), (0.34, 0.87), (0.27, 0.74)], WOODC, DEEP)
+    SKIN = (168, 148, 112); DEEP = (124, 106, 76); CLOTH = (96, 74, 50)
+    # thick stumpy legs
+    F.poly([(-0.15, 0.02), (-0.19, 0.14), (-0.17, 0.26), (0.17, 0.26),
+            (0.19, 0.12), (0.15, 0.02), (0.06, 0.02), (0.07, 0.12),
+            (-0.03, 0.12), (-0.06, 0.02)], SKIN, DEEP)
+    # ENORMOUS round belly-torso (one big egg)
+    F.poly([(-0.22, 0.30), (-0.28, 0.46), (-0.24, 0.62), (-0.10, 0.71),
+            (0.08, 0.71), (0.22, 0.63), (0.29, 0.47), (0.25, 0.31),
+            (0.10, 0.24), (-0.08, 0.24)], SKIN, DEEP)
+    F.L(-0.12, 0.30, 0.14, 0.31, DEEP)                                          # belly droop crease
+    F.L(-0.16, 0.44, -0.06, 0.41, DEEP)                                         # navel-ish fold
+    # loincloth strap across the gut
+    F.poly([(-0.24, 0.52), (0.26, 0.56), (0.25, 0.49), (-0.23, 0.45)], CLOTH, None)
+    # big ROUND bald dome head, directly on the shoulders, NO ears
+    F.disc(-0.02, 0.79, 0.115, SKIN, n=16)
+    F.L(-0.09, 0.80, -0.115, 0.795, (60, 48, 34))                               # tiny eye
+    F.L(-0.115, 0.745, -0.05, 0.735, DEEP)                                      # wide mouth line
+    F.L(-0.10, 0.74, -0.09, 0.765, (205, 200, 185))                             # lower tooth up
+    F.L(-0.06, 0.737, -0.05, 0.76, (205, 200, 185))
+    # thick arm + club over the shoulder
+    F.poly([(0.16, 0.62), (0.24, 0.52), (0.28, 0.40), (0.22, 0.37),
+            (0.17, 0.48), (0.11, 0.58)], SKIN, DEEP)
+    F.L(0.26, 0.40, 0.38, 0.80, (104, 80, 52))
+    F.poly([(0.33, 0.72), (0.45, 0.86), (0.38, 0.90), (0.29, 0.76)], (104, 80, 52), DEEP)
     return F.out
 
 
 def iksar(cx, cy, s, seed=0, face=-1):
+    """UPRIGHT lizardman: straight-backed, long tail sweeping to the ground
+    behind, level snout, small crest, staff held vertical. No hunch."""
     F = _F(cx, cy, s, face)
-    SCALE = (92, 96, 86); DEEP = (62, 68, 56); BONE = (176, 168, 140)
-    F.poly([(0.10, 0.40), (0.28, 0.34), (0.44, 0.20), (0.52, 0.06),
-            (0.46, 0.03), (0.34, 0.16), (0.20, 0.28), (0.08, 0.34)], SCALE, DEEP)  # tail
-    F.poly([(-0.12, 0.02), (-0.14, 0.22), (-0.11, 0.42), (0.10, 0.42),
-            (0.12, 0.20), (0.10, 0.02), (0.04, 0.02), (0.05, 0.18),
-            (-0.02, 0.18), (-0.05, 0.02)], SCALE, DEEP)
-    F.poly([(-0.14, 0.40), (-0.17, 0.56), (-0.12, 0.70), (0.0, 0.75),
-            (0.10, 0.70), (0.14, 0.56), (0.12, 0.40)], SCALE, DEEP)
-    for k in range(4):                                                          # back spines
-        x = 0.03 + 0.035 * k
-        F.poly([(x, 0.72 - 0.05 * k), (x + 0.05, 0.80 - 0.05 * k), (x + 0.045, 0.70 - 0.05 * k)], DEEP, None)
-    F.poly([(-0.10, 0.72), (-0.22, 0.775), (-0.34, 0.755), (-0.40, 0.72),
-            (-0.32, 0.695), (-0.18, 0.695), (-0.10, 0.68)], SCALE, DEEP)       # snout head
-    F.L(-0.37, 0.705, -0.40, 0.745, BONE)
-    F.L(-0.235, 0.745, -0.27, 0.738, (34, 40, 30))
-    F.L(-0.16, 0.55, -0.48, 0.60, BONE)                                        # leveled spear
-    F.poly([(-0.48, 0.60), (-0.56, 0.63), (-0.56, 0.57)], SCALE, DEEP)
+    SCALE = (96, 104, 82); DEEP = (64, 72, 54); WOODC = (116, 92, 60)
+    # tail: thick at hips, S-sweep to the ground behind
+    F.poly([(0.06, 0.36), (0.20, 0.30), (0.30, 0.18), (0.34, 0.06),
+            (0.40, 0.02), (0.30, 0.02), (0.24, 0.12), (0.14, 0.24),
+            (0.04, 0.30)], SCALE, DEEP)
+    # upright legs (digitigrade ankles, but posture vertical)
+    F.poly([(-0.10, 0.02), (-0.14, 0.02), (-0.10, 0.06), (-0.08, 0.22),
+            (-0.10, 0.40), (0.09, 0.40), (0.07, 0.22), (0.09, 0.06),
+            (0.13, 0.02), (0.07, 0.02), (0.03, 0.07), (-0.03, 0.07)], SCALE, DEEP)
+    # upright slim torso
+    F.poly([(-0.10, 0.38), (-0.13, 0.54), (-0.11, 0.70), (-0.03, 0.76),
+            (0.06, 0.74), (0.10, 0.62), (0.09, 0.46), (0.05, 0.38)], SCALE, DEEP)
+    # level snout head on a straight neck
+    F.poly([(-0.03, 0.76), (-0.05, 0.82), (-0.13, 0.845), (-0.26, 0.835),
+            (-0.30, 0.81), (-0.22, 0.795), (-0.10, 0.795), (-0.02, 0.79)], SCALE, DEEP)
+    F.L(-0.27, 0.818, -0.30, 0.813, DEEP)                                       # nostril
+    F.L(-0.12, 0.825, -0.15, 0.82, (30, 36, 26))                                # eye
+    # small crest fins on the skull + neck ridge
+    F.poly([(-0.06, 0.845), (-0.02, 0.90), (0.005, 0.845)], DEEP, None)
+    F.poly([(-0.005, 0.83), (0.035, 0.875), (0.05, 0.825)], DEEP, None)
+    # staff held vertical in front
+    F.L(-0.17, 0.06, -0.17, 0.92, WOODC)
+    F.poly([(-0.17, 0.92), (-0.205, 0.97), (-0.14, 0.965)], DEEP, None)         # totem top
+    F.poly([(-0.10, 0.62), (-0.155, 0.575), (-0.175, 0.53), (-0.145, 0.51),
+            (-0.115, 0.555), (-0.07, 0.59)], SCALE, DEEP)                       # arm to staff
     return F.out
 
 
 def froglok(cx, cy, s, seed=0, face=-1):
+    """Frog-man, unmistakable next to an iksar: NO tail, deep frog crouch on
+    folded legs, huge webbed feet, and two bulging eyes ON TOP of the head."""
     F = _F(cx, cy, s, face)
-    SKIN = (74, 100, 62); DEEP = (50, 72, 44); BONE = (176, 168, 140)
-    F.poly([(-0.20, 0.02), (-0.26, 0.02), (-0.22, 0.10), (-0.18, 0.26),
-            (-0.20, 0.42), (-0.10, 0.54), (0.06, 0.56), (0.18, 0.48),
-            (0.22, 0.32), (0.18, 0.12), (0.24, 0.02), (0.16, 0.02),
-            (0.10, 0.10), (0.0, 0.08), (-0.10, 0.12)], SKIN, DEEP)             # squat body+legs
-    F.poly([(-0.08, 0.54), (-0.22, 0.585), (-0.30, 0.55), (-0.28, 0.50),
-            (-0.14, 0.49), (-0.04, 0.50)], SKIN, DEEP)                         # wide head
-    F.L(-0.28, 0.525, -0.10, 0.515, DEEP)                                      # wide mouth
-    F.disc(-0.115, 0.585, 0.030, DEEP)                                         # bulge eye
-    F.L(-0.12, 0.40, -0.42, 0.46, BONE)                                        # spear
-    F.poly([(-0.42, 0.46), (-0.50, 0.49), (-0.50, 0.43)], SKIN, DEEP)
+    SKIN = (88, 122, 70); DEEP = (58, 88, 48); PALE = (140, 168, 110)
+    # folded frog legs splayed wide + big webbed feet
+    F.poly([(-0.26, 0.02), (-0.34, 0.02), (-0.28, 0.05), (-0.22, 0.16),
+            (-0.24, 0.28), (-0.12, 0.22), (-0.14, 0.10)], SKIN, DEEP)
+    F.L(-0.34, 0.02, -0.30, 0.055, DEEP); F.L(-0.31, 0.02, -0.28, 0.05, DEEP)   # webbed toes
+    F.poly([(0.22, 0.02), (0.30, 0.02), (0.25, 0.05), (0.20, 0.16),
+            (0.22, 0.28), (0.10, 0.22), (0.12, 0.10)], SKIN, DEEP)
+    F.L(0.30, 0.02, 0.26, 0.055, DEEP)
+    # squat round body low to the ground
+    F.poly([(-0.16, 0.16), (-0.20, 0.30), (-0.15, 0.44), (-0.02, 0.50),
+            (0.11, 0.45), (0.17, 0.32), (0.14, 0.18), (0.0, 0.12)], SKIN, DEEP)
+    F.poly([(-0.14, 0.24), (-0.10, 0.36), (0.02, 0.40), (0.08, 0.30),
+            (0.02, 0.20), (-0.08, 0.18)], PALE, None, pitch=1.4)                # pale throat-belly
+    # wide head = mostly mouth, eyes bulging ON TOP
+    F.poly([(-0.04, 0.50), (-0.18, 0.535), (-0.28, 0.51), (-0.26, 0.46),
+            (-0.10, 0.445), (0.03, 0.455)], SKIN, DEEP)
+    F.L(-0.27, 0.478, -0.05, 0.468, DEEP)                                       # huge mouth line
+    F.disc(-0.155, 0.565, 0.038, SKIN); F.disc(-0.155, 0.568, 0.016, (30, 40, 26))  # bulge eye L
+    F.disc(-0.045, 0.575, 0.038, SKIN); F.disc(-0.045, 0.578, 0.016, (30, 40, 26))  # bulge eye R
+    # short spear held across
+    F.L(-0.10, 0.34, -0.40, 0.40, (150, 142, 118))
+    F.poly([(-0.40, 0.40), (-0.47, 0.43), (-0.47, 0.37)], SKIN, DEEP)
     return F.out
 
 
@@ -428,7 +519,8 @@ def skeleton(cx, cy, s, seed=0, face=-1):
 SIL = {
     'dark_elf': dark_elf, 'high_elf': high_elf, 'wood_elf': wood_elf,
     'erudite': erudite, 'human': guard, 'guard': guard, 'qeynos_human': guard,
-    'freeport_human': guard, 'barbarian': barbarian, 'halfling': halfling,
+    'freeport_human': freeport_guard, 'freeport_guard': freeport_guard,
+    'barbarian': barbarian, 'halfling': halfling,
     'gnome': gnome, 'dwarf': dwarf, 'troll': troll, 'ogre': ogre,
     'iksar': iksar, 'froglok': froglok, 'gnoll': gnoll, 'kobold': kobold,
     'skeleton': skeleton, 'zombie': skeleton, 'ghoul': skeleton,
@@ -438,6 +530,7 @@ SIL = {
 HEIGHT = {
     'ogre': 1.35, 'troll': 1.30, 'barbarian': 1.15, 'iksar': 1.05,
     'human': 1.0, 'guard': 1.0, 'qeynos_human': 1.0, 'freeport_human': 1.0,
+    'freeport_guard': 1.0,
     'erudite': 1.05, 'high_elf': 1.0, 'dark_elf': 0.95, 'wood_elf': 0.9,
     'skeleton': 1.0, 'zombie': 1.0, 'ghoul': 1.0,
     'gnoll': 1.05, 'kobold': 0.7, 'froglok': 0.7, 'dwarf': 0.75,
