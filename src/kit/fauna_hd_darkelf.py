@@ -107,14 +107,18 @@ def dark_elf(cx, cy, s, ink=None, seed=0, face=-1):
     head = P([(-0.06, 0.80), (-0.12, 0.845), (-0.16, 0.845), (-0.19, 0.815),
               (-0.17, 0.79), (-0.20, 0.78), (-0.15, 0.765), (-0.08, 0.775)])
     out += _part(head, ink, dark, step * 0.62, rnd, shade_from=cx - f * s * 0.10)
-    seg(-0.15, 0.815, -0.185, 0.805, dark)               # eye
-    seg(-0.16, 0.78, -0.20, 0.775, dark)                 # jaw/chin
-    # long swept-back ear
-    ear = P([(-0.08, 0.83), (0.00, 0.88), (0.05, 0.865), (-0.05, 0.815)])
-    out += _part(ear, ink, dark, step * 0.6, rnd)
-    # hair falling back
+    seg(-0.155, 0.815, -0.195, 0.808, dark)              # slanted eye (angular)
+    seg(-0.16, 0.78, -0.20, 0.775, dark)                 # sharp jaw/chin
+    seg(-0.13, 0.835, -0.175, 0.825, dark)               # angled brow
+    # LONG pointed ear swept sharply up-and-back -- the dark-elf signature
+    ear = P([(-0.05, 0.815), (-0.01, 0.835), (0.12, 0.915), (0.16, 0.90),
+             (0.05, 0.815), (-0.02, 0.80)])
+    out += _part(ear, ink, dark, step * 0.5, rnd)
+    seg(0.16, 0.90, 0.11, 0.86, dark)                    # ear-tip shade
+    # pale swept-back hair (teir'dal white) framing the sharp face
+    WHITE = (188, 184, 196)
     for k in range(4):
-        seg(-0.04 + 0.02 * k, 0.82 - 0.01 * k, 0.06 + 0.02 * k, 0.70 - 0.02 * k, dark)
+        seg(-0.05 + 0.02 * k, 0.83 - 0.01 * k, 0.08 + 0.03 * k, 0.70 - 0.02 * k, WHITE)
 
     # rear arm (shadow) at the side
     rear_arm = P([(0.02, 0.70), (0.08, 0.66), (0.07, 0.52), (0.10, 0.40),
