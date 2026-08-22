@@ -24,22 +24,15 @@ from fix_title import content_bbox  # noqa: E402
 from layout import layout  # noqa: E402
 import build as B  # place, ring_slots, _fa, _fl, _tr  # noqa: E402
 import fauna as FA, flora as FL, terrain as TR  # noqa: E402
-import fauna_hd_gnoll, fauna_hd_troll, fauna_hd_zombie, fauna_hd_ghoul  # noqa: E402
-import fauna_hd_kobold, fauna_hd_darkelf, fauna_hd_iksar  # noqa: E402
-
-# detailed HD figures where they exist (feet at cx,cy; s = height; take face+seed)
-HD_FIG = {
-    "gnoll": fauna_hd_gnoll.gnoll, "troll": fauna_hd_troll.troll,
-    "kobold": fauna_hd_kobold.kobold, "dark_elf": fauna_hd_darkelf.dark_elf,
-    "iksar": fauna_hd_iksar.iksar, "zombie": fauna_hd_zombie.zombie,
-    "skeleton": fauna_hd_zombie.zombie, "ghoul": fauna_hd_ghoul.ghoul,
-}
+# Silhouette figures (fauna_sil) -- the definitive map-scale style. The old
+# hatched fauna_hd_* modules are retired: they blur into blobs at map scale.
+from fauna_sil import SIL as HD_FIG, HEIGHT as FIG_HEIGHT  # noqa: E402
 
 
-def _hd(fn, frac=0.058):
-    """Wrap an HD figure as a build.place shape (x,y,S) -> strokes."""
+def _hd(fn, frac=0.058, name=None):
+    """Wrap a silhouette figure as a build.place shape (x,y,S) -> strokes."""
     def g(x, y, S, _fn=fn):
-        h = S * frac
+        h = S * frac * FIG_HEIGHT.get(name or "", 1.0)
         face = -1 if int(abs(x)) % 2 == 0 else 1
         return _fn(x, y + h * 0.5, h, seed=int(abs(x) + abs(y)), face=face)
     return g
@@ -105,7 +98,7 @@ def main():
         return
 
     LO = layout(content_bbox(args.zone))
-    shapes = [(_hd(HD_FIG[m]) if m in HD_FIG else B._fa(m)) for m in motifs]  # HD where we have it
+    shapes = [(_hd(HD_FIG[m], name=m) if m in HD_FIG else B._fa(m)) for m in motifs]
     b = BIOME[args.biome]
     for fl in b["flora"]:
         shapes.append(B._fl(fl, FL.PALETTE.get("broadleaf"), FL.PALETTE.get("trunk"), 0.020, 0.030))
