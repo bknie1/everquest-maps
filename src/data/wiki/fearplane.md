@@ -1,5 +1,5 @@
 # Plane_of_Fear (eqlwiki.com)
-fetched: 2026-08-22
+fetched: 2026-08-23
 
 Plane of Fear - EverQuest Legends Wiki
 Jump to content
@@ -800,7 +800,7 @@ a glare lord |
 Chest |
 AC: 11 STR: 7 STA: 8 WIS: 10 AGI: 8 WT: 0.3 Size: SMALL Class: BST Race: ALL |
 Ball of Everliving GolemBall of Everliving Golem
-MAGIC ITEM LORE ITEM NO DROP
+QUEST LORE EQUIP NO TRADE
 Slot: RANGE
 HP: +15
 SV FIRE: +2 SV DISEASE: +2 SV COLD: +2 SV MAGIC: +2 SV POISON: +2
@@ -1302,13 +1302,12 @@ a spinechiller spider |
 Secondary |
 AC: 10 DEX: +7 INT: +7 HP: +35 WT: 0.2 Size: TINY Class: BRD NEC WIZ MAG ENC Race: ALL |
 Darkwood TrunkDarkwood Trunk
-LORE ITEM
 WT: 2.0 Weight Reduction: 100%
 Capacity: 10 Size Capacity: GIANT
 |
 None? |
 (None) |
-LORE ITEM WT: 2.0 Weight Reduction: 100% Capacity: 10 Size Capacity: GIANT |
+WT: 2.0 Weight Reduction: 100% Capacity: 10 Size Capacity: GIANT |
 DawnFire, Morning Star of LightDawnFire, Morning Star of Light
 MAGIC ITEM
 Slot: PRIMARY
@@ -2435,7 +2434,7 @@ WT: 0.1 Size: SMALL
 Class: ENC MAG NEC WIZ
 Race: ALL
 , Ball of Everliving GolemBall of Everliving Golem
-MAGIC ITEM LORE ITEM NO DROP
+QUEST LORE EQUIP NO TRADE
 Slot: RANGE
 HP: +15
 SV FIRE: +2 SV DISEASE: +2 SV COLD: +2 SV MAGIC: +2 SV POISON: +2
@@ -2486,7 +2485,6 @@ WT: 1.0 Size: MEDIUM
 Class: NEC WIZ MAG ENC
 Race: ALL
 , Darkwood TrunkDarkwood Trunk
-LORE ITEM
 WT: 2.0 Weight Reduction: 100%
 Capacity: 10 Size Capacity: GIANT
 , DawnFire, Morning Star of LightDawnFire, Morning Star of Light
@@ -2685,7 +2683,6 @@ WT: 1.0 Size: MEDIUM
 Class: NEC WIZ MAG ENC
 Race: ALL
 , Darkwood TrunkDarkwood Trunk
-LORE ITEM
 WT: 2.0 Weight Reduction: 100%
 Capacity: 10 Size Capacity: GIANT
 , DawnFire, Morning Star of LightDawnFire, Morning Star of Light

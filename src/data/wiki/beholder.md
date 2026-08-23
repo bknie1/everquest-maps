@@ -1,5 +1,5 @@
 # Gorge_of_King_Xorbb (eqlwiki.com)
-fetched: 2026-08-16
+fetched: 2026-08-23
 
 Gorge of King Xorbb - EverQuest Legends Wiki
 Jump to content
@@ -300,10 +300,9 @@ Warrior |
 ~(680, 210) (680,-1270) |
 Brahhms HornBrahhms Horn
 Slot: SECONDARY
-Wind Resonance: 11
 WT: 0.1 Size: SMALL
 Class: BRD
-Race: ALL
+Race: ALLFocus Effect: Wind Resonance 11
 , Labyrinth TalismanLabyrinth Talisman
 MAGIC ITEM
 Slot: NECK
@@ -439,14 +438,13 @@ a muddite elder, a muddite minor, a muddite recordkeeper |
 WT: 25.5 Size: SMALL Class: ALL Race: ALL |
 Brahhms HornBrahhms Horn
 Slot: SECONDARY
-Wind Resonance: 11
 WT: 0.1 Size: SMALL
 Class: BRD
-Race: ALL
+Race: ALLFocus Effect: Wind Resonance 11
 |
 Brahhm |
 Secondary |
-Wind Resonance: 11 WT: 0.1 Size: SMALL Class: BRD Race: ALL |
+WT: 0.1 Size: SMALL Class: BRD Race: ALL |
 Bunch of Optic NervesBunch of Optic Nerves
 MAGIC ITEM
 WT: 0.2 Size: SMALL

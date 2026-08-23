@@ -1,5 +1,5 @@
 # Lower_Guk (eqlwiki.com)
-fetched: 2026-08-22
+fetched: 2026-08-23
 
 Lower Guk - EverQuest Legends Wiki
 Jump to content
@@ -1113,7 +1113,7 @@ WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALLFocus Effect: Wind Resonance 10
 |
-Spawns at the bottom of the ladder in the pit of mushrooms. Respawn timer is ~10 minutes. |
+Spawns at the bottom of the ladder in the pit of mushrooms (which is near the basalt gargoyles). Respawn timer is ~10 mi... |
 A Nok Ghoul Wizard
 |
 Old Froglok Ghoul |

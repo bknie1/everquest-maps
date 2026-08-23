@@ -1,5 +1,5 @@
 # Misty_Thicket (eqlwiki.com)
-fetched: 2026-08-21
+fetched: 2026-08-23
 
 Misty Thicket - EverQuest Legends Wiki
 Jump to content
@@ -219,7 +219,7 @@ Unknown |
 Unknown |
 Orc Belts
 |
-Faction, Tagglefoot Tingle Drink and nominal coin |
+Faction and nominal coin |
 Deputy Budo |
 2 |
 All |

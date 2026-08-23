@@ -1,5 +1,5 @@
 # Plane_of_Hate (eqlwiki.com)
-fetched: 2026-08-22
+fetched: 2026-08-23
 
 Plane of Hate - EverQuest Legends Wiki
 Jump to content
@@ -1165,7 +1165,7 @@ Cleric |
 5% @ (409, 31) |
 Various |
 Description needed. |
-Items - Found 176 items that drop in Plane of Hate:
+Items - Found 178 items that drop in Plane of Hate:
 Item Name | Drops From | Slot | Stats |
 Anthemion ArmbandsAnthemion Armbands
 No Trade, Quest
@@ -1180,6 +1180,19 @@ Race: ALL
 a forsaken revenant |
 Wrist |
 AC: 5 STR: +5 STA: +4 DEX: +9 SV COLD: +7 SV VOID: +2 WT: 0.2 Size: SMALL Class: BST Race: ALL |
+Anthemion SkullcapAnthemion Skullcap
+Lore Equipped, No Trade, Quest
+Slot: HEAD
+AC: 6
+DEX: 4 CHA: 8 INT: 5 HP: 20
+SV Poison: 7
+WT: 0.3 Size: SMALL / MEDIUM / LARGE / GIANT
+Class: BST
+Race: ALL
+|
+Cleric of Innoruuk |
+Head |
+AC: 6 DEX: 4 CHA: 8 INT: 5 HP: 20 SV Poison: 7 WT: 0.3 Size: SMALL / MEDIUM / LARGE / GIANT Class: BST Race: ALL |
 Anthemion WristguardAnthemion Wristguard
 No Trade, Quest
 Slot: WRIST
@@ -2760,6 +2773,19 @@ Race: ALL
 a spite golem |
 Arms |
 AC: 13 STA: +10 WIS: +5 AGI: +5 WT: 3.7 Size: SMALL Class: SHM Race: ALL |
+Shadow Rage HelmShadow Rage Helm
+Lore Equipped, No Trade, Quest
+Slot: HEAD
+AC: 14
+STR: 7 AGI: 5
+SV Disease: 12
+WT: 4.2 Size: SMALL
+Class: BER
+Race: ALL
+|
+Cleric of Innoruuk |
+Head |
+AC: 14 STR: 7 AGI: 5 SV Disease: 12 WT: 4.2 Size: SMALL Class: BER Race: ALL |
 Shadow Rage LeggingsShadow Rage Leggings
 Lore Equipped, No Trade, Quest
 Slot: LEGS
@@ -3356,7 +3382,7 @@ WT: 4.5 Size: SMALL
 Class: ROG
 Race: ALL
 |
-an abhorrent |
+an abhorrent, Cleric of Innoruuk |
 Head |
 AC: 14 STR: +5 INT: +9 SV DISEASE: +10 WT: 4.5 Size: SMALL Class: ROG Race: ALL |
 Woven Shadow VambracesWoven Shadow Vambraces

@@ -1,5 +1,5 @@
 # Najena (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-23
 
 Najena - EverQuest Legends Wiki
 Jump to content
@@ -405,7 +405,7 @@ najena
 |
 Zone Spawn Timer:
 |
-4:50
+5:00
 |
 Succor/Evacuate:
 |
@@ -2172,13 +2172,13 @@ Race: NONE
 The Widowmistress |
 (None) |
 LORE ITEM NO DROP WT: 0.1 Size: TINY Class: NONE Race: NONE |
-Retrieved from "https://eqlwiki.com/index.php?title=Najena&oldid=167366"
+Retrieved from "https://eqlwiki.com/index.php?title=Najena&oldid=171476"
 Categories: Classic Era
 Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 6 August 2026, at 17:49.
+This page was last edited on 22 August 2026, at 11:46.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

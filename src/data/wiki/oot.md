@@ -1,5 +1,5 @@
 # Ocean_of_Tears (eqlwiki.com)
-fetched: 2026-08-19
+fetched: 2026-08-23
 
 Ocean of Tears - EverQuest Legends Wiki
 Jump to content
@@ -688,7 +688,7 @@ Merchant |
 26 |
 (503, -9253, 12) |
 |
-Merchant with assorted goods on Sister Isle. Sells Vasty Deep Ale for Rogue Redemption quest. |
+Merchant with assorted goods on Sister Isle. Sells Vasty Deep Ale for Rogue Redemption quest, and Kiola Nut... |
 Corrupted seafury cyclops
 |
 Giant/Cyclops |

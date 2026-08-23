@@ -1,5 +1,5 @@
 # Temple_of_Solusek_Ro (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-23
 
 The Temple of Solusek Ro - EverQuest Legends Wiki
 Jump to content
@@ -1132,10 +1132,9 @@ Bard |
 100% @ (430, -54) |
 Brahhms HornBrahhms Horn
 Slot: SECONDARY
-Wind Resonance: 11
 WT: 0.1 Size: SMALL
 Class: BRD
-Race: ALL
+Race: ALLFocus Effect: Wind Resonance 11
 |
 Description needed. |
 Items - Found 8 items that drop in Temple of Solusek Ro:
@@ -1153,14 +1152,13 @@ a plasmatic priest |
 MAGIC ITEM LORE ITEM AC: 6 SV FIRE: +2 WT: 10.0 Size: MEDIUM Class: CLR WIZ MAG Race: ALL |
 Brahhms HornBrahhms Horn
 Slot: SECONDARY
-Wind Resonance: 11
 WT: 0.1 Size: SMALL
 Class: BRD
-Race: ALL
+Race: ALLFocus Effect: Wind Resonance 11
 |
 Walthin Fireweaver |
 Secondary |
-Wind Resonance: 11 WT: 0.1 Size: SMALL Class: BRD Race: ALL |
+WT: 0.1 Size: SMALL Class: BRD Race: ALL |
 Darkwood StaffDarkwood Staff
 MAGIC ITEM QUEST ITEM
 Slot: PRIMARY SECONDARY

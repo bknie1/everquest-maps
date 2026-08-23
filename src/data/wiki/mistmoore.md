@@ -1,5 +1,5 @@
 # Castle_Mistmoore (eqlwiki.com)
-fetched: 2026-08-21
+fetched: 2026-08-23
 
 Mistmoore Castle - EverQuest Legends Wiki
 Jump to content
@@ -1847,7 +1847,7 @@ Xicotl
 |
 Troll |
 Shadow Knight |
-40 |
+39-41 |
 ~20% @ (-191, 92) Level 2 |
 Glowing Sword HiltGlowing Sword Hilt
 MAGIC ITEM LORE ITEM NODROP

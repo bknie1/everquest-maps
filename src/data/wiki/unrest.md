@@ -1,5 +1,5 @@
 # Estate_of_Unrest (eqlwiki.com)
-fetched: 2026-08-16
+fetched: 2026-08-23
 
 The Estate of Unrest - EverQuest Legends Wiki
 Jump to content
@@ -77,6 +77,9 @@ The Estate of Unrest
 From EverQuest Legends Wiki
 (Redirected from Estate of Unrest)
 The Estate of Unrest was once the home of a dwarven noble, in ages past. Following the unholy destruction that created Dagnor's Cauldron and the following takeover of that region by evil creatures, his estate was overrun by the undead, and is now one of the great havens of the unliving in all of Norrath.
+The Estate of Unrest
+|
+|
 |
 Level of Monsters:
 |
@@ -206,7 +209,7 @@ unrest
 |
 Spawn Timer:
 |
-11:00
+7:30
 |
 Succor/Evacuate:
 |
@@ -687,14 +690,14 @@ A priest of najena
 Ghoul |
 Cleric |
 29 - 31 |
-5% @ (504, 62) 3rd floor |
+5% @ (504, 62, 45) 3rd floor |
 Tarnished Bronze KeyTarnished Bronze Key
 LORE ITEM NODROP
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 |
-In the SW Tower in the Estate of Unrest on the 3rd floor. 55 minute respawn with placeholders. Is in the room at the ver... |
+In the SW Tower in the Estate of Unrest on the 3rd floor. Is in the room at the very top with the stockades in it. Go th... |
 A reanimated hand (Unrest)
 |
 Reanimated Hand |
@@ -844,7 +847,7 @@ Khrix Fritchoff
 Gnome |
 Necromancer |
 35 |
-100% @ (595, 61) floor 2 |
+100% @ (595, 61, 20) floor 2 |
 Cloth ShirtCloth Shirt
 Slot: CHEST
 AC: 4
@@ -1638,13 +1641,13 @@ Race: ALL
 a barbed bone skeleton, a skeletal monk |
 (None) |
 WT: 0.1 Size: SMALL Class: ALL Race: ALL |
-Retrieved from "https://eqlwiki.com/index.php?title=The_Estate_of_Unrest&oldid=166620"
+Retrieved from "https://eqlwiki.com/index.php?title=The_Estate_of_Unrest&oldid=171447"
 Categories: Classic Era
 Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 5 August 2026, at 20:11.
+This page was last edited on 22 August 2026, at 09:02.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers
