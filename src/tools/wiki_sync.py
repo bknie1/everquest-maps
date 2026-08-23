@@ -55,7 +55,7 @@ PAGES = {
     'northkarana': 'Northern_Plains_of_Karana',
     'eastkarana': 'Eastern_Plains_of_Karana',
     'southkarana': 'Southern_Plains_of_Karana',
-    'runnyeye': 'Runnyeye_Citadel', 'paw': 'Lair_of_the_Splitpaw',
+    'runnyeye': 'Runnyeye_Citadel', 'hateplaneb': 'Plane_of_Hate', 'paw': 'Splitpaw_Lair',
     'oot': 'Ocean_of_Tears', 'erudsxing': "Erud's_Crossing",
     'erudnint': 'Erudin_Palace', 'tox': 'Toxxulia_Forest',
     'kerraridge': 'Kerra_Isle', 'stonebrunt': 'Stonebrunt_Mountains',
