@@ -593,6 +593,65 @@ def skeleton(cx, cy, s, seed=0, face=-1):
 
 
 # ------------------------------------------------------------------ registry
+
+GOBLIN_SKINS = {
+    "generic": ((96, 128, 62), (66, 92, 44)),    # Runnyeye green
+    "ice":     ((116, 148, 170), (78, 104, 126)),
+    "fire":    ((150, 74, 48), (104, 48, 32)),
+}
+
+
+def goblin(cx, cy, s, seed=0, face=-1, skin="generic"):
+    """EQ goblin, per Brandon: they look like GOBLINS -- WoW/Warhammer style.
+    Small wiry humanoid, big pointed ears stuck out sideways, big hooked nose,
+    hunched shoulders, loincloth, crude blade. NO tail, NO snout -- the old
+    kobold-alias figure read as a crocodile. Skins: generic (green), ice, fire.
+    """
+    SKIN, DEEP = GOBLIN_SKINS.get(skin, GOBLIN_SKINS["generic"])
+    CLOTH = (104, 84, 56)
+    STEEL = (150, 150, 160)
+    F = _F(cx, cy, s, face)
+    # wiry legs, slightly bent, big bare feet
+    F.poly([(0.02, 0.34), (0.09, 0.34), (0.10, 0.18), (0.13, 0.02),
+            (0.05, 0.02), (0.045, 0.18)], DEEP, DEEP)
+    F.L(0.05, 0.02, 0.15, 0.02, DEEP)
+    F.poly([(-0.09, 0.34), (-0.02, 0.34), (-0.03, 0.18), (-0.02, 0.02),
+            (-0.10, 0.02), (-0.085, 0.18)], SKIN, DEEP)
+    F.L(-0.10, 0.02, -0.19, 0.02, SKIN)
+    # loincloth
+    F.poly([(-0.10, 0.32), (0.10, 0.32), (0.08, 0.40), (-0.08, 0.40)], CLOTH, None)
+    # skinny torso, shoulders hunched UP around the neck
+    F.poly([(-0.09, 0.38), (-0.11, 0.50), (-0.13, 0.60), (-0.05, 0.65),
+            (0.05, 0.65), (0.12, 0.60), (0.10, 0.50), (0.08, 0.38)], SKIN, DEEP)
+    F.L(-0.05, 0.48, 0.05, 0.46, DEEP)          # ribby crease
+    # head: round cranium, sharp chin, BIG hooked nose, wide grin
+    F.poly([(-0.02, 0.64), (-0.10, 0.67), (-0.13, 0.72), (-0.10, 0.79),
+            (-0.02, 0.82), (0.05, 0.79), (0.06, 0.70), (0.02, 0.645)], SKIN, DEEP)
+    F.poly([(-0.115, 0.715), (-0.20, 0.685), (-0.125, 0.675)], SKIN, DEEP)  # hooked nose
+    F.L(-0.115, 0.685, -0.045, 0.675, DEEP)     # grin
+    F.L(-0.09, 0.74, -0.115, 0.735, (30, 30, 26))  # beady eye
+    # BIG pointed ears, stuck out SIDEWAYS (the goblin silhouette)
+    F.poly([(0.045, 0.755), (0.21, 0.80), (0.055, 0.71)], SKIN, DEEP)
+    F.poly([(-0.10, 0.775), (-0.16, 0.85), (-0.055, 0.795)], SKIN, DEEP)
+    # arms: one hanging long, one with a crude jagged blade
+    F.poly([(-0.10, 0.60), (-0.16, 0.50), (-0.18, 0.38), (-0.145, 0.365),
+            (-0.12, 0.47), (-0.065, 0.56)], SKIN, DEEP)
+    F.L(-0.17, 0.37, -0.26, 0.44, STEEL)
+    F.L(-0.26, 0.44, -0.22, 0.435, STEEL)        # jagged notch
+    F.L(-0.22, 0.435, -0.30, 0.50, STEEL)
+    F.poly([(0.09, 0.60), (0.14, 0.50), (0.155, 0.40), (0.12, 0.39),
+            (0.10, 0.49), (0.055, 0.57)], DEEP, DEEP)
+    return F.out
+
+
+def ice_goblin(cx, cy, s, seed=0, face=-1):
+    return goblin(cx, cy, s, seed, face, "ice")
+
+
+def fire_goblin(cx, cy, s, seed=0, face=-1):
+    return goblin(cx, cy, s, seed, face, "fire")
+
+
 SIL = {
     'dark_elf': dark_elf, 'high_elf': high_elf, 'wood_elf': wood_elf,
     'erudite': erudite, 'human': guard, 'guard': guard, 'qeynos_human': guard,
@@ -601,6 +660,7 @@ SIL = {
     'gnome': gnome, 'dwarf': dwarf, 'troll': troll, 'ogre': ogre,
     'iksar': iksar, 'froglok': froglok, 'gnoll': gnoll, 'kobold': kobold,
     'skeleton': skeleton, 'zombie': skeleton, 'ghoul': skeleton,
+    'goblin': goblin, 'ice_goblin': ice_goblin, 'fire_goblin': fire_goblin,
 }
 
 # relative height per race so a mixed line-up scales believably (human=1.0)
@@ -611,5 +671,6 @@ HEIGHT = {
     'erudite': 1.05, 'high_elf': 1.0, 'dark_elf': 0.95, 'wood_elf': 0.9,
     'skeleton': 1.0, 'zombie': 1.0, 'ghoul': 1.0,
     'gnoll': 1.05, 'kobold': 0.7, 'froglok': 0.7, 'dwarf': 0.75,
-    'halfling': 0.6, 'gnome': 0.5,
+    'halfling': 0.6, 'gnome': 0.5, 'goblin': 0.62,
+    'ice_goblin': 0.62, 'fire_goblin': 0.62,
 }

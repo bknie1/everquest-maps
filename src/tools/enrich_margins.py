@@ -44,7 +44,7 @@ CRLF = "\r\n"
 # wiki words -> a kit figure key. Aliases map real EQ mobs onto what the kit draws.
 ALIAS = {
     "gnoll": "gnoll", "splitpaw": "gnoll", "sabertooth": "wolf", "kobold": "kobold",
-    "goblin": "kobold", "skeleton": "skeleton", "spider": "spider", "bat": "bat",
+    "goblin": "goblin", "skeleton": "skeleton", "spider": "spider", "bat": "bat",
     "snake": "snake", "serpent": "snake", "rat": "rat", "ratman": "ratman",
     "wolf": "wolf", "bear": "wolf", "drake": "drake", "dragon": "drake",
     "sprite": "sprite", "pixie": "sprite", "faerie": "sprite", "myconid": "myconid",
