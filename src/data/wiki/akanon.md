@@ -1,5 +1,5 @@
 # Ak'Anon (eqlwiki.com)
-fetched: 2026-08-21
+fetched: 2026-08-24
 
 Ak'Anon - EverQuest Legends Wiki
 Jump to content
@@ -563,7 +563,7 @@ Kimble Nogflop |
 1 |
 All |
 Surefall Glade |
-TeAnara |
+Te`Anara |
 Tinmizer's Fabulous Compactor (Quest)
 |
 Lapis LazuliLapis Lazuli

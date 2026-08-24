@@ -1,5 +1,5 @@
 # Plane_of_Fear (eqlwiki.com)
-fetched: 2026-08-23
+fetched: 2026-08-24
 
 Plane of Fear - EverQuest Legends Wiki
 Jump to content
@@ -553,16 +553,7 @@ A decrepit warder
 Warrior |
 |
 |
-Crystallized SulfurCrystallized Sulfur
-WT: 0.1 Size: TINY
-Class: ALL
-Race: ALL
-, Opal BraceletOpal Bracelet
-Slot: WRIST
-WT: 0.1 Size: TINY
-Class: ALL
-Race: ALL
-|
+Various |
 Description needed. |
 A dracoliche
 |
@@ -784,7 +775,7 @@ WT: 0.3 Size: SMALL
 Class: BST
 Race: ALL
 |
-a scareling |
+a scareling, a shiverback |
 Hands |
 AC: 5 STR: 5 DEX: 6 MANA: 20 SV Magic: 7 WT: 0.3 Size: SMALL Class: BST Race: ALL |
 Anthemion JerkinAnthemion Jerkin
@@ -796,7 +787,7 @@ WT: 0.3 Size: SMALL
 Class: BST
 Race: ALL
 |
-a glare lord |
+a glare lord, a tentacle tormentor |
 Chest |
 AC: 11 STR: 7 STA: 8 WIS: 10 AGI: 8 WT: 0.3 Size: SMALL Class: BST Race: ALL |
 Ball of Everliving GolemBall of Everliving Golem
@@ -1052,7 +1043,7 @@ WT: 1.0 Size: MEDIUM
 Class: WIZ
 Race: ALL
 |
-a frightfinger, an Amygdalan warrior |
+a frightfinger, Amygdalan warrior |
 Chest |
 AC: 11 DEX: +7 STA: +14 INT: +14 MANA: +30 WT: 1.0 Size: MEDIUM Class: WIZ Race: ALL |
 Carmine SleevesCarmine Sleeves
@@ -1170,7 +1161,7 @@ WT: 0.3 Size: SMALL
 Class: NEC WIZ MAG ENC
 Race: ALLFocus Effect: Burning Affliction III
 |
-a spinechiller spider |
+a spinechiller spider, Not confirmed as being in game as of 23 August 2026 |
 Head |
 AC: 5 CHA: +13 WIS: +9 INT: +7 HP: +10 MANA: +10 SV MAGIC: +9 WT: 0.3 Size: SMALL Class: NEC WIZ MAG ENC Race: ALL |
 Cryosilk ChokerCryosilk Choker
@@ -1797,7 +1788,7 @@ WT: 0.1 Size: SMALL
 Class: MNK
 Race: ALL
 |
-a shiverback, phoboplasm |
+a shiverback, phoboplasm, a boogeyman |
 Feet |
 AC: 6 STR: +5 STA: +9 AGI: +9 WT: 0.1 Size: SMALL Class: MNK Race: ALL |
 Shiverback-hide GlovesShiverback-hide Gloves
@@ -1823,7 +1814,7 @@ WT: 0.5 Size: MEDIUM
 Class: MNK
 Race: ALL
 |
-a shiverback |
+a shiverback, a tentacle tormentor |
 Chest |
 AC: 11 STR: +13 DEX: +9 AGI: +9 WT: 0.5 Size: MEDIUM Class: MNK Race: ALL |
 Shiverback-hide LeggingsShiverback-hide Leggings
@@ -1849,7 +1840,7 @@ WT: 0.1 Size: SMALL
 Class: MNK
 Race: ALL
 |
-a shiverback |
+A decrepit warder, a samhain |
 Wrist |
 AC: 4 DEX: +5 STA: +5 AGI: +5 SV DISEASE: +5 SV POISON: +5 WT: 0.1 Size: SMALL Class: MNK Race: ALL |
 Slime Blood of Cazic-ThuleSlime Blood of Cazic-Thule
@@ -1945,11 +1936,11 @@ AC: 9
 STA: +5 WIS: +5 AGI: +5 MANA: +10
 WT: 3.0 Size: SMALL
 Class: RNG
-Race: ALL
+Race: HUM ELF HEF HFL
 |
-a tentacle tormentor |
+A decrepit warder, a samhain |
 Wrist |
-AC: 9 STA: +5 WIS: +5 AGI: +5 MANA: +10 WT: 3.0 Size: SMALL Class: RNG Race: ALL |
+AC: 9 STA: +5 WIS: +5 AGI: +5 MANA: +10 WT: 3.0 Size: SMALL Class: RNG Race: HUM ELF HEF HFL |
 Thorny Vine ChestplateThorny Vine Chestplate
 MAGIC ITEM NO DROP
 Slot: CHEST
@@ -2149,7 +2140,7 @@ WT: 3.0 Size: SMALL
 Class: PAL
 Race: ALL
 |
-a fetid fiend, phoboplasm, Samhain |
+A decrepit warder, a samhain |
 Wrist |
 AC: 10 STR: +5 DEX: +5 MANA: +10 SV POISON: +5 WT: 3.0 Size: SMALL Class: PAL Race: ALL |
 Valorium ChestplateValorium Chestplate
@@ -2251,7 +2242,7 @@ WT: 3.5 Size: SMALL
 Class: DRU
 Race: ALL
 |
-a gorgon |
+A decrepit warder, a samhain |
 Wrist |
 AC: 5 WIS: +9 MANA: +15 SV FIRE: +7 SV COLD: +7 WT: 3.5 Size: SMALL Class: DRU Race: ALL |
 Vermiculated CrownVermiculated Crown

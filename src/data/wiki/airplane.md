@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-08-23
+fetched: 2026-08-24
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -1696,10 +1696,10 @@ Wind Rune Ozah
 Inlaid Choker (3-Gorga)
 |
 Wispy Choker of VigorWispy Choker of Vigor
-MAGIC ITEM LORE ITEM NO DROP
-Slot: NECK
+Lore Equipped, No Trade
+Slot: Neck
 AC: 5
-STR: +9 DEX: +9 AGI: +3 HP: +20
+STR: 9 DEX: 9 AGI: 3 HP: 20
 WT: 0.1 Size: TINY
 Class: ROG
 Race: ALL
@@ -1987,13 +1987,12 @@ Wind Rune Beza
 Light Damask Mantle (5-SL)
 |
 Fairy-Hide MantleFairy-Hide Mantle
-MAGIC ITEM LORE ITEM NO DROP
-Slot: SHOULDERS
-Charges: 2
+Lore Equipped, No Trade
+Slot: Shoulders
 AC: 9
-STR: +5 WIS: +12
-SV FIRE: +10 SV COLD: +10 SV MAGIC: +10
-Effect: Guardian Spirit (Must Equip, Casting Time: Instant) at Level 45
+STR: 5 WIS: 12
+SV FIRE: 10 SV COLD: 10 SV MAGIC: 10
+Click Effect: Guardian Spirit (Must Equip, Casting Time: Instant) at Level 45
 WT: 2.5 Size: SMALL
 Class: SHM
 Race: ALL
@@ -2074,10 +2073,10 @@ Wind Rune Neza
 Azure Ring (3-Gorga)
 |
 Azure Ruby RingAzure Ruby Ring
-MAGIC ITEM LORE ITEM NO DROP
-Slot: FINGER
+Lore Equipped, No Trade
+Slot: Fingers
 AC: 5
-STR: +6 DEX: +9 STA: +6
+STR: 6 DEX: 9 STA: 6 End: 25
 WT: 0.1 Size: TINY
 Class: WAR
 Race: ALL
@@ -2252,10 +2251,10 @@ Box of Winds (6-BZ)
 Efreeti Statuette
 |
 Solidate Mithril RingSolidate Mithril Ring
-MAGIC ITEM LORE ITEM NO DROP
-Slot: FINGER
+Lore Equipped, No Trade
+Slot: Fingers
 AC: 4
-STR: +5 INT: +5 AGI: +6 MANA: +50
+STR: 5 INT: 5 AGI: 6 MANA: 50
 Effect: Steelskin (Must Equip, Casting Time: Instant, Cooldown: 180 seconds) at Level 45
 WT: 0.1 Size: TINY
 Class: WIZ
@@ -3747,14 +3746,14 @@ Eye of Veeshan |
 (None) |
 No Trade, Quest WT: 10.0 Size: LARGE Class: SHD Race: ALL |
 Bloodsky SapphireBloodsky Sapphire
-LORE ITEM NO DROP
+No Trade, Quest
 WT: 2.0 Size: MEDIUM
-Class: ALL
+Class: ROG
 Race: ALL
 |
 Eye of Veeshan |
 (None) |
-LORE ITEM NO DROP WT: 2.0 Size: MEDIUM Class: ALL Race: ALL |
+No Trade, Quest WT: 2.0 Size: MEDIUM Class: ROG Race: ALL |
 Bloodstained HiltBloodstained Hilt
 LORE ITEM
 WT: 8.0 Size: LARGE
@@ -3783,14 +3782,14 @@ a fatestealer drake, a windrider drake, an undine spirit |
 (None) |
 LORE ITEM WT: 0.1 Size: SMALL Class: ALL Race: ALL |
 Box of WindsBox of Winds
-LORE ITEM NO DROP
+No Trade, Quest
 WT: 1.0 Size: MEDIUM
-Class: ALL
+Class: WIZ
 Race: ALL
 |
 Bazzt Zzzt |
 (None) |
-LORE ITEM NO DROP WT: 1.0 Size: MEDIUM Class: ALL Race: ALL |
+No Trade, Quest WT: 1.0 Size: MEDIUM Class: WIZ Race: ALL |
 Bracelet of CessationBracelet of Cessation
 Lore Equipped, No Trade
 Slot: Wrist
@@ -4207,7 +4206,7 @@ Noble Dojorn, Overseer of Air |
 1H Slashing |
 Atk Delay: 35 DMG: 12 WT: 0.2 Size: SMALL Class: ALL except Race: ALL |
 Efreeti Great StaffEfreeti Great Staff
-Lore Equipped, Attunable, Quest, Placeable
+Lore Equipped, No Trade, Quest, Placeable
 Slot: Primary
 Skill: 2H Blunt Atk Delay: 42
 DMG: 14
@@ -4451,14 +4450,14 @@ Bazzzazzt, Bizazzzt, Bzzzt |
 (None) |
 LORE ITEM WT: 5.0 Size: MEDIUM Class: ALL Race: ALL |
 Ethereal EmeraldEthereal Emerald
-LORE ITEM NO DROP
+No Trade, Quest
 WT: 0.5 Size: SMALL
-Class: ALL
+Class: WAR
 Race: ALL
 |
 Eye of Veeshan |
 (None) |
-LORE ITEM NO DROP WT: 0.5 Size: SMALL Class: ALL Race: ALL |
+No Trade, Quest WT: 0.5 Size: SMALL Class: WAR Race: ALL |
 Ethereal OpalEthereal Opal
 LORE ITEM
 WT: 2.0 Size: MEDIUM
@@ -4562,17 +4561,17 @@ The Spiroc Guardian |
 Shoulders |
 AC: 2 INT: +1 AGI: +2 MANA: +5 WT: 5.0 Size: MEDIUM Class: NEC WIZ MAG ENC Race: ALL |
 Finely Woven Cloth BeltFinely Woven Cloth Belt
-MAGIC ITEM LORE ITEM NO DROP
-Slot: WAIST
+Lore Equipped, No Trade
+Slot: Waist
 AC: 1
-INT: +3 AGI: +3
+INT: 3 AGI: 3
 WT: 0.1 Size: SMALL
 Class: SHD
 Race: ALL
 |
 The Spiroc Lord |
 Waist |
-AC: 1 INT: +3 AGI: +3 WT: 0.1 Size: SMALL Class: SHD Race: ALL |
+AC: 1 INT: 3 AGI: 3 WT: 0.1 Size: SMALL Class: SHD Race: ALL |
 Finely Woven Gold MeshFinely Woven Gold Mesh
 MAGIC ITEM LORE ITEM
 Slot: FACE
@@ -4726,18 +4725,18 @@ Noble Dojorn, Overseer of Air, the Hand of Veeshan |
 Legs |
 AC: 15 DEX: 10 AGI: 9 WT: 5.6 Size: LARGE Class: ALL Race: ALL |
 Golden Efreeti RingGolden Efreeti Ring
-MAGIC ITEM LORE ITEM NO DROP
-Slot: FINGER
+Lore Equipped, No Trade, Quest
+Slot: Fingers
 AC: 4
-STA: +4 CHA: +4
-SV FIRE: +3 SV DISEASE: +3
+STA: 4 CHA: 4
+SV FIRE: 3 SV DISEASE: 3
 WT: 0.2 Size: SMALL
 Class: MAG
 Race: ALL
 |
 Sister of the Spire |
 Fingers |
-AC: 4 STA: +4 CHA: +4 SV FIRE: +3 SV DISEASE: +3 WT: 0.2 Size: SMALL Class: MAG Race: ALL |
+AC: 4 STA: 4 CHA: 4 SV FIRE: 3 SV DISEASE: 3 WT: 0.2 Size: SMALL Class: MAG Race: ALL |
 Golden Efreeti TurbanGolden Efreeti Turban
 Lore Equipped, No Trade
 Slot: Head
@@ -4765,14 +4764,14 @@ Noble Dojorn, Overseer of Air, the Hand of Veeshan |
 Arms |
 AC: 12 DEX: 6 STA: 10 End: 20 WT: 4.9 Size: SMALL Class: ALL Race: ALL |
 Golden HiltGolden Hilt
-LORE ITEM
+Quest
 WT: 1.0 Size: MEDIUM
-Class: ALL
+Class: PAL
 Race: ALL
 |
 a greater sphinx, a heartsbane drake, an undine spirit |
 (None) |
-LORE ITEM WT: 1.0 Size: MEDIUM Class: ALL Race: ALL |
+Quest WT: 1.0 Size: MEDIUM Class: PAL Race: ALL |
 Gorgon HeadGorgon Head
 LORE ITEM NO DROP
 WT: 12.0 Size: LARGE
@@ -5042,17 +5041,17 @@ Keeper of Souls |
 Shoulders |
 AC: 4 STA: 3 CHA: 3 WT: 9.0 Size: LARGE Class: ENC Race: ALL |
 Light Damask MantleLight Damask Mantle
-LORE ITEM NO DROP
-Slot: SHOULDERS
+Lore Equipped, No Trade, Quest
+Slot: Shoulders
 AC: 5
-STA: +2 WIS: +2 HP: +10
+STA: 2 WIS: 2 HP: 10
 WT: 9.0 Size: MEDIUM
 Class: SHM
 Race: ALL
 |
 The Spiroc Lord |
 Shoulders |
-AC: 5 STA: +2 WIS: +2 HP: +10 WT: 9.0 Size: MEDIUM Class: SHM Race: ALL |
+AC: 5 STA: 2 WIS: 2 HP: 10 WT: 9.0 Size: MEDIUM Class: SHM Race: ALL |
 Lightning RodLightning Rod
 LORE ITEM
 WT: 3.0 Size: MEDIUM

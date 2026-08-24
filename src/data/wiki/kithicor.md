@@ -1,5 +1,5 @@
 # Kithicor_Forest (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-24
 
 Kithicor Forest - EverQuest Legends Wiki
 Jump to content
@@ -401,7 +401,7 @@ Ged Twigborn |
 All |
 Various |
 a black wolf, a shadow wolf |
-NPCs - Found 110 NPCs that spawn in Kithicor Forest:
+NPCs - Found 111 NPCs that spawn in Kithicor Forest:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Bixie
 |
@@ -655,6 +655,31 @@ Race: ALL
 (Common)
 Drops no coin. |
 A common newbie mob found in many zones. |
+A bixie drone
+|
+Bixie |
+Ranger |
+1 - 5 |
+|
+Bixie PartsBixie Parts
+WT: 1.0 Size: SMALL
+Class: ALL
+Race: ALL
+, Bixie WingBixie Wing
+QUEST ITEM
+WT: 0.1 Size: SMALL
+Class: ALL
+Race: ALL
+, HoneycombHoneycomb
+WT: 0.1 Size: TINY
+Class: ALL
+Race: ALL
+, Bixie StingerBixie Stinger
+WT: 0.1 Size: SMALL
+Class: NONE
+Race: NONE
+|
+Useful for the Honey Jum Quest, these are not aggressive until you start killing them. They are most common in Kithi... |
 A cliff spider
 |
 Giant Spider |

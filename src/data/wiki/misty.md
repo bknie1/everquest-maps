@@ -1,5 +1,5 @@
 # Misty_Thicket (eqlwiki.com)
-fetched: 2026-08-23
+fetched: 2026-08-24
 
 Misty Thicket - EverQuest Legends Wiki
 Jump to content
@@ -233,7 +233,7 @@ Blixkin Entopop |
 ? |
 Southern Desert of Ro |
 Terrorantula |
-NPCs - Found 80 NPCs that spawn in Misty Thicket:
+NPCs - Found 81 NPCs that spawn in Misty Thicket:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Bixie
 |
@@ -619,6 +619,31 @@ Race: ALL
 (Common)
 Drops no coin. |
 A common newbie mob found in many zones. |
+A bixie drone
+|
+Bixie |
+Ranger |
+1 - 5 |
+|
+Bixie PartsBixie Parts
+WT: 1.0 Size: SMALL
+Class: ALL
+Race: ALL
+, Bixie WingBixie Wing
+QUEST ITEM
+WT: 0.1 Size: SMALL
+Class: ALL
+Race: ALL
+, HoneycombHoneycomb
+WT: 0.1 Size: TINY
+Class: ALL
+Race: ALL
+, Bixie StingerBixie Stinger
+WT: 0.1 Size: SMALL
+Class: NONE
+Race: NONE
+|
+Useful for the Honey Jum Quest, these are not aggressive until you start killing them. They are most common in Kithi... |
 A bixie queen
 |
 Bixie |
@@ -787,6 +812,11 @@ Animal |
 Warrior |
 7-8 |
 West side of the map. |
+Large Yellowjacket TarsusLarge Yellowjacket Tarsus
+No Trade
+WT: 0.1 Size: SMALL
+Class: All
+Race: All
 Giant Wasp EyeGiant Wasp Eye
 WT: 0.1 Size: SMALL
 Class: ALL
@@ -914,7 +944,12 @@ Animal |
 Warrior |
 4-5 |
 Various |
-Large Yellowjacket Tarsus (Common)
+Large Yellowjacket TarsusLarge Yellowjacket Tarsus
+No Trade
+WT: 0.1 Size: SMALL
+Class: All
+Race: All
+(Common)
 Giant Wasp EyeGiant Wasp Eye
 WT: 0.1 Size: SMALL
 Class: ALL
@@ -1386,7 +1421,7 @@ Merchant |
 (585, -2357) |
 |
 Description needed. |
-Items - Found 17 items that drop in Misty Thicket:
+Items - Found 19 items that drop in Misty Thicket:
 Item Name | Drops From | Slot | Stats |
 Bixie PartsBixie Parts
 WT: 1.0 Size: SMALL
@@ -1442,6 +1477,17 @@ Race: ALL
 Orc Centurion |
 (None) |
 WT: 1.3 Size: SMALL Class: ALL Race: ALL |
+Elven Charm NecklaceElven Charm Necklace
+Lore Equipped, Attunable, Quest
+Slot: NECK
+INT: +3 WIS: +3 CHA: +3
+WT: 0.2 Size: TINY
+Class: ALL
+Race: ALLFocus Effect: Extended Range I
+|
+Mooto |
+Neck |
+INT: +3 WIS: +3 CHA: +3 WT: 0.2 Size: TINY Class: ALL Race: ALL |
 Froglok LegFroglok Leg
 LORE ITEM NO DROP
 WT: 1.0 Size: MEDIUM
@@ -1496,6 +1542,15 @@ Race: ALL
 orc apprentice, orc oracle |
 (None) |
 WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+Large Yellowjacket TarsusLarge Yellowjacket Tarsus
+No Trade
+WT: 0.1 Size: SMALL
+Class: All
+Race: All
+|
+A large yellowjacket, A giant yellowjacket |
+(None) |
+No Trade WT: 0.1 Size: SMALL Class: All Race: All |
 Orc Pawn PickOrc Pawn Pick
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 40

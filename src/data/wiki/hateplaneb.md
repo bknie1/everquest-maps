@@ -1,5 +1,5 @@
 # Plane_of_Hate (eqlwiki.com)
-fetched: 2026-08-22
+fetched: 2026-08-24
 
 Plane of Hate - EverQuest Legends Wiki
 Jump to content
@@ -1169,7 +1169,7 @@ Items - Found 178 items that drop in Plane of Hate:
 Item Name | Drops From | Slot | Stats |
 Anthemion ArmbandsAnthemion Armbands
 No Trade, Quest
-Slot: WRIST
+Slot: ARMS
 AC: 5
 STR: +5 STA: +4 DEX: +9
 SV COLD: +7 SV VOID: +2
@@ -1178,7 +1178,7 @@ Class: BST
 Race: ALL
 |
 a forsaken revenant |
-Wrist |
+Arms |
 AC: 5 STR: +5 STA: +4 DEX: +9 SV COLD: +7 SV VOID: +2 WT: 0.2 Size: SMALL Class: BST Race: ALL |
 Anthemion SkullcapAnthemion Skullcap
 Lore Equipped, No Trade, Quest
@@ -1701,11 +1701,11 @@ AC: 9
 DEX: +9 CHA: +9 MANA: +20
 WT: 3.0 Size: SMALL
 Class: CLR
-Race: ALL
+Race: HUM ERU HIE DEF DWF HFL GNM
 |
-Cleric of Innoruuk, an abhorrent |
+a scorn banshee, an abhorrent |
 Wrist |
-AC: 9 DEX: +9 CHA: +9 MANA: +20 WT: 3.0 Size: SMALL Class: CLR Race: ALL |
+AC: 9 DEX: +9 CHA: +9 MANA: +20 WT: 3.0 Size: SMALL Class: CLR Race: HUM ERU HIE DEF DWF HFL GNM |
 Ethereal Mist ChestplateEthereal Mist Chestplate
 MAGIC ITEM NO DROP
 Slot: CHEST
@@ -2577,7 +2577,7 @@ WT: 3.0 Size: SMALL
 Class: SHM
 Race: ALL
 |
-a haunted chest, a spite golem, an abhorrent |
+a scorn banshee, an abhorrent |
 Wrist |
 AC: 9 CHA: +5 WIS: +5 INT: +5 WT: 3.0 Size: SMALL Class: SHM Race: ALL |
 Rune Etched ChestplateRune Etched Chestplate
@@ -2821,7 +2821,7 @@ WT: 2.0 Size: SMALL
 Class: BER
 Race: ALL
 |
-a scorn banshee |
+a scorn banshee, an abhorrent |
 Wrist |
 AC: 6 STR: +4 AGI: +4 DEX: +4 SV FIRE: +5 SV COLD: +5 WT: 2.0 Size: SMALL Class: BER Race: ALL |
 Shattered Emerald of CorruptionShattered Emerald of Corruption
@@ -3246,7 +3246,7 @@ WT: 3.5 Size: SMALL
 Class: DRU
 Race: ALL
 |
-a haunted chest |
+a scorn banshee, an abhorrent |
 Wrist |
 AC: 5 WIS: +9 MANA: +15 SV FIRE: +7 SV COLD: +7 WT: 3.5 Size: SMALL Class: DRU Race: ALL |
 VexthorneVexthorne
@@ -3356,7 +3356,7 @@ WT: 3.8 Size: SMALL
 Class: ROG
 Race: ALL
 |
-an abhorrent |
+an abhorrent, a worry wraith |
 Hands |
 AC: 11 STR: +5 DEX: +5 SV MAGIC: +10 WT: 3.8 Size: SMALL Class: ROG Race: ALL |
 Woven Shadow GreavesWoven Shadow Greaves

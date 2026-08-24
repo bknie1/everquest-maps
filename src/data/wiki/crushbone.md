@@ -1,5 +1,5 @@
 # Crushbone (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-24
 
 Crushbone - EverQuest Legends Wiki
 Jump to content
@@ -152,7 +152,7 @@ ATTUNEABLE
 Slot: PRIMARY SECONDARY
 MANA: +5
 INT: +2 WIS: +2
-WT: 8.0 Size: MEDIUM
+WT: 4.0 Size: MEDIUM
 Class: NEC WIZ MAG ENC
 Race: ALL
 , Crushbone FetishCrushbone Fetish
@@ -1099,13 +1099,13 @@ ATTUNEABLE
 Slot: PRIMARY SECONDARY
 MANA: +5
 INT: +2 WIS: +2
-WT: 8.0 Size: MEDIUM
+WT: 4.0 Size: MEDIUM
 Class: NEC WIZ MAG ENC
 Race: ALL
 |
 orc trainer |
 Primary, Secondary |
-MANA: +5 INT: +2 WIS: +2 WT: 8.0 Size: MEDIUM Class: NEC WIZ MAG ENC Race: ALL |
+MANA: +5 INT: +2 WIS: +2 WT: 4.0 Size: MEDIUM Class: NEC WIZ MAG ENC Race: ALL |
 Crushbone FetishCrushbone Fetish
 Attunable
 Slot: SECONDARY

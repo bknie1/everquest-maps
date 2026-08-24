@@ -1,5 +1,5 @@
 # The_Warrens (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-24
 
 The Warrens - EverQuest Legends Wiki
 Jump to content
@@ -327,7 +327,7 @@ MAGIC ITEM NO DROP
 Slot: CHEST
 AC: 7
 CHA: -5 INT: +2 HP: +10
-SV DISEASE: +10 SV POISON +5
+SV DISEASE: +10 SV POISON: +5
 WT: 0.5 Size: MEDIUM
 Class: NEC WIZ
 Race: ALL

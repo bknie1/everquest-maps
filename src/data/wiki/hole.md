@@ -1,5 +1,5 @@
 # The_Hole (eqlwiki.com)
-fetched: 2026-08-22
+fetched: 2026-08-24
 
 The Hole - EverQuest Legends Wiki
 Jump to content
@@ -446,7 +446,7 @@ Warrior |
 42-44 |
 |
 |
-A flighty fiend will always spawn in the same location you find it, is not a placeholder for other elementals or golems.... |
+A flighty fiend will always spawn in the same location you find it, is not a placeholder for other elementals or golems. |
 A mimic
 |
 Mimic |
@@ -495,7 +495,7 @@ AC: 5
 WIS: +4 MANA: +10
 SV FIRE: +10
 WT: 1.5 Size: SMALL
-Class: CLR DRU SHM
+Class: CLR DRU SHM BST
 Race: ALL
 , Withered Leather ShoulderpadsWithered Leather Shoulderpads
 MAGIC ITEM LORE ITEM
@@ -504,7 +504,7 @@ AC: 4
 STR: +5 STA: +5 MANA: +15
 SV FIRE: +3 SV DISEASE: +3 SV COLD: +3 SV MAGIC: +3 SV POISON: +3
 WT: 1.5 Size: SMALL
-Class: CLR DRU SHM
+Class: CLR DRU SHM BST
 Race: ALL
 , Paineel Steel Armor Set pieces |
 Appears in both male and female form, extremely magic resistant. The max level are unmezzable / uncharmable due to Old W... |
@@ -564,7 +564,7 @@ AC: 5
 WIS: +4 MANA: +10
 SV FIRE: +10
 WT: 1.5 Size: SMALL
-Class: CLR DRU SHM
+Class: CLR DRU SHM BST
 Race: ALL
 , Withered Leather ShoulderpadsWithered Leather Shoulderpads
 MAGIC ITEM LORE ITEM
@@ -573,7 +573,7 @@ AC: 4
 STR: +5 STA: +5 MANA: +15
 SV FIRE: +3 SV DISEASE: +3 SV COLD: +3 SV MAGIC: +3 SV POISON: +3
 WT: 1.5 Size: SMALL
-Class: CLR DRU SHM
+Class: CLR DRU SHM BST
 Race: ALL
 , Paineel Steel Armor Set pieces |
 Appears in both male and female form, extremely magic resistant. Do not recommend mezzing for crowd control, attempt to... |
@@ -687,7 +687,7 @@ Slot: HEAD
 AC: 6
 STR: +3 WIS: +2 MANA: +20
 WT: 0.6 Size: SMALL
-Class: CLR DRU SHM
+Class: CLR DRU SHM BST
 Race: ALL
 |
 Can randomly spawn in place of a revenant or a wanderer.
@@ -713,7 +713,7 @@ AC: 11
 WIS: +4 MANA: +90
 SV MAGIC: +10
 WT: 3.5 Size: MEDIUM
-Class: CLR DRU SHM
+Class: CLR DRU SHM BST
 Race: ALL
 , Imbued Shield of PaineelImbued Shield of Paineel
 MAGIC ITEM LORE ITEM
@@ -789,7 +789,7 @@ AC: 6
 WIS: +4 AGI: +8 MANA: +5
 SV DISEASE: +10
 WT: 4.0 Size: MEDIUM
-Class: CLR DRU SHM
+Class: CLR DRU SHM BST
 Race: ALL
 , Withered Leather CloakWithered Leather Cloak
 MAGIC ITEM LORE ITEM
@@ -797,7 +797,7 @@ Slot: BACK
 AC: 5
 STR: +5 STA: +8 MANA: +15
 WT: 2.0 Size: MEDIUM
-Class: CLR DRU SHM
+Class: CLR DRU SHM BST
 Race: ALL
 |
 Can randomly spawn in place of a revenant or a wanderer. |
@@ -813,7 +813,7 @@ Slot: WRIST
 AC: 3
 STR: +3 STA: +2 WIS: +5 MANA: +5
 WT: 1.0 Size: SMALL
-Class: CLR DRU SHM
+Class: CLR DRU SHM BST
 Race: ALL
 , Withered Leather BeltWithered Leather Belt
 MAGIC ITEM LORE ITEM
@@ -822,7 +822,7 @@ AC: 4
 STR: +3 MANA: +40
 SV FIRE: +3 SV DISEASE: +3 SV COLD: +3 SV MAGIC: +3 SV POISON: +3
 WT: 1.0 Size: SMALL
-Class: CLR DRU SHM
+Class: CLR DRU SHM BST
 Race: ALL
 |
 Can randomly spawn in place of a revenant or a wanderer. |
@@ -950,7 +950,7 @@ AC: 5
 MANA: +35
 SV COLD: +10
 WT: 1.5 Size: SMALL
-Class: CLR DRU SHM
+Class: CLR DRU SHM BST
 Race: ALL
 |
 Can randomly spawn in place of a revenant or a wanderer. |
@@ -1123,7 +1123,7 @@ AC: 5
 DEX: +8 WIS: +3 HP: +40 MANA: +5
 SV POISON: +10
 WT: 2.5 Size: SMALL
-Class: CLR DRU SHM
+Class: CLR DRU SHM BST
 Race: ALL
 , Withered Leather GorgetWithered Leather Gorget
 MAGIC ITEM LORE ITEM
@@ -1132,7 +1132,7 @@ AC: 4
 WIS: +3 MANA: +5
 SV FIRE: +3 SV DISEASE: +3 SV COLD: +3 SV MAGIC: +3 SV POISON: +3
 WT: 0.5 Size: SMALL
-Class: CLR DRU SHM
+Class: CLR DRU SHM BST
 Race: ALL
 |
 Can randomly spawn in place of a revenant or a wanderer. |
@@ -1759,12 +1759,12 @@ AC: 4
 STR: +3 MANA: +40
 SV FIRE: +3 SV DISEASE: +3 SV COLD: +3 SV MAGIC: +3 SV POISON: +3
 WT: 1.0 Size: SMALL
-Class: CLR DRU SHM
+Class: CLR DRU SHM BST
 Race: ALL
 |
 Irslak the Wretched |
 Waist |
-AC: 4 STR: +3 MANA: +40 SV FIRE: +3 SV DISEASE: +3 SV COLD: +3 SV MAGIC: +3 SV POISON: +3 WT: 1.0 Size: SMALL Class: CLR DRU SHM Race: ALL |
+AC: 4 STR: +3 MANA: +40 SV FIRE: +3 SV DISEASE: +3 SV COLD: +3 SV MAGIC: +3 SV POISON: +3 WT: 1.0 Size: SMALL Class: CLR DRU SHM BST Race: ALL |
 Withered Leather BootsWithered Leather Boots
 MAGIC ITEM LORE ITEM
 Slot: FEET
@@ -1772,24 +1772,24 @@ AC: 5
 DEX: +8 WIS: +3 HP: +40 MANA: +5
 SV POISON: +10
 WT: 2.5 Size: SMALL
-Class: CLR DRU SHM
+Class: CLR DRU SHM BST
 Race: ALL
 |
 Ulrik the Devout |
 Feet |
-AC: 5 DEX: +8 WIS: +3 HP: +40 MANA: +5 SV POISON: +10 WT: 2.5 Size: SMALL Class: CLR DRU SHM Race: ALL |
+AC: 5 DEX: +8 WIS: +3 HP: +40 MANA: +5 SV POISON: +10 WT: 2.5 Size: SMALL Class: CLR DRU SHM BST Race: ALL |
 Withered Leather CloakWithered Leather Cloak
 MAGIC ITEM LORE ITEM
 Slot: BACK
 AC: 5
 STR: +5 STA: +8 MANA: +15
 WT: 2.0 Size: MEDIUM
-Class: CLR DRU SHM
+Class: CLR DRU SHM BST
 Race: ALL
 |
 Initiate Sirlis |
 Back |
-AC: 5 STR: +5 STA: +8 MANA: +15 WT: 2.0 Size: MEDIUM Class: CLR DRU SHM Race: ALL |
+AC: 5 STR: +5 STA: +8 MANA: +15 WT: 2.0 Size: MEDIUM Class: CLR DRU SHM BST Race: ALL |
 Withered Leather GlovesWithered Leather Gloves
 MAGIC ITEM LORE ITEM
 Slot: HANDS
@@ -1797,12 +1797,12 @@ AC: 5
 MANA: +35
 SV COLD: +10
 WT: 1.5 Size: SMALL
-Class: CLR DRU SHM
+Class: CLR DRU SHM BST
 Race: ALL
 |
 Niltoth the Unholy |
 Hands |
-AC: 5 MANA: +35 SV COLD: +10 WT: 1.5 Size: SMALL Class: CLR DRU SHM Race: ALL |
+AC: 5 MANA: +35 SV COLD: +10 WT: 1.5 Size: SMALL Class: CLR DRU SHM BST Race: ALL |
 Withered Leather GorgetWithered Leather Gorget
 MAGIC ITEM LORE ITEM
 Slot: NECK
@@ -1810,12 +1810,12 @@ AC: 4
 WIS: +3 MANA: +5
 SV FIRE: +3 SV DISEASE: +3 SV COLD: +3 SV MAGIC: +3 SV POISON: +3
 WT: 0.5 Size: SMALL
-Class: CLR DRU SHM
+Class: CLR DRU SHM BST
 Race: ALL
 |
 Ulrik the Devout |
 Neck |
-AC: 4 WIS: +3 MANA: +5 SV FIRE: +3 SV DISEASE: +3 SV COLD: +3 SV MAGIC: +3 SV POISON: +3 WT: 0.5 Size: SMALL Class: CLR DRU SHM Race: ALL |
+AC: 4 WIS: +3 MANA: +5 SV FIRE: +3 SV DISEASE: +3 SV COLD: +3 SV MAGIC: +3 SV POISON: +3 WT: 0.5 Size: SMALL Class: CLR DRU SHM BST Race: ALL |
 Withered Leather LeggingsWithered Leather Leggings
 MAGIC ITEM LORE ITEM
 Slot: LEGS
@@ -1823,24 +1823,24 @@ AC: 6
 WIS: +4 AGI: +8 MANA: +5
 SV DISEASE: +10
 WT: 4.0 Size: MEDIUM
-Class: CLR DRU SHM
+Class: CLR DRU SHM BST
 Race: ALL
 |
 Initiate Sirlis |
 Legs |
-AC: 6 WIS: +4 AGI: +8 MANA: +5 SV DISEASE: +10 WT: 4.0 Size: MEDIUM Class: CLR DRU SHM Race: ALL |
+AC: 6 WIS: +4 AGI: +8 MANA: +5 SV DISEASE: +10 WT: 4.0 Size: MEDIUM Class: CLR DRU SHM BST Race: ALL |
 Withered Leather MaskWithered Leather Mask
 MAGIC ITEM LORE ITEM
 Slot: FACE
 AC: 3
 CHA: +8 WIS: +2 MANA: +10
 WT: 0.4 Size: SMALL
-Class: CLR DRU SHM
+Class: CLR DRU SHM BST
 Race: ALL
 |
 Niltoth the Unholy |
 Face |
-AC: 3 CHA: +8 WIS: +2 MANA: +10 WT: 0.4 Size: SMALL Class: CLR DRU SHM Race: ALL |
+AC: 3 CHA: +8 WIS: +2 MANA: +10 WT: 0.4 Size: SMALL Class: CLR DRU SHM BST Race: ALL |
 Withered Leather ShoulderpadsWithered Leather Shoulderpads
 MAGIC ITEM LORE ITEM
 Slot: SHOULDERS
@@ -1848,24 +1848,24 @@ AC: 4
 STR: +5 STA: +5 MANA: +15
 SV FIRE: +3 SV DISEASE: +3 SV COLD: +3 SV MAGIC: +3 SV POISON: +3
 WT: 1.5 Size: SMALL
-Class: CLR DRU SHM
+Class: CLR DRU SHM BST
 Race: ALL
 |
 a revenant, a wanderer |
 Shoulders |
-AC: 4 STR: +5 STA: +5 MANA: +15 SV FIRE: +3 SV DISEASE: +3 SV COLD: +3 SV MAGIC: +3 SV POISON: +3 WT: 1.5 Size: SMALL Class: CLR DRU SHM Race: ALL |
+AC: 4 STR: +5 STA: +5 MANA: +15 SV FIRE: +3 SV DISEASE: +3 SV COLD: +3 SV MAGIC: +3 SV POISON: +3 WT: 1.5 Size: SMALL Class: CLR DRU SHM BST Race: ALL |
 Withered Leather SkullcapWithered Leather Skullcap
 MAGIC ITEM LORE ITEM
 Slot: HEAD
 AC: 6
 STR: +3 WIS: +2 MANA: +20
 WT: 0.6 Size: SMALL
-Class: CLR DRU SHM
+Class: CLR DRU SHM BST
 Race: ALL
 |
 Commander Yarik |
 Head |
-AC: 6 STR: +3 WIS: +2 MANA: +20 WT: 0.6 Size: SMALL Class: CLR DRU SHM Race: ALL |
+AC: 6 STR: +3 WIS: +2 MANA: +20 WT: 0.6 Size: SMALL Class: CLR DRU SHM BST Race: ALL |
 Withered Leather SleevesWithered Leather Sleeves
 MAGIC ITEM LORE ITEM
 Slot: ARMS
@@ -1873,12 +1873,12 @@ AC: 5
 WIS: +4 MANA: +10
 SV FIRE: +10
 WT: 1.5 Size: SMALL
-Class: CLR DRU SHM
+Class: CLR DRU SHM BST
 Race: ALL
 |
 a revenant, a wanderer |
 Arms |
-AC: 5 WIS: +4 MANA: +10 SV FIRE: +10 WT: 1.5 Size: SMALL Class: CLR DRU SHM Race: ALL |
+AC: 5 WIS: +4 MANA: +10 SV FIRE: +10 WT: 1.5 Size: SMALL Class: CLR DRU SHM BST Race: ALL |
 Withered Leather TunicWithered Leather Tunic
 MAGIC ITEM LORE ITEM
 Slot: CHEST
@@ -1886,24 +1886,24 @@ AC: 11
 WIS: +4 MANA: +90
 SV MAGIC: +10
 WT: 3.5 Size: MEDIUM
-Class: CLR DRU SHM
+Class: CLR DRU SHM BST
 Race: ALL
 |
 Dartain the Lost |
 Chest |
-AC: 11 WIS: +4 MANA: +90 SV MAGIC: +10 WT: 3.5 Size: MEDIUM Class: CLR DRU SHM Race: ALL |
+AC: 11 WIS: +4 MANA: +90 SV MAGIC: +10 WT: 3.5 Size: MEDIUM Class: CLR DRU SHM BST Race: ALL |
 Withered Leather WristbandsWithered Leather Wristbands
 MAGIC ITEM
 Slot: WRIST
 AC: 3
 STR: +3 STA: +2 WIS: +5 MANA: +5
 WT: 1.0 Size: SMALL
-Class: CLR DRU SHM
+Class: CLR DRU SHM BST
 Race: ALL
 |
 Irslak the Wretched |
 Wrist |
-AC: 3 STR: +3 STA: +2 WIS: +5 MANA: +5 WT: 1.0 Size: SMALL Class: CLR DRU SHM Race: ALL |
+AC: 3 STR: +3 STA: +2 WIS: +5 MANA: +5 WT: 1.0 Size: SMALL Class: CLR DRU SHM BST Race: ALL |
 Raid Instance
 The Hole (Raid) is a Raid Encounter in EverQuest Legends that includes the Raid Boss, Master Yael. Entrance to the raid is by hailing a voidling in the The Hole zone.
 |

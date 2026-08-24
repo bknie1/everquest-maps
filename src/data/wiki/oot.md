@@ -1,5 +1,5 @@
 # Ocean_of_Tears (eqlwiki.com)
-fetched: 2026-08-23
+fetched: 2026-08-24
 
 Ocean of Tears - EverQuest Legends Wiki
 Jump to content
@@ -1159,7 +1159,7 @@ Unknown |
 25 |
 (-2190, 7767) |
 None |
-Killing him gave negative hits to Anti-Mage, Emerald Warriors, Faydarks Champions and Kelethin Merchants. No positive hi... |
+Killing him gave negative hits to Emerald Warriors, Faydarks Champions, and Kelethin Merchants. No positive hits. Drops ... |
 Wiltin Windwalker
 |
 Wood Elf |

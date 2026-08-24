@@ -1,5 +1,5 @@
 # Western_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-24
 
 Western Karana - EverQuest Legends Wiki
 Jump to content
@@ -866,7 +866,7 @@ Shaman |
 27 |
 13% @ (-677, -9077) |
 Various |
-Casts shaman spells of course, so beware; respawn time is 18 minutes. One cast of Discordant Mind, 528 damage, dropped i... |
+Casts shaman spells of course, so beware; One cast of Discordant Mind, 528 damage, dropped it to 1% hp. |
 An Ogre Shamaness
 |
 Ogre |

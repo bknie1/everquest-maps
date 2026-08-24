@@ -1,5 +1,5 @@
 # Kedge_Keep (eqlwiki.com)
-fetched: 2026-08-19
+fetched: 2026-08-24
 
 Kedge Keep - EverQuest Legends Wiki
 Jump to content
@@ -1658,7 +1658,8 @@ Solo vs. Multiplayer
 When creating the raid instance, players can choose between solo and multiplayer instances. These instances share lockouts, so players cannot do both in the same week and receive full loot.
 Both instances are a single room, with four seahorse trash mobs and the boss. The seahorses are in the north, south, east and west of the map, with the boss roaming below them.
 Retrieved from "https://eqlwiki.com/index.php?title=Kedge_Keep&oldid=169214"
-Categories: Classic Era
+Categories: Pages using duplicate arguments in template calls
+Classic Era
 Zones
 Loc Mapped
 How to Contribute

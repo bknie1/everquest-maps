@@ -1,5 +1,5 @@
 # West_Commonlands (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-24
 
 West Commonlands - EverQuest Legends Wiki
 Jump to content
@@ -174,7 +174,7 @@ Guard Valon |
 All |
 East Commonlands |
 Orc Pawn (Deathfist) |
-NPCs - Found 57 NPCs that spawn in West Commonlands:
+NPCs - Found 58 NPCs that spawn in West Commonlands:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Bixie
 |
@@ -394,6 +394,31 @@ Warrior |
 Various |
 Various |
 A higher-level bear. Aggressive. |
+A bixie drone
+|
+Bixie |
+Ranger |
+1 - 5 |
+|
+Bixie PartsBixie Parts
+WT: 1.0 Size: SMALL
+Class: ALL
+Race: ALL
+, Bixie WingBixie Wing
+QUEST ITEM
+WT: 0.1 Size: SMALL
+Class: ALL
+Race: ALL
+, HoneycombHoneycomb
+WT: 0.1 Size: TINY
+Class: ALL
+Race: ALL
+, Bixie StingerBixie Stinger
+WT: 0.1 Size: SMALL
+Class: NONE
+Race: NONE
+|
+Useful for the Honey Jum Quest, these are not aggressive until you start killing them. They are most common in Kithi... |
 A ghoul
 |
 Ghoul |
