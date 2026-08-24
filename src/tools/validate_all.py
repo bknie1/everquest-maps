@@ -1,5 +1,6 @@
 import glob,os,collections
-OUT='/mnt/user-data/outputs'
+# The map pack lives in the repo; EQ_MAPS overrides (same convention as the other tools).
+OUT=os.environ.get('EQ_MAPS', os.path.join(os.path.dirname(__file__),'..','..','Emoda Legends Maps'))
 issues=collections.defaultdict(list); stats={}
 files=sorted(f for f in glob.glob(f'{OUT}/*.txt') if not f.endswith('_colored.txt'))
 for p in files:
