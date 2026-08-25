@@ -1,5 +1,5 @@
 # Lower_Guk (eqlwiki.com)
-fetched: 2026-08-23
+fetched: 2026-08-25
 
 Lower Guk - EverQuest Legends Wiki
 Jump to content
@@ -977,7 +977,7 @@ WT: 0.3 Size: SMALL
 Class: ALL
 Race: ALLFocus Effect: Affliction Efficiency II
 |
-Spawns by himself on the eastern side of the northen plank. Ph is a Yun Shaman. The long corridor from jail leading up t... |
+Spawns by himself on the eastern side of the northen plank. The long corridor from jail leading up to him is safe. |
 A Froglok Shin Knight
 |
 Old Froglok |

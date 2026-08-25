@@ -1,5 +1,5 @@
 # Upper_Guk (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-25
 
 Upper Guk - EverQuest Legends Wiki
 Jump to content
@@ -912,7 +912,7 @@ Warrior |
 28 |
 20% @ (612, -48) |
 Various |
-Located in the room with a froglok idealist. |
+Located in the room with a froglok idealist. Placeholders include a froglok ton knight and similar. |
 A Froglok Tuk Knight
 |
 Old Froglok |

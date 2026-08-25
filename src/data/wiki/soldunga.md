@@ -1,5 +1,5 @@
 # Solusek's_Eye (eqlwiki.com)
-fetched: 2026-08-18
+fetched: 2026-08-25
 
 Solusek's Eye - EverQuest Legends Wiki
 Jump to content
@@ -1751,7 +1751,7 @@ WT: 2.5 Size: MEDIUM
 Class: MAG
 Race: ALL
 |
-fire goblins |
+fire goblin |
 Chest |
 AC: 7 SV FIRE: +5 WT: 2.5 Size: MEDIUM Class: MAG Race: ALL |
 Firewalker BootsFirewalker Boots

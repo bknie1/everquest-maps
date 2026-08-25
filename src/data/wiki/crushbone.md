@@ -1,5 +1,5 @@
 # Crushbone (eqlwiki.com)
-fetched: 2026-08-24
+fetched: 2026-08-25
 
 Crushbone - EverQuest Legends Wiki
 Jump to content
@@ -972,8 +972,9 @@ The Prophet
 Orc |
 Shaman |
 17 |
-50% @ (86, -62)
-50% @ (310, 20)
+Emp room @ (86, -62)
+Slaver area @ (310, 20)
+Hill outside fort @ (-6, 162)
 |
 Various |
 |

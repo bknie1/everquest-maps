@@ -1,5 +1,5 @@
 # Temple_of_Solusek_Ro (eqlwiki.com)
-fetched: 2026-08-23
+fetched: 2026-08-25
 
 The Temple of Solusek Ro - EverQuest Legends Wiki
 Jump to content
@@ -129,7 +129,8 @@ Hailing him will result in a LOSS of faction with Temple of Solusek Ro inhabitan
 2 |
 Gavel the Temperant |
 Cleric |
-Armor of the Priest |
+Armor of the Priest
+Caduceus of Sacrament |
 3 |
 Blaize The Radiant |
 Cleric |
@@ -1219,13 +1220,13 @@ Race: ALL
 None? |
 (None) |
 WT: 0.3 Size: SMALL Class: ALL Race: ALL |
-Retrieved from "https://eqlwiki.com/index.php?title=The_Temple_of_Solusek_Ro&oldid=131511"
+Retrieved from "https://eqlwiki.com/index.php?title=The_Temple_of_Solusek_Ro&oldid=172289"
 Categories: Temple Era
 Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 19 May 2026, at 13:50.
+This page was last edited on 24 August 2026, at 21:02.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

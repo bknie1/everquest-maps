@@ -1,5 +1,5 @@
 # Plane_of_Fear (eqlwiki.com)
-fetched: 2026-08-24
+fetched: 2026-08-25
 
 Plane of Fear - EverQuest Legends Wiki
 Jump to content
@@ -488,8 +488,8 @@ A Glare Lord
 Evil Eye |
 Magician |
 51 |
-25% @ (561, -1093), 25% @ (-1280, 277), 25% @ (892, 497) |
-Various |
+Three @ (575, -1135), Three @ (275,-780),One @ (375,-715 ), One @ (892, 497) |
+Group 1 Chest Armor (Common), Classic Raid Tier Treasures (Rare) |
 These frequently proc an AoE Recant Magic on melee. Stun or Fear these so they don't eat the raid's buffs, and k... |
 A Gorgon
 |
@@ -585,8 +585,16 @@ A tentacle tormentor
 Tentacle |
 Warrior |
 50 |
-25% @ Various |
-Various |
+Two @ (-420,710), Four @ (40, 635), One @ (902,390,113) |
+Dweamorvine GarlandDweamorvine Garland
+MAGIC ITEM LORE ITEM NO DROP
+Slot: WAIST
+AC: 8
+WIS: +5 AGI: +7
+WT: 0.5 Size: SMALL
+Class: DRU
+Race: ALL
+(Ultra Rare), Group 1 Chest Armor (Common), Classic Raid Tier Treasures (Rare) |
 These are rather large versions of Tentacle Terrors which drop ranger armor.
 They have the very annoying ability to rep... |
 A thought bleeder
@@ -725,7 +733,7 @@ Warrior |
 Various |
 The wraith spawns every 72 hours, or when Cazic Thule spawns and repops the zone.
 Spawn location: in the top of the tem... |
-Items - Found 134 items that drop in Plane of Fear:
+Items - Found 135 items that drop in Plane of Fear:
 Item Name | Drops From | Slot | Stats |
 Amulet of NecropotenceAmulet of Necropotence
 MAGIC ITEM
@@ -1742,6 +1750,19 @@ Race: ALL
 a scareling |
 Hands |
 AC: 10 STR: 6 DEX: 5 AGI: 2 END: 10 SV Magic: 8 WT: 2.7 Size: SMALL Class: BER Race: ALL |
+Shadow Rage TunicShadow Rage Tunic
+Lore Equipped, No Trade, Quest
+Slot: Chest
+AC: ?
+STR: ? AGI: ? DEX: ?
+SV Disease: ?
+WT: ? Size: LARGE
+Class: BER
+Race: ALL
+|
+a glare lord |
+Chest |
+AC: ? STR: ? AGI: ? DEX: ? SV Disease: ? WT: ? Size: LARGE Class: BER Race: ALL |
 Shawl of ProtectionShawl of Protection
 MAGIC ITEM LORE ITEM NO DROP
 Slot: SHOULDERS

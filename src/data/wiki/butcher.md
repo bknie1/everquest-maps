@@ -1,5 +1,5 @@
 # Butcherblock_Mountains (eqlwiki.com)
-fetched: 2026-08-19
+fetched: 2026-08-25
 
 Butcherblock Mountains - EverQuest Legends Wiki
 Jump to content
@@ -1942,14 +1942,14 @@ Tagnis Ginfarr, Thar Kelgand |
 (None) |
 LORE ITEM NODROP WT: 1.0 Size: MEDIUM Class: ALL Race: ALL |
 Keldyn's TongueKeldyn's Tongue
-LORE ITEM NO DROP
+NO DROP
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 |
 Keldyn Dunfire |
 (None) |
-LORE ITEM NO DROP WT: 0.1 Size: TINY Class: ALL Race: ALL |
+NO DROP WT: 0.1 Size: TINY Class: ALL Race: ALL |
 Margyl's TongueMargyl's Tongue
 LORE ITEM NO DROP
 WT: 0.1 Size: TINY

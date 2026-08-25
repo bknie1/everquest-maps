@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-08-24
+fetched: 2026-08-25
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -185,8 +185,9 @@ Boss NPCs no longer have a deathtouch (a.k.a. DT, Cazic Touch).
 Benefits
 Most of the loot from Plane of Sky quests are quite excellent for the Kunark era. All melee classes can quickly attain a 21% haste belt and eventually earn a 41% belt. There are also numerous useful clicky items for caster classes, such as the Vermilion Sky Ring for Shamans, the Duennan Shielding Ring for Magicians, and the Necklace of Resolution for Clerics. Magicians, Monks, Rangers, and Paladins will also find they must visit Plane of Sky for their epic quests. For these reasons, most casual raiding guilds will raid Plane of Sky once a week, and defeating every boss in Plane of Sky is considered a major milestone in a guild's rise to fame.
 Travelling To/From Plane of Sky
-The Plane of Sky is accessible via an orb in East Freeport, located on a rock in the bay (location approximately -425, -1200). Clicking the orb will send you to the zone.
-The Plane of Sky, like the Plane of Hate, is also accessible through the Wizard's spell Alter Plane: Sky, which requires Cloudy Stone of Veeshan for each cast. Upon entering, all buffs and debuffs are stripped from the characters. No form of teleport spell or ability will work within Plane of Sky, except for Alter Plane: Sky (which allows a group to return to island 1 with their keys). There are only three ways to leave, jumping or falling off an island, death, or Druid Wind of the South or Wind of the North ports. After falling, a character will have all of his keys from Plane of Sky destroyed, and land in the ocean of East Freeport, east of the docks (swim directly west to get back to land, the docks should come into view quickly).
+This is a quest zone, very similar to the Temple of Solusek Ro, only the challenges are here in the Zone with us.
+The Plane of Sky is accessible via an orb in East Freeport, located on a rock in the bay (location approximately -425, -1200). Clicking the orb will send you to the zone. There are reports of a Wizard spell Alter Plane: Sky, which requires Cloudy Stone of Veeshan for each cast, which may also work, but this is not confirmed for EQL. If you are grouped, you may also accept a 'Gather Party' summons from a group member already on the island.
+Leaving the Plane of Sky is available via any normal port spell or ritual, Gate, or the Origin ability. You may also opt to leap off the edge. After falling, you zone into the eastern edge of the ocean of East Freeport, east of the docks (swim directly west to get back to land, the docks should come into view quickly).
 Walkthrough/Guide
 Plane of Sky is a unique, complex, and challenging zone which requires tremendous effort, preparation, and resources for any guild to succeed in. Progress can be measured in how many island bosses a guild has defeated. Your guild probably shouldn't start here until you've already had some success in Plane of Hate and Fear, which are considerably easier zones in general. You should also already have some minimum level of discipline in your guild, and most members should be able to follow simple instructions and pay attention.
 Keys
@@ -6109,13 +6110,13 @@ Race: ALL
 Protector of Sky |
 (None) |
 LORE ITEM WT: 6.0 Size: MEDIUM Class: ALL Race: ALL |
-Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Sky&oldid=171123"
+Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Sky&oldid=172250"
 Categories: Sky Era
 Classic Era
 Zones
 How to Contribute
 Donate
-This page was last edited on 21 August 2026, at 01:25.
+This page was last edited on 24 August 2026, at 14:43.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

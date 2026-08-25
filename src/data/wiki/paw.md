@@ -1,5 +1,5 @@
 # Splitpaw_Lair (eqlwiki.com)
-fetched: 2026-08-22
+fetched: 2026-08-25
 
 Splitpaw Lair - EverQuest Legends Wiki
 Jump to content
@@ -698,7 +698,7 @@ Cleric |
 24 |
 50% @ (382, 329) |
 Burning Soul of the Pious |
-He is in the jail area at loc above was up in personal solo 0 |
+In Splitpaw Lair, at #6 on the map. Spawns on instance creation. |
 Kurrpok Splitpaw
 |
 Gnoll |

@@ -1,5 +1,5 @@
 # The_Hole (eqlwiki.com)
-fetched: 2026-08-24
+fetched: 2026-08-25
 
 The Hole - EverQuest Legends Wiki
 Jump to content
@@ -359,7 +359,7 @@ This zone is a haven for the high-level weapon quests for all the classes. No le
 Traveling To and From
 Small races can duck and swim through this opening, thus by-passing the locked door
 There are two ways to enter the Hole, both from within the Erudite city of Paineel. The first is through the large hole with the waterfall in Paineel. This, however, is not a safe way to enter the city. Levitate gets stripped when you enter the zone, and you will fall for lethal damage at the feet of Master Yael at the bottom of the zone.
-The other way is through a small, locked boulder located in the area just past the newbie area in Paineel. You will need to be able to pick locks in order to open this, but evil races can purchase the key in Paineel from Rallia_Hapera (941,770) for quite a large sum (around 100-120 pp). Also, smaller races or creatures (like wolf form or some illusions) can fit through the rocks with a little work, although they must be careful not to drown while doing so.
+The other way is through a small, locked boulder located in the area just past the newbie area in Paineel. You will need to be able to pick locks in order to open this, but evil races can purchase the key in Paineel from Rallia Hapera (941,770) for quite a large sum (around 100-120 pp). Also, smaller races or creatures (like wolf form or some illusions) can fit through the rocks with a little work, although they must be careful not to drown while doing so.
 Zone Out Locations Map
 Any race can push their way through this corner of the door/wall by rapidly moving around with mouse look and potentially ducking as well. Ducking while mid-jump seems to work quite frequently as well.
 Location 7ish on map - Master Yael sees through invis, if he is up Sneak/Hide only or zone out another way. He casts Ice Comet.
@@ -1981,13 +1981,13 @@ The Hole
 Solo vs. Multiplayer
 When creating the raid instance, players can choose between solo and multiplayer instances. These instances share lockouts, so players cannot do both in the same week and receive full loot.
 There are no differences in trash mobs between solo and multiplayer instances. The raid instance has two elementals and a fiery fiend in the room with Master Yael. These trash mobs path around the room, and will often pull Master Yael when engaged.
-Retrieved from "https://eqlwiki.com/index.php?title=The_Hole&oldid=168060"
+Retrieved from "https://eqlwiki.com/index.php?title=The_Hole&oldid=172278"
 Categories: Classic Era
 Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 8 August 2026, at 17:25.
+This page was last edited on 24 August 2026, at 18:37.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

@@ -1,5 +1,5 @@
 # Plane_of_Hate (eqlwiki.com)
-fetched: 2026-08-24
+fetched: 2026-08-25
 
 Plane of Hate - EverQuest Legends Wiki
 Jump to content
@@ -655,7 +655,7 @@ Mimic |
 Warrior |
 50 |
 13% @ (113, 277), 13% @ (274, -277), 13% @ (410, -74), 13% @ (-321, 306), 13% @ (203, -221), 13% @ (-67, -279), 13% @ (-324, -293), 13% @ (-148, -214) |
-Various |
+All Group 1 Armor (Common), All Group 2 Armor (Common), Classic Raid Tier Treasures (Rare), Special Drops - See Notes below |
 Description needed.
 Lore
 Haunted chests are just one example of the many malevolent animate objects on the Plane... |
