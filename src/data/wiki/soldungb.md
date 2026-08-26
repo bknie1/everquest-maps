@@ -1,5 +1,5 @@
 # Nagafen's_Lair (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-26
 
 Nagafen's Lair - EverQuest Legends Wiki
 Jump to content
@@ -462,7 +462,7 @@ Race: ALL
 (Common), Mithril GreavesMithril Greaves
 MAGIC ITEM
 Slot: LEGS
-AC: 10
+AC: 14
 STR: +7
 SV MAGIC: +5
 WT: 3.7 Size: SMALL
@@ -913,6 +913,11 @@ Race: ALL
 , Giant Bat WingGiant Bat Wing
 QUEST ITEM
 WT: 0.3 Size: SMALL
+Class: ALL
+Race: ALL
+, Bat BloodBat Blood
+NO TRADE, QUEST ITEM
+WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 |
@@ -1422,7 +1427,7 @@ AC: 17 AGI: +15 HP: +30 WT: 10.0 Size: LARGE Class: WAR CLR PAL RNG SHD BRD ROG 
 Mithril GreavesMithril Greaves
 MAGIC ITEM
 Slot: LEGS
-AC: 10
+AC: 14
 STR: +7
 SV MAGIC: +5
 WT: 3.7 Size: SMALL
@@ -1431,7 +1436,7 @@ Race: ALL
 |
 Warlord Skarlon |
 Legs |
-AC: 10 STR: +7 SV MAGIC: +5 WT: 3.7 Size: SMALL Class: WAR PAL RNG SHD BRD ROG Race: ALL |
+AC: 14 STR: +7 SV MAGIC: +5 WT: 3.7 Size: SMALL Class: WAR PAL RNG SHD BRD ROG Race: ALL |
 Mithril VambracesMithril Vambraces
 MAGIC ITEM
 Slot: ARMS
@@ -1663,7 +1668,7 @@ Race: ALL
 , Mithril GreavesMithril Greaves
 MAGIC ITEM
 Slot: LEGS
-AC: 10
+AC: 14
 STR: +7
 SV MAGIC: +5
 WT: 3.7 Size: SMALL

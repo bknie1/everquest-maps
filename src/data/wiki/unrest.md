@@ -1,5 +1,5 @@
 # Estate_of_Unrest (eqlwiki.com)
-fetched: 2026-08-23
+fetched: 2026-08-26
 
 The Estate of Unrest - EverQuest Legends Wiki
 Jump to content
@@ -95,7 +95,24 @@ Garanel Rucksif, a priest of najena, Khrix Fritchoff, Khrix's Abomination, Torkl
 |
 Unique Items:
 |
-Damask Armor, Gossamer Armor, Bloodstained MantleBloodstained Mantle
+Damask Armor, Gossamer Armor, Ancient Spurned FerraioloAncient Spurned Ferraiolo
+Attunable, Lore Equipped, Quest
+Slot: CHEST
+AC: 8
+CHA: -5 WIS: 3 HP: 20
+SV Disease: 10 SV Poison: 10
+WT: 3.5 Size: MEDIUM
+Class: CLR PAL DRU SHM
+Race: ALL
+, Ancient Spurned WaistcoatAncient Spurned Waistcoat
+Lore Equipped, Attuneable, Quest
+Slot: LEGS
+AC: 5
+STA: 3 CHA: -5 WIS: 3 MANA: 10
+WT: 2.0 Size: MEDIUM
+Class: CLR PAL DRU SHM
+Race: ALLFocus Effect: Improved Healing I
+, Bloodstained MantleBloodstained Mantle
 MAGIC ITEM
 Slot: SHOULDERS
 AC: 6
@@ -108,9 +125,46 @@ Race: ALL
 MAGIC ITEM
 Slot: CHEST
 AC: 13
-WIS: +4 AGI: +4
+WIS: 4 AGI: 4
 WT: 6.5 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+, Brewer's BracerBrewer's Bracer
+Attunable
+Slot: WRIST
+AC: 6
+DEX: 2 STA: 2
+WT: 2.1 Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
+Race: ALL
+, Brewer's MittensBrewer's Mittens
+Attunable
+Slot: HANDS
+AC: 5
+DEX: 3 STA: 3
+SV Magic: 5
+WT: 4.5 Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
+Race: ALL
+, Brittle StaffBrittle Staff
+Attunable
+Slot: PRIMARY
+Skill: 2H Blunt
+DMG: 12 DMG Bonus: 28
+Atk Delay: 42
+DEX: -13 INT: 7
+WT: 3.5 Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: ALL
+, Cursed BladeCursed Blade
+Attunable, Lore Equipped
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing
+DMG: 12 Atk Delay: 36
+DMG Bonus: 17
+DEX: 10 STA: -5 END: 5
+WT: 5.0 Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , Dark Boned BraceletDark Boned Bracelet
 MAGIC ITEM LORE ITEM NO DROP
@@ -119,6 +173,14 @@ AC: 2
 SV FIRE: +2
 WT: 0.1 Size: TINY
 Class: ALL
+Race: ALL
+, Dark Plate LeggingsDark Plate Leggings
+Attunable
+Slot: LEGS
+AC: 13
+STR: 2 STA: 5
+WT: 9.4 Size: MEDIUM
+Class: WAR PAL SHD
 Race: ALL
 , Dusty Bloodstained GlovesDusty Bloodstained Gloves
 MAGIC ITEM
@@ -137,19 +199,20 @@ WT: 5.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 , Festering CloakFestering Cloak
-MAGIC ITEM
+Attunable, Quest
 Slot: BACK
 AC: 5
-HP: +10 MANA: +10
-SV DISEASE: -10 SV POISON: -10
-WT: 0.5 Size: MEDIUM
-Class: NEC
+HP: 10 MANA: 35 END: 15
+SV Disease: -10 SV Poison: -10
+WT: 0.5 Size: MEDMIUM
+Class: nec
 Race: ALL
 , GladiusGladius
 MAGIC ITEM
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 29
 DMG: 7
+Effect: Laceration (Combat) at Level 15
 WT: 2.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
@@ -181,8 +244,35 @@ MAGIC ITEM
 Slot: PRIMARY SECONDARY
 Skill: Piercing Atk Delay: 21
 DMG: 5BACKSTAB: 5
+Effect: Rising Dexterity (Combat) at Level 15
 WT: 2.5 Size: SMALL
-Class: ALL except CLR PAL DRU MNK SHM
+Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
+Race: ALL
+, Repurposed PickaxeRepurposed Pickaxe
+Attunable
+Slot: PRIMARY
+Skill: 1H Piercing
+DMG: 15
+Atk Delay: 50
+WT: 14.7 Size: LARGE
+Class: WAR PAL RNG SHD BRD BST BER
+Race: ALL
+, Rhodium BandRhodium Band
+Attunable, Quest
+Slot: FINGER
+HP: 27
+SV Magic: -4
+WT: 0.1 Size: TINY
+Class: ALL
+Race: ALL
+, Rotted ChestwrapsRotted Chestwraps
+Attunable
+Slot: CHEST
+AC: 13
+STR: 1 DEX: 4 STA: 3 CHA: -25 AGI: 3
+SV Fire: 3 SV Disease: -15 SV Cold: 3 SV Magic: -6 SV Poison: -15
+WT: 0.3 Size: MEDIUM
+Class: MNK BST
 Race: ALL
 , Savant's CapSavant's Cap
 MAGIC ITEM
@@ -192,11 +282,37 @@ WIS: +3 INT: +3
 WT: 0.3 Size: SMALL
 Class: ALL
 Race: ALLFocus Effect: Reagent Conservation II
+, Scaredy CapScaredy Cap
+Attunable
+Slot: HEAD
+AC: 2
+MANA: 30
+WT: 0.3 Size: SMALL
+Class: NEC WIZ ENC
+Race: ALLFocus Effect: See Invisible
+, Shawl of Less-Than InvisibilityShawl of Less-Than Invisibility
+Attunable
+Slot: SHOULDERS
+AC: 4
+STA: 4 CHA: -10 INT: 4
+WT: 0.3 Size: SMALL
+Class: NEC WIZ MAG ENC
+Race: ALL
+, Spelunker's HeadlampSpelunker's Headlamp
+Attunable
+Slot: HEAD
+AC: 10
+STA: 5
+WT: 5.5 Size: SMALL
+Class: WAR CLR PAL SHD BRD
+Race: ALL
 , Thick Leather ApronThick Leather Apron
+Attunable
 Slot: WAIST
 AC: 8
+Haste: 15%
 WT: 1.0 Size: SMALL
-Class: ALL except NEC WIZ MAG ENC
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST BER
 Race: ALL
 |
 Adjacent Zones:
@@ -233,6 +349,7 @@ MAGIC ITEM
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 29
 DMG: 7
+Effect: Laceration (Combat) at Level 15
 WT: 2.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
@@ -241,8 +358,9 @@ MAGIC ITEM
 Slot: PRIMARY SECONDARY
 Skill: Piercing Atk Delay: 21
 DMG: 5BACKSTAB: 5
+Effect: Rising Dexterity (Combat) at Level 15
 WT: 2.5 Size: SMALL
-Class: ALL except CLR PAL DRU MNK SHM
+Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
 Race: ALL
 (Rare)
 B. To Basement.
@@ -276,10 +394,12 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 (Common) and Thick Leather ApronThick Leather Apron
+Attunable
 Slot: WAIST
 AC: 8
+Haste: 15%
 WT: 1.0 Size: SMALL
-Class: ALL except NEC WIZ MAG ENC
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST BER
 Race: ALL
 (Rare), and Zombie of Unrest Noble
 3. Room with a reanimated hand which drops Ivory BraceletIvory Bracelet
@@ -304,7 +424,7 @@ Race: ALL
 MAGIC ITEM
 Slot: CHEST
 AC: 13
-WIS: +4 AGI: +4
+WIS: 4 AGI: 4
 WT: 6.5 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD BRD ROG SHM
 Race: ALL
@@ -358,8 +478,9 @@ MAGIC ITEM
 Slot: PRIMARY SECONDARY
 Skill: Piercing Atk Delay: 21
 DMG: 5BACKSTAB: 5
+Effect: Rising Dexterity (Combat) at Level 15
 WT: 2.5 Size: SMALL
-Class: ALL except CLR PAL DRU MNK SHM
+Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
 Race: ALL
 and
 GladiusGladius
@@ -367,6 +488,7 @@ MAGIC ITEM
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 29
 DMG: 7
+Effect: Laceration (Combat) at Level 15
 WT: 2.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
@@ -391,10 +513,12 @@ Class: NEC WIZ MAG ENC
 Race: ALLFocus Effect: Summoning Efficiency I
 ), an undead barkeep (
 Thick Leather ApronThick Leather Apron
+Attunable
 Slot: WAIST
 AC: 8
+Haste: 15%
 WT: 1.0 Size: SMALL
-Class: ALL except NEC WIZ MAG ENC
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST BER
 Race: ALL
 ,
 Opalline EarringOpalline Earring
@@ -415,20 +539,20 @@ Class: ALL
 Race: ALLFocus Effect: Reanimation Haste I
 ), and if your group is brave you can also pull the third floor that holds 3 festering hags (
 Festering CloakFestering Cloak
-MAGIC ITEM
+Attunable, Quest
 Slot: BACK
 AC: 5
-HP: +10 MANA: +10
-SV DISEASE: -10 SV POISON: -10
-WT: 0.5 Size: MEDIUM
-Class: NEC
+HP: 10 MANA: 35 END: 15
+SV Disease: -10 SV Poison: -10
+WT: 0.5 Size: MEDMIUM
+Class: nec
 Race: ALL
 ), with the one in the middle being the placeholder for the undead knight of unrest (
 Bloodstained TunicBloodstained Tunic
 MAGIC ITEM
 Slot: CHEST
 AC: 13
-WIS: +4 AGI: +4
+WIS: 4 AGI: 4
 WT: 6.5 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD BRD ROG SHM
 Race: ALL
@@ -691,7 +815,24 @@ Ghoul |
 Cleric |
 29 - 31 |
 5% @ (504, 62, 45) 3rd floor |
-Tarnished Bronze KeyTarnished Bronze Key
+Ancient Spurned FerraioloAncient Spurned Ferraiolo
+Attunable, Lore Equipped, Quest
+Slot: CHEST
+AC: 8
+CHA: -5 WIS: 3 HP: 20
+SV Disease: 10 SV Poison: 10
+WT: 3.5 Size: MEDIUM
+Class: CLR PAL DRU SHM
+Race: ALL
+, Ancient Spurned WaistcoatAncient Spurned Waistcoat
+Lore Equipped, Attuneable, Quest
+Slot: LEGS
+AC: 5
+STA: 3 CHA: -5 WIS: 3 MANA: 10
+WT: 2.0 Size: MEDIUM
+Class: CLR PAL DRU SHM
+Race: ALLFocus Effect: Improved Healing I
+, Tarnished Bronze KeyTarnished Bronze Key
 LORE ITEM NODROP
 WT: 0.1 Size: TINY
 Class: ALL
@@ -746,7 +887,16 @@ Skeleton New |
 Warrior |
 18 |
 100% @ (640, 22) |
-Preserved HopsPreserved Hops
+Brewer's MittensBrewer's Mittens
+Attunable
+Slot: HANDS
+AC: 5
+DEX: 3 STA: 3
+SV Magic: 5
+WT: 4.5 Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
+Race: ALL
+, Preserved HopsPreserved Hops
 No Trade
 WT: 0.1 Size: TINY
 Class: ALL
@@ -771,7 +921,7 @@ Bloodstained TunicBloodstained Tunic
 MAGIC ITEM
 Slot: CHEST
 AC: 13
-WIS: +4 AGI: +4
+WIS: 4 AGI: 4
 WT: 6.5 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD BRD ROG SHM
 Race: ALL
@@ -859,6 +1009,22 @@ QUEST ITEM
 WT: 1.0 Size: SMALL
 Class: ALL
 Race: ALL
+, Scaredy CapScaredy Cap
+Attunable
+Slot: HEAD
+AC: 2
+MANA: 30
+WT: 0.3 Size: SMALL
+Class: NEC WIZ ENC
+Race: ALLFocus Effect: See Invisible
+, Shawl of Less-Than InvisibilityShawl of Less-Than Invisibility
+Attunable
+Slot: SHOULDERS
+AC: 4
+STA: 4 CHA: -10 INT: 4
+WT: 0.3 Size: SMALL
+Class: NEC WIZ MAG ENC
+Race: ALL
 |
 This gnomish necromancer can be reached by going through the southwest door in the fireplace room and making an immediat... |
 Lesser Blade Fiend
@@ -872,6 +1038,7 @@ MAGIC ITEM
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 29
 DMG: 7
+Effect: Laceration (Combat) at Level 15
 WT: 2.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
@@ -880,8 +1047,9 @@ MAGIC ITEM
 Slot: PRIMARY SECONDARY
 Skill: Piercing Atk Delay: 21
 DMG: 5BACKSTAB: 5
+Effect: Rising Dexterity (Combat) at Level 15
 WT: 2.5 Size: SMALL
-Class: ALL except CLR PAL DRU MNK SHM
+Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
 Race: ALL
 |
 Relatively rare spawn at the alcove next to the side door on the 1st floor. Placeholder is a dark boned skeleton. Seems ... |
@@ -977,13 +1145,31 @@ Charred RubyCharred Ruby
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
+, Cursed BladeCursed Blade
+Attunable, Lore Equipped
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing
+DMG: 12 Atk Delay: 36
+DMG Bonus: 17
+DEX: 10 STA: -5 END: 5
+WT: 5.0 Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+, Dark Plate LeggingsDark Plate Leggings
+Attunable
+Slot: LEGS
+AC: 13
+STR: 2 STA: 5
+WT: 9.4 Size: MEDIUM
+Class: WAR PAL SHD
+Race: ALL
 , Grave MoldGrave Mold
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 |
 Description needed. |
-Items - Found 67 items that drop in The Estate of Unrest:
+Items - Found 78 items that drop in The Estate of Unrest:
 Item Name | Drops From | Slot | Stats |
 A Werebat WingA Werebat Wing
 MAGIC ITEM LORE ITEM NO DROP
@@ -1049,14 +1235,14 @@ Bloodstained TunicBloodstained Tunic
 MAGIC ITEM
 Slot: CHEST
 AC: 13
-WIS: +4 AGI: +4
+WIS: 4 AGI: 4
 WT: 6.5 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD BRD ROG SHM
 Race: ALL
 |
 an undead knight of Unrest |
 Chest |
-AC: 13 WIS: +4 AGI: +4 WT: 6.5 Size: MEDIUM Class: WAR CLR PAL RNG SHD BRD ROG SHM Race: ALL |
+AC: 13 WIS: 4 AGI: 4 WT: 6.5 Size: MEDIUM Class: WAR CLR PAL RNG SHD BRD ROG SHM Race: ALL |
 Bone BarbsBone Barbs
 No Trade, Quest
 WT: 0.4 Size: SMALL
@@ -1066,6 +1252,45 @@ Race: ALL
 a barbed bone skeleton |
 (None) |
 No Trade, Quest WT: 0.4 Size: SMALL Class: ALL Race: ALL |
+Brewer's BracerBrewer's Bracer
+Attunable
+Slot: WRIST
+AC: 6
+DEX: 2 STA: 2
+WT: 2.1 Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
+Race: ALL
+|
+an undead brewer |
+Wrist |
+AC: 6 DEX: 2 STA: 2 WT: 2.1 Size: SMALL Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
+Brewer's MittensBrewer's Mittens
+Attunable
+Slot: HANDS
+AC: 5
+DEX: 3 STA: 3
+SV Magic: 5
+WT: 4.5 Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
+Race: ALL
+|
+an undead brewer |
+Hands |
+AC: 5 DEX: 3 STA: 3 SV Magic: 5 WT: 4.5 Size: SMALL Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
+Brittle StaffBrittle Staff
+Attunable
+Slot: PRIMARY
+Skill: 2H Blunt
+DMG: 12 DMG Bonus: 28
+Atk Delay: 42
+DEX: -13 INT: 7
+WT: 3.5 Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: ALL
+|
+a reanimated hand |
+2H Blunt |
+DMG: 12 DMG Bonus: 28 Atk Delay: 42 DEX: -13 INT: 7 WT: 3.5 Size: MEDIUM Class: NEC WIZ MAG ENC Race: ALL |
 Bronze Two Handed Battle AxeBronze Two Handed Battle Axe
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 46
@@ -1142,6 +1367,20 @@ Race: ALL
 an undead knight of Unrest |
 (None) |
 WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Cursed BladeCursed Blade
+Attunable, Lore Equipped
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing
+DMG: 12 Atk Delay: 36
+DMG Bonus: 17
+DEX: 10 STA: -5 END: 5
+WT: 5.0 Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+|
+zombie of an unrest noble |
+1H Slashing |
+DMG: 12 Atk Delay: 36 DMG Bonus: 17 DEX: 10 STA: -5 END: 5 WT: 5.0 Size: MEDIUM Class: WAR PAL RNG SHD BRD ROG Race: ALL |
 Dark Bone ChipsDark Bone Chips
 WT: 0.1 Size: SMALL
 Class: ALL
@@ -1162,6 +1401,18 @@ Race: ALL
 a greater dark bone |
 Wrist |
 AC: 2 SV FIRE: +2 WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Dark Plate LeggingsDark Plate Leggings
+Attunable
+Slot: LEGS
+AC: 13
+STR: 2 STA: 5
+WT: 9.4 Size: MEDIUM
+Class: WAR PAL SHD
+Race: ALL
+|
+zombie of an unrest noble |
+Legs |
+AC: 13 STR: 2 STA: 5 WT: 9.4 Size: MEDIUM Class: WAR PAL SHD Race: ALL |
 Darkbone MarrowDarkbone Marrow
 QUEST ITEM
 WT: 0.1 Size: TINY
@@ -1250,18 +1501,18 @@ a dry bone skeleton |
 Primary, Secondary |
 SV DISEASE: +5 WT: 0.5 Size: SMALL Class: NEC Race: ALL |
 Festering CloakFestering Cloak
-MAGIC ITEM
+Attunable, Quest
 Slot: BACK
 AC: 5
-HP: +10 MANA: +10
-SV DISEASE: -10 SV POISON: -10
-WT: 0.5 Size: MEDIUM
-Class: NEC
+HP: 10 MANA: 35 END: 15
+SV Disease: -10 SV Poison: -10
+WT: 0.5 Size: MEDMIUM
+Class: nec
 Race: ALL
 |
 a festering hag |
 Back |
-AC: 5 HP: +10 MANA: +10 SV DISEASE: -10 SV POISON: -10 WT: 0.5 Size: MEDIUM Class: NEC Race: ALL |
+AC: 5 HP: 10 MANA: 35 END: 15 SV Disease: -10 SV Poison: -10 WT: 0.5 Size: MEDMIUM Class: nec Race: ALL |
 Fungus EyeFungus Eye
 Lore Equipped, No Trade, Quest, Placeable
 Slot: PRIMARY SECONDARY
@@ -1294,13 +1545,14 @@ MAGIC ITEM
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 29
 DMG: 7
+Effect: Laceration (Combat) at Level 15
 WT: 2.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
 Lesser Blade Fiend |
 1H Slashing |
-Atk Delay: 29 DMG: 7 WT: 2.5 Size: MEDIUM Class: WAR PAL RNG SHD BRD ROG Race: ALL |
+Atk Delay: 29 DMG: 7 Effect: Laceration (Combat) at Level 15 WT: 2.5 Size: MEDIUM Class: WAR PAL RNG SHD BRD ROG Race: ALL |
 Globe of MistGlobe of Mist
 No Trade, Quest
 WT: 0.3 Size: SMALL
@@ -1442,7 +1694,7 @@ WT: 0.2 Size: TINY
 Class: ALL
 Race: ALLFocus Effect: Reanimation Haste I
 |
-a reanimated hand (Unrest) |
+a reanimated hand |
 Wrist |
 AGI: +3 MANA: +20 WT: 0.2 Size: TINY Class: ALL Race: ALL |
 Jack-O-Lantern FungusJack-O-Lantern Fungus
@@ -1523,13 +1775,52 @@ MAGIC ITEM
 Slot: PRIMARY SECONDARY
 Skill: Piercing Atk Delay: 21
 DMG: 5BACKSTAB: 5
+Effect: Rising Dexterity (Combat) at Level 15
 WT: 2.5 Size: SMALL
-Class: ALL except CLR PAL DRU MNK SHM
+Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
 Race: ALL
 |
 Lesser Blade Fiend |
 Piercing |
-Atk Delay: 21 DMG: 5 WT: 2.5 Size: SMALL Class: ALL except CLR PAL DRU MNK SHM Race: ALL |
+Atk Delay: 21 DMG: 5 Effect: Rising Dexterity (Combat) at Level 15 WT: 2.5 Size: SMALL Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST Race: ALL |
+Repurposed PickaxeRepurposed Pickaxe
+Attunable
+Slot: PRIMARY
+Skill: 1H Piercing
+DMG: 15
+Atk Delay: 50
+WT: 14.7 Size: LARGE
+Class: WAR PAL RNG SHD BRD BST BER
+Race: ALL
+|
+a gnomish spelunker |
+Primary |
+Skill: 1H Piercing DMG: 15 Atk Delay: 50 WT: 14.7 Size: LARGE Class: WAR PAL RNG SHD BRD BST BER Race: ALL |
+Rhodium BandRhodium Band
+Attunable, Quest
+Slot: FINGER
+HP: 27
+SV Magic: -4
+WT: 0.1 Size: TINY
+Class: ALL
+Race: ALL
+|
+a reanimated hand |
+Fingers |
+HP: 27 SV Magic: -4 WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Rotted ChestwrapsRotted Chestwraps
+Attunable
+Slot: CHEST
+AC: 13
+STR: 1 DEX: 4 STA: 3 CHA: -25 AGI: 3
+SV Fire: 3 SV Disease: -15 SV Cold: 3 SV Magic: -6 SV Poison: -15
+WT: 0.3 Size: MEDIUM
+Class: MNK BST
+Race: ALL
+|
+Khrix's Abomination |
+Chest |
+AC: 13 STR: 1 DEX: 4 STA: 3 CHA: -25 AGI: 3 SV Fire: 3 SV Disease: -15 SV Cold: 3 SV Magic: -6 SV Poison: -15 WT: 0.3 Size: MEDIUM Class: MNK BST Race: ALL |
 Sarcoscypha FungusSarcoscypha Fungus
 WT: 0.1 Size: TINY
 Class: ALL
@@ -1550,6 +1841,30 @@ Race: ALLFocus Effect: Reagent Conservation II
 reclusive ghoul magus |
 Head |
 AC: 2 WIS: +3 INT: +3 WT: 0.3 Size: SMALL Class: ALL Race: ALL |
+Scaredy CapScaredy Cap
+Attunable
+Slot: HEAD
+AC: 2
+MANA: 30
+WT: 0.3 Size: SMALL
+Class: NEC WIZ ENC
+Race: ALLFocus Effect: See Invisible
+|
+Khrix Fritchoff |
+Head |
+AC: 2 MANA: 30 WT: 0.3 Size: SMALL Class: NEC WIZ ENC Race: ALL |
+Shawl of Less-Than InvisibilityShawl of Less-Than Invisibility
+Attunable
+Slot: SHOULDERS
+AC: 4
+STA: 4 CHA: -10 INT: 4
+WT: 0.3 Size: SMALL
+Class: NEC WIZ MAG ENC
+Race: ALL
+|
+Khrix Fritchoff |
+Shoulders |
+AC: 4 STA: 4 CHA: -10 INT: 4 WT: 0.3 Size: SMALL Class: NEC WIZ MAG ENC Race: ALL |
 Small Kite ShieldSmall Kite Shield
 Slot: SECONDARY
 AC: 8
@@ -1568,6 +1883,18 @@ Race: ALL
 a reanimated hand |
 (None) |
 WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Spelunker's HeadlampSpelunker's Headlamp
+Attunable
+Slot: HEAD
+AC: 10
+STA: 5
+WT: 5.5 Size: SMALL
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+|
+a gnomish spelunker |
+Head |
+AC: 10 STA: 5 WT: 5.5 Size: SMALL Class: WAR CLR PAL SHD BRD Race: ALL |
 Sphere of UnrestSphere of Unrest
 Lore Equipped, No Trade, Quest, Placeable
 Slot: PRIMARY SECONDARY
@@ -1590,7 +1917,7 @@ LORE ITEM NODROP WT: 0.1 Size: TINY Class: ALL Race: ALL |
 The End of an AgeThe End of an Age
 WT: 0.0 Size: TINY
 |
-a reanimated hand (Unrest) |
+a reanimated hand |
 (None) |
 WT: 0.0 Size: TINY |
 Thick Caustic FluidThick Caustic Fluid
@@ -1603,15 +1930,17 @@ a werebat |
 (None) |
 No Trade WT: 0.4 Size: SMALL Class: ALL Race: ALL |
 Thick Leather ApronThick Leather Apron
+Attunable
 Slot: WAIST
 AC: 8
+Haste: 15%
 WT: 1.0 Size: SMALL
-Class: ALL except NEC WIZ MAG ENC
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST BER
 Race: ALL
 |
 an undead barkeep |
 Waist |
-AC: 8 WT: 1.0 Size: SMALL Class: ALL except NEC WIZ MAG ENC Race: ALL |
+AC: 8 Haste: 15% WT: 1.0 Size: SMALL Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST BER Race: ALL |
 Torklar's Battle HammerTorklar's Battle Hammer
 MAGIC ITEM LORE ITEM NO DROP
 Slot: PRIMARY SECONDARY
@@ -1641,13 +1970,13 @@ Race: ALL
 a barbed bone skeleton, a skeletal monk |
 (None) |
 WT: 0.1 Size: SMALL Class: ALL Race: ALL |
-Retrieved from "https://eqlwiki.com/index.php?title=The_Estate_of_Unrest&oldid=171447"
+Retrieved from "https://eqlwiki.com/index.php?title=The_Estate_of_Unrest&oldid=172460"
 Categories: Classic Era
 Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 22 August 2026, at 09:02.
+This page was last edited on 25 August 2026, at 11:41.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

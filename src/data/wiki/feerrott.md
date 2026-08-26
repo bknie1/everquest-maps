@@ -1,5 +1,5 @@
 # The_Feerrott (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-26
 
 The Feerrott - EverQuest Legends Wiki
 Jump to content
@@ -770,12 +770,12 @@ Slot: PRIMARY SECONDARY
 Skill: Piercing Atk Delay: 23
 DMG: 3BACKSTAB: 3
 WT: 4.0 Size: SMALL
-Class: ALL except CLR PAL DRU MNK
+Class: WAR RNG SHD BRD ROG SHM NEC WIZ MAG ENC
 Race: ALL
 |
 Cyndreela |
 Piercing |
-Atk Delay: 23 DMG: 3 WT: 4.0 Size: SMALL Class: ALL except CLR PAL DRU MNK Race: ALL |
+Atk Delay: 23 DMG: 3 WT: 4.0 Size: SMALL Class: WAR RNG SHD BRD ROG SHM NEC WIZ MAG ENC Race: ALL |
 Bronze WarclubBronze Warclub
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 35

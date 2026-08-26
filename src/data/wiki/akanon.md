@@ -1,5 +1,5 @@
 # Ak'Anon (eqlwiki.com)
-fetched: 2026-08-24
+fetched: 2026-08-26
 
 Ak'Anon - EverQuest Legends Wiki
 Jump to content
@@ -222,17 +222,7 @@ Ak'Anon |
 Priest of Discord |
 Bertoxxulous Symbol Quests
 |
-Initiate Symbol of BertoxxulousInitiate Symbol of Bertoxxulous
-MAGIC ITEM LORE ITEM NO DROP
-Slot: NECK
-AC: 3
-WIS: +1 MANA: +3
-Effect: Disease Cloud (Must Equip, Casting Time: 4.0)
-WT: 0.1 Size: TINY
-Class: CLR
-Race: ALL
-Deity: Bertoxxulous
-|
+Initiate Symbol of Bertoxxulous |
 Evah Xokez |
 8 |
 Cleric |

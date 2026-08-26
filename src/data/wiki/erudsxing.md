@@ -1,5 +1,5 @@
 # Erud's_Crossing (eqlwiki.com)
-fetched: 2026-08-18
+fetched: 2026-08-26
 
 Erud's Crossing - EverQuest Legends Wiki
 Jump to content
@@ -242,7 +242,7 @@ Slot: PRIMARY SECONDARY
 Skill: Piercing Atk Delay: 23
 DMG: 3BACKSTAB: 3
 WT: 4.0 Size: SMALL
-Class: ALL except CLR PAL DRU MNK
+Class: WAR RNG SHD BRD ROG SHM NEC WIZ MAG ENC
 Race: ALL
 , Incomplete Tool KitIncomplete Tool Kit
 LORE ITEM NO DROP

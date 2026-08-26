@@ -1,5 +1,5 @@
 # Kithicor_Forest (eqlwiki.com)
-fetched: 2026-08-24
+fetched: 2026-08-26
 
 Kithicor Forest - EverQuest Legends Wiki
 Jump to content
@@ -2081,13 +2081,14 @@ MAGIC ITEM
 Slot: PRIMARY SECONDARY
 Skill: Piercing Atk Delay: 21
 DMG: 5BACKSTAB: 5
+Effect: Rising Dexterity (Combat) at Level 15
 WT: 2.5 Size: SMALL
-Class: ALL except CLR PAL DRU MNK SHM
+Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
 Race: ALL
 |
 General V`ghera |
 Piercing |
-Atk Delay: 21 DMG: 5 WT: 2.5 Size: SMALL Class: ALL except CLR PAL DRU MNK SHM Race: ALL |
+Atk Delay: 21 DMG: 5 Effect: Rising Dexterity (Combat) at Level 15 WT: 2.5 Size: SMALL Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST Race: ALL |
 Robe of the IshvaRobe of the Ishva
 MAGIC ITEM LORE ITEM
 Slot: CHEST

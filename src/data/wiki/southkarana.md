@@ -1,5 +1,5 @@
 # Southern_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-08-22
+fetched: 2026-08-26
 
 Southern Karana - EverQuest Legends Wiki
 Jump to content
@@ -1177,7 +1177,12 @@ DMG: 10
 WT: 11.9 Size: LARGE
 Class: ALL except CLR WIZ MAG ENC
 Race: ALL
-(not for quest) |
+(not for quest), Burning Soul of the PestilentBurning Soul of the Pestilent
+No Trade, Quest
+Size: TINY
+Class: None
+Race: None
+|
 Lord Grimrot has a live form and an undead form. Also see Lord Grimrot (undead).
 Jan 18, 2014 patch: "There is a gr... |
 Lord Grimrot (undead)

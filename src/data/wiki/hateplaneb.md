@@ -1,5 +1,5 @@
 # Plane_of_Hate (eqlwiki.com)
-fetched: 2026-08-25
+fetched: 2026-08-26
 
 Plane of Hate - EverQuest Legends Wiki
 Jump to content
@@ -133,8 +133,8 @@ The Plane of Hate can either be reached via the wizard spell Alter Plane: Hate, 
 There are no conventional zone exits; players must Gate, Origin, use a wizard or druid portal, or use other means to exit the zone.
 Enemies and Loot
 General foes in the Plane of Hate drop planar-level armor for Head, Arms, Wrist, and Legs. They can be divided into 2 groups:
-Group 1 drops armor for Wisdom casters, Berserkers, Monks, and also all pieces of Lustrous Russet Armor. (Cleric, Druid, Shaman, Beastlord, Ranger, Paladin, Berserker, Monk)
-Group 2 drops armor for Intelligence casters, Rogues, Warriors, and also all pieces of Midnight Clad Armor. (Enchanter, Magician, Necromancer, Wizard, Bard, Shadow Knight, Rogue, Warrior)
+Group 1 drops armor for Wisdom casters, Berserkers, Monks, and also all pieces of Lustrous Russet Armor. (Cleric, Druid, Shaman, Beastlord, Ranger, Paladin, Berserker, Warrior)
+Group 2 drops armor for Intelligence casters, Rogues, Warriors, and also all pieces of Midnight Clad Armor. (Enchanter, Magician, Necromancer, Wizard, Bard, Shadow Knight, Rogue, Monk)
 a haunted chest can drop any planar armor, including pieces that normally drop only in Plane of Fear!
 Additionally, some specific mob types also drop various class-specific items.
 Armor drops, condensed table
@@ -655,18 +655,25 @@ Mimic |
 Warrior |
 50 |
 13% @ (113, 277), 13% @ (274, -277), 13% @ (410, -74), 13% @ (-321, 306), 13% @ (203, -221), 13% @ (-67, -279), 13% @ (-324, -293), 13% @ (-148, -214) |
-All Group 1 Armor (Common), All Group 2 Armor (Common), Classic Raid Tier Treasures (Rare), Special Drops - See Notes below |
-Description needed.
-Lore
-Haunted chests are just one example of the many malevolent animate objects on the Plane... |
+Various |
+Drops All Group 1 Armor (Common) and [[Classic Planar Armor: Group 2| All Group 2 Ar... |
 A Kiraikuei
 |
 Zombie |
 Monk |
-50 |
+50? |
 Various |
-Various |
-These undead mummies are monk class, but despite that drop warrior planar armor: the Indicolite Armor set and in Vel... |
+Shuriken of the TranquilShuriken of the Tranquil
+MAGIC ITEM
+Slot: RANGE AMMO
+Skill: Throwingv2 Atk Delay: 20
+DMG: 12
+WT: 0.3 Range: 200 Size: SMALL
+Class: MNK
+Race: ALL
+(Rare), Group 2 Armor - Bracers (Common) |
+These undead mummies are monks. They will cast Strong Disease on their target, like lesser mummies cast Rabies.
+... |
 A Knight of Innoruuk
 |
 Dark Elf |
@@ -721,7 +728,94 @@ Zombie |
 Bard |
 50 |
 3% @ (-25, -342), 3% @ (169, 285), 3% @ (409, -4), 3% @ (-374, 280), 3% @ (-335, 325), 3% @ (459, 1), 3% @ (-358, 253), 3% @ (-375, -195), 3% @ (-384, -186) |
-Various |
+Anthemion WristguardAnthemion Wristguard
+No Trade, Quest
+Slot: WRIST
+AC: 4
+WIS: +5 AGI: +5
+SV DISEASE: +5 SV POISON: +5
+WT: 0.2 Size: SMALL
+Class: BST
+Race: ALL
+Ethereal Mist BracersEthereal Mist Bracers
+MAGIC ITEM NO DROP
+Slot: WRIST
+AC: 9
+DEX: +9 CHA: +9 MANA: +20
+WT: 3.0 Size: SMALL
+Class: CLR
+Race: HUM ERU HIE DEF DWF HFL GNM
+Lustrous Russet BracerLustrous Russet Bracer
+MAGIC ITEM NO DROP
+Slot: WRIST
+AC: 9
+STR: +3 DEX: +3
+SV FIRE: +7 SV COLD: +7 SV MAGIC: +7
+WT: 3.0 Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
+Race: ALL
+Martune RapierMartune Rapier
+MAGIC ITEM LORE ITEM NO DROP
+Slot: PRIMARY SECONDARY
+Skill: Piercing Atk Delay: 23
+DMG: 8
+STR: +5 AGI: +4
+WT: 2.8 Size: MEDIUM
+Class: BRD
+Race: ALL
+Rune Etched BracerRune Etched Bracer
+MAGIC ITEM NO DROP
+Slot: WRIST
+AC: 9
+CHA: +5 WIS: +5 INT: +5
+WT: 3.0 Size: SMALL
+Class: SHM
+Race: ALL
+Shadow Rage WristguardShadow Rage Wristguard
+No Trade, Quest
+Slot: WRIST
+AC: 6
+STR: +4 AGI: +4 DEX: +4
+SV FIRE: +5 SV COLD: +5
+WT: 2.0 Size: SMALL
+Class: BER
+Race: ALL
+Shiverback-hide WristbandsShiverback-hide Wristbands
+MAGIC ITEM NO DROP
+Slot: WRIST
+AC: 4
+DEX: +5 STA: +5 AGI: +5
+SV DISEASE: +5 SV POISON: +5
+WT: 0.1 Size: SMALL
+Class: MNK
+Race: ALL
+Thorny Vine BracerThorny Vine Bracer
+MAGIC ITEM NO DROP
+Slot: WRIST
+AC: 9
+STA: +5 WIS: +5 AGI: +5 MANA: +10
+WT: 3.0 Size: SMALL
+Class: RNG
+Race: HUM ELF HEF HFL
+Valorium BracersValorium Bracers
+MAGIC ITEM NO DROP
+Slot: WRIST
+AC: 10
+STR: +5 DEX: +5 MANA: +10
+SV POISON: +5
+WT: 3.0 Size: SMALL
+Class: PAL
+Race: ALL
+Vermiculated BraceletVermiculated Bracelet
+MAGIC ITEM NO DROP
+Slot: WRIST
+AC: 5
+WIS: +9 MANA: +15
+SV FIRE: +7 SV COLD: +7
+WT: 3.5 Size: SMALL
+Class: DRU
+Race: ALL
+|
 These undead zombies drop the bard planar armor set, Imbrued Platemail Armor. They seem somewhat high MR.
 ===Lore==... |
 A Spite Golem
@@ -771,10 +865,11 @@ An Abhorrent
 Gargoyle |
 Rogue |
 49 |
-See Discussion |
+Various locations throughout the lower floor |
 Various |
-Arguably the best charm pets in poHate, they seem to have somewhat lower MR, and can backstab.
-They drop the rogue's pl... |
+Arguably the best charm pets in Hate, they seem to have somewhat lower MR, and can backstab.
+Lore
+These horrendo... |
 An Agent of Innoruuk
 |
 Chosen Warrior |
@@ -891,7 +986,15 @@ Gargoyle |
 Rogue |
 58 |
 100% @ (-72, 273) |
-Various |
+Always drops two pieces of Woven Shadow Armor - needs confirmed, VexthorneVexthorne
+MAGIC ITEM LORE ITEM NO DROP
+Slot: PRIMARY SECONDARY
+Skill: Piercing Atk Delay: 19
+DMG: 9BACKSTAB: 9
+WT: 2.5 Size: MEDIUM
+Class: ROG
+Race: ALL
+|
 A bigger, meaner Abhorrent.
 Lore
 These horrendous creatures are spawned by Innoruuk, the Prince... |
@@ -958,7 +1061,7 @@ Grandmaster R`Tal
 Zombie |
 Monk |
 56 |
-50% @ (-64, -452) 2nd Floor |
+Always @ (-64, -452) 2nd Floor |
 Various |
 A bigger, meaner Kiraikuei.
 Lore
@@ -985,7 +1088,25 @@ Dark Elf Guard |
 Cleric |
 58 |
 (-72, 317, 4) |
-Various |
+Always drops two pieces of Ethereal Mist Armor - needs confirmed, Truesight HammerTruesight Hammer
+MAGIC ITEM LORE ITEM NO DROP
+Slot: PRIMARY
+Skill: 1H Blunt Atk Delay: 35
+DMG: 12
+WIS: +7
+Effect: Banish Summoned (Combat) at Level 45
+WT: 3.5 Size: MEDIUM
+Class: CLR
+Race: ALL
+, Prismatic ShieldPrismatic Shield
+MAGIC ITEM LORE ITEM NO DROP
+Slot: SECONDARY
+AC: 18
+SV FIRE: +10 SV DISEASE: +10 SV COLD: +10 SV MAGIC: +10 SV POISON: +10
+WT: 7.3 Size: MEDIUM
+Class: CLR
+Race: ALL
+|
 A bigger, meaner Cleric of Innoruuk.
 Lore
 Ministers of Hate are Teir'Dal clerics who have proven themselves ... |
@@ -1073,7 +1194,29 @@ Golem |
 Bard |
 56 |
 100% @ (199, -445) 2nd Floor |
-Various |
+Always drops two pieces of Rune Etched Armor - needs confirmed, Spitestone ShieldSpitestone Shield
+MAGIC ITEM LORE ITEM NO DROP
+Slot: SECONDARY
+AC: 17
+WIS: +10
+WT: 7.5 Size: MEDIUM
+Class: SHM
+Race: ALL
+, GardashGardash
+MAGIC ITEM LORE ITEM NO DROP
+Slot: PRIMARY
+Skill: 2H Blunt Atk Delay: 58
+DMG: 30
+WIS: +15
+WT: 8.5 Size: LARGE
+Class: SHM
+Race: ALL
+, Shattered Emerald of CorruptionShattered Emerald of Corruption
+MAGIC ITEM LORE ITEM NO DROP
+WT: 0.1 Size: TINY
+Class: ALL
+Race: ALL
+|
 A bigger, meaner Spite Golem.
 Lore
 Spite golems are the shock troops of Innoruuk, used primari... |
@@ -1165,10 +1308,10 @@ Cleric |
 5% @ (409, 31) |
 Various |
 Description needed. |
-Items - Found 178 items that drop in Plane of Hate:
+Items - Found 173 items that drop in Plane of Hate:
 Item Name | Drops From | Slot | Stats |
 Anthemion ArmbandsAnthemion Armbands
-No Trade, Quest
+MAGIC ITEM NO TRADE
 Slot: ARMS
 AC: 5
 STR: +5 STA: +4 DEX: +9
@@ -1177,7 +1320,7 @@ WT: 0.2 Size: SMALL
 Class: BST
 Race: ALL
 |
-a forsaken revenant |
+a forsaken revenant (female), an ire ghast |
 Arms |
 AC: 5 STR: +5 STA: +4 DEX: +9 SV COLD: +7 SV VOID: +2 WT: 0.2 Size: SMALL Class: BST Race: ALL |
 Anthemion SkullcapAnthemion Skullcap
@@ -1258,18 +1401,6 @@ Race: ALL
 a forsaken revenant |
 Legs |
 AC: 5 STR: +5 HP: +25 SV COLD: +10 WT: 0.5 Size: MEDIUM Class: MAG Race: ALL |
-Apothic RobeApothic Robe
-MAGIC ITEM NO DROP
-Slot: CHEST
-AC: 11
-DEX: +5 STA: +12 INT: +14 MANA: +40
-WT: 1.0 Size: MEDIUM
-Class: MAG
-Race: ALL
-|
-a forsaken revenant, an Amygdalan warrior |
-Chest |
-AC: 11 DEX: +5 STA: +12 INT: +14 MANA: +40 WT: 1.0 Size: MEDIUM Class: MAG Race: ALL |
 Apothic SleevesApothic Sleeves
 MAGIC ITEM NO DROP
 Slot: ARMS
@@ -1682,7 +1813,7 @@ a forsaken revenant, Coercer T`vala |
 (None) |
 MAGIC ITEM LORE ITEM NO DROP WT: 0.1 Size: TINY Class: ALL Race: ALL |
 Ethereal Mist BootsEthereal Mist Boots
-MAGIC ITEM NO DROP
+MAGIC ITEM NO TRADE
 Slot: FEET
 AC: 15
 INT: +5 AGI: +5
@@ -1691,7 +1822,7 @@ WT: 4.9 Size: MEDIUM
 Class: CLR
 Race: ALL
 |
-a Disciple of Innoruuk, a Knight of Innoruuk, an elite dragoon (male) |
+None? |
 Feet |
 AC: 15 INT: +5 AGI: +5 SV COLD: +7 WT: 4.9 Size: MEDIUM Class: CLR Race: ALL |
 Ethereal Mist BracersEthereal Mist Bracers
@@ -1707,7 +1838,7 @@ a scorn banshee, an abhorrent |
 Wrist |
 AC: 9 DEX: +9 CHA: +9 MANA: +20 WT: 3.0 Size: SMALL Class: CLR Race: HUM ERU HIE DEF DWF HFL GNM |
 Ethereal Mist ChestplateEthereal Mist Chestplate
-MAGIC ITEM NO DROP
+MAGIC ITEM NO TRADE
 Slot: CHEST
 AC: 28
 STA: +15 WIS: +15 HP: +25 MANA: +25
@@ -1715,7 +1846,7 @@ WT: 7.5 Size: LARGE
 Class: CLR
 Race: ALL
 |
-Cleric of Innoruuk |
+None? |
 Chest |
 AC: 28 STA: +15 WIS: +15 HP: +25 MANA: +25 WT: 7.5 Size: LARGE Class: CLR Race: ALL |
 Ethereal Mist GauntletsEthereal Mist Gauntlets
@@ -1741,7 +1872,7 @@ WT: 5.6 Size: LARGE
 Class: CLR
 Race: ALL
 |
-Cleric of Innoruuk, an elite dragoon, a Knight of Innoruuk |
+Cleric of Innoruuk, an elite dragoon (male), a Knight of Innoruuk |
 Legs |
 AC: 15 STR: +5 WIS: +9 AGI: +5 SV POISON: +7 WT: 5.6 Size: LARGE Class: CLR Race: ALL |
 Ethereal Mist HelmEthereal Mist Helm
@@ -1758,7 +1889,7 @@ Cleric of Innoruuk |
 Head |
 AC: 16 STR: +5 WIS: +5 SV DISEASE: +13 WT: 4.5 Size: SMALL Class: CLR Race: ALL |
 Ethereal Mist VambracesEthereal Mist Vambraces
-MAGIC ITEM NO DROP
+MAGIC ITEM NO TRADE
 Slot: ARMS
 AC: 15
 STR: +9
@@ -1767,7 +1898,7 @@ WT: 4.9 Size: SMALL
 Class: CLR
 Race: ALL
 |
-a haunted chest, Cleric of Innoruuk, an ire ghast |
+a forsaken revenant (female), an ire ghast |
 Arms |
 AC: 15 STR: +9 SV MAGIC: +7 WT: 4.9 Size: SMALL Class: CLR Race: ALL |
 EvensongEvensong
@@ -2022,19 +2153,6 @@ Race: ALL
 a scorn banshee, a loathing lich |
 Wrist |
 AC: 11 DEX: +3 INT: +3 HP: +10 WT: 3.0 Size: SMALL Class: BRD Race: ALL |
-Imbrued Platemail BreastplateImbrued Platemail Breastplate
-MAGIC ITEM NO DROP
-Slot: CHEST
-AC: 29
-STR: +9 DEX: +13 CHA: +9
-SV DISEASE: +10
-WT: 7.5 Size: LARGE
-Class: BRD
-Race: ALL
-|
-a scorn banshee |
-Chest |
-AC: 29 STR: +9 DEX: +13 CHA: +9 SV DISEASE: +10 WT: 7.5 Size: LARGE Class: BRD Race: ALL |
 Imbrued Platemail GauntletsImbrued Platemail Gauntlets
 MAGIC ITEM NO DROP
 Slot: HANDS
@@ -2044,7 +2162,7 @@ WT: 3.8 Size: SMALL
 Class: BRD
 Race: ALL
 |
-a scorn banshee, a worry wraith |
+a scorn banshee |
 Hands |
 AC: 14 DEX: +5 WIS: +5 HP: +10 WT: 3.8 Size: SMALL Class: BRD Race: ALL |
 Imbrued Platemail GreavesImbrued Platemail Greaves
@@ -2096,7 +2214,7 @@ WT: 4.9 Size: MEDIUM
 Class: WAR
 Race: ALL
 |
-a kiraikuei |
+None? |
 Feet |
 AC: 20 WIS: +5 INT: +5 AGI: +5 SV DISEASE: +15 SV POISON: +15 WT: 4.9 Size: MEDIUM Class: WAR Race: ALL |
 Indicolite BracerIndicolite Bracer
@@ -2112,18 +2230,6 @@ Race: ALL
 a kiraikuei, Innoruuk's Chosen |
 Wrist |
 AC: 12 STR: +3 DEX: +3 SV FIRE: +7 SV COLD: +7 SV MAGIC: +7 WT: 3.0 Size: SMALL Class: WAR Race: ALL |
-Indicolite BreastplateIndicolite Breastplate
-MAGIC ITEM NO DROP
-Slot: CHEST
-AC: 35
-STR: +15 DEX: +15 STA: +15
-WT: 7.5 Size: LARGE
-Class: WAR
-Race: ALL
-|
-a kiraikuei, Innoruuk's Chosen |
-Chest |
-AC: 35 STR: +15 DEX: +15 STA: +15 WT: 7.5 Size: LARGE Class: WAR Race: ALL |
 Indicolite GauntletsIndicolite Gauntlets
 MAGIC ITEM NO DROP
 Slot: HANDS
@@ -2157,7 +2263,7 @@ WT: 4.5 Size: SMALL
 Class: WAR
 Race: ALL
 |
-a kiraikuei |
+a spite golem |
 Head |
 AC: 20 CHA: +5 INT: +5 WT: 4.5 Size: SMALL Class: WAR Race: ALL |
 Indicolite VambracesIndicolite Vambraces
@@ -2223,18 +2329,6 @@ Race: ALL
 a forsaken revenant |
 Legs |
 AC: 5 STR: +3 CHA: +3 HP: +15 SV COLD: +10 WT: 0.7 Size: MEDIUM Class: ENC Race: ALL |
-Insidious RobeInsidious Robe
-MAGIC ITEM NO DROP
-Slot: CHEST
-AC: 11
-DEX: +8 STA: +10 CHA: +3 INT: +13 MANA: +35
-WT: 1.0 Size: MEDIUM
-Class: ENC
-Race: ALL
-|
-a forsaken revenant |
-Chest |
-AC: 11 DEX: +8 STA: +10 CHA: +3 INT: +13 MANA: +35 WT: 1.0 Size: MEDIUM Class: ENC Race: ALL |
 Insidious SleevesInsidious Sleeves
 Lore Equipped, No Trade, Quest
 Slot: ARMS
@@ -2556,7 +2650,7 @@ Innoruuk (God) |
 1H Blunt |
 Charges: 5 Atk Delay: 30 DMG: 10 Effect: Clarity (Casting Time: Instant) at Level 46 WT: 1.5 Size: MEDIUM Class: WIZ Race: ALL |
 Rune Etched BootsRune Etched Boots
-MAGIC ITEM NO DROP
+MAGIC ITEM NO TRADE
 Slot: FEET
 AC: 14
 AGI: +9 HP: +20
@@ -2565,7 +2659,7 @@ WT: 4.9 Size: MEDIUM
 Class: SHM
 Race: ALL
 |
-a spite golem |
+None? |
 Feet |
 AC: 14 AGI: +9 HP: +20 SV COLD: +7 WT: 4.9 Size: MEDIUM Class: SHM Race: ALL |
 Rune Etched BracerRune Etched Bracer
@@ -2581,7 +2675,7 @@ a scorn banshee, an abhorrent |
 Wrist |
 AC: 9 CHA: +5 WIS: +5 INT: +5 WT: 3.0 Size: SMALL Class: SHM Race: ALL |
 Rune Etched ChestplateRune Etched Chestplate
-MAGIC ITEM NO DROP
+MAGIC ITEM NO TRADE
 Slot: CHEST
 AC: 26
 STA: +9 WIS: +13 MANA: +25
@@ -2589,7 +2683,7 @@ WT: 7.5 Size: LARGE
 Class: SHM
 Race: ALL
 |
-a spite golem |
+None? |
 Chest |
 AC: 26 STA: +9 WIS: +13 MANA: +25 WT: 7.5 Size: LARGE Class: SHM Race: ALL |
 Rune Etched GauntletsRune Etched Gauntlets
@@ -2632,7 +2726,7 @@ Cleric of Innoruuk |
 Head |
 AC: 14 DEX: +5 INT: +5 SV POISON: +7 WT: 4.5 Size: SMALL Class: SHM Race: ALL |
 Rune Etched VambracesRune Etched Vambraces
-MAGIC ITEM NO DROP
+MAGIC ITEM NO TRADE
 Slot: ARMS
 AC: 13
 STR: +5 DEX: +3
@@ -2641,7 +2735,7 @@ WT: 4.9 Size: SMALL
 Class: SHM
 Race: ALL
 |
-a spite golem, an ire ghast |
+a forsaken revenant (female), an ire ghast |
 Arms |
 AC: 13 STR: +5 DEX: +3 SV MAGIC: +7 WT: 4.9 Size: SMALL Class: SHM Race: ALL |
 Runewood ShieldRunewood Shield
@@ -2796,11 +2890,11 @@ WT: 4.5 Size: LARGE
 Class: BER
 Race: ALL
 |
-an elite dragoon |
+an elite dragoon (male) |
 Legs |
 AC: 12 WIS: 6 AGI: 6 END: 10 SV Fire: 2 SV Disease: 8 WT: 4.5 Size: LARGE Class: BER Race: ALL |
 Shadow Rage SleevesShadow Rage Sleeves
-Lore Equipped, No Trade, Quest
+MAGIC ITEM NO TRADE
 Slot: ARMS
 AC: 10 END: 15
 STR: +3 STA: +5 DEX: +5
@@ -2808,7 +2902,7 @@ WT: 3.9 Size: SMALL
 Class: BER
 Race: ALL
 |
-an ire ghast, a forsaken revenant |
+a forsaken revenant (female), an ire ghast |
 Arms |
 AC: 10 END: 15 STR: +3 STA: +5 DEX: +5 WT: 3.9 Size: SMALL Class: BER Race: ALL |
 Shadow Rage WristguardShadow Rage Wristguard
@@ -2861,7 +2955,7 @@ an eerie chest, Lord of Ire, Maestro of Rancor |
 Secondary |
 AC: 35 STR: +20 STA: +20 Effect: Ultravision (Worn) WT: 7.3 Size: MEDIUM Class: PAL Race: ALL |
 Shiverback-hide BootsShiverback-hide Boots
-MAGIC ITEM NO DROP
+MAGIC ITEM NO TRADE
 Slot: FEET
 AC: 6
 STR: +5 STA: +9 AGI: +9
@@ -2869,7 +2963,7 @@ WT: 0.1 Size: SMALL
 Class: MNK
 Race: ALL
 |
-a haunted chest |
+None? |
 Feet |
 AC: 6 STR: +5 STA: +9 AGI: +9 WT: 0.1 Size: SMALL Class: MNK Race: ALL |
 Shrieking AhlspiessShrieking Ahlspiess
@@ -3074,7 +3168,7 @@ an ire ghast, Lord of Ire |
 2H Slashing |
 Atk Delay: 36 DMG: 20 STR: +5 INT: +4 WT: 6.5 Size: LARGE Class: PAL Race: ALL |
 Thorny Vine BootsThorny Vine Boots
-MAGIC ITEM NO DROP
+MAGIC ITEM NO TRADE
 Slot: FEET
 AC: 14
 STR: +5 STA: +5 AGI: +9
@@ -3083,7 +3177,7 @@ WT: 4.9 Size: MEDIUM
 Class: RNG
 Race: ALL
 |
-a haunted chest |
+None? |
 Feet |
 AC: 14 STR: +5 STA: +5 AGI: +9 SV POISON: +7 WT: 4.9 Size: MEDIUM Class: RNG Race: ALL |
 Tome of Dark HealingTome of Dark Healing
@@ -3131,7 +3225,7 @@ WT: 3.5 Size: MEDIUM
 Class: CLR
 Race: ALL
 |
-Innoruuk (God) |
+High Priest M`kari, Innoruuk (God) |
 1H Blunt |
 Atk Delay: 35 DMG: 12 WIS: +7 Effect: Banish Summoned (Combat) at Level 45 WT: 3.5 Size: MEDIUM Class: CLR Race: ALL |
 Tunarian ScimitarTunarian Scimitar
@@ -3334,18 +3428,6 @@ Race: ALL
 an abhorrent, a revultant rat |
 Wrist |
 AC: 9 STR: +3 DEX: +3 AGI: +3 SV FIRE: +5 SV COLD: +5 WT: 3.0 Size: SMALL Class: ROG Race: ALL |
-Woven Shadow ChestplateWoven Shadow Chestplate
-MAGIC ITEM NO DROP
-Slot: CHEST
-AC: 26
-STR: +13 DEX: +13 AGI: +13
-WT: 7.5 Size: LARGE
-Class: ROG
-Race: ALL
-|
-an abhorrent |
-Chest |
-AC: 26 STR: +13 DEX: +13 AGI: +13 WT: 7.5 Size: LARGE Class: ROG Race: ALL |
 Woven Shadow GauntletsWoven Shadow Gauntlets
 MAGIC ITEM NO DROP
 Slot: HANDS
@@ -3356,7 +3438,7 @@ WT: 3.8 Size: SMALL
 Class: ROG
 Race: ALL
 |
-an abhorrent, a worry wraith |
+an abhorrent, a worry wraith, a turmoil toad |
 Hands |
 AC: 11 STR: +5 DEX: +5 SV MAGIC: +10 WT: 3.8 Size: SMALL Class: ROG Race: ALL |
 Woven Shadow GreavesWoven Shadow Greaves
@@ -3525,7 +3607,7 @@ AC: 5
 STR: +8 WIS: +8
 SV FIRE: +5 SV DISEASE: +5 SV COLD: +5 SV MAGIC: +5 SV POISON: +5
 WT: 0.1 Size: TINY
-Class: WAR SHD SHM
+Class: WAR SHD SHM BST BER
 Race: ALL
 , Engineer's RingEngineer's Ring
 MAGIC ITEM LORE ITEM NO DROP
@@ -3627,14 +3709,14 @@ Plane of Hate Raid Floor 2
 Solo vs. Multiplayer
 When creating the raid instance, players can choose between solo and multiplayer instances. These instances share lockouts, so players cannot do both in the same week and receive full loot.
 There is no difference between solo and multiplayer as far as trash mobs or mobs locations in Plane of Hate.
-Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Hate&oldid=171374"
+Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Hate&oldid=172538"
 Categories: Classic Era
 Zones
 Plane of Hate
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 21 August 2026, at 20:49.
+This page was last edited on 25 August 2026, at 14:55.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

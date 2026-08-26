@@ -1,5 +1,5 @@
 # The_Warrens (eqlwiki.com)
-fetched: 2026-08-24
+fetched: 2026-08-26
 
 The Warrens - EverQuest Legends Wiki
 Jump to content
@@ -102,7 +102,7 @@ Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC
+Class: ALL except NEC WIZ MAG ENC BER
 Race: ALL
 , Bamboo Wakizashi BoBamboo Wakizashi Bo
 Slot: PRIMARY SECONDARY
@@ -979,7 +979,7 @@ Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 52
 DMG: 10
 WT: 15.0 Size: GIANT
-Class: WAR PAL RNG SHD
+Class: WAR PAL RNG SHD BER
 Race: ALL
 , Bronze TachiBronze Tachi
 Slot: PRIMARY SECONDARY
@@ -997,7 +997,7 @@ Class: WAR PAL RNG SHD
 Race: ALL
 |
 A Kobold Brawler is the placeholder, confirmed spawn 02/25/2024 |
-Items - Found 76 items that drop in The Warrens:
+Items - Found 88 items that drop in The Warrens:
 Item Name | Drops From | Slot | Stats |
 Bamboo BokkenBamboo Bokken
 Slot: PRIMARY
@@ -1010,26 +1010,137 @@ Race: ALL
 Foodmaster Rargnar, Lorekeeper Roggik |
 2H Blunt |
 Atk Delay: 45 DMG: 8 WT: 14.0 Size: LARGE Class: ALL except BRD ROG NEC WIZ MAG ENC Race: ALL |
+Bamboo Splint BootsBamboo Splint Boots
+Slot: FEET
+AC: 5
+WT: 6.7 Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
+Race: ALL
+|
+None? |
+Feet |
+AC: 5 WT: 6.7 Size: MEDIUM Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
+Bamboo Splint BraceletBamboo Splint Bracelet
+Slot: WRIST
+AC: 5
+WT: 2.7 Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
+Race: ALL
+|
+None? |
+Wrist |
+AC: 5 WT: 2.7 Size: SMALL Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
+Bamboo Splint CapeBamboo Splint Cape
+Slot: BACK
+AC: 6
+WT: 5.3 Size: LARGE
+Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
+Race: ALL
+|
+Huntmaster Furgrl |
+Back |
+AC: 6 WT: 5.3 Size: LARGE Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
 Bamboo Splint CoatBamboo Splint Coat
 Slot: CHEST
 AC: 12
 WT: 10.0 Size: MEDIUM
-Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
 Race: ALL
 |
 High Shaman Drogik, Prince Bragnar |
 Chest |
-AC: 12 WT: 10.0 Size: MEDIUM Class: WAR CLR PAL RNG SHD BRD ROG SHM Race: ALL |
+AC: 12 WT: 10.0 Size: MEDIUM Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
+Bamboo Splint CoifBamboo Splint Coif
+Slot: HEAD
+AC: 7
+WT: 6.0 Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+|
+None? |
+Head |
+AC: 7 WT: 6.0 Size: SMALL Class: WAR CLR PAL RNG SHD BRD ROG SHM Race: ALL |
+Bamboo Splint GlovesBamboo Splint Gloves
+Slot: HANDS
+AC: 6
+WT: 5.3 Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
+Race: ALL
+|
+None? |
+Hands |
+AC: 6 WT: 5.3 Size: SMALL Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
+Bamboo Splint MantleBamboo Splint Mantle
+Slot: SHOULDERS
+AC: 5
+WT: 4.7 Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+|
+None? |
+Shoulders |
+AC: 5 WT: 4.7 Size: SMALL Class: WAR CLR PAL RNG SHD BRD ROG SHM Race: ALL |
 Bamboo Splint NeckguardBamboo Splint Neckguard
 Slot: NECK
 AC: 5
 WT: 2.7 Size: SMALL
-Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
 Race: ALL
 |
 High Shaman Drogik |
 Neck |
-AC: 5 WT: 2.7 Size: SMALL Class: WAR CLR PAL RNG SHD BRD ROG SHM Race: ALL |
+AC: 5 WT: 2.7 Size: SMALL Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
+Bamboo Splint PantsBamboo Splint Pants
+Slot: LEGS
+AC: 7
+WT: 7.3 Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+|
+None? |
+Legs |
+AC: 7 WT: 7.3 Size: MEDIUM Class: WAR CLR PAL RNG SHD BRD ROG SHM Race: ALL |
+Bamboo Splint SkirtBamboo Splint Skirt
+Slot: WAIST
+AC: 5
+WT: 3.3 Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
+Race: ALL
+|
+None? |
+Waist |
+AC: 5 WT: 3.3 Size: SMALL Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
+Bamboo Splint SleevesBamboo Splint Sleeves
+Slot: ARMS
+AC: 6
+WT: 4.7 Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
+Race: ALL
+|
+None? |
+Arms |
+AC: 6 WT: 4.7 Size: SMALL Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
+Bamboo Splint VisorBamboo Splint Visor
+Slot: FACE
+AC: 3
+WT: 1.3 Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
+Race: ALL
+|
+None? |
+Face |
+AC: 3 WT: 1.3 Size: SMALL Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
+Bamboo Tanto BoBamboo Tanto Bo
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt Atk Delay: 33
+DMG: 5
+WT: 8.5 Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC BER
+Race: ALL
+|
+High Shaman Drogik |
+1H Blunt |
+Atk Delay: 33 DMG: 5 WT: 8.5 Size: MEDIUM Class: ALL except NEC WIZ MAG ENC BER Race: ALL |
 Bamboo Wakizashi BoBamboo Wakizashi Bo
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 38
@@ -1114,12 +1225,12 @@ Slot: PRIMARY SECONDARY
 Skill: Piercing Atk Delay: 23
 DMG: 3BACKSTAB: 3
 WT: 4.0 Size: SMALL
-Class: ALL except CLR PAL DRU MNK
+Class: WAR RNG SHD BRD ROG SHM NEC WIZ MAG ENC
 Race: ALL
 |
 a rabid kobold |
 Piercing |
-Atk Delay: 23 DMG: 3 WT: 4.0 Size: SMALL Class: ALL except CLR PAL DRU MNK Race: ALL |
+Atk Delay: 23 DMG: 3 WT: 4.0 Size: SMALL Class: WAR RNG SHD BRD ROG SHM NEC WIZ MAG ENC Race: ALL |
 Bronze KatanaBronze Katana
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 32
@@ -1131,17 +1242,28 @@ Race: ALL
 King Gragnar |
 1H Slashing |
 Atk Delay: 32 DMG: 5 WT: 8.5 Size: MEDIUM Class: WAR PAL RNG SHD BRD ROG Race: ALL |
+Bronze KusarigamaBronze Kusarigama
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing Atk Delay: 37
+DMG: 6
+WT: 9.5 Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+|
+None? |
+1H Slashing |
+Atk Delay: 37 DMG: 6 WT: 9.5 Size: MEDIUM Class: WAR PAL RNG SHD BRD ROG Race: ALL |
 Bronze NaginataBronze Naginata
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 52
 DMG: 10
 WT: 15.0 Size: GIANT
-Class: WAR PAL RNG SHD
+Class: WAR PAL RNG SHD BER
 Race: ALL
 |
 High Shaman Drogik, A Kobold Sentinel, A Kobold Sentry |
 2H Slashing |
-Atk Delay: 52 DMG: 10 WT: 15.0 Size: GIANT Class: WAR PAL RNG SHD Race: ALL |
+Atk Delay: 52 DMG: 10 WT: 15.0 Size: GIANT Class: WAR PAL RNG SHD BER Race: ALL |
 Bronze Shackle KeyBronze Shackle Key
 MAGIC ITEM
 WT: 0.1 Size: TINY
@@ -1168,12 +1290,12 @@ Slot: PRIMARY
 Skill: Piercing Atk Delay: 32
 DMG: 5BACKSTAB: 5
 WT: 8.0 Size: LARGE
-Class: WAR RNG SHD BRD ROG SHM
+Class: WAR RNG SHD BRD ROG SHM BST
 Race: ALL
 |
 a rabid kobold, other kobolds |
 Piercing |
-Atk Delay: 32 DMG: 5 WT: 8.0 Size: LARGE Class: WAR RNG SHD BRD ROG SHM Race: ALL |
+Atk Delay: 32 DMG: 5 WT: 8.0 Size: LARGE Class: WAR RNG SHD BRD ROG SHM BST Race: ALL |
 Cast Iron SteinCast Iron Stein
 MAGIC ITEM LORE ITEM NO DROP
 Slot: PRIMARY

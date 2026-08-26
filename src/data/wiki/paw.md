@@ -1,5 +1,5 @@
 # Splitpaw_Lair (eqlwiki.com)
-fetched: 2026-08-25
+fetched: 2026-08-26
 
 Splitpaw Lair - EverQuest Legends Wiki
 Jump to content
@@ -305,6 +305,7 @@ Attunable
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 52
 DMG: 26
+END: 10
 WT: 10.5 Size: MEDIUM
 Class: WAR BER
 Race: ALL
@@ -1195,13 +1196,14 @@ Attunable
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 52
 DMG: 26
+END: 10
 WT: 10.5 Size: MEDIUM
 Class: WAR BER
 Race: ALL
 |
 Verishe Mal Executioner |
 2H Slashing |
-Atk Delay: 52 DMG: 26 WT: 10.5 Size: MEDIUM Class: WAR BER Race: ALL |
+Atk Delay: 52 DMG: 26 END: 10 WT: 10.5 Size: MEDIUM Class: WAR BER Race: ALL |
 White HelleboreWhite Hellebore
 WT: 0.1 Size: TINY
 Class: ALL

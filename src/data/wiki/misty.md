@@ -1,5 +1,5 @@
 # Misty_Thicket (eqlwiki.com)
-fetched: 2026-08-24
+fetched: 2026-08-26
 
 Misty Thicket - EverQuest Legends Wiki
 Jump to content
@@ -76,6 +76,7 @@ From EverQuest Legends Wiki
 Misty Thicket is the major newbie zone for Rivervale (with a smaller one existing in Kithicor). It is also an area that the halflings have staked out to protect their city from the dangers of the Runnyeye goblins to their west. The ancient walls of the halflings stretch across this zone, cutting it into two distinct halves.
 Filbus Furyfoot, the Lord of the Misty Thicket, Warlord, and Guardian of Rivervale, is a fairly common sight, as he devotes a great portion of his efforts to ensuring the safety of his lands and outfitting young hobbit adventurers.
 |
+|
 Level of Monsters:
 |
 1-12
@@ -122,7 +123,6 @@ Succor/Evacuate:
 ZEM Value:
 |
 75 100 (133%)
-|
 |
 Map
 Orc Camp
@@ -1602,12 +1602,12 @@ Race: ALL
 a giant wasp |
 (None) |
 QUEST ITEM WT: 0.0 Size: SMALL Class: ALL Race: ALL |
-Retrieved from "https://eqlwiki.com/index.php?title=Misty_Thicket&oldid=167728"
+Retrieved from "https://eqlwiki.com/index.php?title=Misty_Thicket&oldid=172435"
 Categories: Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 7 August 2026, at 12:54.
+This page was last edited on 25 August 2026, at 10:57.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

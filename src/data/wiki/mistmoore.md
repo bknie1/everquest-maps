@@ -1,5 +1,5 @@
 # Castle_Mistmoore (eqlwiki.com)
-fetched: 2026-08-24
+fetched: 2026-08-26
 
 Mistmoore Castle - EverQuest Legends Wiki
 Jump to content
@@ -790,7 +790,18 @@ LORE ITEM
 WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
-("Vok Na Zov V"), Veil of SilenceVeil of Silence
+("Vok Na Zov V"), Rod of UnderstandingRod of Understanding
+Attunable Lore Equipped
+Slot: PRIMARY
+Skill: 1H Blunt
+DMG: 5
+Atk Delay: 25 DMG Bonus: 12
+DEX: 5 INT: 5
+Effect: Dyn's Dizzying Draught (Proc)
+WT: 6.5 Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: ALL
+, Veil of SilenceVeil of Silence
 Attunable
 Slot: FACE
 AC: 4

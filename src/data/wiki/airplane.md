@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-08-25
+fetched: 2026-08-26
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -724,7 +724,7 @@ fools errand
 Wind Rune Dena
 |
 Jester's Mask (4-KoS)
-Efreeti Great Staff
+Efreeti Great Staff (8-EoV)
 |
 Cudgel of the FoolCudgel of the Fool
 LORE ITEM NO TRADE
@@ -1461,7 +1461,7 @@ hands
 Wind Rune Fana
 |
 Gorgon Head (3-Gorga)
-Efreeti Great Staff
+Efreeti Great Staff (8-EoV)
 |
 Gorgon Head StaffGorgon Head Staff
 MAGIC ITEM LORE ITEM NO DROP
@@ -4218,7 +4218,7 @@ WT: 0.2 Size: SMALL
 Class: NEC BER
 Race: ALL
 |
-Eye of Veeshan, Noble Dojorn (May not drop in EQL from this mob) |
+Eye of Veeshan |
 2H Blunt |
 Atk Delay: 42 DMG: 14 Dmg Bon: 28 INT: 4 SV FIRE: 5 SV COLD: 5 WT: 0.2 Size: SMALL Class: NEC BER Race: ALL |
 Efreeti Long SwordEfreeti Long Sword
@@ -6110,13 +6110,13 @@ Race: ALL
 Protector of Sky |
 (None) |
 LORE ITEM WT: 6.0 Size: MEDIUM Class: ALL Race: ALL |
-Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Sky&oldid=172250"
+Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Sky&oldid=172516"
 Categories: Sky Era
 Classic Era
 Zones
 How to Contribute
 Donate
-This page was last edited on 24 August 2026, at 14:43.
+This page was last edited on 25 August 2026, at 12:59.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

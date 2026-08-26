@@ -1,5 +1,5 @@
 # Stonebrunt_Mountains (eqlwiki.com)
-fetched: 2026-08-21
+fetched: 2026-08-26
 
 Stonebrunt Mountains - EverQuest Legends Wiki
 Jump to content
@@ -701,7 +701,7 @@ Slot: PRIMARY
 Skill: Piercing Atk Delay: 32
 DMG: 5BACKSTAB: 5
 WT: 8.0 Size: LARGE
-Class: WAR RNG SHD BRD ROG SHM
+Class: WAR RNG SHD BRD ROG SHM BST
 Race: ALL
 , Soft Wicker GorgetSoft Wicker Gorget
 Slot: NECK
@@ -1716,7 +1716,7 @@ Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC
+Class: ALL except NEC WIZ MAG ENC BER
 Race: ALL
 , Blood Crusted Kobold MaceBlood Crusted Kobold Mace
 MAGIC ITEM LORE ITEM
@@ -1756,7 +1756,7 @@ Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC
+Class: ALL except NEC WIZ MAG ENC BER
 Race: ALL
 |
 Description needed. |
@@ -1860,7 +1860,7 @@ Monk |
 (1212,-591) |
 None |
 Description Needed. |
-Items - Found 91 items that drop in Stonebrunt Mountains:
+Items - Found 102 items that drop in Stonebrunt Mountains:
 Item Name | Drops From | Slot | Stats |
 Aged Filthy Bastard SwordAged Filthy Bastard Sword
 Slot: PRIMARY
@@ -1933,26 +1933,126 @@ Race: ALL
 a mature panda, a young panda, Giang Yin |
 (None) |
 This is a meal! WT: 1.0 Size: SMALL Class: ALL Race: ALL |
-Bamboo Splint SkirtBamboo Splint Skirt
-Slot: WAIST
+Bamboo Splint BootsBamboo Splint Boots
+Slot: FEET
 AC: 5
-WT: 3.3 Size: SMALL
+WT: 6.7 Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
+Race: ALL
+|
+None? |
+Feet |
+AC: 5 WT: 6.7 Size: MEDIUM Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
+Bamboo Splint BraceletBamboo Splint Bracelet
+Slot: WRIST
+AC: 5
+WT: 2.7 Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
+Race: ALL
+|
+None? |
+Wrist |
+AC: 5 WT: 2.7 Size: SMALL Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
+Bamboo Splint CapeBamboo Splint Cape
+Slot: BACK
+AC: 6
+WT: 5.3 Size: LARGE
+Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
+Race: ALL
+|
+None? |
+Back |
+AC: 6 WT: 5.3 Size: LARGE Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
+Bamboo Splint CoatBamboo Splint Coat
+Slot: CHEST
+AC: 12
+WT: 10.0 Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
+Race: ALL
+|
+A kobold wanderer |
+Chest |
+AC: 12 WT: 10.0 Size: MEDIUM Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
+Bamboo Splint CoifBamboo Splint Coif
+Slot: HEAD
+AC: 7
+WT: 6.0 Size: SMALL
 Class: WAR CLR PAL RNG SHD BRD ROG SHM
 Race: ALL
 |
-A Greater Kobold Shaman |
-Waist |
-AC: 5 WT: 3.3 Size: SMALL Class: WAR CLR PAL RNG SHD BRD ROG SHM Race: ALL |
-Bamboo Splint SleevesBamboo Splint Sleeves
-Slot: ARMS
+None? |
+Head |
+AC: 7 WT: 6.0 Size: SMALL Class: WAR CLR PAL RNG SHD BRD ROG SHM Race: ALL |
+Bamboo Splint GlovesBamboo Splint Gloves
+Slot: HANDS
 AC: 6
+WT: 5.3 Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
+Race: ALL
+|
+None? |
+Hands |
+AC: 6 WT: 5.3 Size: SMALL Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
+Bamboo Splint MantleBamboo Splint Mantle
+Slot: SHOULDERS
+AC: 5
 WT: 4.7 Size: SMALL
 Class: WAR CLR PAL RNG SHD BRD ROG SHM
 Race: ALL
 |
+None? |
+Shoulders |
+AC: 5 WT: 4.7 Size: SMALL Class: WAR CLR PAL RNG SHD BRD ROG SHM Race: ALL |
+Bamboo Splint NeckguardBamboo Splint Neckguard
+Slot: NECK
+AC: 5
+WT: 2.7 Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
+Race: ALL
+|
+None? |
+Neck |
+AC: 5 WT: 2.7 Size: SMALL Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
+Bamboo Splint PantsBamboo Splint Pants
+Slot: LEGS
+AC: 7
+WT: 7.3 Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+|
+None? |
+Legs |
+AC: 7 WT: 7.3 Size: MEDIUM Class: WAR CLR PAL RNG SHD BRD ROG SHM Race: ALL |
+Bamboo Splint SkirtBamboo Splint Skirt
+Slot: WAIST
+AC: 5
+WT: 3.3 Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
+Race: ALL
+|
+A Greater Kobold Shaman |
+Waist |
+AC: 5 WT: 3.3 Size: SMALL Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
+Bamboo Splint SleevesBamboo Splint Sleeves
+Slot: ARMS
+AC: 6
+WT: 4.7 Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
+Race: ALL
+|
 A Greater Kobold Shaman |
 Arms |
-AC: 6 WT: 4.7 Size: SMALL Class: WAR CLR PAL RNG SHD BRD ROG SHM Race: ALL |
+AC: 6 WT: 4.7 Size: SMALL Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
+Bamboo Splint VisorBamboo Splint Visor
+Slot: FACE
+AC: 3
+WT: 1.3 Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
+Race: ALL
+|
+None? |
+Face |
+AC: 3 WT: 1.3 Size: SMALL Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
 Blood Crusted DirkBlood Crusted Dirk
 MAGIC ITEM LORE ITEM
 Slot: PRIMARY SECONDARY
@@ -2135,6 +2235,17 @@ Race: ALL
 Rognarog the Infuriated, Any kobold |
 1H Slashing |
 Atk Delay: 32 DMG: 5 WT: 8.5 Size: MEDIUM Class: WAR PAL RNG SHD BRD ROG Race: ALL |
+Bronze KusarigamaBronze Kusarigama
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing Atk Delay: 37
+DMG: 6
+WT: 9.5 Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+|
+None? |
+1H Slashing |
+Atk Delay: 37 DMG: 6 WT: 9.5 Size: MEDIUM Class: WAR PAL RNG SHD BRD ROG Race: ALL |
 Catman SkinCatman Skin
 QUEST ITEM
 WT: 3.5 Size: LARGE

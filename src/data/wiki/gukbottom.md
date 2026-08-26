@@ -1,5 +1,5 @@
 # Lower_Guk (eqlwiki.com)
-fetched: 2026-08-25
+fetched: 2026-08-26
 
 Lower Guk - EverQuest Legends Wiki
 Jump to content
@@ -2750,7 +2750,7 @@ AC: 13 HP: +35 SV MAGIC: +10 WT: 5.0 Size: SMALL Class: WAR CLR PAL SHD BRD Race
 The End of an AgeThe End of an Age
 WT: 0.0 Size: TINY
 |
-a reanimated hand (Lower Guk) |
+a reanimated hand |
 (None) |
 WT: 0.0 Size: TINY |
 The IdolThe Idol
