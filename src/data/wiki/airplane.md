@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-08-26
+fetched: 2026-08-27
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -580,7 +580,7 @@ Wind Rune Kala
 |
 Leather Cord (3-Gorga)
 |
-Griffin-Hide ArmguardsGriffin-Hide Armguards
+Griffon-Hide ArmguardsGriffon-Hide Armguards
 LORE ITEM NO TRADE
 Slot: ARMS
 Class: BST
@@ -3357,7 +3357,7 @@ Warrior |
 100% @ (1400, 564) |
 None |
 Can be Dictated, Mesmerized, slowed, rooted, and stunned. Immune to fear. Does not social with other efreeti - n... |
-Items - Found 262 items that drop in Plane of Sky:
+Items - Found 263 items that drop in Plane of Sky:
 Item Name | Drops From | Slot | Stats |
 Acidic VenomAcidic Venom
 LORE ITEM
@@ -4806,6 +4806,20 @@ a crystalline cloud, a gust of wind, a shimmering meteor |
 LORE ITEM WT: 5.0 Size: MEDIUM Class: ALL Race: ALL |
 Griffin-Hide ArmguardsGriffin-Hide Armguards
 Lore Equipped, No Trade
+Slot: ARMS
+Class: BST
+Race: ALL
+AC: 6
+STA: +4 WIS: +3
+SV MAGIC: +5 SV FIRE: +5 SV COLD: +5 SV DISEASE: +5 SV POISON: +5
+End: +15
+WT: 2.5 Size: SMALL
+|
+None? |
+Arms |
+Class: BST Race: ALL AC: 6 STA: +4 WIS: +3 SV MAGIC: +5 SV FIRE: +5 SV COLD: +5 SV DISEASE: +5 SV POISON: +5 End: +15 WT: 2.5 Size: SMALL |
+Griffon-Hide ArmguardsGriffon-Hide Armguards
+LORE ITEM NO TRADE
 Slot: ARMS
 Class: BST
 Race: ALL

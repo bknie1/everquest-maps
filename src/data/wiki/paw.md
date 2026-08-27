@@ -1,5 +1,5 @@
 # Splitpaw_Lair (eqlwiki.com)
-fetched: 2026-08-26
+fetched: 2026-08-27
 
 Splitpaw Lair - EverQuest Legends Wiki
 Jump to content
@@ -278,7 +278,7 @@ Effect: Stun (Req Level 30)
 HP: +20 End: +20
 STR: +9 AGI: -5
 WT: 10 Size:MEDIUM
-Class: WAR, MNK, BST, BER
+Class: WAR MNK BST BER
 Race: ALL
 , Vacra Av SvimVacra Av Svim
 MAGIC ITEM LORE ITEM NO DROP
@@ -610,7 +610,7 @@ Effect: Stun (Req Level 30)
 HP: +20 End: +20
 STR: +9 AGI: -5
 WT: 10 Size:MEDIUM
-Class: WAR, MNK, BST, BER
+Class: WAR MNK BST BER
 Race: ALL
 |
 Description needed. |
@@ -1157,12 +1157,12 @@ Effect: Stun (Req Level 30)
 HP: +20 End: +20
 STR: +9 AGI: -5
 WT: 10 Size:MEDIUM
-Class: WAR, MNK, BST, BER
+Class: WAR MNK BST BER
 Race: ALL
 |
 a Tesch Val Brute |
 2H Blunt |
-Atk Delay: 30 DMG: 15 Effect: Stun (Req Level 30) HP: +20 End: +20 STR: +9 AGI: -5 WT: 10 Size:MEDIUM Class: WAR, MNK, BST, BER Race: ALL |
+Atk Delay: 30 DMG: 15 Effect: Stun (Req Level 30) HP: +20 End: +20 STR: +9 AGI: -5 WT: 10 Size:MEDIUM Class: WAR MNK BST BER Race: ALL |
 Vacra Av SvimVacra Av Svim
 MAGIC ITEM LORE ITEM NO DROP
 Slot: SECONDARY

@@ -1,5 +1,5 @@
 # Permafrost_Keep (eqlwiki.com)
-fetched: 2026-08-26
+fetched: 2026-08-27
 
 Permafrost - EverQuest Legends Wiki
 Jump to content
@@ -1359,7 +1359,7 @@ a goblin priest |
 (None) |
 LORE ITEM NO DROP WT: 0.1 Size: TINY Class: ALL Race: ALL |
 Warhammer of Divine GraceWarhammer of Divine Grace
-MAGIC ITEM
+Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 39
 DMG: 18
@@ -1372,14 +1372,14 @@ Lady Vox |
 2H Blunt |
 Atk Delay: 39 DMG: 18 Effect: Yaulp III (Combat, Casting Time: Instant) at Level 40 WT: 7.3 Size: MEDIUM Class: CLR Race: ALL |
 White Dragon HideWhite Dragon Hide
-NO DROP QUEST
+No Trade, Quest
 WT: 3.0 Size: MEDIUM
 Class: ALL
 Race: ALL
 |
 Lady Vox |
 (None) |
-NO DROP QUEST WT: 3.0 Size: MEDIUM Class: ALL Race: ALL |
+No Trade, Quest WT: 3.0 Size: MEDIUM Class: ALL Race: ALL |
 White Dragon ScalesWhite Dragon Scales
 Attunable, Quest
 WT: 2.5 Size: MEDIUM
@@ -1491,12 +1491,12 @@ WT: 6.8 Size: MEDIUM
 Class: WAR RNG BRD ROG
 Race: ALL
 , Dragon Bone BraceletDragon Bone Bracelet
-MAGIC ITEM
+Attunable
 Slot: WRIST
 AC: 4
 STR: +7 AGI: +7
 WT: 0.1 Size: SMALL
-Class: WAR PAL RNG SHD MNK BRD ROG
+Class: WAR PAL RNG SHD MNK BRD ROG BST BER
 Race: ALL
 , Kavruul`s Mystic PouchKavruul`s Mystic Pouch
 MAGIC ITEM LORE ITEM
@@ -1510,7 +1510,7 @@ WT: 0.6 Size: SMALL
 Class: ALL
 Race: ALLFocus Effect: Brass Resonance 14
 , Runed Bolster BeltRuned Bolster Belt
-MAGIC ITEM
+Attunable
 Slot: WAIST
 AC: 5
 STR: +10 DEX: +10 STA: +10
@@ -1543,7 +1543,7 @@ WT: 1.0 Size: TINY
 Class: NONE
 Race: NONE
 , Warhammer of Divine GraceWarhammer of Divine Grace
-MAGIC ITEM
+Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 39
 DMG: 18
@@ -1552,7 +1552,7 @@ WT: 7.3 Size: MEDIUM
 Class: CLR
 Race: ALL
 , White Dragon HideWhite Dragon Hide
-NO DROP QUEST
+No Trade, Quest
 WT: 3.0 Size: MEDIUM
 Class: ALL
 Race: ALL

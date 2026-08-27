@@ -1,5 +1,5 @@
 # Grobb (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-27
 
 Grobb - EverQuest Legends Wiki
 Jump to content
@@ -333,7 +333,7 @@ a decaying skeleton, A froglok tad |
 More Help for Innoruuk
 |
 Spell: Spirit Pouch |
-Kaglari |
+Bregna |
 1 |
 All |
 Northern Ro, West Commonlands |

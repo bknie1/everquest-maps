@@ -1,5 +1,5 @@
 # Western_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-08-24
+fetched: 2026-08-27
 
 Western Karana - EverQuest Legends Wiki
 Jump to content
@@ -296,6 +296,7 @@ None |
 Gindlin's Poison
 |
 Spider VenomSpider Venom
+Quest
 Charges: 1
 Effect: Weakening Poison I (Combat) at Level 5
 WT: 0.2 Size: SMALL

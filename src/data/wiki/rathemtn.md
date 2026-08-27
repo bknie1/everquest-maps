@@ -1,5 +1,5 @@
 # Rathe_Mountains (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-27
 
 Rathe Mountains - EverQuest Legends Wiki
 Jump to content
@@ -392,7 +392,7 @@ Karam Dragonforge |
 All |
 Permafrost |
 Lady Vox |
-NPCs - Found 115 NPCs that spawn in Rathe Mountains:
+NPCs - Found 116 NPCs that spawn in Rathe Mountains:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Basalt Drake
 |
@@ -1583,6 +1583,14 @@ Druid |
 (5118, 1748) |
 None |
 Description needed. |
+Stablehand Fleeb
+|
+Froglok |
+Merchant |
+60 |
+-2232 588 |
+|
+Rathe Mountain's stable hand, who sells Drogmor Mounts. |
 Sugal the Fist
 |
 Froglok |

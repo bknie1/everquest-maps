@@ -1,5 +1,5 @@
 # Nagafen's_Lair (eqlwiki.com)
-fetched: 2026-08-26
+fetched: 2026-08-27
 
 Nagafen's Lair - EverQuest Legends Wiki
 Jump to content
@@ -453,7 +453,7 @@ Race: ALL
 17. "Skarlon Room" with Warlord Skarlon who drops Mithril VambracesMithril Vambraces
 MAGIC ITEM
 Slot: ARMS
-AC: 10
+AC: 14
 STR: +7
 SV MAGIC: +5
 WT: 3.7 Size: SMALL
@@ -1440,7 +1440,7 @@ AC: 14 STR: +7 SV MAGIC: +5 WT: 3.7 Size: SMALL Class: WAR PAL RNG SHD BRD ROG R
 Mithril VambracesMithril Vambraces
 MAGIC ITEM
 Slot: ARMS
-AC: 10
+AC: 14
 STR: +7
 SV MAGIC: +5
 WT: 3.7 Size: SMALL
@@ -1449,7 +1449,7 @@ Race: ALL
 |
 Warlord Skarlon |
 Arms |
-AC: 10 STR: +7 SV MAGIC: +5 WT: 3.7 Size: SMALL Class: WAR PAL RNG SHD BRD ROG Race: ALL |
+AC: 14 STR: +7 SV MAGIC: +5 WT: 3.7 Size: SMALL Class: WAR PAL RNG SHD BRD ROG Race: ALL |
 PainbringerPainbringer
 MAGIC ITEM LORE ITEM NO DROP
 Slot: PRIMARY SECONDARY
@@ -1677,7 +1677,7 @@ Race: ALL
 , Mithril VambracesMithril Vambraces
 MAGIC ITEM
 Slot: ARMS
-AC: 10
+AC: 14
 STR: +7
 SV MAGIC: +5
 WT: 3.7 Size: SMALL

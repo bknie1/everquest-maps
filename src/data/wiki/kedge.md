@@ -1,5 +1,5 @@
 # Kedge_Keep (eqlwiki.com)
-fetched: 2026-08-24
+fetched: 2026-08-27
 
 Kedge Keep - EverQuest Legends Wiki
 Jump to content
@@ -239,7 +239,7 @@ Skill: 1H Blunt Atk Delay: 26
 DMG: 8
 WIS: +5
 WT: 3.0 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC BER
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
 Race: ALL
 , Sharkjaw CutlassSharkjaw Cutlass
 MAGIC ITEM
@@ -885,7 +885,7 @@ Skill: 1H Blunt Atk Delay: 26
 DMG: 8
 WIS: +5
 WT: 3.0 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC BER
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
 Race: ALL
 |
 A big fish with sharp teeth.
@@ -905,7 +905,7 @@ Skill: 1H Blunt Atk Delay: 26
 DMG: 8
 WIS: +5
 WT: 3.0 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC BER
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
 Race: ALL
 , Sharkskin DrumSharkskin Drum
 MAGIC ITEM
@@ -1422,12 +1422,12 @@ Skill: 1H Blunt Atk Delay: 26
 DMG: 8
 WIS: +5
 WT: 3.0 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC BER
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
 Race: ALL
 |
 Cauldronbubble, Coralyn Kelpmaiden |
 1H Blunt |
-Atk Delay: 26 DMG: 8 WIS: +5 WT: 3.0 Size: MEDIUM Class: ALL except NEC WIZ MAG ENC BER Race: ALL |
+Atk Delay: 26 DMG: 8 WIS: +5 WT: 3.0 Size: MEDIUM Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST Race: ALL |
 Sharkjaw CutlassSharkjaw Cutlass
 MAGIC ITEM
 Slot: PRIMARY SECONDARY

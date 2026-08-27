@@ -1,5 +1,5 @@
 # Misty_Thicket (eqlwiki.com)
-fetched: 2026-08-26
+fetched: 2026-08-27
 
 Misty Thicket - EverQuest Legends Wiki
 Jump to content
@@ -174,22 +174,23 @@ Class: ALL
 Race: ALL
 , Potion of Poison WardingPotion of Poison Warding
 EXPENDABLE Charges: 5
-Effect: Counteract Poison (Any Slot, Casting Time: 6.0)
+Effect: Counteract Poison (Clicky, Casting Time: Instant)
 WT: 0.4 Size: SMALL
 Class: ALL
 Race: ALL
 , Silver BraceletSilver Bracelet
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable
 Slot: WRIST
 Charges: 14
 AC: 2
 INT: -3 AGI: +3
 SV POISON: +10
-Effect: Cure Poison (Any Slot, Casting Time: 6.0)
+Effect: Cure Poison (Clicky, Casting Time: Instant)
 WT: 1.0 Size: SMALL
-Class: ALL
+Class: BRD BER CLR DRU ENC MAG MNK NEC PAL RNG ROG RHA RHD WAR WIZ
 Race: ALL
 , Spider VenomSpider Venom
+Quest
 Charges: 1
 Effect: Weakening Poison I (Combat) at Level 5
 WT: 0.2 Size: SMALL
@@ -208,7 +209,7 @@ Blixkin Entopop |
 14 |
 All |
 Western Karana, Kithicor Forest, North Qeynos |
-Queen Klaknak, a fire beetle, a giant scarab, a giant wasp, a spiderling |
+Queen Klaknak, a fire beetle, a giant fire beetle, a giant scarab, a giant wasp, a spiderling, a giant yellowjacket |
 Mooto's Proof
 |
 Unknown |

@@ -1,5 +1,5 @@
 # The_Warrens (eqlwiki.com)
-fetched: 2026-08-26
+fetched: 2026-08-27
 
 The Warrens - EverQuest Legends Wiki
 Jump to content
@@ -102,7 +102,7 @@ Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC BER
+Class: BRD BST CLR DRU MNK PAL RNG ROG SHA SHD WAR
 Race: ALL
 , Bamboo Wakizashi BoBamboo Wakizashi Bo
 Slot: PRIMARY SECONDARY
@@ -1135,12 +1135,12 @@ Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC BER
+Class: BRD BST CLR DRU MNK PAL RNG ROG SHA SHD WAR
 Race: ALL
 |
 High Shaman Drogik |
 1H Blunt |
-Atk Delay: 33 DMG: 5 WT: 8.5 Size: MEDIUM Class: ALL except NEC WIZ MAG ENC BER Race: ALL |
+Atk Delay: 33 DMG: 5 WT: 8.5 Size: MEDIUM Class: BRD BST CLR DRU MNK PAL RNG ROG SHA SHD WAR Race: ALL |
 Bamboo Wakizashi BoBamboo Wakizashi Bo
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 38

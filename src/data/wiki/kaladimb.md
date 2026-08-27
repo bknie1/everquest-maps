@@ -1,5 +1,5 @@
 # Kaladim (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-27
 
 Kaladim - EverQuest Legends Wiki
 Jump to content
@@ -2032,7 +2032,13 @@ Slot: FINGER
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
-, Engagement Ring, Fire Beetle EyeFire Beetle Eye
+, Engagement RingEngagement Ring
+Attunable
+Slot: FINGER
+WT: 0.1 Size: TINY
+Class: ALL
+Race: ALL
+, Fire Beetle EyeFire Beetle Eye
 Quest, Placeable
 Slot: PRIMARY SECONDARY
 WT: 0.2 Size: TINY

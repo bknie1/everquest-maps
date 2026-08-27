@@ -1,5 +1,5 @@
 # Castle_Mistmoore (eqlwiki.com)
-fetched: 2026-08-26
+fetched: 2026-08-27
 
 Mistmoore Castle - EverQuest Legends Wiki
 Jump to content
@@ -1812,7 +1812,7 @@ Effect: Lifebite (Combat)
 WT: 0.5 Size: SMALL
 Class: MNK BST
 Race: ALL
-, Diamondine EarringDiamondine Earring
+(Very Rare), Diamondine EarringDiamondine Earring
 MAGIC ITEM
 Slot: EAR
 AC: 2
@@ -1837,7 +1837,7 @@ CHA: 2 WIS: 3 INT: 3
 WT: 0.6 Size: SMALL
 Class: CLR BRD NEC WIZ MAG ENC
 Race: ALLFocus Effect: Mana Preservation I
-|
+(Very Common) |
 Spawns on the chair in her room. A Dark Ritualist is the PH. A Deathly Herald spawns on each side of her. Does not alw... |
 Ssynthi
 |

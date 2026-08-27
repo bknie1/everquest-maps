@@ -1,5 +1,5 @@
 # Paineel (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-27
 
 Paineel - EverQuest Legends Wiki
 Jump to content
@@ -1179,8 +1179,7 @@ WT: 10.0 Size: LARGE
 Class: WAR CLR PAL RNG SHD BRD ROG SHM
 Race: ALL
 |
-618HP. 12m respawn. Just inside border entry point of Darkglow Palace.
-Previously listed as level 14, but sometimes yell... |
+~6m respawn. Just inside border entry point of Darkglow Palace. |
 Guard Menbuknar
 |
 Skeleton New |
@@ -1298,7 +1297,7 @@ Guard Perelin
 |
 Skeleton Classic |
 Warrior |
-14-15 |
+14-16 |
 100% @ (1283, 757) |
 Bronze Bastard SwordBronze Bastard Sword
 Slot: PRIMARY SECONDARY
@@ -1314,8 +1313,7 @@ WT: 10.0 Size: LARGE
 Class: WAR CLR PAL RNG SHD BRD ROG SHM
 Race: ALL
 |
-618HP. 6m respawn. At side entrance of Darkglow Palace, 1 of 4 in this group of similar guards.
-Note: has a minor le... |
+618HP. 6m respawn. At side entrance of Darkglow Palace, 1 of 4 in this group of similar guards. |
 Guard Polzdurn
 |
 Skeleton Classic |

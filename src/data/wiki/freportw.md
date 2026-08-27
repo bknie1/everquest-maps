@@ -1,5 +1,5 @@
 # West_Freeport (eqlwiki.com)
-fetched: 2026-08-22
+fetched: 2026-08-27
 
 Freeport - EverQuest Legends Wiki
 Jump to content
@@ -93,6 +93,7 @@ Notice: THE ARTICLE CONTAINS NON-LEGENDS CONTENT.
 |
 Freeport is considered by most to be the hub of Antonica for a variety of reasons. It is the mercantile center of the continent, since it holds the only port with a regular boat to the island continent of Faydwer. It holds facilities for most of the artisan trades, and most budding craftsman travel to Freeport to take advantage of the readily available facilities. Freeport is also the hub for traffic of all sorts. The good races travel its streets to go to their guilds and the shops, as well as to the boat to Faydwer, and the dark races travel through the sewers to reach most of the same destinations. Guild Halls for all classes except the Rangers, Druids, and Shamans are present within the city.
 |
+|
 City Races:
 |
 Human, Half Elf
@@ -132,7 +133,6 @@ East Freeport -599, -1023 (East of the newbie yard gate along the East wall)
 ZEM Value:
 |
 75 100 (133%)
-|
 |
 Map
 Combined Map
@@ -233,7 +233,7 @@ People
 The people in Freeport are as varied as the town itself. Travelling through the city one can see an entire range of races, including ogres and dark elves, humans and elves, and various beggars in between. Also, it is not uncommon to see several of the more powerful members of their guilds travelling through Freeport on their ways to other places, or engaged in some transaction.
 The guards of Freeport constantly roam the corridors, and to the naked eye could be considered normal guards. Beneath the surface, however, the paladins of Mithaniel Marr secretly hunt the guards, for they are corrupt, and, as rumors have it, their leader was a banished paladin himself.
 What's in this zone?
-Quests - Found 18 quests that start in West Freeport:
+Quests - Found 19 quests that start in West Freeport:
 Quest Name | Reward | Quest Giver | Minimum Level | Classes | Related Zones | Related NPCs |
 Deathfist Slashed Belts
 |
@@ -299,6 +299,14 @@ Palon Deskeb |
 All |
 West Freeport, North Freeport |
 a minnow |
+Militia Seals
+|
+? |
+|
+|
+|
+|
+|
 Monk Sash Quests
 |
 White Training SashWhite Training Sash
@@ -1755,6 +1763,7 @@ Guard Alayle |
 (None) |
 LORE ITEM NO DROP WT: 2.0 Size: MEDIUM Class: ALL except NEC WIZ MAG ENC Race: ALL |
 Spider VenomSpider Venom
+Quest
 Charges: 1
 Effect: Weakening Poison I (Combat) at Level 5
 WT: 0.2 Size: SMALL
@@ -1763,7 +1772,7 @@ Race: ALL
 |
 None? |
 (None) |
-Charges: 1 Effect: Weakening Poison I (Combat) at Level 5 WT: 0.2 Size: SMALL Class: ALL Race: ALL |
+Quest Charges: 1 Effect: Weakening Poison I (Combat) at Level 5 WT: 0.2 Size: SMALL Class: ALL Race: ALL |
 Tarnished MaceTarnished Mace
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 36
@@ -3252,7 +3261,7 @@ Stable Hand Brack
 Human |
 Merchant |
 35 |
-gate area — just past the first gate on the way out to the newbie yard |
+-168 -724 |
 |
 Freeport's stable hand, found beside the gates on the eastern edge of the city. He sells horse bridles (mounts) in four ... |
 Ston O`Donner
@@ -4847,14 +4856,14 @@ Race: ALL
 Sentry Andlin, Sentry Theo, Sentry Warren |
 1H Blunt |
 Atk Delay: 32 DMG: 6 WT: 7.5 Size: MEDIUM Class: ALL except NEC WIZ MAG ENC Race: ALL |
-Retrieved from "https://eqlwiki.com/index.php?title=Freeport&oldid=133974"
+Retrieved from "https://eqlwiki.com/index.php?title=Freeport&oldid=172731"
 Categories: Classic Era
 Non-P99 Content
 Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 1 June 2026, at 19:11.
+This page was last edited on 26 August 2026, at 07:12.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

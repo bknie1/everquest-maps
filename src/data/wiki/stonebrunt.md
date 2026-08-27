@@ -1,5 +1,5 @@
 # Stonebrunt_Mountains (eqlwiki.com)
-fetched: 2026-08-26
+fetched: 2026-08-27
 
 Stonebrunt Mountains - EverQuest Legends Wiki
 Jump to content
@@ -1716,7 +1716,7 @@ Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC BER
+Class: BRD BST CLR DRU MNK PAL RNG ROG SHA SHD WAR
 Race: ALL
 , Blood Crusted Kobold MaceBlood Crusted Kobold Mace
 MAGIC ITEM LORE ITEM
@@ -1756,7 +1756,7 @@ Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC BER
+Class: BRD BST CLR DRU MNK PAL RNG ROG SHA SHD WAR
 Race: ALL
 |
 Description needed. |

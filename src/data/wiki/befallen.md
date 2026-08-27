@@ -1,5 +1,5 @@
 # Befallen (eqlwiki.com)
-fetched: 2026-08-22
+fetched: 2026-08-27
 
 Befallen - EverQuest Legends Wiki
 Jump to content
@@ -876,6 +876,7 @@ Warrior |
 11-13 |
 100% @ (-332, -42) |
 Skeletal RodSkeletal Rod
+Lore Equipped, Attunable
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 27
 DMG: 4
@@ -883,6 +884,7 @@ WT: 4.9 Size: MEDIUM
 Class: ALL
 Race: ALL
 , Pristine Studded Leather BootsPristine Studded Leather Boots
+Lore Equipped, No Trade
 Slot: FEET
 AC: 6
 AGI: +5
@@ -1277,6 +1279,7 @@ Gynok Moltor |
 Fingers |
 CHA: -1 AGI: +1 WT: 0.1 Size: TINY Class: ALL Race: ALL |
 Pristine Studded Leather BootsPristine Studded Leather Boots
+Lore Equipped, No Trade
 Slot: FEET
 AC: 6
 AGI: +5
