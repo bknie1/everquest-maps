@@ -1,5 +1,5 @@
 # Plane_of_Hate (eqlwiki.com)
-fetched: 2026-08-27
+fetched: 2026-08-28
 
 Plane of Hate - EverQuest Legends Wiki
 Jump to content
@@ -133,8 +133,8 @@ The Plane of Hate can either be reached via the wizard spell Alter Plane: Hate, 
 There are no conventional zone exits; players must Gate, Origin, use a wizard or druid portal, or use other means to exit the zone.
 Enemies and Loot
 General foes in the Plane of Hate drop planar-level armor for Head, Arms, Wrist, and Legs. They can be divided into 2 groups:
-Group 1 drops armor for Wisdom casters, Berserkers, Monks, and also all pieces of Lustrous Russet Armor. (Cleric, Druid, Shaman, Beastlord, Ranger, Paladin, Berserker, Warrior)
-Group 2 drops armor for Intelligence casters, Rogues, Warriors, and also all pieces of Midnight Clad Armor. (Enchanter, Magician, Necromancer, Wizard, Bard, Shadow Knight, Rogue, Monk)
+Group 1 drops armor for Wisdom casters, Berserkers, Monks, and also all pieces of Lustrous Russet Armor. (Warrior, Cleric, Paladin, Ranger, Shadow Knight, Bard, Rogue, Shaman, Berserker)
+Group 2 drops armor for Intelligence casters, Rogues, Warriors, and also all pieces of Midnight Clad Armor. (Druid, Monk, Rogue, Necromancer, Wizard, Magician, Enchanter, Beastlord)
 a haunted chest can drop any planar armor, including pieces that normally drop only in Plane of Fear!
 Additionally, some specific mob types also drop various class-specific items.
 Armor drops, condensed table
@@ -543,7 +543,7 @@ Various, Imbrued Platemail Armor
 |
 Alternate Maps
 What's in this zone?
-NPCs - Found 48 NPCs that spawn in Plane of Hate:
+NPCs - Found 47 NPCs that spawn in Plane of Hate:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Champion of Innoruuk
 |
@@ -654,9 +654,9 @@ A Haunted Chest
 Mimic |
 Warrior |
 50 |
-See Notes below |
+13% @ (113, 277), 13% @ (274, -277), 13% @ (410, -74), 13% @ (-321, 306), 13% @ (203, -221), 13% @ (-67, -279), 13% @ (-324, -293), 13% @ (-148, -214) |
 Various |
-These can randomly drop any of the planar armor from Hate or Fear. The Plane of Fear counterpart is a Phoboplasm... |
+Drops All Group 1 Armor (Common) and [[Classic Planar Armor: Group 2| All Group 2 Ar... |
 A Kiraikuei
 |
 Zombie |
@@ -689,7 +689,7 @@ A Loathling Lich
 Spectre |
 Wizard |
 51 |
-See Dicussion |
+|
 Various |
 Description needed.
 Lore
@@ -818,14 +818,6 @@ Shaman |
 Various - static spawns and roamers |
 Various |
 Large, black mud golem. Shaman, casts SOW and alacrity on nearby mobs, has a pet. Scowls at a sneaking rogue, but does n... |
-A loathing lich
-|
-Spectre |
-Wizard |
-51 |
-Various - often a roamer, possible static spawns, too? |
-Various |
-These spectres are considered extremely dangerous. They can cast wizard spells such as Gravity Flux, Gate and [[... |
 A revultant rat
 |
 Undead Rat |
@@ -868,7 +860,87 @@ Chosen Warrior |
 Rogue |
 55 |
 Various |
-Various |
+Apothic KiltApothic Kilt
+Lore Equipped, No Trade, Quest
+Slot: LEGS
+AC: 5
+STR: +5 HP: +25
+SV COLD: +10
+WT: 0.5 Size: MEDIUM
+Class: MAG
+Race: ALL
+Blighted TrousersBlighted Trousers
+Lore Equipped, No Trade, Quest
+Slot: LEGS
+AC: 5
+STR: +3 DEX: +4 HP: +10
+SV COLD: +10
+WT: 0.7 Size: MEDIUM
+Class: NEC
+Race: ALL
+Carmine PantsCarmine Pants
+Lore Equipped, No Trade, Quest
+Slot: LEGS
+AC: 5
+STR: +3 STA: +3 HP: +15
+SV COLD: +10
+WT: 0.7 Size: MEDIUM
+Class: WIZ
+Race: ALL
+Imbrued Platemail GreavesImbrued Platemail Greaves
+Lore Equipped, No Trade, Quest
+Slot: LEGS
+AC: 16
+STR: +5 STA: +9 AGI: +9
+SV MAGIC: +10
+WT: 5.6 Size: LARGE
+Class: BRD
+Race: ALL
+Indicolite GreavesIndicolite Greaves
+Lore Equipped, No Trade, Quest
+Slot: LEGS
+AC: 20
+STR: +5 STA: +5 AGI: +5
+WT: 5.6 Size: LARGE
+Class: WAR
+Race: ALL
+Insidious PantaloonsInsidious Pantaloons
+Lore Equipped, No Trade, Quest
+Slot: LEGS
+AC: 5
+STR: +3 CHA: +3 HP: +15
+SV COLD: +10
+WT: 0.7 Size: MEDIUM
+Class: ENC
+Race: ALL
+Midnight Clad LeggingsMidnight Clad Leggings
+Lore Equipped, No Trade
+Slot: LEGS
+AC: 5
+STA: +9 INT: +5 WIS: +5
+SV.Fire: +8
+WT: 0.1 Size: MEDIUM
+Class: DRU MNK ROG NEC WIZ MAG ENC BST
+Race: ALL
+Umbral Platemail GreavesUmbral Platemail Greaves
+Lore Equipped, No Trade, Quest
+Slot: LEGS
+AC: 17
+WIS: +5 AGI: +5
+SV POISON: +13
+WT: 5.6 Size: LARGE
+Class: SHD
+Race: ALL
+Woven Shadow GreavesWoven Shadow Greaves
+Lore Equipped, No Trade, Quest
+Slot: LEGS
+AC: 14
+WIS: +5 AGI: +5
+SV DISEASE: +10
+WT: 5.6 Size: LARGE
+Class: ROG
+Race: ALL
+|
 Description needed.
 Lore
 Agents of hate are among the chief instigators of conflict on behalf of their deity, th... |
@@ -1312,7 +1384,7 @@ Cleric |
 5% @ (409, 31) |
 Various |
 Description needed. |
-Items - Found 179 items that drop in Plane of Hate:
+Items - Found 202 items that drop in Plane of Hate:
 Item Name | Drops From | Slot | Stats |
 Anthemion ArmbandsAnthemion Armbands
 Lore Equipped, No Trade, Quest
@@ -1324,9 +1396,46 @@ WT: 0.2 Size: SMALL
 Class: BST
 Race: ALL
 |
-a forsaken revenant (female), an ire ghast |
+a forsaken revenant (female), a haunted chest, an ire ghast |
 Arms |
 AC: 5 STR: +5 STA: +4 DEX: +9 SV COLD: +7 SV VOID: +2 WT: 0.2 Size: SMALL Class: BST Race: ALL |
+Anthemion BootsAnthemion Boots
+Lore Equipped, No Trade, Quest
+Slot: FEET
+AC: 6
+STR: 4 AGI: 9
+WT: 0.3 Size: SMALL
+Class: BST
+Race: ALL
+|
+a haunted chest |
+Feet |
+AC: 6 STR: 4 AGI: 9 WT: 0.3 Size: SMALL Class: BST Race: ALL |
+Anthemion GlovesAnthemion Gloves
+Lore Equipped, No Trade, Quest
+Slot: HANDS
+AC: 5
+STR: 5 DEX: 6 MANA: 20
+SV Magic: 7
+WT: 0.3 Size: SMALL
+Class: BST
+Race: ALL
+|
+a haunted chest |
+Hands |
+AC: 5 STR: 5 DEX: 6 MANA: 20 SV Magic: 7 WT: 0.3 Size: SMALL Class: BST Race: ALL |
+Anthemion JerkinAnthemion Jerkin
+Lore Equipped, No Trade, Quest
+Slot: CHEST
+AC: 11
+STR: 7 STA: 8 WIS: 10 AGI: 8
+WT: 0.3 Size: SMALL
+Class: BST
+Race: ALL
+|
+a haunted chest |
+Chest |
+AC: 11 STR: 7 STA: 8 WIS: 10 AGI: 8 WT: 0.3 Size: SMALL Class: BST Race: ALL |
 Anthemion LeggingsAnthemion Leggings
 Lore Equipped, No Trade, Quest
 Slot: LEGS
@@ -1350,7 +1459,7 @@ WT: 0.3 Size: SMALL
 Class: BST
 Race: ALL
 |
-Cleric of Innoruuk |
+a haunted chest, Cleric of Innoruuk |
 Head |
 AC: 6 DEX: 4 CHA: 8 INT: 5 HP: 20 SV Poison: 7 WT: 0.3 Size: SMALL Class: BST Race: ALL |
 Anthemion WristguardAnthemion Wristguard
@@ -1363,7 +1472,7 @@ WT: 0.2 Size: SMALL
 Class: BST
 Race: ALL
 |
-a scorn banshee, an abhorrent |
+a haunted chest, a scorn banshee, an abhorrent |
 Wrist |
 AC: 4 WIS: +5 AGI: +5 SV DISEASE: +5 SV POISON: +5 WT: 0.2 Size: SMALL Class: BST Race: ALL |
 Apothic BootsApothic Boots
@@ -1376,7 +1485,7 @@ WT: 0.7 Size: SMALL
 Class: MAG
 Race: ALL
 |
-None? |
+a haunted chest |
 Feet |
 AC: 4 AGI: +13 HP: +18 SV POISON: +10 WT: 0.7 Size: SMALL Class: MAG Race: ALL |
 Apothic CrownApothic Crown
@@ -1389,7 +1498,7 @@ WT: 0.3 Size: SMALL
 Class: MAG
 Race: ALL
 |
-a spite golem |
+a haunted chest, a spite golem |
 Head |
 AC: 5 CHA: +10 INT: +9 HP: +10 MANA: +10 SV MAGIC: +10 WT: 0.3 Size: SMALL Class: MAG Race: ALL |
 Apothic GlovesApothic Gloves
@@ -1402,7 +1511,7 @@ WT: 0.4 Size: SMALL
 Class: MAG
 Race: ALL
 |
-None? |
+a haunted chest |
 Hands |
 AC: 4 DEX: +13 INT: +7 MANA: +12 SV DISEASE: +10 WT: 0.4 Size: SMALL Class: MAG Race: ALL |
 Apothic KiltApothic Kilt
@@ -1418,6 +1527,18 @@ Race: ALL
 Various |
 Legs |
 AC: 5 STR: +5 HP: +25 SV COLD: +10 WT: 0.5 Size: MEDIUM Class: MAG Race: ALL |
+Apothic RobeApothic Robe
+Lore Equipped, No Trade, Quest
+Slot: CHEST
+AC: 11
+DEX: +5 STA: +12 INT: +14 MANA: +40
+WT: 1.0 Size: MEDIUM
+Class: MAG
+Race: ALL
+|
+a haunted chest |
+Chest |
+AC: 11 DEX: +5 STA: +12 INT: +14 MANA: +40 WT: 1.0 Size: MEDIUM Class: MAG Race: ALL |
 Apothic SleevesApothic Sleeves
 Lore Equipped, No Trade, Quest
 Slot: ARMS
@@ -1428,7 +1549,7 @@ WT: 0.4 Size: SMALL
 Class: MAG
 Race: ALL
 |
-a forsaken revenant (male), an ashenbone drake |
+a forsaken revenant (male), an ashenbone drake, a haunted chest |
 Arms |
 AC: 4 INT: +7 HP: +18 SV FIRE: +10 WT: 0.4 Size: SMALL Class: MAG Race: ALL |
 Apothic WarbandApothic Warband
@@ -1440,7 +1561,7 @@ WT: 0.3 Size: SMALL
 Class: MAG
 Race: ALL
 |
-a kiraikuei, a loathling lich, a revultant rat |
+Various |
 Wrist |
 AC: 3 STR: +4 DEX: +4 MANA: +20 WT: 0.3 Size: SMALL Class: MAG Race: ALL |
 Ashenbone AbbasiAshenbone Abbasi
@@ -1530,6 +1651,95 @@ Race: ALL
 Lord of Loathing, Innoruuk (God) |
 2H Slashing |
 Atk Delay: 42 DMG: 30 INT: +10 WT: 9.5 Size: LARGE Class: SHD Race: ALL |
+Blighted ArmbandBlighted Armband
+No Trade, Quest
+Slot: WRIST
+AC: 3
+STR: +4 DEX: +5 MANA: +15
+WT: 0.3 Size: SMALL
+Class: NEC
+Race: ALL
+|
+Various |
+Wrist |
+AC: 3 STR: +4 DEX: +5 MANA: +15 WT: 0.3 Size: SMALL Class: NEC Race: ALL |
+Blighted BootsBlighted Boots
+Lore Equipped, No Trade, Quest
+Slot: FEET
+AC: 4
+AGI: +14 HP: +5
+SV POISON: +10
+WT: 0.7 Size: SMALL
+Class: NEC
+Race: ALL
+|
+a haunted chest |
+Feet |
+AC: 4 AGI: +14 HP: +5 SV POISON: +10 WT: 0.7 Size: SMALL Class: NEC Race: ALL |
+Blighted GlovesBlighted Gloves
+Lore Equipped, No Trade, Quest
+Slot: HANDS
+AC: 4
+DEX: +10 INT: +8 MANA: +12
+SV DISEASE: +10
+WT: 0.4 Size: SMALL
+Class: NEC
+Race: ALL
+|
+a haunted chest |
+Hands |
+AC: 4 DEX: +10 INT: +8 MANA: +12 SV DISEASE: +10 WT: 0.4 Size: SMALL Class: NEC Race: ALL |
+Blighted RobeBlighted Robe
+Lore Equipped, No Trade, Quest
+Slot: CHEST
+AC: 11
+DEX: +10 STA: +10 INT: +13 MANA: +40
+WT: 1.0 Size: MEDIUM
+Class: NEC
+Race: ALL
+|
+a haunted chest |
+Chest |
+AC: 11 DEX: +10 STA: +10 INT: +13 MANA: +40 WT: 1.0 Size: MEDIUM Class: NEC Race: ALL |
+Blighted SkullcapBlighted Skullcap
+Lore Equipped, No Trade, Quest
+Slot: HEAD
+AC: 5
+WIS: +7 INT: +8 HP: +10 MANA: +20
+SV MAGIC: +10
+WT: 0.3 Size: SMALL
+Class: NEC
+Race: ALL
+|
+a spite golem, a haunted chest |
+Head |
+AC: 5 WIS: +7 INT: +8 HP: +10 MANA: +20 SV MAGIC: +10 WT: 0.3 Size: SMALL Class: NEC Race: ALL |
+Blighted SleevesBlighted Sleeves
+Lore Equipped, No Trade, Quest
+Slot: ARMS
+AC: 5
+INT: +7 HP: +15
+SV FIRE: +10
+WT: 0.4 Size: SMALL
+Class: NEC
+Race: ALL
+|
+a forsaken revenant (male), an ashenbone drake, a haunted chest |
+Arms |
+AC: 5 INT: +7 HP: +15 SV FIRE: +10 WT: 0.4 Size: SMALL Class: NEC Race: ALL |
+Blighted TrousersBlighted Trousers
+Lore Equipped, No Trade, Quest
+Slot: LEGS
+AC: 5
+STR: +3 DEX: +4 HP: +10
+SV COLD: +10
+WT: 0.7 Size: MEDIUM
+Class: NEC
+Race: ALL
+|
+Various |
+Legs |
+AC: 5 STR: +3 DEX: +4 HP: +10 SV COLD: +10 WT: 0.7 Size: MEDIUM Class: NEC Race: ALL |
 BloodmoonBloodmoon
 Lore Equipped, No Trade, Placeable
 Slot: PRIMARY
@@ -1645,6 +1855,95 @@ Race: ALL
 Innoruuk (God) |
 1H Slashing |
 Atk Delay: 19 DMG: 9 WT: 2.0 Size: MEDIUM Class: RNG Race: ALL |
+Carmine BootsCarmine Boots
+Lore Equipped, No Trade, Quest
+Slot: FEET
+AC: 4
+AGI: +14 HP: +10
+SV POISON: +10
+WT: 0.7 Size: SMALL
+Class: WIZ
+Race: ALL
+|
+a haunted chest |
+Feet |
+AC: 4 AGI: +14 HP: +10 SV POISON: +10 WT: 0.7 Size: SMALL Class: WIZ Race: ALL |
+Carmine GlovesCarmine Gloves
+Lore Equipped, No Trade, Quest
+Slot: HANDS
+AC: 4
+DEX: +12 INT: +7 MANA: +15
+SV DISEASE: +10
+WT: 0.4 Size: SMALL
+Class: WIZ
+Race: ALL
+|
+a haunted chest |
+Hands |
+AC: 4 DEX: +12 INT: +7 MANA: +15 SV DISEASE: +10 WT: 0.4 Size: SMALL Class: WIZ Race: ALL |
+Carmine PantsCarmine Pants
+Lore Equipped, No Trade, Quest
+Slot: LEGS
+AC: 5
+STR: +3 STA: +3 HP: +15
+SV COLD: +10
+WT: 0.7 Size: MEDIUM
+Class: WIZ
+Race: ALL
+|
+Various |
+Legs |
+AC: 5 STR: +3 STA: +3 HP: +15 SV COLD: +10 WT: 0.7 Size: MEDIUM Class: WIZ Race: ALL |
+Carmine RobeCarmine Robe
+Lore Equipped, No Trade, Quest
+Slot: CHEST
+AC: 11
+DEX: +7 STA: +14 INT: +14 MANA: +30
+WT: 1.0 Size: MEDIUM
+Class: WIZ
+Race: ALL
+|
+a haunted chest |
+Chest |
+AC: 11 DEX: +7 STA: +14 INT: +14 MANA: +30 WT: 1.0 Size: MEDIUM Class: WIZ Race: ALL |
+Carmine SleevesCarmine Sleeves
+Lore Equipped, No Trade, Quest
+Slot: ARMS
+AC: 4
+INT: +7 HP: +20
+SV FIRE: +10
+WT: 0.4 Size: SMALL
+Class: WIZ
+Race: ALL
+|
+a forsaken revenant (male), an ashenbone drake, a haunted chest |
+Arms |
+AC: 4 INT: +7 HP: +20 SV FIRE: +10 WT: 0.4 Size: SMALL Class: WIZ Race: ALL |
+Carmine TrinketCarmine Trinket
+No Trade, Quest
+Slot: WRIST
+AC: 3
+STR: +2 DEX: +6 MANA: +15
+WT: 0.3 Size: SMALL
+Class: WIZ
+Race: ALL
+|
+Various |
+Wrist |
+AC: 3 STR: +2 DEX: +6 MANA: +15 WT: 0.3 Size: SMALL Class: WIZ Race: ALL |
+Carmine TurbanCarmine Turban
+Lore Equipped, No Trade, Quest
+Slot: HEAD
+AC: 5
+STA: +5 CHA: +10 INT: +7 HP: +10 MANA: +10
+SV MAGIC: +10
+WT: 0.3 Size: SMALL
+Class: WIZ
+Race: ALL
+|
+a spite golem, a haunted chest |
+Head |
+AC: 5 STA: +5 CHA: +10 INT: +7 HP: +10 MANA: +10 SV MAGIC: +10 WT: 0.3 Size: SMALL Class: WIZ Race: ALL |
 Cloak of the AssassinCloak of the Assassin
 MAGIC ITEM LORE ITEM NO TRADE
 Slot: BACK
@@ -1829,6 +2128,19 @@ Race: ALL
 a forsaken revenant, Coercer T`vala |
 (None) |
 MAGIC ITEM LORE ITEM NO DROP WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Ethereal Mist BootsEthereal Mist Boots
+Lore Equipped, No Trade, Quest
+Slot: FEET
+AC: 15
+INT: +5 AGI: +5
+SV COLD: +7
+WT: 4.9 Size: MEDIUM
+Class: CLR
+Race: ALL
+|
+a haunted chest, An Evangelist of Hate |
+Feet |
+AC: 15 INT: +5 AGI: +5 SV COLD: +7 WT: 4.9 Size: MEDIUM Class: CLR Race: ALL |
 Ethereal Mist BracersEthereal Mist Bracers
 No Trade, Quest
 Slot: WRIST
@@ -1838,9 +2150,34 @@ WT: 3.0 Size: SMALL
 Class: CLR
 Race: HUM ERU HIE DEF DWF HFL GNM
 |
-a scorn banshee, an abhorrent |
+Various |
 Wrist |
 AC: 9 DEX: +9 CHA: +9 MANA: +20 WT: 3.0 Size: SMALL Class: CLR Race: HUM ERU HIE DEF DWF HFL GNM |
+Ethereal Mist ChestplateEthereal Mist Chestplate
+Lore Equipped, No Trade, Quest
+Slot: CHEST
+AC: 28
+STA: +15 WIS: +15 HP: +25 MANA: +25
+WT: 7.5 Size: LARGE
+Class: CLR
+Race: ALL
+|
+a haunted chest, An Evangelist of Hate |
+Chest |
+AC: 28 STA: +15 WIS: +15 HP: +25 MANA: +25 WT: 7.5 Size: LARGE Class: CLR Race: ALL |
+Ethereal Mist GauntletsEthereal Mist Gauntlets
+Lore Equipped, No Trade, Quest
+Slot: HANDS
+AC: 12
+DEX: +5 INT: +5
+SV FIRE: +7
+WT: 3.8 Size: SMALL
+Class: CLR
+Race: ALL
+|
+a haunted chest, An Evangelist of Hate |
+Hands |
+AC: 12 DEX: +5 INT: +5 SV FIRE: +7 WT: 3.8 Size: SMALL Class: CLR Race: ALL |
 Ethereal Mist GreavesEthereal Mist Greaves
 Lore Equipped, No Trade, Quest
 Slot: LEGS
@@ -1864,7 +2201,7 @@ WT: 4.5 Size: SMALL
 Class: CLR
 Race: ALL
 |
-Cleric of Innoruuk |
+a haunted chest, Cleric of Innoruuk, An Evangelist of Hate |
 Head |
 AC: 16 STR: +5 WIS: +5 SV DISEASE: +13 WT: 4.5 Size: SMALL Class: CLR Race: ALL |
 Ethereal Mist VambracesEthereal Mist Vambraces
@@ -1877,7 +2214,7 @@ WT: 4.9 Size: SMALL
 Class: CLR
 Race: ALL
 |
-a forsaken revenant (female), a haunted chest, an ire ghast |
+Various |
 Arms |
 AC: 15 STR: +9 SV MAGIC: +7 WT: 4.9 Size: SMALL Class: CLR Race: ALL |
 EvensongEvensong
@@ -2117,7 +2454,7 @@ WT: 4.9 Size: MEDIUM
 Class: BRD
 Race: ALL
 |
-None? |
+a haunted chest |
 Feet |
 AC: 16 STR: +5 STA: +9 SV COLD: +10 WT: 4.9 Size: MEDIUM Class: BRD Race: ALL |
 Imbrued Platemail BracerImbrued Platemail Bracer
@@ -2129,9 +2466,22 @@ WT: 3.0 Size: SMALL
 Class: BRD
 Race: ALL
 |
-a kiraikuei, a loathling lich, a revultant rat |
+Various |
 Wrist |
 AC: 11 DEX: +3 INT: +3 HP: +10 WT: 3.0 Size: SMALL Class: BRD Race: ALL |
+Imbrued Platemail BreastplateImbrued Platemail Breastplate
+Lore Equipped, No Trade, Quest
+Slot: CHEST
+AC: 29
+STR: +9 DEX: +13 CHA: +9
+SV DISEASE: +10
+WT: 7.5 Size: LARGE
+Class: BRD
+Race: ALL
+|
+a haunted chest |
+Chest |
+AC: 29 STR: +9 DEX: +13 CHA: +9 SV DISEASE: +10 WT: 7.5 Size: LARGE Class: BRD Race: ALL |
 Imbrued Platemail GauntletsImbrued Platemail Gauntlets
 Lore Equipped, No Trade, Quest
 Slot: HANDS
@@ -2141,7 +2491,7 @@ WT: 3.8 Size: SMALL
 Class: BRD
 Race: ALL
 |
-None? |
+a haunted chest |
 Hands |
 AC: 14 DEX: +5 WIS: +5 HP: +10 WT: 3.8 Size: SMALL Class: BRD Race: ALL |
 Imbrued Platemail GreavesImbrued Platemail Greaves
@@ -2167,7 +2517,7 @@ WT: 4.5 Size: SMALL
 Class: BRD
 Race: ALL
 |
-a spite golem |
+a spite golem, a haunted chest |
 Head |
 AC: 16 CHA: +9 WIS: +9 SV FIRE: +10 WT: 4.5 Size: SMALL Class: BRD Race: ALL |
 Imbrued Platemail VambracesImbrued Platemail Vambraces
@@ -2180,7 +2530,7 @@ WT: 4.9 Size: SMALL
 Class: BRD
 Race: ALL
 |
-a forsaken revenant (male), an ashenbone drake |
+a forsaken revenant (male), an ashenbone drake, a haunted chest |
 Arms |
 AC: 16 INT: +9 SV POISON: +10 WT: 4.9 Size: SMALL Class: BRD Race: ALL |
 Indicolite BootsIndicolite Boots
@@ -2193,7 +2543,7 @@ WT: 4.9 Size: MEDIUM
 Class: WAR
 Race: ALL
 |
-None? |
+a haunted chest |
 Feet |
 AC: 20 WIS: +5 INT: +5 AGI: +5 SV DISEASE: +15 SV POISON: +15 WT: 4.9 Size: MEDIUM Class: WAR Race: ALL |
 Indicolite BracerIndicolite Bracer
@@ -2206,9 +2556,21 @@ WT: 3.0 Size: SMALL
 Class: WAR
 Race: ALL
 |
-a kiraikuei, a loathling lich, a revultant rat |
+Various |
 Wrist |
 AC: 12 STR: +3 DEX: +3 SV FIRE: +7 SV COLD: +7 SV MAGIC: +7 WT: 3.0 Size: SMALL Class: WAR Race: ALL |
+Indicolite BreastplateIndicolite Breastplate
+Lore Equipped, No Trade, Quest
+Slot: CHEST
+AC: 35
+STR: +15 DEX: +15 STA: +15
+WT: 7.5 Size: LARGE
+Class: WAR
+Race: ALL
+|
+a haunted chest, Innoruuk's Chosen (male) - Raid version only? |
+Chest |
+AC: 35 STR: +15 DEX: +15 STA: +15 WT: 7.5 Size: LARGE Class: WAR Race: ALL |
 Indicolite GauntletsIndicolite Gauntlets
 Lore Equipped, No Trade, Quest
 Slot: HANDS
@@ -2218,7 +2580,7 @@ WT: 3.8 Size: SMALL
 Class: WAR
 Race: ALL
 |
-None? |
+a haunted chest, Grandmaster R`Tal |
 Hands |
 AC: 16 DEX: +5 STA: +5 HP: +50 WT: 3.8 Size: SMALL Class: WAR Race: ALL |
 Indicolite GreavesIndicolite Greaves
@@ -2242,7 +2604,7 @@ WT: 4.5 Size: SMALL
 Class: WAR
 Race: ALL
 |
-a spite golem |
+a spite golem, a haunted chest |
 Head |
 AC: 20 CHA: +5 INT: +5 WT: 4.5 Size: SMALL Class: WAR Race: ALL |
 Indicolite VambracesIndicolite Vambraces
@@ -2254,7 +2616,7 @@ WT: 4.9 Size: SMALL
 Class: WAR
 Race: ALL
 |
-a forsaken revenant (male), an ashenbone drake |
+a forsaken revenant (male), an ashenbone drake, a haunted chest |
 Arms |
 AC: 20 STR: +9 DEX: +5 WT: 4.9 Size: SMALL Class: WAR Race: ALL |
 Insidious GlovesInsidious Gloves
@@ -3058,7 +3420,7 @@ a spite golem |
 Secondary |
 AC: 17 WIS: +10 WT: 7.5 Size: MEDIUM Class: SHM Race: ALL |
 Staff of Elemental Mastery: EarthStaff of Elemental Mastery: Earth
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade, Placeable, Quest
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 30
 DMG: 15
@@ -3072,7 +3434,7 @@ Magi P`Tasa |
 2H Blunt |
 Atk Delay: 30 DMG: 15 Effect: Reclaim Energy (Casting Time: Instant) at Level 40 Focus Effect: Servant of Earth WT: 5.0 Size: LARGE Class: MAG Race: ALL |
 Staff of Elemental Mastery: FireStaff of Elemental Mastery: Fire
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade, Placeable, Quest
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 30
 DMG: 15
@@ -3792,14 +4154,14 @@ Plane of Hate Raid Floor 2
 Solo vs. Multiplayer
 When creating the raid instance, players can choose between solo and multiplayer instances. These instances share lockouts, so players cannot do both in the same week and receive full loot.
 There is no difference between solo and multiplayer as far as trash mobs or mobs locations in Plane of Hate.
-Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Hate&oldid=172538"
+Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Hate&oldid=174286"
 Categories: Classic Era
 Zones
 Plane of Hate
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 25 August 2026, at 14:55.
+This page was last edited on 28 August 2026, at 14:05.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

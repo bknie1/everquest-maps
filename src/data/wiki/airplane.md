@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-08-27
+fetched: 2026-08-28
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -1229,7 +1229,7 @@ Large Opal (8-EoV)
 Djinni Stave (7-SotS)
 |
 Staff of Elemental Mastery: AirStaff of Elemental Mastery: Air
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade, Placeable, Quest
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 30
 DMG: 15
@@ -6124,13 +6124,13 @@ Race: ALL
 Protector of Sky |
 (None) |
 LORE ITEM WT: 6.0 Size: MEDIUM Class: ALL Race: ALL |
-Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Sky&oldid=172516"
+Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Sky&oldid=173880"
 Categories: Sky Era
 Classic Era
 Zones
 How to Contribute
 Donate
-This page was last edited on 25 August 2026, at 12:59.
+This page was last edited on 27 August 2026, at 17:38.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

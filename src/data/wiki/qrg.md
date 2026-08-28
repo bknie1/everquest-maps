@@ -1,5 +1,5 @@
 # Surefall_Glade (eqlwiki.com)
-fetched: 2026-08-22
+fetched: 2026-08-28
 
 Surefall Glade - EverQuest Legends Wiki
 Jump to content
@@ -433,7 +433,20 @@ Human |
 Ranger |
 7 |
 50% @ (239, -178) |
-None |
+Human BloodHuman Blood
+MAGIC ITEM QUEST ITEM
+WT: 0.1 Size: TINY
+Class: ALL
+Race: ALL
+, Rusty Long SwordRusty Long Sword
+QUEST ITEM
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing Atk Delay: 35
+DMG: 5
+WT: 7.5 Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+|
 Low lvl NPC on assumed Ranger faction (Protectors of the Pine) as she cons the same as other rangers in the zone. Simil... |
 Bukem Breewood
 |
@@ -457,15 +470,15 @@ Human |
 Druid |
 6 |
 50% @ (67, -192) |
-StaffStaff
-Slot: PRIMARY SECONDARY
-Skill: 1H Blunt Atk Delay: 28
-DMG: 5
-WT: 6.5 Size: LARGE
-Class: ALL except
+Worn Great StaffWorn Great Staff
+Slot: PRIMARY
+Skill: 2H Blunt Atk Delay: 40
+DMG: 6
+WT: 10.0 Size: LARGE
+Class: ALL except BRD ROG
 Race: ALL
 (Always) |
-Casts low level druid spells. Spawns and self buffs, then runs by the druid guild getting buffs along the way. Always dr... |
+”Heed the wishes of Tunare and leave the bears of Surefall Glade undisturbed!" |
 Durvinna Barkkis
 |
 Qeynos Citizen |
@@ -496,7 +509,14 @@ Human |
 Ranger |
 31 |
 50% @ (-103, -303) |
-None |
+LongbowLongbow
+Slot: RANGE
+Skill: Archery Atk Delay: 51
+DMG: 8
+WT: 5.0 Range: 100 Size: LARGE
+Class: WAR PAL RNG SHD ROG
+Race: ALL
+|
 Description needed. |
 Gerael Woodone
 |
@@ -570,9 +590,28 @@ Ranger |
 30 |
 (-9.75, -78.74, 2.75)
 Spawns in the courtyard area in front of the building with the Ranger & Druid GM. Roams after spawning. |
-* Fine Steel Short Sword (Always) [2] 1x 100% (100%)
-Fine Steel Short Sword (Always) [2] 1x 100% (100%)
-|
+Fine Steel Short SwordFine Steel Short Sword
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing Atk Delay: 23
+DMG: 4
+WT: 4.0 Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+x2, LongbowLongbow
+Slot: RANGE
+Skill: Archery Atk Delay: 51
+DMG: 8
+WT: 5.0 Range: 100 Size: LARGE
+Class: WAR PAL RNG SHD ROG
+Race: ALL
+, ArrowArrow
+QUEST ITEM
+Slot: AMMO
+DMG: 1
+WT: 0.1 Range: 25 Size: SMALL
+Class: WAR PAL RNG SHD ROG
+Race: ALL
+, Ringmail armor |
 This is a great solo spot for people that need to go AFK often. Good money as she drops 2 fine steel short swords every ... |
 Larsk Juton
 |
@@ -612,7 +651,12 @@ Human |
 Warrior |
 38 |
 100% @ (243, -70) |
-* Human Blood |
+Human BloodHuman Blood
+MAGIC ITEM QUEST ITEM
+WT: 0.1 Size: TINY
+Class: ALL
+Race: ALL
+|
 Description needed. |
 Merona Castekin
 |
@@ -628,7 +672,12 @@ Human |
 Ranger |
 40 |
 111.34, -188.16, 1.90 |
-* Human Blood |
+Human BloodHuman Blood
+MAGIC ITEM QUEST ITEM
+WT: 0.1 Size: TINY
+Class: ALL
+Race: ALL
+|
 Casts Stinging Swarm, Careless Lightning, Healing, Cancel Magic and Flame Lick. |
 Poacher
 |
@@ -678,15 +727,15 @@ Half-Elf |
 Druid |
 30 |
 50% @ (-37, 147) |
-Great StaffGreat Staff
+Fine Steel Great StaffFine Steel Great Staff
 Slot: PRIMARY
-Skill: 2H Blunt Atk Delay: 38
+Skill: 2H Blunt Atk Delay: 36
 DMG: 9
 WT: 10.0 Size: LARGE
 Class: ALL except BRD ROG
 Race: ALL
-(Always) |
-Staff he always drops sells for 17pp, good money mob, similar to bard diet. Sell to merchant standing right next to you... |
+|
+|
 Sallah
 |
 Human |
@@ -717,7 +766,12 @@ Human |
 Bard |
 25 |
 50% @ (118, -64) |
-None |
+Human BloodHuman Blood
+MAGIC ITEM QUEST ITEM
+WT: 0.1 Size: TINY
+Class: ALL
+Race: ALL
+|
 The representative of the League of Antonican Bards in Surefall Glade.
 16 kills per bubble at lvl 30 (halfling...
 |

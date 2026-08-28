@@ -1,5 +1,5 @@
 # Crushbone (eqlwiki.com)
-fetched: 2026-08-25
+fetched: 2026-08-28
 
 Crushbone - EverQuest Legends Wiki
 Jump to content
@@ -621,7 +621,7 @@ WT: 6.5 Size: MEDIUM
 Class: ALL except CLR PAL DRU MNK
 Race: ALL
 |
-Description needed. |
+WARNING: Like many NPCs involved in newbie armor quests, Kelynn appears to have been removed in Legends. |
 Lord Darish
 |
 Orc |

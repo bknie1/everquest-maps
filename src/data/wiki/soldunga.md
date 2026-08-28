@@ -1,5 +1,5 @@
 # Solusek's_Eye (eqlwiki.com)
-fetched: 2026-08-26
+fetched: 2026-08-28
 
 Solusek's Eye - EverQuest Legends Wiki
 Jump to content
@@ -1200,7 +1200,7 @@ Kindle
 Fire Imp |
 Rogue |
 26 |
-10% @ (-10, -780) |
+(25, -550), (33, -680), (5, -770) |
 Impskin GlovesImpskin Gloves
 MAGIC ITEM
 Slot: HANDS
@@ -1218,7 +1218,8 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 |
-Kindle or his PH spawns at #2 close to the three steps leading to #1 on the map. This room has sparkling red walls, and ... |
+Kindle has multiple spawn points around the northern part of the zone: (25, -550), (33, -680), (5, -770)
+Kindle spawns ... |
 Kobold predator
 |
 Kobold |

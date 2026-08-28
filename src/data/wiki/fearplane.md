@@ -1,5 +1,5 @@
 # Plane_of_Fear (eqlwiki.com)
-fetched: 2026-08-27
+fetched: 2026-08-28
 
 Plane of Fear - EverQuest Legends Wiki
 Jump to content
@@ -123,8 +123,8 @@ Once you zone in, the only way out is either through gating, porting, or through
 It is possible to bind within the zone.
 Enemies and Loot
 General foes in the Plane of Fear drop planar-level armor for Chest, Wrist, Hands, and Feet. They can be divided into 2 groups:
-Group 1 drops armor for Wisdom casters, Berserkers, Monks, and also all pieces of Lustrous Russet Armor. (Cleric, Druid, Shaman, Beastlord, Ranger, Paladin, Berserker, Monk)
-Group 2 drops armor for Intelligence casters, Rogues, Warriors, and also all pieces of Midnight Clad Armor. (Enchanter, Magician, Necromancer, Wizard, Bard, Shadow Knight, Rogue, Warrior)
+Group 1 drops armor for Wisdom casters, Berserkers, Monks, and also all pieces of Lustrous Russet Armor. (Warrior, Cleric, Paladin, Ranger, Shadow Knight, Bard, Rogue, Shaman, Berserker)
+Group 2 drops armor for Intelligence casters, Rogues, Warriors, and also all pieces of Midnight Clad Armor. (Druid, Monk, Rogue, Necromancer, Wizard, Magician, Enchanter, Beastlord)
 Phoboplasm can drop any planar armor, including pieces that normally drop only in Plane of Hate!
 Additionally, some specific mob types also drop Cryosilk Armor or various class-specific items.
 Armor drops, condensed table
@@ -520,7 +520,7 @@ A Scareling
 Imp |
 Rogue |
 49-51 |
-See Discussion |
+|
 Various |
 These little critters look like little imps from Solsek B Efreeti area or Kindle in Solsek A. They are rogues which back... |
 A Shiverback
@@ -695,7 +695,7 @@ Amygdalan Warrior
 Denizen |
 Warrior |
 48-51 |
-See Discussion |
+|
 Various |
 These nautilus-men have above-average MR and will drain your mana with a melee proc called Mana Sink. It procs on ev... |
 Amygdalan knight
@@ -703,7 +703,7 @@ Amygdalan knight
 Denizen |
 Shadow Knight |
 49-51 |
-See Discussion |
+|
 Various |
 Opens up with Harm Touch and procs Mana Sink on every melee swing. Comes with a weak pet that can be ignored or ... |
 An enraged golem
@@ -783,7 +783,7 @@ Race: ALL
 |
 The wraith spawns every 72 hours, or when Cazic Thule spawns and repops the zone.
 Spawn location: in the top of the tem... |
-Items - Found 138 items that drop in Plane of Fear:
+Items - Found 160 items that drop in Plane of Fear:
 Item Name | Drops From | Slot | Stats |
 Amulet of NecropotenceAmulet of Necropotence
 MAGIC ITEM
@@ -811,6 +811,19 @@ Race: ALL
 Amygdalan warrior, Amygdalan knight |
 1H Slashing |
 Atk Delay: 25 DMG: 9 STR: 5 DEX: 4 WT: 2.0 Size: SMALL Class: WAR Race: ALL |
+Anthemion ArmbandsAnthemion Armbands
+Lore Equipped, No Trade, Quest
+Slot: ARMS
+AC: 5
+STR: +5 STA: +4 DEX: +9
+SV COLD: +7 SV VOID: +2
+WT: 0.2 Size: SMALL
+Class: BST
+Race: ALL
+|
+phoboplasm |
+Arms |
+AC: 5 STR: +5 STA: +4 DEX: +9 SV COLD: +7 SV VOID: +2 WT: 0.2 Size: SMALL Class: BST Race: ALL |
 Anthemion BootsAnthemion Boots
 Lore Equipped, No Trade, Quest
 Slot: FEET
@@ -820,7 +833,7 @@ WT: 0.3 Size: SMALL
 Class: BST
 Race: ALL
 |
-a boogeyman, a phantasm |
+a boogeyman, a phantasm, phoboplasm |
 Feet |
 AC: 6 STR: 4 AGI: 9 WT: 0.3 Size: SMALL Class: BST Race: ALL |
 Anthemion GlovesAnthemion Gloves
@@ -833,7 +846,7 @@ WT: 0.3 Size: SMALL
 Class: BST
 Race: ALL
 |
-a scareling, a shiverback |
+a scareling, a shiverback, phoboplasm |
 Hands |
 AC: 5 STR: 5 DEX: 6 MANA: 20 SV Magic: 7 WT: 0.3 Size: SMALL Class: BST Race: ALL |
 Anthemion JerkinAnthemion Jerkin
@@ -845,9 +858,35 @@ WT: 0.3 Size: SMALL
 Class: BST
 Race: ALL
 |
-a glare lord, a tentacle tormentor |
+a glare lord, a tentacle tormentor, phoboplasm |
 Chest |
 AC: 11 STR: 7 STA: 8 WIS: 10 AGI: 8 WT: 0.3 Size: SMALL Class: BST Race: ALL |
+Anthemion LeggingsAnthemion Leggings
+Lore Equipped, No Trade, Quest
+Slot: LEGS
+AC: 5
+STA: +7 WIS: +6 MANA: +20
+SV FIRE: +7
+WT: 0.2 Size: SMALL
+Class: BST
+Race: ALL
+|
+phoboplasm |
+Legs |
+AC: 5 STA: +7 WIS: +6 MANA: +20 SV FIRE: +7 WT: 0.2 Size: SMALL Class: BST Race: ALL |
+Anthemion SkullcapAnthemion Skullcap
+Lore Equipped, No Trade, Quest
+Slot: HEAD
+AC: 6
+DEX: 4 CHA: 8 INT: 5 HP: 20
+SV Poison: 7
+WT: 0.3 Size: SMALL
+Class: BST
+Race: ALL
+|
+phoboplasm |
+Head |
+AC: 6 DEX: 4 CHA: 8 INT: 5 HP: 20 SV Poison: 7 WT: 0.3 Size: SMALL Class: BST Race: ALL |
 Anthemion WristguardAnthemion Wristguard
 No Trade, Quest
 Slot: WRIST
@@ -858,9 +897,61 @@ WT: 0.2 Size: SMALL
 Class: BST
 Race: ALL
 |
-a decrepit warder, a samhain |
+a decrepit warder, a samhain, phoboplasm |
 Wrist |
 AC: 4 WIS: +5 AGI: +5 SV DISEASE: +5 SV POISON: +5 WT: 0.2 Size: SMALL Class: BST Race: ALL |
+Apothic BootsApothic Boots
+Lore Equipped, No Trade, Quest
+Slot: FEET
+AC: 4
+AGI: +13 HP: +18
+SV POISON: +10
+WT: 0.7 Size: SMALL
+Class: MAG
+Race: ALL
+|
+a gorgon, a nightmare, phoboplasm |
+Feet |
+AC: 4 AGI: +13 HP: +18 SV POISON: +10 WT: 0.7 Size: SMALL Class: MAG Race: ALL |
+Apothic CrownApothic Crown
+Lore Equipped, No Trade, Quest
+Slot: HEAD
+AC: 5
+CHA: +10 INT: +9 HP: +10 MANA: +10
+SV MAGIC: +10
+WT: 0.3 Size: SMALL
+Class: MAG
+Race: ALL
+|
+phoboplasm |
+Head |
+AC: 5 CHA: +10 INT: +9 HP: +10 MANA: +10 SV MAGIC: +10 WT: 0.3 Size: SMALL Class: MAG Race: ALL |
+Apothic GlovesApothic Gloves
+Lore Equipped, No Trade, Quest
+Slot: HANDS
+AC: 4
+DEX: +13 INT: +7 MANA: +12
+SV DISEASE: +10
+WT: 0.4 Size: SMALL
+Class: MAG
+Race: ALL
+|
+Various |
+Hands |
+AC: 4 DEX: +13 INT: +7 MANA: +12 SV DISEASE: +10 WT: 0.4 Size: SMALL Class: MAG Race: ALL |
+Apothic KiltApothic Kilt
+Lore Equipped, No Trade, Quest
+Slot: LEGS
+AC: 5
+STR: +5 HP: +25
+SV COLD: +10
+WT: 0.5 Size: MEDIUM
+Class: MAG
+Race: ALL
+|
+phoboplasm |
+Legs |
+AC: 5 STR: +5 HP: +25 SV COLD: +10 WT: 0.5 Size: MEDIUM Class: MAG Race: ALL |
 Apothic RobeApothic Robe
 Lore Equipped, No Trade, Quest
 Slot: CHEST
@@ -870,9 +961,34 @@ WT: 1.0 Size: MEDIUM
 Class: MAG
 Race: ALL
 |
-Amygdalan warrior, Amygdalan knight |
+Amygdalan warrior, Amygdalan knight, phoboplasm |
 Chest |
 AC: 11 DEX: +5 STA: +12 INT: +14 MANA: +40 WT: 1.0 Size: MEDIUM Class: MAG Race: ALL |
+Apothic SleevesApothic Sleeves
+Lore Equipped, No Trade, Quest
+Slot: ARMS
+AC: 4
+INT: +7 HP: +18
+SV FIRE: +10
+WT: 0.4 Size: SMALL
+Class: MAG
+Race: ALL
+|
+phoboplasm |
+Arms |
+AC: 4 INT: +7 HP: +18 SV FIRE: +10 WT: 0.4 Size: SMALL Class: MAG Race: ALL |
+Apothic WarbandApothic Warband
+No Trade, Quest
+Slot: WRIST
+AC: 3
+STR: +4 DEX: +4 MANA: +20
+WT: 0.3 Size: SMALL
+Class: MAG
+Race: ALL
+|
+a fetid fiend, a spinechiller spider, phoboplasm |
+Wrist |
+AC: 3 STR: +4 DEX: +4 MANA: +20 WT: 0.3 Size: SMALL Class: MAG Race: ALL |
 Ball of Everliving GolemBall of Everliving Golem
 QUEST LORE EQUIP NO TRADE
 Slot: RANGE
@@ -947,7 +1063,7 @@ WT: 0.3 Size: SMALL
 Class: NEC
 Race: ALL
 |
-a fetid fiend, a spinechiller spider |
+a fetid fiend, a spinechiller spider, phoboplasm |
 Wrist |
 AC: 3 STR: +4 DEX: +5 MANA: +15 WT: 0.3 Size: SMALL Class: NEC Race: ALL |
 Blighted BootsBlighted Boots
@@ -960,7 +1076,7 @@ WT: 0.7 Size: SMALL
 Class: NEC
 Race: ALL
 |
-a gorgon, a nightmare |
+a gorgon, a nightmare, phoboplasm |
 Feet |
 AC: 4 AGI: +14 HP: +5 SV POISON: +10 WT: 0.7 Size: SMALL Class: NEC Race: ALL |
 Blighted GlovesBlighted Gloves
@@ -973,7 +1089,7 @@ WT: 0.4 Size: SMALL
 Class: NEC
 Race: ALL
 |
-a frightfinger, a turmoil toad, a worry wraith |
+Various |
 Hands |
 AC: 4 DEX: +10 INT: +8 MANA: +12 SV DISEASE: +10 WT: 0.4 Size: SMALL Class: NEC Race: ALL |
 Blighted RobeBlighted Robe
@@ -985,7 +1101,7 @@ WT: 1.0 Size: MEDIUM
 Class: NEC
 Race: ALL
 |
-Amygdalan warrior, Amygdalan knight |
+Amygdalan warrior, Amygdalan knight, phoboplasm |
 Chest |
 AC: 11 DEX: +10 STA: +10 INT: +13 MANA: +40 WT: 1.0 Size: MEDIUM Class: NEC Race: ALL |
 Blighted SkullcapBlighted Skullcap
@@ -998,7 +1114,7 @@ WT: 0.3 Size: SMALL
 Class: NEC
 Race: ALL
 |
-None? |
+phoboplasm |
 Head |
 AC: 5 WIS: +7 INT: +8 HP: +10 MANA: +20 SV MAGIC: +10 WT: 0.3 Size: SMALL Class: NEC Race: ALL |
 Blighted SleevesBlighted Sleeves
@@ -1011,7 +1127,7 @@ WT: 0.4 Size: SMALL
 Class: NEC
 Race: ALL
 |
-None? |
+phoboplasm |
 Arms |
 AC: 5 INT: +7 HP: +15 SV FIRE: +10 WT: 0.4 Size: SMALL Class: NEC Race: ALL |
 Blighted TrousersBlighted Trousers
@@ -1024,7 +1140,7 @@ WT: 0.7 Size: MEDIUM
 Class: NEC
 Race: ALL
 |
-None? |
+phoboplasm |
 Legs |
 AC: 5 STR: +3 DEX: +4 HP: +10 SV COLD: +10 WT: 0.7 Size: MEDIUM Class: NEC Race: ALL |
 Blood FireBlood Fire
@@ -1088,7 +1204,7 @@ WT: 0.7 Size: SMALL
 Class: WIZ
 Race: ALL
 |
-a frightfinger, a gorgon, a nightmare |
+a gorgon, a nightmare, phoboplasm |
 Feet |
 AC: 4 AGI: +14 HP: +10 SV POISON: +10 WT: 0.7 Size: SMALL Class: WIZ Race: ALL |
 Carmine GlovesCarmine Gloves
@@ -1101,7 +1217,7 @@ WT: 0.4 Size: SMALL
 Class: WIZ
 Race: ALL
 |
-a frightfinger, a turmoil toad, a worry wraith |
+Various |
 Hands |
 AC: 4 DEX: +12 INT: +7 MANA: +15 SV DISEASE: +10 WT: 0.4 Size: SMALL Class: WIZ Race: ALL |
 Carmine PantsCarmine Pants
@@ -1114,7 +1230,7 @@ WT: 0.7 Size: MEDIUM
 Class: WIZ
 Race: ALL
 |
-a frightfinger |
+phoboplasm |
 Legs |
 AC: 5 STR: +3 STA: +3 HP: +15 SV COLD: +10 WT: 0.7 Size: MEDIUM Class: WIZ Race: ALL |
 Carmine RobeCarmine Robe
@@ -1126,7 +1242,7 @@ WT: 1.0 Size: MEDIUM
 Class: WIZ
 Race: ALL
 |
-a frightfinger, Amygdalan warrior, Amygdalan knight |
+Amygdalan warrior, Amygdalan knight, phoboplasm |
 Chest |
 AC: 11 DEX: +7 STA: +14 INT: +14 MANA: +30 WT: 1.0 Size: MEDIUM Class: WIZ Race: ALL |
 Carmine SleevesCarmine Sleeves
@@ -1139,7 +1255,7 @@ WT: 0.4 Size: SMALL
 Class: WIZ
 Race: ALL
 |
-a frightfinger |
+phoboplasm |
 Arms |
 AC: 4 INT: +7 HP: +20 SV FIRE: +10 WT: 0.4 Size: SMALL Class: WIZ Race: ALL |
 Carmine TrinketCarmine Trinket
@@ -1151,7 +1267,7 @@ WT: 0.3 Size: SMALL
 Class: WIZ
 Race: ALL
 |
-a fetid fiend, a frightfinger, a spinechiller spider |
+a fetid fiend, a spinechiller spider, phoboplasm |
 Wrist |
 AC: 3 STR: +2 DEX: +6 MANA: +15 WT: 0.3 Size: SMALL Class: WIZ Race: ALL |
 Carmine TurbanCarmine Turban
@@ -1164,7 +1280,7 @@ WT: 0.3 Size: SMALL
 Class: WIZ
 Race: ALL
 |
-a frightfinger |
+phoboplasm |
 Head |
 AC: 5 STA: +5 CHA: +10 INT: +7 HP: +10 MANA: +10 SV MAGIC: +10 WT: 0.3 Size: SMALL Class: WIZ Race: ALL |
 Cazic's SkinCazic's Skin
@@ -1419,7 +1535,7 @@ WT: 4.9 Size: MEDIUM
 Class: CLR
 Race: ALL
 |
-a boogeyman, a phantasm |
+a boogeyman, a phantasm, phoboplasm |
 Feet |
 AC: 15 INT: +5 AGI: +5 SV COLD: +7 WT: 4.9 Size: MEDIUM Class: CLR Race: ALL |
 Ethereal Mist BracersEthereal Mist Bracers
@@ -1431,7 +1547,7 @@ WT: 3.0 Size: SMALL
 Class: CLR
 Race: HUM ERU HIE DEF DWF HFL GNM
 |
-a decrepit warder, a samhain |
+a decrepit warder, a samhain, phoboplasm |
 Wrist |
 AC: 9 DEX: +9 CHA: +9 MANA: +20 WT: 3.0 Size: SMALL Class: CLR Race: HUM ERU HIE DEF DWF HFL GNM |
 Ethereal Mist ChestplateEthereal Mist Chestplate
@@ -1443,7 +1559,7 @@ WT: 7.5 Size: LARGE
 Class: CLR
 Race: ALL
 |
-a glare lord, a tentacle tormentor |
+a glare lord, a tentacle tormentor, phoboplasm |
 Chest |
 AC: 28 STA: +15 WIS: +15 HP: +25 MANA: +25 WT: 7.5 Size: LARGE Class: CLR Race: ALL |
 Ethereal Mist GauntletsEthereal Mist Gauntlets
@@ -1456,9 +1572,48 @@ WT: 3.8 Size: SMALL
 Class: CLR
 Race: ALL
 |
-a scareling, a shiverback |
+a scareling, a shiverback, phoboplasm |
 Hands |
 AC: 12 DEX: +5 INT: +5 SV FIRE: +7 WT: 3.8 Size: SMALL Class: CLR Race: ALL |
+Ethereal Mist GreavesEthereal Mist Greaves
+Lore Equipped, No Trade, Quest
+Slot: LEGS
+AC: 15
+STR: +5 WIS: +9 AGI: +5
+SV POISON: +7
+WT: 5.6 Size: LARGE
+Class: CLR
+Race: ALL
+|
+phoboplasm |
+Legs |
+AC: 15 STR: +5 WIS: +9 AGI: +5 SV POISON: +7 WT: 5.6 Size: LARGE Class: CLR Race: ALL |
+Ethereal Mist HelmEthereal Mist Helm
+Lore Equipped, No Trade, Quest
+Slot: HEAD
+AC: 16
+STR: +5 WIS: +5
+SV DISEASE: +13
+WT: 4.5 Size: SMALL
+Class: CLR
+Race: ALL
+|
+phoboplasm |
+Head |
+AC: 16 STR: +5 WIS: +5 SV DISEASE: +13 WT: 4.5 Size: SMALL Class: CLR Race: ALL |
+Ethereal Mist VambracesEthereal Mist Vambraces
+Lore Equipped, No Trade, Quest
+Slot: ARMS
+AC: 15
+STR: +9
+SV MAGIC: +7
+WT: 4.9 Size: SMALL
+Class: CLR
+Race: ALL
+|
+phoboplasm |
+Arms |
+AC: 15 STR: +9 SV MAGIC: +7 WT: 4.9 Size: SMALL Class: CLR Race: ALL |
 Eye of Cazic ThuleEye of Cazic Thule
 MAGIC ITEM LORE ITEM NO DROP
 Slot: FACE
@@ -1682,6 +1837,19 @@ Race: ALL
 Wraith of a Shissar |
 (None) |
 MAGIC ITEM LORE ITEM NO DROP WT: 1.0 Size: SMALL Class: ALL Race: ALL |
+Imbrued Platemail BootsImbrued Platemail Boots
+Lore Equipped, No Trade, Quest
+Slot: FEET
+AC: 16
+STR: +5 STA: +9
+SV COLD: +10
+WT: 4.9 Size: MEDIUM
+Class: BRD
+Race: ALL
+|
+a gorgon, a nightmare, phoboplasm |
+Feet |
+AC: 16 STR: +5 STA: +9 SV COLD: +10 WT: 4.9 Size: MEDIUM Class: BRD Race: ALL |
 Imbrued Platemail BracerImbrued Platemail Bracer
 No Trade, Quest
 Slot: WRIST
@@ -1691,7 +1859,7 @@ WT: 3.0 Size: SMALL
 Class: BRD
 Race: ALL
 |
-a fetid fiend, a spinechiller spider |
+a fetid fiend, a spinechiller spider, phoboplasm |
 Wrist |
 AC: 11 DEX: +3 INT: +3 HP: +10 WT: 3.0 Size: SMALL Class: BRD Race: ALL |
 Imbrued Platemail BreastplateImbrued Platemail Breastplate
@@ -1704,9 +1872,86 @@ WT: 7.5 Size: LARGE
 Class: BRD
 Race: ALL
 |
-Amygdalan warrior, Amygdalan knight |
+Amygdalan warrior, Amygdalan knight, phoboplasm |
 Chest |
 AC: 29 STR: +9 DEX: +13 CHA: +9 SV DISEASE: +10 WT: 7.5 Size: LARGE Class: BRD Race: ALL |
+Imbrued Platemail GauntletsImbrued Platemail Gauntlets
+Lore Equipped, No Trade, Quest
+Slot: HANDS
+AC: 14
+DEX: +5 WIS: +5 HP: +10
+WT: 3.8 Size: SMALL
+Class: BRD
+Race: ALL
+|
+Various |
+Hands |
+AC: 14 DEX: +5 WIS: +5 HP: +10 WT: 3.8 Size: SMALL Class: BRD Race: ALL |
+Imbrued Platemail GreavesImbrued Platemail Greaves
+Lore Equipped, No Trade, Quest
+Slot: LEGS
+AC: 16
+STR: +5 STA: +9 AGI: +9
+SV MAGIC: +10
+WT: 5.6 Size: LARGE
+Class: BRD
+Race: ALL
+|
+phoboplasm |
+Legs |
+AC: 16 STR: +5 STA: +9 AGI: +9 SV MAGIC: +10 WT: 5.6 Size: LARGE Class: BRD Race: ALL |
+Imbrued Platemail HelmImbrued Platemail Helm
+Lore Equipped, No Trade, Quest
+Slot: HEAD
+AC: 16
+CHA: +9 WIS: +9
+SV FIRE: +10
+WT: 4.5 Size: SMALL
+Class: BRD
+Race: ALL
+|
+phoboplasm |
+Head |
+AC: 16 CHA: +9 WIS: +9 SV FIRE: +10 WT: 4.5 Size: SMALL Class: BRD Race: ALL |
+Imbrued Platemail VambracesImbrued Platemail Vambraces
+Lore Equipped, No Trade, Quest
+Slot: ARMS
+AC: 16
+INT: +9
+SV POISON: +10
+WT: 4.9 Size: SMALL
+Class: BRD
+Race: ALL
+|
+phoboplasm |
+Arms |
+AC: 16 INT: +9 SV POISON: +10 WT: 4.9 Size: SMALL Class: BRD Race: ALL |
+Indicolite BootsIndicolite Boots
+Lore Equipped, No Trade, Quest
+Slot: FEET
+AC: 20
+WIS: +5 INT: +5 AGI: +5
+SV DISEASE: +15 SV POISON: +15
+WT: 4.9 Size: MEDIUM
+Class: WAR
+Race: ALL
+|
+a gorgon, a nightmare, phoboplasm |
+Feet |
+AC: 20 WIS: +5 INT: +5 AGI: +5 SV DISEASE: +15 SV POISON: +15 WT: 4.9 Size: MEDIUM Class: WAR Race: ALL |
+Indicolite BracerIndicolite Bracer
+No Trade, Quest
+Slot: WRIST
+AC: 12
+STR: +3 DEX: +3
+SV FIRE: +7 SV COLD: +7 SV MAGIC: +7
+WT: 3.0 Size: SMALL
+Class: WAR
+Race: ALL
+|
+a fetid fiend, a spinechiller spider, phoboplasm |
+Wrist |
+AC: 12 STR: +3 DEX: +3 SV FIRE: +7 SV COLD: +7 SV MAGIC: +7 WT: 3.0 Size: SMALL Class: WAR Race: ALL |
 Indicolite BreastplateIndicolite Breastplate
 Lore Equipped, No Trade, Quest
 Slot: CHEST
@@ -1716,7 +1961,7 @@ WT: 7.5 Size: LARGE
 Class: WAR
 Race: ALL
 |
-Amygdalan warrior, Amygdalan knight |
+Amygdalan warrior, Amygdalan knight, phoboplasm |
 Chest |
 AC: 35 STR: +15 DEX: +15 STA: +15 WT: 7.5 Size: LARGE Class: WAR Race: ALL |
 Indicolite GauntletsIndicolite Gauntlets
@@ -1728,9 +1973,45 @@ WT: 3.8 Size: SMALL
 Class: WAR
 Race: ALL
 |
-a frightfinger, a turmoil toad, a worry wraith |
+Various |
 Hands |
 AC: 16 DEX: +5 STA: +5 HP: +50 WT: 3.8 Size: SMALL Class: WAR Race: ALL |
+Indicolite GreavesIndicolite Greaves
+Lore Equipped, No Trade, Quest
+Slot: LEGS
+AC: 20
+STR: +5 STA: +5 AGI: +5
+WT: 5.6 Size: LARGE
+Class: WAR
+Race: ALL
+|
+phoboplasm |
+Legs |
+AC: 20 STR: +5 STA: +5 AGI: +5 WT: 5.6 Size: LARGE Class: WAR Race: ALL |
+Indicolite HelmIndicolite Helm
+Lore Equipped, No Trade, Quest
+Slot: HEAD
+AC: 20
+CHA: +5 INT: +5
+WT: 4.5 Size: SMALL
+Class: WAR
+Race: ALL
+|
+phoboplasm |
+Head |
+AC: 20 CHA: +5 INT: +5 WT: 4.5 Size: SMALL Class: WAR Race: ALL |
+Indicolite VambracesIndicolite Vambraces
+Lore Equipped, No Trade, Quest
+Slot: ARMS
+AC: 20
+STR: +9 DEX: +5
+WT: 4.9 Size: SMALL
+Class: WAR
+Race: ALL
+|
+phoboplasm |
+Arms |
+AC: 20 STR: +9 DEX: +5 WT: 4.9 Size: SMALL Class: WAR Race: ALL |
 Insidious RobeInsidious Robe
 Lore Equipped, No Trade, Quest
 Slot: CHEST
@@ -2878,13 +3159,13 @@ Shadow Knight |
 Avatar Power, Panic (random target), Enrage |
 All mobs will zone-wide social aggro with Cazic when he is engaged. Avatar Power is a top slot dispel. See page for full encounter details.
 |
-Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Fear&oldid=170878"
+Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Fear&oldid=174287"
 Categories: Classic Era
 Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 20 August 2026, at 11:43.
+This page was last edited on 28 August 2026, at 14:10.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

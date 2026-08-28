@@ -1,5 +1,5 @@
 # The_Hole (eqlwiki.com)
-fetched: 2026-08-25
+fetched: 2026-08-28
 
 The Hole - EverQuest Legends Wiki
 Jump to content
@@ -97,7 +97,7 @@ Elementals, Erudite Ghosts, Golems, Humans, Iksar, Imps, Mimics, Ratmen, Skeleto
 |
 Notable NPCs:
 |
-Bejeweled Elemental, Commander Yarik, Caradon, Dartain the Lost, Ghost of Kindle, Ghost of Glohnor, Gibartik, High Scale Kirn, Initiate Sirlis, Irslak the Wretched, Jaeil the Wretched, Keeper of the Tombs, Kejar the Mighty, Niltoth the Unholy, Nortlav the Scalekeeper, Polzin Mrid, a ratman guard, Rocksoul, Schnozz the Flighty, Stonegrinder Minion, Stonesoul the Unmoving, Ulrik the Devout
+Bejeweled Elemental, Commander Yarik, Caradon, Dartain the Lost, Ghost of Kindle, Ghost of Glohnor, Gibartik, High Scale Kirn, Initiate Sirlis, Irslak the Wretched, Jaeil the Wretched, Keeper of the Tombs, Kejar the Mighty, Niltoth the Unholy, Nortlav the Scalekeeper, Polzin Mrid, a ratman guard, Rocksoul, Schnozz the Flighty, Stonegrinder Minion, Stonesoul the Unmoving, Ulrik the Devout, Retseth Tretse
 |
 Unique Items:
 |
@@ -1339,7 +1339,7 @@ WT: 2.5 Size: TINY
 Class: ALL
 Race: ALLFocus Effect: Improved Healing III
 |
-Slizik the Mighty |
+Slizik the Mighty, Retseth Tretse |
 Range, Primary, Secondary |
 STR: +3 HP: +20 MANA: +20 WT: 2.5 Size: TINY Class: ALL Race: ALL |
 Imbued Granite SpauldersImbued Granite Spaulders
@@ -1539,7 +1539,7 @@ WT: 1.9 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 |
-a rock golem |
+a rock golem, Retseth Tretse |
 1H Blunt |
 Atk Delay: 20 DMG: 8 STR: +3 WT: 1.9 Size: MEDIUM Class: ALL except NEC WIZ MAG ENC Race: ALL |
 Paineel Splinted CloakPaineel Splinted Cloak
@@ -1981,13 +1981,13 @@ The Hole
 Solo vs. Multiplayer
 When creating the raid instance, players can choose between solo and multiplayer instances. These instances share lockouts, so players cannot do both in the same week and receive full loot.
 There are no differences in trash mobs between solo and multiplayer instances. The raid instance has two elementals and a fiery fiend in the room with Master Yael. These trash mobs path around the room, and will often pull Master Yael when engaged.
-Retrieved from "https://eqlwiki.com/index.php?title=The_Hole&oldid=172278"
+Retrieved from "https://eqlwiki.com/index.php?title=The_Hole&oldid=173983"
 Categories: Classic Era
 Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 24 August 2026, at 18:37.
+This page was last edited on 28 August 2026, at 01:59.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

@@ -1,5 +1,5 @@
 # Kedge_Keep (eqlwiki.com)
-fetched: 2026-08-27
+fetched: 2026-08-28
 
 Kedge Keep - EverQuest Legends Wiki
 Jump to content
@@ -1476,7 +1476,7 @@ Undertow |
 Shoulders |
 AC: 5 STA: +5 MANA: +50 WT: 0.3 Size: SMALL Class: NEC WIZ MAG ENC Race: ALL |
 Staff of Elemental Mastery: WaterStaff of Elemental Mastery: Water
-Lore Equipped, No Trade, Quest, Placeable
+Lore Equipped, No Trade, Placeable, Quest
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 30
 DMG: 15
@@ -1619,7 +1619,7 @@ WT: 1.5 Size: MEDIUM
 Class: SHM
 Race: ALL
 , Staff of Elemental Mastery: WaterStaff of Elemental Mastery: Water
-Lore Equipped, No Trade, Quest, Placeable
+Lore Equipped, No Trade, Placeable, Quest
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 30
 DMG: 15

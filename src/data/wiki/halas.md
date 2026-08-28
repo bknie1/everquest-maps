@@ -1,5 +1,5 @@
 # Halas (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-28
 
 Halas - EverQuest Legends Wiki
 Jump to content
@@ -418,7 +418,7 @@ Race: ALL
 Jinkus Felligan |
 1 |
 ? |
-Western Plains of Karana |
+Western Karana |
 Einhorst McMannus, Holana Oleary |
 Langseax Quest
 |

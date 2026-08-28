@@ -1,5 +1,5 @@
 # Lesser_Faydark (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-28
 
 Lesser Faydark - EverQuest Legends Wiki
 Jump to content
@@ -635,7 +635,11 @@ Dark Elf |
 Warrior |
 45 |
 (-902, 1185) |
-None |
+Fish WineFish Wine
+WT: 0.4 Size: SMALL
+Class: ALL
+Race: ALL
+|
 He is on the south wall inside a Tent in the highly crowded Tier'Dal Dark Elf camp (15 on the Map) close to a Wood Elf c... |
 Equestrielle
 |
