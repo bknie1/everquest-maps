@@ -1,5 +1,5 @@
 # Everfrost_Peaks (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-29
 
 Everfrost Peaks - EverQuest Legends Wiki
 Jump to content
@@ -1048,7 +1048,7 @@ Wood Elf |
 (3100, 750) |
 |
 Part of the Holiday 2025 event The Cracking of the Icestar. |
-Items - Found 46 items that drop in Everfrost Peaks:
+Items - Found 47 items that drop in Everfrost Peaks:
 Item Name | Drops From | Slot | Stats |
 Barbarian MeatBarbarian Meat
 WT: 1.0 Size: SMALL
@@ -1182,6 +1182,14 @@ Race: ALL
 None? |
 (None) |
 WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Everfrost TroutEverfrost Trout
+Size: TINY WT: 0.5
+Class: None
+Race: None
+|
+None? |
+(None) |
+Size: TINY WT: 0.5 Class: None Race: None |
 Garsen's Brewing ListGarsen's Brewing List
 WT: 0.1 Size: TINY
 |

@@ -1,5 +1,5 @@
 # Crushbone (eqlwiki.com)
-fetched: 2026-08-28
+fetched: 2026-08-29
 
 Crushbone - EverQuest Legends Wiki
 Jump to content
@@ -940,7 +940,8 @@ WT: 1.0 Size: SMALL
 Class: ALL
 Race: ALL
 |
-To evil players, this gnome is an absolute nightmare. Arguably more dangerous than Ambassador DVinn. |
+To evil players, this gnome is an absolute nightmare. Arguably more dangerous than Ambassador DVinn.
+When dying, he... |
 Rondo Dunfire
 |
 Dwarf |

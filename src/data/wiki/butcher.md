@@ -1,5 +1,5 @@
 # Butcherblock_Mountains (eqlwiki.com)
-fetched: 2026-08-25
+fetched: 2026-08-29
 
 Butcherblock Mountains - EverQuest Legends Wiki
 Jump to content
@@ -1201,7 +1201,7 @@ WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
-24 Minute Respawn - will social with Guard Kyte. |
+|
 Guard Grae
 |
 Kaladim Citizen |
@@ -1294,7 +1294,7 @@ WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
-24 Minute respawn - Will social with Guard Gonin. |
+|
 Guard Mandin
 |
 Dwarf |

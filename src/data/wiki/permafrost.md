@@ -1,5 +1,5 @@
 # Permafrost_Keep (eqlwiki.com)
-fetched: 2026-08-27
+fetched: 2026-08-29
 
 Permafrost - EverQuest Legends Wiki
 Jump to content
@@ -593,7 +593,16 @@ Polar Bear |
 Warrior |
 43-47 |
 |
-Various |
+Bear MeatBear Meat
+QUEST ITEM
+WT: 1.0 Size: SMALL
+Class: ALL
+Race: ALL
+, Giant Polar Bear SkinGiant Polar Bear Skin
+WT: 7.5 Size: LARGE
+Class: ALL
+Race: ALL
+|
 Popular targets for druids to charm |
 A goblin alchemist (Permafrost)
 |

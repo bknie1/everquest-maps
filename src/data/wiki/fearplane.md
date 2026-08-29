@@ -1,5 +1,5 @@
 # Plane_of_Fear (eqlwiki.com)
-fetched: 2026-08-28
+fetched: 2026-08-29
 
 Plane of Fear - EverQuest Legends Wiki
 Jump to content
@@ -2599,7 +2599,7 @@ WT: 7.5 Size: LARGE
 Class: PAL
 Race: ALL
 |
-a glare lord, a tentacle tormentor |
+a glare lord, a tentacle tormentor, a fetid fiend (Raid Only?) |
 Chest |
 AC: 30 STR: +13 STA: +9 WIS: +9 WT: 7.5 Size: LARGE Class: PAL Race: ALL |
 Valorium GauntletsValorium Gauntlets

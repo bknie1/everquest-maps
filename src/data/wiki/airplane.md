@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-08-28
+fetched: 2026-08-29
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -296,7 +296,7 @@ Common: a blade storm
 Other: a presence, Gwan
 Key required: Key of Swords
 Reached through the western teleporter on Island 1.
-This small island features a windmill and a portal to island 2. Noble Dojorn, the boss of this island, is the first kill in the Efreeti Cycle, and drops coveted Efreeti pieces required for several Sky Quests. Killing him will also Spawn the Overseer of Air on Island 4. No key pieces drop here. Hopefully you already got the key for island 2, otherwise you'll be stuck here unless you die, fall, or wizard port back to island 1. Evacuate, Succor, and Exodus also work.
+This small island features a windmill and a portal to island 2. Noble Dojorn, the boss of this island, is the first kill in the Efreeti Cycle, and drops coveted Efreeti pieces required for several Sky Quests. Killing him will also Spawn the Overseer of Air on Island 4. No key pieces drop here. Hopefully you already got the key for island 2, otherwise you'll be stuck here unless you die, fall (East Freeport), Gate (bind point), Succor, or wizard port back to island 1. Evacuate & Exodus also work.
 Note that the blade storms WILL assist the Noble Dojorn. There's one less on solo mode than on group mode.
 Island 2: Azarack Island
 Boss: Protector of Sky
@@ -6124,13 +6124,13 @@ Race: ALL
 Protector of Sky |
 (None) |
 LORE ITEM WT: 6.0 Size: MEDIUM Class: ALL Race: ALL |
-Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Sky&oldid=173880"
+Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Sky&oldid=174464"
 Categories: Sky Era
 Classic Era
 Zones
 How to Contribute
 Donate
-This page was last edited on 27 August 2026, at 17:38.
+This page was last edited on 28 August 2026, at 17:27.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

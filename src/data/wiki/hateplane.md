@@ -1,5 +1,5 @@
 # Plane_of_Hate (eqlwiki.com)
-fetched: 2026-08-28
+fetched: 2026-08-29
 
 Plane of Hate - EverQuest Legends Wiki
 Jump to content
@@ -1049,7 +1049,7 @@ Avatar of Abhorrence
 Gargoyle |
 Rogue |
 58 |
-(-72, 273) - Upstairs |
+(-117, -65, 50) - Upstairs of Cathedral on 1st level |
 Always drops two pieces of Woven Shadow Armor, VexthorneVexthorne
 Lore Equipped, No Trade, Placeable
 Slot: PRIMARY SECONDARY
@@ -2543,7 +2543,7 @@ WT: 4.9 Size: MEDIUM
 Class: WAR
 Race: ALL
 |
-a haunted chest |
+a haunted chest, Innoruuk's Chosen (Raid) |
 Feet |
 AC: 20 WIS: +5 INT: +5 AGI: +5 SV DISEASE: +15 SV POISON: +15 WT: 4.9 Size: MEDIUM Class: WAR Race: ALL |
 Indicolite BracerIndicolite Bracer

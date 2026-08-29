@@ -1,5 +1,5 @@
 # East_Freeport (eqlwiki.com)
-fetched: 2026-08-27
+fetched: 2026-08-29
 
 Freeport - EverQuest Legends Wiki
 Jump to content
@@ -2254,7 +2254,7 @@ WT: 1.0 Size: TINY
 Class: ALL
 Race: ALL
 |
-Down by the docks off to the side. Another version of the NPC exists in the Qeynos Catacombs. Between 7PM and 5AM sp... |
+Down by the docks off to the side. Spawns at that location between 5 AM and 6 AM. Despawns from that location between 7 ... |
 Banor Raglesin
 |
 Freeport Guards |
@@ -2434,7 +2434,8 @@ Rogue |
 14 - 16 |
 100% @ (-361, -1100) |
 None |
-Down by the docks off to the side. Between 5AM and 7PM spawn is Bait Masterson. |
+Down by the docks off to the side. Spawns between 8 PM and 9 PM. Despawns between 5 AM and 6 AM.
+Between 5 AM and 7... |
 Gord Smith
 |
 Freeport Guards |

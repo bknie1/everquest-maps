@@ -1,5 +1,5 @@
 # Neriak_Third_Gate (eqlwiki.com)
-fetched: 2026-08-18
+fetched: 2026-08-29
 
 Neriak - EverQuest Legends Wiki
 Jump to content
@@ -1933,20 +1933,12 @@ None |
 Lokar To`Biath |
 Death of Lyda Nasin
 |
-Cinctured WhipCinctured Whip
-LORE ITEM
-Slot: PRIMARY SECONDARY WAIST
-Skill: Piercing Atk Delay: 30
-DMG: 5BACKSTAB: 5 AC: 2
-WT: 5.0 Size: MEDIUM
-Class: SHD BRD ROG
-Race: ALL
+? |
 |
-Tani N`Mar |
-4 |
-Bard, Rogue, Shadow Knight |
-East Freeport |
-Giz Dinree, Lyda Nasin |
+|
+|
+|
+|
 Divine Duty
 |
 Cures, Healing |
@@ -2163,8 +2155,16 @@ Loveal S`Nez |
 Necromancer, Shadow Knight |
 Befallen |
 Kizdean Gix, Skeleton Lrodd, Commander Windstream, An Elf Skeleton |
-NPCs - Found 74 NPCs that spawn in Neriak Third Gate:
+NPCs - Found 77 NPCs that spawn in Neriak Third Gate:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
+A spectral shimmer
+|
+Undead Froglok |
+Paladin |
+1 |
+(1279, -1655, -67) |
+|
+Spawns after killing Gribnor the Small, then paths to the location above on the balcony. Despawns after ~25 minutes.... |
 Ambassador Rylan
 |
 Dark Elf |
@@ -2343,6 +2343,38 @@ Merchant |
 (703, -1472) |
 |
 Located upstairs inside Cuisine Excelsior #8 on map. |
+Gribnor's Thug
+|
+Troll |
+Warrior |
+50 |
+(1282, -1628, -67) and (1282, -1659, -67) |
+Rusty Bastard SwordRusty Bastard Sword
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing Atk Delay: 42
+DMG: 6
+WT: 9.0 Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+x2 |
+A pair of these thugs flank Gribnor the Small and assist him. Immune to Lull and Mesmerize. Can be charmed. Dual wie... |
+Gribnor the Small
+|
+Troll |
+Shadow Knight |
+52 |
+(1277, -1643, -67) |
+Zraxthril Forged FlambergeZraxthril Forged Flamberge
+Attunable
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing Atk Delay: 35
+DMG: 9
+STR: +2 WIS: +1 HP: +5 Mana: +5 End: +5
+WT: 6.0 Size: LARGE
+Class: WAR PAL RNG SHD DRU BRD ROG
+Race: ALL
+|
+Is, indeed, a small Troll. Summons. Immune to Lull, Mesmerize, and Charm. Assisted by a pair of [[Gribnor's Thug|Gribnor... |
 Hekzin G`Zule
 |
 Dark Elf |
@@ -2917,17 +2949,16 @@ Ratraz |
 1H Blunt |
 Atk Delay: 32 DMG: 6 WT: 5.0 Size: MEDIUM Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM Race: ALL |
 Zraxthril Forged FlambergeZraxthril Forged Flamberge
-LORE ITEM
+Attunable
 Slot: PRIMARY SECONDARY
-Skill: 1H Slashing
-Atk Delay: 35
+Skill: 1H Slashing Atk Delay: 35
 DMG: 9
 STR: +2 WIS: +1 HP: +5 Mana: +5 End: +5
 WT: 6.0 Size: LARGE
 Class: WAR PAL RNG SHD DRU BRD ROG
 Race: ALL
 |
-None? |
+Gribnor the Small |
 1H Slashing |
 Atk Delay: 35 DMG: 9 STR: +2 WIS: +1 HP: +5 Mana: +5 End: +5 WT: 6.0 Size: LARGE Class: WAR PAL RNG SHD DRU BRD ROG Race: ALL |
 External links

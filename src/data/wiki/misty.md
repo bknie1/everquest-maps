@@ -1,5 +1,5 @@
 # Misty_Thicket (eqlwiki.com)
-fetched: 2026-08-27
+fetched: 2026-08-29
 
 Misty Thicket - EverQuest Legends Wiki
 Jump to content
@@ -187,7 +187,7 @@ INT: -3 AGI: +3
 SV POISON: +10
 Effect: Cure Poison (Clicky, Casting Time: Instant)
 WT: 1.0 Size: SMALL
-Class: BRD BER CLR DRU ENC MAG MNK NEC PAL RNG ROG RHA RHD WAR WIZ
+Class: BRD BER CLR DRU ENC MAG MNK NEC PAL RNG ROG SHM SHD WAR WIZ
 Race: ALL
 , Spider VenomSpider Venom
 Quest

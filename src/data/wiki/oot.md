@@ -1,5 +1,5 @@
 # Ocean_of_Tears (eqlwiki.com)
-fetched: 2026-08-24
+fetched: 2026-08-29
 
 Ocean of Tears - EverQuest Legends Wiki
 Jump to content
@@ -94,11 +94,11 @@ Capt Surestout, Nerbilik, Oracle of K`Arnon, Boog Mudtoe and Goob Mudtoe, Gornit
 |
 Unique Items:
 |
-A Locked ChestA Locked Chest
-LORE ITEM NO DROP
-WT: 0.0 Size: TINY
-Class: NONE
-Race: NONE
+Locked ChestLocked Chest
+NO DROP
+Class: ALL
+Race: ALL
+WT: 10.0 Size: MEDIUM
 , Purity BeltPurity Belt
 Slot: WAIST
 AC: 3
