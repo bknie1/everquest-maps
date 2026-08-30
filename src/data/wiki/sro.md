@@ -1,5 +1,5 @@
 # South_Ro (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-30
 
 Southern Desert of Ro - EverQuest Legends Wiki
 Jump to content
@@ -320,7 +320,7 @@ Warrior |
 1 |
 Various |
 Snake FangSnake Fang
-QUEST ITEM
+Quest
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
@@ -437,7 +437,7 @@ WT: 0.2 Size: TINY
 Class: ALL
 Race: ALL
 , Snake FangSnake Fang
-QUEST ITEM
+Quest
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
@@ -479,7 +479,7 @@ Warrior |
 4-6 |
 Various |
 Snake FangSnake Fang
-QUEST ITEM
+Quest
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL

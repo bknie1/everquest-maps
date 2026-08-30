@@ -1,5 +1,5 @@
 # West_Commonlands (eqlwiki.com)
-fetched: 2026-08-24
+fetched: 2026-08-30
 
 West Commonlands - EverQuest Legends Wiki
 Jump to content
@@ -462,7 +462,7 @@ WT: 0.2 Size: TINY
 Class: ALL
 Race: ALL
 , Snake FangSnake Fang
-QUEST ITEM
+Quest
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL

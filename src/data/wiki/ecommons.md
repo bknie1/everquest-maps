@@ -1,5 +1,5 @@
 # East_Commonlands (eqlwiki.com)
-fetched: 2026-08-21
+fetched: 2026-08-30
 
 East Commonlands - EverQuest Legends Wiki
 Jump to content
@@ -346,7 +346,7 @@ Warrior |
 1 |
 Various |
 Snake FangSnake Fang
-QUEST ITEM
+Quest
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
@@ -451,7 +451,7 @@ WT: 0.2 Size: TINY
 Class: ALL
 Race: ALL
 , Snake FangSnake Fang
-QUEST ITEM
+Quest
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL

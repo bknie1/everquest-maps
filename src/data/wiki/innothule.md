@@ -1,5 +1,5 @@
 # Innothule_Swamp (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-30
 
 Innothule Swamp - EverQuest Legends Wiki
 Jump to content
@@ -390,7 +390,7 @@ WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
 , Snake FangSnake Fang
-QUEST ITEM
+Quest
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
@@ -439,7 +439,7 @@ Warrior |
 1 |
 Various |
 Snake FangSnake Fang
-QUEST ITEM
+Quest
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL

@@ -1,5 +1,5 @@
 # Nektulos_Forest (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-30
 
 Nektulos Forest - EverQuest Legends Wiki
 Jump to content
@@ -420,7 +420,7 @@ Warrior |
 1 |
 |
 Snake FangSnake Fang
-QUEST ITEM
+Quest
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL

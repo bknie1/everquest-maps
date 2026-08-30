@@ -1,5 +1,5 @@
 # Kithicor_Forest (eqlwiki.com)
-fetched: 2026-08-26
+fetched: 2026-08-30
 
 Kithicor Forest - EverQuest Legends Wiki
 Jump to content
@@ -592,7 +592,7 @@ Warrior |
 1 |
 Various |
 Snake FangSnake Fang
-QUEST ITEM
+Quest
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
@@ -755,7 +755,7 @@ Warrior |
 4-6 |
 Various |
 Snake FangSnake Fang
-QUEST ITEM
+Quest
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL

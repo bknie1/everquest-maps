@@ -1,5 +1,5 @@
 # Qeynos_Catacombs (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-30
 
 Qeynos Aqueducts - EverQuest Legends Wiki
 Jump to content
@@ -587,7 +587,7 @@ Warrior |
 1 |
 100% @ (388, 132), 100% @ (496, 7) |
 Snake FangSnake Fang
-QUEST ITEM
+Quest
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
@@ -646,7 +646,7 @@ WT: 0.2 Size: TINY
 Class: ALL
 Race: ALL
 , Snake FangSnake Fang
-QUEST ITEM
+Quest
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
@@ -808,7 +808,7 @@ WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
 , Snake FangSnake Fang
-QUEST ITEM
+Quest
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL

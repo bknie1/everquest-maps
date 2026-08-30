@@ -1,5 +1,5 @@
 # Ak'Anon (eqlwiki.com)
-fetched: 2026-08-26
+fetched: 2026-08-30
 
 Ak'Anon - EverQuest Legends Wiki
 Jump to content
@@ -878,7 +878,7 @@ Warrior |
 1 |
 Mines of Malfunction |
 Snake FangSnake Fang
-QUEST ITEM
+Quest
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL

@@ -1,5 +1,5 @@
 # Nagafen's_Lair (eqlwiki.com)
-fetched: 2026-08-27
+fetched: 2026-08-30
 
 Nagafen's Lair - EverQuest Legends Wiki
 Jump to content
@@ -475,7 +475,7 @@ Skill: 2H Slashing Atk Delay: 40
 DMG: 25
 Effect: Serpent Sight (Worn)
 WT: 9.5 Size: LARGE
-Class: WAR PAL SHD
+Class: WAR PAL SHD BER
 Race: ALL
 (ultra-rare) (Raid Instance Only)
 18. "Drawbridge Room" with two levers to lower drawbridge at southern edge, bridge raises on its own after a period of time
@@ -1517,12 +1517,12 @@ Skill: 2H Slashing Atk Delay: 40
 DMG: 25
 Effect: Serpent Sight (Worn)
 WT: 9.5 Size: LARGE
-Class: WAR PAL SHD
+Class: WAR PAL SHD BER
 Race: ALL
 |
 Warlord Skarlon |
 2H Slashing |
-Atk Delay: 40 DMG: 25 Effect: Serpent Sight (Worn) WT: 9.5 Size: LARGE Class: WAR PAL SHD Race: ALL |
+Atk Delay: 40 DMG: 25 Effect: Serpent Sight (Worn) WT: 9.5 Size: LARGE Class: WAR PAL SHD BER Race: ALL |
 Red Dragon ScalesRed Dragon Scales
 Attunable, Quest
 WT: 2.5 Size: MEDIUM
@@ -1706,7 +1706,7 @@ Skill: 2H Slashing Atk Delay: 40
 DMG: 25
 Effect: Serpent Sight (Worn)
 WT: 9.5 Size: LARGE
-Class: WAR PAL SHD
+Class: WAR PAL SHD BER
 Race: ALL
 , Rokyls Channelling CrystalRokyls Channelling Crystal
 MAGIC ITEM LORE ITEM

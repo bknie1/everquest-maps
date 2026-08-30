@@ -1,5 +1,5 @@
 # Dagnor's_Cauldron (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-30
 
 Dagnor's Cauldron - EverQuest Legends Wiki
 Jump to content
@@ -268,7 +268,7 @@ Warrior |
 8 |
 50% @ (-270, -713), 50% @ (450, 387), 50% @ (-282, -940), 50% @ (-590, -1960), 50% @ (894, -922), 50% @ (-69, -876) |
 Snake FangSnake Fang
-QUEST ITEM
+Quest
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL

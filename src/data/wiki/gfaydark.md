@@ -1,5 +1,5 @@
 # Greater_Faydark (eqlwiki.com)
-fetched: 2026-08-21
+fetched: 2026-08-30
 
 Greater Faydark - EverQuest Legends Wiki
 Jump to content
@@ -706,7 +706,7 @@ Jarlen Meadowgreen |
 Trueshot Longbow Quest
 |
 Trueshot LongbowTrueshot Longbow
-LORE ITEM
+Lore Equipped, Attunable, Quest, Placeable
 Slot: RANGE
 Skill: Archery Atk Delay: 45
 DMG: 20

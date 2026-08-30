@@ -1,5 +1,5 @@
 # Erud's_Crossing (eqlwiki.com)
-fetched: 2026-08-26
+fetched: 2026-08-30
 
 Erud's Crossing - EverQuest Legends Wiki
 Jump to content
@@ -146,7 +146,7 @@ Warrior |
 8 |
 3% @ (-1153, 1457), 3% @ (-1131, 1153), 3% @ (-1286, 1288) |
 Snake FangSnake Fang
-QUEST ITEM
+Quest
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL

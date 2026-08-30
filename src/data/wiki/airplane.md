@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-08-29
+fetched: 2026-08-30
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -1525,7 +1525,7 @@ love
 |
 Wind Rune Geza
 |
-Golden Hilt (7)
+Golden Hilt (7-Trash)
 Sphinx Claw (7-SotS)
 |
 Thelvorn, Blade of LightThelvorn, Blade of Light
@@ -2684,7 +2684,7 @@ Wizard Plane of Sky Tests
 |
 |
 |
-NPCs - Found 65 NPCs that spawn in Plane of Sky:
+NPCs - Found 66 NPCs that spawn in Plane of Sky:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Soul Carrier
 |
@@ -3068,6 +3068,14 @@ Warrior |
 6th Island |
 Various |
 Single spawn from each of two Bazzzazzt. Killing these mobs spawns no further mobs. |
+Bizzzzt
+|
+Wasp |
+Warrior |
+60 |
+6th Island |
+None |
+Single spawn from a Bazzzazzt. Hits like a truck. Incredibly spell-resistant as it resisted all spells thrown at it ... |
 Bzzazzt
 |
 Wasp |
@@ -3210,7 +3218,7 @@ Shadow Knight |
 60 |
 4th Island |
 Various |
-The boss of island four. This is generally the first boss a raid will encounter with DT. Come prepared with multiple tan... |
+The boss of island four. Come prepared with multiple tanks or a metric buttload of dps. He is slowable. |
 Key Master
 |
 Dwarf |
@@ -3307,7 +3315,7 @@ Magician |
 63 |
 7th Island |
 Various |
-Triggered by saying "?llaw eht htiw eno I ma" to Sirran on Bee Island. Can be spawned repeatedly as long as Sirran is al... |
+Spawns with a sprite protector at her side. |
 The Hand of Veeshan
 |
 Efreeti |
@@ -6124,13 +6132,13 @@ Race: ALL
 Protector of Sky |
 (None) |
 LORE ITEM WT: 6.0 Size: MEDIUM Class: ALL Race: ALL |
-Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Sky&oldid=174464"
+Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Sky&oldid=174803"
 Categories: Sky Era
 Classic Era
 Zones
 How to Contribute
 Donate
-This page was last edited on 28 August 2026, at 17:27.
+This page was last edited on 30 August 2026, at 01:40.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

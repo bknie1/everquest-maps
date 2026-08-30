@@ -1,5 +1,5 @@
 # Halas (eqlwiki.com)
-fetched: 2026-08-28
+fetched: 2026-08-30
 
 Halas - EverQuest Legends Wiki
 Jump to content
@@ -299,7 +299,7 @@ Shamus Felligan |
 5 |
 Shaman |
 Everfrost Peaks |
-a goblin caster |
+ice goblin caster |
 Guild Summons - Rogues of the White Rose
 |
 Torn White Tunic*Torn White Tunic*
@@ -444,7 +444,7 @@ Renth McLanis |
 20 |
 Warrior |
 Western Plains of Karana |
-Frostbite, Iceberg, Basil, Paglan |
+Frostbite, Iceberg, Basil, Paglan, Dok, Tundra Jack, Ulrich McMannus |
 Lion Meat Shipment Quest
 |
 Lion Delight |

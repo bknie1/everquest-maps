@@ -1,5 +1,5 @@
 # Everfrost_Peaks (eqlwiki.com)
-fetched: 2026-08-29
+fetched: 2026-08-30
 
 Everfrost Peaks - EverQuest Legends Wiki
 Jump to content
@@ -270,7 +270,7 @@ Werewolf Skin Cloak Quest
 |
 |
 |
-NPCs - Found 64 NPCs that spawn in Everfrost Peaks:
+NPCs - Found 66 NPCs that spawn in Everfrost Peaks:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Decaying Skeleton
 |
@@ -386,6 +386,14 @@ Warrior |
 Various |
 Various |
 PH for a wooly mammoth. |
+A gigantic wooly spider
+|
+Giant Spider |
+Warrior |
+20-23 |
+Group of seven spawn around (-1300,-3150) - south wall of the tundra. |
+Various |
+Massive spiders in the tundra. They will aid each other if close enough, but most can be fought alone. |
 A gnoll guard
 |
 Gnoll |
@@ -422,8 +430,7 @@ WT: 0.2 Size: SMALL
 Class: ALL
 Race: ALL
 |
-It's the double igloo camp in the SW of the tundra.
-He's a bit much for a solo 4 Shammy to manage. Chain nukes Frost fo... |
+It's the double igloo camp in the SW of the tundra. |
 A large wooly spider
 |
 Giant Spider |
@@ -734,6 +741,27 @@ Warrior |
 Various |
 Iced Bone Chips |
 In Rathe Mountains, these can be found at the various undead camps throughout the zone. |
+Ice goblin caster
+|
+Goblin |
+Wizard |
+2-4 |
+(1600, -4400, -214) |
+Caster BeadsCaster Beads
+NO DROP
+Slot: NECK
+WT: 0.2 Size: SMALL
+Class: ALL
+Race: ALL
+(Ultra Rare)
+Shattered Caster BeadsShattered Caster Beads
+NO DROP QUEST ITEM
+Slot: NECK
+WT: 0.2 Size: SMALL
+Class: ALL
+Race: ALL
+|
+Shares spawn points with ice goblin divers in the river and in the caves. Very fast respawn. |
 Ice goblin diver
 |
 Goblin |

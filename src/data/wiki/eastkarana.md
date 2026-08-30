@@ -1,5 +1,5 @@
 # Eastern_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-08-18
+fetched: 2026-08-30
 
 Eastern Plains of Karana - EverQuest Legends Wiki
 Jump to content
@@ -422,7 +422,7 @@ Warrior |
 7-9 |
 Various |
 Snake FangSnake Fang
-QUEST ITEM
+Quest
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL

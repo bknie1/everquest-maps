@@ -1,5 +1,5 @@
 # Splitpaw_Lair (eqlwiki.com)
-fetched: 2026-08-27
+fetched: 2026-08-30
 
 Splitpaw Lair - EverQuest Legends Wiki
 Jump to content
@@ -738,8 +738,7 @@ WT: 10.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
-Alla mentions this NPC formerly inhabited Splitpaw, and now dwells in South Karana. This needs to be verified.
-This mob ... |
+Alla mentions this NPC formerly inhabited Splitpaw, and now dwells in South Karana. ZZZZZZZZZZZZZZZ. Verified 8/29/26. R... |
 Nisch Val Torash Mashk
 |
 Gnoll |

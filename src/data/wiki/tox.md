@@ -1,5 +1,5 @@
 # Toxxulia_Forest (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-30
 
 Toxxulia Forest - EverQuest Legends Wiki
 Jump to content
@@ -448,7 +448,7 @@ WT: 0.4 Size: MEDIUM
 Class: ALL
 Race: ALL
 , Snake FangSnake Fang
-QUEST ITEM
+Quest
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
@@ -475,7 +475,7 @@ Warrior |
 7 |
 100% @ (-532, 67) |
 Snake FangSnake Fang
-QUEST ITEM
+Quest
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
@@ -503,7 +503,7 @@ Warrior |
 9 |
 100% @ (-1333, -657), 100% @ (-1081, 869) |
 Snake FangSnake Fang
-QUEST ITEM
+Quest
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
@@ -547,7 +547,7 @@ Warrior |
 7 |
 100% @ (-2179, 797), 100% @ (-1153, -255), 100% @ (-1412, 891), 100% @ (-2315, -765) |
 Snake FangSnake Fang
-QUEST ITEM
+Quest
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
@@ -581,7 +581,7 @@ WT: 0.2 Size: TINY
 Class: ALL
 Race: ALL
 , Snake FangSnake Fang
-QUEST ITEM
+Quest
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
@@ -595,7 +595,7 @@ Warrior |
 6 |
 100% @ (-2271, -669), 100% @ (-1874, -883), 100% @ (-1517, -735) |
 Snake FangSnake Fang
-QUEST ITEM
+Quest
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
@@ -678,7 +678,7 @@ Warrior |
 1 |
 100% @ (1832, 399), 100% @ (958, 201), 100% @ (1728, 932), 100% @ (1242, 543), 100% @ (2290, 798), 100% @ (-557, -830), 100% @ (-2090, -695), 100% @ (-654, -295), 100% @ (-406, -612), 100% @ (-406, -601), 100% @ (60, -98), 100% @ (1145, 229), 100% @ (1990, -548), 100% @ (1962, -472), 100% @ (2210, -202), 100% @ (2251, -47), 100% @ (787, 740), 100% @ (1992, -933), 100% @ (2205, -567), 100% @ (1726, 708), 100% @ (977, 150), 100% @ (-406, -588), 100% @ (1940, 655), 100% @ (2242, 94), 100% @ (-406, -618), 100% @ (1726, -181), 100% @ (-661, -303) |
 Snake FangSnake Fang
-QUEST ITEM
+Quest
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL

@@ -1,5 +1,5 @@
 # Stonebrunt_Mountains (eqlwiki.com)
-fetched: 2026-08-27
+fetched: 2026-08-30
 
 Stonebrunt Mountains - EverQuest Legends Wiki
 Jump to content
@@ -1616,7 +1616,7 @@ WT: 3.5 Size: LARGE
 Class: ALL
 Race: ALL
 , Tiger SkinTiger Skin
-QUEST ITEM
+Quest
 WT: 3.5 Size: LARGE
 Class: ALL
 Race: ALL
@@ -2664,14 +2664,14 @@ a Feral Leopard, a kejek leopard, a kejek leopardess |
 (None) |
 WT: 1.2 Size: SMALL Class: ALL Race: ALL |
 Leopard SkinLeopard Skin
-QUEST ITEM
+Quest
 WT: 3.5 Size: LARGE
 Class: ALL
 Race: ALL
 |
 a feral leopard, a kejek leopardess, Prowler of the Jungle |
 (None) |
-QUEST ITEM WT: 3.5 Size: LARGE Class: ALL Race: ALL |
+Quest WT: 3.5 Size: LARGE Class: ALL Race: ALL |
 Mantle of the Elder SerpentMantle of the Elder Serpent
 MAGIC ITEM LORE ITEM
 Slot: SHOULDERS

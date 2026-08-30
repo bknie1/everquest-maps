@@ -1,5 +1,5 @@
 # Northern_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-30
 
 Northern Plains of Karana - EverQuest Legends Wiki
 Jump to content
@@ -136,6 +136,7 @@ WT: 0.5 Size: SMALL
 Class: ALL
 Race: ALL
 , Giant Laceless SandalGiant Laceless Sandal
+Attunable, Quest, Placeable
 Slot: SECONDARY
 AC: 15
 STA: +5 CHA: -7
@@ -1099,6 +1100,7 @@ WT: 0.5 Size: SMALL
 Class: ALL
 Race: ALL
 , Giant Laceless SandalGiant Laceless Sandal
+Attunable, Quest, Placeable
 Slot: SECONDARY
 AC: 15
 STA: +5 CHA: -7
@@ -1106,7 +1108,7 @@ WT: 5.0 Size: LARGE
 Class: WAR CLR PAL RNG SHD DRU BRD ROG SHM
 Race: ALL
 |
-(The information below is outdated, as the dev's revamped the spawn mechanics of North Karana, removing the 3 static Hil... |
+He does spawn in EQ Legends though the process for spawning him is unknown. I found him while clearing roamers north of ... |
 Watchman Dexlin
 |
 Gnome |
@@ -1248,6 +1250,7 @@ Callowwing |
 Fingers |
 AC: 2 HP: +7 WT: 0.1 Size: TINY Class: ALL Race: ALL |
 Giant Laceless SandalGiant Laceless Sandal
+Attunable, Quest, Placeable
 Slot: SECONDARY
 AC: 15
 STA: +5 CHA: -7

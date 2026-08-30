@@ -1,5 +1,5 @@
 # Lake_Rathetear (eqlwiki.com)
-fetched: 2026-08-29
+fetched: 2026-08-30
 
 Lake Rathetear - EverQuest Legends Wiki
 Jump to content
@@ -549,7 +549,7 @@ WT: 0.4 Size: MEDIUM
 Class: ALL
 Race: ALL
 , Snake FangSnake Fang
-QUEST ITEM
+Quest
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL

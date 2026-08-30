@@ -1,5 +1,5 @@
 # Najena (eqlwiki.com)
-fetched: 2026-08-23
+fetched: 2026-08-30
 
 Najena - EverQuest Legends Wiki
 Jump to content
@@ -767,13 +767,13 @@ NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Giant Black Widow
 |
 Spider |
-Warrior? |
+Warrior |
 18-22 |
 Caves near Najena's room and the goblin camps. |
 * Spider Silk
 Spider Legs
 |
-Flees at 15%. The spider at 460, 220 is a placeholder for The Widowmistress |
+Flees at 15%. |
 A Goblin Magician
 |
 Goblin |

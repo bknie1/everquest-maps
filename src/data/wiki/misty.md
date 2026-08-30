@@ -1,5 +1,5 @@
 # Misty_Thicket (eqlwiki.com)
-fetched: 2026-08-29
+fetched: 2026-08-30
 
 Misty Thicket - EverQuest Legends Wiki
 Jump to content
@@ -537,7 +537,7 @@ Warrior |
 1 |
 Various |
 Snake FangSnake Fang
-QUEST ITEM
+Quest
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
@@ -993,7 +993,7 @@ Warrior |
 4-6 |
 Various |
 Snake FangSnake Fang
-QUEST ITEM
+Quest
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL

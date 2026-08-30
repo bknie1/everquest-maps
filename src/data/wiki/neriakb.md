@@ -1,5 +1,5 @@
 # Neriak_Commons (eqlwiki.com)
-fetched: 2026-08-29
+fetched: 2026-08-30
 
 Neriak - EverQuest Legends Wiki
 Jump to content
@@ -1852,7 +1852,7 @@ Merchant |
 40 |
 (81, -868) |
 |
-Weaponsmith. |
+Weaponsmith |
 Zartox Ru`Soe
 |
 Dark Elf |
