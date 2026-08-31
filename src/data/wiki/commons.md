@@ -1,5 +1,5 @@
 # West_Commonlands (eqlwiki.com)
-fetched: 2026-08-30
+fetched: 2026-08-31
 
 West Commonlands - EverQuest Legends Wiki
 Jump to content
@@ -489,7 +489,8 @@ Warrior |
 4 - 18 / 4-6 (Befallen) / 1-6 (Qeynos Aqueducts) |
 Various |
 Bone ChipsBone Chips
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |

@@ -1,5 +1,5 @@
 # Qeynos_Hills (eqlwiki.com)
-fetched: 2026-08-30
+fetched: 2026-08-31
 
 Qeynos Hills - EverQuest Legends Wiki
 Jump to content
@@ -456,7 +456,8 @@ Warrior |
 5-7 |
 In and nearby Haunted Ruins |
 Bone ChipsBone Chips
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -548,7 +549,8 @@ Warrior |
 4 - 18 / 4-6 (Befallen) / 1-6 (Qeynos Aqueducts) |
 Various |
 Bone ChipsBone Chips
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -685,10 +687,11 @@ Guard |
 22 |
 100% @ (5059, 216) |
 Fine Steel Short SwordFine Steel Short Sword
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 23
 DMG: 4
-WT: 4.0 Size: MEDIUM
+Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , Guard BraceletGuard Bracelet
@@ -715,10 +718,11 @@ Guard |
 20 |
 (1049, -892), (1050, -928) |
 Fine Steel Short SwordFine Steel Short Sword
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 23
 DMG: 4
-WT: 4.0 Size: MEDIUM
+Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
@@ -762,10 +766,11 @@ Guard |
 25 |
 50% @ (5057, 188) |
 Fine Steel Short SwordFine Steel Short Sword
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 23
 DMG: 4
-WT: 4.0 Size: MEDIUM
+Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , Guard BraceletGuard Bracelet

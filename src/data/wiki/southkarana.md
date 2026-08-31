@@ -1,5 +1,5 @@
 # Southern_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-08-26
+fetched: 2026-08-31
 
 Southern Karana - EverQuest Legends Wiki
 Jump to content
@@ -393,7 +393,8 @@ Warrior |
 5-7 |
 Southern Karana: 100% @ (1397, 1082) |
 Bone ChipsBone Chips
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -576,7 +577,8 @@ Warrior |
 4 - 18 / 4-6 (Befallen) / 1-6 (Qeynos Aqueducts) |
 Various |
 Bone ChipsBone Chips
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -717,11 +719,11 @@ WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , Rusty Long SwordRusty Long Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 35
 DMG: 5
-WT: 7.5 Size: MEDIUM
+Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , Bronze Two Handed SwordBronze Two Handed Sword

@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-08-30
+fetched: 2026-08-31
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -4778,7 +4778,7 @@ WT: 1.0 Size: MEDIUM
 Class: PAL
 Race: ALL
 |
-a greater sphinx, a heartsbane drake, an undine spirit |
+Various |
 (None) |
 Quest WT: 1.0 Size: MEDIUM Class: PAL Race: ALL |
 Gorgon HeadGorgon Head

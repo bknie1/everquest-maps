@@ -1,5 +1,5 @@
 # Erudin_Palace (eqlwiki.com)
-fetched: 2026-08-27
+fetched: 2026-08-31
 
 Erudin - EverQuest Legends Wiki
 Jump to content
@@ -655,10 +655,11 @@ WT: 2.2 Size: SMALL
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 , Raw-hide SleevesRaw-hide Sleeves
+Attunable
 Slot: ARMS
 AC: 4
-WT: 2.2 Size: SMALL
-Class: ALL except NEC WIZ MAG ENC
+Size: SMALL WT: 2.2
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST BER
 Race: ALL
 , Raw-hide WristbandsRaw-hide Wristbands
 Slot: WRIST
@@ -753,11 +754,11 @@ WT: 0.4 Size: SMALL
 Class: ALL
 Race: ALL
 , Rusty Long SwordRusty Long Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 35
 DMG: 5
-WT: 7.5 Size: MEDIUM
+Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , Splintering ClubSplintering Club
@@ -782,10 +783,11 @@ Capacity: 8 Size Capacity: LARGE
 WT: 0.4 Weight Reduction: 0%
 Capacity: 4 Size Capacity: SMALL
 , Raw-hide SleevesRaw-hide Sleeves
+Attunable
 Slot: ARMS
 AC: 4
-WT: 2.2 Size: SMALL
-Class: ALL except NEC WIZ MAG ENC
+Size: SMALL WT: 2.2
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST BER
 Race: ALL
 , Spell: Divine Aura, Spell: Flash of Light, Spell: Lull, Spell: Spook the Dead |
 Dleria Mausrel |

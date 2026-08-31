@@ -1,5 +1,5 @@
 # The_Hole (eqlwiki.com)
-fetched: 2026-08-28
+fetched: 2026-08-31
 
 The Hole - EverQuest Legends Wiki
 Jump to content
@@ -97,12 +97,12 @@ Elementals, Erudite Ghosts, Golems, Humans, Iksar, Imps, Mimics, Ratmen, Skeleto
 |
 Notable NPCs:
 |
-Bejeweled Elemental, Commander Yarik, Caradon, Dartain the Lost, Ghost of Kindle, Ghost of Glohnor, Gibartik, High Scale Kirn, Initiate Sirlis, Irslak the Wretched, Jaeil the Wretched, Keeper of the Tombs, Kejar the Mighty, Niltoth the Unholy, Nortlav the Scalekeeper, Polzin Mrid, a ratman guard, Rocksoul, Schnozz the Flighty, Stonegrinder Minion, Stonesoul the Unmoving, Ulrik the Devout, Retseth Tretse
+Bejeweled Elemental, Commander Yarik, Caradon, Dartain the Lost, Ghost of Kindle, Ghost of Glohnor, Gibartik, High Scale Kirn, Initiate Sirlis, Irslak the Wretched, Jaeil the Wretched, Keeper of the Tombs, Kejar the Mighty, Niltoth the Unholy, Nortlav the Scalekeeper, Polzin Mrid, a ratman guard, Rocksoul, Slizik the Mighty, Schnozz the Flighty, Stonegrinder Minion, Stonesoul the Unmoving, Ulrik the Devout, Retseth Tretse
 |
 Unique Items:
 |
 Bow of the UnderfootBow of the Underfoot
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade, Placeable
 Slot: RANGE
 Skill: Archery Atk Delay: 60
 DMG: 33
@@ -397,7 +397,7 @@ Kejar the Mighty |
 All |
 Lower Guk |
 the ghoul arch magus |
-NPCs - Found 44 NPCs that spawn in The Hole:
+NPCs - Found 45 NPCs that spawn in The Hole:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Ratman Warrior
 |
@@ -434,7 +434,8 @@ Warrior |
 43-47 |
 Undead Tower at graveyards and crypt |
 Bone ChipsBone Chips
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -532,7 +533,7 @@ WT: 1.9 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 (Rare), Bow of the UnderfootBow of the Underfoot
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade, Placeable
 Slot: RANGE
 Skill: Archery Atk Delay: 60
 DMG: 33
@@ -986,6 +987,15 @@ Enchanter |
 As spoken by Jeb Lumsed:
 Master of the Phantasms - he is the last one you will seek out.
 Polzin is native to Eru... |
+Retseth Tretse
+|
+Golem |
+War |
+~53 |
+-178.33, 265.90, -292.63
+In the Cathedral in the South West corner of the zone, on the throne in the main room. |
+Various |
+Door leading to Retseth is locked, will open with sufficient lockpicking skill if lockpicks are in inventory (no need to... |
 Rocksoul
 |
 Elemental |
@@ -1148,7 +1158,7 @@ Kyrenna |
 (None) |
 MAGIC ITEM LORE ITEM NO DROP WT: 0.1 Size: TINY Class: NONE Race: NONE |
 Bow of the UnderfootBow of the Underfoot
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade, Placeable
 Slot: RANGE
 Skill: Archery Atk Delay: 60
 DMG: 33
@@ -1981,13 +1991,13 @@ The Hole
 Solo vs. Multiplayer
 When creating the raid instance, players can choose between solo and multiplayer instances. These instances share lockouts, so players cannot do both in the same week and receive full loot.
 There are no differences in trash mobs between solo and multiplayer instances. The raid instance has two elementals and a fiery fiend in the room with Master Yael. These trash mobs path around the room, and will often pull Master Yael when engaged.
-Retrieved from "https://eqlwiki.com/index.php?title=The_Hole&oldid=173983"
+Retrieved from "https://eqlwiki.com/index.php?title=The_Hole&oldid=175178"
 Categories: Classic Era
 Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 28 August 2026, at 01:59.
+This page was last edited on 31 August 2026, at 01:15.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

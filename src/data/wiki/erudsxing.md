@@ -1,5 +1,5 @@
 # Erud's_Crossing (eqlwiki.com)
-fetched: 2026-08-30
+fetched: 2026-08-31
 
 Erud's Crossing - EverQuest Legends Wiki
 Jump to content
@@ -198,11 +198,11 @@ Warrior |
 10 |
 3% @ (-1157, 2108) |
 Rusty Long SwordRusty Long Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 35
 DMG: 5
-WT: 7.5 Size: MEDIUM
+Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , Algae Covered FleshAlgae Covered Flesh
@@ -211,8 +211,8 @@ WT: 7.1 Size: SMALL
 Class: ALL
 Race: ALL
 , Zombie SkinZombie Skin
-QUEST ITEM
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , A Blurred MapA Blurred Map
@@ -449,7 +449,8 @@ WT: 1.0 Size: SMALL
 Class: ALL
 Race: ALL
 , AmberAmber
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Catman SkinCatman Skin
@@ -475,7 +476,8 @@ WT: 1.0 Size: SMALL
 Class: ALL
 Race: ALL
 , AmberAmber
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Catman SkinCatman Skin
@@ -501,7 +503,8 @@ WT: 1.0 Size: SMALL
 Class: ALL
 Race: ALL
 , AmberAmber
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Catman SkinCatman Skin
@@ -522,7 +525,8 @@ Warrior |
 4 |
 50% @ (-1781, 1125) |
 AmberAmber
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Fresh FishFresh Fish
@@ -560,7 +564,8 @@ WT: 1.0 Size: SMALL
 Class: ALL
 Race: ALL
 , AmberAmber
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Catman SkinCatman Skin

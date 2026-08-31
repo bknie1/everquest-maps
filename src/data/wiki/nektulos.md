@@ -1,5 +1,5 @@
 # Nektulos_Forest (eqlwiki.com)
-fetched: 2026-08-30
+fetched: 2026-08-31
 
 Nektulos Forest - EverQuest Legends Wiki
 Jump to content
@@ -317,8 +317,8 @@ WT: 0.3 Size: SMALL
 Class: ALL
 Race: ALL
 , Zombie SkinZombie Skin
-QUEST ITEM
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -524,7 +524,8 @@ Warrior |
 4 - 18 / 4-6 (Befallen) / 1-6 (Qeynos Aqueducts) |
 Various |
 Bone ChipsBone Chips
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -580,7 +581,8 @@ WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD DRU BRD ROG
 Race: ALL
 , Bone ChipsBone Chips
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -654,11 +656,11 @@ Need Info |
 21 |
 Need Info |
 Bronze Long SwordBronze Long Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 32
 DMG: 5
-WT: 8.5 Size: MEDIUM
+Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
@@ -670,19 +672,19 @@ Warrior |
 22 |
 50% @ (-818, -21) |
 Rusty Long SwordRusty Long Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 35
 DMG: 5
-WT: 7.5 Size: MEDIUM
+Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , Bronze Long SwordBronze Long Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 32
 DMG: 5
-WT: 8.5 Size: MEDIUM
+Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
@@ -694,11 +696,11 @@ Need Info |
 19 |
 Need Info |
 Bronze Long SwordBronze Long Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 32
 DMG: 5
-WT: 8.5 Size: MEDIUM
+Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
@@ -787,11 +789,11 @@ Warrior |
 14 |
 |
 Bronze Long SwordBronze Long Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 32
 DMG: 5
-WT: 8.5 Size: MEDIUM
+Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
@@ -803,11 +805,11 @@ Warrior |
 17 |
 50% @ (-1047, 7), 50% @ (-1043, 55), 50% @ (-1189, -1), 50% @ (-1189, 49) |
 Bronze Long SwordBronze Long Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 32
 DMG: 5
-WT: 8.5 Size: MEDIUM
+Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 (Uncommon)
@@ -836,11 +838,11 @@ Need Info |
 14 |
 2640, 655 |
 Bronze Long SwordBronze Long Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 32
 DMG: 5
-WT: 8.5 Size: MEDIUM
+Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
@@ -852,11 +854,11 @@ Warrior |
 15 |
 50% @ (-1047, 7), 50% @ (-1043, 55), 50% @ (-1189, -1), 50% @ (-1189, 49) |
 Bronze Long SwordBronze Long Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 32
 DMG: 5
-WT: 8.5 Size: MEDIUM
+Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
@@ -868,11 +870,11 @@ Warrior |
 14 |
 (-818, -22) |
 Bronze Long SwordBronze Long Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 32
 DMG: 5
-WT: 8.5 Size: MEDIUM
+Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
@@ -884,11 +886,11 @@ Warrior |
 13 |
 100% @ (-1086, -66), 100% @ (-1047, 7), 100% @ (-1043, 55), 100% @ (-1189, -1), 100% @ (-1189, 49) |
 Bronze Long SwordBronze Long Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 32
 DMG: 5
-WT: 8.5 Size: MEDIUM
+Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
@@ -900,11 +902,11 @@ Warrior |
 17 |
 2640, 655 |
 Bronze Long SwordBronze Long Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 32
 DMG: 5
-WT: 8.5 Size: MEDIUM
+Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
@@ -917,11 +919,11 @@ Warrior |
 13 |
 100% @ (-1086, -16), 100% @ (-1047, 7), 100% @ (-1043, 55), 100% @ (-1189, -1), 100% @ (-1189, 49) |
 Bronze Long SwordBronze Long Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 32
 DMG: 5
-WT: 8.5 Size: MEDIUM
+Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
@@ -933,11 +935,11 @@ Warrior |
 15 |
 50% @ (-1047, 7), 50% @ (-1043, 55), 50% @ (-1189, -1), 50% @ (-1189, 49) |
 Bronze Long SwordBronze Long Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 32
 DMG: 5
-WT: 8.5 Size: MEDIUM
+Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 (Uncommon)
@@ -950,11 +952,11 @@ Warrior |
 13 |
 50% @ (2235, 700) |
 Bronze Long SwordBronze Long Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 32
 DMG: 5
-WT: 8.5 Size: MEDIUM
+Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
@@ -1461,7 +1463,7 @@ a shadow wolf |
 (None) |
 WT: 3.5 Size: LARGE Class: ALL Race: ALL |
 Shadowed BallShadowed Ball
-MAGIC ITEM LORE ITEM TEMPORARY
+Lore Equipped, Temporary, Quest, Placeable
 Slot: PRIMARY SECONDARY
 AC: 5
 WT: 0.5 Size: SMALL

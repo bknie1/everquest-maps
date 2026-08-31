@@ -1,5 +1,5 @@
 # Western_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-08-27
+fetched: 2026-08-31
 
 Western Karana - EverQuest Legends Wiki
 Jump to content
@@ -666,7 +666,7 @@ Warrior |
 14 - 17 |
 50% @ (-2350, -5573), (-2684, -4956), (-3190, -5715) |
 Jack-O-Lantern FungusJack-O-Lantern Fungus
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Sack of HaySack of Hay
@@ -691,7 +691,8 @@ Warrior |
 6 |
 ? |
 Bone ChipsBone Chips
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Tarnished Broad SwordTarnished Broad Sword
@@ -724,7 +725,8 @@ Warrior |
 4 - 18 / 4-6 (Befallen) / 1-6 (Qeynos Aqueducts) |
 Various |
 Bone ChipsBone Chips
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -883,7 +885,7 @@ Warrior |
 15 |
 50% @ (-2350, -5573), 50% @ (-2684, -4956) |
 Jack-O-Lantern FungusJack-O-Lantern Fungus
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -1192,10 +1194,11 @@ WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , Fine Steel Short SwordFine Steel Short Sword
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 23
 DMG: 4
-WT: 4.0 Size: MEDIUM
+Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , Qeynos Kite ShieldQeynos Kite Shield
@@ -1243,11 +1246,11 @@ Warrior |
 12 |
 50% @ (955, -1909) |
 Rusty Long SwordRusty Long Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 35
 DMG: 5
-WT: 7.5 Size: MEDIUM
+Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
@@ -1259,10 +1262,11 @@ Warrior |
 35 |
 25% @ (-480, -2402) |
 Fine Steel Short SwordFine Steel Short Sword
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 23
 DMG: 4
-WT: 4.0 Size: MEDIUM
+Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , Qeynos Kite ShieldQeynos Kite Shield
@@ -1287,10 +1291,11 @@ Warrior |
 30 |
 100% @ (-744, -4231) |
 Fine Steel Short SwordFine Steel Short Sword
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 23
 DMG: 4
-WT: 4.0 Size: MEDIUM
+Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , Guard BraceletGuard Bracelet
@@ -1317,10 +1322,11 @@ Warrior |
 30 |
 100% @ (-758, -4222) |
 Fine Steel Short SwordFine Steel Short Sword
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 23
 DMG: 4
-WT: 4.0 Size: MEDIUM
+Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , Guard BraceletGuard Bracelet
@@ -2023,13 +2029,13 @@ Linaya Sowlin |
 (None) |
 LORE ITEM NO DROP WT: 0.2 Size: SMALL Class: ALL Race: ALL |
 Jack-O-Lantern FungusJack-O-Lantern Fungus
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 a scarecrow, an animated scarecrow |
 (None) |
-WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Large Splinted Bronze CloakLarge Splinted Bronze Cloak
 Slot: BACK
 AC: 8

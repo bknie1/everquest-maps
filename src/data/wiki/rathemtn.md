@@ -1,5 +1,5 @@
 # Rathe_Mountains (eqlwiki.com)
-fetched: 2026-08-27
+fetched: 2026-08-31
 
 Rathe Mountains - EverQuest Legends Wiki
 Jump to content
@@ -267,7 +267,7 @@ Traveling To and From
 On the middle of the eastern edge of the zone is the entrance to The Feerrott, the home of the lizard men and the ogres, as well as the temple to Cazic Thule. By following the path west and taking a northward turn at the temple guarded by Ankh beetles, you reach the northern corner of the Rathe Mountains.
 On the western edge in the northern part, tucked away in a corner, lies the entrance to Lake Rathe. Getting to this can be tricky, as gypsies (who apparently hate evil races) lie at the entrance to this valley. The entrance also blends in to the surrounding area, and could easily be passed without noticing it.
 What's in this zone?
-Quests - Found 8 quests that start in Rathe Mountains:
+Quests - Found 9 quests that start in Rathe Mountains:
 Quest Name | Reward | Quest Giver | Minimum Level | Classes | Related Zones | Related NPCs |
 Journeyman's Boots Quest
 |
@@ -285,6 +285,14 @@ Hasten Bootstrutter |
 All |
 Rathe Mountains, Southern Desert of Ro, Ocean of Tears |
 Ancient Cyclops, a shadowed man |
+Mazirian/197478653
+|
+? |
+|
+|
+|
+|
+|
 Phosphorous Powder for Zok Zribb
 |
 ? |
@@ -392,7 +400,7 @@ Karam Dragonforge |
 All |
 Permafrost |
 Lady Vox |
-NPCs - Found 116 NPCs that spawn in Rathe Mountains:
+NPCs - Found 117 NPCs that spawn in Rathe Mountains:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Basalt Drake
 |
@@ -800,7 +808,8 @@ Warrior |
 4 - 18 / 4-6 (Befallen) / 1-6 (Qeynos Aqueducts) |
 Various |
 Bone ChipsBone Chips
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -897,7 +906,8 @@ WT: 0.3 Size: SMALL
 Class: ALL
 Race: ALL
 , Cracked Giant Scarab CarapaceCracked Giant Scarab Carapace
-WT: 5.0 Size: MEDIUM
+Quest
+Size: MEDIUM WT: 5.0
 Class: ALL
 Race: ALL
 |
@@ -1337,6 +1347,14 @@ Paladin |
 (2888, -839) |
 None |
 Description needed. |
+Master Scribe Uklo
+|
+Froglok |
+GM Wizard |
+70 |
+(-1937, 454, 1) |
+None |
+Uklo is the Wizard Guildmaster for the Froglok's Gukta, Outpost of Marr. |
 Meelana
 |
 Wood Elf |
@@ -1366,8 +1384,8 @@ Shadow Knight |
 53 |
 ? |
 Zombie SkinZombie Skin
-QUEST ITEM
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Monstrous Zombie HeartMonstrous Zombie Heart
@@ -1776,7 +1794,8 @@ Warrior |
 7-9 |
 100% @ (2813, 2394) |
 Cracked Giant Scarab CarapaceCracked Giant Scarab Carapace
-WT: 5.0 Size: MEDIUM
+Quest
+Size: MEDIUM WT: 5.0
 Class: ALL
 Race: ALL
 , Giant Scarab Egg SackGiant Scarab Egg Sack
@@ -1817,7 +1836,8 @@ Warrior |
 8-9 |
 100% @ (2894, 2476) |
 Cracked Giant Scarab CarapaceCracked Giant Scarab Carapace
-WT: 5.0 Size: MEDIUM
+Quest
+Size: MEDIUM WT: 5.0
 Class: ALL
 Race: ALL
 |
@@ -1962,13 +1982,14 @@ Rharzar |
 (None) |
 MAGIC ITEM LORE ITEM NO DROP WT: 0.2 Size: SMALL Class: NONE Race: NONE |
 Dull Bone ChipsDull Bone Chips
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
 a skeletal monk |
 (None) |
-WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.1 Class: ALL Race: ALL |
 EnvyEnvy
 MAGIC ITEM LORE ITEM
 Slot: SECONDARY
@@ -2284,13 +2305,14 @@ Mortificator Syythrak |
 Chest |
 AC: 10 STR: +5 DEX: +5 STA: +5 WT: 0.0 Size: SMALL Class: MNK Race: ALL |
 Warbone ChipsWarbone Chips
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
 a barbed bone skeleton, a skeletal monk |
 (None) |
-WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.1 Class: ALL Race: ALL |
 WoeWoe
 MAGIC ITEM LORE ITEM
 Slot: PRIMARY SECONDARY

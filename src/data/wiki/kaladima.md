@@ -1,5 +1,5 @@
 # Kaladim (eqlwiki.com)
-fetched: 2026-08-27
+fetched: 2026-08-31
 
 Kaladim - EverQuest Legends Wiki
 Jump to content
@@ -583,9 +583,10 @@ WT: 9.4 Size: LARGE
 Class: WAR CLR PAL SHD BRD
 Race: ALL
 , Bronze MaskBronze Mask
+Attunable
 Slot: FACE
 AC: 5
-WT: 1.9 Size: SMALL
+Size: SMALL WT: 1.9
 Class: WAR CLR PAL SHD BRD
 Race: ALL
 , Bronze PauldronBronze Pauldron
@@ -637,9 +638,10 @@ WT: 4.0 Size: LARGE
 Class: WAR CLR PAL RNG SHD BRD ROG SHM
 Race: ALL
 , Ringmail CoifRingmail Coif
+Attunable
 Slot: HEAD
 AC: 7
-WT: 6.0 Size: SMALL
+Size: SMALL WT: 6.0
 Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
 Race: ALL
 , Large Splinted Bronze CloakLarge Splinted Bronze Cloak
@@ -659,7 +661,7 @@ Race: ALL
 Attunable
 Slot: CHEST
 AC: 12
-WT: 10.0 Size: MEDIUM
+Size: MEDIUM WT: 10.0
 Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
 Race: ALL
 , Ringmail GlovesRingmail Gloves
@@ -707,9 +709,10 @@ WT: 9.4 Size: LARGE
 Class: WAR CLR PAL SHD BRD
 Race: ALL
 , Bronze MaskBronze Mask
+Attunable
 Slot: FACE
 AC: 5
-WT: 1.9 Size: SMALL
+Size: SMALL WT: 1.9
 Class: WAR CLR PAL SHD BRD
 Race: ALL
 , Bronze VambracesBronze Vambraces
@@ -752,7 +755,7 @@ Race: ALL
 Attunable
 Slot: CHEST
 AC: 12
-WT: 10.0 Size: MEDIUM
+Size: MEDIUM WT: 10.0
 Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
 Race: ALL
 , Ringmail GlovesRingmail Gloves
@@ -1574,8 +1577,10 @@ WT: 7.5 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD BRD ROG SHM
 Race: ALL
 , Silver AmuletSilver Amulet
+Attunable
 Slot: NECK
-WT: 0.1 Size: TINY
+AC: 1
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |

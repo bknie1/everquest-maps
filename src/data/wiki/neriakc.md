@@ -1,5 +1,5 @@
 # Neriak_Third_Gate (eqlwiki.com)
-fetched: 2026-08-30
+fetched: 2026-08-31
 
 Neriak - EverQuest Legends Wiki
 Jump to content
@@ -727,10 +727,11 @@ Warrior |
 10 |
 (234, -88) |
 Fine Steel RapierFine Steel Rapier
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: Piercing Atk Delay: 23
 DMG: 5BACKSTAB: 5
-WT: 5.0 Size: MEDIUM
+Size: MEDIUM WT: 5.0
 Class: WAR RNG SHD BRD ROG
 Race: ALL
 |
@@ -2172,10 +2173,11 @@ Warrior |
 25 |
 50% @ (847, -1412) |
 Fine Steel RapierFine Steel Rapier
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: Piercing Atk Delay: 23
 DMG: 5BACKSTAB: 5
-WT: 5.0 Size: MEDIUM
+Size: MEDIUM WT: 5.0
 Class: WAR RNG SHD BRD ROG
 Race: ALL
 , Fine Steel DaggerFine Steel Dagger

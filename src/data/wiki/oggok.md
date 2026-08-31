@@ -1,5 +1,5 @@
 # Oggok (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-31
 
 Oggok - EverQuest Legends Wiki
 Jump to content
@@ -676,10 +676,11 @@ WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , Fine Steel Short SwordFine Steel Short Sword
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 23
 DMG: 4
-WT: 4.0 Size: MEDIUM
+Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , Fine Steel DaggerFine Steel Dagger

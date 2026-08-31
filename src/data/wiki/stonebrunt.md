@@ -1,5 +1,5 @@
 # Stonebrunt_Mountains (eqlwiki.com)
-fetched: 2026-08-30
+fetched: 2026-08-31
 
 Stonebrunt Mountains - EverQuest Legends Wiki
 Jump to content
@@ -1018,8 +1018,10 @@ Warrior |
 24 |
 100% @ (279, 783) |
 Mithril EarringMithril Earring
+Attunable
 Slot: EAR
-WT: 0.1 Size: TINY
+AC: 1
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Excellent Gorilla HideExcellent Gorilla Hide

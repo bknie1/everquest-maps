@@ -1,5 +1,5 @@
 # Nagafen's_Lair (eqlwiki.com)
-fetched: 2026-08-30
+fetched: 2026-08-31
 
 Nagafen's Lair - EverQuest Legends Wiki
 Jump to content
@@ -252,7 +252,7 @@ soldungb
 |
 Zone Spawn Timer:
 |
-22:00
+11:00
 |
 Succor/Evacuate:
 |
@@ -554,7 +554,7 @@ Efreeti Lord Djarn
 Efreeti |
 Wizard |
 50 |
-10% @ (-482, 321) |
+10% @ (-482, 321,79) |
 Djarns Amethyst RingDjarns Amethyst Ring
 MAGIC ITEM LORE ITEM
 Slot: FINGER
@@ -1837,13 +1837,13 @@ Nagafen's Lair
 Solo vs. Multiplayer
 When creating the raid instance, players can choose between solo and multiplayer instances. These instances share lockouts, so players cannot do both in the same week and receive full loot.
 Trash mobs and boss placement also differ between the two versions. Multiplayer will have additional trash mobs, and Magus Roykl will move from the stairwell outside of Nagafens room to inside the room with Nagafen. It can be advised to have a character with feign death in order to pull Magus Roykl without also pulling Nagafen.
-Retrieved from "https://eqlwiki.com/index.php?title=Nagafen%27s_Lair&oldid=166038"
+Retrieved from "https://eqlwiki.com/index.php?title=Nagafen%27s_Lair&oldid=175254"
 Categories: Classic Era
 Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 4 August 2026, at 18:16.
+This page was last edited on 31 August 2026, at 08:24.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

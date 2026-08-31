@@ -1,5 +1,5 @@
 # South_Ro (eqlwiki.com)
-fetched: 2026-08-30
+fetched: 2026-08-31
 
 Southern Desert of Ro - EverQuest Legends Wiki
 Jump to content
@@ -467,7 +467,8 @@ Warrior |
 4 - 18 / 4-6 (Befallen) / 1-6 (Qeynos Aqueducts) |
 Various |
 Bone ChipsBone Chips
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -579,11 +580,11 @@ Warrior |
 13 |
 14% @ (-371, -230) |
 Rusty Long SwordRusty Long Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 35
 DMG: 5
-WT: 7.5 Size: MEDIUM
+Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
@@ -595,7 +596,8 @@ Warrior |
 16 - 18 |
 5% @ (993, -355) |
 Raw-hide Armor, Bronze Weapons, Bone ChipsBone Chips
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |

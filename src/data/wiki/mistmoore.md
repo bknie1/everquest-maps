@@ -1,5 +1,5 @@
 # Castle_Mistmoore (eqlwiki.com)
-fetched: 2026-08-27
+fetched: 2026-08-31
 
 Mistmoore Castle - EverQuest Legends Wiki
 Jump to content
@@ -1114,7 +1114,7 @@ Wizard |
 35 |
 100% @ (-241, 376) |
 Flame AgateFlame Agate
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -1126,7 +1126,8 @@ Wizard |
 33 |
 50% @ (-225, 371), 50% @ (-316, -145), 50% @ (-134, -106) |
 JadeJade
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Words of DisseminationWords of Dissemination
@@ -1145,7 +1146,7 @@ Fine Steel SpearFine Steel Spear
 Slot: PRIMARY
 Skill: Piercing Atk Delay: 27
 DMG: 6BACKSTAB: 6
-WT: 6.8 Size: LARGE
+Size: LARGE WT: 6.8
 Class: WAR RNG SHD BRD ROG SHM BST
 Race: ALL
 , Gold RingGold Ring
@@ -1154,7 +1155,8 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , JadeJade
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -1294,10 +1296,11 @@ Warrior |
 31 |
 100% @ (-19, 89), (-175, 165) |
 Fine Steel Short SwordFine Steel Short Sword
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 23
 DMG: 4
-WT: 4.0 Size: MEDIUM
+Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
@@ -1456,14 +1459,15 @@ Race: ALL
 Slot: PRIMARY
 Skill: Piercing Atk Delay: 27
 DMG: 6BACKSTAB: 6
-WT: 6.8 Size: LARGE
+Size: LARGE WT: 6.8
 Class: WAR RNG SHD BRD ROG SHM BST
 Race: ALL
 , Fine Steel RapierFine Steel Rapier
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: Piercing Atk Delay: 23
 DMG: 5BACKSTAB: 5
-WT: 5.0 Size: MEDIUM
+Size: MEDIUM WT: 5.0
 Class: WAR RNG SHD BRD ROG
 Race: ALL
 |

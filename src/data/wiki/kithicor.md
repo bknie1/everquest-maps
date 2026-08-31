@@ -1,5 +1,5 @@
 # Kithicor_Forest (eqlwiki.com)
-fetched: 2026-08-30
+fetched: 2026-08-31
 
 Kithicor Forest - EverQuest Legends Wiki
 Jump to content
@@ -515,7 +515,8 @@ WT: 5.0 Size: MEDIUM
 Class: ALL
 Race: ALL
 , Cracked Giant Scarab CarapaceCracked Giant Scarab Carapace
-WT: 5.0 Size: MEDIUM
+Quest
+Size: MEDIUM WT: 5.0
 Class: ALL
 Race: ALL
 |
@@ -743,7 +744,8 @@ Warrior |
 4 - 18 / 4-6 (Befallen) / 1-6 (Qeynos Aqueducts) |
 Various |
 Bone ChipsBone Chips
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -1074,7 +1076,7 @@ Fine Steel SpearFine Steel Spear
 Slot: PRIMARY
 Skill: Piercing Atk Delay: 27
 DMG: 6BACKSTAB: 6
-WT: 6.8 Size: LARGE
+Size: LARGE WT: 6.8
 Class: WAR RNG SHD BRD ROG SHM BST
 Race: ALL
 |
@@ -1183,10 +1185,11 @@ Warrior |
 25 |
 (102, 2353) |
 Rusty Weapons, Fine Steel Short SwordFine Steel Short Sword
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 23
 DMG: 4
-WT: 4.0 Size: MEDIUM
+Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
@@ -1324,10 +1327,11 @@ WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , Fine Steel Short SwordFine Steel Short Sword
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 23
 DMG: 4
-WT: 4.0 Size: MEDIUM
+Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
@@ -1512,14 +1516,15 @@ Race: ALL
 Slot: PRIMARY
 Skill: Piercing Atk Delay: 27
 DMG: 6BACKSTAB: 6
-WT: 6.8 Size: LARGE
+Size: LARGE WT: 6.8
 Class: WAR RNG SHD BRD ROG SHM BST
 Race: ALL
 , Fine Steel RapierFine Steel Rapier
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: Piercing Atk Delay: 23
 DMG: 5BACKSTAB: 5
-WT: 5.0 Size: MEDIUM
+Size: MEDIUM WT: 5.0
 Class: WAR RNG SHD BRD ROG
 Race: ALL
 |
@@ -1599,11 +1604,12 @@ Necromancer |
 37 |
 Various |
 Fine Steel Two Handed SwordFine Steel Two Handed Sword
+Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 43
 DMG: 12
-WT: 10.0 Size: LARGE
-Class: WAR PAL RNG SHD
+Size: LARGE WT: 10.0
+Class: WAR PAL RNG SHD BER
 Race: ALL
 |
 Description needed. |
@@ -2077,18 +2083,18 @@ Reggit |
 (None) |
 LORE ITEM NO DROP QUEST ITEM WT: 3.5 Size: LARGE Class: ALL Race: ALL |
 PugiusPugius
-MAGIC ITEM
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: Piercing Atk Delay: 21
 DMG: 5BACKSTAB: 5
 Effect: Rising Dexterity (Combat) at Level 15
-WT: 2.5 Size: SMALL
+Size: SMALL WT: 2.5
 Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
 Race: ALL
 |
 General V`ghera |
 Piercing |
-Atk Delay: 21 DMG: 5 Effect: Rising Dexterity (Combat) at Level 15 WT: 2.5 Size: SMALL Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST Race: ALL |
+Atk Delay: 21 DMG: 5 Effect: Rising Dexterity (Combat) at Level 15 Size: SMALL WT: 2.5 Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST Race: ALL |
 Robe of the IshvaRobe of the Ishva
 MAGIC ITEM LORE ITEM
 Slot: CHEST

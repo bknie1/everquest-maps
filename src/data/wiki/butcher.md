@@ -1,5 +1,5 @@
 # Butcherblock_Mountains (eqlwiki.com)
-fetched: 2026-08-30
+fetched: 2026-08-31
 
 Butcherblock Mountains - EverQuest Legends Wiki
 Jump to content
@@ -199,7 +199,8 @@ Warrior |
 5-7 |
 Southern Karana: 100% @ (1397, 1082) |
 Bone ChipsBone Chips
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -238,7 +239,8 @@ WT: 5.0 Size: MEDIUM
 Class: ALL
 Race: ALL
 , Cracked Giant Scarab CarapaceCracked Giant Scarab Carapace
-WT: 5.0 Size: MEDIUM
+Quest
+Size: MEDIUM WT: 5.0
 Class: ALL
 Race: ALL
 |
@@ -699,7 +701,8 @@ Magician |
 15 |
 Chessboard |
 Warbone ChipsWarbone Chips
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -721,11 +724,13 @@ Warrior |
 9 - 12 |
 100% @ (847, -2280) |
 Bone ChipsBone Chips
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Warbone ChipsWarbone Chips
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Bead NecklaceBead Necklace
@@ -756,11 +761,13 @@ WT: 6.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 , Bone ChipsBone Chips
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Warbone ChipsWarbone Chips
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -1841,13 +1848,14 @@ a goblin shaman, a goblin wizard |
 Primary, Secondary |
 HP: +5 WIS: +7 WT: 0.8 Size: SMALL Class: CLR DRU BRD SHM Race: ALL |
 Cracked Giant Scarab CarapaceCracked Giant Scarab Carapace
-WT: 5.0 Size: MEDIUM
+Quest
+Size: MEDIUM WT: 5.0
 Class: ALL
 Race: ALL
 |
 a giant scarab |
 (None) |
-WT: 5.0 Size: MEDIUM Class: ALL Race: ALL |
+Quest Size: MEDIUM WT: 5.0 Class: ALL Race: ALL |
 Crytil's TongueCrytil's Tongue
 LORE ITEM NO DROP
 WT: 0.1 Size: TINY
@@ -2097,13 +2105,14 @@ Peg Leg |
 (None) |
 LORE ITEM NO DROP WT: 0.2 Size: SMALL Class: ALL Race: ALL |
 Warbone ChipsWarbone Chips
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
 an undead bishop, an undead king, an undead knight |
 (None) |
-WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.1 Class: ALL Race: ALL |
 Retrieved from "https://eqlwiki.com/index.php?title=Butcherblock_Mountains&oldid=131519"
 Categories: Classic Era
 Zones

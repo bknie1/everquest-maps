@@ -1,5 +1,5 @@
 # Ak'Anon (eqlwiki.com)
-fetched: 2026-08-30
+fetched: 2026-08-31
 
 Ak'Anon - EverQuest Legends Wiki
 Jump to content
@@ -798,7 +798,8 @@ Warrior |
 1 |
 Ak'Anon: 100% @ (2171, -437), 100% @ (2138, -587), 100% @ (2165, -398), 100% @ (2042, -471) |
 Bone ChipsBone Chips
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |

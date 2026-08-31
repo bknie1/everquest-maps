@@ -1,5 +1,5 @@
 # Lower_Guk (eqlwiki.com)
-fetched: 2026-08-26
+fetched: 2026-08-31
 
 Lower Guk - EverQuest Legends Wiki
 Jump to content
@@ -222,7 +222,7 @@ WT: 2.0 Size: MEDIUM
 Class: RNG
 Race: ALL
 , Embroidered Black CapeEmbroidered Black Cape
-MAGIC ITEM
+Attunable
 Slot: SHOULDERS
 AC: 4
 HP: +15 MANA: +20
@@ -761,7 +761,7 @@ Class: WAR CLR PAL SHD BRD
 Race: ALL
 . Caution: One of them can see invis.
 13. "Ritualist Spawn" - a ghoul ritualist who drops Embroidered Black CapeEmbroidered Black Cape
-MAGIC ITEM
+Attunable
 Slot: SHOULDERS
 AC: 4
 HP: +15 MANA: +20
@@ -944,7 +944,21 @@ Giant Spider |
 Warrior |
 30-32 |
 3% @ (759, -412), 3% @ (922, -402), 3% @ (933, -423), 3% @ (911, -419) |
-Various |
+2-4x Spider SilkSpider Silk
+WT: 0.1 Size: SMALL
+Class: ALL
+Race: ALL
+(Common), Spider LegsSpider Legs
+QUEST ITEM
+WT: 0.5 Size: SMALL
+Class: ALL
+Race: ALL
+(Common), A Spider Venom SacA Spider Venom Sac
+QUEST ITEM
+WT: 0.2 Size: SMALL
+Class: ALL
+Race: ALL
+(Common), Classic Mid-Tier Treasures (Uncommon) |
 An arachnid stalker that waits in the tunnel by the bedroom, waiting to catch adventurers who only have Invis Versus Und... |
 A Froglok Bok Knight
 |
@@ -1539,7 +1553,7 @@ WT: 0.4 Size: SMALL
 Class: CLR DRU BRD SHM NEC WIZ MAG ENC
 Race: ALLFocus Effect: Summoning Efficiency II
 , Embroidered Black CapeEmbroidered Black Cape
-MAGIC ITEM
+Attunable
 Slot: SHOULDERS
 AC: 4
 HP: +15 MANA: +20
@@ -2204,7 +2218,7 @@ a minotaur patriarch |
 1H Slashing |
 Atk Delay: 24 DMG: 7 Effect: Ensnaring Roots (Combat, Casting Time: Instant) at Level 25 WT: 2.0 Size: MEDIUM Class: RNG Race: ALL |
 Embroidered Black CapeEmbroidered Black Cape
-MAGIC ITEM
+Attunable
 Slot: SHOULDERS
 AC: 4
 HP: +15 MANA: +20
@@ -2748,11 +2762,13 @@ the ghoul lord |
 Head |
 AC: 13 HP: +35 SV MAGIC: +10 WT: 5.0 Size: SMALL Class: WAR CLR PAL SHD BRD Race: ALL |
 The End of an AgeThe End of an Age
-WT: 0.0 Size: TINY
+Size: TINY WT: 0.0
+Class: NONE
+Race: NONE
 |
 a reanimated hand |
 (None) |
-WT: 0.0 Size: TINY |
+Size: TINY WT: 0.0 Class: NONE Race: NONE |
 The IdolThe Idol
 MAGIC ITEM LORE ITEM NODROP
 Slot: PRIMARY SECONDARY

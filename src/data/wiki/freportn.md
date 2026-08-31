@@ -1,5 +1,5 @@
 # North_Freeport (eqlwiki.com)
-fetched: 2026-08-30
+fetched: 2026-08-31
 
 Freeport - EverQuest Legends Wiki
 Jump to content
@@ -473,8 +473,8 @@ Warrior |
 11 |
 8% @ (-592, -885), 8% @ (-568, -913), 8% @ (-566, -878), 8% @ (-606, -907) |
 Raw-hide Armor, Rusty Weapons, Zombie SkinZombie Skin
-QUEST ITEM
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Waterlogged FleshWaterlogged Flesh
@@ -630,10 +630,11 @@ Warrior |
 40 |
 100% @ (-87, -135) |
 Fine Steel Short SwordFine Steel Short Sword
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 23
 DMG: 4
-WT: 4.0 Size: MEDIUM
+Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , Damaged Militia HelmDamaged Militia Helm
@@ -698,10 +699,11 @@ WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , Fine Steel Short SwordFine Steel Short Sword
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 23
 DMG: 4
-WT: 4.0 Size: MEDIUM
+Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
@@ -2345,10 +2347,11 @@ WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , Fine Steel Short SwordFine Steel Short Sword
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 23
 DMG: 4
-WT: 4.0 Size: MEDIUM
+Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , Short Sword* |

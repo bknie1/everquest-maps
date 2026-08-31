@@ -1,5 +1,5 @@
 # Plane_of_Fear (eqlwiki.com)
-fetched: 2026-08-30
+fetched: 2026-08-31
 
 Plane of Fear - EverQuest Legends Wiki
 Jump to content
@@ -2102,13 +2102,13 @@ a gorgon, a nightmare, phoboplasm |
 Feet |
 AC: 4 CHA: +3 AGI: +10 HP: +15 SV POISON: +10 WT: 0.7 Size: SMALL Class: ENC Race: ALL |
 Jack-O-Lantern FungusJack-O-Lantern Fungus
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 a samhain |
 (None) |
-WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Lustrous Russet BootsLustrous Russet Boots
 Lore Equipped, No Trade
 Slot: FEET

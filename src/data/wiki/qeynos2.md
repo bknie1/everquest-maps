@@ -1,5 +1,5 @@
 # Qeynos (eqlwiki.com)
-fetched: 2026-08-30
+fetched: 2026-08-31
 
 Qeynos - EverQuest Legends Wiki
 Jump to content
@@ -1226,11 +1226,12 @@ Warrior |
 45 |
 50% @ (304, -445) |
 Fine Steel Two Handed SwordFine Steel Two Handed Sword
+Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 43
 DMG: 12
-WT: 10.0 Size: LARGE
-Class: WAR PAL RNG SHD
+Size: LARGE WT: 10.0
+Class: WAR PAL RNG SHD BER
 Race: ALL
 (Always) |
 Stands watch outside the Qeynos bank. Friends with Eracon Krengon who hangs out inside. Flees at 20% health. |
@@ -1294,11 +1295,12 @@ Warrior |
 45 |
 100% @ (312, -448) |
 Fine Steel Two Handed SwordFine Steel Two Handed Sword
+Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 43
 DMG: 12
-WT: 10.0 Size: LARGE
-Class: WAR PAL RNG SHD
+Size: LARGE WT: 10.0
+Class: WAR PAL RNG SHD BER
 Race: ALL
 (Always) |
 Hangs out inside the Qeynos bank. Friends with Dun who stands watch outside. Flees at 20% health. |
@@ -1459,11 +1461,11 @@ Warrior |
 5 |
 (-99, -386) |
 Rusty Long SwordRusty Long Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 35
 DMG: 5
-WT: 7.5 Size: MEDIUM
+Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
@@ -1483,11 +1485,11 @@ Warrior |
 9 |
 (-282, -525) |
 Rusty Long SwordRusty Long Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 35
 DMG: 5
-WT: 7.5 Size: MEDIUM
+Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
@@ -1507,11 +1509,11 @@ Warrior |
 5 |
 100% @ (74, -83) |
 Rusty Long SwordRusty Long Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 35
 DMG: 5
-WT: 7.5 Size: MEDIUM
+Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
@@ -1563,11 +1565,11 @@ Guard |
 5 |
 100% @ (74, -83) |
 Rusty Long SwordRusty Long Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 35
 DMG: 5
-WT: 7.5 Size: MEDIUM
+Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
@@ -1595,11 +1597,11 @@ Guard |
 5 |
 (-98, -382) |
 Rusty Long SwordRusty Long Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 35
 DMG: 5
-WT: 7.5 Size: MEDIUM
+Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
@@ -1611,11 +1613,11 @@ Warrior |
 5 |
 (74, -83) |
 Rusty Long SwordRusty Long Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 35
 DMG: 5
-WT: 7.5 Size: MEDIUM
+Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
@@ -1627,11 +1629,11 @@ Warrior |
 10 |
 (78, -117) |
 Rusty Long SwordRusty Long Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 35
 DMG: 5
-WT: 7.5 Size: MEDIUM
+Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
@@ -1651,11 +1653,11 @@ Warrior |
 5 |
 (553, -52) |
 Rusty Long SwordRusty Long Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 35
 DMG: 5
-WT: 7.5 Size: MEDIUM
+Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
@@ -3057,7 +3059,8 @@ Warrior |
 4 - 18 / 4-6 (Befallen) / 1-6 (Qeynos Aqueducts) |
 Various |
 Bone ChipsBone Chips
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -3340,11 +3343,11 @@ Warrior |
 5 |
 164, 245 |
 Rusty Long SwordRusty Long Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 35
 DMG: 5
-WT: 7.5 Size: MEDIUM
+Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
@@ -3454,11 +3457,11 @@ Warrior |
 5 |
 (363, 199), (363, 47), (-13, 89), (-68, -129) |
 Rusty Long SwordRusty Long Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 35
 DMG: 5
-WT: 7.5 Size: MEDIUM
+Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |

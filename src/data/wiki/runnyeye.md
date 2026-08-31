@@ -1,5 +1,5 @@
 # Runnyeye_Citadel (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-31
 
 Runnyeye - EverQuest Legends Wiki
 Jump to content
@@ -85,7 +85,8 @@ From EverQuest Legends Wiki
 Were you looking for Clan Runnyeye (Faction)?
 Runnyeye has been changed. Something is up in Goblin land...
 - May 30, 2001 patch notes
-RunnyEye Citadel (formerly Clan RunnyEye) is the underground home of the Pickclaw clan of goblins. Their tunnels wind their way through the hills, carving deeper and deeper down into the depths. There are rumors that the Runnyeye clan of goblins are allied in some strange way with the evil eyes ruled by King Xorbb, working together to expand both of their domains. They also seemed to have tapped into other elemental beings that make their home in this area of Norrath. The respawn timer for named mobs in this zone is 22 minutes. The regular mobs are between 6 and 10 minutes. The evil eye prisoner is 55 minutes.
+RunnyEye Citadel (formerly Clan RunnyEye) is the underground home of the Pickclaw clan of goblins. While the remaining Runnyeye Goblins that inhabit the top floor of the dungeon are KoS, the Pickclaw goblins on floors 2 and 4 are... not exactly what they seem, and start indifferent to everyone
+The respawn timer for named mobs in this zone is 22 minutes. The regular mobs are between 6 and 10 minutes. The evil eye prisoner is 55 minutes (unconfirmed on eql)
 RunnyEye Citadel just inside the entrance from the Gorge of King Xorbb.
 |
 |
@@ -499,6 +500,37 @@ There are two entrances to Runnyeye, both of which are fairly close to one anoth
 Keeping directly to the right will take you quickly to the entrance to the Gorge of King Xorbb, which is readily identifiable by the stakes with the human heads and the large "Keep Out" written in blood on the wall opposite the entrance. This is a very quick escape from trains who may happen to be following you from the second level...
 What's in this zone?
 Post-Revamp
+a goblin peon
+a goblin neophyte
+a goblin scavenger
+a goblin trainee
+a goblin runt
+A Pickclaw Bladestopper
+A Pickclaw Arroweater
+A Pickclaw Mindripper
+A Pickclaw Thoughtshaper
+A Pickclaw bonemender
+Goblin Janitor
+A Pickclaw Foeseeker
+A Pickclaw Crusader
+A Pickclaw Foechopper
+A Pickclaw Zekspeaker
+A Pickclaw Foeslicer
+A Pickclaw Destroyer
+Battlelord Paluk
+Lord Pickclaw
+Battlewizard Unak
+A Sporali Miner
+A Sporali Scavenger
+A Sporali Defender
+A Sporali worker
+A Sporali Gatherer
+A sporeling
+The Sporali Moldmaster
+A sludge guppy
+An ooze crawler
+Sludge Dankmire
+Borxx
 DynamicZoneList: Invalid zone name!
 Pre-Revamp
 NPCs - Found 15 NPCs that spawn in Clan Runnyeye:
@@ -692,11 +724,11 @@ Warrior |
 ~27 |
 King room, various other places on map |
 Bronze Long SwordBronze Long Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 32
 DMG: 5
-WT: 8.5 Size: MEDIUM
+Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , Blackened Iron BootsBlackened Iron Boots
@@ -1208,13 +1240,13 @@ Race: ALL
 an Evil Eye prisoner, An Evil Eye (Runnyeye) |
 (None) |
 LORE ITEM NO DROP WT: 0.1 Size: TINY Class: ALL Race: ALL |
-Retrieved from "https://eqlwiki.com/index.php?title=Runnyeye&oldid=131503"
+Retrieved from "https://eqlwiki.com/index.php?title=Runnyeye&oldid=175063"
 Categories: Classic Era
 Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 19 May 2026, at 13:49.
+This page was last edited on 30 August 2026, at 19:28.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

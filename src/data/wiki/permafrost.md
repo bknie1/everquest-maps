@@ -1,5 +1,5 @@
 # Permafrost_Keep (eqlwiki.com)
-fetched: 2026-08-29
+fetched: 2026-08-31
 
 Permafrost - EverQuest Legends Wiki
 Jump to content
@@ -862,10 +862,10 @@ WT: 1.5 Size: MEDIUM
 Class: NEC
 Race: ALL
 , Gossamer SleevesGossamer Sleeves
-MAGIC ITEM
+Attunable
 Slot: ARMS
 AC: 4
-WT: 0.4 Size: SMALL
+Size: SMALL WT: 0.4
 Class: NEC WIZ MAG ENC
 Race: ALL
 , Gossamer SashGossamer Sash

@@ -1,5 +1,5 @@
 # Kedge_Keep (eqlwiki.com)
-fetched: 2026-08-28
+fetched: 2026-08-31
 
 Kedge Keep - EverQuest Legends Wiki
 Jump to content
@@ -398,7 +398,7 @@ A Golden Haired Mermaid
 Mermaid |
 Ranger |
 40 |
-20% @ (-178, -32) |
+20% @ (-177, -31, 95) |
 Lock of HairLock of Hair
 LORE ITEM NO DROP
 WT: 1.0 Size: SMALL

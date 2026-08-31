@@ -1,5 +1,5 @@
 # Solusek's_Eye (eqlwiki.com)
-fetched: 2026-08-28
+fetched: 2026-08-31
 
 Solusek's Eye - EverQuest Legends Wiki
 Jump to content
@@ -836,10 +836,11 @@ WT: 22.5 Size: SMALL
 Class: ALL
 Race: ALL
 , Fine Steel Short SwordFine Steel Short Sword
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 23
 DMG: 4
-WT: 4.0 Size: MEDIUM
+Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
@@ -1427,8 +1428,10 @@ WT: 1.0 Size: SMALL
 Class: NONE
 Race: NONE
 , Mithril EarringMithril Earring
+Attunable
 Slot: EAR
-WT: 0.1 Size: TINY
+AC: 1
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |

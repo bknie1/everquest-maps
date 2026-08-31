@@ -1,5 +1,5 @@
 # Greater_Faydark (eqlwiki.com)
-fetched: 2026-08-30
+fetched: 2026-08-31
 
 Greater Faydark - EverQuest Legends Wiki
 Jump to content
@@ -203,11 +203,11 @@ WT: 9.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 , Rusty Long SwordRusty Long Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 35
 DMG: 5
-WT: 7.5 Size: MEDIUM
+Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , Rusty MaceRusty Mace
@@ -601,7 +601,7 @@ WT: 3.5 Size: SMALL
 Class: ALL
 Race: ALLFocus Effect: Mana Preservation II
 , Rain CallerRain Caller
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable, Placeable
 Slot: RANGE
 Skill: Archery Atk Delay: 45
 DMG: 20

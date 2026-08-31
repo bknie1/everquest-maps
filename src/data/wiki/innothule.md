@@ -1,5 +1,5 @@
 # Innothule_Swamp (eqlwiki.com)
-fetched: 2026-08-30
+fetched: 2026-08-31
 
 Innothule Swamp - EverQuest Legends Wiki
 Jump to content
@@ -373,7 +373,8 @@ Warrior |
 4 - 18 / 4-6 (Befallen) / 1-6 (Qeynos Aqueducts) |
 Various |
 Bone ChipsBone Chips
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -658,7 +659,7 @@ Ranger |
 4-6 |
 Various |
 Rusty Weapons, Sarcoscypha FungusSarcoscypha Fungus
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -907,7 +908,7 @@ Warrior |
 * Zimbittle's Pouch |
 Zimbittle is a female Troll that wanders around the zone in to city of Grobb.
 She is fairly low level so if yo... |
-Items - Found 38 items that drop in Innothule Swamp:
+Items - Found 39 items that drop in Innothule Swamp:
 Item Name | Drops From | Slot | Stats |
 A Noble's CrestA Noble's Crest
 NO DROP
@@ -1157,14 +1158,23 @@ Race: ALL
 a fat alligator |
 (None) |
 LORE ITEM NO DROP WT: 2.0 Size: MEDIUM Class: ALL Race: ALL |
+Pristine Bull Alligator HidePristine Bull Alligator Hide
+Size: MEDIUM
+WT: 2.0
+Class: NONE
+Race: NONE
+|
+a bull alligator |
+(None) |
+Size: MEDIUM WT: 2.0 Class: NONE Race: NONE |
 Sarcoscypha FungusSarcoscypha Fungus
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 a fungus spore, fungus man tracker |
 (None) |
-WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Very Large PeltVery Large Pelt
 LORE ITEM
 WT: 3.5 Size: MEDIUM

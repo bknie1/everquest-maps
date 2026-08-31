@@ -1,5 +1,5 @@
 # Highpass_Hold (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-08-31
 
 Highpass Hold - EverQuest Legends Wiki
 Jump to content
@@ -241,10 +241,11 @@ Warrior |
 20-36 |
 Various |
 Fine Steel Short SwordFine Steel Short Sword
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 23
 DMG: 4
-WT: 4.0 Size: MEDIUM
+Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
@@ -673,11 +674,11 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , TopazTopaz
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , IvoryIvory
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -714,10 +715,11 @@ Warrior |
 27 |
 100% @ (-568, 225) |
 Fine Steel Short SwordFine Steel Short Sword
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 23
 DMG: 4
-WT: 4.0 Size: MEDIUM
+Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
@@ -729,10 +731,11 @@ Warrior |
 29 |
 100% @ (554, 119) |
 Fine Steel Short SwordFine Steel Short Sword
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 23
 DMG: 4
-WT: 4.0 Size: MEDIUM
+Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
@@ -792,8 +795,10 @@ WT: 8.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
 Race: ALL
 , Silver AmuletSilver Amulet
+Attunable
 Slot: NECK
-WT: 0.1 Size: TINY
+AC: 1
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |

@@ -1,5 +1,5 @@
 # Crushbone (eqlwiki.com)
-fetched: 2026-08-29
+fetched: 2026-08-31
 
 Crushbone - EverQuest Legends Wiki
 Jump to content
@@ -358,7 +358,14 @@ Crushbone
 2. Castle Crush, where high levels spawn including emissaries, with Ambassador DVinn, and Emperor Crush in the tower, and with Lord Darish and Bonefire in the Throneroom
 Outside the castle entrance and across the bridge is the camp frequently called Wall
 3. Slave Cabin, with inhabitants needed for Screaming Mace Quest
-4. Slaver Caves, with slaves outside
+4. Slaver Caves, with the Orc Warden who drops Bracers of BattleBracers of Battle
+MAGIC ITEM
+Slot: WRIST
+AC: 3
+STR: +1 DEX: +3
+WT: 1.0 Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
 5. Slaver Pit with the Orc Taskmaster and Bloodgurgler
 6. Trainer Hill with Orc Trainer ("Where camping was born...")
 Note that the map is in error -- there is a land connection along the back wall from area 1 to behind the castle at area 5.
@@ -1526,13 +1533,13 @@ Race: ALL
 Ambassador DVinn |
 Feet |
 AC: 2 AGI: +2 DEX: +1 SV Fire: +2 SV Cold: +2 WT: 2.0 Size: SMALL Class: RNG DRU MNK ROG SHM NEC WIZ MAG ENC BST BER Race: ALL |
-Retrieved from "https://eqlwiki.com/index.php?title=Crushbone&oldid=157369"
+Retrieved from "https://eqlwiki.com/index.php?title=Crushbone&oldid=175277"
 Categories: Classic Era
 Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 14 July 2026, at 19:36.
+This page was last edited on 31 August 2026, at 12:54.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

@@ -1,5 +1,5 @@
 # Upper_Guk (eqlwiki.com)
-fetched: 2026-08-25
+fetched: 2026-08-31
 
 Upper Guk - EverQuest Legends Wiki
 Jump to content
@@ -594,7 +594,8 @@ Race: ALL
 (Rare)
 Common Loot
 AmberAmber
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 (Rare)
@@ -611,7 +612,8 @@ Class: ALL
 Race: ALL
 (Rare)
 JadeJade
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 (Rare)
@@ -659,7 +661,8 @@ Necromancer |
 10 |
 100% @ (163, 161) |
 AmberAmber
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 (Rare)
@@ -676,7 +679,8 @@ Class: ALL
 Race: ALL
 (Uncommon)
 JadeJade
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 (Rare)
@@ -759,7 +763,8 @@ Race: ALL
 (Rare) (20%)
 Common loot
 AmberAmber
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 (Rare) (17%)
@@ -776,7 +781,8 @@ Class: ALL
 Race: ALL
 (Uncommon) (16%)
 JadeJade
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 (Rare) (17%)
@@ -999,7 +1005,8 @@ Warrior |
 15-21 |
 (-27, -139)? |
 AmberAmber
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 (Rare)
@@ -1033,7 +1040,8 @@ Class: ALL
 Race: ALL
 (Uncommon)
 JadeJade
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 (Rare)
@@ -1043,7 +1051,7 @@ Class: ALL
 Race: ALL
 (Rare)
 IvoryIvory
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 (Uncommon)
@@ -1823,13 +1831,13 @@ a froglok gaz squire |
 Piercing |
 Atk Delay: 29 DMG: 5 SV FIRE: +10 SV COLD: +10 SV MAGIC: +10 WT: 4.5 Size: MEDIUM Class: WAR RNG SHD BRD ROG Race: ALL |
 Sarcoscypha FungusSarcoscypha Fungus
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 Various |
 (None) |
-WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Shin GauntletsShin Gauntlets
 MAGIC ITEM LORE ITEM NO DROP
 Slot: HANDS

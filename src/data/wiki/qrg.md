@@ -1,5 +1,5 @@
 # Surefall_Glade (eqlwiki.com)
-fetched: 2026-08-28
+fetched: 2026-08-31
 
 Surefall Glade - EverQuest Legends Wiki
 Jump to content
@@ -439,11 +439,11 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , Rusty Long SwordRusty Long Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 35
 DMG: 5
-WT: 7.5 Size: MEDIUM
+Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
@@ -591,10 +591,11 @@ Ranger |
 (-9.75, -78.74, 2.75)
 Spawns in the courtyard area in front of the building with the Ranger & Druid GM. Roams after spawning. |
 Fine Steel Short SwordFine Steel Short Sword
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 23
 DMG: 4
-WT: 4.0 Size: MEDIUM
+Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 x2, LongbowLongbow

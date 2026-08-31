@@ -1,5 +1,5 @@
 # North_Ro (eqlwiki.com)
-fetched: 2026-08-30
+fetched: 2026-08-31
 
 The Northern Desert of Ro - EverQuest Legends Wiki
 Jump to content
@@ -276,16 +276,16 @@ Need Info |
 6 ~ 10 |
 Need Info |
 Rusty Long SwordRusty Long Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 35
 DMG: 5
-WT: 7.5 Size: MEDIUM
+Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , Zombie SkinZombie Skin
-QUEST ITEM
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -409,7 +409,8 @@ Warrior |
 4 - 18 / 4-6 (Befallen) / 1-6 (Qeynos Aqueducts) |
 Various |
 Bone ChipsBone Chips
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -696,13 +697,14 @@ a Dervish Cutthroat, a Dervish Thug |
 1H Blunt |
 Atk Delay: 33 DMG: 5 WT: 8.5 Size: MEDIUM Class: ALL except NEC WIZ MAG ENC Race: ALL |
 Cracked Giant Scarab CarapaceCracked Giant Scarab Carapace
-WT: 5.0 Size: MEDIUM
+Quest
+Size: MEDIUM WT: 5.0
 Class: ALL
 Race: ALL
 |
 a sand scarab |
 (None) |
-WT: 5.0 Size: MEDIUM Class: ALL Race: ALL |
+Quest Size: MEDIUM WT: 5.0 Class: ALL Race: ALL |
 Cutthroat Golden ToothCutthroat Golden Tooth
 QUEST ITEM
 WT: 0.2 Size: SMALL

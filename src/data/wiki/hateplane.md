@@ -1,5 +1,5 @@
 # Plane_of_Hate (eqlwiki.com)
-fetched: 2026-08-30
+fetched: 2026-08-31
 
 Plane of Hate - EverQuest Legends Wiki
 Jump to content
@@ -543,7 +543,7 @@ Various, Imbrued Platemail Armor
 |
 Alternate Maps
 What's in this zone?
-NPCs - Found 47 NPCs that spawn in Plane of Hate:
+NPCs - Found 49 NPCs that spawn in Plane of Hate:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Champion of Innoruuk
 |
@@ -694,6 +694,14 @@ Various |
 Description needed.
 Lore
 Loathing liches are undead spellcasters who serve Innoruuk, poised to hurl spells of gr... |
+A Minister of Bertoxxulous
+|
+|
+Shadow Knight |
+56 |
+(120.56, 283.10, 151.84) Level 2 |
+None |
+|
 A Repulsive Rat
 |
 |
@@ -818,6 +826,14 @@ Shaman |
 Various - static spawns and roamers |
 Various |
 Large, black mud golem. Shaman, casts SOW and alacrity on nearby mobs, has a pet. Scowls at a sneaking rogue, but does n... |
+A Steel Warrior
+|
+|
+Warrior |
+56 |
+(x, y, z) |
+None |
+|
 A revultant rat
 |
 Undead Rat |
@@ -2543,7 +2559,7 @@ WT: 4.9 Size: MEDIUM
 Class: WAR
 Race: ALL
 |
-a haunted chest, Innoruuk's Chosen (Raid Only) |
+a haunted chest, Innoruuk's Chosen (Raid Only), Grandmaster R`Tal |
 Feet |
 AC: 20 WIS: +5 INT: +5 AGI: +5 SV DISEASE: +15 SV POISON: +15 WT: 4.9 Size: MEDIUM Class: WAR Race: ALL |
 Indicolite BracerIndicolite Bracer
@@ -2568,7 +2584,7 @@ WT: 7.5 Size: LARGE
 Class: WAR
 Race: ALL
 |
-a haunted chest, Innoruuk's Chosen (male) - Raid version only? |
+a haunted chest, Innoruuk's Chosen (male) - Raid version only?, Grandmaster R`Tal |
 Chest |
 AC: 35 STR: +15 DEX: +15 STA: +15 WT: 7.5 Size: LARGE Class: WAR Race: ALL |
 Indicolite GauntletsIndicolite Gauntlets
@@ -2604,7 +2620,7 @@ WT: 4.5 Size: SMALL
 Class: WAR
 Race: ALL
 |
-a spite golem, a haunted chest, Innoruuk's Chosen (Raid Only) |
+Various |
 Head |
 AC: 20 CHA: +5 INT: +5 WT: 4.5 Size: SMALL Class: WAR Race: ALL |
 Indicolite VambracesIndicolite Vambraces
@@ -2616,7 +2632,7 @@ WT: 4.9 Size: SMALL
 Class: WAR
 Race: ALL
 |
-a forsaken revenant (male), an ashenbone drake, a haunted chest |
+Various |
 Arms |
 AC: 20 STR: +9 DEX: +5 WT: 4.9 Size: SMALL Class: WAR Race: ALL |
 Insidious GlovesInsidious Gloves

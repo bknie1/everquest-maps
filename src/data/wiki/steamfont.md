@@ -1,5 +1,5 @@
 # Steamfont_Mountains (eqlwiki.com)
-fetched: 2026-08-27
+fetched: 2026-08-31
 
 Steamfont Mountains - EverQuest Legends Wiki
 Jump to content
@@ -184,7 +184,8 @@ Warrior |
 1 |
 Ak'Anon: 100% @ (2171, -437), 100% @ (2138, -587), 100% @ (2165, -398), 100% @ (2042, -471) |
 Bone ChipsBone Chips
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -516,7 +517,8 @@ Warrior |
 4 - 18 / 4-6 (Befallen) / 1-6 (Qeynos Aqueducts) |
 Various |
 Bone ChipsBone Chips
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -657,11 +659,11 @@ Warrior |
 8 |
 100% @ (-1098, -1759) |
 Rusty Long SwordRusty Long Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 35
 DMG: 5
-WT: 7.5 Size: MEDIUM
+Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , Berinsans Shirt |

@@ -1,5 +1,5 @@
 # Everfrost_Peaks (eqlwiki.com)
-fetched: 2026-08-30
+fetched: 2026-08-31
 
 Everfrost Peaks - EverQuest Legends Wiki
 Jump to content
@@ -341,6 +341,7 @@ WT: 1.0 Size: SMALL
 Class: ALL
 Race: ALL
 , Mammoth Calf HideMammoth Calf Hide
+Quest
 WT: 8.0 Size: LARGE
 Class: ALL
 Race: ALL
@@ -464,6 +465,7 @@ WT: 1.0 Size: SMALL
 Class: ALL
 Race: ALL
 , Mammoth Calf HideMammoth Calf Hide
+Quest
 WT: 8.0 Size: LARGE
 Class: ALL
 Race: ALL
@@ -900,7 +902,7 @@ Race: ALL
 He /con's "scowls" at player characters.
 Spawn & Pathing:
 He may spawn at 2356, -5320, but roams in a big circle that ... |
-Megan OReilly
+Megan O`Reilly
 |
 Barbarian |
 Warrior |
@@ -1043,7 +1045,8 @@ Warrior |
 8 |
 100% @ (1190, -347) |
 Bone ChipsBone Chips
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Delius Thyme's Diary Pg. 74 |
@@ -1055,7 +1058,8 @@ Warrior |
 10 |
 33% @ (1190, -347) |
 Bone ChipsBone Chips
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Winter Lilly, Delius Thyme's Diary Pg. 75 |
@@ -1317,13 +1321,14 @@ a snow orc trooper, a snow orc shaman, an orcish mountaineer |
 (None) |
 QUEST ITEM WT: 0.1 Size: TINY Class: ALL Race: ALL |
 Mammoth Calf HideMammoth Calf Hide
+Quest
 WT: 8.0 Size: LARGE
 Class: ALL
 Race: ALL
 |
 a wooly mammoth calf |
 (None) |
-WT: 8.0 Size: LARGE Class: ALL Race: ALL |
+Quest WT: 8.0 Size: LARGE Class: ALL Race: ALL |
 Mammoth MeatMammoth Meat
 WT: 1.0 Size: SMALL
 Class: ALL

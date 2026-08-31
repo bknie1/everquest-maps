@@ -1,5 +1,5 @@
 # Misty_Thicket (eqlwiki.com)
-fetched: 2026-08-30
+fetched: 2026-08-31
 
 Misty Thicket - EverQuest Legends Wiki
 Jump to content
@@ -406,7 +406,8 @@ WT: 5.0 Size: MEDIUM
 Class: ALL
 Race: ALL
 , Cracked Giant Scarab CarapaceCracked Giant Scarab Carapace
-WT: 5.0 Size: MEDIUM
+Quest
+Size: MEDIUM WT: 5.0
 Class: ALL
 Race: ALL
 |
@@ -855,7 +856,8 @@ Warrior |
 4-5 |
 East side of the wall. |
 Bone ChipsBone Chips
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 (Common)
@@ -869,8 +871,8 @@ Warrior |
 8 |
 Far east and northeast areas. |
 Zombie SkinZombie Skin
-QUEST ITEM
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 Rusty Weapons
@@ -973,7 +975,8 @@ Warrior |
 4 - 18 / 4-6 (Befallen) / 1-6 (Qeynos Aqueducts) |
 Various |
 Bone ChipsBone Chips
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |

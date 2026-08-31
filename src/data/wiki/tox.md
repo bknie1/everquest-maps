@@ -1,5 +1,5 @@
 # Toxxulia_Forest (eqlwiki.com)
-fetched: 2026-08-30
+fetched: 2026-08-31
 
 Toxxulia Forest - EverQuest Legends Wiki
 Jump to content
@@ -173,12 +173,13 @@ WT: 0.5 Size: SMALL
 Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC
 Race: ALL
 , Bone ChipsBone Chips
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Zombie SkinZombie Skin
-QUEST ITEM
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Experience (about half a blue at level 5), CarnelianCarnelian
@@ -186,11 +187,13 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , AmberAmber
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , JadeJade
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , HematiteHematite
@@ -644,7 +647,8 @@ Warrior |
 4 - 18 / 4-6 (Befallen) / 1-6 (Qeynos Aqueducts) |
 Various |
 Bone ChipsBone Chips
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -792,7 +796,8 @@ Warrior |
 6-7 |
 100% @ (-1770, -930) |
 Bone ChipsBone Chips
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |

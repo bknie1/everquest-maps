@@ -1,5 +1,5 @@
 # Najena (eqlwiki.com)
-fetched: 2026-08-30
+fetched: 2026-08-31
 
 Najena - EverQuest Legends Wiki
 Jump to content
@@ -405,7 +405,7 @@ najena
 |
 Zone Spawn Timer:
 |
-5:00
+4:24
 |
 Succor/Evacuate:
 |
@@ -861,7 +861,8 @@ Warrior |
 23-25 |
 Various |
 Damask Armor (Rare), Rusty Weapons (Rare), Bone ChipsBone Chips
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 (Common) |
@@ -912,7 +913,8 @@ Warrior |
 8-10, 15 (Najena) |
 Various |
 Cloth Armor (Rare), Rusty Weapons (Rare), Bone ChipsBone Chips
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 (Always) |
@@ -1649,14 +1651,14 @@ The guard captain |
 Hands |
 AC: 7 HP: +5 STA: +2 SV FIRE: +5 WT: 5.0 Size: SMALL Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
 Darkbone MarrowDarkbone Marrow
-QUEST ITEM
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 dark-boned skeleton, a greater skeleton |
 (None) |
-QUEST ITEM WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Quest Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Darkspun ShroudDarkspun Shroud
 Attunable
 Class: NEC WIZ MAG ENC
@@ -2172,13 +2174,13 @@ Race: NONE
 The Widowmistress |
 (None) |
 LORE ITEM NO DROP WT: 0.1 Size: TINY Class: NONE Race: NONE |
-Retrieved from "https://eqlwiki.com/index.php?title=Najena&oldid=171476"
+Retrieved from "https://eqlwiki.com/index.php?title=Najena&oldid=175103"
 Categories: Classic Era
 Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 22 August 2026, at 11:46.
+This page was last edited on 30 August 2026, at 21:47.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

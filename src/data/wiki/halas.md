@@ -1,5 +1,5 @@
 # Halas (eqlwiki.com)
-fetched: 2026-08-30
+fetched: 2026-08-31
 
 Halas - EverQuest Legends Wiki
 Jump to content
@@ -388,9 +388,9 @@ Race: ALL
 |
 Lysbith McNaff |
 2 |
-? |
+Any |
 Everfrost Peaks |
-ice goblin whelp or ice goblin scout |
+ice goblin whelp, ice goblin scout, ice goblin diver, ice goblin caster |
 Ivan McMannus' Remains
 |
 PursePurse
@@ -443,7 +443,7 @@ Race: ALL
 Renth McLanis |
 20 |
 Warrior |
-Western Plains of Karana |
+Western Karana |
 Frostbite, Iceberg, Basil, Paglan, Dok, Tundra Jack, Ulrich McMannus |
 Lion Meat Shipment Quest
 |
@@ -498,9 +498,9 @@ Race: ALL
 |
 Dargon McPherson |
 1 |
-? |
+All |
 Everfrost Peaks |
-Arnis McLish, Bryndin McMill, Megan OReilly, Snowflake, Talin ODonal |
+Arnis McLish, Bryndin McMill, Megan O`Reilly, Snowflake, Talin O`Donal |
 Mammoth Calf Hides
 |
 Black Wolf ArmplatesBlack Wolf Armplates

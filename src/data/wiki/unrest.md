@@ -1,5 +1,5 @@
 # Estate_of_Unrest (eqlwiki.com)
-fetched: 2026-08-26
+fetched: 2026-08-31
 
 The Estate of Unrest - EverQuest Legends Wiki
 Jump to content
@@ -113,13 +113,13 @@ WT: 2.0 Size: MEDIUM
 Class: CLR PAL DRU SHM
 Race: ALLFocus Effect: Improved Healing I
 , Bloodstained MantleBloodstained Mantle
-MAGIC ITEM
+Attunable
 Slot: SHOULDERS
 AC: 6
 STR: +3
 SV MAGIC: +10
-WT: 3.5 Size: SMALL
-Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Size: SMALL WT: 3.5
+Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
 Race: ALL
 , Bloodstained TunicBloodstained Tunic
 MAGIC ITEM
@@ -134,7 +134,7 @@ Attunable
 Slot: WRIST
 AC: 6
 DEX: 2 STA: 2
-WT: 2.1 Size: SMALL
+Size: SMALL WT: 2.1
 Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
 Race: ALL
 , Brewer's MittensBrewer's Mittens
@@ -150,10 +150,10 @@ Race: ALL
 Attunable
 Slot: PRIMARY
 Skill: 2H Blunt
-DMG: 12 DMG Bonus: 28
+DMG: 12
 Atk Delay: 42
 DEX: -13 INT: 7
-WT: 3.5 Size: MEDIUM
+Size: MEDIUM WT: 3.5
 Class: NEC WIZ MAG ENC
 Race: ALL
 , Cursed BladeCursed Blade
@@ -167,11 +167,11 @@ WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , Dark Boned BraceletDark Boned Bracelet
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade, Quest
 Slot: WRIST
 AC: 2
 SV FIRE: +2
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Dark Plate LeggingsDark Plate Leggings
@@ -179,7 +179,7 @@ Attunable
 Slot: LEGS
 AC: 13
 STR: 2 STA: 5
-WT: 9.4 Size: MEDIUM
+Size: MEDIUM WT: 9.4
 Class: WAR PAL SHD
 Race: ALL
 , Dusty Bloodstained GlovesDusty Bloodstained Gloves
@@ -204,16 +204,16 @@ Slot: BACK
 AC: 5
 HP: 10 MANA: 35 END: 15
 SV Disease: -10 SV Poison: -10
-WT: 0.5 Size: MEDMIUM
+Size: MEDMIUM WT: 0.5
 Class: nec
 Race: ALL
 , GladiusGladius
-MAGIC ITEM
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 29
 DMG: 7
 Effect: Laceration (Combat) at Level 15
-WT: 2.5 Size: MEDIUM
+Size: MEDIUM WT: 2.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , Ivory BraceletIvory Bracelet
@@ -240,12 +240,12 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , PugiusPugius
-MAGIC ITEM
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: Piercing Atk Delay: 21
 DMG: 5BACKSTAB: 5
 Effect: Rising Dexterity (Combat) at Level 15
-WT: 2.5 Size: SMALL
+Size: SMALL WT: 2.5
 Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
 Race: ALL
 , Repurposed PickaxeRepurposed Pickaxe
@@ -262,7 +262,7 @@ Attunable, Quest
 Slot: FINGER
 HP: 27
 SV Magic: -4
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Rotted ChestwrapsRotted Chestwraps
@@ -275,11 +275,11 @@ WT: 0.3 Size: MEDIUM
 Class: MNK BST
 Race: ALL
 , Savant's CapSavant's Cap
-MAGIC ITEM
+Attunable
 Slot: HEAD
 AC: 2
 WIS: +3 INT: +3
-WT: 0.3 Size: SMALL
+Size: SMALL WT: 0.3
 Class: ALL
 Race: ALLFocus Effect: Reagent Conservation II
 , Scaredy CapScaredy Cap
@@ -311,7 +311,7 @@ Attunable
 Slot: WAIST
 AC: 8
 Haste: 15%
-WT: 1.0 Size: SMALL
+Size: SMALL WT: 1.0
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST BER
 Race: ALL
 |
@@ -345,21 +345,21 @@ Estate of Unrest
 1. Underground cave with a gnomish spelunker
 2. The Gazebo
 A. Back Room area with the nearby rare spawn lesser blade fiend who drops GladiusGladius
-MAGIC ITEM
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 29
 DMG: 7
 Effect: Laceration (Combat) at Level 15
-WT: 2.5 Size: MEDIUM
+Size: MEDIUM WT: 2.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 (Rare) and PugiusPugius
-MAGIC ITEM
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: Piercing Atk Delay: 21
 DMG: 5BACKSTAB: 5
 Effect: Rising Dexterity (Combat) at Level 15
-WT: 2.5 Size: SMALL
+Size: SMALL WT: 2.5
 Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
 Race: ALL
 (Rare)
@@ -369,11 +369,11 @@ The lettered stairs lead to each other.
 |
 Unrest Manor
 1. Room that spawns reclusive ghoul magus who drops Savant's CapSavant's Cap
-MAGIC ITEM
+Attunable
 Slot: HEAD
 AC: 2
 WIS: +3 INT: +3
-WT: 0.3 Size: SMALL
+Size: SMALL WT: 0.3
 Class: ALL
 Race: ALLFocus Effect: Reagent Conservation II
 (Common) and Dusty Bloodstained GlovesDusty Bloodstained Gloves
@@ -398,7 +398,7 @@ Attunable
 Slot: WAIST
 AC: 8
 Haste: 15%
-WT: 1.0 Size: SMALL
+Size: SMALL WT: 1.0
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST BER
 Race: ALL
 (Rare), and Zombie of Unrest Noble
@@ -412,13 +412,13 @@ Race: ALLFocus Effect: Reanimation Haste I
 4. Tower that spawns a priest of najena who drops Tarnished Bronze Key
 5. Tower Room
 6. "Tower" with an undead knight of Unrest who drops Bloodstained MantleBloodstained Mantle
-MAGIC ITEM
+Attunable
 Slot: SHOULDERS
 AC: 6
 STR: +3
 SV MAGIC: +10
-WT: 3.5 Size: SMALL
-Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Size: SMALL WT: 3.5
+Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
 Race: ALL
 (Common) and Bloodstained TunicBloodstained Tunic
 MAGIC ITEM
@@ -474,32 +474,32 @@ Some classes can begin hunting in Unrest as early as level 9, although it's safe
 When pulling mobs from the inside of the estate to the outside, bear in mind the dangers of pulling them through the front door, an oft-trained area. The side and back doors are generally a safer bet. Ghouls and Carrion Ghouls can proc Ghoul Root on you stopping you in the train tracks. Druids and Rangers are the best pullers in Unrest because it's considered an outdoors zone, allowing them use of the Harmony spell (unresistable area of effect pacify).
 Once you are level 14 to 16 as a priest or caster, you can handle camps inside the house on the first floor without too many problems; for melees your mileage will vary depending on gear, and duoing or grouping is usually suggested. You can hunt either inside the side door (where the lesser blade fiend who drops
 PugiusPugius
-MAGIC ITEM
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: Piercing Atk Delay: 21
 DMG: 5BACKSTAB: 5
 Effect: Rising Dexterity (Combat) at Level 15
-WT: 2.5 Size: SMALL
+Size: SMALL WT: 2.5
 Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
 Race: ALL
 and
 GladiusGladius
-MAGIC ITEM
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 29
 DMG: 7
 Effect: Laceration (Combat) at Level 15
-WT: 2.5 Size: MEDIUM
+Size: MEDIUM WT: 2.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 spawns), usually considered an extension of the back room (BR), or in the center room known as main room (MR). The main room is more risky because of the stairs leading to the second floor where trains sometimes path. Notable mobs are the an undead brewer who drops Preserved Hops, an item needed for the Cleric-only Brell Serilis symbol quest.
 At around level 22 to 24 (for main healers, Greater Healing will often be necessary; Cleric gets this at 24) when the experience rate slows down and mobs begin to con green, you can graduate to the second floor. The most common camp spot here is called fireplace (FP) with an average mob level of 24-25, and from there you can reach quite a few named mobs with noteworthy loot drops. There are two mobs all but the strongest groups will be careful to avoid: the gnome Khrix Fritchoff and a priest of Najena. Named mobs this camp can pull from the various rooms on the floor (which is easily manageable with a solid group and a Druid or Ranger using Harmony) include the reclusive ghoul magus (
 Savant's CapSavant's Cap
-MAGIC ITEM
+Attunable
 Slot: HEAD
 AC: 2
 WIS: +3 INT: +3
-WT: 0.3 Size: SMALL
+Size: SMALL WT: 0.3
 Class: ALL
 Race: ALLFocus Effect: Reagent Conservation II
 ,
@@ -517,7 +517,7 @@ Attunable
 Slot: WAIST
 AC: 8
 Haste: 15%
-WT: 1.0 Size: SMALL
+Size: SMALL WT: 1.0
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST BER
 Race: ALL
 ,
@@ -544,7 +544,7 @@ Slot: BACK
 AC: 5
 HP: 10 MANA: 35 END: 15
 SV Disease: -10 SV Poison: -10
-WT: 0.5 Size: MEDMIUM
+Size: MEDMIUM WT: 0.5
 Class: nec
 Race: ALL
 ), with the one in the middle being the placeholder for the undead knight of unrest (
@@ -558,13 +558,13 @@ Class: WAR CLR PAL RNG SHD BRD ROG SHM
 Race: ALL
 ,
 Bloodstained MantleBloodstained Mantle
-MAGIC ITEM
+Attunable
 Slot: SHOULDERS
 AC: 6
 STR: +3
 SV MAGIC: +10
-WT: 3.5 Size: SMALL
-Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Size: SMALL WT: 3.5
+Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
 Race: ALL
 ), a Shadow Knight who will cast Harm Touch and Fear -- so be ready!
 The second floor experience rate will be good until 30 or so. When it slows down, or if you're at least level 28 and want a change of scenery, it's time to descend into the bowels of Unrest and camp the dreaded basement. A fake library on the wall on the first floor is the door to it. Many stronger mobs await you in this gruesome area. Torture props and blood everywhere are the standard decoration for this camp. Greater dark bone skeletons, dusty werebats (drops an Enchanter quest item), skeletal monks, and festering hags populate the first section. Dark terrors, tentacle terrors (knocks back players and drops
@@ -609,23 +609,24 @@ Warrior |
 25 ~ 26 |
 (663, 39), (496, 46), (497, -64) |
 Bronze Long SwordBronze Long Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 32
 DMG: 5
-WT: 8.5 Size: MEDIUM
+Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , Grave MoldGrave Mold
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Rusty Long SwordRusty Long Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 35
 DMG: 5
-WT: 7.5 Size: MEDIUM
+Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , A Ghoul's HeartA Ghoul's Heart
@@ -786,12 +787,12 @@ Warrior |
 12-14 |
 |
 Amanita PhalloideAmanita Phalloide
-QUEST ITEM
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Jack-O-Lantern FungusJack-O-Lantern Fungus
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -803,7 +804,8 @@ Warrior |
 8-10, 15 (Najena) |
 Various |
 Cloth Armor (Rare), Rusty Weapons (Rare), Bone ChipsBone Chips
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 (Always) |
@@ -862,11 +864,11 @@ Warrior |
 24-28 |
 Various |
 TopazTopaz
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Flame AgateFlame Agate
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Thick Caustic FluidThick Caustic Fluid
@@ -874,9 +876,9 @@ No Trade
 WT: 0.4 Size: SMALL
 Class: ALL
 Race: ALL
-, A Werebat WingA Werebat Wing
-MAGIC ITEM LORE ITEM NO DROP
-WT: 0.0 Size: SMALL
+, Werebat WingWerebat Wing
+No Trade, Quest
+Size: SMALL WT: 0.0
 Class: ALL
 Race: ALL
 |
@@ -898,7 +900,7 @@ Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
 Race: ALL
 , Preserved HopsPreserved Hops
 No Trade
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -926,16 +928,16 @@ WT: 6.5 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD BRD ROG SHM
 Race: ALL
 , Bloodstained MantleBloodstained Mantle
-MAGIC ITEM
+Attunable
 Slot: SHOULDERS
 AC: 6
 STR: +3
 SV MAGIC: +10
-WT: 3.5 Size: SMALL
-Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Size: SMALL WT: 3.5
+Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
 Race: ALL
 , Cracked Glass KeyCracked Glass Key
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -1034,21 +1036,21 @@ Warrior |
 19 |
 100% @ (699, 90) |
 GladiusGladius
-MAGIC ITEM
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 29
 DMG: 7
 Effect: Laceration (Combat) at Level 15
-WT: 2.5 Size: MEDIUM
+Size: MEDIUM WT: 2.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , PugiusPugius
-MAGIC ITEM
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: Piercing Atk Delay: 21
 DMG: 5BACKSTAB: 5
 Effect: Rising Dexterity (Combat) at Level 15
-WT: 2.5 Size: SMALL
+Size: SMALL WT: 2.5
 Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
 Race: ALL
 |
@@ -1068,11 +1070,11 @@ Necromancer |
 23 |
 50% @ (700, 27) |
 Savant's CapSavant's Cap
-MAGIC ITEM
+Attunable
 Slot: HEAD
 AC: 2
 WIS: +3 INT: +3
-WT: 0.3 Size: SMALL
+Size: SMALL WT: 0.3
 Class: ALL
 Race: ALLFocus Effect: Reagent Conservation II
 , Dusty Bloodstained GlovesDusty Bloodstained Gloves
@@ -1084,7 +1086,7 @@ WT: 0.4 Size: SMALL
 Class: NEC WIZ MAG ENC
 Race: ALLFocus Effect: Summoning Efficiency I
 , Polished Brass KeyPolished Brass Key
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -1120,8 +1122,8 @@ WT: 5.0 Size: MEDIUM
 Class: ALL except SHD NEC WIZ MAG ENC
 Race: ALL
 , Battleworn CanteenBattleworn Canteen
-MAGIC ITEM LORE ITEM NO DROP
-WT: 0.5 Size: SMALL
+No Trade
+Size: SMALL WT: 0.5
 Class: ALL
 Race: ALL
 |
@@ -1160,35 +1162,27 @@ Attunable
 Slot: LEGS
 AC: 13
 STR: 2 STA: 5
-WT: 9.4 Size: MEDIUM
+Size: MEDIUM WT: 9.4
 Class: WAR PAL SHD
 Race: ALL
 , Grave MoldGrave Mold
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 Description needed. |
 Items - Found 78 items that drop in The Estate of Unrest:
 Item Name | Drops From | Slot | Stats |
-A Werebat WingA Werebat Wing
-MAGIC ITEM LORE ITEM NO DROP
-WT: 0.0 Size: SMALL
-Class: ALL
-Race: ALL
-|
-a werebat |
-(None) |
-MAGIC ITEM LORE ITEM NO DROP WT: 0.0 Size: SMALL Class: ALL Race: ALL |
 Amanita PhalloideAmanita Phalloide
-QUEST ITEM
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 Various |
 (None) |
-QUEST ITEM WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Quest Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Barbed Bone ChipsBarbed Bone Chips
 Quest
 WT: 0.1 Size: SMALL
@@ -1210,27 +1204,27 @@ Garanel Rucksif |
 1H Slashing |
 Atk Delay: 35 DMG: 7 WT: 8.5 Size: MEDIUM Class: WAR PAL RNG SHD BRD ROG Race: ALL |
 Battleworn CanteenBattleworn Canteen
-MAGIC ITEM LORE ITEM NO DROP
-WT: 0.5 Size: SMALL
+No Trade
+Size: SMALL WT: 0.5
 Class: ALL
 Race: ALL
 |
 Torklar Battlemaster |
 (None) |
-MAGIC ITEM LORE ITEM NO DROP WT: 0.5 Size: SMALL Class: ALL Race: ALL |
+No Trade Size: SMALL WT: 0.5 Class: ALL Race: ALL |
 Bloodstained MantleBloodstained Mantle
-MAGIC ITEM
+Attunable
 Slot: SHOULDERS
 AC: 6
 STR: +3
 SV MAGIC: +10
-WT: 3.5 Size: SMALL
-Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Size: SMALL WT: 3.5
+Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
 Race: ALL
 |
 an undead knight of Unrest |
 Shoulders |
-AC: 6 STR: +3 SV MAGIC: +10 WT: 3.5 Size: SMALL Class: WAR CLR PAL RNG SHD BRD ROG SHM Race: ALL |
+AC: 6 STR: +3 SV MAGIC: +10 Size: SMALL WT: 3.5 Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
 Bloodstained TunicBloodstained Tunic
 MAGIC ITEM
 Slot: CHEST
@@ -1257,13 +1251,13 @@ Attunable
 Slot: WRIST
 AC: 6
 DEX: 2 STA: 2
-WT: 2.1 Size: SMALL
+Size: SMALL WT: 2.1
 Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
 Race: ALL
 |
 an undead brewer |
 Wrist |
-AC: 6 DEX: 2 STA: 2 WT: 2.1 Size: SMALL Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
+AC: 6 DEX: 2 STA: 2 Size: SMALL WT: 2.1 Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
 Brewer's MittensBrewer's Mittens
 Attunable
 Slot: HANDS
@@ -1281,16 +1275,16 @@ Brittle StaffBrittle Staff
 Attunable
 Slot: PRIMARY
 Skill: 2H Blunt
-DMG: 12 DMG Bonus: 28
+DMG: 12
 Atk Delay: 42
 DEX: -13 INT: 7
-WT: 3.5 Size: MEDIUM
+Size: MEDIUM WT: 3.5
 Class: NEC WIZ MAG ENC
 Race: ALL
 |
 a reanimated hand |
 2H Blunt |
-DMG: 12 DMG Bonus: 28 Atk Delay: 42 DEX: -13 INT: 7 WT: 3.5 Size: MEDIUM Class: NEC WIZ MAG ENC Race: ALL |
+DMG: 12 Atk Delay: 42 DEX: -13 INT: 7 Size: MEDIUM WT: 3.5 Class: NEC WIZ MAG ENC Race: ALL |
 Bronze Two Handed Battle AxeBronze Two Handed Battle Axe
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 46
@@ -1325,16 +1319,17 @@ a greater dark bone |
 1H Blunt |
 Atk Delay: 33 DMG: 5 WT: 8.5 Size: MEDIUM Class: ALL except NEC WIZ MAG ENC Race: ALL |
 Charred DaggerCharred Dagger
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: Piercing Atk Delay: 21
 DMG: 3BACKSTAB: 3
-WT: 3.0 Size: SMALL
-Class: ALL except CLR PAL DRU MNK SHM
+Size: SMALL WT: 3.0
+Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
 Race: ALL
 |
 a carrion ghoul |
 Piercing |
-Atk Delay: 21 DMG: 3 WT: 3.0 Size: SMALL Class: ALL except CLR PAL DRU MNK SHM Race: ALL |
+Atk Delay: 21 DMG: 3 Size: SMALL WT: 3.0 Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST Race: ALL |
 Charred PearlCharred Pearl
 WT: 0.1 Size: TINY
 Class: ALL
@@ -1352,21 +1347,22 @@ zombie of an Unrest noble |
 (None) |
 WT: 0.1 Size: TINY Class: ALL Race: ALL |
 Cracked Giant Scarab CarapaceCracked Giant Scarab Carapace
-WT: 5.0 Size: MEDIUM
+Quest
+Size: MEDIUM WT: 5.0
 Class: ALL
 Race: ALL
 |
 a death beetle |
 (None) |
-WT: 5.0 Size: MEDIUM Class: ALL Race: ALL |
+Quest Size: MEDIUM WT: 5.0 Class: ALL Race: ALL |
 Cracked Glass KeyCracked Glass Key
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 an undead knight of Unrest |
 (None) |
-WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Cursed BladeCursed Blade
 Attunable, Lore Equipped
 Slot: PRIMARY SECONDARY
@@ -1390,38 +1386,38 @@ a greater dark bone |
 (None) |
 WT: 0.1 Size: SMALL Class: ALL Race: ALL |
 Dark Boned BraceletDark Boned Bracelet
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade, Quest
 Slot: WRIST
 AC: 2
 SV FIRE: +2
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 a greater dark bone |
 Wrist |
-AC: 2 SV FIRE: +2 WT: 0.1 Size: TINY Class: ALL Race: ALL |
+AC: 2 SV FIRE: +2 Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Dark Plate LeggingsDark Plate Leggings
 Attunable
 Slot: LEGS
 AC: 13
 STR: 2 STA: 5
-WT: 9.4 Size: MEDIUM
+Size: MEDIUM WT: 9.4
 Class: WAR PAL SHD
 Race: ALL
 |
 zombie of an unrest noble |
 Legs |
-AC: 13 STR: 2 STA: 5 WT: 9.4 Size: MEDIUM Class: WAR PAL SHD Race: ALL |
+AC: 13 STR: 2 STA: 5 Size: MEDIUM WT: 9.4 Class: WAR PAL SHD Race: ALL |
 Darkbone MarrowDarkbone Marrow
-QUEST ITEM
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 dark boned skeleton |
 (None) |
-QUEST ITEM WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Quest Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Darkbone SkullDarkbone Skull
 No Trade, Quest
 WT: 1.5 Size: SMALL
@@ -1438,13 +1434,14 @@ a reanimated hand |
 (None) |
 WT: 0.0 Size: TINY |
 Dull Bone ChipsDull Bone Chips
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
 a skeletal monk |
 (None) |
-WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.1 Class: ALL Race: ALL |
 Dusty Bloodstained GlovesDusty Bloodstained Gloves
 MAGIC ITEM
 Slot: HANDS
@@ -1479,16 +1476,17 @@ Garanel Rucksif |
 Feet |
 AC: 8 STR: +3 DEX: +5 WT: 5.0 Size: MEDIUM Class: ALL except NEC WIZ MAG ENC Race: ALL |
 Ebon DaggerEbon Dagger
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: Piercing Atk Delay: 20
 DMG: 3BACKSTAB: 3
-WT: 3.0 Size: SMALL
-Class: ALL except CLR PAL DRU MNK SHM
+Size: SMALL WT: 3.0
+Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
 Race: ALL
 |
 a dry bone skeleton |
 Piercing |
-Atk Delay: 20 DMG: 3 WT: 3.0 Size: SMALL Class: ALL except CLR PAL DRU MNK SHM Race: ALL |
+Atk Delay: 20 DMG: 3 Size: SMALL WT: 3.0 Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST Race: ALL |
 Ebon WandEbon Wand
 MAGIC ITEM
 Slot: PRIMARY SECONDARY
@@ -1506,13 +1504,13 @@ Slot: BACK
 AC: 5
 HP: 10 MANA: 35 END: 15
 SV Disease: -10 SV Poison: -10
-WT: 0.5 Size: MEDMIUM
+Size: MEDMIUM WT: 0.5
 Class: nec
 Race: ALL
 |
 a festering hag |
 Back |
-AC: 5 HP: 10 MANA: 35 END: 15 SV Disease: -10 SV Poison: -10 WT: 0.5 Size: MEDMIUM Class: nec Race: ALL |
+AC: 5 HP: 10 MANA: 35 END: 15 SV Disease: -10 SV Poison: -10 Size: MEDMIUM WT: 0.5 Class: nec Race: ALL |
 Fungus EyeFungus Eye
 Lore Equipped, No Trade, Quest, Placeable
 Slot: PRIMARY SECONDARY
@@ -1541,27 +1539,27 @@ a death beetle |
 (None) |
 WT: 0.5 Size: MEDIUM Class: ALL Race: ALL |
 GladiusGladius
-MAGIC ITEM
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 29
 DMG: 7
 Effect: Laceration (Combat) at Level 15
-WT: 2.5 Size: MEDIUM
+Size: MEDIUM WT: 2.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
 Lesser Blade Fiend |
 1H Slashing |
-Atk Delay: 29 DMG: 7 Effect: Laceration (Combat) at Level 15 WT: 2.5 Size: MEDIUM Class: WAR PAL RNG SHD BRD ROG Race: ALL |
+Atk Delay: 29 DMG: 7 Effect: Laceration (Combat) at Level 15 Size: MEDIUM WT: 2.5 Class: WAR PAL RNG SHD BRD ROG Race: ALL |
 Globe of MistGlobe of Mist
 No Trade, Quest
-WT: 0.3 Size: SMALL
+Size: SMALL WT: 0.3
 Class: ALL
 Race: ALL
 |
 a festering hag |
 (None) |
-No Trade, Quest WT: 0.3 Size: SMALL Class: ALL Race: ALL |
+No Trade, Quest Size: SMALL WT: 0.3 Class: ALL Race: ALL |
 Gossamer AmiceGossamer Amice
 MAGIC ITEM
 Slot: SHOULDERS
@@ -1640,16 +1638,16 @@ a festering hag |
 Waist |
 AC: 3 WT: 0.2 Size: SMALL Class: NEC WIZ MAG ENC Race: ALL |
 Gossamer SleevesGossamer Sleeves
-MAGIC ITEM
+Attunable
 Slot: ARMS
 AC: 4
-WT: 0.4 Size: SMALL
+Size: SMALL WT: 0.4
 Class: NEC WIZ MAG ENC
 Race: ALL
 |
 a festering hag |
 Arms |
-AC: 4 WT: 0.4 Size: SMALL Class: NEC WIZ MAG ENC Race: ALL |
+AC: 4 Size: SMALL WT: 0.4 Class: NEC WIZ MAG ENC Race: ALL |
 Gossamer VeilGossamer Veil
 MAGIC ITEM
 Slot: FACE
@@ -1673,13 +1671,14 @@ a festering hag |
 Wrist |
 AC: 3 WT: 0.3 Size: SMALL Class: NEC WIZ MAG ENC Race: ALL |
 Grave MoldGrave Mold
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 Various |
 (None) |
-WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Quest Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Ipsor's Enlightenment IVIpsor's Enlightenment IV
 WT: 0.0 Size: TINY
 |
@@ -1698,13 +1697,13 @@ a reanimated hand |
 Wrist |
 AGI: +3 MANA: +20 WT: 0.2 Size: TINY Class: ALL Race: ALL |
 Jack-O-Lantern FungusJack-O-Lantern Fungus
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 a jack o lantern |
 (None) |
-WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Jagged BandJagged Band
 MAGIC ITEM
 Slot: FINGER
@@ -1755,13 +1754,13 @@ Khrix Abomination |
 LORE ITEM NO DROP WT: 0.1 Size: TINY Class: NONE Race: NONE |
 Preserved HopsPreserved Hops
 No Trade
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 an undead barkeep, an undead brewer |
 (None) |
-No Trade WT: 0.1 Size: TINY Class: ALL Race: ALL |
+No Trade Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Pristine Giant Scarab CarapacePristine Giant Scarab Carapace
 WT: 5.0 Size: MEDIUM
 Class: ALL
@@ -1771,18 +1770,18 @@ a death beetle |
 (None) |
 WT: 5.0 Size: MEDIUM Class: ALL Race: ALL |
 PugiusPugius
-MAGIC ITEM
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: Piercing Atk Delay: 21
 DMG: 5BACKSTAB: 5
 Effect: Rising Dexterity (Combat) at Level 15
-WT: 2.5 Size: SMALL
+Size: SMALL WT: 2.5
 Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
 Race: ALL
 |
 Lesser Blade Fiend |
 Piercing |
-Atk Delay: 21 DMG: 5 Effect: Rising Dexterity (Combat) at Level 15 WT: 2.5 Size: SMALL Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST Race: ALL |
+Atk Delay: 21 DMG: 5 Effect: Rising Dexterity (Combat) at Level 15 Size: SMALL WT: 2.5 Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST Race: ALL |
 Repurposed PickaxeRepurposed Pickaxe
 Attunable
 Slot: PRIMARY
@@ -1801,13 +1800,13 @@ Attunable, Quest
 Slot: FINGER
 HP: 27
 SV Magic: -4
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 a reanimated hand |
 Fingers |
-HP: 27 SV Magic: -4 WT: 0.1 Size: TINY Class: ALL Race: ALL |
+HP: 27 SV Magic: -4 Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Rotted ChestwrapsRotted Chestwraps
 Attunable
 Slot: CHEST
@@ -1822,25 +1821,25 @@ Khrix's Abomination |
 Chest |
 AC: 13 STR: 1 DEX: 4 STA: 3 CHA: -25 AGI: 3 SV Fire: 3 SV Disease: -15 SV Cold: 3 SV Magic: -6 SV Poison: -15 WT: 0.3 Size: MEDIUM Class: MNK BST Race: ALL |
 Sarcoscypha FungusSarcoscypha Fungus
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 mortuary fungus |
 (None) |
-WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Savant's CapSavant's Cap
-MAGIC ITEM
+Attunable
 Slot: HEAD
 AC: 2
 WIS: +3 INT: +3
-WT: 0.3 Size: SMALL
+Size: SMALL WT: 0.3
 Class: ALL
 Race: ALLFocus Effect: Reagent Conservation II
 |
 reclusive ghoul magus |
 Head |
-AC: 2 WIS: +3 INT: +3 WT: 0.3 Size: SMALL Class: ALL Race: ALL |
+AC: 2 WIS: +3 INT: +3 Size: SMALL WT: 0.3 Class: ALL Race: ALL |
 Scaredy CapScaredy Cap
 Attunable
 Slot: HEAD
@@ -1876,13 +1875,13 @@ Garanel Rucksif |
 Secondary |
 AC: 8 WT: 7.5 Size: MEDIUM Class: WAR CLR PAL RNG SHD BRD ROG SHM Race: ALL |
 Small Stone KeySmall Stone Key
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 a reanimated hand |
 (None) |
-WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Spelunker's HeadlampSpelunker's Headlamp
 Attunable
 Slot: HEAD
@@ -1915,11 +1914,13 @@ a priest of najena |
 (None) |
 LORE ITEM NODROP WT: 0.1 Size: TINY Class: ALL Race: ALL |
 The End of an AgeThe End of an Age
-WT: 0.0 Size: TINY
+Size: TINY WT: 0.0
+Class: NONE
+Race: NONE
 |
 a reanimated hand |
 (None) |
-WT: 0.0 Size: TINY |
+Size: TINY WT: 0.0 Class: NONE Race: NONE |
 Thick Caustic FluidThick Caustic Fluid
 No Trade
 WT: 0.4 Size: SMALL
@@ -1934,13 +1935,13 @@ Attunable
 Slot: WAIST
 AC: 8
 Haste: 15%
-WT: 1.0 Size: SMALL
+Size: SMALL WT: 1.0
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST BER
 Race: ALL
 |
 an undead barkeep |
 Waist |
-AC: 8 Haste: 15% WT: 1.0 Size: SMALL Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST BER Race: ALL |
+AC: 8 Haste: 15% Size: SMALL WT: 1.0 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST BER Race: ALL |
 Torklar's Battle HammerTorklar's Battle Hammer
 MAGIC ITEM LORE ITEM NO DROP
 Slot: PRIMARY SECONDARY
@@ -1963,13 +1964,23 @@ a dark terror, a tentacle terror (Unrest) |
 (None) |
 LORE ITEM NO DROP WT: 0.0 Size: TINY Class: NONE Race: NONE |
 Warbone ChipsWarbone Chips
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
 a barbed bone skeleton, a skeletal monk |
 (None) |
-WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.1 Class: ALL Race: ALL |
+Werebat WingWerebat Wing
+No Trade, Quest
+Size: SMALL WT: 0.0
+Class: ALL
+Race: ALL
+|
+a werebat |
+(None) |
+No Trade, Quest Size: SMALL WT: 0.0 Class: ALL Race: ALL |
 Retrieved from "https://eqlwiki.com/index.php?title=The_Estate_of_Unrest&oldid=172460"
 Categories: Classic Era
 Zones

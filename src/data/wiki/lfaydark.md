@@ -1,5 +1,5 @@
 # Lesser_Faydark (eqlwiki.com)
-fetched: 2026-08-28
+fetched: 2026-08-31
 
 Lesser Faydark - EverQuest Legends Wiki
 Jump to content
@@ -409,10 +409,11 @@ Warrior |
 12 |
 3%? @ (32, 2257), ??% (794, 2710) |
 Raw-hide SkullcapRaw-hide Skullcap
+Attunable
 Slot: HEAD
 AC: 4
-WT: 0.9 Size: SMALL
-Class: ALL except NEC WIZ MAG ENC
+Size: SMALL WT: 0.9
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST BER
 Race: ALL
 , Cloth GlovesCloth Gloves
 Slot: HANDS
@@ -444,7 +445,8 @@ Warrior |
 4 - 18 / 4-6 (Befallen) / 1-6 (Qeynos Aqueducts) |
 Various |
 Bone ChipsBone Chips
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -648,13 +650,13 @@ Warrior |
 40 |
 (1585, 505), (866, 9)? |
 Unicorn HornUnicorn Horn
-MAGIC ITEM
-Slot: SECONDARY
-Charges: 5
+Attunable, Placeable
+Slot: PRIMARY, SECONDARY
+Charges: 10
 Wind Resonance: 12
 Effect: Purge (Any Slot, Casting Time: Instant)
 WT: 0.1 Size: SMALL
-Class: BRD
+Class: ALL
 Race: ALL
 , Equestrielle's EyeEquestrielle's Eye
 MAGIC ITEM LORE ITEM NO DROP
@@ -675,29 +677,29 @@ Equestrielle the Corrupted
 Unicorn |
 Shadowknight |
 40 |
-(1585, 505), (866, 9)? |
+(1585, 505), (866, 9)?,[ (-241,-674), (-647,2812) EQL ] |
 Unicorn HornUnicorn Horn
-MAGIC ITEM
-Slot: SECONDARY
-Charges: 5
+Attunable, Placeable
+Slot: PRIMARY, SECONDARY
+Charges: 10
 Wind Resonance: 12
 Effect: Purge (Any Slot, Casting Time: Instant)
 WT: 0.1 Size: SMALL
-Class: BRD
+Class: ALL
 Race: ALL
-, Equestrielle's EyeEquestrielle's Eye
+(Rare), Equestrielle's EyeEquestrielle's Eye
 MAGIC ITEM LORE ITEM NO DROP
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
-, Unicorn Horn FragmentsUnicorn Horn Fragments
+(Rare), Unicorn Horn FragmentsUnicorn Horn Fragments
 MAGIC ITEM
 Charges: 2
 Effect: Purge (Any Slot, Casting Time: Instant)
 WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
-|
+(Rare) |
 A corrupted horse. |
 Faril Elvebryn
 |
@@ -1034,7 +1036,7 @@ Warrior |
 31-35 |
 50% @ (1800, -400) |
 Shadowed Code BookShadowed Code Book
-LORE ITEM NO DROP
+No Trade, Quest
 WT: 0.2 Size: SMALL
 Class: ALL
 Race: ALL
@@ -1098,8 +1100,7 @@ Druid |
 25 |
 719, -912; 760, -1270; -565, -1528; -309, 1007 |
 Various |
-The Brownie Scouts and Maidens in Lfay are not PHs.
-Multiple spawn points on the east side of the zone, can be up at t... |
+Spotted in EQ Legends attacking the Ranger Outpost, probably will get himself killed if he spawns and no one finds him b... |
 Trudo Frugrin
 |
 Gnome |
@@ -1121,9 +1122,9 @@ Whimsy Larktwitter
 Pixie |
 Rogue |
 16 |
-33% @ (1082, -142) |
+Roams - ran into her @ (1448, 1193) |
 Various |
-PH is a Pixie or Pixie Prankster. Camping and killing the PH will cause faction hits. |
+PH is a Pixie or Pixie Prankster. Camping and killing the PH will cause faction hits. Only seen o... |
 Ytharisth Nerishar
 |
 ? |
@@ -1132,7 +1133,7 @@ Ytharisth Nerishar
 ? |
 None |
 Description needed.[2] |
-Items - Found 89 items that drop in Lesser Faydark:
+Items - Found 90 items that drop in Lesser Faydark:
 Item Name | Drops From | Slot | Stats |
 A shadowed knifeA shadowed knife
 MAGIC ITEM LORE ITEM NO DROP
@@ -1528,6 +1529,18 @@ Race: ALL
 Larik Z`Vole |
 (None) |
 LORE ITEM NO DROP WT: 0.4 Size: SMALL Class: ALL Race: ALL |
+LarkTwitter BowLarkTwitter Bow
+Attunable, Placeable
+Slot: RANGE
+Skill: Archery Atk Delay: 42
+DMG: 14
+WT: 4.5 Range: 100 Size: LARGE
+Class: WAR PAL RNG SHD ROG
+Race: ALL
+|
+Whimsy Larktwitter |
+Archery |
+Atk Delay: 42 DMG: 14 WT: 4.5 Range: 100 Size: LARGE Class: WAR PAL RNG SHD ROG Race: ALL |
 Larktwitter ArrowLarktwitter Arrow
 MAGIC ITEM
 Slot: AMMO
@@ -1657,7 +1670,7 @@ None? |
 (None) |
 LORE ITEM NO DROP WT: 0.2 Size: SMALL Class: ALL Race: ALL |
 Shadowed BallShadowed Ball
-MAGIC ITEM LORE ITEM TEMPORARY
+Lore Equipped, Temporary, Quest, Placeable
 Slot: PRIMARY SECONDARY
 AC: 5
 WT: 0.5 Size: SMALL
@@ -1680,14 +1693,14 @@ a shadowed man, a shadowed man pet |
 1H Slashing |
 Atk Delay: 35 DMG: 7 WT: 8.5 Size: MEDIUM Class: WAR Race: NONE |
 Shadowed Code BookShadowed Code Book
-LORE ITEM NO DROP
+No Trade, Quest
 WT: 0.2 Size: SMALL
 Class: ALL
 Race: ALL
 |
 Shadowman Leader |
 (None) |
-LORE ITEM NO DROP WT: 0.2 Size: SMALL Class: ALL Race: ALL |
+No Trade, Quest WT: 0.2 Size: SMALL Class: ALL Race: ALL |
 Shadowed ScimitarShadowed Scimitar
 MAGIC ITEM LORE ITEM TEMPORARY
 Slot: PRIMARY SECONDARY
@@ -1961,18 +1974,18 @@ a faerie guard, a fairy guard |
 (None) |
 MAGIC ITEM LORE ITEM NO DROP WT: 1.5 Size: SMALL Class: ALL Race: ALL |
 Unicorn HornUnicorn Horn
-MAGIC ITEM
-Slot: SECONDARY
-Charges: 5
+Attunable, Placeable
+Slot: PRIMARY, SECONDARY
+Charges: 10
 Wind Resonance: 12
 Effect: Purge (Any Slot, Casting Time: Instant)
 WT: 0.1 Size: SMALL
-Class: BRD
+Class: ALL
 Race: ALL
 |
 Equestrielle, Equestrielle the Corrupted |
-Secondary |
-Charges: 5 Wind Resonance: 12 Effect: Purge WT: 0.1 Size: SMALL Class: BRD Race: ALL |
+Primary,, Secondary |
+Charges: 10 Wind Resonance: 12 Effect: Purge WT: 0.1 Size: SMALL Class: ALL Race: ALL |
 Unicorn Horn FragmentsUnicorn Horn Fragments
 MAGIC ITEM
 Charges: 2

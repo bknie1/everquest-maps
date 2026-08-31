@@ -1,5 +1,5 @@
 # Temple_of_Solusek_Ro (eqlwiki.com)
-fetched: 2026-08-25
+fetched: 2026-08-31
 
 The Temple of Solusek Ro - EverQuest Legends Wiki
 Jump to content
@@ -919,7 +919,7 @@ Race: ALL
 Slot: PRIMARY
 Skill: Piercing Atk Delay: 27
 DMG: 6BACKSTAB: 6
-WT: 6.8 Size: LARGE
+Size: LARGE WT: 6.8
 Class: WAR RNG SHD BRD ROG SHM BST
 Race: ALL
 (Always), Lon's Head (Always) |

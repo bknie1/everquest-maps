@@ -1,5 +1,5 @@
 # Lake_Rathetear (eqlwiki.com)
-fetched: 2026-08-30
+fetched: 2026-08-31
 
 Lake Rathetear - EverQuest Legends Wiki
 Jump to content
@@ -497,8 +497,8 @@ Undead |
 18-19 |
 Gnoll/undead camp by the South Karana zone line. |
 Zombie SkinZombie Skin
-QUEST ITEM
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 (Common) [2] 4x 55% (50%)
@@ -511,7 +511,8 @@ Warrior |
 4 - 18 / 4-6 (Befallen) / 1-6 (Qeynos Aqueducts) |
 Various |
 Bone ChipsBone Chips
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |

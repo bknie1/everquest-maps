@@ -1,5 +1,5 @@
 # Grobb (eqlwiki.com)
-fetched: 2026-08-27
+fetched: 2026-08-31
 
 Grobb - EverQuest Legends Wiki
 Jump to content
@@ -572,7 +572,7 @@ WT: 0.2 Size: SMALL
 Class: ALL
 Race: ALL
 , IvoryIvory
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -614,8 +614,10 @@ Warrior |
 35 |
 100% @ (82, -97) |
 Silver AmuletSilver Amulet
+Attunable
 Slot: NECK
-WT: 0.1 Size: TINY
+AC: 1
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Intestine NecklaceIntestine Necklace
@@ -727,8 +729,10 @@ WT: 5.0 Size: MEDIUM
 Class: ALL except MNK NEC WIZ MAG ENC
 Race: ALL
 , Silver AmuletSilver Amulet
+Attunable
 Slot: NECK
-WT: 0.1 Size: TINY
+AC: 1
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Intestine NecklaceIntestine Necklace

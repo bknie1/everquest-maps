@@ -1,5 +1,5 @@
 # Dagnor's_Cauldron (eqlwiki.com)
-fetched: 2026-08-30
+fetched: 2026-08-31
 
 Dagnor's Cauldron - EverQuest Legends Wiki
 Jump to content
@@ -297,7 +297,8 @@ Warrior |
 13 |
 See Discussion |
 Bone ChipsBone Chips
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Rusty Weapons, Gems |

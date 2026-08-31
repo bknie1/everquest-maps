@@ -1,5 +1,5 @@
 # Northern_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-08-30
+fetched: 2026-08-31
 
 Northern Plains of Karana - EverQuest Legends Wiki
 Jump to content
@@ -269,11 +269,11 @@ WT: 2.4 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
 Race: ALL
 , Bronze Long SwordBronze Long Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 32
 DMG: 5
-WT: 8.5 Size: MEDIUM
+Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , Bronze BracersBronze Bracers
@@ -533,7 +533,8 @@ Warrior |
 4 - 18 / 4-6 (Befallen) / 1-6 (Qeynos Aqueducts) |
 Various |
 Bone ChipsBone Chips
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -787,10 +788,11 @@ WT: 2.7 Size: SMALL
 Class: WAR CLR PAL RNG SHD BRD ROG SHM
 Race: ALL
 , Fine Steel Short SwordFine Steel Short Sword
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 23
 DMG: 4
-WT: 4.0 Size: MEDIUM
+Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
@@ -818,11 +820,11 @@ Shadow Knight |
 17 |
 1380, -2764 |
 Rusty Long SwordRusty Long Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 35
 DMG: 5
-WT: 7.5 Size: MEDIUM
+Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , Qeynos Kite ShieldQeynos Kite Shield
@@ -853,10 +855,11 @@ WT: 2.7 Size: SMALL
 Class: WAR CLR PAL RNG SHD BRD ROG SHM
 Race: ALL
 , Fine Steel Short SwordFine Steel Short Sword
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 23
 DMG: 4
-WT: 4.0 Size: MEDIUM
+Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
@@ -993,8 +996,8 @@ WT: 1.0 Size: SMALL
 Class: ALL
 Race: ALL
 , Zombie SkinZombie Skin
-QUEST ITEM
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
