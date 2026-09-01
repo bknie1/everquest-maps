@@ -1,5 +1,5 @@
 # Estate_of_Unrest (eqlwiki.com)
-fetched: 2026-08-31
+fetched: 2026-09-01
 
 The Estate of Unrest - EverQuest Legends Wiki
 Jump to content
@@ -89,9 +89,9 @@ Types of Monsters:
 |
 Death Beetles, Tormented Dead, Greater Skeletons, Jack-O-Lanterns, Ghouls, Dark Boned Skeletons, Lurking Mummies, Gnomish Spelunker, Lesser Blade Fiends, Blade Fiends, Dry Bones Skeletons, Carrion Ghouls, Skeletal Monks, Zombie of an Unrest Noble, Undead Barkeep, Reanimated Hands, Barbed Bone Skeletons, Dusty Werebats, Werebats, Greater Dark Bones, Undead Knight of Unrest, Mortuary Fungus, Festering Hags, Dark Terrors, Tentacle Terrors
 |
-Notable NPCs:
+Rare NPCs:
 |
-Garanel Rucksif, a priest of najena, Khrix Fritchoff, Khrix's Abomination, Torklar Battlemaster, Shadowpincer, reclusive ghoul magus
+a priest of najena, a gnomish spelunker, a reanimated hand, an undead barkeep, An Undead Brewer, an undead knight of Unrest, Garanel Rucksif, Khrix Fritchoff, Khrix's Abomination, Lesser Blade Fiend, reclusive ghoul magus, Shadowpincer, Torklar Battlemaster, Zombie of an Unrest Noble
 |
 Unique Items:
 |
@@ -1981,13 +1981,13 @@ Race: ALL
 a werebat |
 (None) |
 No Trade, Quest Size: SMALL WT: 0.0 Class: ALL Race: ALL |
-Retrieved from "https://eqlwiki.com/index.php?title=The_Estate_of_Unrest&oldid=172460"
+Retrieved from "https://eqlwiki.com/index.php?title=The_Estate_of_Unrest&oldid=175449"
 Categories: Classic Era
 Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 25 August 2026, at 11:41.
+This page was last edited on 1 September 2026, at 01:32.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

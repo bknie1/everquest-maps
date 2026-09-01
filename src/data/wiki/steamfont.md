@@ -1,5 +1,5 @@
 # Steamfont_Mountains (eqlwiki.com)
-fetched: 2026-08-31
+fetched: 2026-09-01
 
 Steamfont Mountains - EverQuest Legends Wiki
 Jump to content
@@ -933,7 +933,7 @@ Meldrath The Malignant
 Gnome |
 Necromancer |
 35 |
-100% @ (1690, -2209) |
+(XYZ) 1699, -2192, -100 |
 Various |
 Nasty little guy in the mino caves can be an awful surprise. 22 minute timer.
 Likely faction changes 23 Feb, 2014: Me... |

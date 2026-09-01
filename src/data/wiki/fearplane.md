@@ -1,5 +1,5 @@
 # Plane_of_Fear (eqlwiki.com)
-fetched: 2026-08-31
+fetched: 2026-09-01
 
 Plane of Fear - EverQuest Legends Wiki
 Jump to content
@@ -420,7 +420,7 @@ WT: 1.0 Size: SMALL
 Class: ENC
 Race: ALL
 WraithstoneWraithstone
-MAGIC ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 WT: 0.1 Size: TINY
 Class: ALL
@@ -783,7 +783,7 @@ Race: ALL
 |
 The wraith spawns every 72 hours, or when Cazic Thule spawns and repops the zone.
 Spawn location: in the top of the tem... |
-Items - Found 199 items that drop in Plane of Fear:
+Items - Found 200 items that drop in Plane of Fear:
 Item Name | Drops From | Slot | Stats |
 Amulet of NecropotenceAmulet of Necropotence
 MAGIC ITEM
@@ -3022,6 +3022,19 @@ Race: ALL
 phoboplasm |
 Head |
 AC: 17 WIS: +7 MANA: +15 SV MAGIC: +13 WT: 4.5 Size: SMALL Class: PAL Race: ALL |
+Valorium VambracesValorium Vambraces
+Lore Equipped, No Trade, Quest
+Slot: ARMS
+AC: 16
+STR: +5 DEX: +9
+SV COLD: +10
+WT: 4.9 Size: SMALL
+Class: PAL
+Race: ALL
+|
+phoboplasm |
+Arms |
+AC: 16 STR: +5 DEX: +9 SV COLD: +10 WT: 4.9 Size: SMALL Class: PAL Race: ALL |
 Vermiculated ArmplatesVermiculated Armplates
 Lore Equipped, No Trade, Quest
 Slot: ARMS
@@ -3249,7 +3262,7 @@ phoboplasm |
 Arms |
 AC: 13 END: 15 DEX: +5 STA: +5 WT: 4.9 Size: SMALL Class: ROG Race: ALL |
 WraithstoneWraithstone
-MAGIC ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 WT: 0.1 Size: TINY
 Class: ALL

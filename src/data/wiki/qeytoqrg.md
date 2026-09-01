@@ -1,5 +1,5 @@
 # Qeynos_Hills (eqlwiki.com)
-fetched: 2026-08-31
+fetched: 2026-09-01
 
 Qeynos Hills - EverQuest Legends Wiki
 Jump to content
@@ -337,7 +337,7 @@ Warrior |
 5-7 |
 Various |
 Gnoll FangGnoll Fang
-NO DROP
+No Trade, Quest
 WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
@@ -1143,14 +1143,14 @@ Pyzjn |
 Primary, Secondary |
 INT: +9 SV MAGIC: +10 WT: 0.4 Size: TINY Class: ALL Race: ALL |
 Gnoll FangGnoll Fang
-NO DROP
+No Trade, Quest
 WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
 |
 Various |
 (None) |
-NO DROP WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+No Trade, Quest WT: 0.1 Size: SMALL Class: ALL Race: ALL |
 Gnoll HeadGnoll Head
 LORE ITEM NO DROP
 WT: 1.5 Size: MEDIUM

@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-08-31
+fetched: 2026-09-01
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -365,11 +365,11 @@ Eye of Veeshan is the very last boss. The fight is pretty straightforward tank a
 Plane of Sky Class Quests
 These are the various class quests, and in general, completing all of these quests will unlock the respective class as a Primary Class option in your loadouts. The EQ Legends team simplified these quests a bit from Classic to need various wind runes and one or two specific items. The wind runes drop from all mobs in the Plane of Sky, and many players simply farm the trash mobs on one of the early islands.
 Quest Givers
-After entering the Plane of Sky, you can access the Efreeti Chamber with all of the quest givers.
+After entering the Plane of Sky, you can access the Efreeti Chamber with all of the quest givers and a banker.
 First, find the Key Master near where you zoned in on island 1 and purchase an Efreeti's Key. It is free and looks like a Jade.
 You only need to buy the key one time and it will be saved to your character.
 After you have the key left click on the teleportation pad at the North point of the island, around 1600, 520 .
-From there find Efreeti for your class based on the details below. You can hail them and use the keyword for each test if you want to confirm your items before handing them in.
+There's an Efreeti quest NPC for each class. You can hail them and use the keyword for each test if you want to confirm your items before handing them in.
 Bard Tests
 Quest Giver: Cilin Spellsinger
 Quest |
@@ -3305,7 +3305,7 @@ Sirran the Lunatic
 Halfling |
 Warrior |
 63 |
-Various (See Below) |
+Sirran has not been sighted in EQ Legends |
 None |
 A lot has been and can be said about Sirran, but here are the basic facts as confirmed by direct evidence (from Drexxe... |
 Sister of the Spire
@@ -6132,13 +6132,13 @@ Race: ALL
 Protector of Sky |
 (None) |
 LORE ITEM WT: 6.0 Size: MEDIUM Class: ALL Race: ALL |
-Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Sky&oldid=174803"
+Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Sky&oldid=175453"
 Categories: Sky Era
 Classic Era
 Zones
 How to Contribute
 Donate
-This page was last edited on 30 August 2026, at 01:40.
+This page was last edited on 1 September 2026, at 02:58.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

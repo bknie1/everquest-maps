@@ -1,5 +1,5 @@
 # Befallen (eqlwiki.com)
-fetched: 2026-08-31
+fetched: 2026-09-01
 
 Befallen - EverQuest Legends Wiki
 Jump to content
@@ -624,7 +624,7 @@ Skill: 1H Blunt Atk Delay: 30
 DMG: 7
 STR: +2 WIS: +5
 WT: 9.0 Size: MEDIUM
-Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
 Race: ALL
 , Ebon ScytheEbon Scythe
 MAGIC ITEM LORE ITEM
@@ -1204,12 +1204,12 @@ Skill: 1H Blunt Atk Delay: 30
 DMG: 7
 STR: +2 WIS: +5
 WT: 9.0 Size: MEDIUM
-Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
 Race: ALL
 |
 Asaka L`Rei |
 1H Blunt |
-Atk Delay: 30 DMG: 7 STR: +2 WIS: +5 WT: 9.0 Size: MEDIUM Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM Race: ALL |
+Atk Delay: 30 DMG: 7 STR: +2 WIS: +5 WT: 9.0 Size: MEDIUM Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST Race: ALL |
 Enchanted Fine Steel RapierEnchanted Fine Steel Rapier
 Attunable, Placeable
 Slot: PRIMARY SECONDARY

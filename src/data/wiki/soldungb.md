@@ -1,5 +1,5 @@
 # Nagafen's_Lair (eqlwiki.com)
-fetched: 2026-08-31
+fetched: 2026-09-01
 
 Nagafen's Lair - EverQuest Legends Wiki
 Jump to content
@@ -252,7 +252,7 @@ soldungb
 |
 Zone Spawn Timer:
 |
-11:00
+8:50
 |
 Succor/Evacuate:
 |
@@ -987,7 +987,7 @@ Lair |
 Various |
 This is the aggressive, dragon version of Zordak, part of the Cleric epic.
 He is a triggered spawn from turning in a [[... |
-Items - Found 56 items that drop in Nagafen's Lair:
+Items - Found 57 items that drop in Nagafen's Lair:
 Item Name | Drops From | Slot | Stats |
 A Burnt SashA Burnt Sash
 LORE ITEM NO DROP
@@ -998,6 +998,14 @@ Race: NONE
 imp protector |
 (None) |
 LORE ITEM NO DROP WT: 0.5 Size: TINY Class: NONE Race: NONE |
+Autumn CrocusAutumn Crocus
+WT: 0.1 Size: TINY
+Class: ALL
+Race: ALL
+|
+None? |
+(None) |
+WT: 0.1 Size: TINY Class: ALL Race: ALL |
 Black Chitin LeggingsBlack Chitin Leggings
 MAGIC ITEM
 Slot: LEGS
@@ -1837,13 +1845,13 @@ Nagafen's Lair
 Solo vs. Multiplayer
 When creating the raid instance, players can choose between solo and multiplayer instances. These instances share lockouts, so players cannot do both in the same week and receive full loot.
 Trash mobs and boss placement also differ between the two versions. Multiplayer will have additional trash mobs, and Magus Roykl will move from the stairwell outside of Nagafens room to inside the room with Nagafen. It can be advised to have a character with feign death in order to pull Magus Roykl without also pulling Nagafen.
-Retrieved from "https://eqlwiki.com/index.php?title=Nagafen%27s_Lair&oldid=175254"
+Retrieved from "https://eqlwiki.com/index.php?title=Nagafen%27s_Lair&oldid=175332"
 Categories: Classic Era
 Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 31 August 2026, at 08:24.
+This page was last edited on 31 August 2026, at 20:50.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

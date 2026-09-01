@@ -1,5 +1,5 @@
 # Castle_Mistmoore (eqlwiki.com)
-fetched: 2026-08-31
+fetched: 2026-09-01
 
 Mistmoore Castle - EverQuest Legends Wiki
 Jump to content
@@ -1608,9 +1608,9 @@ Skeleton |
 ? |
 40 |
 100% @ (-36, 365, -263) |
-* Unknown - (Killed it twice in EQLegends and nothing dropped but some coin.) |
-There are several mobs named an undead knight. This page describes the one that spawns in Mistmoore Castle.
-Spawns ... |
+|
+Spawns downstairs from the prison room (directly below Mausoleum trap floor).
+This NPC is an alternate to one of the... |
 Black Dire
 |
 Wolf Elemental |

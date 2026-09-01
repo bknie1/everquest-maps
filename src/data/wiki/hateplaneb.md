@@ -1,5 +1,5 @@
 # Plane_of_Hate (eqlwiki.com)
-fetched: 2026-08-31
+fetched: 2026-09-01
 
 Plane of Hate - EverQuest Legends Wiki
 Jump to content
@@ -1400,7 +1400,7 @@ Cleric |
 5% @ (409, 31) |
 Various |
 Description needed. |
-Items - Found 238 items that drop in Plane of Hate:
+Items - Found 239 items that drop in Plane of Hate:
 Item Name | Drops From | Slot | Stats |
 Anthemion ArmbandsAnthemion Armbands
 Lore Equipped, No Trade, Quest
@@ -4115,6 +4115,19 @@ Race: ALL
 Cleric of Innoruuk, a haunted chest |
 Head |
 AC: 17 WIS: +7 MANA: +15 SV MAGIC: +13 WT: 4.5 Size: SMALL Class: PAL Race: ALL |
+Valorium VambracesValorium Vambraces
+Lore Equipped, No Trade, Quest
+Slot: ARMS
+AC: 16
+STR: +5 DEX: +9
+SV COLD: +10
+WT: 4.9 Size: SMALL
+Class: PAL
+Race: ALL
+|
+a forsaken revenant (female), an ire ghast, a haunted chest |
+Arms |
+AC: 16 STR: +5 DEX: +9 SV COLD: +10 WT: 4.9 Size: SMALL Class: PAL Race: ALL |
 Vambraces of HarmonyVambraces of Harmony
 MAGIC ITEM LORE ITEM NO DROP
 Slot: ARMS

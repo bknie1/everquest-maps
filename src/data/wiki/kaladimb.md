@@ -1,5 +1,5 @@
 # Kaladim (eqlwiki.com)
-fetched: 2026-08-31
+fetched: 2026-09-01
 
 Kaladim - EverQuest Legends Wiki
 Jump to content
@@ -1101,7 +1101,7 @@ Merchant |
 41 |
 (108, 233) |
 |
-Alcohol merchant. Very few actual brewing supplies. |
+Alcohol merchant located in Pub Kal. Very few actual brewing supplies, but a great place to toss back a few Dwarven Ales... |
 Furtog Ogrebane
 |
 Dwarf |

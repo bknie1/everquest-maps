@@ -1,5 +1,5 @@
 # Crushbone (eqlwiki.com)
-fetched: 2026-08-31
+fetched: 2026-09-01
 
 Crushbone - EverQuest Legends Wiki
 Jump to content
@@ -87,9 +87,9 @@ Types of Monsters:
 |
 Orc Pawns, Orc Centurions, Orc Legionnaires, Orc Slavers, Orc Oracles, Orc Emissaries, Orc Royal Guards
 |
-Notable NPCs:
+Rare NPCs:
 |
-Ambassador DVinn, Bloodgurgler, Bonefire, Chokehold, Emperor Crush, Lord Darish, Marrowbane, Orc Taskmaster, Orc Trainer, Orc Warden, Orc Warlord, Retlon Brenclog, Rondo Dunfire, The Prophet
+Ambassador DVinn, Bloodgurgler, Bonefire, Chokehold, Emperor Crush, Lord Darish, Marrowbane, orc oracle, Orc Trainer, Orc Warden, Orc Warlord, Retlon Brenclog, Rondo Dunfire, The Prophet
 |
 Unique Items:
 |
@@ -355,7 +355,59 @@ ZEM Value:
 Map
 Crushbone
 1. Tents, inhabited by legionnaires
-2. Castle Crush, where high levels spawn including emissaries, with Ambassador DVinn, and Emperor Crush in the tower, and with Lord Darish and Bonefire in the Throneroom
+2. Castle Crush, where high levels spawn including emissaries, with Ambassador DVinn, Emperor Crush, and occasionally The Prophet in the tower. In the Throne Room there is Lord Darish, Bonefire, and occasionally an Orc Warlord.
+In the courtyard of the castle, is an Orc Warlord who drops Bracers of BattleBracers of Battle
+MAGIC ITEM
+Slot: WRIST
+AC: 3
+STR: +1 DEX: +3
+WT: 1.0 Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+and Deteriorated Ancient Faydark LongbowDeteriorated Ancient Faydark Longbow
+Attunable
+Slot: RANGE
+Skill: Archery
+DMG: 14 Atk Delay: 55
+HP: +5 MANA: +5 END: +5
+WT: 8.0 Size: LARGE
+Class: WAR PAL RNG SHD ROG
+Race: ALL
+On the east side of the castle outside next to the mote is Marrowbane who drops Wood Elf Scout BaubleWood Elf Scout Bauble
+Attunable
+Slot: NECK
+AC: 1 HP: +5 END: +5
+AGI: +2
+Size: SMALL
+Class: ALL
+Race: ALL
+and Grimy Black Silk RobeGrimy Black Silk Robe
+Attunable
+Slot: CHEST
+AC: 6 MANA: +10
+AGI: +2 INT: +5
+WT: 3.0 Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: ALL
+On the north side of the castle outside next to the mote is Chokehold who drops Armband of Serrated TeethArmband of Serrated Teeth
+Attunable
+Slot: ARMS
+STR: +1 STA: +2 DEX: +1
+SV Disease: +2
+WT: 1.0 Size: SMALL
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST BER
+Race: ALL
+and Carved Walking StickCarved Walking Stick
+Attunable
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt Atk Delay: 25
+DMG: 6
+MANA: +5
+STR: +1 WIS: +1
+SV Magic: +1 SV Fire: +1 SV Cold: +1
+WT: 4.0 Size: MEDIUM
+Class: ALL
+Race: ALL
 Outside the castle entrance and across the bridge is the camp frequently called Wall
 3. Slave Cabin, with inhabitants needed for Screaming Mace Quest
 4. Slaver Caves, with the Orc Warden who drops Bracers of BattleBracers of Battle
@@ -366,8 +418,64 @@ STR: +1 DEX: +3
 WT: 1.0 Size: SMALL
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
-5. Slaver Pit with the Orc Taskmaster and Bloodgurgler
-6. Trainer Hill with Orc Trainer ("Where camping was born...")
+(Rare) and Rondo Dunfire
+5. Slaver Pit
+Bloodgurgler who drops Rib-bone StilettoRib-bone Stiletto
+Attunable
+Slot: PRIMARY SECONDARY
+Skill: Piercing Atk Delay: 18
+DMG: 4
+BACKSTAB: 7
+STR: +1 AGI: +1 DEX: +1
+WT: 3.0 Size: SMALL
+Class: WAR PAL RNG SHD MNK BRD ROG NEC WIZ MAG ENC BST BER
+Race: ALL
+and Spiky SplintmailSpiky Splintmail
+ATTUNEABLE
+Slot: Chest
+AC: 12 HP: +15
+STA: +5
+Effect: Bramblecoat (Any Slot, Casting Time: 2.5 seconds) at Level 5
+WT: 16.0 Size: LARGE
+Class: WAR RNG SHD SHM BER
+Race: ALL
+Occasionally The Prophet who drops Disgusting Padded ShirtDisgusting Padded Shirt
+Attunable
+Slot: CHEST
+AC: 12 HP: +9
+WIS: +2
+SV Poison: +2 SV Disease: +2 SV Cold: +2
+WT: 5.0 Size: MEDIUM
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST BER
+Race: ALL
+and Rotting Faydark MaskRotting Faydark Mask
+Attunable
+Slot: FACE
+AC: 5 HP: +5 MANA: +5 END: +5
+STA: +2
+SV. Void: 1
+WT: 2.0 Size: SMALL
+Class: ALL
+Race: ALL
+Retlon Brenclog
+6. Trainer Hill with Orc Trainer who drops Shiny Brass ShieldShiny Brass Shield
+MAGIC ITEM LORE ITEM
+Slot: SECONDARY
+AC: 10
+SV MAGIC: +10
+WT: 8.0 Size: MEDIUM
+Class: WAR CLR PAL RNG SHD DRU BRD ROG SHM
+Race: ALL
+(Common) and Crushbone Cadet's GrimoireCrushbone Cadet's Grimoire
+ATTUNEABLE
+Slot: PRIMARY SECONDARY
+MANA: +5
+INT: +2 WIS: +2
+WT: 4.0 Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: ALL
+(Rare)
+("Where camping was born...")
 Note that the map is in error -- there is a land connection along the back wall from area 1 to behind the castle at area 5.
 |
 Safe/Evac Spot
@@ -1263,7 +1371,7 @@ WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
 |
-Orc Oracle ("Oracle Scroll") |
+orc oracle ("Oracle Scroll") |
 (None) |
 LORE ITEM WT: 0.1 Size: SMALL Class: ALL Race: ALL |
 Legionnaire's BracerLegionnaire's Bracer
@@ -1533,13 +1641,13 @@ Race: ALL
 Ambassador DVinn |
 Feet |
 AC: 2 AGI: +2 DEX: +1 SV Fire: +2 SV Cold: +2 WT: 2.0 Size: SMALL Class: RNG DRU MNK ROG SHM NEC WIZ MAG ENC BST BER Race: ALL |
-Retrieved from "https://eqlwiki.com/index.php?title=Crushbone&oldid=175277"
+Retrieved from "https://eqlwiki.com/index.php?title=Crushbone&oldid=175421"
 Categories: Classic Era
 Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 31 August 2026, at 12:54.
+This page was last edited on 1 September 2026, at 00:18.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

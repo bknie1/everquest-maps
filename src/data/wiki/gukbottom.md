@@ -1,5 +1,5 @@
 # Lower_Guk (eqlwiki.com)
-fetched: 2026-08-31
+fetched: 2026-09-01
 
 Lower Guk - EverQuest Legends Wiki
 Jump to content
@@ -480,7 +480,7 @@ gukbottom
 |
 Zone Spawn Timer:
 |
-11:00
+9:27
 |
 Succor/Evacuate:
 |
@@ -2831,12 +2831,12 @@ Race: ALLFocus Effect: Affliction Efficiency II
 A froglok noble |
 Neck |
 CHA: +5 SV FIRE: +7 SV COLD: +7 SV MAGIC: +7 WT: 0.3 Size: SMALL Class: ALL Race: ALL |
-Retrieved from "https://eqlwiki.com/index.php?title=Lower_Guk&oldid=170118"
+Retrieved from "https://eqlwiki.com/index.php?title=Lower_Guk&oldid=175331"
 Categories: Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 16 August 2026, at 08:34.
+This page was last edited on 31 August 2026, at 20:48.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

@@ -1,5 +1,5 @@
 # Qeynos (eqlwiki.com)
-fetched: 2026-08-31
+fetched: 2026-09-01
 
 Qeynos - EverQuest Legends Wiki
 Jump to content
@@ -1074,10 +1074,10 @@ Captain Tillin
 |
 Qeynos Citizen |
 GM Warrior |
-61 |
+70 |
 (37, -512) |
 None |
-Can be found above the Arena in South Qeynos. May have been level 50 earlier in EQ's timeline: [https://web.archive.org/... |
+Can be found above the Arena in South Qeynos. |
 Cassius Messus
 |
 Human |
@@ -3243,7 +3243,7 @@ WT: 0.3 Size: SMALL
 Class: ALL
 Race: ALL
 , Gnoll FangGnoll Fang
-NO DROP
+No Trade, Quest
 WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
@@ -3289,7 +3289,7 @@ WT: 0.3 Size: SMALL
 Class: ALL
 Race: ALL
 , Gnoll FangGnoll Fang
-NO DROP
+No Trade, Quest
 WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
@@ -3566,7 +3566,7 @@ WT: 0.3 Size: SMALL
 Class: ALL
 Race: ALL
 , Gnoll FangGnoll Fang
-NO DROP
+No Trade, Quest
 WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL

@@ -1,5 +1,5 @@
 # Lake_Rathetear (eqlwiki.com)
-fetched: 2026-08-31
+fetched: 2026-09-01
 
 Lake Rathetear - EverQuest Legends Wiki
 Jump to content
@@ -277,7 +277,7 @@ Warrior |
 5-7 |
 Various |
 Gnoll FangGnoll Fang
-NO DROP
+No Trade, Quest
 WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
@@ -1143,14 +1143,14 @@ a goblin net master, a deepwater goblin |
 (None) |
 NO DROP WT: 3.0 Size: SMALL Class: ALL Race: ALL |
 Gnoll FangGnoll Fang
-NO DROP
+No Trade, Quest
 WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
 |
 a gnoll shaman |
 (None) |
-NO DROP WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+No Trade, Quest WT: 0.1 Size: SMALL Class: ALL Race: ALL |
 Golden Ear StudGolden Ear Stud
 Slot: EAR
 INT: +3

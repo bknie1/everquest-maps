@@ -1,5 +1,5 @@
 # Blackburrow (eqlwiki.com)
-fetched: 2026-08-21
+fetched: 2026-09-01
 
 Blackburrow - EverQuest Legends Wiki
 Jump to content
@@ -246,7 +246,7 @@ Warrior |
 5-7 |
 Various |
 Gnoll FangGnoll Fang
-NO DROP
+No Trade, Quest
 WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
@@ -277,7 +277,7 @@ WT: 3.5 Size: LARGE
 Class: ALL
 Race: ALL
 , Gnoll FangGnoll Fang
-NO DROP
+No Trade, Quest
 WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
@@ -301,7 +301,7 @@ Warrior |
 5-15 |
 See Discussion |
 Gnoll FangGnoll Fang
-NO DROP
+No Trade, Quest
 WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
@@ -355,7 +355,7 @@ Warrior |
 3-5 |
 See Discussion |
 Gnoll FangGnoll Fang
-NO DROP
+No Trade, Quest
 WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
@@ -604,7 +604,7 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , Gnoll FangGnoll Fang
-NO DROP
+No Trade, Quest
 WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
@@ -838,14 +838,14 @@ The gnoll high shaman |
 Neck |
 INT: +3 WIS: +3 CHA: +3 WT: 0.2 Size: TINY Class: ALL Race: ALL |
 Gnoll FangGnoll Fang
-NO DROP
+No Trade, Quest
 WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
 |
 Various |
 (None) |
-NO DROP WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+No Trade, Quest WT: 0.1 Size: SMALL Class: ALL Race: ALL |
 Gnoll HeadGnoll Head
 LORE ITEM NO DROP
 WT: 1.5 Size: MEDIUM

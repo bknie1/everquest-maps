@@ -1,5 +1,5 @@
 # Qeynos_Catacombs (eqlwiki.com)
-fetched: 2026-08-31
+fetched: 2026-09-01
 
 Qeynos Aqueducts - EverQuest Legends Wiki
 Jump to content
@@ -902,7 +902,7 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 |
-There are several mobs named an undead knight. This page describes the one that spawns in Qeynos Aqueducts and drops... |
+Placeholder is a fish that spawns in the same underwater alcove as the knight. It has a respawn time of ~1 hour. |
 Azibelle Spavin
 |
 Human |
