@@ -13,6 +13,11 @@ P -2476.0000, -165.0000, -4.5100, 150, 90, 40, 2, Blyle_Bundin_(Deserter)
 P 688.0000, -2793.0000, -2.4400, 35, 95, 55, 2, Bilgum_Sisters_+_Merchants
 P -471.0000, 1080.0000, 0.0000, 110, 0, 60, 2, Goblin_Camp
 P -1080.0000, 302.0000, 0.0000, 110, 0, 60, 2, Enraged_Goblins
-P -179.0000, -2813.0000, -7.0900, 110, 0, 60, 2, Aqua_Goblin_Camp_(Shore)
+P -2985.0000, 657.0000, 1.5500, 110, 0, 60, 2, Aqua_Goblin_Camp_(Shore)
 P 1459.0000, -447.0000, 21.5700, 110, 0, 60, 2, Orc_Camp
 P 568.0000, 514.0000, 12.2400, 110, 0, 60, 2, Dwarf_Bandit_Camp
+P 0.0000, 950.0000, 0.0000, 30, 80, 95, 2, The_Crossroads_(Guard_House,_Nyzil_Bloodforge)
+P 2700.0000, -1110.0000, 0.0000, 30, 80, 95, 2, Abandoned_Guard_House_(Signus_Boran)
+P -1642.0000, -269.0000, 0.0000, 110, 0, 60, 2, Bandit_Camp_(Peg_Leg)
+P -2995.0000, -2185.0000, 0.0000, 110, 0, 60, 2, Kanthuk_Ogrebane
+P 2442.0000, -2024.0000, 0.0000, 110, 0, 60, 2, Renell_Bekea
