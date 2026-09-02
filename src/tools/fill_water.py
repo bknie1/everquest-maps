@@ -24,9 +24,17 @@ CRLF = '\r\n'
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('zone')
-    ap.add_argument('--ink', required=True, action='append',
+    ap.add_argument('--ink', action='append', default=[],
                     help='r,g,b of the water outline (repeatable; fill uses the first)')
     ap.add_argument('--fill-ink', help='r,g,b for the fill runs if different from the outline')
+    ap.add_argument('--z-band',
+                    help='lo,hi -- take the outline from strokes whose midpoint z falls in '
+                         'this band instead of by ink. For sunken water in a multi-level '
+                         'dungeon, where the channel is drawn in the same ink as everything '
+                         'else and only its depth tells it apart.')
+    ap.add_argument('--fill-z', type=float, default=0.0,
+                    help='z written on the fill runs (default 0). Set it to the channel floor '
+                         'so the water sits on its own level rather than at the surface.')
     ap.add_argument('--step', type=float, default=11.0)
     ap.add_argument('--min-run', type=float, default=14.0)
     ap.add_argument('--inset', type=float, default=2.0, help='pull runs in from the banks')
@@ -39,8 +47,14 @@ def main():
     ap.add_argument('--dry-run', action='store_true')
     args = ap.parse_args()
 
+    if not args.ink and not args.z_band:
+        ap.error('need --ink or --z-band to identify the water outline')
+    zband = None
+    if args.z_band:
+        zlo, zhi = (float(v) for v in args.z_band.split(','))
+        zband = (min(zlo, zhi), max(zlo, zhi))
     inks = [tuple(int(v) for v in i.split(',')) for i in args.ink]
-    ink = inks[0]
+    ink = inks[0] if inks else None
     fill = tuple(int(v) for v in (args.fill_ink or args.ink[0]).split(','))
     excl = []
     for e in args.exclude:
@@ -54,10 +68,17 @@ def main():
         if not l.startswith('L'):
             continue
         f = l[2:].split(',')
-        if tuple(int(float(v)) for v in f[6:9]) in inks:
+        if zband is not None:
+            zm = (float(f[2]) + float(f[5])) / 2
+            hit = zband[0] <= zm <= zband[1]
+        else:
+            hit = tuple(int(float(v)) for v in f[6:9]) in inks
+        if hit:
             water.append((float(f[0]), float(f[1]), float(f[3]), float(f[4])))
     if not water:
-        sys.exit(f'no strokes in inks {inks}')
+        sys.exit(f'no strokes matched {"z band %s" % (zband,) if zband else "inks %s" % (inks,)}')
+    if zband is not None:
+        print(f'outline from z band {zband[0]:.0f}..{zband[1]:.0f}: {len(water)} strokes')
 
     # stitch SHORT breaks in the outline (BRAIN: under ~70 units only, mutual
     # nearest neighbour -- long pairings drew a chord across Kerra's bay once)
@@ -158,7 +179,8 @@ def main():
           f'({borrowed} healed from neighbours)')
     if args.dry_run:
         return
-    new = ['L %.4f, %.4f, 0.0000, %.4f, %.4f, 0.0000, %d, %d, %d' % (a, ya, b, yb, *fill)
+    fz = args.fill_z
+    new = ['L %.4f, %.4f, %.4f, %.4f, %.4f, %.4f, %d, %d, %d' % (a, ya, fz, b, yb, fz, *fill)
            for (a, ya, b, yb) in runs]
     out = new + [l for l in raw if l.strip()]
     open(path, 'w', newline='', encoding='utf-8').write(CRLF.join(out) + CRLF)
