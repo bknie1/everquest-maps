@@ -297,8 +297,11 @@ def gnome(cx, cy, s, seed=0, face=-1):
     F.L(-0.07, 0.40, -0.10, 0.43, DEEP); F.L(0.06, 0.40, 0.09, 0.43, DEEP)      # apron straps
     # BIG round head (a third of him), brass goggles up on the forehead
     F.disc(-0.005, 0.60, 0.135, SKIN, n=16)
-    F.poly([(-0.14, 0.545), (-0.09, 0.46), (0.0, 0.435), (0.08, 0.46),
-            (0.115, 0.53), (0.02, 0.49), (-0.07, 0.50)], BEARD, DEEP, pitch=0.9)
+    # beard: a rounded bib hanging UNDER the chin. The old one was a wide wedge
+    # swept out to one side, which read as a muzzle rather than a beard.
+    F.poly([(-0.10, 0.535), (-0.115, 0.472), (-0.075, 0.424), (-0.005, 0.408),
+            (0.065, 0.424), (0.10, 0.472), (0.088, 0.535), (0.03, 0.505),
+            (-0.04, 0.505)], BEARD, DEEP, pitch=0.9)
     F.L(-0.135, 0.655, 0.125, 0.665, BRASS)                                     # goggle band
     F.disc(-0.075, 0.665, 0.038, BRASS); F.disc(0.015, 0.672, 0.038, BRASS)     # two lenses
     F.L(-0.10, 0.585, -0.13, 0.578, DEEP)                                       # eye
@@ -306,7 +309,10 @@ def gnome(cx, cy, s, seed=0, face=-1):
     # arm + oversized wrench over the shoulder
     F.poly([(0.07, 0.42), (0.13, 0.36), (0.155, 0.28), (0.12, 0.265),
             (0.09, 0.34), (0.045, 0.39)], SHIRT, DEEP)
-    F.L(0.14, 0.27, 0.30, 0.62, IRON)
+    # the wrench shaft needs WIDTH: as a single hairline it read as a string
+    # with a kite on the end rather than a tool in his hand.
+    F.poly([(0.122, 0.292), (0.158, 0.252), (0.328, 0.598), (0.292, 0.628)],
+           IRON, (100, 100, 110))
     F.poly([(0.27, 0.56), (0.33, 0.67), (0.38, 0.62), (0.315, 0.52)], IRON, (100, 100, 110))
     F.disc(0.325, 0.60, 0.022, (233, 225, 199))                                 # wrench jaw gap
     return F.out
@@ -515,17 +521,30 @@ def gnoll(cx, cy, s, seed=0, face=-1):
     # sloped hyena torso: shoulder high forward, hip low
     F.poly([(-0.16, 0.42), (-0.20, 0.58), (-0.14, 0.72), (0.0, 0.76),
             (0.13, 0.68), (0.19, 0.52), (0.15, 0.42)], FUR, DEEP)
-    for k in range(4):                                                          # crest
-        x = -0.10 + 0.06 * k
-        F.poly([(x, 0.74 - 0.02 * k), (x + 0.05, 0.82 - 0.02 * k), (x + 0.05, 0.72 - 0.02 * k)], DEEP, None)
-    F.poly([(-0.12, 0.72), (-0.24, 0.77), (-0.36, 0.745), (-0.42, 0.705),
-            (-0.33, 0.685), (-0.20, 0.685), (-0.12, 0.67)], FUR, DEEP)         # muzzle head
-    F.poly([(-0.16, 0.76), (-0.13, 0.86), (-0.07, 0.83), (-0.10, 0.745)], FUR, DEEP)  # ear
-    F.poly([(-0.10, 0.755), (-0.06, 0.855), (0.0, 0.825), (-0.04, 0.74)], FUR, DEEP)
-    F.L(-0.38, 0.695, -0.40, 0.73, BONE)
-    F.L(-0.245, 0.735, -0.28, 0.728, (40, 34, 24))
-    F.L(-0.14, 0.52, -0.20, 1.00, BONE)                                        # spear up
-    F.poly([(-0.20, 1.00), (-0.245, 1.09), (-0.165, 1.07)], FUR, DEEP)
+    # shaggy mane along the neck and shoulders. NOT a row of triangles: spikes
+    # down the spine read as a dinosaur, which is what made this a lizard.
+    F.poly([(-0.15, 0.70), (-0.18, 0.83), (-0.12, 0.885), (-0.03, 0.885),
+            (0.05, 0.855), (0.115, 0.775), (0.10, 0.705), (0.0, 0.70)],
+           DEEP, DEEP, pitch=0.9)
+    # HEAD: a cranium first, then a short muzzle. The old head was one long
+    # horizontal wedge -- all snout, no skull -- i.e. a crocodile.
+    F.poly([(-0.14, 0.78), (-0.19, 0.88), (-0.28, 0.885), (-0.325, 0.82),
+            (-0.30, 0.755), (-0.20, 0.735)], FUR, DEEP)                        # cranium
+    F.poly([(-0.30, 0.812), (-0.385, 0.778), (-0.402, 0.742), (-0.365, 0.728),
+            (-0.295, 0.748)], FUR, DEEP)                                       # blunt muzzle, angled down
+    F.L(-0.30, 0.775, -0.393, 0.748, DEEP)                                     # mouth line
+    F.poly([(-0.372, 0.748), (-0.356, 0.729), (-0.340, 0.750)], BONE, DEEP)    # fang
+    F.L(-0.378, 0.766, -0.396, 0.757, (40, 34, 24))                            # nose
+    F.L(-0.255, 0.815, -0.285, 0.808, (40, 34, 24))                            # eye
+    # upright pointed ears ON TOP of the skull -- the canine cue
+    F.poly([(-0.255, 0.878), (-0.30, 0.985), (-0.185, 0.905)], FUR, DEEP)
+    F.poly([(-0.175, 0.862), (-0.185, 0.975), (-0.095, 0.868)], FUR, DEEP)
+    # bushy tail, held up and back
+    F.poly([(0.14, 0.50), (0.25, 0.56), (0.34, 0.68), (0.38, 0.78), (0.31, 0.75),
+            (0.27, 0.64), (0.19, 0.55), (0.13, 0.53)], FUR, DEEP, pitch=0.9)
+    # spear, drawn with width so it does not read as a string with a kite on it
+    F.poly([(0.175, 0.44), (0.152, 0.44), (0.192, 1.00), (0.215, 1.00)], BONE, DEEP)
+    F.poly([(0.203, 1.00), (0.181, 1.10), (0.252, 1.06)], BONE, DEEP)
     return F.out
 
 
