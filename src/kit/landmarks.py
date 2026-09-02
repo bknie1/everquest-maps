@@ -472,3 +472,85 @@ def spiked_peak(cx, cy, w, h, seed=0):
         L(x, foot + rng.uniform(-h * 0.01, h * 0.02), x + d, foot + rng.uniform(-h * 0.01, h * 0.02), dark)
         x += d + rng.uniform(w * 0.01, w * 0.035)
     return out
+
+
+def darkelf_castle(cx, cy, w, h, seed=0):
+    """A small, mean teir'dal castle: narrow towers with barbed spires, a
+    portcullis arch, and a curtain wall that leans. Drawn for Nektropos Castle
+    off Nektulos' west edge.
+
+    Everything is angular and slightly asymmetric -- a symmetrical keep with
+    round towers reads as a friendly fairytale castle, which is the opposite of
+    what this place is.
+    """
+    rng = random.Random(seed)
+    STONE = (86, 74, 104)
+    DEEP = (54, 44, 70)
+    LIT = (128, 116, 150)
+    GATE = (34, 28, 44)
+    out = []
+    def L(x1, y1, x2, y2, c):
+        out.append((x1, y1, x2, y2, c))
+
+    base = cy + h * 0.46
+    # curtain wall with crenellations
+    wl, wr = cx - w * 0.46, cx + w * 0.46
+    wt = base - h * 0.34
+    L(wl, base, wr, base, DEEP)
+    L(wl, wt, wl, base, STONE)
+    L(wr, wt, wr, base, STONE)
+    L(wl, wt, wr, wt, STONE)
+    x = wl
+    k = 0
+    while x < wr - w * 0.02:
+        step = w * 0.075
+        if k % 2 == 0:
+            L(x, wt, x, wt - h * 0.06, STONE)
+            L(x, wt - h * 0.06, min(x + step, wr), wt - h * 0.06, STONE)
+            L(min(x + step, wr), wt - h * 0.06, min(x + step, wr), wt, STONE)
+        x += step
+        k += 1
+    # three towers, unequal heights, each with a barbed spire
+    for (ox, th, lean) in ((-0.36, 0.92, -0.05), (0.02, 1.16, 0.03), (0.34, 0.80, 0.06)):
+        bx = cx + ox * w
+        tw = w * 0.11
+        top = base - h * th
+        L(bx - tw, base, bx - tw + lean * w, top, STONE)
+        L(bx + tw, base, bx + tw + lean * w, top, DEEP)
+        L(bx - tw + lean * w, top, bx + tw + lean * w, top, STONE)
+        for band in (0.34, 0.62):                       # storey lines
+            by = base - h * th * band
+            f = band
+            L(bx - tw + lean * w * f, by, bx + tw + lean * w * f, by, DEEP)
+        # barbed spire: a spike with two downward hooks
+        sx = bx + lean * w
+        spire = top - h * 0.30
+        L(bx - tw + lean * w, top, sx, spire, STONE)
+        L(bx + tw + lean * w, top, sx, spire, DEEP)
+        hy = (top + spire) / 2                          # barbs SWEEP OUT from the
+        L(sx - tw * 0.45, hy, sx - tw * 1.45, hy + h * 0.055, DEEP)   # spire, past its
+        L(sx + tw * 0.45, hy, sx + tw * 1.45, hy + h * 0.055, DEEP)   # silhouette --
+        L(sx - tw * 1.45, hy + h * 0.055, sx - tw * 1.05, hy + h * 0.02, DEEP)
+        L(sx + tw * 1.45, hy + h * 0.055, sx + tw * 1.05, hy + h * 0.02, DEEP)
+        L(sx, spire, sx, spire - h * 0.09, LIT)         # finial
+        # a narrow lit window slit
+        L(sx, base - h * th * 0.5, sx, base - h * th * 0.5 - h * 0.07, LIT)
+    # portcullis arch in the curtain wall
+    gw = w * 0.085
+    L(cx - gw, base, cx - gw, base - h * 0.16, GATE)
+    L(cx + gw, base, cx + gw, base - h * 0.16, GATE)
+    m = 6
+    for i in range(m):
+        a0 = math.pi * i / m
+        a1 = math.pi * (i + 1) / m
+        L(cx + gw * math.cos(a0), base - h * 0.16 - gw * 0.9 * math.sin(a0),
+          cx + gw * math.cos(a1), base - h * 0.16 - gw * 0.9 * math.sin(a1), GATE)
+    for t in (-0.5, 0.0, 0.5):                          # bars
+        L(cx + gw * t, base, cx + gw * t, base - h * 0.16, GATE)
+    # a few rocks at the foot so it does not float
+    x = cx - w * 0.52
+    while x < cx + w * 0.52:
+        d = rng.uniform(w * 0.02, w * 0.045)
+        L(x, base + rng.uniform(0, h * 0.02), x + d, base + rng.uniform(0, h * 0.02), DEEP)
+        x += d + rng.uniform(w * 0.015, w * 0.04)
+    return out
