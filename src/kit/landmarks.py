@@ -594,3 +594,54 @@ def stone_pool(cx, cy, r, seed=0):
             L(cx - hwid, y, cx + hwid, y, WATER if int((y - cy) / step) % 3 else WATER_D)
         y += step
     return out
+
+
+def petrified_stump(cx, cy, rx, ry, seed=0):
+    """Growth rings and radial cracks, to be drawn OVER an existing rock blob.
+
+    Butcherblock's scattered "blocks" are petrified ancient tree stumps (per
+    Brandon), but the base drew each as a faceted polyhedral boulder. Facets
+    are the problem: rings laid over them just read as more scribble, so the
+    boulder wireframe is replaced rather than overdrawn.
+
+    Draws the whole stump -- a rounded, slightly lobed bark edge, growth rings,
+    radial cracks and a heartwood centre. rx, ry are the half-extents.
+    """
+    rng = random.Random(seed)
+    RING = (120, 104, 84)
+    CRACK = (70, 62, 52)
+    HEART = (96, 84, 66)
+    out = []
+
+    def ring(fr, ink, jit, n=13):
+        pts = []
+        for k in range(n + 1):
+            a = 2 * math.pi * k / n
+            j = 1.0 + rng.uniform(-jit, jit)
+            pts.append((cx + rx * fr * j * math.cos(a), cy + ry * fr * j * math.sin(a)))
+        for i in range(n):
+            out.append((pts[i][0], pts[i][1], pts[i + 1][0], pts[i + 1][1], ink))
+
+    # bark edge: lobed, and drawn twice just off-register so it reads as thick
+    # At map scale a stump is barely 30px across, so this is deliberately
+    # sparse: a bark edge and two rings. More rings merge into a dark blob,
+    # which is exactly what the boulder wireframe did wrong.
+    ring(1.00, CRACK, 0.10, n=15)
+    for fr, jit in ((0.64, 0.08), (0.33, 0.06)):
+        ring(fr, RING, jit)
+    # radial cracks: start off-centre and run out through the rings
+    for k in range(3):
+        a = rng.uniform(0, 2 * math.pi)
+        r0 = rng.uniform(0.10, 0.24)
+        r1 = rng.uniform(0.72, 0.94)
+        steps = 2
+        px, py = cx + rx * r0 * math.cos(a), cy + ry * r0 * math.sin(a)
+        for t in range(1, steps + 1):
+            f = r0 + (r1 - r0) * t / steps
+            aa = a + rng.uniform(-0.10, 0.10)
+            nx, ny = cx + rx * f * math.cos(aa), cy + ry * f * math.sin(aa)
+            out.append((px, py, nx, ny, CRACK))
+            px, py = nx, ny
+    out.append((cx - rx * 0.06, cy, cx + rx * 0.06, cy, HEART))      # heartwood
+    out.append((cx, cy - ry * 0.06, cx, cy + ry * 0.06, HEART))
+    return out
