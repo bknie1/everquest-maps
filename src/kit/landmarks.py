@@ -415,3 +415,60 @@ def aviak_lookout(cx, cy, h, seed=0):
     L(cx - pw * 0.35, py, cx - pw * 0.35, py - h * 0.13, HUT_D)         # doorway
     L(cx + pw * 0.10, py, cx + pw * 0.10, py - h * 0.13, HUT_D)
     return out
+
+
+def spiked_peak(cx, cy, w, h, seed=0):
+    """A mountain that means it: one tall blade of rock thrown up steeply, with
+    lesser spikes flanking it. For Mt. Hatespike -- a rounded mound reads as a
+    hill, and the name is Hatespike.
+
+    Steepness is the whole trick: the main face climbs at better than 70 degrees
+    and the ridgeline is cut with notches rather than smoothed.
+    """
+    rng = random.Random(seed)
+    ink = (92, 84, 88)
+    dark = (58, 52, 58)
+    lit = (140, 132, 134)
+    out = []
+    def L(x1, y1, x2, y2, c):
+        out.append((x1, y1, x2, y2, c))
+
+    foot = cy + h * 0.42
+    apex = (cx + w * 0.02, foot - h)
+    # left face -- steep, notched on the way up
+    left = [(cx - w * 0.46, foot), (cx - w * 0.34, foot - h * 0.26),
+            (cx - w * 0.30, foot - h * 0.22), (cx - w * 0.22, foot - h * 0.52),
+            (cx - w * 0.17, foot - h * 0.48), (cx - w * 0.09, foot - h * 0.80),
+            (cx - w * 0.05, foot - h * 0.76), apex]
+    # right face -- steeper still, so the summit leans and looks unstable
+    right = [apex, (cx + w * 0.07, foot - h * 0.72), (cx + w * 0.11, foot - h * 0.76),
+             (cx + w * 0.17, foot - h * 0.40), (cx + w * 0.23, foot - h * 0.44),
+             (cx + w * 0.32, foot - h * 0.14), (cx + w * 0.44, foot)]
+    for seq in (left, right):
+        for i in range(len(seq) - 1):
+            L(*seq[i], *seq[i + 1], ink)
+    # flanking spikes, lower and sharper
+    for (bx, sc, side) in ((-w * 0.42, 0.42, -1), (w * 0.40, 0.34, 1)):
+        base = cx + bx
+        tip = (base + side * w * 0.05, foot - h * sc)
+        L(base - w * 0.11, foot, tip[0], tip[1], dark)
+        L(tip[0], tip[1], base + w * 0.12, foot, dark)
+        L(base - w * 0.04, foot - h * sc * 0.42, base + w * 0.05, foot - h * sc * 0.36, dark)
+    # fall-line hachures down the main faces -- shading, and they read as scree
+    for t in range(1, 9):
+        f = t / 9.0
+        ax = apex[0] - w * 0.30 * f
+        ay = apex[1] + h * 0.92 * f
+        L(ax, ay, ax - w * 0.055, ay + h * 0.10, dark if t % 2 else ink)
+        bx2 = apex[0] + w * 0.26 * f
+        L(bx2, ay, bx2 + w * 0.050, ay + h * 0.09, dark if t % 2 else ink)
+    # a lit edge on the summit blade so the apex reads sharp, not blunt
+    L(apex[0], apex[1], apex[0] - w * 0.05, apex[1] + h * 0.16, lit)
+    L(apex[0], apex[1], apex[0] + w * 0.04, apex[1] + h * 0.13, lit)
+    # broken rubble at the foot instead of a ruled baseline
+    x = cx - w * 0.50
+    while x < cx + w * 0.50:
+        d = rng.uniform(w * 0.02, w * 0.05)
+        L(x, foot + rng.uniform(-h * 0.01, h * 0.02), x + d, foot + rng.uniform(-h * 0.01, h * 0.02), dark)
+        x += d + rng.uniform(w * 0.01, w * 0.035)
+    return out
