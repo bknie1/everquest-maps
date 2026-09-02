@@ -302,3 +302,53 @@ def wizard_spires(cx, cy, r, seed=0):
         out.append((bx - w / 2, by, bx + w / 2, by, PALE_DARK))
         out.append((bx + w * 0.1, by - h * 0.35, tip[0], tip[1], PALE_DARK))  # facet edge
     return out
+
+
+BLOOD = (150, 44, 38)
+BLOOD_DARK = (104, 28, 24)
+
+
+def splitpaw_claws(cx, cy, r, seed=0):
+    """The three curved stone spires over the Lair of Splitpaw tunnel.
+
+    From Brandon's in-game shot: tall stone pillars that curve like claws out
+    of the earth, each capped in a bloody red the whole upper third. They are
+    the landmark you actually navigate by -- the tunnel mouth itself is a small
+    hole between them.
+    """
+    rng = random.Random(seed)
+    out = []
+    # three claws around the tunnel, each leaning outward from the centre
+    claws = [(-0.62, 0.30, 1.00, -1), (0.58, 0.16, 0.86, 1), (0.02, -0.52, 0.72, 1)]
+    for (ox, oy, sc, curl) in claws:
+        bx, by = cx + ox * r, cy + oy * r
+        h = r * 1.45 * sc
+        w = r * 0.30 * sc
+        bend = curl * r * 0.34 * sc               # how far the tip hooks over
+        N = 7
+        left, right = [], []
+        for k in range(N + 1):
+            t = k / N
+            # centreline curves as it rises; width tapers to a point
+            mx = bx + bend * t * t
+            my = by - h * t
+            ww = w * (1.0 - 0.88 * t)
+            left.append((mx - ww / 2, my))
+            right.append((mx + ww / 2, my))
+        for k in range(N):
+            top = (k / N) >= 0.66              # upper third wears the blood
+            ink = BLOOD if top else STONE
+            dark = BLOOD_DARK if top else STONE_DARK
+            out.append((left[k][0], left[k][1], left[k + 1][0], left[k + 1][1], ink))
+            out.append((right[k][0], right[k][1], right[k + 1][0], right[k + 1][1], dark))
+            # cross ties give the pillar mass at map scale; the blood cap gets
+            # every tie so it reads as a solid red tip, not a red outline
+            if top or k % 2 == 0:
+                out.append((left[k][0], left[k][1], right[k][0], right[k][1], ink if top else dark))
+            if top:
+                mxa = (left[k][0] + right[k][0]) / 2
+                mxb = (left[k + 1][0] + right[k + 1][0]) / 2
+                out.append((mxa, left[k][1], mxb, left[k + 1][1], BLOOD))
+        out.append((left[N][0], left[N][1], right[N][0], right[N][1], BLOOD_DARK))
+        out.append((bx - w * 0.75, by, bx + w * 0.75, by, STONE_DARK))          # footing
+    return out
