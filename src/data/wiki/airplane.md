@@ -432,12 +432,12 @@ Wind Rune Azia
 |
 Crude Wooden Flute (5-SL)
 |
-Fae AmuletFae Amulet
+Amulet of the FaeAmulet of the Fae
 MAGIC ITEM LORE ITEM NO DROP
 Slot: NECK
 Charges: 4
-AC: 5
-DEX: +4 STA: +4 HP: +50
+AC: 8
+STR: +5 DEX: +4 STA: +4 HP: +50
 SV DISEASE: +10 SV POISON: +10
 Effect: Healing (Must Equip, Casting Time: Instant) at Level 45
 WT: 0.1 Size: TINY
@@ -2684,7 +2684,7 @@ Wizard Plane of Sky Tests
 |
 |
 |
-NPCs - Found 66 NPCs that spawn in Plane of Sky:
+NPCs - Found 78 NPCs that spawn in Plane of Sky:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Soul Carrier
 |
@@ -3043,6 +3043,14 @@ Class: ALL
 Race: ALL
 |
 These eight yellow wisps go unnoticed by many who venture to the Plane of Sky. They are clerics (Confirmed 8/11/2026) hi... |
+Animist Kratho
+|
+Efreeti |
+Warrior |
+55 |
+|
+None |
+This is the quest NPC for Beastlord Plane of Sky Tests turn ins. |
 Bazzt Zzzt
 |
 Bixie |
@@ -3096,6 +3104,14 @@ Various |
 A.K.A. Mini-queen
 One spawns immediately after killing Bazzzazzt (#3).
 Killing this mob immediately spawns [[Bazzt... |
+Cilin Spellsinger
+|
+Efreeti |
+Warrior |
+55 |
+|
+None |
+This is the quest NPC for Bard Plane of Sky Tests turn ins. |
 Dason Goldblade
 |
 Efreeti |
@@ -3103,7 +3119,7 @@ Warrior |
 55 |
 Quest Room |
 None |
-Located on the Quest Island. |
+Located on the Quest Island. This is the quest NPC for Paladin Plane of Sky Tests turn i... |
 Dirkog Steelhand
 |
 Dwarf |
@@ -3112,6 +3128,22 @@ GM Paladin |
 Island 4 |
 None |
 If you spawn this guy during a Sky raid, he will kill most or all evil race characters on Island 4. Dirkog spawns in the... |
+Drakis Bloodcaster
+|
+Efreeti |
+Warrior |
+55 |
+|
+None |
+This is the quest NPC for Necromancer Plane of Sky Tests turn ins. |
+Enchanter Jolas
+|
+Efreeti |
+Warrior |
+55 |
+|
+None |
+This is the quest NPC for Enchanter Plane of Sky Tests turn ins. |
 Enderbite
 |
 Dark Elf |
@@ -3179,6 +3211,14 @@ Class: ALL
 Race: ALL
 |
 This somewhat nastier harpy will proc a short range AoE mez on melee attacks. Encourage your melee to equip MR gear, car... |
+Holwin
+|
+Efreeti |
+Warrior |
+55 |
+|
+None |
+This is the quest NPC for Monk Plane of Sky Tests turn ins. |
 Inte Akera
 |
 Erudite |
@@ -3194,8 +3234,7 @@ Warrior |
 55 |
 50% @ (1349, 659) |
 None |
-Have not confirmed but don't think this is accurate for EQ Legends:
-This is the sky quest NPC that summons one of... |
+This is the quest NPC for Cleric Plane of Sky Tests turn ins. |
 Jzil GSix
 |
 Dark Elf |
@@ -3258,7 +3297,7 @@ Warrior |
 55 |
 100% @ (1305, 604) |
 None |
-Name in game is actually Magi Frinon. |
+Name in game is actually Magi Frinon. This is the quest NPC for [[Magician Plane of Sky Tests|Magician Plane of Sky... |
 Master of Elements
 |
 Elemental |
@@ -3267,6 +3306,14 @@ Magician |
 Quest Room above the fire in the center of the room |
 None |
 Takes the final turn-in for the Magician Epic and gives the epic reward itself. |
+Medicine Man Veetra
+|
+Efreeti |
+Warrior |
+55 |
+|
+None |
+This is the quest NPC for Shaman Plane of Sky Tests turn ins. |
 Noble Dojorn
 |
 Efreeti |
@@ -3300,6 +3347,22 @@ Rogue |
 2nd Island |
 Various |
 The boss of island two. This triggered spawn will appear over the corpse of an azarack, a particular one which is sl... |
+Ranger Spirit
+|
+Efreeti |
+Warrior |
+55 |
+|
+None |
+This is the quest NPC for Ranger Plane of Sky Tests turn ins. |
+Sarkis Ebonblade
+|
+Efreeti |
+Warrior |
+55 |
+|
+None |
+This is the quest NPC for Shadow Knight Plane of Sky Tests turn ins. |
 Sirran the Lunatic
 |
 Halfling |
@@ -3316,6 +3379,30 @@ Magician |
 7th Island |
 Various |
 Spawns with a sprite protector at her side. |
+Stragen The Hewer
+|
+Efreeti |
+Warrior |
+55 |
+|
+None |
+This is the quest NPC for Berserker Plane of Sky Tests turn ins. |
+Strandar Pinemist
+|
+Efreeti |
+Warrior |
+55 |
+|
+None |
+This is the quest NPC for Druid Plane of Sky Tests turn ins. |
+Thalik Silenthand
+|
+Efreeti |
+Warrior |
+55 |
+|
+None |
+This is the quest NPC for Rogue Plane of Sky Tests turn ins. |
 The Hand of Veeshan
 |
 Efreeti |
@@ -3364,7 +3451,15 @@ Warrior |
 55 |
 100% @ (1400, 564) |
 None |
-Can be Dictated, Mesmerized, slowed, rooted, and stunned. Immune to fear. Does not social with other efreeti - n... |
+This is the quest NPC for Warrior Plane of Sky Tests turn ins. |
+Wizard Schrock
+|
+Efreeti |
+Warrior |
+55 |
+|
+None |
+This is the quest NPC for Wizard Plane of Sky Tests turn ins. |
 Items - Found 263 items that drop in Plane of Sky:
 Item Name | Drops From | Slot | Stats |
 Acidic VenomAcidic Venom
@@ -6132,13 +6227,12 @@ Race: ALL
 Protector of Sky |
 (None) |
 LORE ITEM WT: 6.0 Size: MEDIUM Class: ALL Race: ALL |
-Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Sky&oldid=175648"
-Categories: Sky Era
-Classic Era
+Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Sky&oldid=175973"
+Categories: Classic Era
 Zones
 How to Contribute
 Donate
-This page was last edited on 1 September 2026, at 22:09.
+This page was last edited on 2 September 2026, at 13:18.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

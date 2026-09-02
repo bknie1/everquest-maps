@@ -1,5 +1,5 @@
 # Nagafen's_Lair (eqlwiki.com)
-fetched: 2026-09-01
+fetched: 2026-09-02
 
 Nagafen's Lair - EverQuest Legends Wiki
 Jump to content
@@ -1023,7 +1023,7 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 |
-a greater kobold shaman, greater kobold, kobold champion |
+Various |
 (None) |
 WT: 0.1 Size: TINY Class: ALL Race: ALL |
 Blackened Mithril BootsBlackened Mithril Boots

@@ -907,7 +907,7 @@ Godbin Strumharp
 Gnome |
 Merchant |
 30 |
-(43, -618) |
+Windmills, near the center of the zone (43, -618) |
 |
 Gnome merchant who sells various smithing supplies. |
 Jogl Doobraugh

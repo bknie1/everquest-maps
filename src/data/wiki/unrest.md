@@ -91,7 +91,7 @@ Death Beetles, Tormented Dead, Greater Skeletons, Jack-O-Lanterns, Ghouls, Dark 
 |
 Rare NPCs:
 |
-a priest of najena, a gnomish spelunker, a reanimated hand, an undead barkeep, an undead brewer, an undead knight of Unrest, Garanel Rucksif, Khrix Fritchoff, Khrix's Abomination, Lesser Blade Fiend, reclusive ghoul magus, Shadowpincer, Torklar Battlemaster, a zombie of an Unrest noble
+a priest of najena, a gnomish spelunker, a reanimated hand, an undead barkeep, an undead brewer, an undead knight of Unrest, Garanel Rucksif, Khrix Fritchoff, Lesser Blade Fiend, reclusive ghoul magus, Torklar Battlemaster, a zombie of an Unrest noble
 |
 Unique Items:
 |
@@ -1992,13 +1992,13 @@ Race: ALL
 a werebat |
 (None) |
 No Trade, Quest Size: SMALL WT: 0.0 Class: ALL Race: ALL |
-Retrieved from "https://eqlwiki.com/index.php?title=The_Estate_of_Unrest&oldid=175568"
+Retrieved from "https://eqlwiki.com/index.php?title=The_Estate_of_Unrest&oldid=175905"
 Categories: Classic Era
 Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 1 September 2026, at 14:34.
+This page was last edited on 2 September 2026, at 11:13.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

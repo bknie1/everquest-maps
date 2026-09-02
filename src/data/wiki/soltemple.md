@@ -1,5 +1,5 @@
 # Temple_of_Solusek_Ro (eqlwiki.com)
-fetched: 2026-08-31
+fetched: 2026-09-02
 
 The Temple of Solusek Ro - EverQuest Legends Wiki
 Jump to content
@@ -1116,7 +1116,7 @@ WT: 9.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 (Uncommon?) |
-Vira gives quests for four items that all give reclaim energy at level 20. While they may only be equipped by Magicians,... |
+Vira gives quests for four items that all give reclaim energy at level 20. |
 Vurgo
 |
 Erudite |
