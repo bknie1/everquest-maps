@@ -508,19 +508,30 @@ def froglok(cx, cy, s, seed=0, face=-1):
 def gnoll(cx, cy, s, seed=0, face=-1):
     F = _F(cx, cy, s, face)
     FUR = (120, 102, 74); DEEP = (86, 72, 50); BONE = (176, 168, 140)
-    # two separate digitigrade legs (rear shaded), back-bent hocks
-    F.poly([(0.02, 0.44), (0.12, 0.42), (0.145, 0.28), (0.12, 0.16),
-            (0.17, 0.06), (0.22, 0.02), (0.13, 0.02), (0.095, 0.12),
-            (0.065, 0.26)], DEEP, DEEP)
-    F.poly([(-0.115, 0.44), (-0.02, 0.44), (-0.045, 0.28), (-0.075, 0.16),
-            (-0.045, 0.06), (-0.185, 0.02), (-0.105, 0.02), (-0.125, 0.10),
-            (-0.14, 0.24)], FUR, DEEP)
-    F.poly([(-0.045, 0.06), (-0.185, 0.03), (-0.18, 0.02), (-0.075, 0.02),
-            (-0.055, 0.045)], FUR, DEEP)                                        # paw
-    F.poly([(-0.115, 0.40), (-0.13, 0.46), (0.13, 0.46), (0.12, 0.40)], FUR, DEEP)  # hips
-    # sloped hyena torso: shoulder high forward, hip low
-    F.poly([(-0.16, 0.42), (-0.20, 0.58), (-0.14, 0.72), (0.0, 0.76),
-            (0.13, 0.68), (0.19, 0.52), (0.15, 0.42)], FUR, DEEP)
+    # far arm first so it sits BEHIND the torso, reaching back to the spear
+    F.poly([(0.075, 0.755), (0.145, 0.655), (0.180, 0.545), (0.145, 0.520),
+            (0.115, 0.625), (0.045, 0.715)], DEEP, DEEP)
+    # LEGS: upright and humanoid. They used to be digitigrade with back-bent
+    # hocks, which read as a dog's hind legs on a standing body.
+    F.poly([(-0.015, 0.47), (0.075, 0.47), (0.080, 0.27), (0.070, 0.075),
+            (0.005, 0.075), (0.000, 0.27)], DEEP, DEEP)                        # far leg
+    F.poly([(0.000, 0.085), (0.080, 0.085), (0.105, 0.02), (-0.025, 0.02)], DEEP, DEEP)
+    F.poly([(-0.115, 0.47), (-0.030, 0.47), (-0.028, 0.27), (-0.040, 0.075),
+            (-0.105, 0.075), (-0.110, 0.27)], FUR, DEEP)                       # near leg
+    F.poly([(-0.110, 0.085), (-0.032, 0.085), (-0.008, 0.02), (-0.140, 0.02)], FUR, DEEP)
+    for tx in (-0.132, -0.108, -0.084):                                        # claws
+        F.L(tx, 0.02, tx - 0.012, 0.006, DEEP)
+    # TORSO: shoulders, a waist, and a chest -- not one rounded lump. The old
+    # single blob poly is what made the body read as a sack.
+    F.poly([(-0.100, 0.44), (0.100, 0.44), (0.088, 0.575), (0.150, 0.735),
+            (0.105, 0.810), (-0.115, 0.805), (-0.160, 0.715), (-0.092, 0.575)],
+           FUR, DEEP)
+    F.L(-0.088, 0.585, 0.085, 0.585, DEEP)                                     # belt line
+    # near arm, forward, over the torso
+    F.poly([(-0.125, 0.760), (-0.185, 0.660), (-0.205, 0.545), (-0.168, 0.520),
+            (-0.152, 0.640), (-0.095, 0.725)], FUR, DEEP)
+    F.poly([(-0.205, 0.545), (-0.168, 0.520), (-0.180, 0.480), (-0.212, 0.500)],
+           FUR, DEEP)                                                          # fist
     # shaggy mane along the neck and shoulders. NOT a row of triangles: spikes
     # down the spine read as a dinosaur, which is what made this a lizard.
     F.poly([(-0.15, 0.70), (-0.18, 0.83), (-0.12, 0.885), (-0.03, 0.885),
