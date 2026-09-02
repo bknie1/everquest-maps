@@ -554,3 +554,43 @@ def darkelf_castle(cx, cy, w, h, seed=0):
         L(x, base + rng.uniform(0, h * 0.02), x + d, base + rng.uniform(0, h * 0.02), DEEP)
         x += d + rng.uniform(w * 0.015, w * 0.04)
     return out
+
+
+def stone_pool(cx, cy, r, seed=0):
+    """A hexagonal flagstone apron with a diamond pool set into the middle.
+    From Brandon's shot beside Vhalen Nostrolo in South Karana -- a pool rather
+    than a fountain: still water, no spout.
+    """
+    rng = random.Random(seed)
+    FLAG = (146, 140, 128)
+    FLAG_D = (104, 98, 90)
+    WATER = (60, 104, 140)
+    WATER_D = (40, 74, 108)
+    RIM = (120, 96, 76)
+    out = []
+    def L(x1, y1, x2, y2, c):
+        out.append((x1, y1, x2, y2, c))
+
+    hexp = [(cx + r * math.cos(math.pi / 6 + k * math.pi / 3),
+             cy + r * 0.72 * math.sin(math.pi / 6 + k * math.pi / 3)) for k in range(6)]
+    for i in range(6):
+        L(*hexp[i], *hexp[(i + 1) % 6], FLAG_D)
+    # flagstone joints: a few chords across the apron, not a full grid
+    for t in (-0.55, -0.2, 0.2, 0.55):
+        L(cx - r * 0.86, cy + r * 0.72 * t, cx + r * 0.86, cy + r * 0.72 * t, FLAG)
+    for t in (-0.5, 0.0, 0.5):
+        L(cx + r * t, cy - r * 0.62, cx + r * t * 0.6, cy + r * 0.62, FLAG)
+    # the diamond pool, rim then water
+    dr = r * 0.42
+    dia = [(cx, cy - dr * 0.86), (cx + dr, cy), (cx, cy + dr * 0.86), (cx - dr, cy)]
+    for i in range(4):
+        L(*dia[i], *dia[(i + 1) % 4], RIM)
+    step = max(1.2, r * 0.05)
+    y = cy - dr * 0.86 + step
+    while y < cy + dr * 0.86 - step * 0.5:
+        f = 1.0 - abs(y - cy) / (dr * 0.86)
+        hwid = dr * f * 0.92
+        if hwid > step * 0.4:
+            L(cx - hwid, y, cx + hwid, y, WATER if int((y - cy) / step) % 3 else WATER_D)
+        y += step
+    return out
