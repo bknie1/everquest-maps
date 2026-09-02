@@ -1,5 +1,5 @@
 # Oggok (eqlwiki.com)
-fetched: 2026-08-31
+fetched: 2026-09-02
 
 Oggok - EverQuest Legends Wiki
 Jump to content
@@ -189,8 +189,8 @@ First of all, Oggok's Craknek warriors and Greenblood shadowknights, the two maj
 Lizard Meat
 Kogna in the warriors guild wants 4 pieces of
 Lizard MeatLizard Meat
-QUEST ITEM
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 from the lizard men in the Feerrott. Note that doing this quest gives negative faction with the Oggok shadowknight guild.

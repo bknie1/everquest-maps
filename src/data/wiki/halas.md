@@ -1,5 +1,5 @@
 # Halas (eqlwiki.com)
-fetched: 2026-08-31
+fetched: 2026-09-02
 
 Halas - EverQuest Legends Wiki
 Jump to content
@@ -471,8 +471,8 @@ WT: 0.3 Size: SMALL
 Class: ALL
 Race: ALL
 , TurquoiseTurquoise
-QUEST ITEM
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Large Patchwork PantsLarge Patchwork Pants

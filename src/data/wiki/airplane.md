@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-09-01
+fetched: 2026-09-02
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -372,19 +372,11 @@ After you have the key left click on the teleportation pad at the North point of
 There's an Efreeti quest NPC for each class. You can hail them and use the keyword for each test if you want to confirm your items before handing them in.
 Bard Tests
 Quest Giver: Cilin Spellsinger
+Reward |
 Quest |
 Trigger Phrases |
 Rune |
-Quest Items |
-Reward
-|
-Bard Test of Tone
-|
-tone
-|
-Wind Rune Meda
-|
-Light Woolen Mask (3-Gorga)
+Quest Items
 |
 Mask of SongMask of Song
 Lore Equipped, No Trade
@@ -396,13 +388,13 @@ WT: 0.5 Size: MEDIUM
 Class: BRD
 Race: ALL
 |
-Bard Test of Voice
+Bard Test of Tone
 |
-voice
+tone
 |
-Wind Rune Kala
+Wind Rune Meda
 |
-Light Woolen Mantle (4-KoS)
+Light Woolen Mask (3-Gorga)
 |
 Mantle of the SongweaverMantle of the Songweaver
 MAGIC ITEM LORE ITEM NO DROP
@@ -415,13 +407,13 @@ WT: 2.5 Size: SMALL
 Class: BRD
 Race: ALL
 |
-Bard Test of Pitch
+Bard Test of Voice
 |
-pitch
+voice
 |
-Wind Rune Azia
+Wind Rune Kala
 |
-Crude Wooden Flute (5-SL)
+Light Woolen Mantle (4-KoS)
 |
 Ervaj's Flute of FlightErvaj's Flute of Flight
 MAGIC ITEM LORE ITEM NO DROP
@@ -432,13 +424,13 @@ WT: 0.1 Size: TINY
 Class: BRD
 Race: ALL
 |
-Bard Test of Wind
+Bard Test of Pitch
 |
-wind
+pitch
 |
-Wind Rune Caza
+Wind Rune Azia
 |
-Amulet of Woven Hair (6-BZ)
+Crude Wooden Flute (5-SL)
 |
 Fae AmuletFae Amulet
 MAGIC ITEM LORE ITEM NO DROP
@@ -452,14 +444,13 @@ WT: 0.1 Size: TINY
 Class: BRD
 Race: ALL
 |
-Bard Test of Brass
+Bard Test of Wind
 |
-brass
+wind
 |
-Wind Rune Fana
+Wind Rune Caza
 |
-Glowing Diamond (7-SotS)
-Efreeti War Horn
+Amulet of Woven Hair (6-BZ)
 |
 Denon's Horn of DisasterDenon's Horn of Disaster
 MAGIC ITEM LORE ITEM NO DROP
@@ -470,14 +461,14 @@ WT: 2.0 Size: MEDIUM
 Class: BRD
 Race: ALL
 |
-Bard Test of Harmony
+Bard Test of Brass
 |
-harmony
+brass
 |
-Wind Rune Heda
+Wind Rune Fana
 |
-Nebulous Diamond (8-EoV)
-Efreeti War Spear
+Glowing Diamond (7-SotS)
+Efreeti War Horn
 |
 Spear of HarmonySpear of Harmony
 MAGIC ITEM LORE ITEM NO DROP
@@ -490,21 +481,22 @@ WT: 3.5 Size: MEDIUM
 Class: BRD
 Race: ALL
 |
+Bard Test of Harmony
+|
+harmony
+|
+Wind Rune Heda
+|
+Nebulous Diamond (8-EoV)
+Efreeti War Spear
+|
 Beastlord Tests
 Quest Giver: Animist Kratho
+Reward |
 Quest |
 Trigger Phrases |
 Rune |
-Quest Items |
-Reward
-|
-Beastlord Test of Aviak
-|
-aviak
-|
-Wind Rune Beza
-|
-Spiroc Elder's Totem (5-SL)
+Quest Items
 |
 Spiroc Beak EarcuffSpiroc Beak Earcuff
 Lore Equipped, No Trade
@@ -520,13 +512,13 @@ Cast Time: Instant
 Required Level: 46
 Cooldown: 120 seconds
 |
-Beastlord Test of Azarack
+Beastlord Test of Aviak
 |
-azarack
+aviak
 |
-Wind Rune Heda
+Wind Rune Beza
 |
-Azarack Skin (2-PoS)
+Spiroc Elder's Totem (5-SL)
 |
 Azarack Skin WristwrapsAzarack Skin Wristwraps
 No Trade
@@ -538,15 +530,13 @@ STR: +5 STA: +5 DEX: +5
 WT: 1.0 Size: SMALL
 Click Effect: Whirl Bolt (Must Equip) - Cast Time: 1.0 seconds, Required Level: 46, Cooldown: 240 seconds
 |
-Beastlord Test of Claw
+Beastlord Test of Azarack
 |
-claw
+azarack
 |
-Wind Rune Izah
+Wind Rune Heda
 |
-Sphinx Claw (7-SotS)
-Mithril Bands (8-EoV)
-Brass Knuckles
+Azarack Skin (2-PoS)
 |
 WindhowlWindhowl
 Lore Equipped, No Trade
@@ -572,13 +562,15 @@ WT: 0.1 Size: Tiny
 Class: BST
 Race: ALL
 |
-Beastlord Test of Harpy
+Beastlord Test of Claw
 |
-harpy
+claw
 |
-Wind Rune Kala
+Wind Rune Izah
 |
-Leather Cord (3-Gorga)
+Sphinx Claw (7-SotS)
+Mithril Bands (8-EoV)
+Brass Knuckles
 |
 Griffon-Hide ArmguardsGriffon-Hide Armguards
 LORE ITEM NO TRADE
@@ -591,13 +583,13 @@ SV MAGIC: +5 SV FIRE: +5 SV COLD: +5 SV DISEASE: +5 SV POISON: +5
 End: +15
 WT: 2.5 Size: SMALL
 |
-Beastlord Test of Wind
+Beastlord Test of Harpy
 |
-wind
+harpy
 |
-Wind Rune Geza
+Wind Rune Kala
 |
-Silken Wrap (6-BZ)
+Leather Cord (3-Gorga)
 |
 Diaphonous WaistbandDiaphonous Waistband
 Lore Equipped, No Trade
@@ -609,22 +601,21 @@ STR: 5 WIS: 10 DEX: 10
 Haste: 41%
 WT: 0.1 Size: SMALL
 |
+Beastlord Test of Wind
+|
+wind
+|
+Wind Rune Geza
+|
+Silken Wrap (6-BZ)
+|
 Berserker Tests
 Quest Giver: Stragen The Hewer
+Reward |
 Quest |
 Trigger Phrases |
 Rune |
-Quest Items |
-Reward
-|
-Berserker Test of Sharpness
-|
-sharpness
-|
-Wind Rune Jaka
-|
-Djinni War Blade (7-SotS)
-Efreeti Standard
+Quest Items
 |
 SkycleaverSkycleaver
 Lore Equipped, No Trade
@@ -639,13 +630,14 @@ Class: BER
 Race: ALL
 Combat Effect: Haste (Req Level 30)
 |
-Berserker Test of Will
+Berserker Test of Sharpness
 |
-will
+sharpness
 |
-Wind Rune Ena
+Wind Rune Jaka
 |
-Pulsating Ruby (6-BZ)
+Djinni War Blade (7-SotS)
+Efreeti Standard
 |
 Molten CoilMolten Coil
 Lore Equipped, No Trade
@@ -658,13 +650,13 @@ STR: +6 STA: +5 AGI: +5 DEX: +6 CHA: +10
 SV FIRE: +5
 WT: 0.1 Size: TINY
 |
-Berserker Test of Ferocity
+Berserker Test of Will
 |
-ferocity
+will
 |
-Wind Rune Ozah
+Wind Rune Ena
 |
-High Quality Raiment (5-SL)
+Pulsating Ruby (6-BZ)
 |
 Sash of FerocitySash of Ferocity
 Lore Equipped, No Trade
@@ -677,13 +669,13 @@ SV MAGIC: +5
 Haste: +41%
 WT: 0.1 Size: SMALL
 |
-Berserker Test of Burden
+Berserker Test of Ferocity
 |
-burden
+ferocity
 |
-Wind Rune Azia
+Wind Rune Ozah
 |
-Feathered Cape (3-Gorga)
+High Quality Raiment (5-SL)
 |
 Shroud of the SkyShroud of the Sky
 Lore Equipped, No Trade
@@ -699,13 +691,13 @@ Cast Time: 3.5 seconds
 Required Level: 46
 Cooldown: 120 seconds
 |
-Berserker Test of Blood
+Berserker Test of Burden
 |
-blood
+burden
 |
-Wind Rune Lena
+Wind Rune Azia
 |
-Azarack Blood (2-PoS)
+Feathered Cape (3-Gorga)
 |
 Blood-Drawn RunesBlood-Drawn Runes
 No Trade, Quest
@@ -717,14 +709,13 @@ STR: +10 STA: +10 AGI: +5 DEX: +10
 HP Regen: +10
 Size: LARGE
 |
-Berserker Test of Fools Errand
+Berserker Test of Blood
 |
-fools errand
+blood
 |
-Wind Rune Dena
+Wind Rune Lena
 |
-Jester's Mask (4-KoS)
-Efreeti Great Staff (8-EoV)
+Azarack Blood (2-PoS)
 |
 Cudgel of the FoolCudgel of the Fool
 LORE ITEM NO TRADE
@@ -737,21 +728,22 @@ WT: 8.0 Size: GIANT
 Class: BER
 Race: ALL
 |
+Berserker Test of Fools Errand
+|
+fools errand
+|
+Wind Rune Dena
+|
+Jester's Mask (4-KoS)
+Efreeti Great Staff (8-EoV)
+|
 Cleric Tests
 Quest Giver: Josin Faithbringer
+Reward |
 Quest |
 Trigger Phrases |
 Rune |
-Quest Items |
-Reward
-|
-Cleric Test of Courage
-|
-courage
-|
-Wind Rune Lena
-|
-Silver Hoop (3-Gorga)
+Quest Items
 |
 Truewind EarringTruewind Earring
 MAGIC ITEM LORE ITEM NO DROP
@@ -762,13 +754,13 @@ WT: 0.1 Size: TINY
 Class: CLR
 Race: ALL
 |
-Cleric Test of Skill
+Cleric Test of Courage
 |
-skill
+courage
 |
-Wind Rune Meda
+Wind Rune Lena
 |
-Small Shield (4-KoS)
+Silver Hoop (3-Gorga)
 |
 Aegis of the WindAegis of the Wind
 MAGIC ITEM LORE ITEM NO DROP
@@ -780,13 +772,13 @@ WT: 9.5 Size: LARGE
 Class: CLR
 Race: ALL
 |
-Cleric Test of Protection
+Cleric Test of Skill
 |
-protection
+skill
 |
-Wind Rune Caza
+Wind Rune Meda
 |
-Shiny Pauldrons (5-SL)
+Small Shield (4-KoS)
 |
 Pauldrons of PietyPauldrons of Piety
 MAGIC ITEM LORE ITEM NO DROP
@@ -797,13 +789,13 @@ WT: 4.5 Size: SMALL
 Class: CLR
 Race: ALL
 |
-Cleric Test of Resolution
+Cleric Test of Protection
 |
-resolution
+protection
 |
-Wind Rune Neza
+Wind Rune Caza
 |
-Silvered Spiroc Necklace (6-BZ)
+Shiny Pauldrons (5-SL)
 |
 Necklace of ResolutionNecklace of Resolution
 MAGIC ITEM LORE ITEM NO DROP
@@ -816,14 +808,13 @@ WT: 0.1 Size: TINY
 Class: CLR
 Race: ALL
 |
-Cleric Test of Theurgy
+Cleric Test of Resolution
 |
-theurgy
+resolution
 |
-Wind Rune Kala
+Wind Rune Neza
 |
-Djinni Aura (7-SotS)
-Efreeti Mace
+Silvered Spiroc Necklace (6-BZ)
 |
 Theurgist's StarTheurgist's Star
 MAGIC ITEM LORE ITEM NO DROP
@@ -837,14 +828,14 @@ WT: 4.0 Size: MEDIUM
 Class: CLR
 Race: ALL
 |
-Cleric Test of The Weak
+Cleric Test of Theurgy
 |
-weak
+theurgy
 |
-Wind Rune Ena
+Wind Rune Kala
 |
-Mithril Bands (8-EoV)
-Efreeti Standard
+Djinni Aura (7-SotS)
+Efreeti Mace
 |
 Baton of the SkyBaton of the Sky
 MAGIC ITEM LORE ITEM NO DROP
@@ -862,21 +853,22 @@ WT: 8.0 Size: MEDIUM
 Class: CLR
 Race: ALL
 |
+Cleric Test of The Weak
+|
+weak
+|
+Wind Rune Ena
+|
+Mithril Bands (8-EoV)
+Efreeti Standard
+|
 Druid Tests
 Quest Giver: Strandar Pinemist
+Reward |
 Quest |
 Trigger Phrases |
 Rune |
-Quest Items |
-Reward
-|
-Druid Test of Wolf
-|
-wolf
-|
-Wind Rune Meda
-|
-Worn Leather Mask (3-Gorga)
+Quest Items
 |
 Drake-Hide MaskDrake-Hide Mask
 MAGIC ITEM LORE ITEM NO DROP
@@ -888,13 +880,13 @@ WT: 0.4 Size: SMALL
 Class: DRU
 Race: ALL
 |
-Druid Test of Bear
+Druid Test of Wolf
 |
-bear
+wolf
 |
-Wind Rune Kala
+Wind Rune Meda
 |
-Mantle of Woven Grass (4-KoS)
+Worn Leather Mask (3-Gorga)
 |
 Nature Walker's MantleNature Walker's Mantle
 MAGIC ITEM LORE ITEM NO DROP
@@ -905,14 +897,13 @@ WT: 2.5 Size: SMALL
 Class: DRU
 Race: ALL
 |
-Druid Test of Tree
+Druid Test of Bear
 |
-tree
+bear
 |
-Wind Rune Azia
+Wind Rune Kala
 |
-Spiroc Battle Staff (5-SL)
-Efreeti Statuette
+Mantle of Woven Grass (4-KoS)
 |
 ShillelaghShillelagh
 MAGIC ITEM LORE ITEM NO DROP
@@ -925,13 +916,14 @@ WT: 4.0 Size: LARGE
 Class: DRU
 Race: ALL
 |
-Druid Test of The Bee
+Druid Test of Tree
 |
-bee
+tree
 |
-Wind Rune Dena
+Wind Rune Azia
 |
-Divine Honeycomb (6-BZ)
+Spiroc Battle Staff (5-SL)
+Efreeti Statuette
 |
 Honeycomb BeltHoneycomb Belt
 MAGIC ITEM LORE ITEM NO DROP
@@ -940,6 +932,22 @@ AC: 6
 CHA: +2 WIS: +8 MANA: +75
 Haste: +26%
 WT: 2.0 Size: SMALL
+Class: DRU
+Race: ALL
+|
+Druid Test of The Bee
+|
+bee
+|
+Wind Rune Dena
+|
+Divine Honeycomb (6-BZ)
+|
+Spiroc Banisher FocusSpiroc Banisher Focus
+MAGIC ITEM LORE ITEM NO DROP
+Slot: PRIMARY SECONDARY
+STR: -2 DEX: -2 WIS: +20 AGI: -2 MANA: +10
+WT: 1.0 Size: SMALL
 Class: DRU
 Race: ALL
 |
@@ -952,11 +960,14 @@ Wind Rune Ena
 Ethereal Ruby (7-SotS)
 Spiroc Elder's Totem (5-SL)
 |
-Spiroc Banisher FocusSpiroc Banisher Focus
+EspriEspri
 MAGIC ITEM LORE ITEM NO DROP
-Slot: PRIMARY SECONDARY
-STR: -2 DEX: -2 WIS: +20 AGI: -2 MANA: +10
-WT: 1.0 Size: SMALL
+Slot: PRIMARY
+Skill: 1H Slashing Atk Delay: 23
+DMG: 10
+DEX: +9 WIS: +9 MANA: +50
+Effect: Combust (Combat, Casting Time: Instant) at Level 45
+WT: 2.0 Size: MEDIUM
 Class: DRU
 Race: ALL
 |
@@ -969,32 +980,13 @@ Wind Rune Izah
 Storm Sky Opal (8-EoV)
 Efreeti Scimitar
 |
-EspriEspri
-MAGIC ITEM LORE ITEM NO DROP
-Slot: PRIMARY
-Skill: 1H Slashing Atk Delay: 23
-DMG: 10
-DEX: +9 WIS: +9 MANA: +50
-Effect: Combust (Combat, Casting Time: Instant) at Level 45
-WT: 2.0 Size: MEDIUM
-Class: DRU
-Race: ALL
-|
 Enchanter Tests
 Quest Giver: Enchanter Jolas
+Reward |
 Quest |
 Trigger Phrases |
 Rune |
-Quest Items |
-Reward
-|
-Enchanter Test of Illusion
-|
-illusion
-|
-Wind Rune Meda
-|
-Finely Woven Cloth Cord (3-Gorga)
+Quest Items
 |
 Sphinx Hair CordSphinx Hair Cord
 MAGIC ITEM LORE ITEM NO DROP
@@ -1006,6 +998,23 @@ WT: 0.2 Size: SMALL
 Class: ENC
 Race: ALL
 |
+Enchanter Test of Illusion
+|
+illusion
+|
+Wind Rune Meda
+|
+Finely Woven Cloth Cord (3-Gorga)
+|
+Wind Walker's MantleWind Walker's Mantle
+MAGIC ITEM LORE ITEM NO DROP
+Slot: SHOULDERS
+AC: 6
+STR: +5 DEX: +5 CHA: +10 AGI: +2 HP: +50
+WT: 0.3 Size: SMALL
+Class: ENC
+Race: ALL
+|
 Enchanter Test of Metamorphism
 |
 metamorphism
@@ -1014,12 +1023,12 @@ Wind Rune Ozah
 |
 Light Cloth Mantle (4-KoS)
 |
-Wind Walker's MantleWind Walker's Mantle
+Ivory MaskIvory Mask
 MAGIC ITEM LORE ITEM NO DROP
-Slot: SHOULDERS
+Slot: FACE
 AC: 6
-STR: +5 DEX: +5 CHA: +10 AGI: +2 HP: +50
-WT: 0.3 Size: SMALL
+CHA: +6 INT: +6 MANA: +30
+WT: 0.5 Size: MEDIUM
 Class: ENC
 Race: ALL
 |
@@ -1031,23 +1040,6 @@ Wind Rune Beza
 |
 Silken Mask (5-SL)
 |
-Ivory MaskIvory Mask
-MAGIC ITEM LORE ITEM NO DROP
-Slot: FACE
-AC: 6
-CHA: +6 INT: +6 MANA: +30
-WT: 0.5 Size: MEDIUM
-Class: ENC
-Race: ALL
-|
-Enchanter Test of Dislocation
-|
-dislocation
-|
-Wind Rune Caza
-|
-Adamantium Earring (6-BZ)
-|
 Earring of DisplacementEarring of Displacement
 MAGIC ITEM LORE ITEM NO DROP
 Slot: EAR
@@ -1058,13 +1050,13 @@ WT: 0.1 Size: TINY
 Class: ENC
 Race: ALL
 |
-Enchanter Test of Memorization
+Enchanter Test of Dislocation
 |
-memorization
+dislocation
 |
-Wind Rune Fana
+Wind Rune Caza
 |
-Glowing Necklace (7-SotS)
+Adamantium Earring (6-BZ)
 |
 Necklace of Whispering WindsNecklace of Whispering Winds
 MAGIC ITEM LORE ITEM NO DROP
@@ -1077,14 +1069,13 @@ WT: 0.1 Size: TINY
 Class: ENC
 Race: ALL
 |
-Enchanter Test of Incapacitation
+Enchanter Test of Memorization
 |
-incapacitation
+memorization
 |
-Wind Rune Izah
+Wind Rune Fana
 |
-Large Sky Sapphire (8-EoV)
-Efreeti Wind Staff
+Glowing Necklace (7-SotS)
 |
 Rod of the Protecting WindsRod of the Protecting Winds
 MAGIC ITEM LORE ITEM NO DROP
@@ -1099,21 +1090,22 @@ WT: 5.0 Size: LARGE
 Class: ENC
 Race: ALL
 |
+Enchanter Test of Incapacitation
+|
+incapacitation
+|
+Wind Rune Izah
+|
+Large Sky Sapphire (8-EoV)
+Efreeti Wind Staff
+|
 Magician Tests
 Quest Giver: Magus Frinon
+Reward |
 Quest |
 Trigger Phrases |
 Rune |
-Quest Items |
-Reward
-|
-Magician Test of Clarification
-|
-clarification
-|
-Wind Rune Lena
-|
-Feathered Cape (3-Gorga)
+Quest Items
 |
 Bracelet of ClarificationBracelet of Clarification
 LORE ITEM NO DROP
@@ -1124,13 +1116,13 @@ WT: 0.5 Size: MEDIUM
 Class: MAG
 Race: ALL
 |
-Magician Test of Empowerment
+Magician Test of Clarification
 |
-empowerment
+clarification
 |
-Wind Rune Neza
+Wind Rune Lena
 |
-Ceramic Mask (4-KoS)
+Feathered Cape (3-Gorga)
 |
 Mask of EmpowermentMask of Empowerment
 MAGIC ITEM LORE ITEM NO DROP
@@ -1143,13 +1135,13 @@ WT: 0.4 Size: SMALL
 Class: MAG
 Race: ALL
 |
-Magician Test of Shielding
+Magician Test of Empowerment
 |
-shielding
+empowerment
 |
-Wind Rune Azia
+Wind Rune Neza
 |
-Golden Coffer (5-SL)
+Ceramic Mask (4-KoS)
 |
 Gold White PendantGold White Pendant
 MAGIC ITEM LORE ITEM NO DROP
@@ -1160,13 +1152,13 @@ WT: 0.1 Size: TINY
 Class: MAG
 Race: ALL
 |
-Magician Test of Summoning
+Magician Test of Shielding
 |
-summoning
+shielding
 |
-Wind Rune Dena
+Wind Rune Azia
 |
-Large Diamond (6-BZ)
+Golden Coffer (5-SL)
 |
 Drake-Hide AmiceDrake-Hide Amice
 MAGIC ITEM LORE ITEM NO DROP
@@ -1179,13 +1171,13 @@ WT: 2.5 Size: SMALL
 Class: MAG
 Race: ALL
 |
-Magician Test of Interpretation
+Magician Test of Summoning
 |
-interpretation
+summoning
 |
-Wind Rune Ena
+Wind Rune Dena
 |
-Golden Efreeti Ring (7-SotS)
+Large Diamond (6-BZ)
 |
 Duennan Shielding RingDuennan Shielding Ring
 MAGIC ITEM LORE ITEM NO DROP
@@ -1198,14 +1190,13 @@ WT: 0.1 Size: TINY
 Class: MAG
 Race: ALL
 |
-Magician Test of Gesticulation
+Magician Test of Interpretation
 |
-gesticulation
+interpretation
 |
-Wind Rune Jaka
+Wind Rune Ena
 |
-Hazy Opal (8-EoV)
-Efreeti Magi Staff
+Golden Efreeti Ring (7-SotS)
 |
 Staff of The MagisterStaff of The Magister
 MAGIC ITEM LORE ITEM NO DROP
@@ -1215,6 +1206,26 @@ DMG: 16
 INT: +15 MANA: +75
 SV FIRE: +10 SV COLD: +20 SV POISON: +10
 WT: 4.0 Size: LARGE
+Class: MAG
+Race: ALL
+|
+Magician Test of Gesticulation
+|
+gesticulation
+|
+Wind Rune Jaka
+|
+Hazy Opal (8-EoV)
+Efreeti Magi Staff
+|
+Staff of Elemental Mastery: AirStaff of Elemental Mastery: Air
+Lore Equipped, No Trade, Placeable, Quest
+Slot: PRIMARY
+Skill: 2H Blunt Atk Delay: 30
+DMG: 15
+Effect: Reclaim Energy (Any Slot/Can Equip, Casting Time: Instant) at Level 40
+Focus Effect: Servant of Air
+WT: 5.0 Size: LARGE
 Class: MAG
 Race: ALL
 |
@@ -1228,32 +1239,13 @@ Crown of Elemental Mastery (7-Trash)
 Large Opal (8-EoV)
 Djinni Stave (7-SotS)
 |
-Staff of Elemental Mastery: AirStaff of Elemental Mastery: Air
-Lore Equipped, No Trade, Placeable, Quest
-Slot: PRIMARY
-Skill: 2H Blunt Atk Delay: 30
-DMG: 15
-Effect: Reclaim Energy (Any Slot/Can Equip, Casting Time: Instant) at Level 40
-Focus Effect: Servant of Air
-WT: 5.0 Size: LARGE
-Class: MAG
-Race: ALL
-|
 Monk Tests
 Quest Giver: Holwin
+Reward |
 Quest |
 Trigger Phrases |
 Rune |
-Quest Items |
-Reward
-|
-Monk Test of Strength
-|
-strength
-|
-Wind Rune Caza
-|
-Silken Strands (3-Gorga)
+Quest Items
 |
 Back Straps of MasteryBack Straps of Mastery
 MAGIC ITEM LORE ITEM NO DROP
@@ -1264,13 +1256,13 @@ WT: 0.3 Size: SMALL
 Class: MNK
 Race: ALL
 |
-Monk Test of Sight
+Monk Test of Strength
 |
-sight
+strength
 |
-Wind Rune Geza
+Wind Rune Caza
 |
-Cracked Leather Eyepatch (4-KoS)
+Silken Strands (3-Gorga)
 |
 Ton Po's Eye PatchTon Po's Eye Patch
 MAGIC ITEM LORE ITEM NO DROP
@@ -1282,13 +1274,13 @@ WT: 0.1 Size: TINY
 Class: MNK
 Race: ALL
 |
-Monk Test of Speed
+Monk Test of Sight
 |
-speed
+sight
 |
-Wind Rune Jaka
+Wind Rune Geza
 |
-Dove Slippers (5-SL)
+Cracked Leather Eyepatch (4-KoS)
 |
 Sandals of AlacritySandals of Alacrity
 MAGIC ITEM LORE ITEM NO DROP
@@ -1301,13 +1293,13 @@ WT: 0.5 Size: SMALL
 Class: MNK
 Race: ALL
 |
-Monk Test of Tears
+Monk Test of Speed
 |
-tears
+speed
 |
-Wind Rune Beza
+Wind Rune Jaka
 |
-Silken Wrap (6-BZ)
+Dove Slippers (5-SL)
 |
 Ton Po's Shoulder WrapsTon Po's Shoulder Wraps
 MAGIC ITEM LORE ITEM NO DROP
@@ -1316,6 +1308,23 @@ AC: 8
 STR: +4 DEX: +4 AGI: +4
 SV FIRE: +10 SV DISEASE: +10 SV COLD: +10 SV MAGIC: +10 SV POISON: +10
 WT: 0.3 Size: SMALL
+Class: MNK
+Race: ALL
+|
+Monk Test of Tears
+|
+tears
+|
+Wind Rune Beza
+|
+Silken Wrap (6-BZ)
+|
+Wu's Fist of MasteryWu's Fist of Mastery
+MAGIC ITEM NO DROP
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt Atk Delay: 22
+DMG: 16
+WT: 0.5 Size: TINY
 Class: MNK
 Race: ALL
 |
@@ -1328,12 +1337,13 @@ Wind Rune Neza
 Nebulous Sapphire (7-SotS)
 Brass Knuckles
 |
-Wu's Fist of MasteryWu's Fist of Mastery
-MAGIC ITEM NO DROP
-Slot: PRIMARY SECONDARY
-Skill: 1H Blunt Atk Delay: 22
-DMG: 16
-WT: 0.5 Size: TINY
+Golden Sash of TranquilityGolden Sash of Tranquility
+MAGIC ITEM LORE ITEM NO DROP
+Slot: WAIST
+AC: 5
+Haste: +41%
+STR: +15 DEX: +15 AGI: +15
+WT: 0.1 Size: SMALL
 Class: MNK
 Race: ALL
 |
@@ -1345,31 +1355,13 @@ Wind Rune Lena
 |
 Tear of Quellious (8-EoV)
 |
-Golden Sash of TranquilityGolden Sash of Tranquility
-MAGIC ITEM LORE ITEM NO DROP
-Slot: WAIST
-AC: 5
-Haste: +41%
-STR: +15 DEX: +15 AGI: +15
-WT: 0.1 Size: SMALL
-Class: MNK
-Race: ALL
-|
 Necromancer Tests
 Quest Giver: Drakis Bloodcaster
+Reward |
 Quest |
 Trigger Phrases |
 Rune |
-Quest Items |
-Reward
-|
-Necromancer Test of Flight
-|
-flight
-|
-Wind Rune Lena
-|
-Griffon's Beak (3-Gorga)
+Quest Items
 |
 Bloody Griffon-Hide Wrist GuardBloody Griffon-Hide Wrist Guard
 MAGIC ITEM LORE ITEM
@@ -1382,13 +1374,13 @@ WT: 1.0 Size: SMALL
 Class: NEC
 Race: ALL
 |
-Necromancer Test of Power
+Necromancer Test of Flight
 |
-power
+flight
 |
-Wind Rune Neza
+Wind Rune Lena
 |
-Black Silk Cape (4-KoS)
+Griffon's Beak (3-Gorga)
 |
 Cloak of Spiroc FeathersCloak of Spiroc Feathers
 LORE ITEM NO DROP
@@ -1399,13 +1391,13 @@ WT: 0.5 Size: MEDIUM
 Class: NEC
 Race: ALL
 |
-Necromancer Test of Mind
+Necromancer Test of Power
 |
-mind
+power
 |
-Wind Rune Ozah
+Wind Rune Neza
 |
-Fine Cloth Raiment (5-SL)
+Black Silk Cape (4-KoS)
 |
 Bloodsoaked RaimentBloodsoaked Raiment
 MAGIC ITEM LORE ITEM NO DROP
@@ -1416,13 +1408,13 @@ WT: 0.3 Size: SMALL
 Class: NEC
 Race: ALL
 |
-Necromancer Test of Heart
+Necromancer Test of Mind
 |
-heart
+mind
 |
-Wind Rune Azia
+Wind Rune Ozah
 |
-Pulsating Ruby (6-BZ)
+Fine Cloth Raiment (5-SL)
 |
 Sphinx Heart AmuletSphinx Heart Amulet
 MAGIC ITEM LORE ITEM
@@ -1435,13 +1427,13 @@ WT: 0.1 Size: TINY
 Class: NEC
 Race: ALL
 |
-Necromancer Test of Finger
+Necromancer Test of Heart
 |
-finger
+heart
 |
-Wind Rune Caza
+Wind Rune Azia
 |
-Ring of Veeshan (7-SotS)
+Pulsating Ruby (6-BZ)
 |
 Band of Wailing WindsBand of Wailing Winds
 MAGIC ITEM LORE ITEM NO DROP
@@ -1454,14 +1446,13 @@ WT: 0.1 Size: TINY
 Class: NEC
 Race: ALL
 |
-Necromancer Test of Hands
+Necromancer Test of Finger
 |
-hands
+finger
 |
-Wind Rune Fana
+Wind Rune Caza
 |
-Gorgon Head (3-Gorga)
-Efreeti Great Staff (8-EoV)
+Ring of Veeshan (7-SotS)
 |
 Gorgon Head StaffGorgon Head Staff
 MAGIC ITEM LORE ITEM NO DROP
@@ -1475,21 +1466,22 @@ WT: 5.0 Size: LARGE
 Class: NEC
 Race: ALL
 |
+Necromancer Test of Hands
+|
+hands
+|
+Wind Rune Fana
+|
+Gorgon Head (3-Gorga)
+Efreeti Great Staff (8-EoV)
+|
 Paladin Tests
 Quest Giver: Dason Goldblade
+Reward |
 Quest |
 Trigger Phrases |
 Rune |
-Quest Items |
-Reward
-|
-Paladin Test of Spirit
-|
-spirit
-|
-Wind Rune Lena
-|
-Ivory Sky Diamond (5-SL)
+Quest Items
 |
 Girdle of FaithGirdle of Faith
 MAGIC ITEM LORE ITEM NO DROP
@@ -1501,13 +1493,13 @@ WT: 1.0 Size: SMALL
 Class: PAL
 Race: ALL
 |
-Paladin Test of Sacrifice
+Paladin Test of Spirit
 |
-sacrifice
+spirit
 |
-Wind Rune Ozah
+Wind Rune Lena
 |
-Bixie Sword Blade (6-BZ)
+Ivory Sky Diamond (5-SL)
 |
 Aldryn, Blade of the OceanAldryn, Blade of the Ocean
 MAGIC ITEM LORE ITEM NO DROP
@@ -1519,14 +1511,13 @@ WT: 2.0 Size: MEDIUM
 Class: PAL
 Race: ALL
 |
-Paladin Test of Love
+Paladin Test of Sacrifice
 |
-love
+sacrifice
 |
-Wind Rune Geza
+Wind Rune Ozah
 |
-Golden Hilt (7-Trash)
-Sphinx Claw (7-SotS)
+Bixie Sword Blade (6-BZ)
 |
 Thelvorn, Blade of LightThelvorn, Blade of Light
 MAGIC ITEM LORE ITEM NO DROP
@@ -1539,14 +1530,14 @@ WT: 3.0 Size: MEDIUM
 Class: PAL
 Race: ALL
 |
-Paladin Test of Compassion
+Paladin Test of Love
 |
-compassion
+love
 |
-Wind Rune Izah
+Wind Rune Geza
 |
-Large Sky Diamond (8-EoV)
-Efreeti Zweihander
+Golden Hilt (7-Trash)
+Sphinx Claw (7-SotS)
 |
 TruvinanTruvinan
 MAGIC ITEM LORE ITEM NO DROP
@@ -1558,21 +1549,22 @@ WT: 8.0 Size: LARGE
 Class: PAL
 Race: ALL
 |
+Paladin Test of Compassion
+|
+compassion
+|
+Wind Rune Izah
+|
+Large Sky Diamond (8-EoV)
+Efreeti Zweihander
+|
 Ranger Tests
 Quest Giver: Ranger Spirit
+Reward |
 Quest |
 Trigger Phrases |
 Rune |
-Quest Items |
-Reward
-|
-Ranger Test of Body
-|
-body
-|
-Wind Rune Meda
-|
-Griffon Talon (3-Gorga)
+Quest Items
 |
 Griffon Talon NecklaceGriffon Talon Necklace
 Lore Equipped, No Trade
@@ -1584,13 +1576,13 @@ WT: 0.1 Size: TINY
 Class: RNG
 Race: ALL
 |
-Ranger Test of Defense
+Ranger Test of Body
 |
-defense
+body
 |
-Wind Rune Neza
+Wind Rune Meda
 |
-Fine Velvet Cloak (4-KoS)
+Griffon Talon (3-Gorga)
 |
 Dark Cloak of the SkyDark Cloak of the Sky
 MAGIC ITEM LORE ITEM NO DROP
@@ -1602,13 +1594,13 @@ WT: 5.0 Size: MEDIUM
 Class: RNG
 Race: ALL
 |
-Ranger Test of The Earth
+Ranger Test of Defense
 |
-elemental earth
+defense
 |
-Wind Rune Kala
+Wind Rune Neza
 |
-Spiroc Earth Totem (5-SL)
+Fine Velvet Cloak (4-KoS)
 |
 Earthshaker's MantleEarthshaker's Mantle
 MAGIC ITEM LORE ITEM NO DROP
@@ -1622,13 +1614,13 @@ WT: 2.5 Size: SMALL
 Class: RNG
 Race: ALL
 |
-Ranger Test of Thunder
+Ranger Test of The Earth
 |
-elemental thunder
+elemental earth
 |
-Wind Rune Azia
+Wind Rune Kala
 |
-White Gold Earring (6-BZ)
+Spiroc Earth Totem (5-SL)
 |
 Thunderforged EarringThunderforged Earring
 MAGIC ITEM LORE ITEM NO DROP
@@ -1640,14 +1632,13 @@ WT: 0.1 Size: TINY
 Class: RNG
 Race: ALL
 |
-Ranger Test of Blade
+Ranger Test of Thunder
 |
-blade
+elemental thunder
 |
-Wind Rune Ena
+Wind Rune Azia
 |
-Circlet of Brambles (7-SotS)
-Efreeti Long Sword
+White Gold Earring (6-BZ)
 |
 ArydryidriyornArydryidriyorn
 MAGIC ITEM LORE ITEM NO DROP
@@ -1660,14 +1651,14 @@ WT: 1.0 Size: MEDIUM
 Class: RNG
 Race: ALL
 |
-Ranger Test of Ranged Attack
+Ranger Test of Blade
 |
-ranged attack
+blade
 |
-Wind Rune Heda
+Wind Rune Ena
 |
-Shimmering Pearl (8-EoV)
-Efreeti War Bow
+Circlet of Brambles (7-SotS)
+Efreeti Long Sword
 |
 WindstrikerWindstriker
 MAGIC ITEM LORE ITEM NO DROP
@@ -1680,21 +1671,22 @@ WT: 4.0 Range: 200 Size: MEDIUM
 Class: RNG
 Race: ALL
 |
+Ranger Test of Ranged Attack
+|
+ranged attack
+|
+Wind Rune Heda
+|
+Shimmering Pearl (8-EoV)
+Efreeti War Bow
+|
 Rogue Tests
 Quest Giver: Thalik Silenthand
+Reward |
 Quest |
 Trigger Phrases |
 Rune |
-Quest Items |
-Reward
-|
-Rogue Test of Thievery
-|
-thievery
-|
-Wind Rune Ozah
-|
-Inlaid Choker (3-Gorga)
+Quest Items
 |
 Wispy Choker of VigorWispy Choker of Vigor
 Lore Equipped, No Trade
@@ -1705,13 +1697,13 @@ WT: 0.1 Size: TINY
 Class: ROG
 Race: ALL
 |
-Rogue Test of Trickery
+Rogue Test of Thievery
 |
-trickery
+thievery
 |
-Wind Rune Izah
+Wind Rune Ozah
 |
-Sphinxian Circlet (7-SotS)
+Inlaid Choker (3-Gorga)
 |
 Renard's Belt of QuicknessRenard's Belt of Quickness
 MAGIC ITEM LORE ITEM NO DROP
@@ -1723,13 +1715,13 @@ WT: 1.0 Size: MEDIUM
 Class: ROG
 Race: ALL
 |
-Rogue Test of Silence
+Rogue Test of Trickery
 |
-silence
+trickery
 |
-Wind Rune Ena
+Wind Rune Izah
 |
-Spiroc Sky Totem (5-SL)
+Sphinxian Circlet (7-SotS)
 |
 Griffon Wing SpauldersGriffon Wing Spaulders
 Lore Equipped, No Trade
@@ -1741,13 +1733,13 @@ WT: 2.5 Size: SMALL
 Class: ROG
 Race: ALL
 |
-Rogue Test of Cunning
+Rogue Test of Silence
 |
-cunning
+silence
 |
-Wind Rune Dena
+Wind Rune Ena
 |
-Jester's Mask (4-KoS)
+Spiroc Sky Totem (5-SL)
 |
 Crystal MaskCrystal Mask
 MAGIC ITEM LORE ITEM NO DROP
@@ -1760,13 +1752,13 @@ WT: 0.4 Size: SMALL
 Class: ROG
 Race: ALL
 |
-Rogue Test of Stealth
+Rogue Test of Cunning
 |
-stealth
+cunning
 |
-Wind Rune Geza
+Wind Rune Dena
 |
-Fine Wool Cloak (6-BZ)
+Jester's Mask (4-KoS)
 |
 Shimmering Bracer of ProtectionShimmering Bracer of Protection
 MAGIC ITEM LORE ITEM NO DROP
@@ -1778,14 +1770,13 @@ WT: 2.5 Size: MEDIUM
 Class: ROG
 Race: ALL
 |
-Rogue Test of Deception
+Rogue Test of Stealth
 |
-deception
+stealth
 |
-Wind Rune Jaka
+Wind Rune Geza
 |
-Bixie Stinger (6-BZ)
-Bloodsky Sapphire (8-EoV)
+Fine Wool Cloak (6-BZ)
 |
 ThornstingerThornstinger
 MAGIC ITEM LORE ITEM NO DROP
@@ -1798,13 +1789,32 @@ WT: 2.0 Size: SMALL
 Class: ROG
 Race: ALL
 |
+Rogue Test of Deception
+|
+deception
+|
+Wind Rune Jaka
+|
+Bixie Stinger (6-BZ)
+Bloodsky Sapphire (8-EoV)
+|
 Shadow Knight Tests
 Quest Giver: Sarkis Ebonblade
+Reward |
 Quest |
 Trigger Phrases |
 Rune |
-Quest Items |
-Reward
+Quest Items
+|
+Amulet of the Sphinx EyeAmulet of the Sphinx Eye
+MAGIC ITEM LORE ITEM NO DROP
+Slot: NECK
+AC: 15
+STR: +7 CHA: +3 WIS: +3 INT: +14 MANA: +25
+Effect: Ultravision (Worn)
+WT: 0.1 Size: TINY
+Class: SHD
+Race: ALL
 |
 Shadow Knight Test of Bash
 |
@@ -1814,12 +1824,12 @@ Wind Rune Ozah
 |
 Finely Crafted Amulet (3-Gorga)
 |
-Amulet of the Sphinx EyeAmulet of the Sphinx Eye
+Crimson Ring of the DjinniCrimson Ring of the Djinni
 MAGIC ITEM LORE ITEM NO DROP
-Slot: NECK
-AC: 15
-STR: +7 CHA: +3 WIS: +3 INT: +14 MANA: +25
-Effect: Ultravision (Worn)
+Slot: FINGER
+AC: 8
+STR: +7 DEX: +7 INT: +5
+SV MAGIC: +5
 WT: 0.1 Size: TINY
 Class: SHD
 Race: ALL
@@ -1832,13 +1842,13 @@ Wind Rune Beza
 |
 Silvery Ring (4-KoS)
 |
-Crimson Ring of the DjinniCrimson Ring of the Djinni
+Pegasus-Hide BeltPegasus-Hide Belt
 MAGIC ITEM LORE ITEM NO DROP
-Slot: FINGER
+Slot: WAIST
 AC: 8
-STR: +7 DEX: +7 INT: +5
-SV MAGIC: +5
-WT: 0.1 Size: TINY
+STR: +6 INT: +6 AGI: +6
+Haste: +41%
+WT: 1.0 Size: SMALL
 Class: SHD
 Race: ALL
 |
@@ -1850,13 +1860,13 @@ Wind Rune Dena
 |
 Finely Woven Cloth Belt (5-SL)
 |
-Pegasus-Hide BeltPegasus-Hide Belt
+Blood Sky Face PlateBlood Sky Face Plate
 MAGIC ITEM LORE ITEM NO DROP
-Slot: WAIST
-AC: 8
-STR: +6 INT: +6 AGI: +6
-Haste: +41%
-WT: 1.0 Size: SMALL
+Slot: FACE
+AC: 9
+STR: +10 DEX: +12 MANA: +60
+SV DISEASE: +10
+WT: 4.5 Size: SMALL
 Class: SHD
 Race: ALL
 |
@@ -1868,13 +1878,13 @@ Wind Rune Fana
 |
 Rusted Pauldrons (6-BZ)
 |
-Blood Sky Face PlateBlood Sky Face Plate
+Obtenebrate Mithril GuardObtenebrate Mithril Guard
 MAGIC ITEM LORE ITEM NO DROP
-Slot: FACE
-AC: 9
-STR: +10 DEX: +12 MANA: +60
-SV DISEASE: +10
-WT: 4.5 Size: SMALL
+Slot: SECONDARY
+AC: 35
+STR: +15
+SV FIRE: +15
+WT: 6.0 Size: MEDIUM
 Class: SHD
 Race: ALL
 |
@@ -1886,13 +1896,12 @@ Wind Rune Heda
 |
 Efreeti War Shield
 |
-Obtenebrate Mithril GuardObtenebrate Mithril Guard
+Pearlescent PauldronsPearlescent Pauldrons
 MAGIC ITEM LORE ITEM NO DROP
-Slot: SECONDARY
-AC: 35
-STR: +15
-SV FIRE: +15
-WT: 6.0 Size: MEDIUM
+Slot: SHOULDERS
+AC: 10
+STR: +10 DEX: +15 INT: +15 MANA: +50
+WT: 4.5 Size: MEDIUM
 Class: SHD
 Race: ALL
 |
@@ -1905,12 +1914,14 @@ Wind Rune Izah
 Sphinxian Ring (7-SotS)
 Fae Pauldrons (8-EoV)
 |
-Pearlescent PauldronsPearlescent Pauldrons
-MAGIC ITEM LORE ITEM NO DROP
-Slot: SHOULDERS
-AC: 10
-STR: +10 DEX: +15 INT: +15 MANA: +50
-WT: 4.5 Size: MEDIUM
+Khyldorn the Blood DrinkerKhyldorn the Blood Drinker
+Lore Equipped, No Trade, Placeable
+Slot: PRIMARY
+Skill: 2H Slashing Atk Delay: 43
+DMG: 36
+STR: +10 INT: +7
+Effect: Siphon (Combat, Casting Time: Instant) at Level 50
+Size: GIANT WT: 8.0
 Class: SHD
 Race: ALL
 |
@@ -1923,32 +1934,13 @@ Wind Rune Kala
 Blood Sky Ruby (8-EoV)
 Efreeti War Axe
 |
-Khyldorn the Blood DrinkerKhyldorn the Blood Drinker
-MAGIC ITEM LORE ITEM NO DROP
-Slot: PRIMARY
-Skill: 2H Slashing Atk Delay: 43
-DMG: 36
-STR: +10 INT: +7
-Effect: Siphon (Combat, Casting Time: Instant) at Level 50
-WT: 8.0 Size: GIANT
-Class: SHD
-Race: ALL
-|
 Shaman Tests
 Quest Giver: Medicine Man Veetra
+Reward |
 Quest |
 Trigger Phrases |
 Rune |
-Quest Items |
-Reward
-|
-Shaman Test of Might
-|
-might
-|
-Wind Rune Meda
-|
-Leather Cord (3-Gorga)
+Quest Items
 |
 Amulet of the FangAmulet of the Fang
 MAGIC ITEM LORE ITEM NO DROP
@@ -1960,13 +1952,13 @@ WT: 0.1 Size: TINY
 Class: SHM
 Race: ALL
 |
-Shaman Test of Health
+Shaman Test of Might
 |
-health
+might
 |
-Wind Rune Kala
+Wind Rune Meda
 |
-Ceremonial Belt (5-SL)
+Leather Cord (3-Gorga)
 |
 Bracelet of the SpiritsBracelet of the Spirits
 MAGIC ITEM LORE ITEM NO DROP
@@ -1979,13 +1971,13 @@ WT: 1.0 Size: SMALL
 Class: SHM
 Race: ALL
 |
-Shaman Test of Sight
+Shaman Test of Health
 |
-sight
+health
 |
-Wind Rune Beza
+Wind Rune Kala
 |
-Light Damask Mantle (5-SL)
+Ceremonial Belt (5-SL)
 |
 Fairy-Hide MantleFairy-Hide Mantle
 Lore Equipped, No Trade
@@ -1998,14 +1990,13 @@ WT: 2.5 Size: SMALL
 Class: SHM
 Race: ALL
 |
-Shaman Test of Shrink
+Shaman Test of Sight
 |
-shrink
+sight
 |
-Wind Rune Ena
+Wind Rune Beza
 |
-Corrosive Venom (6-BZ)
-Efreeti War Club
+Light Damask Mantle (5-SL)
 |
 Warhammer of the WindWarhammer of the Wind
 MAGIC ITEM LORE ITEM NO DROP
@@ -2017,14 +2008,14 @@ WT: 3.5 Size: LARGE
 Class: SHM
 Race: ALL
 |
-Shaman Test of Snake
+Shaman Test of Shrink
 |
-snake
+shrink
 |
-Wind Rune Heda
+Wind Rune Ena
 |
-Bixie Essence (6)
-Spiritualist`s Ring (7-SotS)
+Corrosive Venom (6-BZ)
+Efreeti War Club
 |
 Vermilion Sky RingVermilion Sky Ring
 Lore Equipped, No Trade
@@ -2037,14 +2028,14 @@ WT: 2.0 Size: MEDIUM
 Class: SHM
 Race: ALL
 |
-Shaman Test of The Witch Doctor
+Shaman Test of Snake
 |
-witch doctor
+snake
 |
-Wind Rune Geza
+Wind Rune Heda
 |
-Symbol of Veeshan (8-EoV)
-Efreeti War Maul
+Bixie Essence (6)
+Spiritualist`s Ring (7-SotS)
 |
 GardukGarduk
 MAGIC ITEM LORE ITEM NO DROP
@@ -2057,13 +2048,31 @@ WT: 6.0 Size: LARGE
 Class: SHM
 Race: ALL
 |
+Shaman Test of The Witch Doctor
+|
+witch doctor
+|
+Wind Rune Geza
+|
+Symbol of Veeshan (8-EoV)
+Efreeti War Maul
+|
 Warrior Tests
 Quest Giver: Torgon Blademaster
+Reward |
 Quest |
 Trigger Phrases |
 Rune |
-Quest Items |
-Reward
+Quest Items
+|
+Azure Ruby RingAzure Ruby Ring
+Lore Equipped, No Trade
+Slot: Fingers
+AC: 5
+STR: 6 DEX: 9 STA: 6 End: 25
+WT: 0.1 Size: TINY
+Class: WAR
+Race: ALL
 |
 Warrior Test of Skill
 |
@@ -2073,11 +2082,11 @@ Wind Rune Neza
 |
 Azure Ring (3-Gorga)
 |
-Azure Ruby RingAzure Ruby Ring
-Lore Equipped, No Trade
-Slot: Fingers
-AC: 5
-STR: 6 DEX: 9 STA: 6 End: 25
+Runed Wind AmuletRuned Wind Amulet
+MAGIC ITEM LORE ITEM NO DROP
+Slot: NECK
+AC: 6
+STR: +7 AGI: +7 HP: +40
 WT: 0.1 Size: TINY
 Class: WAR
 Race: ALL
@@ -2090,23 +2099,6 @@ Wind Rune Azia
 |
 Stone Amulet (4-KoS)
 |
-Runed Wind AmuletRuned Wind Amulet
-MAGIC ITEM LORE ITEM NO DROP
-Slot: NECK
-AC: 6
-STR: +7 AGI: +7 HP: +40
-WT: 0.1 Size: TINY
-Class: WAR
-Race: ALL
-|
-Warrior Test of Force
-|
-force
-|
-Wind Rune Beza
-|
-Spiroc Air Totem (5-SL)
-|
 Pauldrons of the Blue SkyPauldrons of the Blue Sky
 MAGIC ITEM LORE ITEM NO DROP
 Slot: SHOULDERS
@@ -2118,14 +2110,13 @@ WT: 4.5 Size: MEDIUM
 Class: WAR
 Race: ALL
 |
-Warrior Test of Think
+Warrior Test of Force
 |
-think
+force
 |
-Wind Rune Fana
+Wind Rune Beza
 |
-Wind Tablet (6-BZ)
-Efreeti Belt
+Spiroc Air Totem (5-SL)
 |
 Belt of the Four WindsBelt of the Four Winds
 MAGIC ITEM LORE ITEM NO DROP
@@ -2138,14 +2129,14 @@ WT: 2.0 Size: MEDIUM
 Class: WAR
 Race: ALL
 |
-Warrior Test of Smash
+Warrior Test of Think
 |
-smash
+think
 |
-Wind Rune Jaka
+Wind Rune Fana
 |
-Djinni War Blade (7-SotS)
-Gem of Invigoration (7-Trash)
+Wind Tablet (6-BZ)
+Efreeti Belt
 |
 DagasDagas
 MAGIC ITEM LORE EQUIPPED NO DROP
@@ -2157,14 +2148,14 @@ WT: 2.5 Size: MEDIUM
 Class: WAR
 Race: ALL
 |
-Warrior Test of Bash
+Warrior Test of Smash
 |
-bash
+smash
 |
-Wind Rune Dena
+Wind Rune Jaka
 |
-Ethereal Emerald (8-EoV)
-Efreeti Battle Axe
+Djinni War Blade (7-SotS)
+Gem of Invigoration (7-Trash)
 |
 FangolFangol
 MAGIC ITEM LORE ITEM NO DROP
@@ -2178,21 +2169,22 @@ WT: 8.0 Size: GIANT
 Class: WAR
 Race: ALL
 |
-Wizard Tests
-Quest Giver: Wizard Schrock
-Quest |
-Trigger Phrases |
-Rune |
-Quest Items |
-Reward
+Warrior Test of Bash
 |
-Wizard Test of Concentration
-|
-concentration
+bash
 |
 Wind Rune Dena
 |
-Grey Damask Cloak (3-Gorga)
+Ethereal Emerald (8-EoV)
+Efreeti Battle Axe
+|
+Wizard Tests
+Quest Giver: Wizard Schrock
+Reward |
+Quest |
+Trigger Phrases |
+Rune |
+Quest Items
 |
 Augmentor's MaskAugmentor's Mask
 MAGIC ITEM LORE ITEM NO DROP
@@ -2203,13 +2195,13 @@ WT: 0.5 Size: MEDIUM
 Class: WIZ
 Race: ALL
 |
-Wizard Test of Focus
+Wizard Test of Concentration
 |
-focus
+concentration
 |
-Wind Rune Fana
+Wind Rune Dena
 |
-Woven Skull Cap (4-KoS)
+Grey Damask Cloak (3-Gorga)
 |
 Al`Kabor's Cap of BindingAl`Kabor's Cap of Binding
 MAGIC ITEM LORE ITEM NO DROP
@@ -2222,13 +2214,13 @@ WT: 0.2 Size: SMALL
 Class: WIZ
 Race: ALL
 |
-Wizard Test of Meditation
+Wizard Test of Focus
 |
-meditation
+focus
 |
-Wind Rune Geza
+Wind Rune Fana
 |
-High Quality Raiment (5-SL)
+Woven Skull Cap (4-KoS)
 |
 Raiment of ThunderRaiment of Thunder
 MAGIC ITEM LORE ITEM NO DROP
@@ -2242,6 +2234,24 @@ WT: 0.3 Size: SMALL
 Class: WIZ
 Race: ALL
 |
+Wizard Test of Meditation
+|
+meditation
+|
+Wind Rune Geza
+|
+High Quality Raiment (5-SL)
+|
+Solidate Mithril RingSolidate Mithril Ring
+Lore Equipped, No Trade
+Slot: Fingers
+AC: 4
+STR: 5 INT: 5 AGI: 6 MANA: 50
+Effect: Steelskin (Must Equip, Casting Time: Instant, Cooldown: 180 seconds) at Level 45
+WT: 0.1 Size: TINY
+Class: WIZ
+Race: ALL
+|
 Wizard Test of Conception
 |
 conception
@@ -2251,12 +2261,12 @@ Wind Rune Izah
 Box of Winds (6-BZ)
 Efreeti Statuette
 |
-Solidate Mithril RingSolidate Mithril Ring
-Lore Equipped, No Trade
-Slot: Fingers
+Amulet of the VoidAmulet of the Void
+MAGIC ITEM LORE ITEM NO DROP
+Slot: NECK
 AC: 4
-STR: 5 INT: 5 AGI: 6 MANA: 50
-Effect: Steelskin (Must Equip, Casting Time: Instant, Cooldown: 180 seconds) at Level 45
+DEX: +5 CHA: +5 INT: +5 AGI: +5 MANA: +50
+Effect: Alter Plane: Sky (Any Slot/Can Equip, Casting Time: Instant, Cooldown: 120 seconds) at Level 45
 WT: 0.1 Size: TINY
 Class: WIZ
 Race: ALL
@@ -2269,13 +2279,14 @@ Wind Rune Jaka
 |
 Amethyst Amulet (7-SotS)
 |
-Amulet of the VoidAmulet of the Void
-MAGIC ITEM LORE ITEM NO DROP
-Slot: NECK
-AC: 4
-DEX: +5 CHA: +5 INT: +5 AGI: +5 MANA: +50
-Effect: Alter Plane: Sky (Any Slot/Can Equip, Casting Time: Instant, Cooldown: 120 seconds) at Level 45
-WT: 0.1 Size: TINY
+Nargon's StaffNargon's Staff
+MAGIC ITEM NO DROP
+Slot: PRIMARY
+Skill: 2H Blunt Atk Delay: 48
+DMG: 16
+INT: +15 MANA: +75
+SV DISEASE: +25 SV MAGIC: +10
+WT: 4.0 Size: LARGE
 Class: WIZ
 Race: ALL
 |
@@ -2287,17 +2298,6 @@ Wind Rune Caza
 |
 Large Sky Lapis (8-EoV)
 Efreeti War Staff
-|
-Nargon's StaffNargon's Staff
-MAGIC ITEM NO DROP
-Slot: PRIMARY
-Skill: 2H Blunt Atk Delay: 48
-DMG: 16
-INT: +15 MANA: +75
-SV DISEASE: +25 SV MAGIC: +10
-WT: 4.0 Size: LARGE
-Class: WIZ
-Race: ALL
 |
 Random Drop Items
 These can drop randomly from any mobs, are not used in quests, and almost all bosses always have at least one.
@@ -6132,13 +6132,13 @@ Race: ALL
 Protector of Sky |
 (None) |
 LORE ITEM WT: 6.0 Size: MEDIUM Class: ALL Race: ALL |
-Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Sky&oldid=175453"
+Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Sky&oldid=175648"
 Categories: Sky Era
 Classic Era
 Zones
 How to Contribute
 Donate
-This page was last edited on 1 September 2026, at 02:58.
+This page was last edited on 1 September 2026, at 22:09.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

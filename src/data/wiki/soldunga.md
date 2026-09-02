@@ -1,5 +1,5 @@
 # Solusek's_Eye (eqlwiki.com)
-fetched: 2026-08-31
+fetched: 2026-09-02
 
 Solusek's Eye - EverQuest Legends Wiki
 Jump to content
@@ -1568,14 +1568,14 @@ Lynada the exiled |
 (None) |
 LORE ITEM NO DROP WT: 0.2 Weight Reduction: 0% Capacity: 4 Size Capacity: SMALL |
 Asmag WeedAsmag Weed
-QUEST ITEM
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 Various |
 (None) |
-QUEST ITEM WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Quest Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Brick of Blue OreBrick of Blue Ore
 WT: 22.5 Size: SMALL
 Class: ALL

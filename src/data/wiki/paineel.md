@@ -1,5 +1,5 @@
 # Paineel (eqlwiki.com)
-fetched: 2026-08-27
+fetched: 2026-09-02
 
 Paineel - EverQuest Legends Wiki
 Jump to content
@@ -441,12 +441,12 @@ Malik Zaren |
 Titan Samples (evil)
 |
 Staff of the Moribund SpiritsStaff of the Moribund Spirits
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 22
 DMG: 10
 WT: 4.6 Size: LARGE
-Class: SHD NEC
+Class: SHD NEC BER
 Race: ALL
 |
 Sejako Mujan |

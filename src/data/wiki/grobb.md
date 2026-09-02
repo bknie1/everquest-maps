@@ -1,5 +1,5 @@
 # Grobb (eqlwiki.com)
-fetched: 2026-08-31
+fetched: 2026-09-02
 
 Grobb - EverQuest Legends Wiki
 Jump to content
@@ -183,8 +183,8 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , TurquoiseTurquoise
-QUEST ITEM
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |

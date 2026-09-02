@@ -1,5 +1,5 @@
 # Plane_of_Hate (eqlwiki.com)
-fetched: 2026-09-01
+fetched: 2026-09-02
 
 Plane of Hate - EverQuest Legends Wiki
 Jump to content
@@ -3153,17 +3153,17 @@ an eerie chest, a revultant rat |
 1H Slashing |
 Atk Delay: 14 DMG: 5 DEX: +5 AGI: +4 SV DISEASE: +5 SV POISON: +5 WT: 1.0 Size: SMALL Class: RNG Race: ALL |
 Ring of PurebloodRing of Pureblood
-MAGIC ITEM LORE ITEM NO DROP
-Slot: FINGER
+Lore Equipped, No Trade
+Slot: Fingers
 AC: 3
-STR: +5 CHA: +5 WIS: +5 INT: +5 HP: +30 MANA: +30
+STR: 5 CHA: 5 WIS: 5 INT: 5 HP: 30 MANA: 30
 WT: 0.1 Size: TINY
 Class: CLR PAL WIZ MAG ENC
 Race: ALL
 |
 Innoruuk |
 Fingers |
-AC: 3 STR: +5 CHA: +5 WIS: +5 INT: +5 HP: +30 MANA: +30 WT: 0.1 Size: TINY Class: CLR PAL WIZ MAG ENC Race: ALL |
+AC: 3 STR: 5 CHA: 5 WIS: 5 INT: 5 HP: 30 MANA: 30 WT: 0.1 Size: TINY Class: CLR PAL WIZ MAG ENC Race: ALL |
 Rod of Infinite ThoughtRod of Infinite Thought
 Lore Equipped, No Trade, Placeable
 Slot: PRIMARY
@@ -4586,10 +4586,10 @@ WT: 2.0 Size: SMALL
 Class: CLR PAL SHD NEC WIZ MAG ENC
 Race: ALL
 , Ring of PurebloodRing of Pureblood
-MAGIC ITEM LORE ITEM NO DROP
-Slot: FINGER
+Lore Equipped, No Trade
+Slot: Fingers
 AC: 3
-STR: +5 CHA: +5 WIS: +5 INT: +5 HP: +30 MANA: +30
+STR: 5 CHA: 5 WIS: 5 INT: 5 HP: 30 MANA: 30
 WT: 0.1 Size: TINY
 Class: CLR PAL WIZ MAG ENC
 Race: ALL

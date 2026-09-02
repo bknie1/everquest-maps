@@ -1,5 +1,5 @@
 # Ak'Anon (eqlwiki.com)
-fetched: 2026-08-31
+fetched: 2026-09-02
 
 Ak'Anon - EverQuest Legends Wiki
 Jump to content
@@ -205,7 +205,7 @@ Basilisk Tongues
 Spell: Burst of Flame, Spell: Elementaling Water, Spell: Elementalkin Earth, Spell: Fire Flux, Spell: Gate, Spell: True North |
 Larkon Theardor |
 10 |
-Cleric, Druid, Enchanter, Magician, Necromancer, Paladin, Shaman, Wizard |
+Enchanter, Magician, Necromancer, Wizard |
 Butcherblock Mountains, Rathe Mountains |
 a basilisk, a lowland basilisk |
 Become PvP (Ak'Anon)
@@ -898,7 +898,7 @@ Warrior |
 2 |
 ? |
 Spiderling SilkSpiderling Silk
-QUEST ITEM
+Quest
 WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL

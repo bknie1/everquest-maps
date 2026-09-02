@@ -1,5 +1,5 @@
 # Runnyeye_Citadel (eqlwiki.com)
-fetched: 2026-08-31
+fetched: 2026-09-02
 
 Runnyeye - EverQuest Legends Wiki
 Jump to content
@@ -821,7 +821,7 @@ WT: 0.0 Range: 50 Size: SMALL
 Class: ALL
 Race: ALL
 |
-Sludge Dankmire |
+Goblin Janitor |
 Range |
 Skill: Throwingv1 Atk Delay: 25 DMG: 3 Effect: Disease (Combat, Casting Time: Instant) at Level 30 WT: 0.0 Range: 50 Size: SMALL Class: ALL Race: ALL |
 Beaded Slime NecklaceBeaded Slime Necklace

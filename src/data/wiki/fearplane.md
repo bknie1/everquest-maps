@@ -1,5 +1,5 @@
 # Plane_of_Fear (eqlwiki.com)
-fetched: 2026-09-01
+fetched: 2026-09-02
 
 Plane of Fear - EverQuest Legends Wiki
 Jump to content
@@ -2201,7 +2201,7 @@ Slot: SECONDARY
 Wind Resonance: 14
 WT: 0.5 Size: TINY
 Class: BRD
-Race: ALL
+Race: ALLFocus Effect: Wind Resonance 14
 |
 None? |
 Secondary |
@@ -3385,7 +3385,7 @@ Slot: SECONDARY
 Wind Resonance: 14
 WT: 0.5 Size: TINY
 Class: BRD
-Race: ALL
+Race: ALLFocus Effect: Wind Resonance 14
 , Monsoon, Sword of the SwiftwindMonsoon, Sword of the Swiftwind
 MAGIC ITEM LORE ITEM NO DROP
 Slot: PRIMARY
@@ -3583,7 +3583,7 @@ Slot: SECONDARY
 Wind Resonance: 14
 WT: 0.5 Size: TINY
 Class: BRD
-Race: ALL
+Race: ALLFocus Effect: Wind Resonance 14
 , Puppet StringsPuppet Strings
 MAGIC ITEM LORE ITEM
 Charges: 10

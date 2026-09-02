@@ -1,5 +1,5 @@
 # Estate_of_Unrest (eqlwiki.com)
-fetched: 2026-09-01
+fetched: 2026-09-02
 
 The Estate of Unrest - EverQuest Legends Wiki
 Jump to content
@@ -91,7 +91,7 @@ Death Beetles, Tormented Dead, Greater Skeletons, Jack-O-Lanterns, Ghouls, Dark 
 |
 Rare NPCs:
 |
-a priest of najena, a gnomish spelunker, a reanimated hand, an undead barkeep, An Undead Brewer, an undead knight of Unrest, Garanel Rucksif, Khrix Fritchoff, Khrix's Abomination, Lesser Blade Fiend, reclusive ghoul magus, Shadowpincer, Torklar Battlemaster, Zombie of an Unrest Noble
+a priest of najena, a gnomish spelunker, a reanimated hand, an undead barkeep, an undead brewer, an undead knight of Unrest, Garanel Rucksif, Khrix Fritchoff, Khrix's Abomination, Lesser Blade Fiend, reclusive ghoul magus, Shadowpincer, Torklar Battlemaster, a zombie of an Unrest noble
 |
 Unique Items:
 |
@@ -205,7 +205,7 @@ AC: 5
 HP: 10 MANA: 35 END: 15
 SV Disease: -10 SV Poison: -10
 Size: MEDMIUM WT: 0.5
-Class: nec
+Class: NEC
 Race: ALL
 , GladiusGladius
 Attunable, Placeable
@@ -224,19 +224,19 @@ WT: 0.2 Size: TINY
 Class: ALL
 Race: ALLFocus Effect: Reanimation Haste I
 , Jagged BandJagged Band
-MAGIC ITEM
+Attunable
 Slot: FINGER
 AC: 5
 STR: +3
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Opalline EarringOpalline Earring
-MAGIC ITEM
+Attunable
 Slot: EAR
 AC: 2
 CHA: +5
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , PugiusPugius
@@ -386,11 +386,11 @@ Class: NEC WIZ MAG ENC
 Race: ALLFocus Effect: Summoning Efficiency I
 (Rare)
 2. Barroom where spawns: an undead barkeep who drops Opalline EarringOpalline Earring
-MAGIC ITEM
+Attunable
 Slot: EAR
 AC: 2
 CHA: +5
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 (Common) and Thick Leather ApronThick Leather Apron
@@ -432,11 +432,11 @@ Race: ALL
 7. Main Basement Room, filled with Werebats and Festering Hags
 8. Blood Trap, be sure to walk *through* the lava, going around it will make you fall in pits
 9. "Dwarf Room" with Garanel Rucksif who drops Jagged BandJagged Band
-MAGIC ITEM
+Attunable
 Slot: FINGER
 AC: 5
 STR: +3
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 (Common) and Dwarven Work BootsDwarven Work Boots
@@ -522,11 +522,11 @@ Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST BER
 Race: ALL
 ,
 Opalline EarringOpalline Earring
-MAGIC ITEM
+Attunable
 Slot: EAR
 AC: 2
 CHA: +5
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 ), a reanimated hand (
@@ -545,7 +545,7 @@ AC: 5
 HP: 10 MANA: 35 END: 15
 SV Disease: -10 SV Poison: -10
 Size: MEDMIUM WT: 0.5
-Class: nec
+Class: NEC
 Race: ALL
 ), with the one in the middle being the placeholder for the undead knight of unrest (
 Bloodstained TunicBloodstained Tunic
@@ -579,11 +579,11 @@ Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 and a Shaman quest item), and mortuary fungus (drops a Necromancer quest item) are further in. There is even fake lava in one hall to trick players into trying to go around it where they'll fall into a trap. Other than the numerous quest items that drop here fairly commonly, there is one notable mob: the ghost of the estate's dwarven owner, Garanel Rucksif, who drops
 Jagged BandJagged Band
-MAGIC ITEM
+Attunable
 Slot: FINGER
 AC: 5
 STR: +3
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 rings and the popular
@@ -630,10 +630,10 @@ Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , A Ghoul's HeartA Ghoul's Heart
-LORE ITEM NODROP
+Lore Equipped, No Trade
 Slot: NECK
 CHA: -10
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -647,8 +647,8 @@ Warrior |
 29-33 |
 100% @ (497, 102) |
 Torn Page of Magi`kot pg. 2Torn Page of Magi`kot pg. 2
-LORE ITEM NO DROP
-WT: 0.0 Size: TINY
+No Trade, Quest
+Size: TINY WT: 0.0
 Class: NONE
 Race: NONE
 |
@@ -686,7 +686,7 @@ WT: 0.4 Size: SMALL
 Class: ALL
 Race: ALL
 |
-Description needed. |
+Spawns at far east end of Unrest basement. (You'll need all keys to reach it.) |
 A Festering Hag
 |
 Zombie |
@@ -741,7 +741,7 @@ Class: ALL
 Race: ALL
 , Bone BarbsBone Barbs
 No Trade, Quest
-WT: 0.4 Size: SMALL
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 |
@@ -754,7 +754,7 @@ Warrior |
 3% @ (616, 63) |
 Ghoul CarrionGhoul Carrion
 No Trade, Quest
-WT: 2.0 Size: MEDIUM
+Size: MEDIUM WT: 2.0
 Class: ALL
 Race: ALL
 |
@@ -965,17 +965,17 @@ WT: 5.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 , Jagged BandJagged Band
-MAGIC ITEM
+Attunable
 Slot: FINGER
 AC: 5
 STR: +3
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Sphere of UnrestSphere of Unrest
 Lore Equipped, No Trade, Quest, Placeable
 Slot: PRIMARY SECONDARY
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -1172,7 +1172,7 @@ Class: ALL
 Race: ALL
 |
 Description needed. |
-Items - Found 78 items that drop in The Estate of Unrest:
+Items - Found 79 items that drop in The Estate of Unrest:
 Item Name | Drops From | Slot | Stats |
 Amanita PhalloideAmanita Phalloide
 Quest
@@ -1193,16 +1193,17 @@ a barbed bone skeleton |
 (None) |
 Quest WT: 0.1 Size: SMALL Class: ALL Race: ALL |
 Battle AxeBattle Axe
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 35
 DMG: 7
-WT: 8.5 Size: MEDIUM
+Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
 Garanel Rucksif |
 1H Slashing |
-Atk Delay: 35 DMG: 7 WT: 8.5 Size: MEDIUM Class: WAR PAL RNG SHD BRD ROG Race: ALL |
+Atk Delay: 35 DMG: 7 Size: MEDIUM WT: 8.5 Class: WAR PAL RNG SHD BRD ROG Race: ALL |
 Battleworn CanteenBattleworn Canteen
 No Trade
 Size: SMALL WT: 0.5
@@ -1239,13 +1240,13 @@ Chest |
 AC: 13 WIS: 4 AGI: 4 WT: 6.5 Size: MEDIUM Class: WAR CLR PAL RNG SHD BRD ROG SHM Race: ALL |
 Bone BarbsBone Barbs
 No Trade, Quest
-WT: 0.4 Size: SMALL
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 |
 a barbed bone skeleton |
 (None) |
-No Trade, Quest WT: 0.4 Size: SMALL Class: ALL Race: ALL |
+No Trade, Quest Size: SMALL WT: 0.4 Class: ALL Race: ALL |
 Brewer's BracerBrewer's Bracer
 Attunable
 Slot: WRIST
@@ -1455,14 +1456,23 @@ reclusive ghoul magus |
 Hands |
 AC: 2 MANA: +25 WT: 0.4 Size: SMALL Class: NEC WIZ MAG ENC Race: ALL |
 Dusty Old BackboneDusty Old Backbone
-LORE ITEM NO DROP
-WT: 0.1 Size: TINY
+No Trade
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 None? |
 (None) |
-LORE ITEM NO DROP WT: 0.1 Size: TINY Class: ALL Race: ALL |
+No Trade Size: TINY WT: 0.1 Class: ALL Race: ALL |
+Dusty RibcageDusty Ribcage
+No Trade
+Size: TINY WT: 0.1
+Class: ALL
+Race: ALL
+|
+None? |
+(None) |
+No Trade Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Dwarven Work BootsDwarven Work Boots
 MAGIC ITEM
 Slot: FEET
@@ -1488,16 +1498,16 @@ a dry bone skeleton |
 Piercing |
 Atk Delay: 20 DMG: 3 Size: SMALL WT: 3.0 Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST Race: ALL |
 Ebon WandEbon Wand
-MAGIC ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 SV DISEASE: +5
-WT: 0.5 Size: SMALL
+Size: SMALL WT: 0.5
 Class: NEC
 Race: ALL
 |
 a dry bone skeleton |
 Primary, Secondary |
-SV DISEASE: +5 WT: 0.5 Size: SMALL Class: NEC Race: ALL |
+SV DISEASE: +5 Size: SMALL WT: 0.5 Class: NEC Race: ALL |
 Festering CloakFestering Cloak
 Attunable, Quest
 Slot: BACK
@@ -1505,31 +1515,31 @@ AC: 5
 HP: 10 MANA: 35 END: 15
 SV Disease: -10 SV Poison: -10
 Size: MEDMIUM WT: 0.5
-Class: nec
+Class: NEC
 Race: ALL
 |
 a festering hag |
 Back |
-AC: 5 HP: 10 MANA: 35 END: 15 SV Disease: -10 SV Poison: -10 Size: MEDMIUM WT: 0.5 Class: nec Race: ALL |
+AC: 5 HP: 10 MANA: 35 END: 15 SV Disease: -10 SV Poison: -10 Size: MEDMIUM WT: 0.5 Class: NEC Race: ALL |
 Fungus EyeFungus Eye
 Lore Equipped, No Trade, Quest, Placeable
 Slot: PRIMARY SECONDARY
-WT: 0.2 Size: TINY
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 |
 mortuary fungus |
 Primary, Secondary |
-WT: 0.2 Size: TINY Class: ALL Race: ALL |
+Size: TINY WT: 0.2 Class: ALL Race: ALL |
 Ghoul CarrionGhoul Carrion
 No Trade, Quest
-WT: 2.0 Size: MEDIUM
+Size: MEDIUM WT: 2.0
 Class: ALL
 Race: ALL
 |
 a carrion ghoul |
 (None) |
-No Trade, Quest WT: 2.0 Size: MEDIUM Class: ALL Race: ALL |
+No Trade, Quest Size: MEDIUM WT: 2.0 Class: ALL Race: ALL |
 Giant Scarab LegsGiant Scarab Legs
 WT: 0.5 Size: MEDIUM
 Class: ALL
@@ -1660,16 +1670,16 @@ a festering hag |
 Face |
 AC: 2 WT: 0.2 Size: SMALL Class: NEC WIZ MAG ENC Race: ALL |
 Gossamer WristbandsGossamer Wristbands
-MAGIC ITEM
+Attunable
 Slot: WRIST
 AC: 3
-WT: 0.3 Size: SMALL
+Size: SMALL WT: 0.3
 Class: NEC WIZ MAG ENC
 Race: ALL
 |
 a festering hag |
 Wrist |
-AC: 3 WT: 0.3 Size: SMALL Class: NEC WIZ MAG ENC Race: ALL |
+AC: 3 Size: SMALL WT: 0.3 Class: NEC WIZ MAG ENC Race: ALL |
 Grave MoldGrave Mold
 Quest
 Size: TINY WT: 0.1
@@ -1705,17 +1715,17 @@ a jack o lantern |
 (None) |
 Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Jagged BandJagged Band
-MAGIC ITEM
+Attunable
 Slot: FINGER
 AC: 5
 STR: +3
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 Garanel Rucksif |
 Fingers |
-AC: 5 STR: +3 WT: 0.1 Size: TINY Class: ALL Race: ALL |
+AC: 5 STR: +3 Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Mixxy's Delicacies Vol 1Mixxy's Delicacies Vol 1
 WT: 0.1 Size: TINY
 |
@@ -1723,17 +1733,17 @@ a reanimated hand |
 (None) |
 WT: 0.1 Size: TINY |
 Opalline EarringOpalline Earring
-MAGIC ITEM
+Attunable
 Slot: EAR
 AC: 2
 CHA: +5
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 an undead barkeep |
 Ear |
-AC: 2 CHA: +5 WT: 0.1 Size: TINY Class: ALL Race: ALL |
+AC: 2 CHA: +5 Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Pouch of Silver DustPouch of Silver Dust
 No Trade, Quest
 WT: 1.0 Size: SMALL
@@ -1865,15 +1875,16 @@ Khrix Fritchoff |
 Shoulders |
 AC: 4 STA: 4 CHA: -10 INT: 4 WT: 0.3 Size: SMALL Class: NEC WIZ MAG ENC Race: ALL |
 Small Kite ShieldSmall Kite Shield
+Attunable, Placeable
 Slot: SECONDARY
 AC: 8
-WT: 7.5 Size: MEDIUM
+Size: MEDIUM WT: 7.5
 Class: WAR CLR PAL RNG SHD BRD ROG SHM
 Race: ALL
 |
 Garanel Rucksif |
 Secondary |
-AC: 8 WT: 7.5 Size: MEDIUM Class: WAR CLR PAL RNG SHD BRD ROG SHM Race: ALL |
+AC: 8 Size: MEDIUM WT: 7.5 Class: WAR CLR PAL RNG SHD BRD ROG SHM Race: ALL |
 Small Stone KeySmall Stone Key
 Size: TINY WT: 0.1
 Class: ALL
@@ -1897,13 +1908,13 @@ AC: 10 STA: 5 WT: 5.5 Size: SMALL Class: WAR CLR PAL SHD BRD Race: ALL |
 Sphere of UnrestSphere of Unrest
 Lore Equipped, No Trade, Quest, Placeable
 Slot: PRIMARY SECONDARY
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 Garanel Rucksif, An undead barkeep |
 Primary, Secondary |
-WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Tarnished Bronze KeyTarnished Bronze Key
 LORE ITEM NODROP
 WT: 0.1 Size: TINY
@@ -1955,14 +1966,14 @@ Torklar Battlemaster |
 1H Blunt |
 Atk Delay: 28 DMG: 6 WT: 5.0 Size: MEDIUM Class: ALL except SHD NEC WIZ MAG ENC Race: ALL |
 Torn Page of Magi`kot pg. 2Torn Page of Magi`kot pg. 2
-LORE ITEM NO DROP
-WT: 0.0 Size: TINY
+No Trade, Quest
+Size: TINY WT: 0.0
 Class: NONE
 Race: NONE
 |
 a dark terror, a tentacle terror (Unrest) |
 (None) |
-LORE ITEM NO DROP WT: 0.0 Size: TINY Class: NONE Race: NONE |
+No Trade, Quest Size: TINY WT: 0.0 Class: NONE Race: NONE |
 Warbone ChipsWarbone Chips
 Quest
 Size: SMALL WT: 0.1
@@ -1981,13 +1992,13 @@ Race: ALL
 a werebat |
 (None) |
 No Trade, Quest Size: SMALL WT: 0.0 Class: ALL Race: ALL |
-Retrieved from "https://eqlwiki.com/index.php?title=The_Estate_of_Unrest&oldid=175449"
+Retrieved from "https://eqlwiki.com/index.php?title=The_Estate_of_Unrest&oldid=175568"
 Categories: Classic Era
 Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 1 September 2026, at 01:32.
+This page was last edited on 1 September 2026, at 14:34.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

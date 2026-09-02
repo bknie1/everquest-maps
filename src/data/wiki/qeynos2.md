@@ -1,5 +1,5 @@
 # Qeynos (eqlwiki.com)
-fetched: 2026-09-01
+fetched: 2026-09-02
 
 Qeynos - EverQuest Legends Wiki
 Jump to content
@@ -778,8 +778,8 @@ WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
 , TurquoiseTurquoise
-QUEST ITEM
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -3814,10 +3814,10 @@ Cleric |
 <52 |
 Paths around Town and Newbie Area |
 Gossamer RobeGossamer Robe
-MAGIC ITEM
+Attunable
 Slot: CHEST
 AC: 8
-WT: 1.0 Size: MEDIUM
+Size: MEDIUM WT: 1.0
 Class: NEC WIZ MAG ENC
 Race: ALLFocus Effect: Summoning Efficiency I
 , Ice Crystal StaffIce Crystal Staff

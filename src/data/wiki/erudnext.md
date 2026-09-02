@@ -1,5 +1,5 @@
 # Erudin (eqlwiki.com)
-fetched: 2026-08-31
+fetched: 2026-09-02
 
 Erudin - EverQuest Legends Wiki
 Jump to content
@@ -704,7 +704,7 @@ Jarlen Meadowgreen |
 The Bridge
 |
 Deep Six CutlassDeep Six Cutlass
-MAGIC ITEM LORE ITEM
+LORE ITEM
 Slot: PRIMARY
 Charges: 3
 Skill: 1H Slashing Atk Delay: 36
@@ -1558,8 +1558,8 @@ Weligon Steelherder
 |
 Erudite |
 GM Paladin |
-61 |
-(-1041, -395) |
+70 |
+(-1041, -395, 51) |
 None |
 Paladin guildmaster of the Deepwater Knights in Erudin. |
 Weltria Ostriss

@@ -1,5 +1,5 @@
 # Castle_Mistmoore (eqlwiki.com)
-fetched: 2026-09-01
+fetched: 2026-09-02
 
 Mistmoore Castle - EverQuest Legends Wiki
 Jump to content
@@ -152,11 +152,11 @@ WT: 0.5 Size: SMALL
 Class: MNK BST
 Race: ALL
 , Chestplate of the Dark FlameChestplate of the Dark Flame
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable
 Slot: CHEST
 AC: 19
 STR: +9
-WT: 15.0 Size: LARGE
+Size: LARGE WT: 15.0
 Class: WAR PAL SHD
 Race: ALL
 , Crested HelmCrested Helm
@@ -177,19 +177,19 @@ WT: 6.5 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD DRU BRD ROG SHM
 Race: ALL
 , Crested SpauldersCrested Spaulders
-MAGIC ITEM
+Attunable
 Slot: SHOULDERS
 AC: 11
 STA: +6
-WT: 4.5 Size: SMALL
-Class: WAR CLR PAL RNG SHD BRD ROG
+Size: SMALL WT: 4.5
+Class: WAR CLR PAL RNG SHD BRD ROG BER
 Race: ALL
 , Diamondine EarringDiamondine Earring
-MAGIC ITEM
+Attunable
 Slot: EAR
 AC: 2
 STR: +3 HP: +12
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALLFocus Effect: Affliction Efficiency I
 , Fleeting MemoryFleeting Memory
@@ -248,11 +248,11 @@ WT: 0.7 Size: SMALL
 Class: ALL
 Race: ALLFocus Effect: String Resonance 11
 , Hooded Black CloakHooded Black Cloak
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable
 Slot: BACK
 AC: 10
 STR: +5 HP: +45
-WT: 2.5 Size: MEDIUM
+Size: MEDIUM WT: 2.5
 Class: ALL
 Race: ALL
 , Lute of the Gypsy PrincessLute of the Gypsy Princess
@@ -291,9 +291,10 @@ Attuneable
 Slot: FINGER
 AC: 1
 INT: 3 HP: 10
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
-Race: ALLFocus Effect: Heritage of Mistmoore
+Race: ALL
+Effect: Heritage of Mistmoore (Worn)
 , Nightshade WreathNightshade Wreath
 MAGIC ITEM
 Slot: HEAD
@@ -368,9 +369,8 @@ WT: 0.5 Size: SMALL
 Class: ALL
 Race: ALL
 , Vial of Vampire BloodVial of Vampire Blood
-MAGIC ITEM
-EXPENDABLE Charges: 1
-Effect: Resistance to Magic (Any Slot, Casting Time: Instant) as Level 50
+Charges: 1
+Effect: Resistance to Magic (Clicky, Casting Time: Instant) as Level 50
 WT: 0.4 Size: SMALL
 Class: ALL
 Race: ALL
@@ -438,9 +438,8 @@ WT: 0.1 Size: SMALL
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 (Rare), and a glyphed ghoul, who drops Vial of Vampire BloodVial of Vampire Blood
-MAGIC ITEM
-EXPENDABLE Charges: 1
-Effect: Resistance to Magic (Any Slot, Casting Time: Instant) as Level 50
+Charges: 1
+Effect: Resistance to Magic (Clicky, Casting Time: Instant) as Level 50
 WT: 0.4 Size: SMALL
 Class: ALL
 Race: ALL
@@ -503,12 +502,12 @@ WT: 1.5 Size: SMALL
 Class: WAR PAL RNG SHD MNK BRD ROG
 Race: ALL
 , secret door has trap that strips off invisibility spells, Stairs is where an avenging caitiff spawns who drops Crested SpauldersCrested Spaulders
-MAGIC ITEM
+Attunable
 Slot: SHOULDERS
 AC: 11
 STA: +6
-WT: 4.5 Size: SMALL
-Class: WAR CLR PAL RNG SHD BRD ROG
+Size: SMALL WT: 4.5
+Class: WAR CLR PAL RNG SHD BRD ROG BER
 Race: ALL
 (Common) and Crested HelmCrested Helm
 MAGIC ITEM
@@ -550,11 +549,11 @@ WT: 0.1 Size: SMALL
 Class: WAR PAL RNG SHD ROG
 Race: ALL
 and Hooded Black CloakHooded Black Cloak
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable
 Slot: BACK
 AC: 10
 STR: +5 HP: +45
-WT: 2.5 Size: MEDIUM
+Size: MEDIUM WT: 2.5
 Class: ALL
 Race: ALL
 . Also location of A Fallen Noble who drops Mistmoore Heirloom RingMistmoore Heirloom Ring
@@ -562,9 +561,10 @@ Attuneable
 Slot: FINGER
 AC: 1
 INT: 3 HP: 10
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
-Race: ALLFocus Effect: Heritage of Mistmoore
+Race: ALL
+Effect: Heritage of Mistmoore (Worn)
 , Noble's RobesNoble's Robes
 MAGIC ITEM LORE ITEM
 Slot: CHEST
@@ -605,11 +605,11 @@ WT: 8.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG
 Race: ALL
 (Common) and Chestplate of the Dark FlameChestplate of the Dark Flame
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable
 Slot: CHEST
 AC: 19
 STR: +9
-WT: 15.0 Size: LARGE
+Size: LARGE WT: 15.0
 Class: WAR PAL SHD
 Race: ALL
 (Rare)
@@ -684,11 +684,11 @@ WT: 0.5 Size: SMALL
 Class: MNK BST
 Race: ALL
 , Diamondine EarringDiamondine Earring
-MAGIC ITEM
+Attunable
 Slot: EAR
 AC: 2
 STR: +3 HP: +12
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALLFocus Effect: Affliction Efficiency I
 , Gem-Encrusted ScepterGem-Encrusted Scepter
@@ -709,11 +709,11 @@ WT: 0.6 Size: SMALL
 Class: CLR BRD NEC WIZ MAG ENC
 Race: ALLFocus Effect: Mana Preservation I
 21. "The Bath" where Lasna Cheroon spawns, who drops Diamondine EarringDiamondine Earring
-MAGIC ITEM
+Attunable
 Slot: EAR
 AC: 2
 STR: +3 HP: +12
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALLFocus Effect: Affliction Efficiency I
 (Common) and Platinum Skull RingPlatinum Skull Ring
@@ -862,9 +862,10 @@ Attuneable
 Slot: FINGER
 AC: 1
 INT: 3 HP: 10
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
-Race: ALLFocus Effect: Heritage of Mistmoore
+Race: ALL
+Effect: Heritage of Mistmoore (Worn)
 , (common) Noble's RobesNoble's Robes
 MAGIC ITEM LORE ITEM
 Slot: CHEST
@@ -1343,11 +1344,11 @@ WT: 0.4 Size: SMALL
 Class: ALL
 Race: ALL
 , Hooded Black CloakHooded Black Cloak
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable
 Slot: BACK
 AC: 10
 STR: +5 HP: +45
-WT: 2.5 Size: MEDIUM
+Size: MEDIUM WT: 2.5
 Class: ALL
 Race: ALL
 , Fleeting MemoryFleeting Memory
@@ -1433,9 +1434,8 @@ WT: 2.0 Size: SMALL
 Class: WAR CLR PAL SHD BRD
 Race: ALL
 , Vial of Vampire BloodVial of Vampire Blood
-MAGIC ITEM
-EXPENDABLE Charges: 1
-Effect: Resistance to Magic (Any Slot, Casting Time: Instant) as Level 50
+Charges: 1
+Effect: Resistance to Magic (Clicky, Casting Time: Instant) as Level 50
 WT: 0.4 Size: SMALL
 Class: ALL
 Race: ALL
@@ -1568,12 +1568,12 @@ WT: 5.0 Size: SMALL
 Class: WAR CLR PAL RNG SHD BRD ROG
 Race: ALL
 , Crested SpauldersCrested Spaulders
-MAGIC ITEM
+Attunable
 Slot: SHOULDERS
 AC: 11
 STA: +6
-WT: 4.5 Size: SMALL
-Class: WAR CLR PAL RNG SHD BRD ROG
+Size: SMALL WT: 4.5
+Class: WAR CLR PAL RNG SHD BRD ROG BER
 Race: ALL
 |
 Patrols the stairs connecting the jail and the torture room. |
@@ -1692,11 +1692,11 @@ Shadow Knight |
 37 |
 (-205, 352, -136) |
 Chestplate of the Dark FlameChestplate of the Dark Flame
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable
 Slot: CHEST
 AC: 19
 STR: +9
-WT: 15.0 Size: LARGE
+Size: LARGE WT: 15.0
 Class: WAR PAL SHD
 Race: ALL
 , Glowing Iron PikeGlowing Iron Pike
@@ -1716,11 +1716,11 @@ Necromancer |
 36 |
 100% @ (-173, 90) Level 2 |
 Diamondine EarringDiamondine Earring
-MAGIC ITEM
+Attunable
 Slot: EAR
 AC: 2
 STR: +3 HP: +12
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALLFocus Effect: Affliction Efficiency I
 , Platinum Skull RingPlatinum Skull Ring
@@ -1817,11 +1817,11 @@ WT: 0.5 Size: SMALL
 Class: MNK BST
 Race: ALL
 (Very Rare), Diamondine EarringDiamondine Earring
-MAGIC ITEM
+Attunable
 Slot: EAR
 AC: 2
 STR: +3 HP: +12
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALLFocus Effect: Affliction Efficiency I
 (Unconfirmed in Legends), Gem-Encrusted ScepterGem-Encrusted Scepter
@@ -1872,7 +1872,7 @@ Class: ALL
 Race: ALL
 |
 PH is a Mistmoore guard, 22-minute respawn. |
-Items - Found 53 items that drop in Mistmoore Castle:
+Items - Found 56 items that drop in Mistmoore Castle:
 Item Name | Drops From | Slot | Stats |
 A Dark CauldronA Dark Cauldron
 NO DROP
@@ -1928,13 +1928,13 @@ a hemo enologist |
 NO DROP WT: 0.4 Size: SMALL Class: ALL Race: ALL |
 Blood WineBlood Wine
 CHA: 2 Mana: 5
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 a hemo enologist |
 (None) |
-CHA: 2 Mana: 5 WT: 0.1 Size: TINY Class: ALL Race: ALL |
+CHA: 2 Mana: 5 Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Blood of the DhampyreBlood of the Dhampyre
 MAGIC ITEM
 EXPENDABLE Charges: 1
@@ -1995,17 +1995,17 @@ Princess Cherista |
 Hand to Hand |
 DMG: 10 Atk Delay: 28 DMG Bonus: 13 Effect: Lifebite (Combat) WT: 0.5 Size: SMALL Class: MNK BST Race: ALL |
 Chestplate of the Dark FlameChestplate of the Dark Flame
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable
 Slot: CHEST
 AC: 19
 STR: +9
-WT: 15.0 Size: LARGE
+Size: LARGE WT: 15.0
 Class: WAR PAL SHD
 Race: ALL
 |
 Garton Viswin |
 Chest |
-AC: 19 STR: +9 WT: 15.0 Size: LARGE Class: WAR PAL SHD Race: ALL |
+AC: 19 STR: +9 Size: LARGE WT: 15.0 Class: WAR PAL SHD Race: ALL |
 Crested HelmCrested Helm
 MAGIC ITEM
 Slot: HEAD
@@ -2032,29 +2032,38 @@ a glyphed ghoul |
 Secondary |
 AC: 10 DEX: +6 SV DISEASE: +10 SV MAGIC: +10 SV POISON: +10 WT: 6.5 Size: MEDIUM Class: WAR CLR PAL RNG SHD DRU BRD ROG SHM Race: ALL |
 Crested SpauldersCrested Spaulders
-MAGIC ITEM
+Attunable
 Slot: SHOULDERS
 AC: 11
 STA: +6
-WT: 4.5 Size: SMALL
-Class: WAR CLR PAL RNG SHD BRD ROG
+Size: SMALL WT: 4.5
+Class: WAR CLR PAL RNG SHD BRD ROG BER
 Race: ALL
 |
 an avenging caitiff |
 Shoulders |
-AC: 11 STA: +6 WT: 4.5 Size: SMALL Class: WAR CLR PAL RNG SHD BRD ROG Race: ALL |
+AC: 11 STA: +6 Size: SMALL WT: 4.5 Class: WAR CLR PAL RNG SHD BRD ROG BER Race: ALL |
 Diamondine EarringDiamondine Earring
-MAGIC ITEM
+Attunable
 Slot: EAR
 AC: 2
 STR: +3 HP: +12
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALLFocus Effect: Affliction Efficiency I
 |
 Lasna Cheroon |
 Ear |
-AC: 2 STR: +3 HP: +12 WT: 0.1 Size: TINY Class: ALL Race: ALL |
+AC: 2 STR: +3 HP: +12 Size: TINY WT: 0.1 Class: ALL Race: ALL |
+Dusty RibcageDusty Ribcage
+No Trade
+Size: TINY WT: 0.1
+Class: ALL
+Race: ALL
+|
+None? |
+(None) |
+No Trade Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Essence of MoonlightEssence of Moonlight
 MAGIC ITEM QUEST ITEM
 WT: 0.1 Size: TINY
@@ -2157,17 +2166,26 @@ a gypsy musician |
 Primary, Secondary |
 SV MAGIC: +5 WT: 0.7 Size: SMALL Class: ALL Race: ALL |
 Hooded Black CloakHooded Black Cloak
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable
 Slot: BACK
 AC: 10
 STR: +5 HP: +45
-WT: 2.5 Size: MEDIUM
+Size: MEDIUM WT: 2.5
 Class: ALL
 Race: ALL
 |
 a cloaked dhampyre |
 Back |
-AC: 10 STR: +5 HP: +45 WT: 2.5 Size: MEDIUM Class: ALL Race: ALL |
+AC: 10 STR: +5 HP: +45 Size: MEDIUM WT: 2.5 Class: ALL Race: ALL |
+Icon of SacramentIcon of Sacrament
+No Trade, Quest
+Size: SMALL WT: 1.0
+Class: ALL
+Race: ALL
+|
+None? |
+(None) |
+No Trade, Quest Size: SMALL WT: 1.0 Class: ALL Race: ALL |
 Illegible ScrollIllegible Scroll
 LORE ITEM
 WT: 0.1 Size: SMALL
@@ -2233,13 +2251,14 @@ Attuneable
 Slot: FINGER
 AC: 1
 INT: 3 HP: 10
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
-Race: ALLFocus Effect: Heritage of Mistmoore
+Race: ALL
+Effect: Heritage of Mistmoore (Worn)
 |
 a fallen noble |
 Fingers |
-AC: 1 INT: 3 HP: 10 WT: 0.1 Size: TINY Class: ALL Race: ALL |
+AC: 1 INT: 3 HP: 10 Size: TINY WT: 0.1 Class: ALL Race: ALL Effect: Heritage of Mistmoore (Worn) |
 Nightshade WreathNightshade Wreath
 MAGIC ITEM
 Slot: HEAD
@@ -2364,6 +2383,15 @@ Race: ALLFocus Effect: Mana Preservation I
 Princess Cherista |
 Head |
 AC: 2 CHA: 2 WIS: 3 INT: 3 WT: 0.6 Size: SMALL Class: CLR BRD NEC WIZ MAG ENC Race: ALL |
+Taste of EnticementTaste of Enticement
+No Trade, Quest
+Size: SMALL WT: 0.4
+Class: ALL
+Race: ALL
+|
+None? |
+(None) |
+No Trade, Quest Size: SMALL WT: 0.4 Class: ALL Race: ALL |
 Thick Caustic FluidThick Caustic Fluid
 No Trade
 WT: 0.4 Size: SMALL
@@ -2395,16 +2423,15 @@ a fallen noble |
 (None) |
 MAGIC ITEM NO DROP WT: 0.2 Size: TINY Class: ALL Race: ALL |
 Vial of Vampire BloodVial of Vampire Blood
-MAGIC ITEM
-EXPENDABLE Charges: 1
-Effect: Resistance to Magic (Any Slot, Casting Time: Instant) as Level 50
+Charges: 1
+Effect: Resistance to Magic (Clicky, Casting Time: Instant) as Level 50
 WT: 0.4 Size: SMALL
 Class: ALL
 Race: ALL
 |
 a glyphed ghoul |
 (None) |
-MAGIC ITEM EXPENDABLE Charges: 1 Effect: Resistance to Magic as Level 50 WT: 0.4 Size: SMALL Class: ALL Race: ALL |
+Charges: 1 Effect: Resistance to Magic (Clicky, Casting Time: Instant) as Level 50 WT: 0.4 Size: SMALL Class: ALL Race: ALL |
 Visage of the GargoyleVisage of the Gargoyle
 Attunable
 Slot: FACE

@@ -1,5 +1,5 @@
 # Ocean_of_Tears (eqlwiki.com)
-fetched: 2026-08-29
+fetched: 2026-09-02
 
 Ocean of Tears - EverQuest Legends Wiki
 Jump to content
@@ -1040,7 +1040,7 @@ Paladin |
 19 |
 (156, -4773) |
 None |
-Quest NPC on undead isle who, without your help, will lose her battle with gargoyles and skeletons. She can be spawned ... |
+Quest NPC on undead isle who, without your help, will lose her battle with spectre's and skeletons. She can be spawned ... |
 Seplawishinl Bladeblight
 |
 Gnome |

@@ -1,5 +1,5 @@
 # Rathe_Mountains (eqlwiki.com)
-fetched: 2026-08-31
+fetched: 2026-09-02
 
 Rathe Mountains - EverQuest Legends Wiki
 Jump to content
@@ -600,7 +600,7 @@ Class: ALL
 Race: ALL
 , Bone BarbsBone Barbs
 No Trade, Quest
-WT: 0.4 Size: SMALL
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 |
@@ -775,12 +775,13 @@ Warrior |
 12 |
 Various |
 Lizard TailLizard Tail
-WT: 2.0 Size: MEDIUM
+Quest
+Size: MEDIUM WT: 2.0
 Class: ALL
 Race: ALL
 , Lizard MeatLizard Meat
-QUEST ITEM
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 |
@@ -1727,7 +1728,7 @@ Thomas
 |
 Human |
 GM Paladin |
-61 |
+70 |
 (1937, -1203) |
 None |
 Description needed.
@@ -2086,22 +2087,23 @@ Meridith Tindle |
 Waist |
 AC: 3 WT: 1.0 Size: SMALL Class: ALL except NEC WIZ MAG ENC Race: ALL |
 Lizard MeatLizard Meat
-QUEST ITEM
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 |
 Various |
 (None) |
-QUEST ITEM WT: 1.0 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 1.0 Class: ALL Race: ALL |
 Lizard TailLizard Tail
-WT: 2.0 Size: MEDIUM
+Quest
+Size: MEDIUM WT: 2.0
 Class: ALL
 Race: ALL
 |
 Various |
 (None) |
-WT: 2.0 Size: MEDIUM Class: ALL Race: ALL |
+Quest Size: MEDIUM WT: 2.0 Class: ALL Race: ALL |
 Man-o-WarMan-o-War
 MAGIC ITEM LORE ITEM
 Slot: PRIMARY

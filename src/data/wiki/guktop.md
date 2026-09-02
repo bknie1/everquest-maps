@@ -1,5 +1,5 @@
 # Upper_Guk (eqlwiki.com)
-fetched: 2026-08-31
+fetched: 2026-09-02
 
 Upper Guk - EverQuest Legends Wiki
 Jump to content
@@ -618,7 +618,8 @@ Class: ALL
 Race: ALL
 (Rare)
 JasperJasper
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 (Rare)
@@ -685,7 +686,8 @@ Class: ALL
 Race: ALL
 (Rare)
 JasperJasper
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 (Rare)
@@ -787,7 +789,8 @@ Class: ALL
 Race: ALL
 (Rare) (17%)
 JasperJasper
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 (Rare) (17%)
@@ -948,7 +951,7 @@ A Fungus Ancient
 Fungusman |
 Need Info |
 25 ~ 26 |
-Need Info |
+Mushroom Farm - Location #11 on Upper Guk Map |
 Various |
 Description Needed. |
 A Fungus Breeder
@@ -989,7 +992,7 @@ WT: 0.1 Size: TINY
 Class: NONE
 Race: NONE
 |
-Exactly 16 minute, 30 second spawn timer. Social aggro to most mobs in the room. Recommended level 33 for a Druid trying... |
+Social aggro to most mobs in the room. Recommended level 33 for a Druid trying to solo, but doable at 29. Check the [[Pa... |
 A Fungus Soldier
 |
 Fungusman |
@@ -1046,7 +1049,8 @@ Class: ALL
 Race: ALL
 (Rare)
 JasperJasper
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 (Rare)

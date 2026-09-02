@@ -1,5 +1,5 @@
 # The_Feerrott (eqlwiki.com)
-fetched: 2026-08-31
+fetched: 2026-09-02
 
 The Feerrott - EverQuest Legends Wiki
 Jump to content
@@ -333,7 +333,7 @@ Warrior |
 1 - 3 |
 ? |
 Spiderling SilkSpiderling Silk
-QUEST ITEM
+Quest
 WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
@@ -380,8 +380,8 @@ Warrior |
 3 |
 Various |
 Lizard MeatLizard Meat
-QUEST ITEM
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Large Cloth Armor, Rusty Weapons, Lizardman Scout FifeLizardman Scout Fife
@@ -598,12 +598,13 @@ Warrior |
 1 |
 Various |
 Large Cloth Armor, Rusty Weapons (Common), Lizard TailLizard Tail
-WT: 2.0 Size: MEDIUM
+Quest
+Size: MEDIUM WT: 2.0
 Class: ALL
 Race: ALL
 (Rare), Lizard MeatLizard Meat
-QUEST ITEM
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 (Common) (77%) |
@@ -655,8 +656,8 @@ Shaman |
 49 |
 Various |
 Large Cloth Armor, Lizard MeatLizard Meat
-QUEST ITEM
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 |
@@ -789,22 +790,23 @@ Cyndreela |
 1H Blunt |
 Atk Delay: 35 DMG: 5 WT: 6.0 Size: MEDIUM Class: ALL except NEC WIZ MAG ENC Race: ALL |
 Lizard MeatLizard Meat
-QUEST ITEM
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 |
 a lizardman mystic, lizard man broodling, Roror |
 (None) |
-QUEST ITEM WT: 1.0 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 1.0 Class: ALL Race: ALL |
 Lizard TailLizard Tail
-WT: 2.0 Size: MEDIUM
+Quest
+Size: MEDIUM WT: 2.0
 Class: ALL
 Race: ALL
 |
 a lizardman mystic, lizard man broodling |
 (None) |
-WT: 2.0 Size: MEDIUM Class: ALL Race: ALL |
+Quest Size: MEDIUM WT: 2.0 Class: ALL Race: ALL |
 Lizardman Scout FifeLizardman Scout Fife
 WT: 0.1 Size: SMALL
 Class: ALL

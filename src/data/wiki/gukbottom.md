@@ -1,5 +1,5 @@
 # Lower_Guk (eqlwiki.com)
-fetched: 2026-09-01
+fetched: 2026-09-02
 
 Lower Guk - EverQuest Legends Wiki
 Jump to content
@@ -2802,14 +2802,14 @@ A bloodthirsty ghoul |
 (None) |
 LORE ITEM NO DROP WT: 0.0 Size: TINY Class: NONE Race: NONE |
 Torn Page of Magi`kot pg. 2Torn Page of Magi`kot pg. 2
-LORE ITEM NO DROP
-WT: 0.0 Size: TINY
+No Trade, Quest
+Size: TINY WT: 0.0
 Class: NONE
 Race: NONE
 |
 ? |
 (None) |
-LORE ITEM NO DROP WT: 0.0 Size: TINY Class: NONE Race: NONE |
+No Trade, Quest Size: TINY WT: 0.0 Class: NONE Race: NONE |
 Torn Page of Magi`kot pg. 3Torn Page of Magi`kot pg. 3
 QUEST ITEM NO DROP
 WT: 0.0 Size: TINY

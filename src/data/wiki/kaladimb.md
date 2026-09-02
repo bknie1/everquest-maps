@@ -1,5 +1,5 @@
 # Kaladim (eqlwiki.com)
-fetched: 2026-09-01
+fetched: 2026-09-02
 
 Kaladim - EverQuest Legends Wiki
 Jump to content
@@ -350,8 +350,8 @@ WT: 0.8 Size: SMALL
 Class: ALL except MNK NEC WIZ MAG ENC
 Race: ALL
 , TurquoiseTurquoise
-QUEST ITEM
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -498,9 +498,10 @@ WT: 5.0 Size: SMALL
 Class: WAR CLR PAL SHD BRD
 Race: ALL
 , Bronze GirdleBronze Girdle
+Attunable
 Slot: WAIST
 AC: 7
-WT: 5.0 Size: SMALL
+Size: SMALL WT: 5.0
 Class: WAR CLR PAL SHD BRD
 Race: ALL
 , Bronze GreavesBronze Greaves
@@ -510,9 +511,10 @@ WT: 9.4 Size: LARGE
 Class: WAR CLR PAL SHD BRD
 Race: ALL
 , Bronze BreastplateBronze Breastplate
+Attunable
 Slot: CHEST
 AC: 17
-WT: 12.5 Size: LARGE
+Size: LARGE WT: 12.5
 Class: WAR CLR PAL SHD BRD
 Race: ALL
 , Bronze PauldronBronze Pauldron
@@ -632,10 +634,11 @@ WT: 0.3 Size: SMALL
 Class: ALL
 Race: ALL
 , Ringmail CapeRingmail Cape
+Attunable
 Slot: BACK
 AC: 6
-WT: 4.0 Size: LARGE
-Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Size: LARGE WT: 4.0
+Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
 Race: ALL
 , Ringmail CoifRingmail Coif
 Attunable
@@ -668,7 +671,7 @@ Race: ALL
 Attunable
 Slot: HANDS
 AC: 6
-WT: 5.3 Size: SMALL
+Size: SMALL WT: 5.3
 Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
 Race: ALL
 , Ringmail NeckguardRingmail Neckguard
@@ -691,9 +694,10 @@ WT: 2.0 Size: LARGE
 Class: WAR CLR PAL RNG SHD BRD ROG SHM
 Race: ALL
 , Bronze BreastplateBronze Breastplate
+Attunable
 Slot: CHEST
 AC: 17
-WT: 12.5 Size: LARGE
+Size: LARGE WT: 12.5
 Class: WAR CLR PAL SHD BRD
 Race: ALL
 , Bronze CollarBronze Collar
@@ -746,10 +750,11 @@ WT: 2.0 Size: SMALL
 Class: WAR CLR PAL RNG SHD BRD ROG SHM
 Race: ALL
 , Ringmail CapeRingmail Cape
+Attunable
 Slot: BACK
 AC: 6
-WT: 4.0 Size: LARGE
-Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Size: LARGE WT: 4.0
+Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
 Race: ALL
 , Ringmail CoatRingmail Coat
 Attunable
@@ -762,7 +767,7 @@ Race: ALL
 Attunable
 Slot: HANDS
 AC: 6
-WT: 5.3 Size: SMALL
+Size: SMALL WT: 5.3
 Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
 Race: ALL
 , Ringmail MantleRingmail Mantle
@@ -1155,16 +1160,18 @@ Warrior |
 40 |
 100% @ (64, -30) |
 Battle AxeBattle Axe
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 35
 DMG: 7
-WT: 8.5 Size: MEDIUM
+Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , Small Kite ShieldSmall Kite Shield
+Attunable, Placeable
 Slot: SECONDARY
 AC: 8
-WT: 7.5 Size: MEDIUM
+Size: MEDIUM WT: 7.5
 Class: WAR CLR PAL RNG SHD BRD ROG SHM
 Race: ALL
 |
@@ -1206,16 +1213,18 @@ Warrior |
 38-42 |
 100% @ (63, 14) |
 Battle AxeBattle Axe
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 35
 DMG: 7
-WT: 8.5 Size: MEDIUM
+Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , Small Kite ShieldSmall Kite Shield
+Attunable, Placeable
 Slot: SECONDARY
 AC: 8
-WT: 7.5 Size: MEDIUM
+Size: MEDIUM WT: 7.5
 Class: WAR CLR PAL RNG SHD BRD ROG SHM
 Race: ALL
 |
@@ -1257,16 +1266,18 @@ Warrior |
 40-41 |
 100% @ (70, 34) |
 Battle AxeBattle Axe
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 35
 DMG: 7
-WT: 8.5 Size: MEDIUM
+Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , Small Kite ShieldSmall Kite Shield
+Attunable, Placeable
 Slot: SECONDARY
 AC: 8
-WT: 7.5 Size: MEDIUM
+Size: MEDIUM WT: 7.5
 Class: WAR CLR PAL RNG SHD BRD ROG SHM
 Race: ALL
 |
@@ -1278,16 +1289,18 @@ Warrior |
 38 |
 100% @ (135, 12) |
 Battle AxeBattle Axe
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 35
 DMG: 7
-WT: 8.5 Size: MEDIUM
+Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , Small Kite ShieldSmall Kite Shield
+Attunable, Placeable
 Slot: SECONDARY
 AC: 8
-WT: 7.5 Size: MEDIUM
+Size: MEDIUM WT: 7.5
 Class: WAR CLR PAL RNG SHD BRD ROG SHM
 Race: ALL
 |
@@ -1314,16 +1327,18 @@ Warrior |
 39-41 |
 100% @ (134, -13) |
 Battle AxeBattle Axe
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 35
 DMG: 7
-WT: 8.5 Size: MEDIUM
+Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , Small Kite ShieldSmall Kite Shield
+Attunable, Placeable
 Slot: SECONDARY
 AC: 8
-WT: 7.5 Size: MEDIUM
+Size: MEDIUM WT: 7.5
 Class: WAR CLR PAL RNG SHD BRD ROG SHM
 Race: ALL
 |
@@ -1380,16 +1395,18 @@ Warrior |
 40 |
 100% @ (242, -200) |
 Battle AxeBattle Axe
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 35
 DMG: 7
-WT: 8.5 Size: MEDIUM
+Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , Small Kite ShieldSmall Kite Shield
+Attunable, Placeable
 Slot: SECONDARY
 AC: 8
-WT: 7.5 Size: MEDIUM
+Size: MEDIUM WT: 7.5
 Class: WAR CLR PAL RNG SHD BRD ROG SHM
 Race: ALL
 |
@@ -1401,16 +1418,18 @@ Warrior |
 42 |
 100% @ (145, -4) |
 Battle AxeBattle Axe
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 35
 DMG: 7
-WT: 8.5 Size: MEDIUM
+Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , Small Kite ShieldSmall Kite Shield
+Attunable, Placeable
 Slot: SECONDARY
 AC: 8
-WT: 7.5 Size: MEDIUM
+Size: MEDIUM WT: 7.5
 Class: WAR CLR PAL RNG SHD BRD ROG SHM
 Race: ALL
 |
@@ -1452,16 +1471,18 @@ Warrior |
 38-41 |
 100% @ (63, -12) |
 Battle AxeBattle Axe
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 35
 DMG: 7
-WT: 8.5 Size: MEDIUM
+Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , Small Kite ShieldSmall Kite Shield
+Attunable, Placeable
 Slot: SECONDARY
 AC: 8
-WT: 7.5 Size: MEDIUM
+Size: MEDIUM WT: 7.5
 Class: WAR CLR PAL RNG SHD BRD ROG SHM
 Race: ALL
 |
@@ -1564,16 +1585,18 @@ Warrior |
 50 |
 (-118, -360) |
 Battle AxeBattle Axe
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 35
 DMG: 7
-WT: 8.5 Size: MEDIUM
+Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , Small Kite ShieldSmall Kite Shield
+Attunable, Placeable
 Slot: SECONDARY
 AC: 8
-WT: 7.5 Size: MEDIUM
+Size: MEDIUM WT: 7.5
 Class: WAR CLR PAL RNG SHD BRD ROG SHM
 Race: ALL
 , Silver AmuletSilver Amulet
@@ -1613,16 +1636,17 @@ A weapons merchant in the Warrior guild. |
 Items - Found 3 items that drop in South Kaladim:
 Item Name | Drops From | Slot | Stats |
 Battle AxeBattle Axe
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 35
 DMG: 7
-WT: 8.5 Size: MEDIUM
+Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
 Various |
 1H Slashing |
-Atk Delay: 35 DMG: 7 WT: 8.5 Size: MEDIUM Class: WAR PAL RNG SHD BRD ROG Race: ALL |
+Atk Delay: 35 DMG: 7 Size: MEDIUM WT: 8.5 Class: WAR PAL RNG SHD BRD ROG Race: ALL |
 Dwarven AxeDwarven Axe
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 26
@@ -1635,15 +1659,16 @@ Most (all?) Guards |
 1H Slashing |
 Atk Delay: 26 DMG: 6 WT: 4.0 Size: MEDIUM Class: WAR PAL RNG SHD BRD ROG Race: ALL |
 Small Kite ShieldSmall Kite Shield
+Attunable, Placeable
 Slot: SECONDARY
 AC: 8
-WT: 7.5 Size: MEDIUM
+Size: MEDIUM WT: 7.5
 Class: WAR CLR PAL RNG SHD BRD ROG SHM
 Race: ALL
 |
 Various |
 Secondary |
-AC: 8 WT: 7.5 Size: MEDIUM Class: WAR CLR PAL RNG SHD BRD ROG SHM Race: ALL |
+AC: 8 Size: MEDIUM WT: 7.5 Class: WAR CLR PAL RNG SHD BRD ROG SHM Race: ALL |
 Quests - Found 17 quests that start in North Kaladim:
 Quest Name | Reward | Quest Giver | Minimum Level | Classes | Related Zones | Related NPCs |
 Aviak Chicks
@@ -1991,7 +2016,7 @@ Race: ALL
 |
 Diggins |
 9 |
-Bard, Enchanter, Magician, Necromancer, Ranger, Rogue, Shadow Knight, Shaman, Warrior, Wizard |
+Rogue |
 Butcherblock Mountains |
 a goblin warrior |
 Skunk Hunting
@@ -1999,7 +2024,7 @@ Skunk Hunting
 Spell: Cure Poison, Spell: Divine Aura, Spell: Fear, Spell: Flash of Light, Spell: Furor, Spell: Gate, Spell: Holy Armor, Spell: Lull, Spell: Stun |
 Nultal Malfoot |
 2 |
-Cleric, Druid, Enchanter, Magician, Necromancer, Paladin, Ranger, Shadow Knight, Shaman, Wizard |
+Cleric |
 Butcherblock Mountains |
 a large skunk |
 Soil of Underfoot Quest
@@ -2067,7 +2092,8 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , JasperJasper
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Lapis LazuliLapis Lazuli
@@ -2114,8 +2140,8 @@ WT: 0.5 Size: SMALL
 Class: ALL
 Race: ALL
 , TurquoiseTurquoise
-QUEST ITEM
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -2666,16 +2692,17 @@ None? |
 (None) |
 WT: 0.1 Size: TINY Class: ALL Race: ALL |
 Battle AxeBattle Axe
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 35
 DMG: 7
-WT: 8.5 Size: MEDIUM
+Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
 Various |
 1H Slashing |
-Atk Delay: 35 DMG: 7 WT: 8.5 Size: MEDIUM Class: WAR PAL RNG SHD BRD ROG Race: ALL |
+Atk Delay: 35 DMG: 7 Size: MEDIUM WT: 8.5 Class: WAR PAL RNG SHD BRD ROG Race: ALL |
 Dusty Broken SwordDusty Broken Sword
 LORE ITEM NO DROP
 WT: 1.0 Size: TINY
@@ -2714,15 +2741,16 @@ None? |
 1H Blunt |
 Atk Delay: 37 DMG: 7 WT: 8.0 Size: MEDIUM Class: ALL except NEC WIZ MAG ENC Race: ALL |
 Small Kite ShieldSmall Kite Shield
+Attunable, Placeable
 Slot: SECONDARY
 AC: 8
-WT: 7.5 Size: MEDIUM
+Size: MEDIUM WT: 7.5
 Class: WAR CLR PAL RNG SHD BRD ROG SHM
 Race: ALL
 |
 Various |
 Secondary |
-AC: 8 WT: 7.5 Size: MEDIUM Class: WAR CLR PAL RNG SHD BRD ROG SHM Race: ALL |
+AC: 8 Size: MEDIUM WT: 7.5 Class: WAR CLR PAL RNG SHD BRD ROG SHM Race: ALL |
 Strange Dark FungusStrange Dark Fungus
 MAGIC ITEM
 WT: 0.1 Size: TINY

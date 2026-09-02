@@ -1,5 +1,5 @@
 # Lesser_Faydark (eqlwiki.com)
-fetched: 2026-08-31
+fetched: 2026-09-02
 
 Lesser Faydark - EverQuest Legends Wiki
 Jump to content
@@ -371,7 +371,8 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , JasperJasper
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Star Rose QuartzStar Rose Quartz
@@ -1133,7 +1134,7 @@ Ytharisth Nerishar
 ? |
 None |
 Description needed.[2] |
-Items - Found 90 items that drop in Lesser Faydark:
+Items - Found 89 items that drop in Lesser Faydark:
 Item Name | Drops From | Slot | Stats |
 A shadowed knifeA shadowed knife
 MAGIC ITEM LORE ITEM NO DROP
@@ -1486,15 +1487,6 @@ Race: ALL
 Dragoon Szorn, Teir`Dal Elite |
 (None) |
 QUEST ITEM WT: 0.4 Size: SMALL Class: ALL Race: ALL |
-Icon of SacramentIcon of Sacrament
-MAGIC ITEM LORE ITEM NO DROP
-WT: 1.0 Size: SMALL
-Class: ALL
-Race: ALL
-|
-None? |
-(None) |
-MAGIC ITEM LORE ITEM NO DROP WT: 1.0 Size: SMALL Class: ALL Race: ALL |
 Illusionists StoneIllusionists Stone
 MAGIC ITEM
 Slot: PRIMARY SECONDARY

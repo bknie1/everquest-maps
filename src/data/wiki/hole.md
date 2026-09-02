@@ -1,5 +1,5 @@
 # The_Hole (eqlwiki.com)
-fetched: 2026-09-01
+fetched: 2026-09-02
 
 The Hole - EverQuest Legends Wiki
 Jump to content
@@ -279,15 +279,15 @@ West Graveyard with Keeper of the Tombs, entrance to crypt
 East Graveyard
 Courtyard
 Master Yael (Raid Instance Only) who drops Brell's GirdleBrell's Girdle
-MAGIC ITEM LORE ITEM
+Attunable, Lore Equipped
 Slot: WAIST
 AC: 10
 STR: +10 DEX: -5 STA: +10 AGI: -5 MANA: +50 END: +50
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALLFocus Effect: Summoning Haste III
 , EarthshakerEarthshaker
-MAGIC ITEM LORE ITEM
+Attunable, Lore Equipped, Placeable
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 70
 DMG: 37
@@ -297,12 +297,12 @@ WT: 16.0 Size: GIANT
 Class: WAR PAL RNG SHD BER
 Race: ALL
 , Loam Encrusted RobeLoam Encrusted Robe
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable
 Slot: CHEST
 AC: 9
 DEX: +10 INT: +5 AGI: +10 MANA: +80
 SV MAGIC: +10
-WT: 1.0 Size: MEDIUM
+Size: MEDIUM WT: 1.0
 Class: NEC WIZ MAG ENC
 Race: ALL
 , and Serpent's ToothSerpent's Tooth
@@ -1171,17 +1171,17 @@ a rock golem |
 Archery |
 Atk Delay: 60 DMG: 33 STR: +4 DEX: +4 SV COLD: +10 WT: 4.0 Range: 150 Size: MEDIUM Class: WAR PAL RNG SHD ROG Race: ALL |
 Brell's GirdleBrell's Girdle
-MAGIC ITEM LORE ITEM
+Attunable, Lore Equipped
 Slot: WAIST
 AC: 10
 STR: +10 DEX: -5 STA: +10 AGI: -5 MANA: +50 END: +50
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALLFocus Effect: Summoning Haste III
 |
 Master Yael |
 Waist |
-AC: 10 STR: +10 DEX: -5 STA: +10 AGI: -5 MANA: +50 END: +50 WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+AC: 10 STR: +10 DEX: -5 STA: +10 AGI: -5 MANA: +50 END: +50 Size: SMALL WT: 0.1 Class: ALL Race: ALL |
 Cell KeyCell Key
 MAGIC ITEM LORE ITEM NO DROP
 WT: 0.0 Size: SMALL
@@ -1488,18 +1488,18 @@ Stonegrinder Minion |
 Legs |
 AC: 5 INT: +3 AGI: +8 HP: +10 MANA: +5 SV DISEASE: +10 WT: 0.7 Size: MEDIUM Class: NEC WIZ MAG ENC Race: ALL |
 Loam Encrusted RobeLoam Encrusted Robe
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable
 Slot: CHEST
 AC: 9
 DEX: +10 INT: +5 AGI: +10 MANA: +80
 SV MAGIC: +10
-WT: 1.0 Size: MEDIUM
+Size: MEDIUM WT: 1.0
 Class: NEC WIZ MAG ENC
 Race: ALL
 |
 Master Yael |
 Chest |
-AC: 9 DEX: +10 INT: +5 AGI: +10 MANA: +80 SV MAGIC: +10 WT: 1.0 Size: MEDIUM Class: NEC WIZ MAG ENC Race: ALL |
+AC: 9 DEX: +10 INT: +5 AGI: +10 MANA: +80 SV MAGIC: +10 Size: MEDIUM WT: 1.0 Class: NEC WIZ MAG ENC Race: ALL |
 Loam Encrusted SashLoam Encrusted Sash
 MAGIC ITEM LORE ITEM
 Slot: WAIST
@@ -1931,15 +1931,15 @@ Master Yael
 Master Yael Drops
 |
 Brell's GirdleBrell's Girdle
-MAGIC ITEM LORE ITEM
+Attunable, Lore Equipped
 Slot: WAIST
 AC: 10
 STR: +10 DEX: -5 STA: +10 AGI: -5 MANA: +50 END: +50
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALLFocus Effect: Summoning Haste III
 , EarthshakerEarthshaker
-MAGIC ITEM LORE ITEM
+Attunable, Lore Equipped, Placeable
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 70
 DMG: 37
@@ -1962,12 +1962,12 @@ WT: 45.0 Size: SMALL
 Class: WAR CLR PAL RNG SHD MNK BRD ROG SHM
 Race: ALL
 , Loam Encrusted RobeLoam Encrusted Robe
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable
 Slot: CHEST
 AC: 9
 DEX: +10 INT: +5 AGI: +10 MANA: +80
 SV MAGIC: +10
-WT: 1.0 Size: MEDIUM
+Size: MEDIUM WT: 1.0
 Class: NEC WIZ MAG ENC
 Race: ALL
 , Serpent's ToothSerpent's Tooth

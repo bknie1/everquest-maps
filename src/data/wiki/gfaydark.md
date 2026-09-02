@@ -1,5 +1,5 @@
 # Greater_Faydark (eqlwiki.com)
-fetched: 2026-08-31
+fetched: 2026-09-02
 
 Greater Faydark - EverQuest Legends Wiki
 Jump to content
@@ -675,6 +675,13 @@ DMG: 4BACKSTAB: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG
 Race: ALL
+or Bronze DaggerBronze Dagger
+Slot: PRIMARY SECONDARY
+Skill: Piercing Atk Delay: 22
+DMG: 3BACKSTAB: 3
+WT: 3.0 Size: SMALL
+Class: ALL except CLR PAL DRU MNK SHM
+Race: ALL
 |
 Gallin Woodwind |
 5 |
@@ -731,7 +738,7 @@ Race: ALL
 |
 Tylfon |
 1 |
-Bard, Enchanter, Magician, Necromancer, Ranger, Rogue, Shadow Knight, Warrior, Wizard |
+Rogue |
 Greater Faydark |
 a decaying skeleton, Orc Pawn (Crushbone), a pixie trickster |
 Wino
@@ -997,7 +1004,7 @@ WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
 , Spiderling SilkSpiderling Silk
-QUEST ITEM
+Quest
 WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL

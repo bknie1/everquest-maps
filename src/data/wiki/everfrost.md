@@ -1,5 +1,5 @@
 # Everfrost_Peaks (eqlwiki.com)
-fetched: 2026-08-31
+fetched: 2026-09-02
 
 Everfrost Peaks - EverQuest Legends Wiki
 Jump to content
@@ -373,7 +373,7 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , Spiderling SilkSpiderling Silk
-QUEST ITEM
+Quest
 WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL

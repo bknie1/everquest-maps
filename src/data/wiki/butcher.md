@@ -1,5 +1,5 @@
 # Butcherblock_Mountains (eqlwiki.com)
-fetched: 2026-08-31
+fetched: 2026-09-02
 
 Butcherblock Mountains - EverQuest Legends Wiki
 Jump to content
@@ -391,7 +391,7 @@ Warrior |
 2 |
 Various |
 Spiderling SilkSpiderling Silk
-QUEST ITEM
+Quest
 WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
@@ -1792,16 +1792,17 @@ a lowland basilisk |
 (None) |
 WT: 0.5 Size: MEDIUM Class: ALL Race: ALL |
 Battle AxeBattle Axe
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 35
 DMG: 7
-WT: 8.5 Size: MEDIUM
+Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
 Delin Ironblend |
 1H Slashing |
-Atk Delay: 35 DMG: 7 WT: 8.5 Size: MEDIUM Class: WAR PAL RNG SHD BRD ROG Race: ALL |
+Atk Delay: 35 DMG: 7 Size: MEDIUM WT: 8.5 Class: WAR PAL RNG SHD BRD ROG Race: ALL |
 Blade of NobilityBlade of Nobility
 LORE ITEM NO DROP
 WT: 0.2 Size: MEDIUM

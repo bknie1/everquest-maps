@@ -1,5 +1,5 @@
 # Permafrost_Keep (eqlwiki.com)
-fetched: 2026-08-31
+fetched: 2026-09-02
 
 Permafrost - EverQuest Legends Wiki
 Jump to content
@@ -1242,7 +1242,7 @@ a goblin preacher |
 Head |
 AC: 4 WIS: +4 INT: +4 WT: 1.0 Size: SMALL Class: ALL Race: ALL |
 Scimitar of the MistwalkerScimitar of the Mistwalker
-MAGIC ITEM LORE ITEM
+LORE ITEM NO PET
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 25
 DMG: 10

@@ -1,5 +1,5 @@
 # Lavastorm_Mountains (eqlwiki.com)
-fetched: 2026-08-17
+fetched: 2026-09-02
 
 Lavastorm Mountains - EverQuest Legends Wiki
 Jump to content
@@ -526,14 +526,14 @@ a fire goblin, a fire imp, a fire goblin scout |
 (None) |
 This is a meal! WT: 0.6 Size: SMALL Class: ALL Race: ALL |
 Asmag WeedAsmag Weed
-QUEST ITEM
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 a fire goblin scout, goblin scout, goblin warrior |
 (None) |
-QUEST ITEM WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Quest Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Basilisk EggBasilisk Egg
 QUEST ITEM
 WT: 0.1 Size: TINY

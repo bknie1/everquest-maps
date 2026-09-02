@@ -1,5 +1,5 @@
 # Steamfont_Mountains (eqlwiki.com)
-fetched: 2026-09-01
+fetched: 2026-09-02
 
 Steamfont Mountains - EverQuest Legends Wiki
 Jump to content
@@ -159,7 +159,18 @@ Quests - Found 1 quests that start in Steamfont Mountains:
 Quest Name | Reward | Quest Giver | Minimum Level | Classes | Related Zones | Related NPCs |
 The Telescope
 |
-Staff of the Observers |
+Staff of the ObserversStaff of the Observers
+MAGIC ITEM LORE ITEM
+Slot: PRIMARY
+Charges: 20
+Skill: 2H Blunt Atk Delay: 35
+DMG: 12
+WIS: +5 INT: +5 MANA: +30
+Effect: Sentinel (Any Slot, Casting Time: Instant)
+WT: 10.0 Size: LARGE
+Class: CLR DRU SHM WIZ MAG ENC
+Race: ALL
+|
 Brona Frugrin |
 30 |
 Cleric, Druid, Enchanter, Magician, Shaman, Wizard |
@@ -391,7 +402,7 @@ Warrior |
 1-4 |
 Various |
 Spiderling SilkSpiderling Silk
-QUEST ITEM
+Quest
 WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
