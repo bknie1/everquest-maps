@@ -645,3 +645,58 @@ def petrified_stump(cx, cy, rx, ry, seed=0):
     out.append((cx - rx * 0.06, cy, cx + rx * 0.06, cy, HEART))      # heartwood
     out.append((cx, cy - ry * 0.06, cx, cy + ry * 0.06, HEART))
     return out
+
+
+ROCK_SHADE = (80, 64, 46)
+ROCK_SHADE_D = (58, 46, 34)
+
+
+def rock_shade(points, seed=0, light=(-1.0, -1.0), density=1.0):
+    """Hatch the shaded flank of an outcrop that is ALREADY drawn.
+
+    Butcherblock's rock masses are good drawings; they just read flat. This
+    adds form without redrawing them: rays are cast from the mass's centroid,
+    the silhouette radius is measured along each, and short ticks are laid
+    inside the edge on the flank facing away from the light. Because it only
+    ever adds strokes inside the existing outline, it is append-only -- the
+    base drawing is untouched.
+
+    `points` is the outcrop's stroke-endpoint cloud [(x, y), ...].
+    """
+    import math as _m
+    rng = random.Random(seed)
+    if len(points) < 8:
+        return []
+    cx = sum(p[0] for p in points) / len(points)
+    cy = sum(p[1] for p in points) / len(points)
+    lx, ly = light
+    n = _m.hypot(lx, ly) or 1.0
+    lx, ly = lx / n, ly / n
+    shade_dir = _m.atan2(-ly, -lx)          # the flank opposite the light
+    out = []
+    # bucket the cloud by angle so we can find the silhouette cheaply
+    NB = 48
+    rad = [0.0] * NB
+    for px, py in points:
+        dx, dy = px - cx, py - cy
+        r = _m.hypot(dx, dy)
+        b = int((_m.atan2(dy, dx) + _m.pi) / (2 * _m.pi) * NB) % NB
+        if r > rad[b]:
+            rad[b] = r
+    span = _m.pi * 0.62                      # how much of the rim is in shadow
+    steps = max(6, int(14 * density))
+    for k in range(steps):
+        a = shade_dir - span + (2 * span) * k / (steps - 1)
+        b = int((a + _m.pi) / (2 * _m.pi) * NB) % NB
+        r = max(rad[b], rad[(b - 1) % NB], rad[(b + 1) % NB])
+        if r < 6:
+            continue
+        # a tick lying just inside the rim, plus a shorter inner one
+        for f0, f1, ink in ((0.94, 0.66, ROCK_SHADE), (0.60, 0.40, ROCK_SHADE_D)):
+            if f0 < 0.7 and rng.random() < 0.45:
+                continue
+            j = rng.uniform(-0.045, 0.045)
+            aa = a + j
+            out.append((cx + r * f0 * _m.cos(aa), cy + r * f0 * _m.sin(aa),
+                        cx + r * f1 * _m.cos(aa), cy + r * f1 * _m.sin(aa), ink))
+    return out
