@@ -7,3 +7,4 @@ P 5200.0000, 900.0000, 150.6900, 30, 80, 95, 2, Ice_Goblin_Camps_(igloos)
 P 3400.0000, -1600.0000, -1.0000, 110, 0, 60, 2, Snow_Orc_Camp
 P 6200.0000, -1600.0000, -97.8800, 110, 0, 60, 2, Permafrost_Approach_(Ice_Giants)
 P -200.0000, -3300.0000, -1.0000, 30, 80, 95, 2, Halas_Ferry_Approach
+P 7665.6830, -1966.1661, 0.0000, 0, 150, 140, 2, To_Miraguls_Menagerie_(LDoN?)
