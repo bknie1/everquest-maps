@@ -352,3 +352,66 @@ def splitpaw_claws(cx, cy, r, seed=0):
         out.append((left[N][0], left[N][1], right[N][0], right[N][1], BLOOD_DARK))
         out.append((bx - w * 0.75, by, bx + w * 0.75, by, STONE_DARK))          # footing
     return out
+
+
+def aviak_lookout(cx, cy, h, seed=0):
+    """An aviak lookout: a tall tree with a tiny hut lashed on top, standing on
+    a hill. From Brandon's shots -- the aviaks build their perches up trees on
+    the high ground, so the hill is part of the landmark, not scenery.
+
+    (cx, cy) is the foot of the tree; h is the tree's full height.
+    """
+    rng = random.Random(seed)
+    TRUNK = (110, 84, 52)
+    TRUNK_D = (78, 58, 36)
+    LEAF = (72, 102, 60)
+    LEAF_D = (52, 78, 46)
+    HUT = (146, 118, 78)
+    HUT_D = (96, 74, 48)
+    out = []
+    def L(x1, y1, x2, y2, c):
+        out.append((x1, y1, x2, y2, c))
+
+    # the hill it stands on: one brow line plus a couple of hachures
+    hw = h * 0.95
+    n = 16
+    prev = None
+    for k in range(n + 1):
+        t = -1.0 + 2.0 * k / n
+        x = cx + t * hw
+        y = cy + h * 0.10 - (h * 0.26) * (1.0 - t * t)
+        if prev:
+            L(prev[0], prev[1], x, y, TRUNK_D)
+        prev = (x, y)
+    for t in (-0.62, -0.3, 0.3, 0.62):
+        x = cx + t * hw
+        y = cy + h * 0.10 - (h * 0.26) * (1.0 - t * t)
+        L(x, y, x + h * 0.03, y + h * 0.07, TRUNK_D)
+
+    # trunk
+    L(cx - h * 0.045, cy, cx - h * 0.030, cy - h * 0.62, TRUNK)
+    L(cx + h * 0.045, cy, cx + h * 0.030, cy - h * 0.62, TRUNK_D)
+    L(cx - h * 0.045, cy, cx + h * 0.045, cy, TRUNK_D)
+    # canopy: three lobes, drawn as arcs so it does not read as a solid blob
+    for (ox, oy, rr) in ((-0.20, -0.66, 0.20), (0.20, -0.68, 0.19), (0.0, -0.78, 0.22)):
+        bx, by = cx + ox * h, cy + oy * h
+        r = rr * h
+        m = 10
+        for k in range(m):
+            a0 = 2 * math.pi * k / m
+            a1 = 2 * math.pi * (k + 1) / m
+            L(bx + r * math.cos(a0), by + r * 0.72 * math.sin(a0),
+              bx + r * math.cos(a1), by + r * 0.72 * math.sin(a1),
+              LEAF if k % 3 else LEAF_D)
+    # the hut on top: platform, walls, peaked roof
+    py = cy - h * 0.92
+    pw = h * 0.17
+    L(cx - pw, py, cx + pw, py, HUT_D)                                  # platform
+    L(cx - pw * 0.8, py, cx - pw * 0.8, py - h * 0.13, HUT)             # walls
+    L(cx + pw * 0.8, py, cx + pw * 0.8, py - h * 0.13, HUT)
+    L(cx - pw * 0.8, py - h * 0.13, cx + pw * 0.8, py - h * 0.13, HUT_D)
+    L(cx - pw * 1.05, py - h * 0.13, cx, py - h * 0.25, HUT)            # roof
+    L(cx + pw * 1.05, py - h * 0.13, cx, py - h * 0.25, HUT_D)
+    L(cx - pw * 0.35, py, cx - pw * 0.35, py - h * 0.13, HUT_D)         # doorway
+    L(cx + pw * 0.10, py, cx + pw * 0.10, py - h * 0.13, HUT_D)
+    return out
