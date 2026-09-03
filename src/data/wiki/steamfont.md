@@ -1,5 +1,5 @@
 # Steamfont_Mountains (eqlwiki.com)
-fetched: 2026-09-02
+fetched: 2026-09-03
 
 Steamfont Mountains - EverQuest Legends Wiki
 Jump to content
@@ -1226,12 +1226,12 @@ Wizard |
 65 |
 100% @ (-1469, 1719) |
 Shining Metallic RobesShining Metallic Robes
-MAGIC ITEM
+Attunable, Quest
 Slot: CHEST
 AC: 10
 INT: +9
 SV FIRE: +8 SV COLD: +8
-WT: 3.5 Size: MEDIUM
+Size: MEDIUM WT: 3.5
 Class: NEC WIZ MAG ENC
 Race: ALLFocus Effect: Spell Haste II
 |
@@ -1636,18 +1636,18 @@ rogue clockwork |
 (None) |
 QUEST ITEM WT: 7.5 Size: MEDIUM Class: ALL Race: ALL |
 Shining Metallic RobesShining Metallic Robes
-MAGIC ITEM
+Attunable, Quest
 Slot: CHEST
 AC: 10
 INT: +9
 SV FIRE: +8 SV COLD: +8
-WT: 3.5 Size: MEDIUM
+Size: MEDIUM WT: 3.5
 Class: NEC WIZ MAG ENC
 Race: ALLFocus Effect: Spell Haste II
 |
 Yendar Starpyre |
 Chest |
-AC: 10 INT: +9 SV FIRE: +8 SV COLD: +8 WT: 3.5 Size: MEDIUM Class: NEC WIZ MAG ENC Race: ALL |
+AC: 10 INT: +9 SV FIRE: +8 SV COLD: +8 Size: MEDIUM WT: 3.5 Class: NEC WIZ MAG ENC Race: ALL |
 Shiny CardShiny Card
 LORE ITEM NO DROP
 WT: 0.1 Size: TINY

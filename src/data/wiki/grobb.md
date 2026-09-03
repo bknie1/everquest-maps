@@ -1,5 +1,5 @@
 # Grobb (eqlwiki.com)
-fetched: 2026-09-02
+fetched: 2026-09-03
 
 Grobb - EverQuest Legends Wiki
 Jump to content
@@ -436,7 +436,8 @@ Warrior |
 39 |
 100% @ (263, -49) |
 PearlPearl
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Long SwordLong Sword

@@ -1,5 +1,5 @@
 # Oggok (eqlwiki.com)
-fetched: 2026-09-02
+fetched: 2026-09-03
 
 Oggok - EverQuest Legends Wiki
 Jump to content
@@ -672,7 +672,7 @@ Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 28
 DMG: 6
-WT: 5.0 Size: MEDIUM
+Size: MEDIUM WT: 5.0
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , Fine Steel Short SwordFine Steel Short Sword

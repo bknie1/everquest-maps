@@ -1,5 +1,5 @@
 # Lavastorm_Mountains (eqlwiki.com)
-fetched: 2026-09-02
+fetched: 2026-09-03
 
 Lavastorm Mountains - EverQuest Legends Wiki
 Jump to content
@@ -314,12 +314,12 @@ Warrior |
 16 - 20 |
 ? |
 Nightmare HideNightmare Hide
-MAGIC ITEM
+Attunable
 Slot: BACK
 Charges: 5
 AC: 5
-Effect: Restore Sight (Any Slot, Casting Time: Instant)
-WT: 2.0 Size: MEDIUM
+Effect: Restore Sight (Clicky, Casting Time: Instant)
+Size: MEDIUM WT: 2.0
 Class: ALL
 Race: ALL
 |
@@ -514,7 +514,7 @@ Enchanter |
 (-333, 937) |
 None |
 Nestled in a camp of otherwise indifferent & dubious merchants, Tizina cons threatening to Rallos Zek Ogres and Cazic Th... |
-Items - Found 28 items that drop in Lavastorm Mountains:
+Items - Found 27 items that drop in Lavastorm Mountains:
 Item Name | Drops From | Slot | Stats |
 AshweedAshweed
 This is a meal!
@@ -620,15 +620,6 @@ Race: ALL
 a fire elemental |
 (None) |
 WT: 0.1 Size: SMALL Class: ALL Race: ALL |
-Fiery OreFiery Ore
-MAGIC ITEM QUEST ITEM
-WT: 0.5 Size: MEDIUM
-Class: ALL
-Race: ALL
-|
-a fire drake |
-(None) |
-MAGIC ITEM QUEST ITEM WT: 0.5 Size: MEDIUM Class: ALL Race: ALL |
 Fire Drake ScaleFire Drake Scale
 WT: 0.1 Size: SMALL
 Class: ALL

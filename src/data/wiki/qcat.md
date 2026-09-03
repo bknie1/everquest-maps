@@ -1,5 +1,5 @@
 # Qeynos_Catacombs (eqlwiki.com)
-fetched: 2026-09-01
+fetched: 2026-09-03
 
 Qeynos Aqueducts - EverQuest Legends Wiki
 Jump to content
@@ -1242,8 +1242,8 @@ Warrior |
 5 |
 3% ?? @ (483, -166), 50% @ (500, -149) |
 Undead Froglok TongueUndead Froglok Tongue
-QUEST ITEM
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Tarnished Broad SwordTarnished Broad Sword

@@ -1,5 +1,5 @@
 # The_Hole (eqlwiki.com)
-fetched: 2026-09-02
+fetched: 2026-09-03
 
 The Hole - EverQuest Legends Wiki
 Jump to content
@@ -1063,7 +1063,7 @@ Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC
 WIZ MAG ENC BST
 Race: ALL
 |
-Spawns in back of ratman jail. |
+Spawns in a cell at the back of ratman jail. |
 Stonegrinder Minion
 |
 Elemental |

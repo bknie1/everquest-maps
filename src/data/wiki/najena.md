@@ -1,5 +1,5 @@
 # Najena (eqlwiki.com)
-fetched: 2026-08-31
+fetched: 2026-09-03
 
 Najena - EverQuest Legends Wiki
 Jump to content
@@ -236,7 +236,7 @@ AC: 8
 STA: +5 INT: +3
 WT: 3.5 Size: MEDIUM
 Class: NEC WIZ MAG ENC
-Race: ALLFocus Effect: Reanimation Efficiency I
+Race: ALLFocus Effect: Reanimation Efficiency II
 , Hollowed Bone BracersHollowed Bone Bracers
 MAGIC ITEM
 Slot: ARMS
@@ -442,7 +442,7 @@ AC: 8
 STA: +5 INT: +3
 WT: 3.5 Size: MEDIUM
 Class: NEC WIZ MAG ENC
-Race: ALLFocus Effect: Reanimation Efficiency I
+Race: ALLFocus Effect: Reanimation Efficiency II
 (Common), Clawed Knuckle-RingClawed Knuckle-Ring
 MAGIC ITEM
 Slot: FINGER
@@ -460,7 +460,23 @@ WT: 0.0 Size: TINY
 Class: NEC WIZ MAG ENC
 Race: ALLFocus Effect: Burning Affliction II
 (Rare)
-3. Torture Rooms
+3. Torture Rooms with The Blood Artist who drops The Muse's Flayed LegsThe Muse's Flayed Legs
+Attunable
+Slot: LEGS
+AC: 6 END: +5
+STR: +2
+SV Disease: -5
+WT: 4.0 Size: MEDIUM
+Class: WAR RNG SHD DRU MNK BRD ROG SHM BST BER
+Race: ALL
+(Common) and The Artist's BrushThe Artist's Brush
+Attunable, Quest
+Slot: RANGE PRIMARY SECONDARY
+INT: +3 DEX: +3 MANA: +10
+WT: 0.5 Size: SMALL
+Class: NEC WIZ MAG ENC
+Race: ALLFocus Effect: Reagent Conservation I
+(Rare)
 4. Crystal Room
 5. Drelzna's Room with Drelzna who drops Journeyman's BootsJourneyman's Boots
 MAGIC ITEM NODROP
@@ -722,7 +738,7 @@ AC: 8
 STA: +5 INT: +3
 WT: 3.5 Size: MEDIUM
 Class: NEC WIZ MAG ENC
-Race: ALLFocus Effect: Reanimation Efficiency I
+Race: ALLFocus Effect: Reanimation Efficiency II
 and the
 Black Tome with Silver RunesBlack Tome with Silver Runes
 MAGIC ITEM
@@ -1084,7 +1100,7 @@ AC: 8
 STA: +5 INT: +3
 WT: 3.5 Size: MEDIUM
 Class: NEC WIZ MAG ENC
-Race: ALLFocus Effect: Reanimation Efficiency I
+Race: ALLFocus Effect: Reanimation Efficiency II
 (Common) |
 Najena is the Mistress of her namesake dungeon. The PH is an earth elemental. Her respawn time is approx. 19 min. 2 sec... |
 Officer Grush
@@ -1754,7 +1770,7 @@ AC: 8
 STA: +5 INT: +3
 WT: 3.5 Size: MEDIUM
 Class: NEC WIZ MAG ENC
-Race: ALLFocus Effect: Reanimation Efficiency I
+Race: ALLFocus Effect: Reanimation Efficiency II
 |
 Najena (NPC) |
 Chest |
@@ -2174,13 +2190,13 @@ Race: NONE
 The Widowmistress |
 (None) |
 LORE ITEM NO DROP WT: 0.1 Size: TINY Class: NONE Race: NONE |
-Retrieved from "https://eqlwiki.com/index.php?title=Najena&oldid=175103"
+Retrieved from "https://eqlwiki.com/index.php?title=Najena&oldid=176072"
 Categories: Classic Era
 Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 30 August 2026, at 21:47.
+This page was last edited on 2 September 2026, at 21:22.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

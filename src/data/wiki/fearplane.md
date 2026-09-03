@@ -1,5 +1,5 @@
 # Plane_of_Fear (eqlwiki.com)
-fetched: 2026-09-02
+fetched: 2026-09-03
 
 Plane of Fear - EverQuest Legends Wiki
 Jump to content
@@ -268,12 +268,12 @@ Warrior |
 Blinds & Fears |
 Feet Group 2 |
 Nightmare HideNightmare Hide
-MAGIC ITEM
+Attunable
 Slot: BACK
 Charges: 5
 AC: 5
-Effect: Restore Sight (Any Slot, Casting Time: Instant)
-WT: 2.0 Size: MEDIUM
+Effect: Restore Sight (Clicky, Casting Time: Instant)
+Size: MEDIUM WT: 2.0
 Class: ALL
 Race: ALL
 Wand of DarknessWand of Darkness
@@ -324,7 +324,8 @@ WT: 3.0 Size: MEDIUM
 Class: RNG
 Race: ALL
 Scare StrawScare Straw
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -786,18 +787,18 @@ Spawn location: in the top of the tem... |
 Items - Found 200 items that drop in Plane of Fear:
 Item Name | Drops From | Slot | Stats |
 Amulet of NecropotenceAmulet of Necropotence
-MAGIC ITEM
+Attunable
 Slot: NECK
 INT: +13 HP: -100
 SV MAGIC: +10
-Effect: Illusion: Skeleton (Any Slot, Casting Time: Instant)
+Effect: Illusion: Skeleton (Clicky, Casting Time: Instant)
 WT: 0.1 Size: SMALL
 Class: ENC MAG NEC WIZ
 Race: ALL
 |
 Various |
 Neck |
-INT: +13 HP: -100 SV MAGIC: +10 Effect: Illusion: Skeleton WT: 0.1 Size: SMALL Class: ENC MAG NEC WIZ Race: ALL |
+INT: +13 HP: -100 SV MAGIC: +10 Effect: Illusion: Skeleton (Clicky, Casting Time: Instant) WT: 0.1 Size: SMALL Class: ENC MAG NEC WIZ Race: ALL |
 Amygdalan TendrilAmygdalan Tendril
 MAGIC ITEM LORE ITEM NO DROP
 Slot: PRIMARY SECONDARY
@@ -1492,12 +1493,12 @@ a spinechiller spider |
 Secondary |
 AC: 10 DEX: +7 INT: +7 HP: +35 WT: 0.2 Size: TINY Class: BRD NEC WIZ MAG ENC Race: ALL |
 Darkwood TrunkDarkwood Trunk
-WT: 2.0 Weight Reduction: 100%
-Capacity: 10 Size Capacity: GIANT
+Size: MEDIUM WT: 2.0
+Weight Reduction: 100% Capacity: 10 Size Capacity: GIANT
 |
 None? |
 (None) |
-WT: 2.0 Weight Reduction: 100% Capacity: 10 Size Capacity: GIANT |
+Size: MEDIUM WT: 2.0 Weight Reduction: 100% Capacity: 10 Size Capacity: GIANT |
 DawnFire, Morning Star of LightDawnFire, Morning Star of Light
 MAGIC ITEM
 Slot: PRIMARY
@@ -2321,18 +2322,18 @@ Amygdalan warrior, Amygdalan knight |
 Secondary |
 AC: 20 STR: +5 DEX: +5 STA: +5 WT: 7.0 Size: MEDIUM Class: WAR Race: ALL |
 Nightmare HideNightmare Hide
-MAGIC ITEM
+Attunable
 Slot: BACK
 Charges: 5
 AC: 5
-Effect: Restore Sight (Any Slot, Casting Time: Instant)
-WT: 2.0 Size: MEDIUM
+Effect: Restore Sight (Clicky, Casting Time: Instant)
+Size: MEDIUM WT: 2.0
 Class: ALL
 Race: ALL
 |
 a nightmare |
 Back |
-Charges: 5 AC: 5 Effect: Restore Sight WT: 2.0 Size: MEDIUM Class: ALL Race: ALL |
+Charges: 5 AC: 5 Effect: Restore Sight (Clicky, Casting Time: Instant) Size: MEDIUM WT: 2.0 Class: ALL Race: ALL |
 Pauldrons of FerocityPauldrons of Ferocity
 MAGIC ITEM LORE ITEM NO DROP
 Slot: SHOULDERS
@@ -2474,13 +2475,14 @@ Dracoliche |
 Waist |
 AC: 5 Haste: +41% WT: 0.1 Size: SMALL Class: MNK Race: ALL |
 Scare StrawScare Straw
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
 a samhain |
 (None) |
-WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.1 Class: ALL Race: ALL |
 Shadow Rage BootsShadow Rage Boots
 Lore Equipped, No Trade, Quest
 Slot: FEET
@@ -2710,32 +2712,32 @@ a dracoliche, Terror |
 1H Slashing |
 Atk Delay: 21 DMG: 10 WT: 3.5 Size: MEDIUM Class: WAR RNG Race: ALL |
 Staff of Undead LegionsStaff of Undead Legions
-MAGIC ITEM
+Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 47
 DMG: 20
-Effect: Banish Undead (Combat, Casting Time: Instant) at Level 46
-WT: 6.5 Size: LARGE
+Effect: Banish Undead (Combat) at Level 46
+Size: LARGE WT: 6.5
 Class: NEC
 Race: ALL
 |
 Various |
 2H Blunt |
-Atk Delay: 47 DMG: 20 Effect: Banish Undead (Combat, Casting Time: Instant) at Level 46 WT: 6.5 Size: LARGE Class: NEC Race: ALL |
+Atk Delay: 47 DMG: 20 Effect: Banish Undead (Combat) at Level 46 Size: LARGE WT: 6.5 Class: NEC Race: ALL |
 Staff of the EarthcrafterStaff of the Earthcrafter
-MAGIC ITEM
+Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 48
 DMG: 21
 WIS: +15 HP: +100 MANA: +50
-Effect: Drones of Doom (Combat, Casting Time: Instant) at Level 40
-WT: 7.5 Size: LARGE
+Effect: Drones of Doom (Combat) at Level 40
+Size: LARGE WT: 7.5
 Class: DRU
 Race: ALL
 |
-None? |
+Various |
 2H Blunt |
-Atk Delay: 48 DMG: 21 WIS: +15 HP: +100 MANA: +50 Effect: Drones of Doom (Combat, Casting Time: Instant) at Level 40 WT: 7.5 Size: LARGE Class: DRU Race: ALL |
+Atk Delay: 48 DMG: 21 WIS: +15 HP: +100 MANA: +50 Effect: Drones of Doom (Combat) at Level 40 Size: LARGE WT: 7.5 Class: DRU Race: ALL |
 Swatch of CryosilkSwatch of Cryosilk
 WT: 0.5 Size: SMALL
 Class: ALL
@@ -3306,11 +3308,11 @@ Cazic-Thule
 Mini Boss Drops
 |
 Amulet of NecropotenceAmulet of Necropotence
-MAGIC ITEM
+Attunable
 Slot: NECK
 INT: +13 HP: -100
 SV MAGIC: +10
-Effect: Illusion: Skeleton (Any Slot, Casting Time: Instant)
+Effect: Illusion: Skeleton (Clicky, Casting Time: Instant)
 WT: 0.1 Size: SMALL
 Class: ENC MAG NEC WIZ
 Race: ALL
@@ -3366,8 +3368,8 @@ WT: 1.0 Size: MEDIUM
 Class: NEC WIZ MAG ENC
 Race: ALL
 , Darkwood TrunkDarkwood Trunk
-WT: 2.0 Weight Reduction: 100%
-Capacity: 10 Size Capacity: GIANT
+Size: MEDIUM WT: 2.0
+Weight Reduction: 100% Capacity: 10 Size Capacity: GIANT
 , DawnFire, Morning Star of LightDawnFire, Morning Star of Light
 MAGIC ITEM
 Slot: PRIMARY
@@ -3438,22 +3440,22 @@ WT: 3.5 Size: MEDIUM
 Class: WAR RNG
 Race: ALL
 , Staff of Undead LegionsStaff of Undead Legions
-MAGIC ITEM
+Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 47
 DMG: 20
-Effect: Banish Undead (Combat, Casting Time: Instant) at Level 46
-WT: 6.5 Size: LARGE
+Effect: Banish Undead (Combat) at Level 46
+Size: LARGE WT: 6.5
 Class: NEC
 Race: ALL
 , Staff of the EarthcrafterStaff of the Earthcrafter
-MAGIC ITEM
+Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 48
 DMG: 21
 WIS: +15 HP: +100 MANA: +50
-Effect: Drones of Doom (Combat, Casting Time: Instant) at Level 40
-WT: 7.5 Size: LARGE
+Effect: Drones of Doom (Combat) at Level 40
+Size: LARGE WT: 7.5
 Class: DRU
 Race: ALL
 |
@@ -3528,11 +3530,11 @@ WT: 0.5 Size: MEDIUM
 Class: NEC WIZ MAG ENC
 Race: ALL
 , Amulet of NecropotenceAmulet of Necropotence
-MAGIC ITEM
+Attunable
 Slot: NECK
 INT: +13 HP: -100
 SV MAGIC: +10
-Effect: Illusion: Skeleton (Any Slot, Casting Time: Instant)
+Effect: Illusion: Skeleton (Clicky, Casting Time: Instant)
 WT: 0.1 Size: SMALL
 Class: ENC MAG NEC WIZ
 Race: ALL
@@ -3564,8 +3566,8 @@ WT: 1.0 Size: MEDIUM
 Class: NEC WIZ MAG ENC
 Race: ALL
 , Darkwood TrunkDarkwood Trunk
-WT: 2.0 Weight Reduction: 100%
-Capacity: 10 Size Capacity: GIANT
+Size: MEDIUM WT: 2.0
+Weight Reduction: 100% Capacity: 10 Size Capacity: GIANT
 , DawnFire, Morning Star of LightDawnFire, Morning Star of Light
 MAGIC ITEM
 Slot: PRIMARY
@@ -3609,13 +3611,13 @@ WT: 9.5 Size: LARGE
 Class: WAR SHD
 Race: ALL
 , Staff of the EarthcrafterStaff of the Earthcrafter
-MAGIC ITEM
+Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 48
 DMG: 21
 WIS: +15 HP: +100 MANA: +50
-Effect: Drones of Doom (Combat, Casting Time: Instant) at Level 40
-WT: 7.5 Size: LARGE
+Effect: Drones of Doom (Combat) at Level 40
+Size: LARGE WT: 7.5
 Class: DRU
 Race: ALL
 |

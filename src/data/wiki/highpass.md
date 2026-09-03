@@ -1,5 +1,5 @@
 # Highpass_Hold (eqlwiki.com)
-fetched: 2026-08-31
+fetched: 2026-09-03
 
 Highpass Hold - EverQuest Legends Wiki
 Jump to content
@@ -670,7 +670,8 @@ WT: 8.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
 Race: ALL
 , PearlPearl
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , TopazTopaz

@@ -1,5 +1,5 @@
 # Upper_Guk (eqlwiki.com)
-fetched: 2026-09-02
+fetched: 2026-09-03
 
 Upper Guk - EverQuest Legends Wiki
 Jump to content
@@ -1065,7 +1065,8 @@ Class: ALL
 Race: ALL
 (Rare)
 PearlPearl
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 (Rare)

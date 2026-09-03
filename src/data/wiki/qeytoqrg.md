@@ -1,5 +1,5 @@
 # Qeynos_Hills (eqlwiki.com)
-fetched: 2026-09-01
+fetched: 2026-09-03
 
 Qeynos Hills - EverQuest Legends Wiki
 Jump to content
@@ -241,21 +241,24 @@ Lord Elgnub, a Lteth Val Scribe, a one eyed gnoll |
 Wolf Hide Armor
 |
 Wolf-hide BeltWolf-hide Belt
+Attunable
 Slot: WAIST
 AC: 3
-WT: 1.0 Size: SMALL
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Wolf-hide BootsWolf-hide Boots
+Attunable
 Slot: FEET
 AC: 4
-WT: 2.5 Size: SMALL
+Size: SMALL WT: 2.5
 Class: ALL
 Race: ALL
 , Wolf-hide CapeWolf-hide Cape
+Attunable
 Slot: BACK
 AC: 5
-WT: 2.0 Size: MEDIUM
+Size: MEDIUM WT: 2.0
 Class: ALL
 Race: ALL
 |

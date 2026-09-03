@@ -1,5 +1,5 @@
 # Lower_Guk (eqlwiki.com)
-fetched: 2026-09-02
+fetched: 2026-09-03
 
 Lower Guk - EverQuest Legends Wiki
 Jump to content
@@ -296,8 +296,8 @@ WT: 0.8 Size: TINY
 Class: ALL
 Race: ALL
 , Light Burlap SackLight Burlap Sack
-WT: 3.0 Weight Reduction: 65%
-Capacity: 8 Size Capacity: LARGE
+Size: LARGE WT: 3.0
+Weight Reduction: 65% Capacity: 8 Size Capacity: LARGE
 , Mask of DeceptionMask of Deception
 MAGIC ITEM LORE ITEM NO DROP
 Slot: FACE
@@ -378,11 +378,11 @@ WT: 0.8 Size: SMALL
 Class: ALL
 Race: ALLFocus Effect: Burning Affliction II
 , Serrated Bone DirkSerrated Bone Dirk
-MAGIC ITEM
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: Piercing Atk Delay: 27
 DMG: 8BACKSTAB: 8
-Effect: Engulfing Darkness (Combat, Casting Time: Instant) at Level 27
+Effect: Engulfing Darkness (Combat) at Level 27
 WT: 2.0 Size: SMALL
 Class: ROG
 Race: ALL
@@ -412,20 +412,20 @@ WT: 7.5 Size: LARGE
 Class: WAR CLR PAL SHD BRD
 Race: ALL
 , Shining Metallic RobesShining Metallic Robes
-MAGIC ITEM
+Attunable, Quest
 Slot: CHEST
 AC: 10
 INT: +9
 SV FIRE: +8 SV COLD: +8
-WT: 3.5 Size: MEDIUM
+Size: MEDIUM WT: 3.5
 Class: NEC WIZ MAG ENC
 Race: ALLFocus Effect: Spell Haste II
 , Short Sword of the YkeshaShort Sword of the Ykesha
-MAGIC ITEM
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 24
 DMG: 9
-Effect: Ykesha (Combat, Casting Time: Instant) at Level 37
+Effect: Ykesha (Combat) at Level 37
 WT: 4.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
@@ -437,20 +437,20 @@ WT: 5.5 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD BRD ROG SHM
 Race: ALL
 , Silversilk LeggingsSilversilk Leggings
-MAGIC ITEM
+Attunable
 Slot: LEGS
 AC: 4
 AGI: +4 HP: +12
-WT: 0.7 Size: MEDIUM
+Size: MEDIUM WT: 0.7
 Class: CLR DRU BRD SHM NEC WIZ MAG ENC
 Race: ALL
 , Skull-shaped BarbuteSkull-shaped Barbute
-MAGIC ITEM
+Attunable
 Slot: HEAD
 AC: 13
 HP: +35
 SV MAGIC: +10
-WT: 5.0 Size: SMALL
+Size: SMALL WT: 5.0
 Class: WAR CLR PAL SHD BRD
 Race: ALL
 , Thick Banded BeltThick Banded Belt
@@ -458,7 +458,7 @@ Attunable
 Slot: WAIST
 AC: 8
 STR: +15
-WT: 0.5 Size: SMALL
+Size: SMALL WT: 0.5
 Class: ALL
 Race: ALL
 , White Gold NecklaceWhite Gold Necklace
@@ -662,20 +662,20 @@ Race: ALL
 on ground
 2. Waterfall
 3. Room with the ghoul lord who drops Skull-shaped BarbuteSkull-shaped Barbute
-MAGIC ITEM
+Attunable
 Slot: HEAD
 AC: 13
 HP: +35
 SV MAGIC: +10
-WT: 5.0 Size: SMALL
+Size: SMALL WT: 5.0
 Class: WAR CLR PAL SHD BRD
 Race: ALL
 (Common) and Short Sword of the YkeshaShort Sword of the Ykesha
-MAGIC ITEM
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 24
 DMG: 9
-Effect: Ykesha (Combat, Casting Time: Instant) at Level 37
+Effect: Ykesha (Combat) at Level 37
 WT: 4.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
@@ -698,20 +698,20 @@ Class: ALL
 Race: ALLFocus Effect: Summoning Haste I
 (Rare), as well as Wizard Rod on ground
 5. "Archmagi Room" with the ghoul arch magus who drops Silversilk LeggingsSilversilk Leggings
-MAGIC ITEM
+Attunable
 Slot: LEGS
 AC: 4
 AGI: +4 HP: +12
-WT: 0.7 Size: MEDIUM
+Size: MEDIUM WT: 0.7
 Class: CLR DRU BRD SHM NEC WIZ MAG ENC
 Race: ALL
 (Common) and Shining Metallic RobesShining Metallic Robes
-MAGIC ITEM
+Attunable, Quest
 Slot: CHEST
 AC: 10
 INT: +9
 SV FIRE: +8 SV COLD: +8
-WT: 3.5 Size: MEDIUM
+Size: MEDIUM WT: 3.5
 Class: NEC WIZ MAG ENC
 Race: ALLFocus Effect: Spell Haste II
 (Rare)
@@ -778,33 +778,33 @@ Class: CLR DRU BRD SHM NEC WIZ MAG ENC
 Race: ALLFocus Effect: Summoning Efficiency II
 (Rare)
 14. "Store Room" or "SR" or "Ass Sup Room" with a ghoul assassin who drops Guise of the DeceiverGuise of the Deceiver
-MAGIC ITEM NO DROP
+No Trade
 Slot: FACE
 AC: 4
 CHA: +13
 SV MAGIC: +7
 Effect: Illusion: Dark Elf (Any Slot, Casting Time: 6.0)
-WT: 0.4 Size: SMALL
+Size: SMALL WT: 0.4
 Class: BRD ROG
 Race: ALL
 (Common) and Serrated Bone DirkSerrated Bone Dirk
-MAGIC ITEM
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: Piercing Atk Delay: 27
 DMG: 8BACKSTAB: 8
-Effect: Engulfing Darkness (Combat, Casting Time: Instant) at Level 27
+Effect: Engulfing Darkness (Combat) at Level 27
 WT: 2.0 Size: SMALL
 Class: ROG
 Race: ALL
 (Rare) and a ghoul supplier who drops Light Burlap SackLight Burlap Sack
-WT: 3.0 Weight Reduction: 65%
-Capacity: 8 Size Capacity: LARGE
+Size: LARGE WT: 3.0
+Weight Reduction: 65% Capacity: 8 Size Capacity: LARGE
 (Common) and Thick Banded BeltThick Banded Belt
 Attunable
 Slot: WAIST
 AC: 8
 STR: +15
-WT: 0.5 Size: SMALL
+Size: SMALL WT: 0.5
 Class: ALL
 Race: ALL
 (Rare)
@@ -1135,8 +1135,8 @@ Wizard |
 24-28 |
 4x ~(1000, -500) |
 Fine Steel Weapons, Undead Froglok TongueUndead Froglok Tongue
-QUEST ITEM
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -1468,21 +1468,21 @@ Rogue |
 34 |
 20% @ (620, -754) |
 Guise of the DeceiverGuise of the Deceiver
-MAGIC ITEM NO DROP
+No Trade
 Slot: FACE
 AC: 4
 CHA: +13
 SV MAGIC: +7
 Effect: Illusion: Dark Elf (Any Slot, Casting Time: 6.0)
-WT: 0.4 Size: SMALL
+Size: SMALL WT: 0.4
 Class: BRD ROG
 Race: ALL
 , Serrated Bone DirkSerrated Bone Dirk
-MAGIC ITEM
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: Piercing Atk Delay: 27
 DMG: 8BACKSTAB: 8
-Effect: Engulfing Darkness (Combat, Casting Time: Instant) at Level 27
+Effect: Engulfing Darkness (Combat) at Level 27
 WT: 2.0 Size: SMALL
 Class: ROG
 Race: ALL
@@ -1659,12 +1659,12 @@ Attunable
 Slot: WAIST
 AC: 8
 STR: +15
-WT: 0.5 Size: SMALL
+Size: SMALL WT: 0.5
 Class: ALL
 Race: ALL
 , Light Burlap SackLight Burlap Sack
-WT: 3.0 Weight Reduction: 65%
-Capacity: 8 Size Capacity: LARGE
+Size: LARGE WT: 3.0
+Weight Reduction: 65% Capacity: 8 Size Capacity: LARGE
 |
 In the same room as a ghoul assassin 9m 27s respawn. No Placeholder on Legends. |
 A granite gargoyle
@@ -1836,8 +1836,8 @@ Wizard |
 36-40 |
 Various (Dead side) |
 Undead Froglok TongueUndead Froglok Tongue
-QUEST ITEM
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -1849,8 +1849,8 @@ Warrior |
 36-40 |
 |
 Phosphorous PowderPhosphorous Powder
-QUEST ITEM
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 x2 (Always) |
@@ -1926,26 +1926,26 @@ Lore Equipped, No Trade
 Slot: HEAD
 AC: 7
 Charisma: +4
-WT: 0.4 Size: Tiny
+Size: Tiny WT: 0.4
 Class: WAR CLR SHD MNK ROG SHM NEC WIZ MAG ENC BST BER
 Race: ALL
 Dieties: Bertoxxulous, Cazic-Thule, Innoruuk, Rallos Zek, Veeshan
 Worn Effect: Scalp of the Ghoul Lord
 (Uncommon), Skull-shaped BarbuteSkull-shaped Barbute
-MAGIC ITEM
+Attunable
 Slot: HEAD
 AC: 13
 HP: +35
 SV MAGIC: +10
-WT: 5.0 Size: SMALL
+Size: SMALL WT: 5.0
 Class: WAR CLR PAL SHD BRD
 Race: ALL
 , Short Sword of the YkeshaShort Sword of the Ykesha
-MAGIC ITEM
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 24
 DMG: 9
-Effect: Ykesha (Combat, Casting Time: Instant) at Level 37
+Effect: Ykesha (Combat) at Level 37
 WT: 4.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
@@ -1983,20 +1983,20 @@ Wizard |
 45 |
 25% @ (1184, -832) |
 Shining Metallic RobesShining Metallic Robes
-MAGIC ITEM
+Attunable, Quest
 Slot: CHEST
 AC: 10
 INT: +9
 SV FIRE: +8 SV COLD: +8
-WT: 3.5 Size: MEDIUM
+Size: MEDIUM WT: 3.5
 Class: NEC WIZ MAG ENC
 Race: ALLFocus Effect: Spell Haste II
 , Silversilk LeggingsSilversilk Leggings
-MAGIC ITEM
+Attunable
 Slot: LEGS
 AC: 4
 AGI: +4 HP: +12
-WT: 0.7 Size: MEDIUM
+Size: MEDIUM WT: 0.7
 Class: CLR DRU BRD SHM NEC WIZ MAG ENC
 Race: ALL
 |
@@ -2383,12 +2383,12 @@ a greater ice bones |
 (None) |
 QUEST ITEM WT: 0.1 Size: SMALL Class: ALL Race: ALL |
 Light Burlap SackLight Burlap Sack
-WT: 3.0 Weight Reduction: 65%
-Capacity: 8 Size Capacity: LARGE
+Size: LARGE WT: 3.0
+Weight Reduction: 65% Capacity: 8 Size Capacity: LARGE
 |
 a ghoul supplier |
 (None) |
-WT: 3.0 Weight Reduction: 65% Capacity: 8 Size Capacity: LARGE |
+Size: LARGE WT: 3.0 Weight Reduction: 65% Capacity: 8 Size Capacity: LARGE |
 Mask of DeceptionMask of Deception
 MAGIC ITEM LORE ITEM NO DROP
 Slot: FACE
@@ -2619,7 +2619,7 @@ Lore Equipped, No Trade
 Slot: HEAD
 AC: 7
 Charisma: +4
-WT: 0.4 Size: Tiny
+Size: Tiny WT: 0.4
 Class: WAR CLR SHD MNK ROG SHM NEC WIZ MAG ENC BST BER
 Race: ALL
 Dieties: Bertoxxulous, Cazic-Thule, Innoruuk, Rallos Zek, Veeshan
@@ -2627,7 +2627,7 @@ Worn Effect: Scalp of the Ghoul Lord
 |
 the ghoul lord |
 Head |
-AC: 7 Charisma: +4 WT: 0.4 Size: Tiny Class: WAR CLR SHD MNK ROG SHM NEC WIZ MAG ENC BST BER Race: ALL Dieties: Bertoxxulous, Cazic-Thule, Innoruuk, Rallos Zek, Veeshan Worn Effect: Scalp of the Ghoul Lord |
+AC: 7 Charisma: +4 Size: Tiny WT: 0.4 Class: WAR CLR SHD MNK ROG SHM NEC WIZ MAG ENC BST BER Race: ALL Dieties: Bertoxxulous, Cazic-Thule, Innoruuk, Rallos Zek, Veeshan Worn Effect: Scalp of the Ghoul Lord |
 ScepterScepter
 MAGIC ITEM LORE ITEM NO DROP
 WT: 0.1 Size: SMALL
@@ -2650,18 +2650,18 @@ a reanimated hand (Lower Guk) |
 Wrist |
 AC: 1 DEX: +3 AGI: +9 WT: 0.8 Size: SMALL Class: ALL Race: ALL |
 Serrated Bone DirkSerrated Bone Dirk
-MAGIC ITEM
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: Piercing Atk Delay: 27
 DMG: 8BACKSTAB: 8
-Effect: Engulfing Darkness (Combat, Casting Time: Instant) at Level 27
+Effect: Engulfing Darkness (Combat) at Level 27
 WT: 2.0 Size: SMALL
 Class: ROG
 Race: ALL
 |
 a ghoul assassin |
 Piercing |
-Atk Delay: 27 DMG: 8 Effect: Engulfing Darkness (Combat, Casting Time: Instant) at Level 27 WT: 2.0 Size: SMALL Class: ROG Race: ALL |
+Atk Delay: 27 DMG: 8 Effect: Engulfing Darkness (Combat) at Level 27 WT: 2.0 Size: SMALL Class: ROG Race: ALL |
 Shimmering White ShroudShimmering White Shroud
 MAGIC ITEM
 Slot: BACK
@@ -2700,31 +2700,31 @@ Various |
 Legs |
 AC: 10 SV DISEASE: +5 WT: 7.5 Size: LARGE Class: WAR CLR PAL SHD BRD Race: ALL |
 Shining Metallic RobesShining Metallic Robes
-MAGIC ITEM
+Attunable, Quest
 Slot: CHEST
 AC: 10
 INT: +9
 SV FIRE: +8 SV COLD: +8
-WT: 3.5 Size: MEDIUM
+Size: MEDIUM WT: 3.5
 Class: NEC WIZ MAG ENC
 Race: ALLFocus Effect: Spell Haste II
 |
 the ghoul arch magi |
 Chest |
-AC: 10 INT: +9 SV FIRE: +8 SV COLD: +8 WT: 3.5 Size: MEDIUM Class: NEC WIZ MAG ENC Race: ALL |
+AC: 10 INT: +9 SV FIRE: +8 SV COLD: +8 Size: MEDIUM WT: 3.5 Class: NEC WIZ MAG ENC Race: ALL |
 Short Sword of the YkeshaShort Sword of the Ykesha
-MAGIC ITEM
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 24
 DMG: 9
-Effect: Ykesha (Combat, Casting Time: Instant) at Level 37
+Effect: Ykesha (Combat) at Level 37
 WT: 4.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
 the ghoul lord |
 1H Slashing |
-Atk Delay: 24 DMG: 9 Effect: Ykesha (Combat, Casting Time: Instant) at Level 37 WT: 4.5 Size: MEDIUM Class: WAR PAL RNG SHD BRD ROG Race: ALL |
+Atk Delay: 24 DMG: 9 Effect: Ykesha (Combat) at Level 37 WT: 4.5 Size: MEDIUM Class: WAR PAL RNG SHD BRD ROG Race: ALL |
 Silver-Plated LeggingsSilver-Plated Leggings
 Slot: LEGS
 AC: 10
@@ -2737,30 +2737,30 @@ A Froglok Yun Priest |
 Legs |
 AC: 10 STR: +3 AGI: +5 WT: 5.5 Size: MEDIUM Class: WAR CLR PAL RNG SHD BRD ROG SHM Race: ALL |
 Silversilk LeggingsSilversilk Leggings
-MAGIC ITEM
+Attunable
 Slot: LEGS
 AC: 4
 AGI: +4 HP: +12
-WT: 0.7 Size: MEDIUM
+Size: MEDIUM WT: 0.7
 Class: CLR DRU BRD SHM NEC WIZ MAG ENC
 Race: ALL
 |
 the ghoul arch magus |
 Legs |
-AC: 4 AGI: +4 HP: +12 WT: 0.7 Size: MEDIUM Class: CLR DRU BRD SHM NEC WIZ MAG ENC Race: ALL |
+AC: 4 AGI: +4 HP: +12 Size: MEDIUM WT: 0.7 Class: CLR DRU BRD SHM NEC WIZ MAG ENC Race: ALL |
 Skull-shaped BarbuteSkull-shaped Barbute
-MAGIC ITEM
+Attunable
 Slot: HEAD
 AC: 13
 HP: +35
 SV MAGIC: +10
-WT: 5.0 Size: SMALL
+Size: SMALL WT: 5.0
 Class: WAR CLR PAL SHD BRD
 Race: ALL
 |
 the ghoul lord |
 Head |
-AC: 13 HP: +35 SV MAGIC: +10 WT: 5.0 Size: SMALL Class: WAR CLR PAL SHD BRD Race: ALL |
+AC: 13 HP: +35 SV MAGIC: +10 Size: SMALL WT: 5.0 Class: WAR CLR PAL SHD BRD Race: ALL |
 The End of an AgeThe End of an Age
 Size: TINY WT: 0.0
 Class: NONE
@@ -2785,13 +2785,13 @@ Attunable
 Slot: WAIST
 AC: 8
 STR: +15
-WT: 0.5 Size: SMALL
+Size: SMALL WT: 0.5
 Class: ALL
 Race: ALL
 |
 a ghoul supplier |
 Waist |
-AC: 8 STR: +15 WT: 0.5 Size: SMALL Class: ALL Race: ALL |
+AC: 8 STR: +15 Size: SMALL WT: 0.5 Class: ALL Race: ALL |
 Torn Page of Magi`kot pg. 1Torn Page of Magi`kot pg. 1
 LORE ITEM NO DROP
 WT: 0.0 Size: TINY

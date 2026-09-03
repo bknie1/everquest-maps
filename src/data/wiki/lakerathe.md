@@ -1,5 +1,5 @@
 # Lake_Rathetear (eqlwiki.com)
-fetched: 2026-09-01
+fetched: 2026-09-03
 
 Lake Rathetear - EverQuest Legends Wiki
 Jump to content
@@ -433,8 +433,8 @@ WT: 1.0 Size: SMALL
 Class: ALL
 Race: ALL
 , Undead Froglok TongueUndead Froglok Tongue
-QUEST ITEM
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Froglok BloodFroglok Blood

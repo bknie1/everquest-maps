@@ -1,5 +1,5 @@
 # Permafrost_Keep (eqlwiki.com)
-fetched: 2026-09-02
+fetched: 2026-09-03
 
 Permafrost - EverQuest Legends Wiki
 Jump to content
@@ -1508,9 +1508,8 @@ WT: 0.1 Size: SMALL
 Class: WAR PAL RNG SHD MNK BRD ROG BST BER
 Race: ALL
 , Kavruul`s Mystic PouchKavruul`s Mystic Pouch
-MAGIC ITEM LORE ITEM
-WT: 0.4 Weight Reduction: 100%
-Capacity: 10 Size Capacity: GIANT
+Size: SMALL WT: 0.4
+Weight Reduction: 100% Capacity: 10 Size Capacity: GIANT
 , McVaxius` Horn of WarMcVaxius` Horn of War
 MAGIC ITEM LORE ITEM
 Slot: PRIMARY SECONDARY

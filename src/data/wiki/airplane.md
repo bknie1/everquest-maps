@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-09-02
+fetched: 2026-09-03
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -363,6 +363,7 @@ Key required: Veeshan's Key
 This small island is home to the Hand of Veeshan and Eye of Veeshan. The Hand is only spawned by killing the Overseer of Air way back on island 4. He can easily be singled out from the Eye by engaging him on the northern(behind the house) end of the island. The Eye is social with him, but neither see invis, so you can pick your engagement spot and wait for the Hand to come to you.
 Eye of Veeshan is the very last boss. The fight is pretty straightforward tank and spank, but the Eye can be difficult to land a slow on if you haven't mote-upgraded your spells. She spams lifetaps, which can make for occasionally unpredictable spikes of damage, so don't get comfortable letting your HP get too low. When engaged in a solo instance at diff 0, she has 32000 HP.
 Plane of Sky Class Quests
+Main article: Plane of Sky Tests
 These are the various class quests, and in general, completing all of these quests will unlock the respective class as a Primary Class option in your loadouts. The EQ Legends team simplified these quests a bit from Classic to need various wind runes and one or two specific items. The wind runes drop from all mobs in the Plane of Sky, and many players simply farm the trash mobs on one of the early islands.
 Quest Givers
 After entering the Plane of Sky, you can access the Efreeti Chamber with all of the quest givers and a banker.
@@ -6227,12 +6228,12 @@ Race: ALL
 Protector of Sky |
 (None) |
 LORE ITEM WT: 6.0 Size: MEDIUM Class: ALL Race: ALL |
-Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Sky&oldid=175973"
+Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Sky&oldid=176167"
 Categories: Classic Era
 Zones
 How to Contribute
 Donate
-This page was last edited on 2 September 2026, at 13:18.
+This page was last edited on 3 September 2026, at 04:31.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers
