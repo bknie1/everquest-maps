@@ -700,3 +700,62 @@ def rock_shade(points, seed=0, light=(-1.0, -1.0), density=1.0):
             out.append((cx + r * f0 * _m.cos(aa), cy + r * f0 * _m.sin(aa),
                         cx + r * f1 * _m.cos(aa), cy + r * f1 * _m.sin(aa), ink))
     return out
+
+
+def face_monolith(cx, cy, h, seed=0):
+    """The carved standing stone on Dagnor's Cauldron's middle island.
+
+    From Brandon's shot: a slab with a rounded top, set on the hillside, with a
+    face cut into it -- heavy brows, two eyes, a nose and a mouth. At map scale
+    the face is the whole point, so the slab is plain and the carving is drawn
+    in a paler ink to stand off it.
+    """
+    rng = random.Random(seed)
+    STONE = (128, 124, 118)
+    EDGE = (78, 74, 70)
+    CARVE = (176, 172, 164)
+    w = h * 0.62
+    out = []
+    def L(x1, y1, x2, y2, c):
+        out.append((x1, y1, x2, y2, c))
+
+    # slab: straight sides, rounded shoulders
+    bx0, bx1 = cx - w / 2, cx + w / 2
+    by, ty = cy, cy - h
+    L(bx0, by, bx0, ty + h * 0.22, EDGE)
+    L(bx1, by, bx1, ty + h * 0.22, EDGE)
+    L(bx0, by, bx1, by, EDGE)
+    n = 7
+    for k in range(n):
+        a0 = math.pi * k / n
+        a1 = math.pi * (k + 1) / n
+        L(cx - (w / 2) * math.cos(a0), ty + h * 0.22 - (h * 0.22) * math.sin(a0),
+          cx - (w / 2) * math.cos(a1), ty + h * 0.22 - (h * 0.22) * math.sin(a1), EDGE)
+    # a little interior tone so the slab is not an empty outline
+    # tone lines, but never across the face -- they muddle the carving
+    face_top, face_bot = ty + h * 0.24, ty + h * 0.66
+    y = by - h * 0.06
+    while y > ty + h * 0.10:
+        if not (face_top < y < face_bot):
+            L(bx0 + w * 0.10, y, bx1 - w * 0.10, y, STONE)
+        y -= h * 0.13
+    # the face: brows, two eyes, nose, mouth
+    ey = ty + h * 0.34
+    for sgn in (-1, 1):
+        ex = cx + sgn * w * 0.19
+        L(ex - w * 0.13, ey - h * 0.07, ex + w * 0.13, ey - h * 0.05, CARVE)   # brow
+        m = 6
+        for k in range(m):                                                     # eye
+            a0 = math.pi * k / m
+            a1 = math.pi * (k + 1) / m
+            L(ex + w * 0.11 * math.cos(a0), ey - h * 0.035 * math.sin(a0),
+              ex + w * 0.11 * math.cos(a1), ey - h * 0.035 * math.sin(a1), CARVE)
+            L(ex + w * 0.11 * math.cos(a0), ey + h * 0.035 * math.sin(a0),
+              ex + w * 0.11 * math.cos(a1), ey + h * 0.035 * math.sin(a1), CARVE)
+    L(cx, ey + h * 0.03, cx, ey + h * 0.15, CARVE)                             # nose
+    L(cx, ey + h * 0.15, cx + w * 0.07, ey + h * 0.15, CARVE)
+    mo = ey + h * 0.26
+    L(cx - w * 0.20, mo, cx + w * 0.20, mo, CARVE)                             # mouth
+    L(cx - w * 0.20, mo, cx - w * 0.14, mo + h * 0.05, CARVE)
+    L(cx + w * 0.20, mo, cx + w * 0.14, mo + h * 0.05, CARVE)
+    return out
