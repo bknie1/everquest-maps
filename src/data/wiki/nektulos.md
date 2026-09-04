@@ -1,5 +1,5 @@
 # Nektulos_Forest (eqlwiki.com)
-fetched: 2026-09-02
+fetched: 2026-09-04
 
 Nektulos Forest - EverQuest Legends Wiki
 Jump to content
@@ -1146,8 +1146,8 @@ Druid |
 13 |
 30% @ (-929, 1238) |
 Halfling Druid Master's HeadHalfling Druid Master's Head
-LORE ITEM NO DROP
-WT: 0.7 Size: SMALL
+No Trade, Quest
+Size: SMALL WT: 0.7
 Class: NONE
 Race: NONE
 |
@@ -1343,14 +1343,14 @@ Various |
 (None) |
 WT: 0.1 Size: TINY |
 Halfling Druid Master's HeadHalfling Druid Master's Head
-LORE ITEM NO DROP
-WT: 0.7 Size: SMALL
+No Trade, Quest
+Size: SMALL WT: 0.7
 Class: NONE
 Race: NONE
 |
 Master Whoopal |
 (None) |
-LORE ITEM NO DROP WT: 0.7 Size: SMALL Class: NONE Race: NONE |
+No Trade, Quest Size: SMALL WT: 0.7 Class: NONE Race: NONE |
 Halfling ToeHalfling Toe
 MAGIC ITEM NO DROP
 WT: 0.1 Size: TINY

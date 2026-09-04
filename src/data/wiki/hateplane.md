@@ -1,5 +1,5 @@
 # Plane_of_Hate (eqlwiki.com)
-fetched: 2026-09-02
+fetched: 2026-09-04
 
 Plane of Hate - EverQuest Legends Wiki
 Jump to content
@@ -1216,7 +1216,7 @@ Innoruuk (God)
 Innoruuk |
 Warrior (Wizard) |
 60 |
-Wanders Upstairs |
+230, 10, 150 |
 Various |
 Innoruuk ("Inny") is the God of Hate. He spawns on the second floor of the Plane of Hate.
 Plane of Hate ove... |

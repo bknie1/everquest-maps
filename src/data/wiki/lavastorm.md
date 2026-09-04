@@ -1,5 +1,5 @@
 # Lavastorm_Mountains (eqlwiki.com)
-fetched: 2026-09-03
+fetched: 2026-09-04
 
 Lavastorm Mountains - EverQuest Legends Wiki
 Jump to content
@@ -477,7 +477,7 @@ Sir Lindeal
 Human |
 Paladin |
 8 |
-100% @ (1507, 924) |
+|
 Testimony |
 Human Paladin, on Knights of Thunder faction.
 He always drops his testimony.

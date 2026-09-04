@@ -1,5 +1,5 @@
 # Splitpaw_Lair (eqlwiki.com)
-fetched: 2026-08-30
+fetched: 2026-09-04
 
 Splitpaw Lair - EverQuest Legends Wiki
 Jump to content
@@ -406,7 +406,8 @@ WT: 1.8 Size: MEDIUM
 Class: NEC WIZ MAG ENC
 Race: ALLFocus Effect: Reanimation Efficiency III
 (Rare).
-(1150, -180 ) Small safe room located directly north of number four. Stay out of the doorway.
+A. Small corner with a one-eyed gnoll
+B. Room with A Lteth Val Scribe
 |
 Dangers
 This is a dungeon for middle level characters, and the difficulty of the dungeon scales relatively slowly from the entrance to the deeper parts of the dungeon. The front entrance has gnolls of around 25th and slightly higher level, and as you move further in, you will encounter gnolls that are much more powerful.
@@ -487,15 +488,15 @@ A Lteth Val Scribe
 |
 Gnoll |
 Enchanter |
-30 |
+39 |
 50% @ (374, -26) |
 Journal of Greater EnchantmentJournal of Greater Enchantment
-MAGIC ITEM LORE ITEM NO DROP
+No Trade, Quest
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 |
-A named gnoll that was found in the back of a passage after dropping off the first rock bridge and heading east into the... |
+A named gnoll found in Splitpaw Lair ("B" on the map). 3 minute spawn time. |
 A Nisch Mas Gnoll
 |
 Gnoll |
@@ -647,14 +648,14 @@ Rogue |
 Various |
 The hiding gnolls can be found in the water cavern of Splitpaw Lair.
 Although they give a negative faction hit ... |
-A one eyed gnoll
+A one-eyed gnoll
 |
 Gnoll |
 Warrior |
-35 |
+39 |
 50% @ (602, -12) |
 Gnoll's EyeGnoll's Eye
-MAGIC ITEM LORE ITEM NO DROP
+No Trade, Quest
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
@@ -667,7 +668,7 @@ WT: 2.0 Size: TINY
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 |
-This one eyed gnoll can be found in a cave in Splitpaw Lair by himself. As of 05/25/21, he doesn't always drop the eye. |
+This one-eyed gnoll can be found in a cave in Splitpaw Lair by himself ("A" on the map.) 3 minute spawn time. |
 An Ishva Lteth gnoll
 |
 Gnoll |
@@ -941,14 +942,14 @@ Nisch Val Torash Mashk |
 Secondary |
 AC: 15 STA: +5 DEX: +5 SV POISON: +7 WT: 7.0 Size: MEDIUM Class: WAR CLR PAL RNG SHD DRU BRD SHM Race: ALL |
 Gnoll's EyeGnoll's Eye
-MAGIC ITEM LORE ITEM NO DROP
+No Trade, Quest
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 |
-a one eyed gnoll |
+a one-eyed gnoll |
 (None) |
-MAGIC ITEM LORE ITEM NO DROP WT: 0.1 Size: TINY Class: ALL Race: ALL |
+No Trade, Quest WT: 0.1 Size: TINY Class: ALL Race: ALL |
 Ishva Mas LeggingsIshva Mas Leggings
 Attunable Lore Equipped
 Slot: LEGS
@@ -963,14 +964,14 @@ Ishva Mas Apprentice |
 Legs |
 AC: 5 INT: +5 CHA: +5 SV POISON: +7 SV FIRE: +7 WT: 0.7 Size:SMALL Class: NEC WIZ MAG ENC Race: ALL |
 Journal of Greater EnchantmentJournal of Greater Enchantment
-MAGIC ITEM LORE ITEM NO DROP
+No Trade, Quest
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 |
 a Lteth Val Scribe |
 (None) |
-MAGIC ITEM LORE ITEM NO DROP WT: 0.1 Size: TINY Class: ALL Race: ALL |
+No Trade, Quest WT: 0.1 Size: TINY Class: ALL Race: ALL |
 Kicsh Der PavzKicsh Der Pavz
 MAGIC ITEM LORE ITEM
 Slot: PRIMARY SECONDARY
@@ -1058,7 +1059,7 @@ WT: 2.0 Size: TINY
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 |
-Verishe Mal Executioner, A one eyed gnoll |
+Verishe Mal Executioner, A one-eyed gnoll |
 Hands |
 AC: 4 DEX: +3 WIS: +2 WT: 2.0 Size: TINY Class: ALL except NEC WIZ MAG ENC Race: ALL |
 Split Paw Hide MaskSplit Paw Hide Mask
@@ -1211,13 +1212,13 @@ Race: ALL
 Various |
 (None) |
 WT: 0.1 Size: TINY Class: ALL Race: ALL |
-Retrieved from "https://eqlwiki.com/index.php?title=Splitpaw_Lair&oldid=170266"
+Retrieved from "https://eqlwiki.com/index.php?title=Splitpaw_Lair&oldid=176287"
 Categories: Classic Era
 Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 16 August 2026, at 19:28.
+This page was last edited on 3 September 2026, at 21:05.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

@@ -1,5 +1,5 @@
 # Neriak_Commons (eqlwiki.com)
-fetched: 2026-08-31
+fetched: 2026-09-04
 
 Neriak - EverQuest Legends Wiki
 Jump to content
@@ -2042,11 +2042,11 @@ Class: CLR SHM
 Race: ALL
 Deity: Innoruuk
 , (Skinned Halfling Face MaskSkinned Halfling Face Mask
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade
 Slot: FACE
 Charges: 1
-Effect: Illusion: Halfling (Must Equip, Casting Time: Instant)
-WT: 0.0 Size: SMALL
+Effect: Illusion: Halfling (Clicky, Can Equip, Casting Time: Instant)
+Size: SMALL WT: 0.0
 Class: CLR SHM
 Race: ALL
 ), Regent Symbol of InnoruukRegent Symbol of Innoruuk

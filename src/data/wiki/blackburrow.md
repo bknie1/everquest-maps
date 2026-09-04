@@ -1,5 +1,5 @@
 # Blackburrow (eqlwiki.com)
-fetched: 2026-09-01
+fetched: 2026-09-04
 
 Blackburrow - EverQuest Legends Wiki
 Jump to content
@@ -433,7 +433,7 @@ Shadow Knight |
 22 |
 @ (160, -385) |
 Baby Joseph SayerBaby Joseph Sayer
-LORE ITEM NO DROP
+No Trade, Quest
 WT: 0.5 Size: SMALL
 Class: ALL
 Race: ALL
@@ -733,14 +733,14 @@ The gnoll high shaman |
 Neck |
 CHA: +3 WT: 0.2 Size: TINY Class: ALL Race: ALL |
 Baby Joseph SayerBaby Joseph Sayer
-LORE ITEM NO DROP
+No Trade, Quest
 WT: 0.5 Size: SMALL
 Class: ALL
 Race: ALL
 |
 Lord Elgnub |
 (None) |
-LORE ITEM NO DROP WT: 0.5 Size: SMALL Class: ALL Race: ALL |
+No Trade, Quest WT: 0.5 Size: SMALL Class: ALL Race: ALL |
 Bark Splinted ShoulderpadsBark Splinted Shoulderpads
 Slot: SHOULDERS
 AC: 10

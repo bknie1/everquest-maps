@@ -1,5 +1,5 @@
 # Estate_of_Unrest (eqlwiki.com)
-fetched: 2026-09-02
+fetched: 2026-09-04
 
 The Estate of Unrest - EverQuest Legends Wiki
 Jump to content
@@ -342,7 +342,24 @@ Small Stone Key drops from a reanimated hand (unlocks magus room) Polished Brass
 |
 Map
 Estate of Unrest
-1. Underground cave with a gnomish spelunker
+1. Underground cave with a gnomish spelunker who drops Repurposed PickaxeRepurposed Pickaxe
+Attunable
+Slot: PRIMARY
+Skill: 1H Piercing
+DMG: 15
+Atk Delay: 50
+WT: 14.7 Size: LARGE
+Class: WAR PAL RNG SHD BRD BST BER
+Race: ALL
+(Common) Spelunker's HeadlampSpelunker's Headlamp
+Attunable
+Slot: HEAD
+AC: 10
+STA: 5
+WT: 5.5 Size: SMALL
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+(Rare)
 2. The Gazebo
 A. Back Room area with the nearby rare spawn lesser blade fiend who drops GladiusGladius
 Attunable, Placeable
@@ -362,9 +379,17 @@ Effect: Rising Dexterity (Combat) at Level 15
 Size: SMALL WT: 2.5
 Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
 Race: ALL
-(Rare)
+(Common)
 B. To Basement.
 C. Main Room or MR, and stairs to second floor.
+East of the main room there is Torklar Battlemaster (Rare) who drops Torklar's Battle HammerTorklar's Battle Hammer
+MAGIC ITEM LORE ITEM NO DROP
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt Atk Delay: 28
+DMG: 6
+WT: 5.0 Size: MEDIUM
+Class: ALL except SHD NEC WIZ MAG ENC
+Race: ALL
 The lettered stairs lead to each other.
 |
 Unrest Manor
@@ -385,7 +410,7 @@ WT: 0.4 Size: SMALL
 Class: NEC WIZ MAG ENC
 Race: ALLFocus Effect: Summoning Efficiency I
 (Rare)
-2. Barroom where spawns: an undead barkeep who drops Opalline EarringOpalline Earring
+2. Barroom where an undead barkeep who drops Opalline EarringOpalline Earring
 Attunable
 Slot: EAR
 AC: 2
@@ -401,7 +426,24 @@ Haste: 15%
 Size: SMALL WT: 1.0
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST BER
 Race: ALL
-(Rare), and Zombie of Unrest Noble
+(Rare) spawns as well as a a zombie of an Unrest noble who drops Cursed BladeCursed Blade
+Attunable, Lore Equipped
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing
+DMG: 12 Atk Delay: 36
+DMG Bonus: 17
+DEX: 10 STA: -5 END: 5
+WT: 5.0 Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+and Dark Plate LeggingsDark Plate Leggings
+Attunable
+Slot: LEGS
+AC: 13
+STR: 2 STA: 5
+Size: MEDIUM WT: 9.4
+Class: WAR PAL SHD
+Race: ALL
 3. Room with a reanimated hand which drops Ivory BraceletIvory Bracelet
 MAGIC ITEM
 Slot: WRIST
@@ -409,7 +451,41 @@ AGI: +3 MANA: +20
 WT: 0.2 Size: TINY
 Class: ALL
 Race: ALLFocus Effect: Reanimation Haste I
-4. Tower that spawns a priest of najena who drops Tarnished Bronze Key
+, Brittle StaffBrittle Staff
+Attunable
+Slot: PRIMARY
+Skill: 2H Blunt
+DMG: 12
+Atk Delay: 42
+DEX: -13 INT: 7
+Size: MEDIUM WT: 3.5
+Class: NEC WIZ MAG ENC
+Race: ALL
+, and Rhodium BandRhodium Band
+Attunable, Quest
+Slot: FINGER
+HP: 27
+SV Magic: -4
+Size: TINY WT: 0.1
+Class: ALL
+Race: ALL
+4. Tower that spawns a priest of najena who drops Tarnished Bronze Key, Ancient Spurned FerraioloAncient Spurned Ferraiolo
+Attunable, Lore Equipped, Quest
+Slot: CHEST
+AC: 8
+CHA: -5 WIS: 3 HP: 20
+SV Disease: 10 SV Poison: 10
+WT: 3.5 Size: MEDIUM
+Class: CLR PAL DRU SHM
+Race: ALL
+, and Ancient Spurned WaistcoatAncient Spurned Waistcoat
+Lore Equipped, Attuneable, Quest
+Slot: LEGS
+AC: 5
+STA: 3 CHA: -5 WIS: 3 MANA: 10
+WT: 2.0 Size: MEDIUM
+Class: CLR PAL DRU SHM
+Race: ALLFocus Effect: Improved Healing I
 5. Tower Room
 6. "Tower" with an undead knight of Unrest who drops Bloodstained MantleBloodstained Mantle
 Attunable
@@ -458,6 +534,39 @@ Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , and Dark Terrors
 A. Fireplace or FP, and stairs to first and second floors.
+Note: On the second floor west of the stairs notated C in one of the closets is Khrix Fritchoff who drops Scaredy CapScaredy Cap
+Attunable
+Slot: HEAD
+AC: 2
+MANA: 30
+WT: 0.3 Size: SMALL
+Class: NEC WIZ ENC
+Race: ALLFocus Effect: See Invisible
+and Shawl of Less-Than InvisibilityShawl of Less-Than Invisibility
+Attunable
+Slot: SHOULDERS
+AC: 4
+STA: 4 CHA: -10 INT: 4
+WT: 0.3 Size: SMALL
+Class: NEC WIZ MAG ENC
+Race: ALL
+As part of The Summoning of Dread quest, Khrix will summon Khrix Abomination who drops Rotted ChestwrapsRotted Chestwraps
+Attunable
+Slot: CHEST
+AC: 13
+STR: 1 DEX: 4 STA: 3 CHA: -25 AGI: 3
+SV Fire: 3 SV Disease: -15 SV Cold: 3 SV Magic: -6 SV Poison: -15
+WT: 0.3 Size: MEDIUM
+Class: MNK BST
+Race: ALL
+and Fistwraps of Raw FleshFistwraps of Raw Flesh
+Slot: PRIMARY
+Skill: Hand to Hand Atk Delay: 40
+DMG: 17
+WT: 2.0 Size: MEDIUM
+END: +35
+Class: MNK
+Race: ALL
 |
 Dangers
 Unrest is a small outdoor estate occupied from top to bottom with undead. The principal areas of note in the estate are the manorhouse, the yard, and the maze. The manorhouse has five levels, including the basement.
@@ -1992,13 +2101,13 @@ Race: ALL
 a werebat |
 (None) |
 No Trade, Quest Size: SMALL WT: 0.0 Class: ALL Race: ALL |
-Retrieved from "https://eqlwiki.com/index.php?title=The_Estate_of_Unrest&oldid=175905"
+Retrieved from "https://eqlwiki.com/index.php?title=The_Estate_of_Unrest&oldid=176272"
 Categories: Classic Era
 Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 2 September 2026, at 11:13.
+This page was last edited on 3 September 2026, at 19:44.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

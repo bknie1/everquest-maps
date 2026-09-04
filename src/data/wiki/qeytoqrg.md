@@ -1,5 +1,5 @@
 # Qeynos_Hills (eqlwiki.com)
-fetched: 2026-09-03
+fetched: 2026-09-04
 
 Qeynos Hills - EverQuest Legends Wiki
 Jump to content
@@ -221,7 +221,7 @@ Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 Bane Dmg: Gnoll 5
 , Gnoll Slayer (final)Gnoll Slayer (final)
-MAGIC ITEM LORE ITEM NO DROP
+Lore, No Trade
 Slot: PRIMARY SECONDARY
 Charges: 2
 Skill: 1H Slashing Atk Delay: 40
@@ -237,7 +237,7 @@ Marton Sayer |
 30 |
 Bard, Paladin, Ranger, Rogue, Shadow Knight, Warrior |
 Blackburrow, Splitpaw Lair |
-Lord Elgnub, a Lteth Val Scribe, a one eyed gnoll |
+Lord Elgnub, a Lteth Val Scribe, a one-eyed gnoll |
 Wolf Hide Armor
 |
 Wolf-hide BeltWolf-hide Belt

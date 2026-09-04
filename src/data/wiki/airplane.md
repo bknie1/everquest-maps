@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-09-03
+fetched: 2026-09-04
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -2752,7 +2752,7 @@ Enchanter |
 54 |
 Island 7 |
 Crown of Elemental MasteryCrown of Elemental Mastery
-MAGIC ITEM LORE ITEM
+Lore Equipped, No Trade, Quest
 Slot: HEAD
 AC: 5
 INT: +5
@@ -4083,7 +4083,7 @@ a thunder spirit |
 (None) |
 LORE ITEM WT: 0.1 Size: SMALL Class: ALL Race: ALL |
 Crown of Elemental MasteryCrown of Elemental Mastery
-MAGIC ITEM LORE ITEM
+Lore Equipped, No Trade, Quest
 Slot: HEAD
 AC: 5
 INT: +5
