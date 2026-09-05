@@ -1,6 +1,6 @@
-P 183.8881, 1549.1428, -48.7701,  150, 0, 200,  3,  to_Toxxulia_Forest
-P 277.5882, 644.6471, 64.5946,  150, 0, 200,  3,  to_Erudin_Docks_(in_zone)
-P 7.0634, 328.6423, 27.1259,  150, 0, 200,  3,  to_Erudin_City_(in_zone)
-P 183.3911, 644.8334, 69.3446,  150, 0, 200,  3,  to_Erudin_Palace
-P 335.6836, -50.1157, 19.6363,  150, 0, 200,  3,  to_Erud's_Crossing_(ferry_to_ship)
-P 353.9587, -106.5309, 21.5227,  150, 0, 200,  3,  to_Erud's_Crossing_(translocator)
+P 183.8881, 1549.1428, -48.7701, 150, 0, 200, 3, to_Toxxulia_Forest
+P 277.5882, 644.6471, 64.5946, 150, 0, 200, 3, to_Erudin_Docks_(in_zone)
+P 7.0634, 328.6423, 27.1259, 150, 0, 200, 3, to_Erudin_City_(in_zone)
+P 183.3911, 689.8334, 69.3446, 150, 0, 200, 3, to_Erudin_Palace
+P 335.6836, -50.1157, 19.6363, 150, 0, 200, 3, to_Erud's_Crossing_(ferry_to_ship)
+P 353.9587, -106.5309, 21.5227, 150, 0, 200, 3, to_Erud's_Crossing_(translocator)
