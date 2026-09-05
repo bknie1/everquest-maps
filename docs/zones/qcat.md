@@ -12,3 +12,5 @@
 ## Notes
 
 2026-09: stately dark caps, string upgraded to QEYNOS CATACOMBS (frame-wide). Ghost 'CATACOMBS' text below band removed; brick rows preserved.
+
+2026-09 follow-up: title reseated +25u lower at 0.92 scale so it clears the dense brick band (rows y -1250..-1150); title bbox now y[-1138,-1052]. The scattered brick dashes are the left/right margin columns, not under the title.
