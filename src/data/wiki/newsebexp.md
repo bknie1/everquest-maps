@@ -1,4 +1,4 @@
-# Permafrost_Keep (eqlwiki.com)
+# New_Sebilis (eqlwiki.com)
 fetched: 2026-09-05
 
 One moment, please...
