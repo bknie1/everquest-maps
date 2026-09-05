@@ -1,12 +1,14 @@
 # qcat
 
 **Title:** QEYNOS CATACOMBS (16 chars)
-**Title style:** stylized
-**Title band strokes:** 442 (letter-like 365)
-**Title bbox:** x[-527,835] y[-1250,-1094]
-**Title inks:** (72, 62, 54) x335 (lum 64), (58, 74, 42) x30 (lum 66)
-**Frame:** x[-574,882] (width 1456)
+**Title style:** stately (dark)
+**Title bbox:** x[-534,835] y[-1250,-1083] (h 167)
+**Title inks:** (72, 62, 54) x387, (74, 66, 58) x83, (44, 40, 36) x68
+**Frame width:** 1456
+**Layers:** _1=0, _2=3163, base=2967
+**Total strokes:** 6130 (budget 31000) | POIs 14 | dupes 0 | inks 21
+**eqqms:** overall A (format A, budget A, title A, dupes A, palette A)
 
 ## Notes
 
-(none yet)
+2026-09: stately dark caps, string upgraded to QEYNOS CATACOMBS (frame-wide). Ghost 'CATACOMBS' text below band removed; brick rows preserved.

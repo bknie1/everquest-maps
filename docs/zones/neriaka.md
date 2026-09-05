@@ -1,12 +1,14 @@
 # neriaka
 
 **Title:** NERIAK FOREIGN QUARTER (22 chars)
-**Title style:** plain caps
-**Title band strokes:** 284 (letter-like 262)
-**Title bbox:** x[-464,782] y[-546,-286]
-**Title inks:** (108, 96, 128) x191 (lum 103), (44, 34, 58) x71 (lum 40)
-**Frame:** x[-373,691] (width 1065)
+**Title style:** darkelf
+**Title bbox:** x[-464,782] y[-546,-286] (h 260)
+**Title inks:** (108, 96, 128) x191, (70, 46, 96) x63, (112, 72, 152) x63
+**Frame width:** 1065
+**Layers:** _1=0, _2=2031, _3=0, base=4848
+**Total strokes:** 6879 (budget 31000) | POIs 35 | dupes 40 | inks 18
+**eqqms:** overall C (format A, budget A, title C, dupes A, palette A)
 
 ## Notes
 
-(none yet)
+2026-09: darkelf condensed spike caps. Hatch band + corner braids preserved.

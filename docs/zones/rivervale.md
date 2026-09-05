@@ -1,12 +1,14 @@
 # rivervale
 
 **Title:** RIVERVALE (9 chars)
-**Title style:** stylized
-**Title band strokes:** 2513 (letter-like 34)
-**Title bbox:** x[-459,1048] y[-727,-478]
-**Title inks:** (56, 74, 44) x32 (lum 65), (120, 140, 80) x2 (lum 127)
-**Frame:** x[-243,832] (width 1075)
+**Title style:** rounded
+**Title bbox:** x[-506,1078] y[-930,-478] (h 452)
+**Title inks:** (56, 74, 44) x190, (122, 82, 42) x141, (180, 148, 96) x47, (78, 96, 58) x18
+**Frame width:** 1075
+**Layers:** _1=0, _2=15909, _3=30, base=1280
+**Total strokes:** 17219 (budget 31000) | POIs 47 | dupes 20 | inks 31
+**eqqms:** overall C (format A, budget A, title C, dupes A, palette A)
 
 ## Notes
 
-(none yet)
+2026-09: rounded halfling caps w/ full-stop dot; rock/leaf ring knocked out only under lettering.

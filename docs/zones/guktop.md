@@ -1,11 +1,12 @@
 # guktop
 
 **Title:** UPPER GUK (9 chars)
-**Title style:** stylized
-**Title band strokes:** 1504 (letter-like 1236)
-**Title bbox:** x[-1094,1192] y[-2284,-1751]
-**Title inks:** (66, 76, 58) x484 (lum 71), (88, 98, 78) x351 (lum 93), (60, 102, 72) x176 (lum 86)
-**Frame:** x[-996,1094] (width 2090)
+**Title bbox:** x[-1094,1192] y[-2284,-1751] (h 533)
+**Title inks:** (66, 76, 58) x557, (88, 98, 78) x400, (60, 102, 72) x180, (70, 90, 60) x96
+**Frame width:** 2090
+**Layers:** _1=0, _2=7249, base=22977
+**Total strokes:** 30226 (budget 31000) | POIs 19 | dupes 104 | inks 15
+**eqqms:** overall C (format A, budget A, title C, dupes A, palette A)
 
 ## Notes
 

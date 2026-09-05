@@ -1,11 +1,12 @@
 # nektulos
 
 **Title:** NEKTULOS FOREST (15 chars)
-**Title style:** stylized
-**Title band strokes:** 133 (letter-like 133)
-**Title bbox:** x[-2037,1820] y[-3803,-3323]
-**Title inks:** (34, 58, 38) x72 (lum 49), (45, 38, 55) x43 (lum 42), (120, 115, 125) x12 (lum 118)
-**Frame:** x[-2382,2166] (width 4548)
+**Title bbox:** x[-2037,1820] y[-3803,-3323] (h 481)
+**Title inks:** (34, 58, 38) x72, (45, 38, 55) x43, (120, 115, 125) x12, (90, 70, 110) x6
+**Frame width:** 4548
+**Layers:** _1=0, _2=31351, _3=27, base=2003
+**Total strokes:** 33381 (budget 31000) | POIs 45 | dupes 0 | inks 59
+**eqqms:** overall B (format A, budget B, title A, dupes A, palette A)
 
 ## Notes
 

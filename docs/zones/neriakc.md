@@ -1,12 +1,14 @@
 # neriakc
 
 **Title:** NERIAK THIRD GATE (17 chars)
-**Title style:** plain caps
-**Title band strokes:** 253 (letter-like 253)
-**Title bbox:** x[292,2201] y[-1779,-1444]
-**Title inks:** (108, 96, 128) x193 (lum 103), (44, 34, 58) x60 (lum 40)
-**Frame:** x[417,2076] (width 1659)
+**Title style:** darkelf
+**Title bbox:** x[292,2201] y[-1779,-1444] (h 336)
+**Title inks:** (108, 96, 128) x193, (70, 46, 96) x58, (112, 72, 152) x58
+**Frame width:** 1659
+**Layers:** _1=0, _2=3117, _3=0, base=10978
+**Total strokes:** 14095 (budget 31000) | POIs 38 | dupes 0 | inks 24
+**eqqms:** overall C (format A, budget A, title C, dupes A, palette A)
 
 ## Notes
 
-(none yet)
+2026-09: darkelf spike caps.

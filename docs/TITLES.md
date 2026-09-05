@@ -66,15 +66,27 @@ extrusion/shadow/flourish. The zone .md files mark these as
 one only when you have a themed design or a historical original, never with a
 different generic.
 
-## Priority queue for the branch
+## Status (2026-09-05): the city slate is DONE
 
-1. **freporte / freportn / freportw** — recover & adapt the 871c51a beta
-   EAST/WEST FREEPORT lettering (see `docs/zones/freporte.md`).
-2. Zones marked `pale-caps (DEPRECATED family)` in `docs/zones/` that are
-   hero zones (city hubs, iconic dungeons) before wilderness.
-3. Zones whose .md says `plain caps` and whose theme suggests an obvious
-   material (ice for Everfrost/Permafrost, lava for Lavastorm, vines for
-   Faydark…).
+The lettering engine lives in `src/titles/` — `glyphs.py` (complete A-Z
+skeleton with a selftest so no glyph ever ships broken again), `styles.py`
+(the racial families), `apply_title.py` (band swap with per-zone removal
+configs). 20 city maps done in one pass: the Freeport trio + sewers
+(extruded two-tier, fresh design in the beta's spirit), Qeynos pair + qcat
+(stately), Erudin pair (refined), Halas (runic), Grobb/Oggok (crude),
+Neriak trio (darkelf), Felwithe pair (highelf), Rivervale (rounded),
+Ak'Anon (clockwork), Surefall (sylvan). `src/tools/eqqms.py` measures the
+pack and refreshes `docs/zones/*.md`.
+
+## Remaining queue
+
+1. Wilderness/dungeon zones whose .md says `plain caps` and whose theme
+   suggests an obvious material (ice for Everfrost/Permafrost, lava for
+   Lavastorm, vines for Faydark, coral for OOT/Erud's Crossing…) — add a
+   family to `styles.py`, add a ZONES config to `apply_title.py`, dry-run,
+   render, apply.
+2. eqqms `title-clipped` flags: mostly band decor beyond the frame line
+   (noise), but audit the dungeon ones (soldungb, gukbottom, newsebexp).
 
 Locked zones (never touch): **unrest**, **eastkarana**. Exemplars to study
 before drawing anything: unrest, soldungb, najena, kaladima/b, paineel.

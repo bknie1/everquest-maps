@@ -1,11 +1,12 @@
 # kaladimb
 
 **Title:** NORTH KALADIM (13 chars)
-**Title style:** stylized
-**Title band strokes:** 1723 (letter-like 275)
-**Title bbox:** x[-590,423] y[-1782,-1504]
-**Title inks:** (62, 104, 56) x229 (lum 86), (96, 70, 44) x46 (lum 75)
-**Frame:** x[-654,507] (width 1161)
+**Title bbox:** x[-590,436] y[-1782,-1501] (h 281)
+**Title inks:** (62, 104, 56) x486, (96, 70, 44) x46
+**Frame width:** 1161
+**Layers:** _1=0, _2=8930, base=8161
+**Total strokes:** 17091 (budget 31000) | POIs 24 | dupes 7 | inks 26
+**eqqms:** overall A (format A, budget A, title A, dupes A, palette A)
 
 ## Notes
 

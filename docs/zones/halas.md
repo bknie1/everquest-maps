@@ -1,12 +1,14 @@
 # halas
 
 **Title:** HALAS (5 chars)
-**Title style:** stylized
-**Title band strokes:** 151 (letter-like 70)
-**Title bbox:** x[-731,793] y[-924,-733]
-**Title inks:** (140, 120, 90) x40 (lum 123), (92, 74, 52) x22 (lum 77), (90, 70, 50) x8 (lum 74)
-**Frame:** x[-761,832] (width 1593)
+**Title style:** runic
+**Title bbox:** x[-731,793] y[-924,-733] (h 191)
+**Title inks:** (58, 78, 100) x66, (140, 120, 90) x59, (90, 70, 50) x28, (176, 196, 210) x16
+**Frame width:** 1593
+**Layers:** _1=0, _2=2470, base=5625
+**Total strokes:** 8095 (budget 31000) | POIs 42 | dupes 37 | inks 32
+**eqqms:** overall A (format A, budget A, title A, dupes A, palette A)
 
 ## Notes
 
-(none yet)
+2026-09: runic angular caps, ink darkened to (58,78,100) for map-scale weight. Old letters were (92,74,52).

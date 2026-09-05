@@ -1,11 +1,12 @@
 # kedge
 
 **Title:** KEDGE KEEP (10 chars)
-**Title style:** stylized
-**Title band strokes:** 244 (letter-like 109)
-**Title bbox:** x[-428,708] y[-463,-243]
-**Title inks:** (72, 62, 54) x89 (lum 64), (150, 164, 168) x9 (lum 160), (70, 86, 92) x7 (lum 82)
-**Frame:** x[-412,692] (width 1104)
+**Title bbox:** x[-428,708] y[-556,-243] (h 313)
+**Title inks:** (72, 62, 54) x102, (150, 164, 168) x9, (70, 86, 92) x7, (84, 92, 96) x2
+**Frame width:** 1104
+**Layers:** _1=0, _2=1526, base=4159
+**Total strokes:** 5685 (budget 31000) | POIs 3 | dupes 0 | inks 17
+**eqqms:** overall A (format A, budget A, title A, dupes A, palette A)
 
 ## Notes
 

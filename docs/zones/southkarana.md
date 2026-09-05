@@ -1,11 +1,12 @@
 # southkarana
 
 **Title:** SOUTHERN KARANA (15 chars)
-**Title style:** stylized
-**Title band strokes:** 142 (letter-like 142)
-**Title bbox:** x[-5168,5628] y[-4703,-3201]
-**Title inks:** (150, 170, 96) x69 (lum 156), (96, 110, 60) x63 (lum 100), (96, 110, 64) x10 (lum 101)
-**Frame:** x[-5397,6007] (width 11404)
+**Title bbox:** x[-5168,5628] y[-4703,-3201] (h 1503)
+**Title inks:** (150, 170, 96) x69, (96, 110, 60) x63, (96, 110, 64) x10
+**Frame width:** 11404
+**Layers:** _1=0, _2=23827, _3=42, base=1968
+**Total strokes:** 25837 (budget 31000) | POIs 48 | dupes 9 | inks 70
+**eqqms:** overall A (format A, budget A, title A, dupes A, palette A)
 
 ## Notes
 

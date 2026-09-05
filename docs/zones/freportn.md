@@ -1,12 +1,16 @@
 # freportn
 
 **Title:** NORTH FREEPORT (14 chars)
-**Title style:** stylized
-**Title band strokes:** 1022 (letter-like 128)
-**Title bbox:** x[-834,839] y[-874,-560]
-**Title inks:** (45, 40, 38) x60 (lum 41), (205, 120, 45) x21 (lum 137), (176, 150, 104) x18 (lum 153)
-**Frame:** x[-982,731] (width 1713)
+**Title style:** extruded two-tier
+**Title bbox:** x[-966,714] y[-862,-560] (h 302)
+**Title inks:** (70, 44, 24) x137, (216, 122, 40) x123, (150, 132, 104) x15, (176, 150, 104) x14
+**Frame width:** 1713
+**Layers:** _1=0, _2=3439, base=9103
+**Total strokes:** 12542 (budget 31000) | POIs 35 | dupes 1 | inks 29
+**eqqms:** overall A (format A, budget A, title A, dupes A, palette A)
 
 ## Notes
 
 See freporte -- same lost family.
+
+2026-09: two-tier extruded NORTH FREEPORT under the preserved decor row (towers/palms/stalls).

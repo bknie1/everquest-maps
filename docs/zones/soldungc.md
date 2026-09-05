@@ -1,11 +1,12 @@
 # soldungc
 
 **Title:** CAVERNS OF EXILE (16 chars)
-**Title style:** stylized
-**Title band strokes:** 1559 (letter-like 1242)
-**Title bbox:** x[-1360,1298] y[-1536,-992]
-**Title inks:** (90, 62, 46) x664 (lum 69), (116, 84, 64) x207 (lum 91), (112, 60, 36) x100 (lum 73)
-**Frame:** x[-1262,1201] (width 2463)
+**Title bbox:** x[-1360,1298] y[-1536,-992] (h 543)
+**Title inks:** (90, 62, 46) x759, (116, 84, 64) x232, (112, 60, 36) x100, (158, 62, 28) x95
+**Frame width:** 2463
+**Layers:** _1=0, _2=8118, base=40053
+**Total strokes:** 48171 (budget 31000) | POIs 6 | dupes 0 | inks 13
+**eqqms:** overall D (format A, budget D, title C, dupes A, palette A)
 
 ## Notes
 

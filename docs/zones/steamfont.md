@@ -1,11 +1,12 @@
 # steamfont
 
 **Title:** STEAMFONT MOUNTAINS (19 chars)
-**Title style:** stylized
-**Title band strokes:** 216 (letter-like 196)
-**Title bbox:** x[-2462,2757] y[-2436,-2046]
-**Title inks:** (62, 104, 56) x127 (lum 86), (96, 88, 60) x59 (lum 87), (78, 70, 92) x10 (lum 75)
-**Frame:** x[-3057,3287] (width 6343)
+**Title bbox:** x[-2462,2757] y[-2436,-2046] (h 390)
+**Title inks:** (62, 104, 56) x141, (96, 88, 60) x59, (78, 70, 92) x10
+**Frame width:** 6343
+**Layers:** _1=0, _2=9790, _3=9156, base=8860
+**Total strokes:** 27806 (budget 31000) | POIs 34 | dupes 46 | inks 31
+**eqqms:** overall A (format A, budget A, title A, dupes A, palette A)
 
 ## Notes
 

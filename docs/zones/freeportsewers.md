@@ -1,12 +1,14 @@
 # freeportsewers
 
 **Title:** FREEPORT SEWERS (15 chars)
-**Title style:** stylized
-**Title band strokes:** 175 (letter-like 175)
-**Title bbox:** x[-404,2217] y[-1724,-1328]
-**Title inks:** (112, 96, 78) x97 (lum 99), (92, 80, 66) x78 (lum 82)
-**Frame:** x[-385,2199] (width 2585)
+**Title style:** extruded (grime)
+**Title bbox:** x[-404,2217] y[-1724,-1328] (h 396)
+**Title inks:** (56, 58, 40) x269, (122, 128, 74) x246, (112, 96, 78) x97
+**Frame width:** 2585
+**Layers:** _1=0, _2=855, base=5648
+**Total strokes:** 6503 (budget 31000) | POIs 3 | dupes 1 | inks 8
+**eqqms:** overall A (format A, budget A, title A, dupes A, palette A)
 
 ## Notes
 
-(none yet)
+2026-09: extruded grime-green FREEPORT SEWERS (sewer take on the Freeport family).
