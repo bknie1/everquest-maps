@@ -1,3 +1,10 @@
 P 58.7071, -2413.2568, 34.3489,  150, 0, 200,  3,  to_The_Northern_Desert_of_Ro
 P -169.0031, 1859.4617, -1.0000, 150, 0, 200, 3, to_The_Southern_Desert_of_Ro
 P -411.3891, 379.1514, 130.6673,  150, 0, 200,  3,  to_The_Plane_of_Hate_(click)
+P -782.0000, -1553.0000, -1.0000, 165, 60, 20, 2, Cazel_(Notable)
+P 740.0000, -905.0000, 17.9000, 165, 60, 20, 2, Emissary_of_Zebuxoruk_(Notable)
+P 0.0000, -493.0000, 25.0700, 165, 60, 20, 2, Gadallion_(Notable)
+P 417.0000, 532.0000, 8.7400, 165, 60, 20, 2, Hurgo_Felcind_(Notable)
+P 261.0000, 1321.0000, 4.2200, 165, 60, 20, 2, Innkeep_Marnan_(Notable)
+P 6.0000, -597.0000, 3.5500, 165, 60, 20, 2, Synthan_(Notable)
+P -1347.0000, 1788.0000, -1.0000, 165, 60, 20, 2, Taldrik_Stumpystout_(Notable)

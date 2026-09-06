@@ -3,3 +3,13 @@ P 1010.8057, 1199.9568, -335.1691, 150, 0, 200, 3, to_Kedge_Keep
 P 626.9838, 2046.0129, 89.3512, 150, 0, 200, 3, to_The_Estate_of_Unrest
 P 823.5200, -628.1960, -7.6000, 30, 80, 95, 3, Kedge_Keep_Entrance_(underwater)
 P -224.6810, 1615.8280, -1.0000, 30, 80, 95, 2, Aviak/Newbie_area
+P 1307.0000, -113.0000, 0.0000, 165, 60, 20, 2, Aqua_goblin_bosun_(Notable)
+P 1328.0000, 235.0000, -7.6000, 165, 60, 20, 2, Aqua_goblin_mariner_(Notable)
+P 456.0000, -8.0000, 0.0000, 165, 60, 20, 2, Barnacle_Bones_(Notable)
+P 2140.0000, 770.0000, 170.7900, 165, 60, 20, 2, Captain_Klunga_(Notable)
+P 826.0000, 236.0000, 90.7700, 165, 60, 20, 2, Conium_Darkblade_(Notable)
+P 463.0000, 558.0000, 0.0000, 165, 60, 20, 2, Dwigus_Lowater_(Notable)
+P -90.0000, -445.0000, 72.9500, 165, 60, 20, 2, Elmion_Hendrys_(Notable)
+P 948.0000, 369.0000, 108.1100, 165, 60, 20, 2, Gundalthur_Izuran_(Notable)
+P 1999.0000, 444.0000, -7.6000, 165, 60, 20, 2, Jinalis_Andir_(Notable)
+P 2031.0000, -40.0000, -7.6000, 165, 60, 20, 2, Squallslither_(Notable)

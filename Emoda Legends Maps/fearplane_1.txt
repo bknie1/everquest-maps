@@ -4,3 +4,5 @@ P -909.6372, 1032.3202, -2.5700, 110, 0, 60, 3, Cazic_Thule_(Avatar_of_Fear,_are
 P 19.9200, 138.7330, -4.2800, 110, 0, 60, 2, Dread/Fright/Terror_(Fear_Golems)
 P 583.2880, 557.6020, 25.8600, 110, 0, 60, 2, Amygdalan_+_Fear_Beasts
 P 19.9200, -419.7590, 7.0400, 150, 90, 40, 2, Cursed/Named_spawns
+P 1201.0000, 635.0000, 141.7200, 165, 60, 20, 2, Dread_(Notable)
+P 714.0000, -411.0000, -12.1700, 165, 60, 20, 2, Irak_Altil_(Notable)

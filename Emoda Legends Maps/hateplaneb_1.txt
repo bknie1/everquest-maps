@@ -3,3 +3,6 @@ P 150.0000, 1339.0000, 260.0000, 110, 0, 60, 3, Innoruuk_(Prince_of_Hate,_deep)
 P 4.0000, 704.0000, 24.0000, 110, 0, 60, 2, Maestro_of_Rancor
 P 296.0000, 577.0000, 100.0000, 110, 0, 60, 2, Magi_PTasa_+_Coterie_of_Hate
 P 150.0000, 69.0000, 0.0000, 150, 90, 40, 2, Lord_of_Ire_/_named
+P -325.0000, -325.0000, -1.0000, 165, 60, 20, 2, Innoruuk`s_Chosen_(Notable)
+P -227.0000, -344.0000, 80.0000, 165, 60, 20, 2, Lord_of_Loathing_(Notable)
+P -31.0000, -409.0000, 20.0000, 165, 60, 20, 2, Vicar_M`Kari_(Notable)

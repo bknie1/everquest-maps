@@ -4,3 +4,4 @@ P -3.0000, -796.2000, 84.0000, 110, 0, 60, 3, Emperor_Ganak_(deep,_named)
 P 209.4000, -587.8500, -204.0000, 110, 0, 60, 2, Coterie_of_the_Eternal_Night
 P -427.8000, -240.6000, -336.0000, 150, 90, 40, 2, Master_of_the_Guard
 P 103.2000, -448.9500, -216.0000, 110, 0, 60, 2, Living_Stone_Golems
+P -514.0000, -851.0000, -564.0000, 165, 60, 20, 2, Dartain_the_Lost_(Notable)
