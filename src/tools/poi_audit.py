@@ -107,12 +107,74 @@ def audit(zone, far):
     return rows, len(spawns), dropped
 
 
+def norm(name):
+    return re.sub(r"[^a-z0-9 ]", "", name.replace("_", " ").lower()).strip()
+
+
+def coverage(zone, far):
+    """The inverse audit: which wiki-documented spawns have NO POI at all?
+    A spawn counts as covered by a nearby POI (within --far of its
+    transformed coordinate) or by a name match (normalized substring either
+    way). Returns (documented, covered, [missing names])."""
+    spawns = wiki_spawns(zone)
+    p1 = os.path.join(MAPS, zone + "_1.txt")
+    if spawns is None or not os.path.exists(p1):
+        return None
+    spawns, _ = spawns
+    if not spawns:
+        return None
+    pois = []
+    for l in open(p1, encoding="utf-8"):
+        l = l.strip()
+        if l[:1] != "P":
+            continue
+        f = pfields(l)
+        if len(f) >= 8:
+            pois.append((float(f[0]), float(f[1]), norm(f[7])))
+    missing = []
+    covered = 0
+    seen = set()
+    generic = re.compile(r"^(a|an|the)\s", re.I)
+    for nm, sx, sy in spawns:
+        key = norm(nm)
+        if key in seen:            # multi-loc spawns count once
+            continue
+        if generic.match(nm):      # wandering trash is not POI material
+            continue
+        seen.add(key)
+        by_dist = any(math.hypot(px - sx, py - sy) < far for px, py, _ in pois)
+        by_name = any(key and (key in pl or pl in key) and len(key) > 5
+                      for _, _, pl in pois)
+        if by_dist or by_name:
+            covered += 1
+        else:
+            missing.append(nm)
+    return len(seen), covered, missing
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("zones", nargs="*")
     ap.add_argument("--far", type=float, default=700.0,
                     help="flag a POI whose nearest documented spawn is beyond this")
+    ap.add_argument("--coverage", action="store_true",
+                    help="report wiki spawns with no POI (completeness, not accuracy)")
     args = ap.parse_args()
+    if args.coverage:
+        zones = args.zones or sorted(
+            os.path.basename(q)[:-4] for q in glob.glob(os.path.join(MAPS, "*_1.txt")))
+        zones = [z[:-2] if z.endswith("_1") else z for z in zones]
+        rows = []
+        for z in zones:
+            r = coverage(z, args.far)
+            if r:
+                rows.append((r[1] / r[0], z) + r)
+        rows.sort()
+        print("%-15s %9s  %s" % ("zone", "coverage", "missing (first few)"))
+        for frac, z, doc, cov, missing in rows:
+            print("%-15s %4d/%-4d  %s" % (z, cov, doc,
+                  "; ".join(missing[:4]) + (" ..." if len(missing) > 4 else "")))
+        return
     zones = args.zones or sorted(
         os.path.basename(q)[:-4] for q in glob.glob(os.path.join(MAPS, "*_1.txt")))
     zones = [z[:-2] if z.endswith("_1") else z for z in zones]

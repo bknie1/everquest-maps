@@ -10,7 +10,7 @@ P -653.0000, -408.0000, 0.0000, 35, 95, 55, 2, Merchant_(Adventuring_Supplies)_R
 P -677.0000, -267.0000, -1.0000, 35, 95, 55, 2, Merchant_(General_Supplies)_Sinsaal
 P -693.0000, -627.0000, 0.0000, 35, 95, 55, 2, Merchant_(Tailoring)_Gretamog
 P -743.0000, -225.0000, -1.0000, 35, 95, 55, 2, Merchant_(Pottery)_Dirtcarver
-P 1068.0000, -269.0000, -1.0000, 35, 95, 55, 2, Merchant_(Beastlord_Spells)_Brogdog
+P -1068.0000, -269.0000, -1.0000, 35, 95, 55, 2, Merchant_(Beastlord_Spells)_Brogdog
 P -1006.0000, -628.0000, 75.9700, 35, 95, 55, 2, Merchant_(Shaman_Spells)_Cralk
 P -496.0000, 329.0000, 41.9700, 35, 95, 55, 2, Merchant_(Fletching+Arrows)_Praak
 P 212.0000, -324.0000, 0.0000, 35, 95, 55, 2, Merchant_(Weapons)_Varrok

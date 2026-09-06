@@ -100,6 +100,107 @@ def style_hint(band, lidx):
     return ""
 
 
+def compass_census(z, segs):
+    """Count compass roses in the _2 layer: ring-shaped closed components
+    (8-48 segments, radius 30-200, low radius variance) that either carry
+    spokes through their center or sit by N/E/S/W point-records. Born from a
+    real day: rivervale shipped two stacked compasses and crushbone had a
+    leftover mini-rose; the meter now counts. Report-only -- webs and round
+    ponds can masquerade, the human adjudicates. Returns (count, centers)."""
+    import collections as _c
+    idx = [i for i, s in enumerate(segs)
+           if 6 <= math.hypot(s[2] - s[0], s[3] - s[1]) <= 120]
+    parent = {i: i for i in idx}
+
+    def find(i):
+        while parent[i] != i:
+            parent[i] = parent[parent[i]]
+            i = parent[i]
+        return i
+
+    pts = {}
+    for i in idx:
+        s = segs[i]
+        for p in ((round(s[0] * 2) / 2, round(s[1] * 2) / 2),
+                  (round(s[2] * 2) / 2, round(s[3] * 2) / 2)):
+            if p in pts:
+                a, b = find(pts[p]), find(i)
+                if a != b:
+                    parent[a] = b
+            else:
+                pts[p] = i
+    comps = _c.defaultdict(list)
+    for i in idx:
+        comps[find(i)].append(i)
+
+    nesw = []
+    p2 = os.path.join(MAPS, z + "_2.txt")
+    if os.path.exists(p2):
+        for l in open(p2, encoding="utf-8", errors="ignore"):
+            if l[:1] == "P" and l.strip()[-1:] in "NESW" and l.strip()[-2:-1] in ", ":
+                f = [v.strip() for v in l[1:].lstrip().split(",")]
+                try:
+                    nesw.append((float(f[0]), float(f[1])))
+                except ValueError:
+                    pass
+
+    # component stats once: centroid + bbox, reused for cardinal-letter test
+    stats = []
+    for c in comps.values():
+        pts = [p for i in c for p in ((segs[i][0], segs[i][1]),
+                                      (segs[i][2], segs[i][3]))]
+        xs = [p[0] for p in pts]
+        ys = [p[1] for p in pts]
+        stats.append((c, sum(xs) / len(xs), sum(ys) / len(ys),
+                      max(xs) - min(xs), max(ys) - min(ys), pts))
+
+    roses = []
+    for c, cx, cy, w, h, pts in stats:
+        if not 10 <= len(c) <= 90:
+            continue
+        rs = sorted(math.hypot(x - cx, y - cy) for x, y in pts)
+        R = rs[int(len(rs) * 0.9)]
+        if not 55 <= R <= 220:
+            continue
+        rim = [(x, y) for x, y in pts if 0.8 * R <= math.hypot(x - cx, y - cy) <= 1.2 * R]
+        if len(rim) < 10:
+            continue
+        angs = sorted(math.atan2(y - cy, x - cx) for x, y in rim)
+        gaps = [b - a for a, b in zip(angs, angs[1:])]
+        gaps.append(angs[0] + 2 * math.pi - angs[-1])
+        if 2 * math.pi - max(gaps) < math.radians(300):
+            continue                       # arc, not a ring
+        # confirmation: N/E/S/W point-records, or small letter components
+        # sitting in the annulus just outside the rim
+        marked = any(math.hypot(px - cx, py - cy) < 2.0 * R for px, py in nesw)
+        if not marked:
+            card = 0
+            for c2, x2, y2, w2, h2, _ in stats:
+                if c2 is c or not (2 <= len(c2) <= 9):
+                    continue
+                if not (0.10 * R <= h2 <= 0.5 * R and w2 <= 0.5 * R):
+                    continue
+                if 0.95 * R <= math.hypot(x2 - cx, y2 - cy) <= 1.8 * R:
+                    card += 1
+            marked = card >= 2
+        if marked:
+            roses.append((cx, cy, R))
+    # a lone NESW P-set with no detected ring still marks a compass
+    if nesw and not any(any(math.hypot(px - r[0], py - r[1]) < 2.5 * r[2]
+                            for r in roses) for px, py in nesw):
+        gx = sum(p[0] for p in nesw) / len(nesw)
+        gy = sum(p[1] for p in nesw) / len(nesw)
+        roses.append((gx, gy, 0.0))
+    # concentric circles and welded sub-rings of one rose read as several
+    # detections: merge roses whose centers sit within each other's reach
+    merged = []
+    for r in sorted(roses, key=lambda r: -r[2]):
+        if not any(math.hypot(r[0] - m[0], r[1] - m[1]) < 1.8 * max(r[2], m[2], 40)
+                   for m in merged):
+            merged.append(r)
+    return len(merged), merged
+
+
 def read_layer(z, suffix):
     path = os.path.join(MAPS, z + suffix + ".txt")
     if not os.path.exists(path):
@@ -158,6 +259,10 @@ def measure(z):
     deco = layers.get("_2")
     if not deco:
         return m
+    try:
+        m["compasses"] = compass_census(z, deco["segs"])[0]
+    except Exception:
+        m["compasses"] = None
     band = [s for s in deco["segs"] if (s[1] + s[3]) / 2 < gy0 + 40]
     letters = [s for s in band if math.hypot(s[2] - s[0], s[3] - s[1]) > 12]
     t = dict(band=len(band), letters=len(letters), frame_w=fx1 - fx0,
@@ -289,6 +394,9 @@ def main():
             flags.append("no-CRLF")
         if m["bad"]:
             flags.append("%d bad lines" % m["bad"])
+        nc = m.get("compasses")
+        if nc is not None and nc != 1:
+            flags.append("compass:%d" % nc)
         print("%-15s   %s    %6d %5d %5d  %-18s %s"
               % (z, g["overall"], m["total"], m["dupes"], t.get("letters", 0),
                  (t.get("style") or "?")[:18], " ".join(flags)))
