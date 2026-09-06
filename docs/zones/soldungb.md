@@ -1,12 +1,12 @@
 # soldungb
 
 **Title:** NAGAFEN'S LAIR (14 chars)
-**Title bbox:** x[-735,1355] y[-552,-75] (h 477)
-**Title inks:** (92, 60, 44) x493, (114, 58, 34) x96, (118, 82, 62) x74, (158, 62, 28) x69
+**Title bbox:** x[-624,1246] y[-527,-100] (h 427)
+**Title inks:** (92, 60, 44) x464, (114, 58, 34) x96, (118, 82, 62) x73, (158, 62, 28) x69
 **Frame width:** 1920
-**Layers:** _1=0, _2=6858, base=20515
-**Total strokes:** 27373 (budget 31000) | POIs 18 | dupes 99 | inks 13
-**eqqms:** overall C (format A, budget A, title C, dupes A, palette A)
+**Layers:** _1=0, _2=6858, base=20406
+**Total strokes:** 27264 (budget 31000) | POIs 18 | dupes 5 | inks 13
+**eqqms:** overall A (format A, budget A, title A, dupes A, palette A)
 
 ## Notes
 

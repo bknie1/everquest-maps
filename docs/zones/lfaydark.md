@@ -10,4 +10,4 @@
 
 ## Notes
 
-(none yet)
+eqqms title-clipped was a FALSE POSITIVE (zigzag banner + margin trees read as letters); LESSER FAYDARK sits inside the frame -- verified by band plot 2026-09-05, do not scale it.

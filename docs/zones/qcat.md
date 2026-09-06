@@ -2,8 +2,8 @@
 
 **Title:** QEYNOS CATACOMBS (16 chars)
 **Title style:** stately (dark)
-**Title bbox:** x[-534,835] y[-1250,-1083] (h 167)
-**Title inks:** (72, 62, 54) x387, (74, 66, 58) x83, (44, 40, 36) x68
+**Title bbox:** x[-534,835] y[-1250,-1061] (h 189)
+**Title inks:** (72, 62, 54) x387, (74, 66, 58) x68, (44, 40, 36) x60
 **Frame width:** 1456
 **Layers:** _1=0, _2=3163, base=2967
 **Total strokes:** 6130 (budget 31000) | POIs 14 | dupes 0 | inks 21

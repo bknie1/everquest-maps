@@ -14,3 +14,5 @@
 Whole map runs pale by design (marble); title/frame/lines darkened 2026-09 to lum 93/61. Keep the marble fills pale.
 
 2026-09: refined ERUDIN PALACE; lighthouses preserved; old underline removed by rule_ink+y-strip.
+
+eqqms title-clipped was a FALSE POSITIVE (band roofline sketch reads as letters); ERUDIN PALACE sits inside the frame -- verified by band plot 2026-09-05, do not scale it.
