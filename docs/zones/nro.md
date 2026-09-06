@@ -1,6 +1,7 @@
 # nro
 
 **Title:** NORTHERN DESERT OF RO (21 chars)
+**Title style:** unreviewed
 **Title bbox:** x[-4159,2194] y[-5233,-4448] (h 784)
 **Title inks:** (214, 188, 120) x95, (150, 116, 58) x93, (74, 60, 46) x66, (104, 88, 70) x61
 **Frame width:** 6614

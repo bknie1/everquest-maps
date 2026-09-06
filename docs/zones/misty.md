@@ -1,6 +1,7 @@
 # misty
 
 **Title:** MISTY THICKET (13 chars)
+**Title style:** unreviewed
 **Title bbox:** x[-2081,3222] y[-1748,-1347] (h 401)
 **Title inks:** (95, 70, 45) x61, (86, 70, 52) x47
 **Frame width:** 5635

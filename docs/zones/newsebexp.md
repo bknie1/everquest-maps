@@ -1,6 +1,7 @@
 # newsebexp
 
 **Title:** NEW SEBILIS (11 chars)
+**Title style:** unreviewed (measured: pale?)
 **Title bbox:** x[-927,686] y[-1155,-696] (h 459)
 **Title inks:** (78, 68, 60) x783, (104, 92, 82) x561, (80, 58, 34) x72, (108, 96, 86) x56
 **Frame width:** 1449

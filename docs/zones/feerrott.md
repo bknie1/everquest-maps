@@ -1,6 +1,7 @@
 # feerrott
 
 **Title:** THE FEERROTT (12 chars)
+**Title style:** unreviewed
 **Title bbox:** x[-4593,4232] y[-3197,-2057] (h 1140)
 **Title inks:** (38, 62, 32) x6324, (50, 78, 42) x4062, (44, 72, 36) x1718, (56, 86, 44) x1646
 **Frame width:** 9009

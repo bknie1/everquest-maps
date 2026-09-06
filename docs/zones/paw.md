@@ -1,6 +1,7 @@
 # paw
 
 **Title:** SPLITPAW LAIR (13 chars)
+**Title style:** unreviewed
 **Title bbox:** x[-604,730] y[-1721,-1477] (h 244)
 **Title inks:** (96, 72, 44) x55, (172, 132, 58) x3
 **Frame width:** 1400

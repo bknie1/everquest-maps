@@ -1,6 +1,7 @@
 # hateplane
 
 **Title:** PLANE OF HATE (13 chars)
+**Title style:** unreviewed
 **Title bbox:** x[-783,805] y[-1031,-749] (h 281)
 **Title inks:** (50, 40, 64) x53, (120, 90, 150) x4
 **Frame width:** 1724

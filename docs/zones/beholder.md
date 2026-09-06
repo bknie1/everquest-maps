@@ -1,6 +1,7 @@
 # beholder
 
 **Title:** GORGE OF KING XORBB (19 chars)
+**Title style:** unreviewed
 **Title bbox:** x[-1152,2405] y[-1808,-1447] (h 360)
 **Title inks:** (72, 62, 54) x158, (96, 78, 54) x2
 **Frame width:** 3695

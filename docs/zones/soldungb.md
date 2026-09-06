@@ -1,6 +1,7 @@
 # soldungb
 
 **Title:** NAGAFEN'S LAIR (14 chars)
+**Title style:** exemplar (warm arc)
 **Title bbox:** x[-735,1355] y[-552,-75] (h 477)
 **Title inks:** (92, 60, 44) x493, (114, 58, 34) x96, (118, 82, 62) x74, (158, 62, 28) x69
 **Frame width:** 1920

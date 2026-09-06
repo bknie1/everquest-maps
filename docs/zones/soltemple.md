@@ -1,6 +1,7 @@
 # soltemple
 
 **Title:** TEMPLE OF SOLUSEK RO (20 chars)
+**Title style:** unreviewed
 **Title bbox:** x[-104,76] y[-669,-657] (h 12)
 **Title inks:** (92, 80, 66) x12
 **Frame width:** 339

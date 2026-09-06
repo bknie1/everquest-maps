@@ -1,6 +1,7 @@
 # sro
 
 **Title:** SOUTHERN DESERT OF RO (21 chars)
+**Title style:** unreviewed
 **Title bbox:** x[-2068,1449] y[-2361,-1961] (h 401)
 **Title inks:** (104, 88, 70) x132, (214, 188, 120) x102, (74, 60, 46) x102, (150, 116, 58) x100
 **Frame width:** 4010

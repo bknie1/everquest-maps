@@ -59,7 +59,45 @@ STYLE = {
     "rivervale": "rounded", "akanon": "clockwork", "qrg": "sylvan",
     "paineel": "3d-wireframe (restored)", "kerraridge": "3d-wireframe (restored)",
     "tox": "3d-wireframe (restored)",
+    # exemplars named by docs/TITLES.md -- styled long before the city slate
+    "unrest": "exemplar (the bar)", "soldungb": "exemplar (warm arc)",
+    "najena": "exemplar (hatched cartouche)",
+    "kaladima": "exemplar (chisel-cut)", "kaladimb": "exemplar (chisel-cut)",
 }
+
+# locked zones: never candidates for a style pass regardless of measurement
+STYLE_LOCKED = {"unrest", "eastkarana"}
+
+# the deprecated homogenized family's ink (docs/TITLES.md)
+PALE = (120, 105, 85)
+
+
+def declared_style(z):
+    """The zone doc's recorded style class -- the source of truth per
+    docs/TITLES.md. Automatic classification was tried and measured
+    unreliable (the letter picker's recall varies wildly by style family),
+    so verdicts come from a human looking at the map; the meter only keeps
+    score. Returns None when the doc has no (or an 'unreviewed') class."""
+    path = os.path.join(DOCS, z + ".md")
+    if not os.path.exists(path):
+        return None
+    mm = re.search(r"\*\*Title style:\*\* (.+)", open(path, encoding="utf-8").read())
+    if not mm:
+        return None
+    s = mm.group(1).strip()
+    return None if s.lower().startswith("unreviewed") else s
+
+
+def style_hint(band, lidx):
+    """Cheap measured hint for prioritizing unreviewed zones: a single
+    dominant ink near the deprecated pale family is a strong tell."""
+    if not lidx:
+        return ""
+    inks = collections.Counter(band[i][4] for i in lidx)
+    (top, n), total = inks.most_common(1)[0], sum(inks.values())
+    if n / total >= 0.9 and sum(abs(a - b) for a, b in zip(top, PALE)) <= 45:
+        return " (measured: pale?)"
+    return ""
 
 
 def read_layer(z, suffix):
@@ -140,9 +178,17 @@ def measure(z):
                 lxs = [v for i in lidx for v in (band[i][0], band[i][2])]
                 t["clipped"] = (min(lxs) < fx0 - 60 or max(lxs) > fx1 + 60) \
                     and z not in NOCLIP
+            if z in STYLE:
+                t["style"] = STYLE[z]
+            elif z in STYLE_LOCKED:
+                t["style"] = "locked"
+            else:
+                t["style"] = declared_style(z) or \
+                    "unreviewed" + style_hint(band, lidx)
         except Exception:
             t["clipped"] = (min(xs) < fx0 - 60 or max(xs) > fx1 + 60) \
                 and z not in NOCLIP
+            t["style"] = STYLE.get(z)
         cnt = collections.Counter(s[4] for s in letters)
         t["inks"] = cnt.most_common(4)
     m["title"] = t
@@ -161,6 +207,10 @@ def grade(m):
         g["title"] = "D"
     elif t["clipped"]:
         g["title"] = "C"
+    elif t.get("style") and ("plain" in t["style"].lower()
+                             or "pale" in t["style"].lower()
+                             and "measured" not in t["style"]):
+        g["title"] = "B"        # declared plain/pale: a restyle candidate
     else:
         g["title"] = "A"
     dr = m["dupes"] / max(m["total"], 1)
@@ -188,7 +238,7 @@ def write_doc(m, g):
         if mm:
             old_title_line = mm.group(1)
     t = m["title"] or {}
-    style = STYLE.get(z)
+    style = t.get("style") or STYLE.get(z)
     lines = ["# %s" % z, ""]
     if old_title_line:
         lines.append("**Title:** %s" % old_title_line)
@@ -226,7 +276,8 @@ def main():
             write_doc(m, g)
     order = "FDCBA"
     rows.sort(key=lambda r: (order.index(r[2]["overall"]), r[1]["total"]))
-    print("%-15s %s  %6s %5s %5s  %s" % ("zone", "grade", "total", "dupes", "title", "flags"))
+    print("%-15s %s  %6s %5s %5s  %-18s %s"
+          % ("zone", "grade", "total", "dupes", "title", "style", "flags"))
     for z, m, g in rows:
         t = m["title"] or {}
         flags = []
@@ -238,8 +289,9 @@ def main():
             flags.append("no-CRLF")
         if m["bad"]:
             flags.append("%d bad lines" % m["bad"])
-        print("%-15s   %s    %6d %5d %5d  %s" % (z, g["overall"], m["total"],
-              m["dupes"], t.get("letters", 0), " ".join(flags)))
+        print("%-15s   %s    %6d %5d %5d  %-18s %s"
+              % (z, g["overall"], m["total"], m["dupes"], t.get("letters", 0),
+                 (t.get("style") or "?")[:18], " ".join(flags)))
     if a.write:
         print("\nrefreshed %d docs/zones/*.md" % len(rows))
 

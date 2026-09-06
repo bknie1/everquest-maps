@@ -1,6 +1,7 @@
 # mistmoore
 
 **Title:** CASTLE MISTMOORE (16 chars)
+**Title style:** unreviewed
 **Title bbox:** x[-775,394] y[-490,-284] (h 206)
 **Title inks:** (92, 80, 100) x297, (70, 60, 78) x279, (64, 58, 66) x129, (108, 94, 122) x101
 **Frame width:** 1142

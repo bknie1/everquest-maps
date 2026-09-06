@@ -1,6 +1,7 @@
 # southkarana
 
 **Title:** SOUTHERN KARANA (15 chars)
+**Title style:** unreviewed
 **Title bbox:** x[-5168,5628] y[-4703,-3201] (h 1503)
 **Title inks:** (150, 170, 96) x69, (96, 110, 60) x63, (96, 110, 64) x10
 **Frame width:** 11404

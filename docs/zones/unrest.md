@@ -1,6 +1,7 @@
 # unrest
 
 **Title:** ESTATE OF UNREST (16 chars)
+**Title style:** exemplar (the bar)
 **Title bbox:** x[-510,550] y[-1165,-924] (h 241)
 **Title inks:** (60, 45, 40) x98, (118, 128, 146) x72, (64, 70, 64) x61, (78, 80, 94) x11
 **Frame width:** 1032

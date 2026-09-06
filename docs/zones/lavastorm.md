@@ -1,6 +1,7 @@
 # lavastorm
 
 **Title:** LAVASTORM MOUNTAINS (19 chars)
+**Title style:** unreviewed
 **Title bbox:** x[-2042,1719] y[-2008,-1539] (h 468)
 **Title inks:** (80, 58, 50) x83, (155, 65, 30) x40
 **Frame width:** 3915

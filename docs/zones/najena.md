@@ -1,6 +1,7 @@
 # najena
 
 **Title:** NAJENA (6 chars)
+**Title style:** exemplar (hatched cartouche)
 **Title bbox:** x[-1181,558] y[-857,-468] (h 389)
 **Title inks:** (88, 78, 96) x351, (96, 86, 108) x260, (84, 74, 100) x101, (72, 58, 92) x99
 **Frame width:** 1762

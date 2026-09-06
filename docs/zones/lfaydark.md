@@ -1,6 +1,7 @@
 # lfaydark
 
 **Title:** LESSER FAYDARK (14 chars)
+**Title style:** unreviewed
 **Title bbox:** x[-5106,3377] y[-3747,-2558] (h 1189)
 **Title inks:** (56, 84, 54) x1007, (96, 78, 54) x224, (26, 54, 24) x135, (96, 116, 76) x95
 **Frame width:** 8376

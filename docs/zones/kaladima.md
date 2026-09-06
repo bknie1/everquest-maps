@@ -1,6 +1,7 @@
 # kaladima
 
 **Title:** SOUTH KALADIM (13 chars)
+**Title style:** exemplar (chisel-cut)
 **Title bbox:** x[-674,566] y[-728,-478] (h 249)
 **Title inks:** (62, 104, 56) x573, (96, 70, 44) x53, (86, 132, 70) x3
 **Frame width:** 1338

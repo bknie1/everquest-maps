@@ -1,6 +1,7 @@
 # guktop
 
 **Title:** UPPER GUK (9 chars)
+**Title style:** unreviewed
 **Title bbox:** x[-1094,1192] y[-2284,-1751] (h 533)
 **Title inks:** (66, 76, 58) x557, (88, 98, 78) x400, (60, 102, 72) x180, (70, 90, 60) x96
 **Frame width:** 2090

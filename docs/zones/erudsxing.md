@@ -1,6 +1,7 @@
 # erudsxing
 
 **Title:** ERUD'S CROSSING (15 chars)
+**Title style:** unreviewed
 **Title bbox:** x[-5901,3990] y[-3964,-2980] (h 984)
 **Title inks:** (110, 170, 200) x40, (40, 80, 110) x35
 **Frame width:** 10244

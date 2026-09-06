@@ -1,6 +1,7 @@
 # kithicor
 
 **Title:** KITHICOR FOREST (15 chars)
+**Title style:** unreviewed
 **Title bbox:** x[-5844,2020] y[-2908,-2299] (h 610)
 **Title inks:** (34, 58, 38) x620, (95, 70, 45) x90, (120, 140, 80) x67, (90, 120, 70) x16
 **Frame width:** 8356

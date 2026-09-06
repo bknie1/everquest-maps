@@ -1,6 +1,7 @@
 # northkarana
 
 **Title:** NORTHERN KARANA (15 chars)
+**Title style:** unreviewed
 **Title bbox:** x[-5020,4653] y[-2799,-1788] (h 1011)
 **Title inks:** (96, 110, 64) x53, (152, 162, 172) x24, (110, 88, 66) x20, (108, 108, 92) x18
 **Frame width:** 10083

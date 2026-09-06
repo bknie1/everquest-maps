@@ -1,6 +1,7 @@
 # kaladimb
 
 **Title:** NORTH KALADIM (13 chars)
+**Title style:** exemplar (chisel-cut)
 **Title bbox:** x[-590,436] y[-1782,-1501] (h 281)
 **Title inks:** (62, 104, 56) x486, (96, 70, 44) x46
 **Frame width:** 1161

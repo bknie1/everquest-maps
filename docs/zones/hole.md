@@ -1,6 +1,7 @@
 # hole
 
 **Title:** THE HOLE (8 chars)
+**Title style:** unreviewed
 **Title bbox:** x[-1468,1461] y[-1605,-1158] (h 446)
 **Title inks:** (112, 96, 78) x97, (92, 80, 66) x26, (108, 100, 94) x22, (64, 58, 66) x18
 **Frame width:** 2889
