@@ -6,7 +6,7 @@
 **Frame width:** 22146
 **Layers:** _1=0, _2=17089, _3=24, base=12044
 **Total strokes:** 29157 (budget 31000) | POIs 32 | dupes 6 | inks 43
-**eqqms:** overall C (format A, budget A, title C, dupes A, palette A)
+**eqqms:** overall A (format A, budget A, title A, dupes A, palette A)
 
 ## Notes
 

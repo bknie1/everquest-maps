@@ -38,6 +38,12 @@ DOCS = os.path.join(ROOT, "docs", "zones")
 BUDGET = 31000
 LUM = lambda i: 0.299 * i[0] + 0.587 * i[1] + 0.114 * i[2]
 
+# clipped-flag false positives, verified by band plot 2026-09-05: wide margin
+# sketch strokes (ridgelines, banner zigzags, rooflines) read as letters and
+# stretch the bbox past the frame, but the actual titles sit inside it.
+# See the "FALSE POSITIVE" notes in docs/zones/<zone>.md before removing.
+NOCLIP = {"qey2hh1", "lfaydark", "erudnint"}
+
 # the title style each zone carries, kept current by the campaign
 STYLE = {
     "freporte": "extruded two-tier", "freportw": "extruded two-tier",
@@ -120,7 +126,7 @@ def measure(z):
         ys = [v for s in letters for v in (s[1], s[3])]
         t["bbox"] = (min(xs), min(ys), max(xs), max(ys))
         t["height"] = max(ys) - min(ys)
-        t["clipped"] = min(xs) < fx0 - 60 or max(xs) > fx1 + 60
+        t["clipped"] = (min(xs) < fx0 - 60 or max(xs) > fx1 + 60) and z not in NOCLIP
         cnt = collections.Counter(s[4] for s in letters)
         t["inks"] = cnt.most_common(4)
     m["title"] = t
