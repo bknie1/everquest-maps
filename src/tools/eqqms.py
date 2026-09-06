@@ -154,13 +154,19 @@ def compass_census(z, segs):
         stats.append((c, sum(xs) / len(xs), sum(ys) / len(ys),
                       max(xs) - min(xs), max(ys) - min(ys), pts))
 
+    # rose radius scales with the map: a dungeon's rose is r~30, feerrott's
+    # r~150. Gate relative to the deco layer's extent.
+    ext_x = [v for s in segs for v in (s[0], s[2])]
+    W = (max(ext_x) - min(ext_x)) if ext_x else 0
+    rmin, rmax = max(24, 0.012 * W), max(230, 0.10 * W)
+
     roses = []
     for c, cx, cy, w, h, pts in stats:
         if not 10 <= len(c) <= 90:
             continue
         rs = sorted(math.hypot(x - cx, y - cy) for x, y in pts)
         R = rs[int(len(rs) * 0.9)]
-        if not 55 <= R <= 220:
+        if not rmin <= R <= rmax:
             continue
         rim = [(x, y) for x, y in pts if 0.8 * R <= math.hypot(x - cx, y - cy) <= 1.2 * R]
         if len(rim) < 10:
@@ -178,9 +184,10 @@ def compass_census(z, segs):
             for c2, x2, y2, w2, h2, _ in stats:
                 if c2 is c or not (2 <= len(c2) <= 9):
                     continue
-                if not (0.10 * R <= h2 <= 0.5 * R and w2 <= 0.5 * R):
+                # cardinal letters keep a near-absolute size on small roses
+                if not (8 <= h2 <= 60 and w2 <= 70):
                     continue
-                if 0.95 * R <= math.hypot(x2 - cx, y2 - cy) <= 1.8 * R:
+                if 0.9 * R <= math.hypot(x2 - cx, y2 - cy) <= R + 90:
                     card += 1
             marked = card >= 2
         if marked:
@@ -191,10 +198,17 @@ def compass_census(z, segs):
         gx = sum(p[0] for p in nesw) / len(nesw)
         gy = sum(p[1] for p in nesw) / len(nesw)
         roses.append((gx, gy, 0.0))
+    # a rose is one-of-a-kind; decor circles come in families. Any group of
+    # 3+ candidates sharing a radius (+-20%) is trees/gears/webs -- drop it.
+    keep = []
+    for r in roses:
+        family = [o for o in roses if 0.8 * r[2] <= o[2] <= 1.25 * r[2]]
+        if len(family) < 3:
+            keep.append(r)
     # concentric circles and welded sub-rings of one rose read as several
     # detections: merge roses whose centers sit within each other's reach
     merged = []
-    for r in sorted(roses, key=lambda r: -r[2]):
+    for r in sorted(keep, key=lambda r: -r[2]):
         if not any(math.hypot(r[0] - m[0], r[1] - m[1]) < 1.8 * max(r[2], m[2], 40)
                    for m in merged):
             merged.append(r)
