@@ -38,11 +38,14 @@ DOCS = os.path.join(ROOT, "docs", "zones")
 BUDGET = 31000
 LUM = lambda i: 0.299 * i[0] + 0.587 * i[1] + 0.114 * i[2]
 
-# clipped-flag false positives, verified by band plot 2026-09-05: wide margin
-# sketch strokes (ridgelines, banner zigzags, rooflines) read as letters and
-# stretch the bbox past the frame, but the actual titles sit inside it.
-# See the "FALSE POSITIVE" notes in docs/zones/<zone>.md before removing.
-NOCLIP = {"qey2hh1", "lfaydark", "erudnint"}
+# title-clipped exemptions, each verified by band plot 2026-09-05: the
+# letters sit INSIDE the frame; the flag came from band decor the letter
+# detector cannot separate (neriak trio: diagonal ribbon shading + corner
+# hatch flourishes at letter-like sizes; felwitheb: title shares canopy ink
+# and its stick letters split into disconnected strokes). ALL 15 clipped
+# flags that day proved false -- measure overhanging strokes by ink/length
+# before ever scaling a title. See docs/zones/<zone>.md.
+NOCLIP = {"neriaka", "neriakb", "neriakc", "felwitheb"}
 
 # the title style each zone carries, kept current by the campaign
 STYLE = {
@@ -126,7 +129,20 @@ def measure(z):
         ys = [v for s in letters for v in (s[1], s[3])]
         t["bbox"] = (min(xs), min(ys), max(xs), max(ys))
         t["height"] = max(ys) - min(ys)
-        t["clipped"] = (min(xs) < fx0 - 60 or max(xs) > fx1 + 60) and z not in NOCLIP
+        # clip is measured on LETTER COMPONENTS, not the raw len>12 bbox --
+        # border ornaments, ridge sketches and banner zigzags in the band
+        # share inks and lengths with letters and stretched the old bbox
+        # past the frame on eleven innocent zones (2026-09-05).
+        try:
+            from scale_title import pick_letters
+            lidx = pick_letters(z, band)
+            if lidx:
+                lxs = [v for i in lidx for v in (band[i][0], band[i][2])]
+                t["clipped"] = (min(lxs) < fx0 - 60 or max(lxs) > fx1 + 60) \
+                    and z not in NOCLIP
+        except Exception:
+            t["clipped"] = (min(xs) < fx0 - 60 or max(xs) > fx1 + 60) \
+                and z not in NOCLIP
         cnt = collections.Counter(s[4] for s in letters)
         t["inks"] = cnt.most_common(4)
     m["title"] = t
