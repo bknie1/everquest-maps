@@ -17,6 +17,9 @@ PALETTE = {
     'trunk_dark': (70, 56, 38),   'under':     (78, 116, 66),
     'flower':     (176, 108, 128),'fungus':    (150, 130, 150),
     'reed':       (110, 142, 90),
+    # the Mirkwood register -- Lesser Faydark, Kithicor: a wood the light left
+    'darkwood':   (44, 66, 46),   'darkwood_deep': (34, 58, 38),
+    'shroom_cap': (124, 92, 134), 'shroom_stalk':  (146, 138, 124),
 }
 
 
@@ -353,8 +356,86 @@ def grass_tuft(cx, cy, s, ink=None, seed=0):
     return out
 
 
+def giant_mushroom(cx, cy, s, ink=None, seed=0, stalk=None):
+    """A giant toadstool, tree-tall: tapered stalk with a skirt ring, broad
+    hatched cap with pale spots, gill ticks under the rim. Lesser Faydark's
+    signature growth -- place a few together and they read as a grove."""
+    rnd = random.Random(seed)
+    ink = ink or PALETTE['shroom_cap']; stalk = stalk or PALETTE['shroom_stalk']
+    dark = tuple(max(0, c-38) for c in ink)
+    sdark = tuple(max(0, c-34) for c in stalk)
+    lean = s*rnd.uniform(-0.08, 0.08)
+    out, L, R = _trunk(cx, cy, cy-s*0.60, s*0.105, s*0.070, stalk, sdark, rnd,
+                       lean=lean)
+    ry = cy - s*rnd.uniform(0.26, 0.34)                # skirt ring on the stalk
+    rx = cx + lean*((cy-ry)/(s*0.60))**2
+    out.append((rx-s*0.115, ry, rx+s*0.115, ry+s*0.035, sdark))
+    out.append((rx-s*0.115, ry, rx-s*0.09, ry+s*0.06, sdark))
+    out.append((rx+s*0.115, ry+s*0.035, rx+s*0.09, ry+s*0.08, sdark))
+    tx = cx + lean; base = cy - s*0.56                 # cap sits over the stalk
+    half = s*rnd.uniform(0.48, 0.56)
+    cap = [(tx-half, base)]
+    n = 8
+    for k in range(1, n):                              # wobbled dome
+        t = k/n
+        cap.append((tx-half+2*half*t,
+                    base - s*(0.30+0.06*rnd.random())*math.sin(math.pi*t)))
+    cap.append((tx+half, base))
+    cap.append((tx+half*0.80, base+s*0.045))           # rim curls under
+    cap.append((tx-half*0.80, base+s*0.045))
+    out += _hatch(cap, ink, max(1.4, s*0.052))
+    out += _outline(cap, dark)
+    for k in range(rnd.randint(5, 7)):                 # gills under the rim
+        gx = tx - half*0.72 + 2*half*0.72*k/6
+        out.append((gx, base+s*0.040, gx+lean*0.05, base-s*0.045, dark))
+    pale = tuple(min(255, c+42) for c in ink)
+    for k in range(rnd.randint(3, 5)):                 # cap spots
+        a = rnd.uniform(-1.0, 1.0)
+        px = tx + a*half*0.62
+        py = base - s*(0.30+0.05*rnd.random())*math.cos(a*1.2)*0.9 + s*0.06
+        r = s*rnd.uniform(0.030, 0.055)
+        spot = [(px+math.cos(2*math.pi*j/5)*r, py+math.sin(2*math.pi*j/5)*r*0.6)
+                for j in range(5)]
+        out += _outline(spot, pale)
+    return out
+
+
+def darkwood(cx, cy, s, ink=None, seed=0, trunk=None):
+    """A darkwood giant: buttressed bole wide as a house, thick limbs, a low
+    brooding canopy of deep-green lobes. The old trees of Lesser Faydark and
+    Kithicor -- scale s well above the surrounding forest or it reads as brush."""
+    rnd = random.Random(seed)
+    ink = ink or PALETTE['darkwood']; trunk = trunk or PALETTE['trunk_dark']
+    deep = PALETTE['darkwood_deep']
+    dark = tuple(max(0, c-24) for c in ink)
+    tdark = tuple(max(0, c-22) for c in trunk)
+    out, L, R = _trunk(cx, cy, cy-s*0.50, s*0.115, s*0.055, trunk, tdark, rnd)
+    for f in (-1, 1):                                  # buttress roots
+        for k in range(2):
+            x0 = cx + f*s*(0.085+0.03*k)
+            y0 = cy - s*(0.10-0.05*k)
+            out.append((x0, y0, x0+f*s*rnd.uniform(0.12, 0.20), cy+s*0.015, tdark))
+        out.append((cx+f*s*0.19, cy+s*0.01, cx+f*s*rnd.uniform(0.26, 0.34),
+                    cy+s*rnd.uniform(0.02, 0.05), tdark))
+    for k in range(3):                                 # limbs into the canopy
+        a = -math.pi/2 + rnd.uniform(-0.9, 0.9)
+        x0, y0 = cx, cy-s*0.44
+        x1, y1 = x0+math.cos(a)*s*0.30, y0+math.sin(a)*s*0.26
+        out.append((x0, y0, x1, y1, trunk))
+        out.append((x1, y1, x1+math.cos(a)*s*0.14, y1+math.sin(a)*s*0.12, tdark))
+    n = rnd.randint(4, 5)                              # wide, low crown
+    for k in range(n):
+        t = k/(n-1)
+        lx = cx + (t-0.5)*s*0.92 + rnd.uniform(-s*0.05, s*0.05)
+        ly = cy - s*0.74 - math.sin(math.pi*t)*s*0.14
+        out += _lobe(lx, ly, s*rnd.uniform(0.24, 0.33), s*rnd.uniform(0.17, 0.24),
+                     ink if k % 2 else deep, dark, rnd, max(2.2, s*0.062))
+    return out
+
+
 TREES = {'fir': fir, 'broadleaf': broadleaf, 'palm': palm,
-         'willow': willow, 'redwood': redwood, 'dead_tree': dead_tree}
+         'willow': willow, 'redwood': redwood, 'dead_tree': dead_tree,
+         'darkwood': darkwood, 'giant_mushroom': giant_mushroom}
 UNDERGROWTH = {'bush': bush, 'fern': fern, 'reeds': reeds,
                'flowers': flowers, 'mushrooms': mushrooms, 'grass_tuft': grass_tuft}
 ALL = dict(TREES); ALL.update(UNDERGROWTH)
