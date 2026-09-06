@@ -61,7 +61,8 @@ STYLE = {
     "tox": "3d-wireframe (restored)",
     # exemplars named by docs/TITLES.md -- styled long before the city slate
     "unrest": "exemplar (the bar)", "soldungb": "exemplar (warm arc)",
-    "najena": "exemplar (hatched cartouche)",
+    # najena left the exemplar list 2026-09-06: the hatched cartouche was
+    # Brandon-verdicted bad and removed; its curved letters queue for restyle
     "kaladima": "exemplar (chisel-cut)", "kaladimb": "exemplar (chisel-cut)",
 }
 
