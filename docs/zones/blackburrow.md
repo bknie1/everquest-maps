@@ -1,7 +1,7 @@
 # blackburrow
 
 **Title:** BLACKBURROW (11 chars)
-**Title style:** unreviewed
+**Title style:** plain caps (overlap noted) (Brandon verdict 2026-09-06)
 **Title bbox:** x[-657,564] y[-570,-354] (h 217)
 **Title inks:** (112, 96, 78) x101, (92, 80, 66) x58, (86, 72, 50) x28, (120, 102, 74) x26
 **Frame width:** 1204

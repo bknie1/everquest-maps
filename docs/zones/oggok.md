@@ -5,8 +5,8 @@
 **Title bbox:** x[-1448,721] y[-1208,-903] (h 306)
 **Title inks:** (86, 132, 70) x401, (122, 86, 54) x108, (56, 102, 40) x90, (110, 96, 66) x72
 **Frame width:** 2176
-**Layers:** _1=0, _2=13629, base=4545
-**Total strokes:** 18174 (budget 31000) | POIs 32 | dupes 2 | inks 32
+**Layers:** _1=0, _2=13636, base=4545
+**Total strokes:** 18181 (budget 31000) | POIs 28 | dupes 2 | inks 33
 **eqqms:** overall A (format A, budget A, title A, dupes A, palette A)
 
 ## Notes

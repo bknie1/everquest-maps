@@ -1,7 +1,7 @@
 # kedge
 
 **Title:** KEDGE KEEP (10 chars)
-**Title style:** unreviewed
+**Title style:** plain caps (old) (Brandon verdict 2026-09-06)
 **Title bbox:** x[-428,708] y[-556,-243] (h 313)
 **Title inks:** (72, 62, 54) x102, (150, 164, 168) x9, (70, 86, 92) x7, (84, 92, 96) x2
 **Frame width:** 1104

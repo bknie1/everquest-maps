@@ -1,7 +1,7 @@
 # gfaydark
 
 **Title:** GREATER FAYDARK (15 chars)
-**Title style:** unreviewed
+**Title style:** plain caps (wants wood-elf style) (Brandon verdict 2026-09-06)
 **Title bbox:** x[-3317,2963] y[-3817,-2942] (h 875)
 **Title inks:** (70, 58, 44) x412, (46, 82, 52) x406, (38, 70, 46) x283, (74, 116, 62) x278
 **Frame width:** 7322

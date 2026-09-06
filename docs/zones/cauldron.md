@@ -1,7 +1,7 @@
 # cauldron
 
 **Title:** DAGNOR'S CAULDRON (17 chars)
-**Title style:** unreviewed
+**Title style:** plain caps (Brandon verdict 2026-09-06)
 **Title bbox:** x[-1447,3126] y[-3710,-3092] (h 618)
 **Title inks:** (62, 104, 56) x636
 **Frame width:** 4838
