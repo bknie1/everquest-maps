@@ -14,3 +14,4 @@
 See freporte -- same lost family.
 
 2026-09: two-tier extruded NORTH FREEPORT under the preserved decor row (towers/palms/stalls).
+2026-09-06 (shading chip): removed the all-over parchment wash (overshaded) and the partial building fills, then re-shaded building interiors ONLY to match freporte's density — raster room-fill (flood-from-outside, enclosed compact regions), roof (196,150,96)/shadow (150,108,62), step 6, streets left clear. Fills write to BASE.
