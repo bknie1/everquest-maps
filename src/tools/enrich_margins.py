@@ -51,7 +51,7 @@ ALIAS = {
     "mushroom": "myconid", "froglok": "froglok", "frog": "froglok", "skunk": "skunk",
     "dark elf": "dark_elf", "high elf": "high_elf", "wood elf": "wood_elf",
     "gnome": "gnome", "dwarf": "dwarf", "ogre": "ogre", "troll": "troll",
-    "orc": "kobold", "minotaur": "ogre", "ghoul": "ghoul", "zombie": "zombie",
+    "orc": "orc", "minotaur": "ogre", "ghoul": "ghoul", "zombie": "zombie",
     "undead": "skeleton", "shadowknight": "skeleton", "lizardman": "iksar",
     "lizard": "iksar", "froglok": "froglok",
 }

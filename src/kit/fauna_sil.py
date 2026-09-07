@@ -722,6 +722,59 @@ def goblin(cx, cy, s, seed=0, face=-1, skin="generic"):
     return F.out
 
 
+def orc(cx, cy, s, seed=0, face=-1):
+    """Crushbone orc, per Brandon's box-art reference: a broad GREEN brute,
+    upright and planted, dominated by a YELLOW-GOLD scale chestplate (the
+    signature that pops on parchment) over a copper segmented war-kilt. Heavy
+    underbite jaw with two upward tusks, brow ridge, clenched fists. Reads as
+    a muscular armored humanoid at map scale, never a hunched beast."""
+    F = _F(cx, cy, s, face)
+    SKIN = (94, 124, 74); DEEP = (60, 88, 50)
+    GOLD = (206, 176, 98); GOLDD = (158, 128, 62)
+    KILT = (152, 96, 54); KILTD = (110, 66, 38)
+    TUSK = (224, 216, 192)
+    # planted legs, apart; rear leg shaded for depth, big feet
+    F.poly([(0.04, 0.30), (0.13, 0.30), (0.14, 0.16), (0.15, 0.02),
+            (0.06, 0.02), (0.055, 0.16)], DEEP, DEEP)
+    F.poly([(-0.14, 0.30), (-0.05, 0.30), (-0.055, 0.16), (-0.05, 0.02),
+            (-0.15, 0.02), (-0.145, 0.16)], SKIN, DEEP)
+    F.L(-0.15, 0.02, -0.22, 0.02, SKIN)                      # forward foot
+    # copper war-kilt: segmented plates flaring to the knees
+    F.poly([(-0.15, 0.30), (0.15, 0.30), (0.20, 0.46), (-0.20, 0.46)], KILT, KILTD)
+    for xx in (-0.10, -0.02, 0.06, 0.14):
+        F.L(xx, 0.46, xx * 0.72, 0.31, KILTD)               # plate seams
+    # green torso: broad shoulders tapering to the waist (a warrior V)
+    F.poly([(-0.15, 0.47), (-0.17, 0.58), (-0.23, 0.70), (-0.09, 0.755),
+            (0.09, 0.755), (0.23, 0.70), (0.17, 0.58), (0.15, 0.47)], SKIN, DEEP)
+    # gold belt with a small red buckle gem
+    F.poly([(-0.16, 0.455), (0.16, 0.455), (0.15, 0.49), (-0.15, 0.49)], GOLDD, GOLDD)
+    F.disc(0.0, 0.472, 0.03, (184, 70, 52))
+    # GOLD scale chestplate over the upper chest -- the signature accent
+    F.poly([(-0.15, 0.585), (-0.155, 0.66), (-0.09, 0.71), (0.0, 0.725),
+            (0.09, 0.71), (0.155, 0.66), (0.15, 0.585), (0.0, 0.55)], GOLD, GOLDD)
+    for yy in (0.61, 0.66):                                  # scale rows
+        F.L(-0.14, yy, 0.14, yy, GOLDD)
+    # thick arms hanging to clenched fists (front arm forward, rear shaded)
+    F.poly([(0.21, 0.68), (0.29, 0.57), (0.30, 0.42), (0.22, 0.40),
+            (0.185, 0.53), (0.14, 0.65)], DEEP, DEEP)
+    F.disc(0.255, 0.39, 0.048, DEEP)                         # rear fist
+    F.poly([(-0.21, 0.68), (-0.30, 0.57), (-0.31, 0.42), (-0.23, 0.39),
+            (-0.19, 0.53), (-0.14, 0.65)], SKIN, DEEP)
+    F.disc(-0.27, 0.38, 0.055, SKIN)                         # forward fist
+    # short thick neck
+    F.poly([(-0.07, 0.72), (-0.07, 0.78), (0.07, 0.78), (0.07, 0.72)], DEEP, DEEP)
+    # head: big heavy skull, sloped brow, underbite jaw + upward tusks
+    F.poly([(-0.03, 0.78), (-0.15, 0.80), (-0.175, 0.86), (-0.155, 0.925),
+            (-0.06, 0.955), (0.05, 0.945), (0.10, 0.885), (0.085, 0.80)], SKIN, DEEP)
+    F.L(-0.165, 0.90, -0.02, 0.925, DEEP)                    # heavy brow ridge
+    F.poly([(-0.175, 0.83), (-0.235, 0.815), (-0.175, 0.79), (-0.07, 0.795)], SKIN, DEEP)  # jutting jaw
+    F.L(-0.185, 0.815, -0.205, 0.855, TUSK)                  # tusk up
+    F.L(-0.125, 0.80, -0.14, 0.842, TUSK)                    # tusk up
+    F.L(-0.13, 0.885, -0.165, 0.878, (150, 40, 34))          # red eye
+    F.poly([(0.06, 0.87), (0.15, 0.905), (0.075, 0.83)], SKIN, DEEP)  # ear
+    return F.out
+
+
 def ice_goblin(cx, cy, s, seed=0, face=-1):
     return goblin(cx, cy, s, seed, face, "ice")
 
@@ -740,6 +793,7 @@ SIL = {
     'skeleton': skeleton, 'zombie': skeleton, 'ghoul': skeleton,
     'froglok_skeleton': froglok_skeleton, 'undead_froglok': froglok_skeleton,
     'goblin': goblin, 'ice_goblin': ice_goblin, 'fire_goblin': fire_goblin,
+    'orc': orc,
 }
 
 # relative height per race so a mixed line-up scales believably (human=1.0)
@@ -752,5 +806,5 @@ HEIGHT = {
     'gnoll': 1.05, 'kobold': 0.7, 'froglok': 0.7, 'froglok_skeleton': 0.7,
     'undead_froglok': 0.7, 'dwarf': 0.75,
     'halfling': 0.6, 'gnome': 0.5, 'goblin': 0.62,
-    'ice_goblin': 0.62, 'fire_goblin': 0.62,
+    'ice_goblin': 0.62, 'fire_goblin': 0.62, 'orc': 1.12,
 }
