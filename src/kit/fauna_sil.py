@@ -622,6 +622,54 @@ def skeleton(cx, cy, s, seed=0, face=-1):
     return F.out
 
 
+def froglok_skeleton(cx, cy, s, seed=0, face=-1):
+    """Undead froglok for the Guk ruins: the BARE BONES of the race plus a
+    rusty trident -- never armored (Brandon's skeleton style law). The racial
+    markers survive as bone: the wide flat skull with corner eye sockets, the
+    crouched bipedal legs, and splayed bony flipper toes."""
+    F = _F(cx, cy, s, face)
+    BONE = (182, 176, 158); DEEP = (96, 90, 78); RUST = (128, 96, 70)
+    SOCK = (40, 36, 30)
+    # wide flat skull, wider than the shoulders, jaw notch below
+    F.poly([(-0.235, 0.60), (-0.255, 0.665), (-0.195, 0.705), (0.155, 0.705),
+            (0.215, 0.655), (0.185, 0.60), (0.10, 0.575), (-0.115, 0.575)],
+           BONE, DEEP)
+    F.L(-0.23, 0.615, 0.17, 0.615, SOCK)                                       # jaw line
+    F.disc(-0.175, 0.675, 0.030, SOCK)                                         # corner socket L
+    F.disc(0.12, 0.675, 0.030, SOCK)                                           # corner socket R
+    # squat spine
+    F.L(-0.02, 0.575, -0.005, 0.36, DEEP)
+    # ribcage: wide shallow slab with rib lines (froggier than the human box)
+    F.poly([(-0.13, 0.545), (-0.155, 0.45), (-0.10, 0.385), (0.09, 0.385),
+            (0.14, 0.45), (0.115, 0.545)], BONE, DEEP)
+    for k in range(3):
+        y = 0.515 - 0.045 * k
+        F.L(-0.125 + 0.01 * k, y, 0.105 - 0.01 * k, y - 0.012, DEEP)
+    # small pelvis
+    F.poly([(-0.06, 0.36), (-0.08, 0.30), (0.0, 0.275), (0.075, 0.30),
+            (0.055, 0.36)], BONE, DEEP)
+    # crouched bipedal legs: thigh out, shin back down (frog Z-fold), thin bone
+    F.poly([(-0.07, 0.31), (-0.155, 0.24), (-0.135, 0.115), (-0.10, 0.02),
+            (-0.055, 0.02), (-0.095, 0.13), (-0.035, 0.27)], BONE, DEEP)
+    F.poly([(0.05, 0.30), (0.13, 0.22), (0.115, 0.10), (0.145, 0.02),
+            (0.10, 0.02), (0.075, 0.12), (0.015, 0.26)], BONE, DEEP)
+    # splayed bony flipper toes -- the froglok signature, three per foot
+    for k in range(3):
+        F.L(-0.085, 0.02, -0.20 + 0.05 * k, 0.02, DEEP)
+        F.L(0.115, 0.02, 0.155 + 0.045 * k, 0.02 + 0.012 * k, DEEP)
+    # trident arm reaches out to the haft; off arm hangs
+    F.poly([(-0.115, 0.53), (-0.19, 0.48), (-0.265, 0.435), (-0.245, 0.405),
+            (-0.165, 0.455), (-0.09, 0.50)], BONE, DEEP)
+    F.L(-0.26, 0.10, -0.295, 0.82, RUST)                                       # haft
+    F.L(-0.34, 0.80, -0.25, 0.815, RUST)                                       # crossbar
+    F.L(-0.34, 0.80, -0.35, 0.95, RUST)                                        # prong L
+    F.L(-0.295, 0.82, -0.30, 0.97, RUST)                                       # prong mid
+    F.L(-0.25, 0.815, -0.245, 0.95, RUST)                                      # prong R
+    F.poly([(0.10, 0.53), (0.14, 0.44), (0.155, 0.33), (0.12, 0.325),
+            (0.105, 0.42), (0.07, 0.51)], BONE, DEEP)
+    return F.out
+
+
 # ------------------------------------------------------------------ registry
 
 GOBLIN_SKINS = {
@@ -690,6 +738,7 @@ SIL = {
     'gnome': gnome, 'dwarf': dwarf, 'troll': troll, 'ogre': ogre,
     'iksar': iksar, 'froglok': froglok, 'gnoll': gnoll, 'kobold': kobold,
     'skeleton': skeleton, 'zombie': skeleton, 'ghoul': skeleton,
+    'froglok_skeleton': froglok_skeleton, 'undead_froglok': froglok_skeleton,
     'goblin': goblin, 'ice_goblin': ice_goblin, 'fire_goblin': fire_goblin,
 }
 
@@ -700,7 +749,8 @@ HEIGHT = {
     'freeport_guard': 1.0,
     'erudite': 1.05, 'high_elf': 1.0, 'dark_elf': 0.95, 'wood_elf': 0.9,
     'skeleton': 1.0, 'zombie': 1.0, 'ghoul': 1.0,
-    'gnoll': 1.05, 'kobold': 0.7, 'froglok': 0.7, 'dwarf': 0.75,
+    'gnoll': 1.05, 'kobold': 0.7, 'froglok': 0.7, 'froglok_skeleton': 0.7,
+    'undead_froglok': 0.7, 'dwarf': 0.75,
     'halfling': 0.6, 'gnome': 0.5, 'goblin': 0.62,
     'ice_goblin': 0.62, 'fire_goblin': 0.62,
 }
