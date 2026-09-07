@@ -12,3 +12,5 @@
 ## Notes
 
 2026-09: runic angular caps, ink darkened to (58,78,100) for map-scale weight. Old letters were (92,74,52).
+
+2026-09-06 (shading chip): parchment wash (inks 190,182,166 / 202,194,178) was clamped at x=-413/y=-606 by the old shader — extended to the frame's top and left edges (24 new top rows, 61 left runs) with building interiors carved out. Incomplete top-left compass (tangled arc fragments in inks 140,120,90 / 90,70,50) removed and rebuilt as a standard rose at (-628,-824) r=55, ink 90,70,50, seated in the NW margin corner.
