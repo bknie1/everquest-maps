@@ -14,3 +14,4 @@
 See freporte -- same lost family.
 
 2026-09: two-tier extruded WEST FREEPORT; ghost fragments below band removed. Decor row (palms/market/towers) preserved.
+2026-09-06 (shading chip): removed over-shaded wash + partial fills, re-shaded buildings to freporte density (raster room-fill, roof/shadow step 6, BASE layer). Added commonlands margin motifs on the west side (ecommons tick-grass tufts, green 72,102,60/96,124,78 fading east to tan scrub 168,152,96) — the EC->Freeport transition.

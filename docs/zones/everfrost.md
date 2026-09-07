@@ -12,3 +12,4 @@
 ## Notes
 
 (none yet)
+2026-09-06 (shading chip): the snow wash (inks 224,230,238 / 214,222,232) left the NORTH maze band and the WEST coastal arm bare — the old shader clamped at x=-874/y=-4728. Extended: 25 new rows continue the maze band up to y~-5150; 218 parity-filled runs cover the west arm out to the true coast (x~-1297). Existing standard compass untouched.

@@ -14,3 +14,4 @@
 Beta had styled EAST + FREEPORT two-tier lettering (see 871c51a); lost in the city-pass homogenization. Candidate for restoration design work.
 
 2026-09: two-tier extruded EAST FREEPORT (fresh design in beta spirit: garland, pale word, big orange caps). Ghost stick title below band removed. Garland/compass share ink (205,120,45).
+2026-09-06 (shading chip): freporte is Brandon's BUILDING-SHADING REFERENCE — base fills untouched. Added ro-zone-style SAND to the southern shore (ticks 190,164,110 + tilde squiggles 202,180,120), obstacle-avoided; matches nro/sro sand texture. One exact dupe removed.
