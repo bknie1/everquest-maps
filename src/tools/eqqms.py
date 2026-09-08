@@ -61,6 +61,7 @@ STYLE = {
     "lavastorm": "lava (molten)", "innothule": "swamp (troll/froglok)",
     "hateplane": "hate (Innoruuk)", "gfaydark": "woodelf",
     "kithicor": "darkwood (haunted forest)",
+    "nektulos": "darkwood (Teir'Dal forest)",
     "paineel": "3d-wireframe (restored)", "kerraridge": "3d-wireframe (restored)",
     "tox": "3d-wireframe (restored)",
     # exemplars named by docs/TITLES.md -- styled long before the city slate

@@ -1,13 +1,13 @@
 # nektulos
 
 **Title:** NEKTULOS FOREST (15 chars)
-**Title style:** plain caps (wants style) (Brandon verdict 2026-09-06)
+**Title style:** darkwood (Teir'Dal forest)
 **Title bbox:** x[-2037,1820] y[-3803,-3323] (h 481)
-**Title inks:** (34, 58, 38) x72, (45, 38, 55) x43, (120, 115, 125) x12, (90, 70, 110) x6
+**Title inks:** (78, 66, 76) x115, (96, 74, 132) x73, (45, 38, 55) x43, (120, 115, 125) x12
 **Frame width:** 4548
-**Layers:** _1=0, _2=26537, _3=27, base=2003
-**Total strokes:** 28567 (budget 31000) | POIs 45 | dupes 0 | inks 62
-**eqqms:** overall B (format A, budget A, title B, dupes A, palette A)
+**Layers:** _1=0, _2=26653, _3=27, base=2003
+**Total strokes:** 28683 (budget 31000) | POIs 45 | dupes 0 | inks 97
+**eqqms:** overall B (format A, budget A, title A, dupes A, palette B)
 
 ## Notes
 
@@ -44,4 +44,14 @@ title band. A few interior-edge green crowns in halfling country remain: they ar
 interior forest (not margin) and cluster into the south forest, so they are left
 alone rather than risk stripping it.
 
-STILL OPEN: stylized dark-forest / Teir'Dal title (Title Campaign, ⏸).
+Title (2026-09-08, Opus 4.8): dark Teir'Dal forest title, DONE. Uses the new
+`darkwood` style (see [[title-campaign-progress]] / kithicor) with a Teir'Dal
+violet tint — kw ink (96,74,132), branch (78,66,76) — so it reads as the dark-elf
+sibling of Kithicor's green haunted wood. Gaunt gnarled caps with a dead-branch
+echo and bare twig-forks. Applied via apply_title (mode=ink on the title ink
+(34,58,38); the HD-flora session had already held the giants off the title band,
+so the band was clean — removed all 72 plain-cap strokes, drew 188). The purple
+frame brackets (45,38,55) and grey rules (120,115,125) are preserved, and the
+mountain zigzag range sits below the band untouched. grow 0.85 / dy -25.
+NOTE: eqqms overall is B only from `palette` (97 inks, from the HD-flora work) --
+the title itself grades A. FIRST VERSION — Brandon's verdict pending.
