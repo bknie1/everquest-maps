@@ -5,8 +5,8 @@
 **Title bbox:** x[-2037,1820] y[-3803,-3323] (h 481)
 **Title inks:** (34, 58, 38) x72, (45, 38, 55) x43, (120, 115, 125) x12, (90, 70, 110) x6
 **Frame width:** 4548
-**Layers:** _1=0, _2=27940, _3=27, base=2003
-**Total strokes:** 29970 (budget 31000) | POIs 45 | dupes 0 | inks 62
+**Layers:** _1=0, _2=26537, _3=27, base=2003
+**Total strokes:** 28567 (budget 31000) | POIs 45 | dupes 0 | inks 62
 **eqqms:** overall B (format A, budget A, title B, dupes A, palette A)
 
 ## Notes
@@ -18,8 +18,30 @@ target mapped to top-left but the POIs are the ground truth: top-right.) The old
 it mirrored in the SW corner -- recurring bug, now fixed at the data level.
 Lavastorm volcanic peak range added along the north edge (rock ink 80,58,50 +
 lava-glow 210,90,25) by the "to Lavastorm" exit. Nektropos castle shifted right
-2026-09-06. STILL OPEN: HD flora/fauna (session), stylized dark-forest title.
+2026-06 (gate now top-right with a tree keep-out clearing, per origin/main).
 
-The margin trees are OLD ROUGH SKETCHES (ink 46,40,68), same low-fi symptom as
-the Faydark maps -- the nektulos-hd session should replace them with HD flora.
-Gate has a tree keep-out clearing so it no longer sits on top of them.
+HD fauna (2026-09-08, src/zones/nek_hd_fauna.py): the interior creatures were
+old fauna.py wireframes (nek_color.py placed FA.spider/skeleton/halfling/darkelf).
+The 15 humanoid wireframes were retired for fauna_sil silhouettes — curated to 8
+solid figures: 3 Teir'Dal (Neriak guards/dragoons, native violet 72,58,96), 2
+skeletons (bare bones + rusty sword), 1 orc (Deathfist/orc-runner, green+gold),
+2 Leatherfoot halflings. Each figure's sub-pixel solid-fill scanlines are
+decimated (keep every other) — invisible at map scale, ~halves the cost. Spiders
+kept as-is: fauna_sil has no spider figure. Keep-outs untouched (Neriak gate ink
+72,66,86 = 256 strokes verified unchanged; Nektropos castle; lava peaks; wizard
+gate; title; compass).
+
+HD flora (2026-09-08, src/zones/nek_hd_flora.py): the margin forest was old
+rough polygon-crown sketches (the Faydark low-fi symptom) — north in Teir'Dal
+purple (ink 46,40,68), south in green. Both were retired for the Mirkwood recipe
+Brandon approved for lfay/kithicor: FH.darkwood giants over a black-green conifer
+understory (old F.fir recoloured dark) plus a few pale snags. North keeps the
+Teir'Dal purple; south stays green (halfling country), per the nek_purple
+convention. 6,873 rough-crown strokes removed, ~4,811 HD strokes added (net −2k;
+darkwood giant fills decimated). Placement guards every keep-out (castle, gate,
+lava band, compass, title band, POI labels) and the giants are held off the
+title band. A few interior-edge green crowns in halfling country remain: they are
+interior forest (not margin) and cluster into the south forest, so they are left
+alone rather than risk stripping it.
+
+STILL OPEN: stylized dark-forest / Teir'Dal title (Title Campaign, ⏸).
