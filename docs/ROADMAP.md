@@ -18,7 +18,14 @@ Status: ☐ todo · ◐ in-flight (session) · ☑ done+verified · ⏸ needs Br
 - ☑ Lavastorm mountains: volcanic peak range added along the north edge with
   lava-glow markers by the "to Lavastorm" exit.
 - ☑ Nektropos castle: shifted right (2026-09-06). Brandon: "looks great."
-- ◐ HD flora/fauna update → **session: nektulos-hd** (spawned 2026-09-08).
+- ☑ HD flora/fauna update (2026-09-08): the 15 old fauna.py wireframe figures
+  (skeleton, halfling, dark elf) retired for fauna_sil silhouettes — curated to
+  8 solid figures (3 Teir'Dal, 2 skeletons, 1 orc = Deathfist/orc-runner, 2
+  Leatherfoot halflings), fill-decimated to fit budget (total 30,785/31k, was
+  30,171). Spiders kept (no SIL spider). Flora confirmed HD: margins are dense
+  flora_hd darkwood (9.5k strokes); interior stays deliberately light per the
+  nek_color label-legibility doctrine, so no interior giants (they'd bury
+  labels + burst budget). Tool: src/zones/nek_hd_fauna.py. Keep-outs untouched.
 - ⏸ Stylized title (see Title Campaign below — themed, not plain).
 
 ## Meta-fix (why this file exists)
@@ -35,7 +42,8 @@ it reports back and its zones are verified.
 - ◐ crushbone-hd — Crushbone HD decor modernization.
 - ◐ lfay-mirkwood — Lesser Faydark dark-wood identity (giant mushrooms/trees).
 - ◐ felwithe — banner + entrance-facade archaeology, compass, trees, flora.
-- ◐ nektulos-hd — Nektulos HD flora/fauna (spawned 2026-09-08).
+- ☑ nektulos-hd — Nektulos HD flora/fauna (2026-09-08): wireframe figures →
+  fauna_sil silhouettes; flora confirmed HD-darkwood margins.
 
 ## DONE + verified (2026-09-06 → 09-08)
 
