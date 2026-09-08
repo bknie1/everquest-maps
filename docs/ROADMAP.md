@@ -90,7 +90,7 @@ string; scale in place, never restyle to stick font; history-check first
 | innothule | swampy troll/froglok — ☑ `swamp` 2026-09-08 |
 | lavastorm | lava/ember — ☑ `lava` 2026-09-08 |
 | misty | (theme TBD, wants stylized) |
-| kithicor | dark forest (Kithicor kin to lfay) |
+| kithicor | dark forest (Kithicor kin to lfay) — ☑ `darkwood` 2026-09-08 |
 | nektulos | dark forest / Teir'Dal |
 | neriak a/b/c | unify the three, Freeport-style two-tier, keep dark-elf styling |
 
