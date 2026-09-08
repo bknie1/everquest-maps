@@ -11,21 +11,21 @@ Status: ☐ todo · ◐ in-flight (session) · ☑ done+verified · ⏸ needs Br
 
 ## P0 — Nektulos (closing 2026-09-08, the one that kept slipping)
 
-- ☑ Neriak gate: was mirrored (tool's y-flip) in the SW corner. V-flipped +
-  moved to top-left, native center (-1422,-2711), per Brandon's /loc target
-  (2711,1422,-2737). Foliage keep-out applied. **place_neriak_gate.py is now
-  guarded** so it can't re-dump the gate SW.
+- ☑ Neriak gate: was mirrored (tool's y-flip) in the SW corner. V-flipped
+  upright and moved to the TOP-RIGHT beside its own "to Neriak" zone-line POI
+  (native ~1108,-2272), gate center ~(1030,-2360). Rough margin trees knocked
+  out behind it (clean clearing). **place_neriak_gate.py is now guarded** so it
+  can't re-dump the gate SW.
 - ☑ Lavastorm mountains: volcanic peak range added along the north edge with
   lava-glow markers by the "to Lavastorm" exit.
 - ☑ Nektropos castle: shifted right (2026-09-06). Brandon: "looks great."
-- ☑ HD flora/fauna update (2026-09-08): the 15 old fauna.py wireframe figures
-  (skeleton, halfling, dark elf) retired for fauna_sil silhouettes — curated to
-  8 solid figures (3 Teir'Dal, 2 skeletons, 1 orc = Deathfist/orc-runner, 2
-  Leatherfoot halflings), fill-decimated to fit budget (total 30,785/31k, was
-  30,171). Spiders kept (no SIL spider). Flora confirmed HD: margins are dense
-  flora_hd darkwood (9.5k strokes); interior stays deliberately light per the
-  nek_color label-legibility doctrine, so no interior giants (they'd bury
-  labels + burst budget). Tool: src/zones/nek_hd_fauna.py. Keep-outs untouched.
+- ◐ HD flora/fauna update (2026-09-08): **fauna DONE** — the 15 old fauna.py
+  wireframe figures (skeleton, halfling, dark elf) retired for fauna_sil
+  silhouettes, curated to 8 solid figures (3 Teir'Dal, 2 skeletons, 1 orc =
+  Deathfist/orc-runner, 2 Leatherfoot halflings), fill-decimated to fit budget.
+  Spiders kept (no SIL spider). Tool: src/zones/nek_hd_fauna.py. **Flora TODO** —
+  the margin trees are still old rough sketches (ink 46,40,68); replace with
+  flora_hd darkwood (matching lfay/kithicor). Keep-outs untouched.
 - ⏸ Stylized title (see Title Campaign below — themed, not plain).
 
 ## Meta-fix (why this file exists)
@@ -42,8 +42,8 @@ it reports back and its zones are verified.
 - ◐ crushbone-hd — Crushbone HD decor modernization.
 - ◐ lfay-mirkwood — Lesser Faydark dark-wood identity (giant mushrooms/trees).
 - ◐ felwithe — banner + entrance-facade archaeology, compass, trees, flora.
-- ☑ nektulos-hd — Nektulos HD flora/fauna (2026-09-08): wireframe figures →
-  fauna_sil silhouettes; flora confirmed HD-darkwood margins.
+- ◐ nektulos-hd — Nektulos HD flora/fauna (2026-09-08): fauna done (wireframes →
+  fauna_sil silhouettes); flora (46,40,68 margin sketches → darkwood) in flight.
 
 ## DONE + verified (2026-09-06 → 09-08)
 
@@ -92,10 +92,10 @@ string; scale in place, never restyle to stick font; history-check first
 | gfaydark | wood-elf |
 | lfaydark | dark Mirkwood (with the biome session) |
 | mistmoore | spooky vampire castle (unrest=haunted house, this=haunted castle) |
-| permafrost | ice castle (Halas meets Mistmoore) |
+| permafrost | ice castle (Halas meets Mistmoore) — ☑ `ice` 2026-09-08 |
 | hateplane | Innoruuk / Prince of Hate (Neriak cleric kin) |
 | innothule | swampy troll/froglok |
-| lavastorm | lava/ember |
+| lavastorm | lava/ember — ☑ `lava` 2026-09-08 |
 | misty | (theme TBD, wants stylized) |
 | kithicor | dark forest (Kithicor kin to lfay) |
 | nektulos | dark forest / Teir'Dal |
