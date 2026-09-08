@@ -1,14 +1,23 @@
 # hateplane
 
 **Title:** PLANE OF HATE (13 chars)
-**Title style:** plain caps (wants Innoruuk style, Neriak-cleric kin) (Brandon verdict 2026-09-06)
-**Title bbox:** x[-783,805] y[-1031,-749] (h 281)
-**Title inks:** (50, 40, 64) x53, (120, 90, 150) x4
+**Title style:** hate (Innoruuk)
+**Title bbox:** x[-640,740] y[-1040,-749] (h 290)
+**Title inks:** (92, 54, 128) x77, (52, 32, 72) x41, (150, 178, 90) x36, (120, 90, 150) x3
 **Frame width:** 1724
-**Layers:** _1=0, _2=182, base=30350
-**Total strokes:** 30532 (budget 31000) | POIs 9 | dupes 0 | inks 6
-**eqqms:** overall B (format A, budget A, title B, dupes A, palette A)
+**Layers:** _1=0, _2=282, base=30350
+**Total strokes:** 30632 (budget 31000) | POIs 9 | dupes 0 | inks 9
+**eqqms:** overall A (format A, budget A, title A, dupes A, palette A)
 
 ## Notes
 
-(none yet)
+2026-09-08 (Opus 4.8): Innoruuk / Prince of Hate title. New `hate` style in
+src/titles/styles.py — cruel condensed slanted caps, kin to Neriak `darkelf`
+but crueler: a hard dark echo (52,32,74) and barbed hooks bristling off every
+stroke terminal, each thorn tipped in Innoruuk's poison green (150,178,90).
+Deliberately lean (154 strokes) — the zone is budget-tight (30632/31000).
+Applied via apply_title (mode=ink on the dark-violet title ink (50,40,64);
+removed 53 letters + 1 short stray, drew 154). The three long frame rules in
+light purple (120,90,150) are preserved. grow 0.9 / dy -30 to lift the title
+clear of the top grid rule. FIRST VERSION — Brandon's verdict pending; venom
+accent can be pushed harder if he wants more Innoruuk poison.

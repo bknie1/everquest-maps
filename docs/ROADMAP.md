@@ -93,12 +93,12 @@ string; scale in place, never restyle to stick font; history-check first
 ### Themed (brief already given by Brandon) — ◐ ready to build
 | zone | theme |
 |---|---|
-| gfaydark | wood-elf |
+| gfaydark | wood-elf — ☑ `woodelf` 2026-09-08 |
 | lfaydark | dark Mirkwood (with the biome session) |
-| mistmoore | spooky vampire castle (unrest=haunted house, this=haunted castle) |
+| mistmoore | spooky vampire castle — ☑ `gothic` (prior session; verified 2026-09-08, reads well — flagging only that it sits on the larger end vs the smaller-title doctrine, Brandon to verdict) |
 | permafrost | ice castle (Halas meets Mistmoore) — ☑ `ice` 2026-09-08 |
-| hateplane | Innoruuk / Prince of Hate (Neriak cleric kin) |
-| innothule | swampy troll/froglok |
+| hateplane | Innoruuk / Prince of Hate (Neriak cleric kin) — ☑ `hate` 2026-09-08 |
+| innothule | swampy troll/froglok — ☑ `swamp` 2026-09-08 |
 | lavastorm | lava/ember — ☑ `lava` 2026-09-08 |
 | misty | (theme TBD, wants stylized) |
 | kithicor | dark forest (Kithicor kin to lfay) |
