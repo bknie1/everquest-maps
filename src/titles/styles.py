@@ -283,6 +283,31 @@ def woodelf(text, x, y, h, ink=(54, 98, 50), bark=(104, 76, 44), seed=0):
     return segs, _bbox(segs)
 
 
+def swamp(text, x, y, h, ink=(82, 96, 52), muck=(50, 60, 36), slime=(122, 142, 68),
+          seed=4):
+    """Innothule: a troll/froglok bog. Thick lurching caps (crude jitter) in
+    murky swamp green over a dark muck shadow, with slime oozing off the lowest
+    point of each letter and hanging in a fat droplet. Crude and dripping;
+    lettering treatment only, no floating figures."""
+    letters = _emit(text, x, y, h, tracking=19, seed=seed,
+                    rot_jitter=4.0, base_jitter=0.045, scale_jitter=0.09)
+    body = _lines(letters, ink)
+    segs = _thicken(body, h * 0.060, muck) + _thicken(body, h * 0.028, ink) + body
+    rng = random.Random(seed + 3)
+    for ch, polys in letters:                                  # one ooze drip per letter
+        pts = [p for poly in polys for p in poly]
+        lo = max(pts, key=lambda p: p[1])                      # lowest (south) point
+        dl = h * (0.16 + 0.18 * rng.random())
+        segs.append((lo[0], lo[1], lo[0] + h * 0.01, lo[1] + dl, slime))
+        r = h * 0.035                                          # fat droplet at the tip
+        cx, cy = lo[0] + h * 0.01, lo[1] + dl + r
+        for i in range(8):
+            a0, a1 = math.pi * i / 4, math.pi * (i + 1) / 4
+            segs.append((cx + r * math.cos(a0), cy + r * math.sin(a0),
+                         cx + r * math.cos(a1), cy + r * math.sin(a1), slime))
+    return segs, _bbox(segs)
+
+
 def rounded(text, x, y, h, ink=(122, 82, 42), cream=(180, 148, 96), seed=0):
     """Rivervale: soft round bowls, doubled for warmth, a full-stop dot."""
     letters = _emit(text, x, y, h, tracking=16, variants=ROUNDED, seed=seed)
@@ -369,7 +394,7 @@ STYLES = {
     "extruded": extruded, "small_caps": small_caps, "runic": runic,
     "crude": crude, "darkelf": darkelf, "highelf": highelf, "rounded": rounded,
     "clockwork": clockwork, "stately": stately, "refined": refined, "sylvan": sylvan,
-    "gothic": gothic, "woodelf": woodelf, "ice": ice, "lava": lava,
+    "gothic": gothic, "woodelf": woodelf, "ice": ice, "lava": lava, "swamp": swamp,
 }
 
 

@@ -87,7 +87,7 @@ string; scale in place, never restyle to stick font; history-check first
 | mistmoore | spooky vampire castle (unrest=haunted house, this=haunted castle) |
 | permafrost | ice castle (Halas meets Mistmoore) — ☑ `ice` 2026-09-08 |
 | hateplane | Innoruuk / Prince of Hate (Neriak cleric kin) |
-| innothule | swampy troll/froglok |
+| innothule | swampy troll/froglok — ☑ `swamp` 2026-09-08 |
 | lavastorm | lava/ember — ☑ `lava` 2026-09-08 |
 | misty | (theme TBD, wants stylized) |
 | kithicor | dark forest (Kithicor kin to lfay) |
