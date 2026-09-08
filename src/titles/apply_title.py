@@ -214,6 +214,8 @@ ZONES = {
                       protect=[(0.0, 1.0, -3520, -3400),     # top border zigzag row
                                (0.0, 0.06, -3400, -3150),    # left corner descent
                                (0.94, 1.0, -3400, -3150)]),  # right corner descent
+    "hateplane": dict(text="PLANE OF HATE", style="hate", mode="ink",
+                      inks={(50, 40, 64)}, grow=0.9, dy=-30),
     "mistmoore": dict(text="CASTLE MISTMOORE", style="gothic", mode="generic",
                       det=dict(graph_min_len=11.0, min_med_len=12.0, min_h=28,
                                max_h=150, max_w=160),

@@ -226,6 +226,27 @@ def lava(text, x, y, h, rock=(74, 54, 46), glow=(196, 84, 30), ember=(226, 150, 
     return segs, _bbox(segs)
 
 
+def hate(text, x, y, h, ink=(92, 54, 128), echo=(52, 32, 72), venom=(150, 178, 90),
+         seed=0):
+    """Plane of Hate (Innoruuk): cruel condensed caps, kin to Neriak `darkelf`
+    but crueler -- a hard dark echo and barbed hooks bristling off every stroke
+    terminal, each thorn tipped in Innoruuk's poison green. Lean by design (the
+    zone is budget-tight)."""
+    letters = _emit(text, x, y, h, tracking=10, condense=0.76, slant=0.05, seed=seed)
+    body = _lines(letters, ink)
+    segs = _offset(body, h * 0.05, h * 0.055, echo) + body
+    t = h * 0.14
+    for (ex, ey), (tx, ty) in _ends(letters):                  # barbed venom thorns
+        L = math.hypot(tx - ex, ty - ey) or 1
+        ux, uy = (ex - tx) / L, (ey - ty) / L                  # outward along stroke
+        nx, ny = -uy, ux                                       # perpendicular
+        px, py = ex + ux * t, ey + uy * t                      # thorn tip
+        segs.append((ex, ey, px, py, ink))                     # main thorn
+        segs.append((px, py, px - ux * t * 0.45 + nx * t * 0.4,
+                     py - uy * t * 0.45 + ny * t * 0.4, venom))  # venom back-barb
+    return segs, _bbox(segs)
+
+
 def highelf(text, x, y, h, ink=(44, 92, 56), gold=(198, 152, 62), seed=0):
     """Felwithe: light italic strokes with a golden echo and a vine swash."""
     letters = _emit(text, x, y, h, tracking=18, slant=0.14, seed=seed)
@@ -395,6 +416,7 @@ STYLES = {
     "crude": crude, "darkelf": darkelf, "highelf": highelf, "rounded": rounded,
     "clockwork": clockwork, "stately": stately, "refined": refined, "sylvan": sylvan,
     "gothic": gothic, "woodelf": woodelf, "ice": ice, "lava": lava, "swamp": swamp,
+    "hate": hate,
 }
 
 
