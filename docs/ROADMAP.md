@@ -12,7 +12,7 @@ Status: ☐ todo · ◐ in-flight (session) · ☑ done+verified · ⏸ needs Br
 ## P0 — Nektulos (closing 2026-09-08, the one that kept slipping)
 
 - ☑ Neriak gate: was mirrored (tool's y-flip) in the SW corner. V-flipped +
-  moved to top-left, native center (-1422,-2711), per Brandon's /loc target
+  moved to top-left, top-right by the "to Neriak" POI (native ~1108,-2272), gate center ~(1030,-2360)
   (2711,1422,-2737). Foliage keep-out applied. **place_neriak_gate.py is now
   guarded** so it can't re-dump the gate SW.
 - ☑ Lavastorm mountains: volcanic peak range added along the north edge with
