@@ -174,6 +174,27 @@ def gothic(text, x, y, h, ink=(74, 78, 98), blood=(120, 28, 34), seed=0):
     return segs, _bbox(segs)
 
 
+def ice(text, x, y, h, ink=(92, 126, 156), frost=(196, 216, 232), seed=0):
+    """Permafrost: an ice castle. Angular condensed caps in cold blue stone
+    (Halas runic geometry, Mistmoore castle condense), carved weight, a pale
+    frost highlight offset up-left, and icicles that hang from the low edges of
+    the horizontal strokes -- crystalline, not carved."""
+    letters = _emit(text, x, y, h, tracking=13, condense=0.82, variants=ANGULAR, seed=seed)
+    body = _lines(letters, ink)
+    segs = _thicken(body, h * 0.024, ink) + _offset(body, -h * 0.05, -h * 0.055, frost) + body
+    for _, polys in letters:                                   # icicles off low horizontals
+        for poly in polys:
+            for (ax, ay), (bx, by) in zip(poly, poly[1:]):
+                if abs(bx - ax) > abs(by - ay) * 1.6 and abs(bx - ax) > h * 0.18:
+                    mx = ax + (bx - ax) * 0.5
+                    my = max(ay, by)                           # south (down) edge
+                    dl = h * (0.14 + 0.10 * ((mx * 0.013) % 1))  # varied lengths
+                    w = h * 0.028
+                    segs += [(mx - w, my, mx, my + dl, frost),
+                             (mx + w, my, mx, my + dl, frost)]
+    return segs, _bbox(segs)
+
+
 def highelf(text, x, y, h, ink=(44, 92, 56), gold=(198, 152, 62), seed=0):
     """Felwithe: light italic strokes with a golden echo and a vine swash."""
     letters = _emit(text, x, y, h, tracking=18, slant=0.14, seed=seed)
@@ -193,6 +214,41 @@ def highelf(text, x, y, h, ink=(44, 92, 56), gold=(198, 152, 62), seed=0):
             segs += [(b[0], b[1], b[0] + s * 0.6, b[1] - s, ink),
                      (b[0] + s * 0.6, b[1] - s, b[0] + s * 1.2, b[1] - s * 0.3, ink),
                      (b[0] + s * 1.2, b[1] - s * 0.3, b[0], b[1], ink)]
+    return segs, _bbox(segs)
+
+
+def woodelf(text, x, y, h, ink=(54, 98, 50), bark=(104, 76, 44), seed=0):
+    """Greater Faydark: elegant living-wood caps for the wood-elf city of
+    Kelethin. Slender green strokes carried over a faint bark echo, with small
+    leaves budding from the cap-height tips and a thin sprigged branch beneath
+    the word. High-fantasy and organic -- distinct from Felwithe's gold italic
+    (highelf) and Surefall's rough ranger caps (sylvan)."""
+    letters = _emit(text, x, y, h, tracking=15, condense=0.95, seed=seed)
+    body = _lines(letters, ink)
+    segs = _offset(body, h * 0.020, h * 0.026, bark) + body        # faint bark depth
+    s = h * 0.17
+    for (ex, ey), _ in _ends(letters):                             # leaves at real tips
+        if ey > y - h * 0.72:
+            continue
+        segs += [(ex, ey, ex + s * 0.5, ey - s * 0.9, ink),        # leaf grows up/out
+                 (ex + s * 0.5, ey - s * 0.9, ex + s * 0.05, ey - s * 1.45, ink),
+                 (ex + s * 0.05, ey - s * 1.45, ex, ey, ink),
+                 (ex + s * 0.05, ey - s * 0.35, ex + s * 0.3, ey - s * 1.0, ink)]  # midrib
+    x0, y0, x1, y1 = _bbox(body)                                    # a living branch below
+    by = y + h * 0.15
+    n, prev = 22, None
+    for i in range(n + 1):
+        t = i / n
+        px = x0 + (x1 - x0) * t
+        py = by + math.sin(t * math.pi * 2.5) * h * 0.045
+        if prev:
+            segs.append((prev[0], prev[1], px, py, bark))
+        if i % 7 == 4:                                             # a sprig + leaf
+            segs += [(px, py, px + s * 0.45, py + s * 0.75, bark),
+                     (px + s * 0.45, py + s * 0.75, px + s * 0.95, py + s * 0.35, ink),
+                     (px + s * 0.95, py + s * 0.35, px + s * 0.35, py + s * 0.2, ink),
+                     (px + s * 0.35, py + s * 0.2, px + s * 0.45, py + s * 0.75, ink)]
+        prev = (px, py)
     return segs, _bbox(segs)
 
 
@@ -282,7 +338,7 @@ STYLES = {
     "extruded": extruded, "small_caps": small_caps, "runic": runic,
     "crude": crude, "darkelf": darkelf, "highelf": highelf, "rounded": rounded,
     "clockwork": clockwork, "stately": stately, "refined": refined, "sylvan": sylvan,
-    "gothic": gothic,
+    "gothic": gothic, "woodelf": woodelf, "ice": ice,
 }
 
 

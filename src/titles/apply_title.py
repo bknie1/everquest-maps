@@ -205,6 +205,8 @@ ZONES = {
                    inks={(62, 104, 56)}, grow=1.2),
     "qrg": dict(text="SUREFALL GLADE", style="sylvan", mode="generic",
                 knockout=True),
+    "permafrost": dict(text="PERMAFROST KEEP", style="ice", mode="ink",
+                       inks={(72, 62, 54)}, grow=0.72, dy=-67),
     "mistmoore": dict(text="CASTLE MISTMOORE", style="gothic", mode="generic",
                       det=dict(graph_min_len=11.0, min_med_len=12.0, min_h=28,
                                max_h=150, max_w=160),

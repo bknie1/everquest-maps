@@ -57,6 +57,7 @@ STYLE = {
     "neriaka": "darkelf", "neriakb": "darkelf", "neriakc": "darkelf",
     "felwithea": "highelf", "felwitheb": "highelf",
     "rivervale": "rounded", "akanon": "clockwork", "qrg": "sylvan",
+    "mistmoore": "gothic (vampire castle)", "permafrost": "ice (castle)",
     "paineel": "3d-wireframe (restored)", "kerraridge": "3d-wireframe (restored)",
     "tox": "3d-wireframe (restored)",
     # exemplars named by docs/TITLES.md -- styled long before the city slate

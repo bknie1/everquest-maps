@@ -84,7 +84,7 @@ string; scale in place, never restyle to stick font; history-check first
 | gfaydark | wood-elf |
 | lfaydark | dark Mirkwood (with the biome session) |
 | mistmoore | spooky vampire castle (unrest=haunted house, this=haunted castle) |
-| permafrost | ice castle (Halas meets Mistmoore) |
+| permafrost | ice castle (Halas meets Mistmoore) — ☑ `ice` 2026-09-08 |
 | hateplane | Innoruuk / Prince of Hate (Neriak cleric kin) |
 | innothule | swampy troll/froglok |
 | lavastorm | lava/ember |
