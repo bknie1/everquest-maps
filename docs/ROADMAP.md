@@ -19,13 +19,17 @@ Status: ☐ todo · ◐ in-flight (session) · ☑ done+verified · ⏸ needs Br
 - ☑ Lavastorm mountains: volcanic peak range added along the north edge with
   lava-glow markers by the "to Lavastorm" exit.
 - ☑ Nektropos castle: shifted right (2026-09-06). Brandon: "looks great."
-- ◐ HD flora/fauna update (2026-09-08): **fauna DONE** — the 15 old fauna.py
-  wireframe figures (skeleton, halfling, dark elf) retired for fauna_sil
-  silhouettes, curated to 8 solid figures (3 Teir'Dal, 2 skeletons, 1 orc =
-  Deathfist/orc-runner, 2 Leatherfoot halflings), fill-decimated to fit budget.
-  Spiders kept (no SIL spider). Tool: src/zones/nek_hd_fauna.py. **Flora TODO** —
-  the margin trees are still old rough sketches (ink 46,40,68); replace with
-  flora_hd darkwood (matching lfay/kithicor). Keep-outs untouched.
+- ☑ HD flora/fauna update (2026-09-08): **fauna** — 15 old fauna.py wireframes
+  (skeleton, halfling, dark elf) retired for fauna_sil silhouettes, curated to 8
+  solid figures (3 Teir'Dal, 2 skeletons, 1 orc = Deathfist/orc-runner, 2
+  Leatherfoot halflings); spiders kept (no SIL spider); tool nek_hd_fauna.py.
+  **flora** — the rough polygon-crown margin forest (north purple 46,40,68 +
+  south green) replaced with the lfay/kithicor Mirkwood recipe: FH.darkwood
+  giants over a black-green conifer understory + snags, north purple / south
+  green; tool nek_hd_flora.py. 6,873 crown strokes out, ~4,811 HD in (total
+  28,567/31k). Keep-outs all guarded; giants held off the title band. A few
+  interior-edge green crowns in halfling country left alone (interior forest,
+  not margin). Render-verified.
 - ⏸ Stylized title (see Title Campaign below — themed, not plain).
 
 ## Meta-fix (why this file exists)
@@ -42,8 +46,8 @@ it reports back and its zones are verified.
 - ◐ crushbone-hd — Crushbone HD decor modernization.
 - ◐ lfay-mirkwood — Lesser Faydark dark-wood identity (giant mushrooms/trees).
 - ◐ felwithe — banner + entrance-facade archaeology, compass, trees, flora.
-- ◐ nektulos-hd — Nektulos HD flora/fauna (2026-09-08): fauna done (wireframes →
-  fauna_sil silhouettes); flora (46,40,68 margin sketches → darkwood) in flight.
+- ☑ nektulos-hd — Nektulos HD flora/fauna (2026-09-08): fauna (wireframes →
+  fauna_sil silhouettes) + flora (rough margin crowns → darkwood Mirkwood). Done.
 
 ## DONE + verified (2026-09-06 → 09-08)
 
