@@ -156,6 +156,24 @@ def darkelf(text, x, y, h, ink=(112, 72, 152), echo=(70, 46, 96), seed=0):
     return segs, _bbox(segs)
 
 
+def gothic(text, x, y, h, ink=(74, 78, 98), blood=(120, 28, 34), seed=0):
+    """Castle Mistmoore: condensed tall caps in cold blue-grey stone, cast with
+    a blood-red shadow and fanged spike terminals -- a vampire-castle feel.
+    Palette from Brandon's Mayong Mistmoore reference (dark blue stone + blood red)."""
+    letters = _emit(text, x, y, h, tracking=11, condense=0.80, seed=seed)
+    body = _lines(letters, ink)
+    segs = _offset(body, h * 0.05, h * 0.055, blood) + body      # blood-red drop shadow
+    t = h * 0.09
+    for (ex, ey), (tx, ty) in _ends(letters):                    # fanged spike terminals
+        if abs(tx - ex) > abs(ty - ey):                          # vertical strokes only
+            continue
+        L = math.hypot(tx - ex, ty - ey) or 1
+        ux, uy = (ex - tx) / L, (ey - ty) / L                    # outward
+        segs.append((ex - uy * t * 0.5, ey + ux * t * 0.5, ex + ux * t, ey + uy * t, ink))
+        segs.append((ex + uy * t * 0.5, ey - ux * t * 0.5, ex + ux * t, ey + uy * t, ink))
+    return segs, _bbox(segs)
+
+
 def highelf(text, x, y, h, ink=(44, 92, 56), gold=(198, 152, 62), seed=0):
     """Felwithe: light italic strokes with a golden echo and a vine swash."""
     letters = _emit(text, x, y, h, tracking=18, slant=0.14, seed=seed)
@@ -264,6 +282,7 @@ STYLES = {
     "extruded": extruded, "small_caps": small_caps, "runic": runic,
     "crude": crude, "darkelf": darkelf, "highelf": highelf, "rounded": rounded,
     "clockwork": clockwork, "stately": stately, "refined": refined, "sylvan": sylvan,
+    "gothic": gothic,
 }
 
 
