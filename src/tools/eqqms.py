@@ -59,7 +59,7 @@ STYLE = {
     "rivervale": "rounded", "akanon": "clockwork", "qrg": "sylvan",
     "mistmoore": "gothic (vampire castle)", "permafrost": "ice (castle)",
     "lavastorm": "lava (molten)", "innothule": "swamp (troll/froglok)",
-    "hateplane": "hate (Innoruuk)",
+    "hateplane": "hate (Innoruuk)", "gfaydark": "woodelf",
     "paineel": "3d-wireframe (restored)", "kerraridge": "3d-wireframe (restored)",
     "tox": "3d-wireframe (restored)",
     # exemplars named by docs/TITLES.md -- styled long before the city slate

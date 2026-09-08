@@ -216,6 +216,8 @@ ZONES = {
                                (0.94, 1.0, -3400, -3150)]),  # right corner descent
     "hateplane": dict(text="PLANE OF HATE", style="hate", mode="ink",
                       inks={(50, 40, 64)}, grow=0.9, dy=-30),
+    "gfaydark": dict(text="GREATER FAYDARK", style="woodelf", mode="ink",
+                     inks={(90, 60, 34)}, grow=0.85, dy=-80, band_pad=110),
     "mistmoore": dict(text="CASTLE MISTMOORE", style="gothic", mode="generic",
                       det=dict(graph_min_len=11.0, min_med_len=12.0, min_h=28,
                                max_h=150, max_w=160),
@@ -233,11 +235,14 @@ def apply_zone(zone, dry=False):
     fx0, fx1 = lo["frame"][0], lo["frame"][1]
     path = os.path.join(MAPS, zone + "_2.txt")
     raw = [l for l in open(path, encoding="utf-8").read().splitlines() if l.strip()]
+    # band cutoff is gy0+40 by default; band_pad lets a zone whose title dips
+    # below that line (a few letter feet at the grid top) capture all of it.
+    cutoff = gy0 + cfg.get("band_pad", 40)
     keep_lines, band, band_lines = [], [], []
     for l in raw:
         if l[:1] == "L":
             s = parse(l)
-            if (s[1] + s[3]) / 2 < gy0 + 40:
+            if (s[1] + s[3]) / 2 < cutoff:
                 band.append(s)
                 band_lines.append(l)
                 continue
