@@ -195,6 +195,37 @@ def ice(text, x, y, h, ink=(92, 126, 156), frost=(196, 216, 232), seed=0):
     return segs, _bbox(segs)
 
 
+def lava(text, x, y, h, rock=(74, 54, 46), glow=(196, 84, 30), ember=(226, 150, 48),
+         seed=0):
+    """Lavastorm: molten letters. Heavy dark-basalt caps carried over a hot
+    lava-glow echo, a few glowing cracks across the strokes, and lava dripping
+    from the low edges with a bright bead partway down. Cracked and molten,
+    inside the atlas's volcanic inks (no neon)."""
+    letters = _emit(text, x, y, h, tracking=15, condense=0.90, seed=seed)
+    body = _lines(letters, rock)
+    segs = _offset(body, h * 0.035, h * 0.04, glow)            # hot glow behind
+    segs += _thicken(body, h * 0.03, rock) + body              # thick basalt
+    rng = random.Random(seed + 2)
+    for (a, b, c, d, _) in body:                               # glowing cracks
+        if rng.random() < 0.22:
+            mx, my = (a + c) / 2, (b + d) / 2
+            L = math.hypot(c - a, d - b) or 1
+            nx, ny = -(d - b) / L, (c - a) / L
+            s = h * 0.045
+            segs.append((mx - nx * s, my - ny * s, mx + nx * s, my + ny * s, ember))
+    for _, polys in letters:                                   # lava drips off low edges
+        for poly in polys:
+            for (ax, ay), (bx, by) in zip(poly, poly[1:]):
+                if abs(bx - ax) > abs(by - ay) * 1.6 and abs(bx - ax) > h * 0.2:
+                    mx = ax + (bx - ax) * 0.5
+                    my = max(ay, by)
+                    dl = h * (0.12 + 0.12 * rng.random())
+                    segs.append((mx, my, mx, my + dl, glow))
+                    segs.append((mx - h * 0.02, my + dl * 0.55, mx + h * 0.02,
+                                 my + dl * 0.55, ember))        # molten bead
+    return segs, _bbox(segs)
+
+
 def highelf(text, x, y, h, ink=(44, 92, 56), gold=(198, 152, 62), seed=0):
     """Felwithe: light italic strokes with a golden echo and a vine swash."""
     letters = _emit(text, x, y, h, tracking=18, slant=0.14, seed=seed)
@@ -338,7 +369,7 @@ STYLES = {
     "extruded": extruded, "small_caps": small_caps, "runic": runic,
     "crude": crude, "darkelf": darkelf, "highelf": highelf, "rounded": rounded,
     "clockwork": clockwork, "stately": stately, "refined": refined, "sylvan": sylvan,
-    "gothic": gothic, "woodelf": woodelf, "ice": ice,
+    "gothic": gothic, "woodelf": woodelf, "ice": ice, "lava": lava,
 }
 
 
