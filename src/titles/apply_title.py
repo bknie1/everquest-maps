@@ -208,7 +208,7 @@ ZONES = {
     "mistmoore": dict(text="CASTLE MISTMOORE", style="gothic", mode="generic",
                       det=dict(graph_min_len=11.0, min_med_len=12.0, min_h=28,
                                max_h=150, max_w=160),
-                      grow=1.9, knockout=True),
+                      grow=2.7, knockout=True),
     "freeportsewers": dict(text="FREEPORT SEWERS", style="extruded", mode="ink",
                            inks={(92, 80, 66)},
                            kw=dict(face=(122, 128, 74), depth_ink=(56, 58, 40))),

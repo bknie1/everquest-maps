@@ -15,7 +15,7 @@
 src/titles/styles.py — condensed tall caps in cold blue-grey stone (74,78,98)
 with a blood-red drop shadow (120,28,34) and fanged spike terminals, palette
 from Brandon's Mayong Mistmoore reference (blue Teir'Dal, blood red). Applied
-via apply_title (mistmoore ZONES entry, mode=generic, det max_h=150, grow=1.9;
+via apply_title (mistmoore ZONES entry, mode=generic, det max_h=150, grow=2.7;
 removed 92 old plain-cap strokes, drew 196). Fog border + map untouched.
 FIRST VERSION — open to iteration: bat-gargoyle border motif and/or gold
 accents and a margin vampire-lord figure (Najena-banner style) still possible
