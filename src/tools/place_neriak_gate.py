@@ -29,6 +29,17 @@ def bbox(lines):
 
 
 def main():
+    # GUARD (2026-09-08): this tool placed the gate in the SW margin with a
+    # y-flip (see ty() below), which rendered the sketch upside-down/mirrored.
+    # Brandon flagged it repeatedly. The gate is now hand-corrected in
+    # nektulos_2.txt: v-flipped, top-left, native center (-1422,-2711). Do NOT
+    # re-run this without fixing the placement below, or it will re-break the
+    # gate. Remove this guard only after the corner + ty() flip are corrected.
+    raise SystemExit(
+        "place_neriak_gate.py is disabled: it re-mirrors the gate into the SW "
+        "corner. The gate is hand-placed in nektulos_2.txt (top-left, v-flipped). "
+        "Fix the SW-corner + y-flip logic here before removing this guard.")
+
     segs = neriak_gate_segs()
     lminx = min(min(s[0], s[2]) for s in segs); lmaxx = max(max(s[0], s[2]) for s in segs)
     lminy = min(min(s[1], s[3]) for s in segs); lmaxy = max(max(s[1], s[3]) for s in segs)
