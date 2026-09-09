@@ -1,5 +1,5 @@
 # Plane_of_Hate (eqlwiki.com)
-fetched: 2026-09-08
+fetched: 2026-09-09
 
 Plane of Hate - EverQuest Legends Wiki
 Jump to content
@@ -655,8 +655,10 @@ Mimic |
 Warrior |
 50 |
 13% @ (113, 277), 13% @ (274, -277), 13% @ (410, -74), 13% @ (-321, 306), 13% @ (203, -221), 13% @ (-67, -279), 13% @ (-324, -293), 13% @ (-148, -214) |
-Various |
-Drops All Group 1 Armor (Common) and [[Classic Planar Armor: Group 2| All Group 2 Ar... |
+Lustrous Russet Armor, Special Drops - See Notes below |
+Drops Lustrous Russet Armor (Common)
+Lore
+Haunted chests are just one example of the many malevolent animate... |
 A Kiraikuei
 |
 Zombie |

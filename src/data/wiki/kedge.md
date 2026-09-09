@@ -1,5 +1,5 @@
 # Kedge_Keep (eqlwiki.com)
-fetched: 2026-09-08
+fetched: 2026-09-09
 
 Kedge Keep - EverQuest Legends Wiki
 Jump to content
@@ -1726,14 +1726,14 @@ Lore Equipped, No Trade, Placeable
 Slot: PRIMARY
 Skill: Piercing Atk Delay: 30
 DMG: 10BACKSTAB: 10
-Effect: Frost Strike (Combat, Casting Time: Instant) at Level 45
-WT: 2.0 Size: LARGE
+Effect: Frost Strike (Combat, Rate +35%) at Level 45
+Size: LARGE WT: 2.0
 Class: ROG
 Race: ALL
 |
 Phinigel Autropos |
 Piercing |
-Atk Delay: 30 DMG: 10 Effect: Frost Strike (Combat, Casting Time: Instant) at Level 45 WT: 2.0 Size: LARGE Class: ROG Race: ALL |
+Atk Delay: 30 DMG: 10 Effect: Frost Strike (Combat, Rate +35%) at Level 45 Size: LARGE WT: 2.0 Class: ROG Race: ALL |
 Wand of IceWand of Ice
 MAGIC ITEM LORE ITEM NO DROP
 Slot: PRIMARY
@@ -1841,8 +1841,8 @@ Lore Equipped, No Trade, Placeable
 Slot: PRIMARY
 Skill: Piercing Atk Delay: 30
 DMG: 10BACKSTAB: 10
-Effect: Frost Strike (Combat, Casting Time: Instant) at Level 45
-WT: 2.0 Size: LARGE
+Effect: Frost Strike (Combat, Rate +35%) at Level 45
+Size: LARGE WT: 2.0
 Class: ROG
 Race: ALL
 , Wand of Mana TappingWand of Mana Tapping
