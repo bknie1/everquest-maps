@@ -9,7 +9,7 @@ Status: ☐ todo · ◐ in-flight (session) · ☑ done+verified · ⏸ needs Br
 
 ---
 
-## P0 — Nektulos (closing 2026-09-08, the one that kept slipping)
+## P0 — Nektulos ☑ CLOSED 2026-09-09 (released v0.2.2-alpha)
 
 - ☑ Neriak gate: was mirrored (tool's y-flip) in the SW corner. V-flipped
   upright and moved to the TOP-RIGHT beside its own "to Neriak" zone-line POI
@@ -19,17 +19,16 @@ Status: ☐ todo · ◐ in-flight (session) · ☑ done+verified · ⏸ needs Br
 - ☑ Lavastorm mountains: volcanic peak range added along the north edge with
   lava-glow markers by the "to Lavastorm" exit.
 - ☑ Nektropos castle: shifted right (2026-09-06). Brandon: "looks great."
-- ☑ HD flora/fauna update (2026-09-08): **fauna** — 15 old fauna.py wireframes
-  (skeleton, halfling, dark elf) retired for fauna_sil silhouettes, curated to 8
-  solid figures (3 Teir'Dal, 2 skeletons, 1 orc = Deathfist/orc-runner, 2
-  Leatherfoot halflings); spiders kept (no SIL spider); tool nek_hd_fauna.py.
-  **flora** — the rough polygon-crown margin forest (north purple 46,40,68 +
-  south green) replaced with the lfay/kithicor Mirkwood recipe: FH.darkwood
-  giants over a black-green conifer understory + snags, north purple / south
-  green; tool nek_hd_flora.py. 6,873 crown strokes out, ~4,811 HD in (total
-  28,567/31k). Keep-outs all guarded; giants held off the title band. A few
-  interior-edge green crowns in halfling country left alone (interior forest,
-  not margin). Render-verified.
+- ☑ Creepy-forest rebuild (2026-09-09, src/zones/nek_rebuild.py) — Brandon's
+  real pass. Composed _2 fresh BY REGION (past the 34,58,38 shared-ink
+  entanglement): kept interior + fauna_sil silhouettes + castle + title +
+  compass; PURGED all old tree/crown flora. New flora = a CREEPY dead-forest of
+  bare snags + dark conifers on a quantized green(south)→purple→blue(north)
+  gradient (the halfling→Neriak transition Brandon loves). Neriak gate flipped
+  right-way-up + reseated in the right margin; Nektropos castle RESTORED; frame
+  WIDENED (borders -1990/1780 → -2170/2130) so the margin has room; volcanoes at
+  the Lavastorm exit; keep-outs for the wizard gate / portals / ruins. 15,676/31k,
+  grade B, 0 dupes. Superseded the 09-08 HD flora (darkwood) + fauna passes.
 - ⏸ Stylized title (see Title Campaign below — themed, not plain).
 
 ## Meta-fix (why this file exists)
