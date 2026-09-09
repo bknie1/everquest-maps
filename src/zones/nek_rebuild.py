@@ -44,6 +44,8 @@ FX0, FX1, FY0, FY1 = -2382, 2166, -4497, 3749
 TITLE_Y = -3315
 COMPASS = (1514.0, 2872.0, 300.0)
 
+FRAME_INKS = {(90, 70, 110), (120, 115, 125), (45, 38, 55)}
+NEW_LX, NEW_RX = -2170.0, 2130.0        # widened side borders (was ~-1990 / ~1780)
 GATE_INK = (72, 66, 86)
 DROP_INK = {(80, 58, 50), (210, 90, 25), (60, 45, 45), GATE_INK}   # lava peaks + gate blob
 CASTLE_INKS = {(54, 44, 70), (86, 74, 104), (45, 38, 55), (90, 70, 110),
@@ -134,13 +136,28 @@ def main():
     def in_fauna(x, y):
         return any((x - fx) ** 2 + (y - fy) ** 2 < FAUNA_R ** 2 for fx, fy in FAUNA_PTS)
 
+    def old_side_border(mx, my, ink):
+        # the worn side-border zigzags we are moving outward (not the title/bottom
+        # borders, not the castle sketch)
+        if ink not in FRAME_INKS or my <= TITLE_Y:
+            return False
+        if mx < -1500 and my > 700:                       # castle sketch
+            return False
+        if 1470 < mx < 1880 and -3320 < my < 3400:        # right side border
+            return True
+        if -2070 < mx < -1930 and -3320 < my < 760:       # left side border (upper)
+            return True
+        return False
+
     kept = []
-    d_tree = d_art = n_castle = 0
+    d_tree = d_art = d_frame = n_castle = 0
     for l in body:
         x1, y1, x2, y2, ink = parse(l)
         mx, my = (x1 + x2) / 2, (y1 + y2) / 2
         if ink in DROP_INK:
             d_art += 1; continue
+        if old_side_border(mx, my, ink):                  # remove; re-drawn wider
+            d_frame += 1; continue
         if my <= TITLE_Y or (mx - cx) ** 2 + (my - cy) ** 2 < cr * cr:
             kept.append(l); continue
         if mx < -1500 and my > 700 and ink in CASTLE_INKS:
@@ -151,9 +168,12 @@ def main():
 
     # ---- keep-outs for the new flora ----
     pois = load_pois()
-    KEEPOUTS = [(-2130, -1500, 700, 3400),
-                (int(cx - cr), int(cx + cr), int(cy - cr), int(cy + cr)),
-                (1430, 2110, -2760, -1740)]
+    KEEPOUTS = [(-2130, -1470, 720, 1560),                  # Nektropos castle (towers only)
+                (int(cx - cr), int(cx + cr), int(cy - cr), int(cy + cr)),  # compass
+                (1490, 2100, -2700, -1840),                 # Neriak gate footprint
+                (-60, 940, -1040, -340),                    # wizard gate / Knowledge Portal / Minor Spires
+                (-140, 300, -2020, -1680),                  # north obelisk ruin
+                (-1380, -1030, 800, 1080)]                  # Halfling Ruins gold statue
 
     def in_keepout(x, y):
         return (any(a < x < b and c < y < d for a, b, c, d in KEEPOUTS)
@@ -187,12 +207,33 @@ def main():
             new.extend(Lstr(*g) for g in tree(x, y, dead))
             placed.append((x, y, spacing))
 
-    # dense creepy margins (bare snags + gradient conifers), spaced so no tangle
-    populate((-2080, -1460, -2820, 900), 62, 11, 106)             # left column
-    populate((1160, 2020, -2820, 760), 54, 12, 106)               # right column
-    populate((-1950, 1750, 960, 3320), 46, 41, 112, gap_below_grid=True)  # south U
-    # a light creepy scatter INSIDE the grid too -- a haunted wood, off the labels
-    populate((GX0 + 120, GX1 - 120, GY0 + 260, GY1 - 160), 42, 71, 250, dead_frac=0.62)
+    # ---- widened side borders (worn zigzag), so the margin has real room ----
+    FRAME_INK = (90, 70, 110)
+
+    def vzig(x, y0, y1, amp=38.0, wl=150.0):
+        out = []
+        n = max(2, int(abs(y1 - y0) / wl))
+        px, py = x - amp, y0
+        for k in range(n + 1):
+            ny = y0 + (y1 - y0) * (k + 1) / (n + 1)
+            nx = x + amp if px < x else x - amp
+            out.append((px, py, nx, ny, FRAME_INK)); px, py = nx, ny
+        return out
+    border = vzig(NEW_RX, -3304, 3379) + vzig(NEW_LX, -3304, 700)
+    border += [(1780, -3304, NEW_RX, -3304, FRAME_INK),      # top-right connector
+               (1803, 3379, NEW_RX, 3379, FRAME_INK),        # bottom-right connector
+               (-1990, -3304, NEW_LX, -3304, FRAME_INK),     # top-left connector
+               (-1990, 700, NEW_LX, 700, FRAME_INK)]         # left border foot (by castle)
+    new.extend(Lstr(*s) for s in border)
+
+    # dense creepy margins (bare snags + gradient conifers) -- ~doubled, spaced
+    # tight but not tangling; the SW now fills right up to the castle towers, and
+    # the columns run to the NEW borders so nothing spills outside the frame.
+    populate((-2130, -1440, -3120, 1620), 132, 11, 86)            # left column (full height)
+    populate((1150, 2090, -3120, 780), 120, 12, 86)               # right column
+    populate((-1950, 1760, 960, 3360), 82, 41, 90, gap_below_grid=True)   # south U
+    # a denser haunted wood INSIDE the grid too, held off the labels + structures
+    populate((GX0 + 110, GX1 - 110, GY0 + 240, GY1 - 150), 74, 71, 196, dead_frac=0.64)
 
     # ---- volcanoes by the "to Lavastorm" exit ----
     volc = []
@@ -205,7 +246,9 @@ def main():
     segs = neriak_gate_segs()
     lminx = min(min(s[0], s[2]) for s in segs); lmaxx = max(max(s[0], s[2]) for s in segs)
     lminy = min(min(s[1], s[3]) for s in segs); lmaxy = max(max(s[1], s[3]) for s in segs)
-    tcx, tcy, tw, th = 1770.0, -2250.0, 620.0, 760.0
+    # right margin is now ~690 wide (grid 1440 -> new border 2130); sit clearly
+    # inside it by the "to Neriak" exit.
+    tcx, tcy, tw, th = 1790.0, -2250.0, 560.0, 740.0
     sc = min(tw / (lmaxx - lminx), th / (lmaxy - lminy))
     nx0 = tcx - (lminx + lmaxx) / 2 * sc
     ny0 = tcy - (lminy + lmaxy) / 2 * sc
