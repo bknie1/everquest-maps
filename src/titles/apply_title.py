@@ -218,6 +218,12 @@ ZONES = {
                       inks={(50, 40, 64)}, grow=0.9, dy=-30),
     "gfaydark": dict(text="GREATER FAYDARK", style="woodelf", mode="ink",
                      inks={(90, 60, 34)}, grow=0.85, dy=-80, band_pad=110),
+    "kithicor": dict(text="KITHICOR FOREST", style="darkwood", mode="box",
+                     inks={(34, 58, 38)}, box=(-3650, 1300, -2820, -2440),
+                     min_len=45, grow=0.85, dy=-40),
+    "nektulos": dict(text="NEKTULOS FOREST", style="darkwood", mode="ink",
+                     inks={(34, 58, 38)}, grow=0.85, dy=-25,
+                     kw=dict(ink=(96, 74, 132), branch=(78, 66, 76))),
     "mistmoore": dict(text="CASTLE MISTMOORE", style="gothic", mode="generic",
                       det=dict(graph_min_len=11.0, min_med_len=12.0, min_h=28,
                                max_h=150, max_w=160),
@@ -265,6 +271,19 @@ def apply_zone(zone, dry=False):
             removed = {i for i in removed
                        if not (pf0 <= ((band[i][0] + band[i][2]) / 2 - b0) / bw <= pf1
                                and py0 <= (band[i][1] + band[i][3]) / 2 <= py1)}
+    elif cfg["mode"] == "box":
+        # letters share their ink with scattered decor (bushes/trees) at similar
+        # y: component and ink_comp detection fragment this plain-cap font, so
+        # bound the title with an explicit box (x0,x1,y0,y1) and take that ink
+        # inside it. Decor outside the box (and other inks inside it) survive.
+        bx = cfg["box"]
+        inks = cfg.get("inks")
+        minlen = cfg.get("min_len", 0.0)
+        removed = {i for i, s in enumerate(band)
+                   if (inks is None or s[4] in inks)
+                   and bx[0] <= (s[0] + s[2]) / 2 <= bx[1]
+                   and bx[2] <= (s[1] + s[3]) / 2 <= bx[3]
+                   and slen(s) >= minlen}
     elif cfg["mode"] == "ink_comp":
         # letters share ink with other art (guards, trees): restrict to the
         # letter inks, then keep only letter-shaped components of them
@@ -274,7 +293,7 @@ def apply_zone(zone, dry=False):
         removed = {pool[i] for i in picked}
     else:
         removed = letter_components(band, **cfg.get("det", {}))
-    if cfg["mode"] != "all":
+    if cfg["mode"] not in ("all", "box"):
         removed |= sweep_bboxes(band, removed)
     if "rule_ink" in cfg:
         # long ruled lines tied to the old lettering (underlines), taken by

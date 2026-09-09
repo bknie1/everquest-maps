@@ -329,6 +329,30 @@ def swamp(text, x, y, h, ink=(82, 96, 52), muck=(50, 60, 36), slime=(122, 142, 6
     return segs, _bbox(segs)
 
 
+def darkwood(text, x, y, h, ink=(40, 58, 44), branch=(84, 74, 60), seed=1):
+    """Kithicor / Nektulos: a dark haunted forest. Gaunt caps with a slight
+    gnarl and a muted dead-branch echo, bare twig-forks splitting off some
+    terminals -- leafless and spooky, kin to Lesser Faydark's Mirkwood. Lean by
+    design (forest zones are budget-tight). Pass a violet ink for the Teir'Dal
+    (Nektulos) variant."""
+    letters = _emit(text, x, y, h, tracking=14, condense=0.90, seed=seed,
+                    rot_jitter=2.5, base_jitter=0.02)
+    body = _lines(letters, ink)
+    segs = _offset(body, h * 0.03, h * 0.035, branch) + body       # dead-branch echo
+    rng = random.Random(seed + 7)
+    t = h * 0.17
+    for (ex, ey), (tx, ty) in _ends(letters):                      # bare twig forks
+        if rng.random() < 0.4:
+            continue
+        L = math.hypot(tx - ex, ty - ey) or 1
+        ux, uy = (ex - tx) / L, (ey - ty) / L                      # outward
+        for ang in (0.55, -0.55):
+            ca, sa = math.cos(ang), math.sin(ang)
+            dx, dy = ux * ca - uy * sa, ux * sa + uy * ca
+            segs.append((ex, ey, ex + dx * t, ey + dy * t, branch))
+    return segs, _bbox(segs)
+
+
 def rounded(text, x, y, h, ink=(122, 82, 42), cream=(180, 148, 96), seed=0):
     """Rivervale: soft round bowls, doubled for warmth, a full-stop dot."""
     letters = _emit(text, x, y, h, tracking=16, variants=ROUNDED, seed=seed)
@@ -416,7 +440,7 @@ STYLES = {
     "crude": crude, "darkelf": darkelf, "highelf": highelf, "rounded": rounded,
     "clockwork": clockwork, "stately": stately, "refined": refined, "sylvan": sylvan,
     "gothic": gothic, "woodelf": woodelf, "ice": ice, "lava": lava, "swamp": swamp,
-    "hate": hate,
+    "hate": hate, "darkwood": darkwood,
 }
 
 

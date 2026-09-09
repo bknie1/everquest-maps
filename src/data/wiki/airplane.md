@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-09-08
+fetched: 2026-09-09
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -1323,7 +1323,7 @@ Silken Wrap (6-BZ)
 Wu's Fist of MasteryWu's Fist of Mastery
 MAGIC ITEM NO DROP
 Slot: PRIMARY SECONDARY
-Skill: 1H Blunt Atk Delay: 22
+Skill: Hand to Hand Atk Delay: 22
 DMG: 16
 WT: 0.5 Size: TINY
 Class: MNK
@@ -2224,13 +2224,12 @@ Wind Rune Fana
 Woven Skull Cap (4-KoS)
 |
 Raiment of ThunderRaiment of Thunder
-MAGIC ITEM LORE ITEM NO DROP
+Lore, No Trade
 Slot: SHOULDERS
-Charges: 2
 AC: 4
 STR: +5 INT: +5 MANA: +15
 SV DISEASE: +5 SV POISON: +10
-Effect: Thunder Strike (Must Equip, Casting Time: Instant) at Level 45
+Effect: Thunder Strike (Must Equip, Casting Time: Instant, Cooldown: 120 seconds) at Level 45
 WT: 0.3 Size: SMALL
 Class: WIZ
 Race: ALL
@@ -3466,7 +3465,7 @@ Warrior |
 |
 None |
 This is the quest NPC for Wizard Plane of Sky Tests turn ins. |
-Items - Found 266 items that drop in Plane of Sky:
+Items - Found 267 items that drop in Plane of Sky:
 Item Name | Drops From | Slot | Stats |
 Acidic VenomAcidic Venom
 LORE ITEM
@@ -3944,6 +3943,19 @@ Race: ALL
 Various |
 Wrist |
 CHA: 7 INT: 7 MANA: 20 WT: 0.1 Size: TINY Class: ENC Race: ALL |
+Brass KnucklesBrass Knuckles
+No Trade, Quest, Placeable
+Slot: Primary Secondary
+Skill: 1H Blunt Atk Delay: 25
+DMG: 10
+Dmg Bon: 12
+WT: 1.0 Size: MEDIUM
+Class: MNK BST
+Race: ALL
+|
+None? |
+1H Blunt |
+Atk Delay: 25 DMG: 10 Dmg Bon: 12 WT: 1.0 Size: MEDIUM Class: MNK BST Race: ALL |
 Breath of GwanBreath of Gwan
 MAGIC ITEM LORE ITEM NO DROP
 WT: 0.1 Size: SMALL

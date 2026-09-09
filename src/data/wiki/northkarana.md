@@ -1,5 +1,5 @@
 # Northern_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-09-08
+fetched: 2026-09-09
 
 Northern Plains of Karana - EverQuest Legends Wiki
 Jump to content
@@ -833,8 +833,13 @@ AC: 8
 WT: 10.0 Size: LARGE
 Class: WAR CLR PAL RNG SHD DRU BRD ROG SHM
 Race: ALL
-, Cracked Corrupt Guard Helm |
-Spawns in the north east corner of the zone. Casts Siphon Strength and Clinging Darkness. Give him 5 gold pieces... |
+, Cracked Corrupt Guard HelmCracked Corrupt Guard Helm
+LORE ITEM NO DROP
+WT: 1.0 Size: SMALL
+Class: ALL
+Race: ALL
+|
+Spawns in the north east corner of the zone. Casts Siphon Strength and Clinging Darkness. Is a popular source fo... |
 Guard Stanard
 |
 Qeynos Citizen |

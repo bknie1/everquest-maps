@@ -27,9 +27,11 @@ Status: ☐ todo · ◐ in-flight (session) · ☑ done+verified · ⏸ needs Br
   gradient (the halfling→Neriak transition Brandon loves). Neriak gate flipped
   right-way-up + reseated in the right margin; Nektropos castle RESTORED; frame
   WIDENED (borders -1990/1780 → -2170/2130) so the margin has room; volcanoes at
-  the Lavastorm exit; keep-outs for the wizard gate / portals / ruins. 15,676/31k,
-  grade B, 0 dupes. Superseded the 09-08 HD flora (darkwood) + fauna passes.
-- ⏸ Stylized title (see Title Campaign below — themed, not plain).
+  the Lavastorm exit; keep-outs for the wizard gate / portals / ruins. 15,792/31k,
+  grade B, 0 dupes. Superseded the 09-08 HD flora (darkwood) + fauna margin passes
+  (the fauna silhouettes carried through; the darkwood flora was replaced).
+- ☑ Stylized title (2026-09-08): `darkwood` with a Teir'Dal violet tint — kept
+  through the rebuild (title band preserved by region). Done.
 
 ## Meta-fix (why this file exists)
 
@@ -100,8 +102,8 @@ string; scale in place, never restyle to stick font; history-check first
 | innothule | swampy troll/froglok — ☑ `swamp` 2026-09-08 |
 | lavastorm | lava/ember — ☑ `lava` 2026-09-08 |
 | misty | (theme TBD, wants stylized) |
-| kithicor | dark forest (Kithicor kin to lfay) |
-| nektulos | dark forest / Teir'Dal |
+| kithicor | dark forest (Kithicor kin to lfay) — ☑ `darkwood` 2026-09-08 |
+| nektulos | dark forest / Teir'Dal — ☑ `darkwood` (violet Teir'Dal tint) 2026-09-08 |
 | neriak a/b/c | unify the three, Freeport-style two-tier, keep dark-elf styling |
 
 ### Plain-caps queue — ⏸ need a theme decision from Brandon
