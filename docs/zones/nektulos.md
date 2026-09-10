@@ -5,9 +5,9 @@
 **Title bbox:** x[-2037,1820] y[-3803,-3323] (h 481)
 **Title inks:** (78, 66, 76) x115, (96, 74, 132) x73, (45, 38, 55) x43, (120, 115, 125) x12
 **Frame width:** 4548
-**Layers:** _1=30, _2=13029, _3=38, base=2003
-**Total strokes:** 15100 (budget 31000) | POIs 45 | dupes 0 | inks 108
-**eqqms:** overall B (title A — themed darkwood; palette B from 108 inks)
+**Layers:** _1=30, _2=12994, _3=38, base=2003
+**Total strokes:** 15065 (budget 31000) | POIs 45 | dupes 0 | inks 105
+**eqqms:** overall B (title A — themed darkwood; palette B from 105 inks)
 
 ## Notes
 
@@ -38,13 +38,17 @@ entanglement (34,58,38 spans crowns + interior + title) never bites:
 - Keep-outs: castle towers, compass, gate footprint, wizard gate / Knowledge
   Portal / Minor Spires + the obelisk & gold-statue ruins, title band, POI labels.
 
-PATCH (2026-09-09, v0.2.2.1-alpha): (a) the right-margin WIZARD GATE was a rough
-stepped portal buried under trees — redrawn clean with the new reusable
-`landmarks.wizard_gate` (two rune pillars + lintel framing a glowing arcane
-portal; ready for GFay too) and given its own flora keep-out. (b) Purged two old
-nek_hd_flora darkwood inks that TREE_INKS had MISSED — (52,46,74) N_TREE (470
-strokes) and (56,48,40) S_TRUNK (258) — so no old darkwood trees survive mixed
-into the new creepy forest (they were in the v0.2.2 cut too).
+PATCH (2026-09-09): (a) the right-margin WIZARD GATE was buried under trees. It
+is a LOCKED-IN graphic — `src/toolkit/eqmap_toolkit.py:wizard_gate` (a pseudo-3D
+ziggurat with a front staircase + a portal swirl on the plateau; inks stone
+120,116,124 / portal 150,95,185), the one that "actually looks like the gate"
+(Brandon). v0.2.2.1 wrongly REPLACED it with a hand-drawn pillars-and-portal
+version — that was reverted in v0.2.2.2: the original graphic is KEPT untouched
+and simply fenced off with a flora keep-out (x[1280,1840] y[-920,-160], extended
+below the base since trees draw upward). USE eqmap_toolkit.wizard_gate for GFay's
+gate too — do NOT redraw it. (b) Purged two old nek_hd_flora darkwood inks that
+TREE_INKS had MISSED — (52,46,74) N_TREE (470 strokes) and (56,48,40) S_TRUNK
+(258) — so no old darkwood trees survive mixed into the new creepy forest.
 
 eqqms may flag `compass:2` — a false positive from a ring-shaped spider web
 (kept fauna), not a second rose.

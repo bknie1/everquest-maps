@@ -9,7 +9,7 @@ Status: ☐ todo · ◐ in-flight (session) · ☑ done+verified · ⏸ needs Br
 
 ---
 
-## P0 — Nektulos ☑ CLOSED 2026-09-09 (released v0.2.2-alpha; patch v0.2.2.1-alpha)
+## P0 — Nektulos ☑ CLOSED 2026-09-09 (v0.2.2-alpha; patches v0.2.2.1, v0.2.2.2)
 
 - ☑ Neriak gate: was mirrored (tool's y-flip) in the SW corner. V-flipped
   upright and moved to the TOP-RIGHT beside its own "to Neriak" zone-line POI
@@ -32,10 +32,12 @@ Status: ☐ todo · ◐ in-flight (session) · ☑ done+verified · ⏸ needs Br
   (the fauna silhouettes carried through; the darkwood flora was replaced).
 - ☑ Stylized title (2026-09-08): `darkwood` with a Teir'Dal violet tint — kept
   through the rebuild (title band preserved by region). Done.
-- ☑ Patch v0.2.2.1 (2026-09-09): right-margin WIZARD GATE was buried in trees —
-  redrawn clean via new reusable `landmarks.wizard_gate` (rune pillars + glowing
-  portal; ready for GFay) with its own keep-out; and purged two missed old
-  darkwood inks (52,46,74 / 56,48,40) so no old flora survives in the new forest.
+- ☑ Patch v0.2.2.1 → v0.2.2.2 (2026-09-09): the right-margin WIZARD GATE was
+  buried in trees. It's a LOCKED-IN graphic (`eqmap_toolkit.wizard_gate` —
+  ziggurat + portal swirl, the one that "looks like the gate"). v0.2.2.1 wrongly
+  REDREW it; v0.2.2.2 reverts that and KEEPS the original, just fencing trees off
+  it with a keep-out. (GFay's gate should reuse eqmap_toolkit.wizard_gate too — do
+  not redraw.) Also purged two missed old darkwood inks (52,46,74 / 56,48,40).
 
 ## Meta-fix (why this file exists)
 

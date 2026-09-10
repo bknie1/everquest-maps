@@ -284,58 +284,6 @@ def flaming_sword(cx, cy, h, seed=0):
     return out
 
 
-PORTAL = (150, 95, 185)          # arcane violet (matches Nektulos' magical ink)
-PORTAL_LT = (192, 140, 216)
-
-
-def wizard_gate(cx, cy, s, seed=0):
-    """A wizard teleport GATE: two rune-carved stone pillars under a lintel,
-    framing a glowing arcane portal (concentric energy rings, a bright core and
-    a few radiating sparks). The landmark a player gates to -- Nektulos'
-    Knowledge Portal, and the like in GFay. (cx, cy) is the ground centre; s is
-    the full height. Draw it a touch larger than a tree so it reads as built."""
-    rng = random.Random(seed)
-    out = []
-    GATE = (118, 112, 126); GATE_DK = (84, 78, 94)      # cool grey stone
-    base = cy
-    top = cy - s * 0.86
-    pw = s * 0.15
-    for side in (-1, 1):                                 # two tapered pillars
-        bx = cx + side * s * 0.42
-        out.append((bx - pw * 0.62, base, bx - pw * 0.34, top, GATE))
-        out.append((bx + pw * 0.62, base, bx + pw * 0.34, top, GATE))
-        out.append((bx - pw * 0.62, base, bx + pw * 0.62, base, GATE_DK))    # footing
-        out.append((bx - pw * 0.5, top, bx + pw * 0.5, top, GATE))            # cap
-        out.append((bx - pw * 0.5, top, bx, top - s * 0.14, GATE))           # pyramidal cap
-        out.append((bx + pw * 0.5, top, bx, top - s * 0.14, GATE))
-        for k in range(3):                                                    # rune ticks
-            ry = base - s * 0.20 - k * s * 0.22
-            out.append((bx - pw * 0.24, ry, bx + pw * 0.24, ry, PORTAL))
-    # lintel across the pillar tops
-    lx0, lx1 = cx - s * 0.42 - pw * 0.5, cx + s * 0.42 + pw * 0.5
-    out.append((lx0, top - s * 0.02, lx1, top - s * 0.02, GATE))
-    out.append((lx0, top - s * 0.10, lx1, top - s * 0.10, GATE_DK))
-    # glowing portal between the pillars: concentric energy ellipses
-    pcy = cy - s * 0.40
-    for rx, ry, ink in ((0.30, 0.44, PORTAL), (0.21, 0.32, PORTAL_LT),
-                        (0.12, 0.19, PORTAL)):
-        prev = None
-        n = 16
-        for k in range(n + 1):
-            a = 2 * math.pi * k / n
-            p = (cx + math.cos(a) * s * rx, pcy + math.sin(a) * s * ry)
-            if prev:
-                out.append((prev[0], prev[1], p[0], p[1], ink))
-            prev = p
-    out.append((cx - s * 0.05, pcy, cx + s * 0.05, pcy, PORTAL_LT))          # bright core
-    for k in range(7):                                                       # radiating sparks
-        a = rng.uniform(0, 2 * math.pi)
-        r0, r1 = s * 0.32, s * (0.42 + rng.uniform(0, 0.06))
-        out.append((cx + math.cos(a) * r0 * 0.9, pcy + math.sin(a) * r0,
-                    cx + math.cos(a) * r1 * 0.9, pcy + math.sin(a) * r1, PORTAL_LT))
-    return out
-
-
 def wizard_spires(cx, cy, r, seed=0):
     """Cluster of pale crystalline teleport spires: one tall center, three flanks."""
     rng = random.Random(seed)

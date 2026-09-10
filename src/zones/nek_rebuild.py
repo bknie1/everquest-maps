@@ -32,7 +32,6 @@ import flora as F          # noqa: E402
 import terrain as TR       # noqa: E402
 from terrain import scatter  # noqa: E402
 from neriak_gate import neriak_gate_segs  # noqa: E402
-from landmarks import wizard_gate  # noqa: E402
 
 MAPS = os.environ.get("EQ_MAPS", "Emoda Legends Maps")
 P = os.path.join(MAPS, "nektulos_2.txt")
@@ -71,12 +70,11 @@ FAUNA_R = 150.0
 
 V_ROCK = (96, 78, 70); V_LAVA = (198, 92, 40)
 SNAG_N = (78, 74, 92); SNAG_S = (110, 98, 74)
-# wizard gate: the old rough portal (inks below) in the right margin, redrawn
-WIZ_CX, WIZ_CY, WIZ_S = 1630.0, -470.0, 330.0
-WIZ_BOX = (1400, 1780, -960, -420)              # old-structure footprint to scrub
-WIZ_OLD_INKS = {(150, 95, 185), (120, 116, 124)}
-WIZ_KEEPOUT = (1400, 1840, -1030, -180)         # keep flora off the redrawn gate
-                                                # (extends below so trees don't grow up into it)
+# wizard gate: the LOCKED-IN graphic (eqmap_toolkit.wizard_gate -- pseudo-3D
+# ziggurat + portal swirl, inks stone 120,116,124 / dark 60,58,64 / portal
+# 150,95,185) is kept as-is; we only fence trees off it. Extends below the base
+# so nothing grows up into it (trees draw upward).
+WIZ_KEEPOUT = (1280, 1840, -920, -160)
 
 
 def parse(l):
@@ -164,9 +162,6 @@ def main():
         mx, my = (x1 + x2) / 2, (y1 + y2) / 2
         if ink in DROP_INK:
             d_art += 1; continue
-        if (ink in WIZ_OLD_INKS and WIZ_BOX[0] < mx < WIZ_BOX[1]
-                and WIZ_BOX[2] < my < WIZ_BOX[3]):        # old rough wizard gate -> redrawn
-            d_art += 1; continue
         if old_side_border(mx, my, ink):                  # remove; re-drawn wider
             d_frame += 1; continue
         if my <= TITLE_Y or (mx - cx) ** 2 + (my - cy) ** 2 < cr * cr:
@@ -246,10 +241,6 @@ def main():
     populate((-1950, 1760, 960, 3360), 82, 41, 90, gap_below_grid=True)   # south U
     # a denser haunted wood INSIDE the grid too, held off the labels + structures
     populate((GX0 + 110, GX1 - 110, GY0 + 240, GY1 - 150), 74, 71, 196, dead_frac=0.64)
-
-    # ---- the wizard gate, redrawn clean in the right margin ----
-    wiz = wizard_gate(WIZ_CX, WIZ_CY, WIZ_S, seed=5)
-    new += [Lstr(*s) for s in wiz]
 
     # ---- volcanoes by the "to Lavastorm" exit ----
     volc = []
