@@ -9,7 +9,7 @@ Status: ☐ todo · ◐ in-flight (session) · ☑ done+verified · ⏸ needs Br
 
 ---
 
-## P0 — Nektulos ☑ CLOSED 2026-09-09 (v0.2.2-alpha; patches v0.2.2.1, v0.2.2.2)
+## P0 — Nektulos ☑ CLOSED 2026-09-09 (v0.2.2-alpha; patches .1 .2 .3)
 
 - ☑ Neriak gate: was mirrored (tool's y-flip) in the SW corner. V-flipped
   upright and moved to the TOP-RIGHT beside its own "to Neriak" zone-line POI

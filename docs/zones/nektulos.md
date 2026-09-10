@@ -5,8 +5,8 @@
 **Title bbox:** x[-2037,1820] y[-3803,-3323] (h 481)
 **Title inks:** (78, 66, 76) x115, (96, 74, 132) x73, (45, 38, 55) x43, (120, 115, 125) x12
 **Frame width:** 4548
-**Layers:** _1=30, _2=12994, _3=38, base=2003
-**Total strokes:** 15065 (budget 31000) | POIs 45 | dupes 0 | inks 105
+**Layers:** _1=30, _2=14160, _3=38, base=2003
+**Total strokes:** 16231 (budget 31000) | POIs 45 | dupes 0 | inks 105
 **eqqms:** overall B (title A — themed darkwood; palette B from 105 inks)
 
 ## Notes
@@ -49,6 +49,11 @@ below the base since trees draw upward). USE eqmap_toolkit.wizard_gate for GFay'
 gate too — do NOT redraw it. (b) Purged two old nek_hd_flora darkwood inks that
 TREE_INKS had MISSED — (52,46,74) N_TREE (470 strokes) and (56,48,40) S_TRUNK
 (258) — so no old darkwood trees survive mixed into the new creepy forest.
+
+DENSITY (2026-09-09, v0.2.2.3): margins packed denser (Brandon: "this is a dark
+wood") — left/right/south counts up ~55% with tighter spacing (70/74) and
+dead_frac 0.58; bare dead trees dominate so they pack cleanly without blobbing.
+Interior scatter left light for label legibility.
 
 eqqms may flag `compass:2` — a false positive from a ring-shaped spider web
 (kept fauna), not a second rose.

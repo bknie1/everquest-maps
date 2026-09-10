@@ -233,12 +233,12 @@ def main():
                (-1990, 700, NEW_LX, 700, FRAME_INK)]         # left border foot (by castle)
     new.extend(Lstr(*s) for s in border)
 
-    # dense creepy margins (bare snags + gradient conifers) -- ~doubled, spaced
-    # tight but not tangling; the SW now fills right up to the castle towers, and
-    # the columns run to the NEW borders so nothing spills outside the frame.
-    populate((-2130, -1440, -3120, 1620), 132, 11, 86)            # left column (full height)
-    populate((1150, 2090, -3120, 780), 120, 12, 86)               # right column
-    populate((-1950, 1760, 960, 3360), 82, 41, 90, gap_below_grid=True)   # south U
+    # DENSE dark-wood margins (bare snags + gradient conifers) -- packed tight
+    # (Brandon: "this is a dark wood"). Bare dead trees dominate so they pack
+    # cleanly without blobbing; columns run to the NEW borders, off the keep-outs.
+    populate((-2130, -1440, -3120, 1620), 205, 11, 70, dead_frac=0.58)    # left column
+    populate((1150, 2090, -3120, 780), 180, 12, 70, dead_frac=0.58)       # right column
+    populate((-1950, 1760, 960, 3360), 128, 41, 74, dead_frac=0.58, gap_below_grid=True)  # south U
     # a denser haunted wood INSIDE the grid too, held off the labels + structures
     populate((GX0 + 110, GX1 - 110, GY0 + 240, GY1 - 150), 74, 71, 196, dead_frac=0.64)
 
