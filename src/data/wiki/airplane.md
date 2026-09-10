@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-09-09
+fetched: 2026-09-10
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -288,7 +288,7 @@ Boss: Thunder Spirit Princess
 Common: A Thunder Spirit
 Other: Key Master
 Keys dropped: Key of the Misplaced, Key of Swords
-This the island that you enter Plane of Sky on. Thankfully the fairies are NOT kos, so you can take time to organize yourself here and buff up before starting. You may purchase keys from the Key Master to the quest room, noble island, and Azarack island. The thunder spirit princess also drops a key to Azarack island.
+This the island that you enter Plane of Sky on. Thankfully the fairies are NOT kos, so you can take time to organize yourself here and buff up before starting. You may purchase keys from the Key Master to the quest room, noble island, and Azarack island. The thunder spirit princess next to the Key Master also drops the keys to Azarack island (2) and Noble Island (1.5).
 The thunder spirits are bards and use some weak DoTs. Ideal to cut your teeth and farm a Wind Rune or three.
 Island 1.5: Noble Island
 Boss: Noble Dojorn
@@ -502,16 +502,14 @@ Quest Items
 Spiroc Beak EarcuffSpiroc Beak Earcuff
 Lore Equipped, No Trade
 Slot: EAR
-Class: BST
-Race: ALL
 AC: 4
 HP: +10 Mana: +10 End: +10
 WIS: +5 CHA: +5
 WT: 0.1 Size: TINY
-Click Effect: Vigor of Zehkes (Must Equip)
-Cast Time: Instant
-Required Level: 46
-Cooldown: 120 seconds
+Click Effect: Vigor of Zehkes (Must Equip) Required Level: 46
+Cast Time: Instant, Cooldown: 120 seconds
+Class: BST
+Race: ALL
 |
 Beastlord Test of Aviak
 |
@@ -5851,20 +5849,18 @@ Atk Delay: 30 DMG: 8 Dmg Bon: 15 WIS: +2 MANA: +10 WT: 5.0 Size: MEDIUM Class: D
 Spiroc Beak EarcuffSpiroc Beak Earcuff
 Lore Equipped, No Trade
 Slot: EAR
-Class: BST
-Race: ALL
 AC: 4
 HP: +10 Mana: +10 End: +10
 WIS: +5 CHA: +5
 WT: 0.1 Size: TINY
-Click Effect: Vigor of Zehkes (Must Equip)
-Cast Time: Instant
-Required Level: 46
-Cooldown: 120 seconds
+Click Effect: Vigor of Zehkes (Must Equip) Required Level: 46
+Cast Time: Instant, Cooldown: 120 seconds
+Class: BST
+Race: ALL
 |
 None? |
 Ear |
-Class: BST Race: ALL AC: 4 HP: +10 Mana: +10 End: +10 WIS: +5 CHA: +5 WT: 0.1 Size: TINY Click Effect: Vigor of Zehkes (Must Equip) Cast Time: Instant Required Level: 46 Cooldown: 120 seconds |
+AC: 4 HP: +10 Mana: +10 End: +10 WIS: +5 CHA: +5 WT: 0.1 Size: TINY Click Effect: Vigor of Zehkes (Must Equip) Required Level: 46 Cast Time: Instant, Cooldown: 120 seconds Class: BST Race: ALL |
 Spiroc Earth totemSpiroc Earth totem
 LORE ITEM NO DROP
 WT: 9.0 Size: LARGE
@@ -6136,7 +6132,7 @@ WT: 9.0 Size: LARGE
 Class: RNG
 Race: ALL
 |
-Bazzt Zzzt (Island 6 Boss) |
+Bazzt Zzzt |
 Ear |
 DEX: +4 STA: +4 CHA: +4 WT: 9.0 Size: LARGE Class: RNG Race: ALL |
 White Spiroc FeatherWhite Spiroc Feather
@@ -6277,12 +6273,12 @@ Race: ALL
 Protector of Sky |
 (None) |
 LORE ITEM WT: 6.0 Size: MEDIUM Class: ALL Race: ALL |
-Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Sky&oldid=176688"
+Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Sky&oldid=177571"
 Categories: Classic Era
 Zones
 How to Contribute
 Donate
-This page was last edited on 4 September 2026, at 21:27.
+This page was last edited on 9 September 2026, at 14:56.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

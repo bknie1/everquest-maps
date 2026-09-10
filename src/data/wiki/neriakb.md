@@ -1,5 +1,5 @@
 # Neriak_Commons (eqlwiki.com)
-fetched: 2026-09-08
+fetched: 2026-09-10
 
 Neriak - EverQuest Legends Wiki
 Jump to content
@@ -1104,7 +1104,7 @@ Yegek B`Larin |
 All (Evil Races) |
 None |
 Teir`Dal Coward |
-NPCs - Found 90 NPCs that spawn in Neriak Commons:
+NPCs - Found 91 NPCs that spawn in Neriak Commons:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Leatherfoot Spy
 |
@@ -1604,6 +1604,14 @@ GM Warrior |
 (-36, -1144) |
 None |
 Warrior guildmaster in Neriak Commons. |
+Nekola N`Ryt
+|
+Dark Elf |
+Merchant |
+50 |
+(82, -931)Upstairs of Forge House |
+|
+Female Dark Elf merchant specializing in jewelcraft supplies. Located upstairs in the Forge Hou... |
 Niz L`Crit
 |
 Neriak Citizen |

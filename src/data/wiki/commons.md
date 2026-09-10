@@ -1,5 +1,5 @@
 # West_Commonlands (eqlwiki.com)
-fetched: 2026-09-08
+fetched: 2026-09-10
 
 West Commonlands - EverQuest Legends Wiki
 Jump to content
@@ -564,7 +564,7 @@ Duggin Scumber
 Human |
 Warrior |
 3 |
-? |
+(-408, 2780) |
 NoteNote
 LORE ITEM
 WT: 0.0 Size: TINY

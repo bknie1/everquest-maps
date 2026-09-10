@@ -1,5 +1,5 @@
 # Kedge_Keep (eqlwiki.com)
-fetched: 2026-09-09
+fetched: 2026-09-10
 
 Kedge Keep - EverQuest Legends Wiki
 Jump to content
@@ -1086,7 +1086,7 @@ STR: +7 STA: +7
 WT: 4.0 Size: SMALL
 Class: WAR CLR PAL RNG SHD BRD BER
 Race: ALL
-, Sharkbone WarhammerSharkbone Warhammer
+(Rare), Sharkbone WarhammerSharkbone Warhammer
 MAGIC ITEM
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 26
@@ -1095,7 +1095,7 @@ WIS: +5
 WT: 3.0 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
 Race: ALL
-|
+(Common) |
 A big fish with sharp teeth.
 Respawn timer of ~14.5 min (Aug 18th, 2026 - D1 Zone)
 How to get to the boss:

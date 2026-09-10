@@ -1,5 +1,5 @@
 # The_Hole (eqlwiki.com)
-fetched: 2026-09-08
+fetched: 2026-09-10
 
 The Hole - EverQuest Legends Wiki
 Jump to content
@@ -202,12 +202,12 @@ WT: 5.5 Size: LARGE
 Class: WAR CLR PAL RNG SHD BRD SHM
 Race: ALL
 , Paineel Steel Armor, Ruined Heretic LongswordRuined Heretic Longsword
-MAGIC ITEM LORE ITEM
+Lore
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 30
 DMG: 2
 WT: 3.0 Size: MEDIUM
-Class: ALL
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST
 Race: ALL
 , Smoldering BrandSmoldering Brand
 MAGIC ITEM LORE ITEM
@@ -1651,17 +1651,17 @@ Nortlav the Scalekeeper (Fear/Hate 2.0 Era) |
 (None) |
 Attunable, Quest WT: 2.5 Size: MEDIUM Class: ALL Race: ALL |
 Ruined Heretic LongswordRuined Heretic Longsword
-MAGIC ITEM LORE ITEM
+Lore
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 30
 DMG: 2
 WT: 3.0 Size: MEDIUM
-Class: ALL
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST
 Race: ALL
 |
 a revenant, a wanderer |
 1H Slashing |
-Atk Delay: 30 DMG: 2 WT: 3.0 Size: MEDIUM Class: ALL Race: ALL |
+Atk Delay: 30 DMG: 2 WT: 3.0 Size: MEDIUM Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST Race: ALL |
 Ruined Sword HiltRuined Sword Hilt
 MAGIC ITEM NO DROP
 WT: 0.0 Size: SMALL

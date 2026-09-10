@@ -1,5 +1,5 @@
 # Plane_of_Hate (eqlwiki.com)
-fetched: 2026-09-09
+fetched: 2026-09-10
 
 Plane of Hate - EverQuest Legends Wiki
 Jump to content
@@ -209,7 +209,7 @@ WT: 7.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 Decrepit HideDecrepit Hide
-MAGIC ITEM LORE ITEM NO DROP
+No Trade, Quest
 WT: 0.2 Size: SMALL
 Class: NONE
 Race: NONE
@@ -1116,7 +1116,7 @@ Wizard |
 60 |
 100% @ (-527, -306) |
 Fleshless SkullFleshless Skull
-MAGIC ITEM NO DROP
+No Trade, Quest
 WT: 1.0 Size: MEDIUM
 Class: ALL
 Race: ALL
@@ -1163,8 +1163,8 @@ Seemingly mummified humanoids with monk-like abilities, the kir... |
 Hand of the Maestro (Mob)
 |
 Hand |
-Bard |
-? |
+Warrior |
+17 |
 100% @ (-82, 295) |
 Hand of the MaestroHand of the Maestro
 MAGIC ITEM LORE ITEM NO DROP
@@ -1175,15 +1175,15 @@ WT: 0.0 Size: TINY
 Class: MAG ENC
 Race: ALL
 |
-The Hand of the Maestro spawns after Maestro of Rancor is killed. |
+On Everquest Legends, I found the Hand of the Maestro in the upper floor of a public version of Plane of Hate. In a hous... |
 High Priest M`kari
 |
 Dark Elf Guard |
 Cleric |
 58 |
 (-72, 317, 4) |
-Always drops two pieces of Ethereal Mist Armor - needs confirmed, Truesight HammerTruesight Hammer
-MAGIC ITEM LORE ITEM NO DROP
+Always drops two pieces of Ethereal Mist Armor, Truesight HammerTruesight Hammer
+Lore Equipped, No Trade, Placeable
 Slot: PRIMARY
 Skill: 1H Blunt Atk Delay: 35
 DMG: 12
@@ -2069,14 +2069,14 @@ Innoruuk (God) |
 Piercing |
 Atk Delay: 25 DMG: 11 WT: 3.0 Size: LARGE Class: BRD Race: ALL |
 Decrepit HideDecrepit Hide
-MAGIC ITEM LORE ITEM NO DROP
+No Trade, Quest
 WT: 0.2 Size: SMALL
 Class: NONE
 Race: NONE
 |
 an ashenbone drake |
 (None) |
-MAGIC ITEM LORE ITEM NO DROP WT: 0.2 Size: SMALL Class: NONE Race: NONE |
+No Trade, Quest WT: 0.2 Size: SMALL Class: NONE Race: NONE |
 Diamond RodDiamond Rod
 MAGIC ITEM LORE ITEM NO DROP
 Slot: PRIMARY
@@ -2240,14 +2240,14 @@ Various |
 Primary, Secondary |
 AC: 5 INT: +5 MANA: +55 SV MAGIC: +10 Effect: Chill Sight (Casting Time: Instant) WT: 1.5 Size: SMALL Class: WIZ Race: ALL |
 Fleshless SkullFleshless Skull
-MAGIC ITEM NO DROP
+No Trade, Quest
 WT: 1.0 Size: MEDIUM
 Class: ALL
 Race: ALL
 |
 Corrupter of Life |
 (None) |
-MAGIC ITEM NO DROP WT: 1.0 Size: MEDIUM Class: ALL Race: ALL |
+No Trade, Quest WT: 1.0 Size: MEDIUM Class: ALL Race: ALL |
 GardashGardash
 MAGIC ITEM LORE ITEM NO DROP
 Slot: PRIMARY
@@ -3912,7 +3912,7 @@ an ire ghast |
 Secondary |
 AC: 20 STR: +5 WIS: +5 AGI: +5 WT: 6.5 Size: MEDIUM Class: PAL Race: ALL |
 Truesight HammerTruesight Hammer
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade, Placeable
 Slot: PRIMARY
 Skill: 1H Blunt Atk Delay: 35
 DMG: 12
