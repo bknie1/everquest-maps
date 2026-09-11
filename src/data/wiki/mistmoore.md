@@ -1,5 +1,5 @@
 # Castle_Mistmoore (eqlwiki.com)
-fetched: 2026-09-08
+fetched: 2026-09-11
 
 Mistmoore Castle - EverQuest Legends Wiki
 Jump to content
@@ -2485,13 +2485,13 @@ Race: ALLFocus Effect: Improved Vampirism II
 a hemo enologist |
 Primary |
 Skill: 1H Piercing Atk Delay: 31 DMG: 9 BACKSTAB : 8 WT: 2.5 Size: TINY Class: SHD NEC Race: ALL |
-Retrieved from "https://eqlwiki.com/index.php?title=Mistmoore_Castle&oldid=176824"
+Retrieved from "https://eqlwiki.com/index.php?title=Mistmoore_Castle&oldid=177869"
 Categories: Classic Era
 Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 6 September 2026, at 14:31.
+This page was last edited on 10 September 2026, at 19:42.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

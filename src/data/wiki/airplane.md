@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-09-10
+fetched: 2026-09-11
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -3463,7 +3463,7 @@ Warrior |
 |
 None |
 This is the quest NPC for Wizard Plane of Sky Tests turn ins. |
-Items - Found 267 items that drop in Plane of Sky:
+Items - Found 270 items that drop in Plane of Sky:
 Item Name | Drops From | Slot | Stats |
 Acidic VenomAcidic Venom
 LORE ITEM
@@ -3487,6 +3487,18 @@ Race: ALL
 Bazzzazzt, Bizazzzt, Bzzzt |
 Wrist |
 AC: 4 DEX: +4 SV COLD: +4 WT: 9.0 Size: LARGE Class: ALL Race: ALL |
+Adamantium EarringAdamantium Earring
+Lore Equipped, No Trade, Quest
+Slot: Ear
+MANA: 5
+SV FIRE: 5
+WT: 1.0 Size: MEDIUM
+Class: ENC
+Race: ALL
+|
+Bazzt Zzzt |
+Ear |
+MANA: 5 SV FIRE: 5 WT: 1.0 Size: MEDIUM Class: ENC Race: ALL |
 Adumbrate GlobeAdumbrate Globe
 MAGIC ITEM LORE ITEM
 WT: 1.0 Size: MEDIUM
@@ -3951,7 +3963,7 @@ WT: 1.0 Size: MEDIUM
 Class: MNK BST
 Race: ALL
 |
-None? |
+Noble Dojorn, Overseer of Air, The Hand of Veeshan |
 1H Blunt |
 Atk Delay: 25 DMG: 10 Dmg Bon: 12 WT: 1.0 Size: MEDIUM Class: MNK BST Race: ALL |
 Breath of GwanBreath of Gwan
@@ -4551,6 +4563,14 @@ Race: ALL
 a spiroc expulser, The Spiroc Guardian |
 (None) |
 LORE ITEM WT: 2.0 Size: MEDIUM Class: ALL Race: ALL |
+Essence of WindEssence of Wind
+WT: 0.1 Size: TINY
+Class: ALL
+Race: ALL
+|
+a crystalline cloud |
+(None) |
+WT: 0.1 Size: TINY Class: ALL Race: ALL |
 Ethereal AmberEthereal Amber
 LORE ITEM
 WT: 15.0 Size: LARGE
@@ -6255,6 +6275,19 @@ Race: ALL
 Gorgalosk |
 Face |
 AC: 4 CHA: 5 INT: 3 SV DISEASE: 2 WT: 1.0 Size: MEDIUM Class: DRU Race: ALL |
+Woven Skull CapWoven Skull Cap
+Lore Equipped, No Trade, Quest
+Slot: Head
+AC: 4
+MANA: 5
+SV POISON: 2
+WT: 0.1 Size: SMALL
+Class: WIZ
+Race: ALL
+|
+Keeper of Souls |
+Head |
+AC: 4 MANA: 5 SV POISON: 2 WT: 0.1 Size: SMALL Class: WIZ Race: ALL |
 Writ of QuelliousWrit of Quellious
 LORE ITEM
 WT: 1.0 Size: MEDIUM

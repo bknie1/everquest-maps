@@ -1,5 +1,5 @@
 # Lower_Guk (eqlwiki.com)
-fetched: 2026-09-08
+fetched: 2026-09-11
 
 Lower Guk - EverQuest Legends Wiki
 Jump to content
@@ -94,9 +94,9 @@ Types of Monsters:
 |
 Frogloks of all types, including: Shin, Tsu, Vis, Tal, Wan, Urd, Zol, Yun, Dar, Kor, Bok, Jin, and Guk in different varieties, including Knights, Shamans, and Wizards, as well as live and Ghoul forms; Basilisks, Bloodthirsty Ghouls, Deadly Black Widows, Granite Gargoyles, Greater Ice Bones, Greater Minotaurs, Vampire Bats
 |
-Notable NPCs:
+Rare NPCs:
 |
-a basalt gargoyle, Raster of Guk, a frenzied ghoul, a froglok crusader, a froglok herbalist, the froglok king, a froglok noble, a froglok yun priest, a froglok tactician, the ghoul arch magi, a ghoul assassin, a ghoul cavalier, a ghoul executioner, the ghoul lord, a ghoul ritualist, a ghoul sage, a ghoul savant, a ghoul scribe, a ghoul sentinel, a ghoul supplier, a huge water elemental, a minotaur elder, a minotaur patriarch, a reanimated hand (Lower Guk), Slaythe the Slayer
+a frenzied ghoul, a froglok crusader, a froglok herbalist, the froglok king, a froglok noble, a froglok yun priest, a froglok tactician, the ghoul arch magi, a ghoul assassin, a ghoul cavalier, a ghoul executioner, the ghoul lord, a ghoul ritualist, a ghoul sage, a ghoul savant, a ghoul scribe, a ghoul sentinel, a ghoul supplier, a huge water elemental, a minotaur elder, a minotaur patriarch, a reanimated hand (Lower Guk), Raster of Guk, Slaythe the Slayer
 |
 Unique Items:
 |
@@ -2831,12 +2831,12 @@ Race: ALLFocus Effect: Affliction Efficiency II
 A froglok noble |
 Neck |
 CHA: +5 SV FIRE: +7 SV COLD: +7 SV MAGIC: +7 WT: 0.3 Size: SMALL Class: ALL Race: ALL |
-Retrieved from "https://eqlwiki.com/index.php?title=Lower_Guk&oldid=176473"
+Retrieved from "https://eqlwiki.com/index.php?title=Lower_Guk&oldid=177832"
 Categories: Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 4 September 2026, at 11:42.
+This page was last edited on 10 September 2026, at 12:47.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

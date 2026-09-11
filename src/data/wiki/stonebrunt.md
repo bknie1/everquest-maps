@@ -1,5 +1,5 @@
 # Stonebrunt_Mountains (eqlwiki.com)
-fetched: 2026-09-08
+fetched: 2026-09-11
 
 Stonebrunt Mountains - EverQuest Legends Wiki
 Jump to content
@@ -795,7 +795,8 @@ WT: 1.0 Size: SMALL
 Class: ALL
 Race: ALL
 , Fish WineFish Wine
-WT: 0.4 Size: SMALL
+Quest
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 |

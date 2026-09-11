@@ -1,5 +1,5 @@
 # Southern_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-09-08
+fetched: 2026-09-11
 
 Southern Karana - EverQuest Legends Wiki
 Jump to content
@@ -375,7 +375,7 @@ Vhalen Nostrolo |
 All |
 Northern Karana |
 Cordelia Minster, a hermit |
-NPCs - Found 72 NPCs that spawn in Southern Karana:
+NPCs - Found 73 NPCs that spawn in Southern Karana:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Cyclops
 |
@@ -1446,6 +1446,15 @@ Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 |
 Halfling Druid who runs through Southern Karanas, seen running past the Splitpaw spires and Vhalen Nostrolo. No Fact... |
+The Ishva Mal
+|
+Gnoll |
+Necromancer |
+40 |
+Seems likely to spawn at Splitpaw and then runs to the east |
+Various |
+The Ishva Mal is a South Karana named mob. Potential placeholder: (an Ishva Lteth gnoll).
+He also is a spawn in ... |
 Theodore Exanthem
 |
 Human |
