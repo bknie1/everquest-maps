@@ -14,6 +14,13 @@ Categories (each graded A-F, worst grade wins the headline):
   dupes    exact duplicate strokes (free wins dedupe.py would reclaim)
   palette  ink discipline: distinct inks vs the pack norm, luminance range
 
+Report-only columns (no grade, but flags): t-px = title band height and
+rose = compass ring radius, both in pixels when the zone is fitted to a
+900px viewport -- the size the viewer actually shows. A rose outside 14-40px
+is flagged; the census can miss spokes-only roses (gfaydark, lfaydark) and
+can mistake a round sketch for one (nektulos's guard post), so compass:N is
+a prompt to look, never a verdict.
+
 The docs/zones/<zone>.md refresh preserves the hand-written "## Notes"
 section verbatim; only the measured block above it is regenerated.
 """
@@ -77,6 +84,9 @@ STYLE_LOCKED = {"unrest", "eastkarana"}
 # the deprecated homogenized family's ink (docs/TITLES.md)
 PALE = (120, 105, 85)
 
+# compass ring radius window, in pixels at a 900px fit (see measure())
+ROSE_PX = (14.0, 40.0)
+
 
 def declared_style(z):
     """The zone doc's recorded style class -- the source of truth per
@@ -114,8 +124,14 @@ def compass_census(z, segs):
     leftover mini-rose; the meter now counts. Report-only -- webs and round
     ponds can masquerade, the human adjudicates. Returns (count, centers)."""
     import collections as _c
+    # rose radius scales with the map: a dungeon's rose is r~16, feerrott's
+    # r~150, rathemtn's standardized rose r~340. Gate everything relative to
+    # the deco layer's extent (a 16-gon side is 0.39 R; cardinal rays are R).
+    ext_x = [v for s in segs for v in (s[0], s[2])]
+    W = (max(ext_x) - min(ext_x)) if ext_x else 0
+    rmin, rmax = max(12, 0.012 * W), max(230, 0.10 * W)
     idx = [i for i, s in enumerate(segs)
-           if 6 <= math.hypot(s[2] - s[0], s[3] - s[1]) <= 120]
+           if 6 <= math.hypot(s[2] - s[0], s[3] - s[1]) <= max(120, rmax)]
     parent = {i: i for i in idx}
 
     def find(i):
@@ -160,12 +176,6 @@ def compass_census(z, segs):
         stats.append((c, sum(xs) / len(xs), sum(ys) / len(ys),
                       max(xs) - min(xs), max(ys) - min(ys), pts))
 
-    # rose radius scales with the map: a dungeon's rose is r~30, feerrott's
-    # r~150. Gate relative to the deco layer's extent.
-    ext_x = [v for s in segs for v in (s[0], s[2])]
-    W = (max(ext_x) - min(ext_x)) if ext_x else 0
-    rmin, rmax = max(24, 0.012 * W), max(230, 0.10 * W)
-
     roses = []
     for c, cx, cy, w, h, pts in stats:
         if not 10 <= len(c) <= 90:
@@ -191,9 +201,10 @@ def compass_census(z, segs):
                 if c2 is c or not (2 <= len(c2) <= 9):
                     continue
                 # cardinal letters keep a near-absolute size on small roses
-                if not (8 <= h2 <= 60 and w2 <= 70):
+                # and grow with the ring on standardized big ones (h ~0.38 R)
+                if not (6 <= h2 <= max(60, 0.9 * R) and w2 <= max(70, R)):
                     continue
-                if 0.9 * R <= math.hypot(x2 - cx, y2 - cy) <= R + 90:
+                if 0.9 * R <= math.hypot(x2 - cx, y2 - cy) <= R + max(90, 1.4 * R):
                     card += 1
             marked = card >= 2
         if marked:
@@ -274,24 +285,36 @@ def measure(z):
         lo = layout(content_bbox(z))
         gy0 = lo["grid"][2]
         fx0, fx1 = lo["frame"][0], lo["frame"][1]
+        fy0, fy1 = lo["frame"][2], lo["frame"][3]
     except Exception:
         return m
+    # the viewer fits a zone to the screen by its longer side, so anything
+    # drawn at a fixed size in map units reads at (units * 900 / fit) pixels
+    # on a 900px viewport -- the only scale at which a dungeon's rose and a
+    # continent's rose can be compared (2026-09-12 sweep)
+    fit = max(fx1 - fx0, fy1 - fy0) or 1.0
+    m["fit"] = fit
     deco = layers.get("_2")
     if not deco:
         return m
     try:
-        m["compasses"] = compass_census(z, deco["segs"])[0]
+        nc, roses = compass_census(z, deco["segs"])
+        m["compasses"] = nc
+        rings = [r[2] for r in roses if r[2] > 0]
+        m["rose_px"] = max(rings) * 900.0 / fit if rings else None
     except Exception:
         m["compasses"] = None
+        m["rose_px"] = None
     band = [s for s in deco["segs"] if (s[1] + s[3]) / 2 < gy0 + 40]
     letters = [s for s in band if math.hypot(s[2] - s[0], s[3] - s[1]) > 12]
     t = dict(band=len(band), letters=len(letters), frame_w=fx1 - fx0,
-             bbox=None, height=0.0, clipped=False, inks=[])
+             bbox=None, height=0.0, clipped=False, inks=[], px=0.0)
     if letters:
         xs = [v for s in letters for v in (s[0], s[2])]
         ys = [v for s in letters for v in (s[1], s[3])]
         t["bbox"] = (min(xs), min(ys), max(xs), max(ys))
         t["height"] = max(ys) - min(ys)
+        t["px"] = t["height"] * 900.0 / fit
         # clip is measured on LETTER COMPONENTS, not the raw len>12 bbox --
         # border ornaments, ridge sketches and banner zigzags in the band
         # share inks and lengths with letters and stretched the old bbox
@@ -375,6 +398,10 @@ def write_doc(m, g):
                   % (bb[0], bb[2], bb[1], bb[3], t["height"]),
                   "**Title inks:** " + ", ".join("%s x%d" % (i, n) for i, n in t["inks"])]
     lines += ["**Frame width:** %.0f" % t.get("frame_w", 0) if t else "",
+              ("**Compass:** %s rose(s), ring %s at 900px fit"
+               % (m.get("compasses", "?"),
+                  "%.0fpx" % m["rose_px"] if m.get("rose_px") else "n/a"))
+              if m.get("compasses") is not None else None,
               "**Layers:** " + ", ".join("%s=%d" % kv for kv in sorted(m["layers"].items())),
               "**Total strokes:** %d (budget %d) | POIs %d | dupes %d | inks %d"
               % (m["total"], BUDGET, m["pois"], m["dupes"], m["n_inks"]),
@@ -401,8 +428,8 @@ def main():
             write_doc(m, g)
     order = "FDCBA"
     rows.sort(key=lambda r: (order.index(r[2]["overall"]), r[1]["total"]))
-    print("%-15s %s  %6s %5s %5s  %-18s %s"
-          % ("zone", "grade", "total", "dupes", "title", "style", "flags"))
+    print("%-15s %s  %6s %5s %5s %5s %4s  %-18s %s"
+          % ("zone", "grade", "total", "dupes", "title", "t-px", "rose", "style", "flags"))
     for z, m, g in rows:
         t = m["title"] or {}
         flags = []
@@ -417,8 +444,14 @@ def main():
         nc = m.get("compasses")
         if nc is not None and nc != 1:
             flags.append("compass:%d" % nc)
-        print("%-15s   %s    %6d %5d %5d  %-18s %s"
+        rp = m.get("rose_px")
+        # everfrost (Brandon's standard) rings at ~21px; the 2026-09-12 sweep
+        # rebuilt the outliers at 24px. Outside 14-40 reads too small/too big.
+        if rp is not None and not ROSE_PX[0] <= rp <= ROSE_PX[1]:
+            flags.append("rose:%.0fpx" % rp)
+        print("%-15s   %s    %6d %5d %5d %5.0f %4s  %-18s %s"
               % (z, g["overall"], m["total"], m["dupes"], t.get("letters", 0),
+                 t.get("px", 0.0), ("%.0f" % rp) if rp is not None else "-",
                  (t.get("style") or "?")[:18], " ".join(flags)))
     if a.write:
         print("\nrefreshed %d docs/zones/*.md" % len(rows))

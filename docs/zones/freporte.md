@@ -3,10 +3,11 @@
 **Title:** EAST FREEPORT (13 chars)
 **Title style:** extruded two-tier
 **Title bbox:** x[-877,2774] y[-850,-609] (h 240)
-**Title inks:** (70, 44, 24) x114, (216, 122, 40) x114, (150, 132, 104) x10, (178, 52, 38) x8
+**Title inks:** (216, 122, 40) x114, (70, 44, 24) x113, (150, 132, 104) x10, (178, 52, 38) x8
 **Frame width:** 3684
-**Layers:** _1=0, _2=2800, base=16259
-**Total strokes:** 19059 (budget 31000) | POIs 34 | dupes 1 | inks 31
+**Compass:** 1 rose(s), ring n/a at 900px fit
+**Layers:** _1=0, _2=3222, base=16250
+**Total strokes:** 19472 (budget 31000) | POIs 34 | dupes 0 | inks 33
 **eqqms:** overall A (format A, budget A, title A, dupes A, palette A)
 
 ## Notes

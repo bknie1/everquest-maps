@@ -151,10 +151,33 @@ function buildList() {
 }
 document.getElementById("filter").oninput = buildList;
 
+// Deep links: preview.html?zone=unrest&layers=0,2&labels=0
+// The zone is matched case-insensitively; layers/labels preset the toggles.
+function urlZone() {
+  const want = (new URLSearchParams(location.search).get("zone") || "").trim().toLowerCase();
+  if (!want) return null;
+  return [...files.keys()].find(z => z.toLowerCase() === want) || null;
+}
+function applyUrlToggles() {
+  const q = new URLSearchParams(location.search);
+  const ls = q.get("layers");
+  if (ls !== null) {
+    const on = new Set(ls.split(",").map(s => s.trim()).filter(Boolean));
+    document.querySelectorAll("#layers input[data-l]").forEach(c => { c.checked = on.has(c.dataset.l); });
+  }
+  if (q.get("labels") === "0") document.getElementById("lbl").checked = false;
+}
+function syncUrl(z) {
+  if (location.protocol === "file:") return;          // no history on a local file
+  const q = new URLSearchParams(location.search);
+  q.set("zone", z);
+  try { history.replaceState(null, "", "?" + q.toString()); } catch (_) {}
+}
+
 function autoSelect() {
   if (current || files.size === 0) return;
   const prefer = ["unrest", "newsebexp", "ecommons", "qeynos", "freporte"];
-  const pick = prefer.find(z => files.has(z)) || [...files.keys()].sort()[0];
+  const pick = urlZone() || prefer.find(z => files.has(z)) || [...files.keys()].sort()[0];
   select(pick);
 }
 
@@ -200,6 +223,7 @@ async function select(z) {
   document.body.classList.remove("drawer-open");
   hintEl.style.display = "none";
   buildList();
+  syncUrl(z);
   status("loading " + z + "…");
   await fit();
 }
@@ -410,6 +434,7 @@ document.getElementById("buildBtn").onclick = startBuild;
 
 async function init() {
   resize();
+  applyUrlToggles();
   const ok = await loadFromRepo();
   if (ok) {
     document.getElementById("filter").disabled = false;

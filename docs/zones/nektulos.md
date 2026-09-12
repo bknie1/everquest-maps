@@ -5,9 +5,10 @@
 **Title bbox:** x[-2037,1820] y[-3803,-3323] (h 481)
 **Title inks:** (78, 66, 76) x115, (96, 74, 132) x73, (45, 38, 55) x43, (120, 115, 125) x12
 **Frame width:** 4548
-**Layers:** _1=30, _2=14160, _3=38, base=2003
-**Total strokes:** 16231 (budget 31000) | POIs 45 | dupes 0 | inks 105
-**eqqms:** overall B (title A — themed darkwood; palette B from 105 inks)
+**Compass:** 2 rose(s), ring 17px at 900px fit
+**Layers:** _1=0, _2=14156, _3=27, base=2003
+**Total strokes:** 16186 (budget 31000) | POIs 45 | dupes 0 | inks 115
+**eqqms:** overall B (format A, budget A, title A, dupes A, palette B)
 
 ## Notes
 

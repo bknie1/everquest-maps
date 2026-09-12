@@ -2,11 +2,12 @@
 
 **Title:** NORTHERN FELWITHE (17 chars)
 **Title style:** highelf
-**Title bbox:** x[-577,1053] y[-655,-444] (h 211)
-**Title inks:** (62, 104, 56) x113, (198, 152, 62) x112, (44, 92, 56) x75
+**Title bbox:** x[-577,1053] y[-649,-460] (h 190)
+**Title inks:** (198, 152, 62) x112, (44, 92, 56) x75, (62, 104, 56) x52
 **Frame width:** 1614
-**Layers:** _1=0, _2=6504, base=4544
-**Total strokes:** 11044 (budget 31000) | POIs 69 | dupes 0 | inks 21
+**Compass:** 1 rose(s), ring 29px at 900px fit
+**Layers:** _1=0, _2=6500, base=4544
+**Total strokes:** 11044 (budget 31000) | POIs 69 | dupes 0 | inks 30
 **eqqms:** overall A (format A, budget A, title A, dupes A, palette A)
 
 ## Notes

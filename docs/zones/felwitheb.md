@@ -3,10 +3,11 @@
 **Title:** SOUTHERN FELWITHE (17 chars)
 **Title style:** highelf
 **Title bbox:** x[84,1195] y[-1049,-805] (h 244)
-**Title inks:** (62, 104, 56) x294, (198, 152, 62) x115, (44, 92, 56) x63
+**Title inks:** (62, 104, 56) x174, (198, 152, 62) x115, (44, 92, 56) x63, (110, 90, 70) x4
 **Frame width:** 868
-**Layers:** _1=0, _2=7612, base=3459
-**Total strokes:** 11067 (budget 31000) | POIs 47 | dupes 0 | inks 18
+**Compass:** 2 rose(s), ring 34px at 900px fit
+**Layers:** _1=0, _2=7608, base=3459
+**Total strokes:** 11067 (budget 31000) | POIs 47 | dupes 0 | inks 29
 **eqqms:** overall A (format A, budget A, title A, dupes A, palette A)
 
 ## Notes

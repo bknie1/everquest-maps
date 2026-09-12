@@ -5,8 +5,9 @@
 **Title bbox:** x[-640,740] y[-1040,-749] (h 290)
 **Title inks:** (92, 54, 128) x77, (52, 32, 72) x41, (150, 178, 90) x36, (120, 90, 150) x3
 **Frame width:** 1724
-**Layers:** _1=0, _2=282, base=30350
-**Total strokes:** 30632 (budget 31000) | POIs 9 | dupes 0 | inks 9
+**Compass:** 1 rose(s), ring 24px at 900px fit
+**Layers:** _1=0, _2=280, base=30350
+**Total strokes:** 30630 (budget 31000) | POIs 5 | dupes 0 | inks 9
 **eqqms:** overall A (format A, budget A, title A, dupes A, palette A)
 
 ## Notes
@@ -21,3 +22,4 @@ removed 53 letters + 1 short stray, drew 154). The three long frame rules in
 light purple (120,90,150) are preserved. grow 0.9 / dy -30 to lift the title
 clear of the top grid rule. FIRST VERSION — Brandon's verdict pending; venom
 accent can be pushed harder if he wants more Innoruuk poison.
+2026-09-12 (final sweep): compass rebuilt at the standard size (ring 24px at a 900px fit, restd_compass.py) (old arc + cross remnants in 50,40,64 / 120,110,130 deleted).

@@ -5,6 +5,7 @@
 **Title bbox:** x[-1110,-374] y[-1078,-904] (h 174)
 **Title inks:** (96, 116, 148) x35, (84, 92, 96) x8, (104, 122, 128) x8, (76, 94, 134) x2
 **Frame width:** 593
+**Compass:** 1 rose(s), ring n/a at 900px fit
 **Layers:** _1=0, _2=554, base=7411
 **Total strokes:** 7965 (budget 31000) | POIs 5 | dupes 0 | inks 17
 **eqqms:** overall A (format A, budget A, title A, dupes A, palette A)

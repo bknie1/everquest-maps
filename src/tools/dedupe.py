@@ -11,6 +11,7 @@ ink, same z). P-records are kept unless the whole record is identical.
     python src/tools/dedupe.py --probe          # census, change nothing
     python src/tools/dedupe.py <zone> [...]     # dedupe zones (all layers)
     python src/tools/dedupe.py --all-over       # every zone over budget
+    python src/tools/dedupe.py --near <zone>    # match at 1dp: folds <0.05u twins too
 """
 import glob
 import os
@@ -21,11 +22,18 @@ CRLF = "\r\n"
 BUDGET = 31000
 
 
-def key(line):
+# endpoint rounding for the match key: 2dp = exact twins; --near uses 1dp,
+# which also folds strokes that differ by <0.05u (invisible at any zoom --
+# eqqms counts dupes at 1dp, so this is what makes its column read 0)
+DP = 2
+
+
+def key(line, dp=None):
+    dp = DP if dp is None else dp
     f = [v.strip() for v in line[2:].split(",")]
     if line[0] == "L" and len(f) >= 9:
-        a = (round(float(f[0]), 2), round(float(f[1]), 2), round(float(f[2]), 2))
-        b = (round(float(f[3]), 2), round(float(f[4]), 2), round(float(f[5]), 2))
+        a = (round(float(f[0]), dp), round(float(f[1]), dp), round(float(f[2]), dp))
+        b = (round(float(f[3]), dp), round(float(f[4]), dp), round(float(f[5]), dp))
         if b < a:
             a, b = b, a
         return ("L", a, b, f[6], f[7], f[8])
@@ -132,7 +140,10 @@ def merge_colinear(path, write, eps=0.35):
 
 
 def main():
+    global DP
     args = sys.argv[1:]
+    if "--near" in args:
+        DP = 1
     probe = "--probe" in args
     if probe or not args:
         rows = []

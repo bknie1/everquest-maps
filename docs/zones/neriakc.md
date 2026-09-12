@@ -5,6 +5,7 @@
 **Title bbox:** x[292,2201] y[-1779,-1444] (h 336)
 **Title inks:** (108, 96, 128) x193, (70, 46, 96) x58, (112, 72, 152) x58
 **Frame width:** 1659
+**Compass:** 2 rose(s), ring 24px at 900px fit
 **Layers:** _1=0, _2=3117, _3=0, base=10978
 **Total strokes:** 14095 (budget 31000) | POIs 38 | dupes 0 | inks 24
 **eqqms:** overall A (format A, budget A, title A, dupes A, palette A)
@@ -55,3 +56,4 @@ eqqms title-clipped is a FALSE POSITIVE (band ribbon + corner hatches); NERIAK T
 - Merchant outside selling Small Plate and Shield Molds. Forge around the corner.
 - X'Lottl Private Mansion
 - J'Narus Private Mansion with Merchant selling Adamantite and Chain Patterns
+2026-09-12 (final sweep): compass rebuilt at the standard size (ring 24px at a 900px fit, restd_compass.py).

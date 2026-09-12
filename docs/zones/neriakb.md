@@ -2,9 +2,10 @@
 
 **Title:** NERIAK COMMONS (14 chars)
 **Title style:** darkelf
-**Title bbox:** x[-51,1562] y[-529,-246] (h 283)
-**Title inks:** (108, 96, 128) x193, (112, 72, 152) x81, (70, 46, 96) x60
+**Title bbox:** x[-51,1562] y[-529,-247] (h 282)
+**Title inks:** (108, 96, 128) x193, (70, 46, 96) x66, (112, 72, 152) x66
 **Frame width:** 1408
+**Compass:** 2 rose(s), ring 27px at 900px fit
 **Layers:** _1=0, _2=1908, _3=0, base=8078
 **Total strokes:** 9986 (budget 31000) | POIs 34 | dupes 0 | inks 18
 **eqqms:** overall A (format A, budget A, title A, dupes A, palette A)
@@ -55,3 +56,4 @@ eqqms title-clipped is a FALSE POSITIVE (band ribbon + corner hatches); NERIAK C
 - Merchant outside selling Small Plate and Shield Molds. Forge around the corner.
 - X'Lottl Private Mansion
 - J'Narus Private Mansion with Merchant selling Adamantite and Chain Patterns
+2026-09-12 (final sweep): title scaled 0.60 in place (darkelf inks; ribbon hatch + corner flourishes excluded by window) -- was 2x its siblings.

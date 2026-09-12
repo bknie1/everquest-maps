@@ -3,10 +3,11 @@
 **Title:** GREATER FAYDARK (15 chars)
 **Title style:** woodelf
 **Title bbox:** x[-3317,2963] y[-3817,-2955] (h 862)
-**Title inks:** (70, 58, 44) x412, (46, 82, 52) x406, (38, 70, 46) x283, (74, 116, 62) x278
+**Title inks:** (70, 58, 44) x412, (46, 82, 52) x406, (74, 116, 62) x278, (38, 70, 46) x269
 **Frame width:** 7322
-**Layers:** _1=0, _2=16112, base=14832
-**Total strokes:** 30944 (budget 31000) | POIs 34 | dupes 1 | inks 34
+**Compass:** 0 rose(s), ring n/a at 900px fit
+**Layers:** _1=0, _2=16068, base=14832
+**Total strokes:** 30900 (budget 31000) | POIs 34 | dupes 1 | inks 34
 **eqqms:** overall A (format A, budget A, title A, dupes A, palette A)
 
 ## Notes

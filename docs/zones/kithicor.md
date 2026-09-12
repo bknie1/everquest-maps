@@ -5,8 +5,9 @@
 **Title bbox:** x[-5844,2020] y[-2908,-2299] (h 610)
 **Title inks:** (34, 58, 38) x544, (84, 74, 60) x115, (95, 70, 45) x90, (120, 140, 80) x67
 **Frame width:** 8356
-**Layers:** _1=0, _2=24991, _3=38, base=5926
-**Total strokes:** 30955 (budget 31000) | POIs 43 | dupes 1 | inks 29
+**Compass:** 1 rose(s), ring 17px at 900px fit
+**Layers:** _1=0, _2=24991, _3=38, base=5925
+**Total strokes:** 30954 (budget 31000) | POIs 43 | dupes 0 | inks 29
 **eqqms:** overall A (format A, budget A, title A, dupes A, palette A)
 
 ## Notes

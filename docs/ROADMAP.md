@@ -74,15 +74,42 @@ it reports back and its zones are verified.
 - ☑ Steamfont windmills (drakes → pinwheels). Ak'Anon title shrink + top border
   + artifacts. Befallen runaways removed. Brogdog relocated. Feerrott.
 
+## FINAL SWEEP ☑ 2026-09-12 (Fable 5.1, on main + deployed)
+
+Pack-wide "same page" pass driven by eqqms, which gained two report-only
+columns: **t-px** (title band height) and **rose** (compass ring radius),
+both in pixels at a 900px fit — the size the viewer actually shows, and the
+only scale a dungeon and a continent can be compared on. A rose outside
+14–40px is flagged.
+
+- ☑ **Titles-too-big shrink audit** — 15 titles scaled in place by ink+window
+  (`scale_title_ink.py`, band plot verified before every write): highkeep
+  (0.75, + its lost G restored from 69380bc), guktop 0.75, gukbottom 0.85,
+  highpass 0.70, kaladima 0.75, kedge 0.80, cauldron 0.80, rivervale 0.80,
+  beholder 0.70, neriakb 0.60 (was 2× its siblings), soldunga 0.70, soldungb
+  0.80, soldungc 0.80, crushbone 0.75, fearplane 0.80. Left alone on purpose:
+  the freeport trio + sewers (already the two-tier style, letters 59–62px),
+  neriaka/c (in line with neriakb now), kerraridge/paineel/tox (restored
+  verbatim wireframes), oggok/najena/grobb/qeynos pair (city-slate fits, in
+  Brandon's queues). qeynos2's ghost stick title (17 strokes below the band
+  cut) deleted.
+- ☑ **Compass-size standardization** — 19 roses rebuilt at ring 24px@fit by
+  `restd_compass.py` (letters scale with the ring): crushbone, highkeep,
+  kedge, soldungb, soldungc, paineel, guktop, gukbottom, rathemtn, commons,
+  butcher, steamfont, neriakc, soltemple, kaladima, kaladimb, hateplane,
+  highpass, rivervale. Boulder/canopy polygons knocked out of the footprint
+  as whole components (butcher, steamfont, kaladim pair). Census now scales
+  its gates so it can see them; it still misses spokes-only roses (gfaydark,
+  lfaydark — both fine on render) and reads nektulos's guard-post sketch as a
+  second rose. Report-only.
+- ☑ **Dupes → 0** on every non-locked zone: `dedupe.py --near` (1dp, folds
+  <0.05u twins eqqms counts) over 28 zones, 1,244 strokes. unrest (53) and
+  eastkarana (248) left — LOCKED; free win when Brandon unlocks.
+- Baseline after: 78/79 A or B (feerrott F by doctrine); every B is a plain-caps
+  style verdict waiting on a theme.
+
 ## TODO — unowned, need scheduling
 
-- ☐ **Titles-too-big shrink audit** (new doctrine: unrest is the size bar).
-  Ak'Anon done as the first. Sweep every oversized title down to ~unrest scale
-  and re-verify knockouts. Candidates: the soldung trio, guk pair, freeports,
-  kerraridge, neriak trio, cauldron, oggok, najena — anything whose letters
-  dominate the band.
-- ☐ **Compass-size standardization** (everfrost = the standard). One pass to
-  normalize any rose still off-standard.
 - ⏸ paineel margin mountains — variation/offset (lowest priority, "already good").
 - ⏸ kaladim a/b — freeport-inspired title separation treatment.
 - ☐ Rechecks after viewer refresh (Brandon): runnyeye, tox title clipping,
