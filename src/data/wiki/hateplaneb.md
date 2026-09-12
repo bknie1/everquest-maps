@@ -1,5 +1,5 @@
 # Plane_of_Hate (eqlwiki.com)
-fetched: 2026-09-10
+fetched: 2026-09-12
 
 Plane of Hate - EverQuest Legends Wiki
 Jump to content
@@ -786,6 +786,7 @@ Shiverback-hide WristbandsShiverback-hide Wristbands
 Lore Equipped, No Trade, Quest
 Slot: WRIST
 AC: 4
+END: 10
 DEX: +5 STA: +5 AGI: +5
 SV DISEASE: +5 SV POISON: +5
 WT: 0.1 Size: SMALL
@@ -3570,6 +3571,7 @@ Shiverback-hide WristbandsShiverback-hide Wristbands
 Lore Equipped, No Trade, Quest
 Slot: WRIST
 AC: 4
+END: 10
 DEX: +5 STA: +5 AGI: +5
 SV DISEASE: +5 SV POISON: +5
 WT: 0.1 Size: SMALL
@@ -3578,7 +3580,7 @@ Race: ALL
 |
 a scorn banshee, an abhorrent, a haunted chest |
 Wrist |
-AC: 4 DEX: +5 STA: +5 AGI: +5 SV DISEASE: +5 SV POISON: +5 WT: 0.1 Size: SMALL Class: MNK Race: ALL |
+AC: 4 END: 10 DEX: +5 STA: +5 AGI: +5 SV DISEASE: +5 SV POISON: +5 WT: 0.1 Size: SMALL Class: MNK Race: ALL |
 Shrieking AhlspiessShrieking Ahlspiess
 Lore Equipped, No Trade, Quest, Placeable
 Slot: RANGE PRIMARY SECONDARY

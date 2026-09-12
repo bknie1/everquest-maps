@@ -1,5 +1,5 @@
 # West_Freeport (eqlwiki.com)
-fetched: 2026-09-08
+fetched: 2026-09-12
 
 Freeport - EverQuest Legends Wiki
 Jump to content
@@ -2470,7 +2470,7 @@ Gregor Nasin
 |
 Freeport Guards |
 Merchant |
-19 |
+50 |
 (-238, -835) Seafarer's Roost |
 |
 Gregor Nasin is one of the top bartenders in Freeport. A dedicated man, he is very devoted to remaining at the top of hi... |
@@ -3079,7 +3079,7 @@ Enchanter |
 22 |
 50% @ (-288, -215) |
 None |
-Description needed. |
+Inside Chops n Hops, located in the slum area of East Freeport. |
 Peku Croxe
 |
 Freeport Guards |
@@ -3284,7 +3284,7 @@ Stable Hand Brack
 Human |
 Merchant |
 35 |
--168 -724 |
+-168, -724 |
 |
 Freeport's stable hand, found beside the gates on the eastern edge of the city. He sells horse bridles (mounts) in four ... |
 Ston O`Donner

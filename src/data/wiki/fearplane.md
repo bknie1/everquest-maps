@@ -1,5 +1,5 @@
 # Plane_of_Fear (eqlwiki.com)
-fetched: 2026-09-09
+fetched: 2026-09-12
 
 Plane of Fear - EverQuest Legends Wiki
 Jump to content
@@ -601,6 +601,7 @@ Shiverback-hide WristbandsShiverback-hide Wristbands
 Lore Equipped, No Trade, Quest
 Slot: WRIST
 AC: 4
+END: 10
 DEX: +5 STA: +5 AGI: +5
 SV DISEASE: +5 SV POISON: +5
 WT: 0.1 Size: SMALL
@@ -727,7 +728,7 @@ Shadow Knight |
 70 |
 Top of the Temple |
 Various |
-The God of Fear, Cazic Thule, wanders the northeastern area of the Plane of Fear around the ring of fire. He (unlike... |
+The God of Fear, Cazic Thule, wanders the northeastern area of the Plane of Fear around the ring of fire. Unlike his... |
 Dread
 |
 Golem |
@@ -2662,6 +2663,7 @@ Shiverback-hide WristbandsShiverback-hide Wristbands
 Lore Equipped, No Trade, Quest
 Slot: WRIST
 AC: 4
+END: 10
 DEX: +5 STA: +5 AGI: +5
 SV DISEASE: +5 SV POISON: +5
 WT: 0.1 Size: SMALL
@@ -2670,7 +2672,7 @@ Race: ALL
 |
 a decrepit warder, a samhain, phoboplasm |
 Wrist |
-AC: 4 DEX: +5 STA: +5 AGI: +5 SV DISEASE: +5 SV POISON: +5 WT: 0.1 Size: SMALL Class: MNK Race: ALL |
+AC: 4 END: 10 DEX: +5 STA: +5 AGI: +5 SV DISEASE: +5 SV POISON: +5 WT: 0.1 Size: SMALL Class: MNK Race: ALL |
 Slime Blood of Cazic-ThuleSlime Blood of Cazic-Thule
 Lore Equipped, Attunable, Quest
 Slot: HANDS
