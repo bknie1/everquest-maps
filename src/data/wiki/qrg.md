@@ -1,5 +1,5 @@
 # Surefall_Glade (eqlwiki.com)
-fetched: 2026-09-08
+fetched: 2026-09-12
 
 Surefall Glade - EverQuest Legends Wiki
 Jump to content
@@ -782,7 +782,8 @@ Talym Shoontar
 Barbarian |
 Warrior |
 15 |
-100% @ (144, -415) |
+100% @ (144, -415)
+Occasionally in Seafarer's Roost, East Freeport (-211,-885) |
 Barbarian HeadBarbarian Head
 LORE ITEM NO DROP
 WT: 0.7 Size: SMALL

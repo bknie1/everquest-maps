@@ -1,5 +1,5 @@
 # The_Warrens (eqlwiki.com)
-fetched: 2026-09-11
+fetched: 2026-09-12
 
 The Warrens - EverQuest Legends Wiki
 Jump to content
@@ -997,7 +997,7 @@ Class: WAR PAL RNG SHD
 Race: ALL
 |
 A Kobold Brawler is the placeholder, confirmed spawn 02/25/2024 |
-Items - Found 89 items that drop in The Warrens:
+Items - Found 90 items that drop in The Warrens:
 Item Name | Drops From | Slot | Stats |
 Bamboo BokkenBamboo Bokken
 Slot: PRIMARY
@@ -1909,6 +1909,17 @@ Race: ALL
 None? |
 (None) |
 This is a refreshing drink! WT: 0.6 Size: SMALL Class: ALL Race: ALL |
+Tiny Brass ShurikenTiny Brass Shuriken
+Slot: RANGE AMMO
+Skill: Throwing Atk Delay: 20
+DMG: 2
+WT: 0.5 Range: 120 Size: SMALL
+Class: ALL except CLR PAL DRU SHM
+Race: ALL
+|
+None? |
+Range, Ammo |
+Skill: Throwing Atk Delay: 20 DMG: 2 WT: 0.5 Range: 120 Size: SMALL Class: ALL except CLR PAL DRU SHM Race: ALL |
 Tiny Pouch of Bone DiceTiny Pouch of Bone Dice
 LORE ITEM NO DROP
 WT: 0.1 Size: TINY

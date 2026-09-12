@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-09-11
+fetched: 2026-09-12
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -1824,12 +1824,12 @@ Wind Rune Ozah
 Finely Crafted Amulet (3-Gorga)
 |
 Crimson Ring of the DjinniCrimson Ring of the Djinni
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade
 Slot: FINGER
 AC: 8
 STR: +7 DEX: +7 INT: +5
 SV MAGIC: +5
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: SHD
 Race: ALL
 |
@@ -1842,12 +1842,12 @@ Wind Rune Beza
 Silvery Ring (4-KoS)
 |
 Pegasus-Hide BeltPegasus-Hide Belt
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade
 Slot: WAIST
 AC: 8
 STR: +6 INT: +6 AGI: +6
 Haste: +41%
-WT: 1.0 Size: SMALL
+Size: SMALL WT: 1.0
 Class: SHD
 Race: ALL
 |
@@ -1860,12 +1860,12 @@ Wind Rune Dena
 Finely Woven Cloth Belt (5-SL)
 |
 Blood Sky Face PlateBlood Sky Face Plate
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade
 Slot: FACE
 AC: 9
 STR: +10 DEX: +12 MANA: +60
 SV DISEASE: +10
-WT: 4.5 Size: SMALL
+Size: SMALL WT: 4.5
 Class: SHD
 Race: ALL
 |
@@ -1878,12 +1878,12 @@ Wind Rune Fana
 Rusted Pauldrons (6-BZ)
 |
 Obtenebrate Mithril GuardObtenebrate Mithril Guard
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade, Placeable
 Slot: SECONDARY
 AC: 35
 STR: +15
 SV FIRE: +15
-WT: 6.0 Size: MEDIUM
+Size: MEDIUM WT: 6.0
 Class: SHD
 Race: ALL
 |
