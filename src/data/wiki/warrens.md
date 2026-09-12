@@ -1,5 +1,5 @@
 # The_Warrens (eqlwiki.com)
-fetched: 2026-09-08
+fetched: 2026-09-11
 
 The Warrens - EverQuest Legends Wiki
 Jump to content
@@ -90,10 +90,10 @@ Cave Bat Lord, Foodmaster Rargnar, Grodl Ripclaw, High Shaman Drogik, Huntmaster
 Unique Items:
 |
 Azzar's Dreadful HatAzzar's Dreadful Hat
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade, Quest
 Slot: HEAD
 AC: 2
-WT: 0.4 Size: SMALL
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 Deity: Cazic-Thule
@@ -750,10 +750,10 @@ Warrior |
 100% @ (-107, 801)
 Respawn Timer: 48 minutes |
 Azzar's Dreadful HatAzzar's Dreadful Hat
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade, Quest
 Slot: HEAD
 AC: 2
-WT: 0.4 Size: SMALL
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 Deity: Cazic-Thule
@@ -997,7 +997,7 @@ Class: WAR PAL RNG SHD
 Race: ALL
 |
 A Kobold Brawler is the placeholder, confirmed spawn 02/25/2024 |
-Items - Found 88 items that drop in The Warrens:
+Items - Found 89 items that drop in The Warrens:
 Item Name | Drops From | Slot | Stats |
 Bamboo BokkenBamboo Bokken
 Slot: PRIMARY
@@ -1401,15 +1401,16 @@ King Gragnar, Warlord Drrig |
 Face |
 AC: 5 SV MAGIC: +1 WT: 1.9 Size: SMALL Class: WAR CLR PAL SHD BRD Race: ALL |
 Cold Iron ShackleCold Iron Shackle
+Attunable
 Slot: WRIST
 AC: 4
-WT: 2.7 Size: SMALL
-Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Size: SMALL WT: 2.7
+Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
 Race: ALL
 |
-Aderius Rhenar |
+Various |
 Wrist |
-AC: 4 WT: 2.7 Size: SMALL Class: WAR CLR PAL RNG SHD BRD ROG SHM Race: ALL |
+AC: 4 Size: SMALL WT: 2.7 Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
 Cold Iron VambracesCold Iron Vambraces
 Slot: ARMS
 AC: 8
@@ -1480,6 +1481,15 @@ Race: ALL
 Packmaster Dledsh |
 Feet |
 AC: 7 STA: +4 CHA: -9 HP: +15 SV DISEASE: +3 SV POISON: +3 WT: 3.7 Size: MEDIUM Class: WAR RNG SHD DRU SHM Race: ALL |
+Fish WineFish Wine
+Quest
+Size: SMALL WT: 0.4
+Class: ALL
+Race: ALL
+|
+a kobold sentinel, a rabid kobold, King Gragnar |
+(None) |
+Quest Size: SMALL WT: 0.4 Class: ALL Race: ALL |
 Forlorn ArrowForlorn Arrow
 Slot: AMMO
 DMG: 4
@@ -1625,15 +1635,15 @@ The Muglwump |
 Chest |
 AC: 15 STR: +3 WIS: +3 SV COLD: +10 WT: 5.1 Size: MEDIUM Class: CLR PAL Race: ALL |
 Odd Bone NecklaceOdd Bone Necklace
-NO DROP
+No Trade
 Slot: NECK
-WT: 0.0 Size: TINY
+Size: TINY WT: 0.0
 Class: ALL
 Race: ALL
 |
 a lesser shaman |
 Neck |
-WT: 0.0 Size: TINY Class: ALL Race: ALL |
+Size: TINY WT: 0.0 Class: ALL Race: ALL |
 Odd Bronze NecklaceOdd Bronze Necklace
 NO DROP
 Slot: NECK
@@ -1670,17 +1680,17 @@ Packmaster Dledsh |
 1H Slashing |
 Atk Delay: 24 DMG: 4 AC: 2 Effect: Choke (Combat, Casting Time: Instant) at Level 20 CHA: -4 SV DISEASE: -3 WT: 2.5 Size: SMALL Class: WAR RNG SHD BRD ROG Race: ALL |
 Pit Fighter AnklewrapsPit Fighter Anklewraps
-MAGIC ITEM
+Attunable
 Slot: FEET
 AC: 2
 DEX: +1
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: MNK
 Race: ALL
 |
 A Kobold Pit Fighter |
 Feet |
-AC: 2 DEX: +1 WT: 0.1 Size: SMALL Class: MNK Race: ALL |
+AC: 2 DEX: +1 Size: SMALL WT: 0.1 Class: MNK Race: ALL |
 Pit Fighter HandwrapsPit Fighter Handwraps
 MAGIC ITEM
 Slot: HANDS

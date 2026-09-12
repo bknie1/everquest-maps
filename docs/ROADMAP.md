@@ -9,7 +9,7 @@ Status: ☐ todo · ◐ in-flight (session) · ☑ done+verified · ⏸ needs Br
 
 ---
 
-## P0 — Nektulos (closing 2026-09-08, the one that kept slipping)
+## P0 — Nektulos ☑ CLOSED 2026-09-09 (v0.2.2-alpha; patches .1 .2 .3)
 
 - ☑ Neriak gate: was mirrored (tool's y-flip) in the SW corner. V-flipped
   upright and moved to the TOP-RIGHT beside its own "to Neriak" zone-line POI
@@ -19,8 +19,25 @@ Status: ☐ todo · ◐ in-flight (session) · ☑ done+verified · ⏸ needs Br
 - ☑ Lavastorm mountains: volcanic peak range added along the north edge with
   lava-glow markers by the "to Lavastorm" exit.
 - ☑ Nektropos castle: shifted right (2026-09-06). Brandon: "looks great."
-- ◐ HD flora/fauna update → **session: nektulos-hd** (spawned 2026-09-08).
-- ⏸ Stylized title (see Title Campaign below — themed, not plain).
+- ☑ Creepy-forest rebuild (2026-09-09, src/zones/nek_rebuild.py) — Brandon's
+  real pass. Composed _2 fresh BY REGION (past the 34,58,38 shared-ink
+  entanglement): kept interior + fauna_sil silhouettes + castle + title +
+  compass; PURGED all old tree/crown flora. New flora = a CREEPY dead-forest of
+  bare snags + dark conifers on a quantized green(south)→purple→blue(north)
+  gradient (the halfling→Neriak transition Brandon loves). Neriak gate flipped
+  right-way-up + reseated in the right margin; Nektropos castle RESTORED; frame
+  WIDENED (borders -1990/1780 → -2170/2130) so the margin has room; volcanoes at
+  the Lavastorm exit; keep-outs for the wizard gate / portals / ruins. 15,792/31k,
+  grade B, 0 dupes. Superseded the 09-08 HD flora (darkwood) + fauna margin passes
+  (the fauna silhouettes carried through; the darkwood flora was replaced).
+- ☑ Stylized title (2026-09-08): `darkwood` with a Teir'Dal violet tint — kept
+  through the rebuild (title band preserved by region). Done.
+- ☑ Patch v0.2.2.1 → v0.2.2.2 (2026-09-09): the right-margin WIZARD GATE was
+  buried in trees. It's a LOCKED-IN graphic (`eqmap_toolkit.wizard_gate` —
+  ziggurat + portal swirl, the one that "looks like the gate"). v0.2.2.1 wrongly
+  REDREW it; v0.2.2.2 reverts that and KEEPS the original, just fencing trees off
+  it with a keep-out. (GFay's gate should reuse eqmap_toolkit.wizard_gate too — do
+  not redraw.) Also purged two missed old darkwood inks (52,46,74 / 56,48,40).
 
 ## Meta-fix (why this file exists)
 
@@ -36,7 +53,8 @@ it reports back and its zones are verified.
 - ◐ crushbone-hd — Crushbone HD decor modernization.
 - ◐ lfay-mirkwood — Lesser Faydark dark-wood identity (giant mushrooms/trees).
 - ◐ felwithe — banner + entrance-facade archaeology, compass, trees, flora.
-- ◐ nektulos-hd — Nektulos HD flora/fauna (spawned 2026-09-08).
+- ☑ nektulos-hd — Nektulos HD flora/fauna (2026-09-08): fauna (wireframes →
+  fauna_sil silhouettes) + flora (rough margin crowns → darkwood Mirkwood). Done.
 
 ## DONE + verified (2026-09-06 → 09-08)
 
@@ -82,16 +100,16 @@ string; scale in place, never restyle to stick font; history-check first
 ### Themed (brief already given by Brandon) — ◐ ready to build
 | zone | theme |
 |---|---|
-| gfaydark | wood-elf |
+| gfaydark | wood-elf — ☑ `woodelf` 2026-09-08 |
 | lfaydark | dark Mirkwood (with the biome session) |
-| mistmoore | spooky vampire castle (unrest=haunted house, this=haunted castle) |
-| permafrost | ice castle (Halas meets Mistmoore) |
-| hateplane | Innoruuk / Prince of Hate (Neriak cleric kin) |
-| innothule | swampy troll/froglok |
-| lavastorm | lava/ember |
+| mistmoore | spooky vampire castle — ☑ `gothic` (prior session; verified 2026-09-08, reads well — flagging only that it sits on the larger end vs the smaller-title doctrine, Brandon to verdict) |
+| permafrost | ice castle (Halas meets Mistmoore) — ☑ `ice` 2026-09-08 |
+| hateplane | Innoruuk / Prince of Hate (Neriak cleric kin) — ☑ `hate` 2026-09-08 |
+| innothule | swampy troll/froglok — ☑ `swamp` 2026-09-08 |
+| lavastorm | lava/ember — ☑ `lava` 2026-09-08 |
 | misty | (theme TBD, wants stylized) |
-| kithicor | dark forest (Kithicor kin to lfay) |
-| nektulos | dark forest / Teir'Dal |
+| kithicor | dark forest (Kithicor kin to lfay) — ☑ `darkwood` 2026-09-08 |
+| nektulos | dark forest / Teir'Dal — ☑ `darkwood` (violet Teir'Dal tint) 2026-09-08 |
 | neriak a/b/c | unify the three, Freeport-style two-tier, keep dark-elf styling |
 
 ### Plain-caps queue — ⏸ need a theme decision from Brandon

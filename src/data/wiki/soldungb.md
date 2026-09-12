@@ -1,5 +1,5 @@
 # Nagafen's_Lair (eqlwiki.com)
-fetched: 2026-09-08
+fetched: 2026-09-11
 
 Nagafen's Lair - EverQuest Legends Wiki
 Jump to content
@@ -92,9 +92,9 @@ Types of Monsters:
 |
 Greater Kobolds, Greater Kobold Shamans, Solusek Kobolds, Solusek Kobold Shamans, Sonic Bats, Lava Beetles, Lava Duct Crawlers, Lava Guardians, Imp Protector, Fire Giants, Fire Giant Magi, Fire Giant Warrior, Fire Giant Wizards
 |
-Notable NPCs:
+Rare NPCs:
 |
-death beetle, Efreeti Lord Djarn, guano harvester, kobold champion, kobold noble, kobold priest, Midghh the Dark, noxious spider, Solusek kobold king, stone spider, Targin the Rock, Zordak Ragefire
+death beetle, Efreeti Lord Djarn, guano harvester, kobold champion, kobold noble, kobold priest, noxious spider, Solusek kobold king, stone spider, Targin the Rock
 |
 Unique Items:
 |
@@ -1854,13 +1854,13 @@ Nagafen's Lair
 Solo vs. Multiplayer
 When creating the raid instance, players can choose between solo and multiplayer instances. These instances share lockouts, so players cannot do both in the same week and receive full loot.
 Trash mobs and boss placement also differ between the two versions. Multiplayer will have additional trash mobs, and Magus Roykl will move from the stairwell outside of Nagafens room to inside the room with Nagafen. It can be advised to have a character with feign death in order to pull Magus Roykl without also pulling Nagafen.
-Retrieved from "https://eqlwiki.com/index.php?title=Nagafen%27s_Lair&oldid=176514"
+Retrieved from "https://eqlwiki.com/index.php?title=Nagafen%27s_Lair&oldid=177854"
 Categories: Classic Era
 Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 4 September 2026, at 12:30.
+This page was last edited on 10 September 2026, at 17:07.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

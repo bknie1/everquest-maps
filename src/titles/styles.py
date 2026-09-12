@@ -174,6 +174,79 @@ def gothic(text, x, y, h, ink=(74, 78, 98), blood=(120, 28, 34), seed=0):
     return segs, _bbox(segs)
 
 
+def ice(text, x, y, h, ink=(92, 126, 156), frost=(196, 216, 232), seed=0):
+    """Permafrost: an ice castle. Angular condensed caps in cold blue stone
+    (Halas runic geometry, Mistmoore castle condense), carved weight, a pale
+    frost highlight offset up-left, and icicles that hang from the low edges of
+    the horizontal strokes -- crystalline, not carved."""
+    letters = _emit(text, x, y, h, tracking=13, condense=0.82, variants=ANGULAR, seed=seed)
+    body = _lines(letters, ink)
+    segs = _thicken(body, h * 0.024, ink) + _offset(body, -h * 0.05, -h * 0.055, frost) + body
+    for _, polys in letters:                                   # icicles off low horizontals
+        for poly in polys:
+            for (ax, ay), (bx, by) in zip(poly, poly[1:]):
+                if abs(bx - ax) > abs(by - ay) * 1.6 and abs(bx - ax) > h * 0.18:
+                    mx = ax + (bx - ax) * 0.5
+                    my = max(ay, by)                           # south (down) edge
+                    dl = h * (0.14 + 0.10 * ((mx * 0.013) % 1))  # varied lengths
+                    w = h * 0.028
+                    segs += [(mx - w, my, mx, my + dl, frost),
+                             (mx + w, my, mx, my + dl, frost)]
+    return segs, _bbox(segs)
+
+
+def lava(text, x, y, h, rock=(74, 54, 46), glow=(196, 84, 30), ember=(226, 150, 48),
+         seed=0):
+    """Lavastorm: molten letters. Heavy dark-basalt caps carried over a hot
+    lava-glow echo, a few glowing cracks across the strokes, and lava dripping
+    from the low edges with a bright bead partway down. Cracked and molten,
+    inside the atlas's volcanic inks (no neon)."""
+    letters = _emit(text, x, y, h, tracking=15, condense=0.90, seed=seed)
+    body = _lines(letters, rock)
+    segs = _offset(body, h * 0.035, h * 0.04, glow)            # hot glow behind
+    segs += _thicken(body, h * 0.03, rock) + body              # thick basalt
+    rng = random.Random(seed + 2)
+    for (a, b, c, d, _) in body:                               # glowing cracks
+        if rng.random() < 0.22:
+            mx, my = (a + c) / 2, (b + d) / 2
+            L = math.hypot(c - a, d - b) or 1
+            nx, ny = -(d - b) / L, (c - a) / L
+            s = h * 0.045
+            segs.append((mx - nx * s, my - ny * s, mx + nx * s, my + ny * s, ember))
+    for _, polys in letters:                                   # lava drips off low edges
+        for poly in polys:
+            for (ax, ay), (bx, by) in zip(poly, poly[1:]):
+                if abs(bx - ax) > abs(by - ay) * 1.6 and abs(bx - ax) > h * 0.2:
+                    mx = ax + (bx - ax) * 0.5
+                    my = max(ay, by)
+                    dl = h * (0.12 + 0.12 * rng.random())
+                    segs.append((mx, my, mx, my + dl, glow))
+                    segs.append((mx - h * 0.02, my + dl * 0.55, mx + h * 0.02,
+                                 my + dl * 0.55, ember))        # molten bead
+    return segs, _bbox(segs)
+
+
+def hate(text, x, y, h, ink=(92, 54, 128), echo=(52, 32, 72), venom=(150, 178, 90),
+         seed=0):
+    """Plane of Hate (Innoruuk): cruel condensed caps, kin to Neriak `darkelf`
+    but crueler -- a hard dark echo and barbed hooks bristling off every stroke
+    terminal, each thorn tipped in Innoruuk's poison green. Lean by design (the
+    zone is budget-tight)."""
+    letters = _emit(text, x, y, h, tracking=10, condense=0.76, slant=0.05, seed=seed)
+    body = _lines(letters, ink)
+    segs = _offset(body, h * 0.05, h * 0.055, echo) + body
+    t = h * 0.14
+    for (ex, ey), (tx, ty) in _ends(letters):                  # barbed venom thorns
+        L = math.hypot(tx - ex, ty - ey) or 1
+        ux, uy = (ex - tx) / L, (ey - ty) / L                  # outward along stroke
+        nx, ny = -uy, ux                                       # perpendicular
+        px, py = ex + ux * t, ey + uy * t                      # thorn tip
+        segs.append((ex, ey, px, py, ink))                     # main thorn
+        segs.append((px, py, px - ux * t * 0.45 + nx * t * 0.4,
+                     py - uy * t * 0.45 + ny * t * 0.4, venom))  # venom back-barb
+    return segs, _bbox(segs)
+
+
 def highelf(text, x, y, h, ink=(44, 92, 56), gold=(198, 152, 62), seed=0):
     """Felwithe: light italic strokes with a golden echo and a vine swash."""
     letters = _emit(text, x, y, h, tracking=18, slant=0.14, seed=seed)
@@ -193,6 +266,90 @@ def highelf(text, x, y, h, ink=(44, 92, 56), gold=(198, 152, 62), seed=0):
             segs += [(b[0], b[1], b[0] + s * 0.6, b[1] - s, ink),
                      (b[0] + s * 0.6, b[1] - s, b[0] + s * 1.2, b[1] - s * 0.3, ink),
                      (b[0] + s * 1.2, b[1] - s * 0.3, b[0], b[1], ink)]
+    return segs, _bbox(segs)
+
+
+def woodelf(text, x, y, h, ink=(54, 98, 50), bark=(104, 76, 44), seed=0):
+    """Greater Faydark: elegant living-wood caps for the wood-elf city of
+    Kelethin. Slender green strokes carried over a faint bark echo, with small
+    leaves budding from the cap-height tips and a thin sprigged branch beneath
+    the word. High-fantasy and organic -- distinct from Felwithe's gold italic
+    (highelf) and Surefall's rough ranger caps (sylvan)."""
+    letters = _emit(text, x, y, h, tracking=15, condense=0.95, seed=seed)
+    body = _lines(letters, ink)
+    segs = _offset(body, h * 0.020, h * 0.026, bark) + body        # faint bark depth
+    s = h * 0.17
+    for (ex, ey), _ in _ends(letters):                             # leaves at real tips
+        if ey > y - h * 0.72:
+            continue
+        segs += [(ex, ey, ex + s * 0.5, ey - s * 0.9, ink),        # leaf grows up/out
+                 (ex + s * 0.5, ey - s * 0.9, ex + s * 0.05, ey - s * 1.45, ink),
+                 (ex + s * 0.05, ey - s * 1.45, ex, ey, ink),
+                 (ex + s * 0.05, ey - s * 0.35, ex + s * 0.3, ey - s * 1.0, ink)]  # midrib
+    x0, y0, x1, y1 = _bbox(body)                                    # a living branch below
+    by = y + h * 0.15
+    n, prev = 22, None
+    for i in range(n + 1):
+        t = i / n
+        px = x0 + (x1 - x0) * t
+        py = by + math.sin(t * math.pi * 2.5) * h * 0.045
+        if prev:
+            segs.append((prev[0], prev[1], px, py, bark))
+        if i % 7 == 4:                                             # a sprig + leaf
+            segs += [(px, py, px + s * 0.45, py + s * 0.75, bark),
+                     (px + s * 0.45, py + s * 0.75, px + s * 0.95, py + s * 0.35, ink),
+                     (px + s * 0.95, py + s * 0.35, px + s * 0.35, py + s * 0.2, ink),
+                     (px + s * 0.35, py + s * 0.2, px + s * 0.45, py + s * 0.75, ink)]
+        prev = (px, py)
+    return segs, _bbox(segs)
+
+
+def swamp(text, x, y, h, ink=(82, 96, 52), muck=(50, 60, 36), slime=(122, 142, 68),
+          seed=4):
+    """Innothule: a troll/froglok bog. Thick lurching caps (crude jitter) in
+    murky swamp green over a dark muck shadow, with slime oozing off the lowest
+    point of each letter and hanging in a fat droplet. Crude and dripping;
+    lettering treatment only, no floating figures."""
+    letters = _emit(text, x, y, h, tracking=19, seed=seed,
+                    rot_jitter=4.0, base_jitter=0.045, scale_jitter=0.09)
+    body = _lines(letters, ink)
+    segs = _thicken(body, h * 0.060, muck) + _thicken(body, h * 0.028, ink) + body
+    rng = random.Random(seed + 3)
+    for ch, polys in letters:                                  # one ooze drip per letter
+        pts = [p for poly in polys for p in poly]
+        lo = max(pts, key=lambda p: p[1])                      # lowest (south) point
+        dl = h * (0.16 + 0.18 * rng.random())
+        segs.append((lo[0], lo[1], lo[0] + h * 0.01, lo[1] + dl, slime))
+        r = h * 0.035                                          # fat droplet at the tip
+        cx, cy = lo[0] + h * 0.01, lo[1] + dl + r
+        for i in range(8):
+            a0, a1 = math.pi * i / 4, math.pi * (i + 1) / 4
+            segs.append((cx + r * math.cos(a0), cy + r * math.sin(a0),
+                         cx + r * math.cos(a1), cy + r * math.sin(a1), slime))
+    return segs, _bbox(segs)
+
+
+def darkwood(text, x, y, h, ink=(40, 58, 44), branch=(84, 74, 60), seed=1):
+    """Kithicor / Nektulos: a dark haunted forest. Gaunt caps with a slight
+    gnarl and a muted dead-branch echo, bare twig-forks splitting off some
+    terminals -- leafless and spooky, kin to Lesser Faydark's Mirkwood. Lean by
+    design (forest zones are budget-tight). Pass a violet ink for the Teir'Dal
+    (Nektulos) variant."""
+    letters = _emit(text, x, y, h, tracking=14, condense=0.90, seed=seed,
+                    rot_jitter=2.5, base_jitter=0.02)
+    body = _lines(letters, ink)
+    segs = _offset(body, h * 0.03, h * 0.035, branch) + body       # dead-branch echo
+    rng = random.Random(seed + 7)
+    t = h * 0.17
+    for (ex, ey), (tx, ty) in _ends(letters):                      # bare twig forks
+        if rng.random() < 0.4:
+            continue
+        L = math.hypot(tx - ex, ty - ey) or 1
+        ux, uy = (ex - tx) / L, (ey - ty) / L                      # outward
+        for ang in (0.55, -0.55):
+            ca, sa = math.cos(ang), math.sin(ang)
+            dx, dy = ux * ca - uy * sa, ux * sa + uy * ca
+            segs.append((ex, ey, ex + dx * t, ey + dy * t, branch))
     return segs, _bbox(segs)
 
 
@@ -282,7 +439,8 @@ STYLES = {
     "extruded": extruded, "small_caps": small_caps, "runic": runic,
     "crude": crude, "darkelf": darkelf, "highelf": highelf, "rounded": rounded,
     "clockwork": clockwork, "stately": stately, "refined": refined, "sylvan": sylvan,
-    "gothic": gothic,
+    "gothic": gothic, "woodelf": woodelf, "ice": ice, "lava": lava, "swamp": swamp,
+    "hate": hate, "darkwood": darkwood,
 }
 
 

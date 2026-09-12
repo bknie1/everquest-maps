@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-09-08
+fetched: 2026-09-11
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -288,7 +288,7 @@ Boss: Thunder Spirit Princess
 Common: A Thunder Spirit
 Other: Key Master
 Keys dropped: Key of the Misplaced, Key of Swords
-This the island that you enter Plane of Sky on. Thankfully the fairies are NOT kos, so you can take time to organize yourself here and buff up before starting. You may purchase keys from the Key Master to the quest room, noble island, and Azarack island. The thunder spirit princess also drops a key to Azarack island.
+This the island that you enter Plane of Sky on. Thankfully the fairies are NOT kos, so you can take time to organize yourself here and buff up before starting. You may purchase keys from the Key Master to the quest room, noble island, and Azarack island. The thunder spirit princess next to the Key Master also drops the keys to Azarack island (2) and Noble Island (1.5).
 The thunder spirits are bards and use some weak DoTs. Ideal to cut your teeth and farm a Wind Rune or three.
 Island 1.5: Noble Island
 Boss: Noble Dojorn
@@ -502,16 +502,14 @@ Quest Items
 Spiroc Beak EarcuffSpiroc Beak Earcuff
 Lore Equipped, No Trade
 Slot: EAR
-Class: BST
-Race: ALL
 AC: 4
 HP: +10 Mana: +10 End: +10
 WIS: +5 CHA: +5
 WT: 0.1 Size: TINY
-Click Effect: Vigor of Zehkes (Must Equip)
-Cast Time: Instant
-Required Level: 46
-Cooldown: 120 seconds
+Click Effect: Vigor of Zehkes (Must Equip) Required Level: 46
+Cast Time: Instant, Cooldown: 120 seconds
+Class: BST
+Race: ALL
 |
 Beastlord Test of Aviak
 |
@@ -1323,7 +1321,7 @@ Silken Wrap (6-BZ)
 Wu's Fist of MasteryWu's Fist of Mastery
 MAGIC ITEM NO DROP
 Slot: PRIMARY SECONDARY
-Skill: 1H Blunt Atk Delay: 22
+Skill: Hand to Hand Atk Delay: 22
 DMG: 16
 WT: 0.5 Size: TINY
 Class: MNK
@@ -2224,13 +2222,12 @@ Wind Rune Fana
 Woven Skull Cap (4-KoS)
 |
 Raiment of ThunderRaiment of Thunder
-MAGIC ITEM LORE ITEM NO DROP
+Lore, No Trade
 Slot: SHOULDERS
-Charges: 2
 AC: 4
 STR: +5 INT: +5 MANA: +15
 SV DISEASE: +5 SV POISON: +10
-Effect: Thunder Strike (Must Equip, Casting Time: Instant) at Level 45
+Effect: Thunder Strike (Must Equip, Casting Time: Instant, Cooldown: 120 seconds) at Level 45
 WT: 0.3 Size: SMALL
 Class: WIZ
 Race: ALL
@@ -3466,7 +3463,7 @@ Warrior |
 |
 None |
 This is the quest NPC for Wizard Plane of Sky Tests turn ins. |
-Items - Found 266 items that drop in Plane of Sky:
+Items - Found 270 items that drop in Plane of Sky:
 Item Name | Drops From | Slot | Stats |
 Acidic VenomAcidic Venom
 LORE ITEM
@@ -3490,6 +3487,18 @@ Race: ALL
 Bazzzazzt, Bizazzzt, Bzzzt |
 Wrist |
 AC: 4 DEX: +4 SV COLD: +4 WT: 9.0 Size: LARGE Class: ALL Race: ALL |
+Adamantium EarringAdamantium Earring
+Lore Equipped, No Trade, Quest
+Slot: Ear
+MANA: 5
+SV FIRE: 5
+WT: 1.0 Size: MEDIUM
+Class: ENC
+Race: ALL
+|
+Bazzt Zzzt |
+Ear |
+MANA: 5 SV FIRE: 5 WT: 1.0 Size: MEDIUM Class: ENC Race: ALL |
 Adumbrate GlobeAdumbrate Globe
 MAGIC ITEM LORE ITEM
 WT: 1.0 Size: MEDIUM
@@ -3944,6 +3953,19 @@ Race: ALL
 Various |
 Wrist |
 CHA: 7 INT: 7 MANA: 20 WT: 0.1 Size: TINY Class: ENC Race: ALL |
+Brass KnucklesBrass Knuckles
+No Trade, Quest, Placeable
+Slot: Primary Secondary
+Skill: 1H Blunt Atk Delay: 25
+DMG: 10
+Dmg Bon: 12
+WT: 1.0 Size: MEDIUM
+Class: MNK BST
+Race: ALL
+|
+Noble Dojorn, Overseer of Air, The Hand of Veeshan |
+1H Blunt |
+Atk Delay: 25 DMG: 10 Dmg Bon: 12 WT: 1.0 Size: MEDIUM Class: MNK BST Race: ALL |
 Breath of GwanBreath of Gwan
 MAGIC ITEM LORE ITEM NO DROP
 WT: 0.1 Size: SMALL
@@ -4541,6 +4563,14 @@ Race: ALL
 a spiroc expulser, The Spiroc Guardian |
 (None) |
 LORE ITEM WT: 2.0 Size: MEDIUM Class: ALL Race: ALL |
+Essence of WindEssence of Wind
+WT: 0.1 Size: TINY
+Class: ALL
+Race: ALL
+|
+a crystalline cloud |
+(None) |
+WT: 0.1 Size: TINY Class: ALL Race: ALL |
 Ethereal AmberEthereal Amber
 LORE ITEM
 WT: 15.0 Size: LARGE
@@ -5839,20 +5869,18 @@ Atk Delay: 30 DMG: 8 Dmg Bon: 15 WIS: +2 MANA: +10 WT: 5.0 Size: MEDIUM Class: D
 Spiroc Beak EarcuffSpiroc Beak Earcuff
 Lore Equipped, No Trade
 Slot: EAR
-Class: BST
-Race: ALL
 AC: 4
 HP: +10 Mana: +10 End: +10
 WIS: +5 CHA: +5
 WT: 0.1 Size: TINY
-Click Effect: Vigor of Zehkes (Must Equip)
-Cast Time: Instant
-Required Level: 46
-Cooldown: 120 seconds
+Click Effect: Vigor of Zehkes (Must Equip) Required Level: 46
+Cast Time: Instant, Cooldown: 120 seconds
+Class: BST
+Race: ALL
 |
 None? |
 Ear |
-Class: BST Race: ALL AC: 4 HP: +10 Mana: +10 End: +10 WIS: +5 CHA: +5 WT: 0.1 Size: TINY Click Effect: Vigor of Zehkes (Must Equip) Cast Time: Instant Required Level: 46 Cooldown: 120 seconds |
+AC: 4 HP: +10 Mana: +10 End: +10 WIS: +5 CHA: +5 WT: 0.1 Size: TINY Click Effect: Vigor of Zehkes (Must Equip) Required Level: 46 Cast Time: Instant, Cooldown: 120 seconds Class: BST Race: ALL |
 Spiroc Earth totemSpiroc Earth totem
 LORE ITEM NO DROP
 WT: 9.0 Size: LARGE
@@ -6124,7 +6152,7 @@ WT: 9.0 Size: LARGE
 Class: RNG
 Race: ALL
 |
-Bazzt Zzzt (Island 6 Boss) |
+Bazzt Zzzt |
 Ear |
 DEX: +4 STA: +4 CHA: +4 WT: 9.0 Size: LARGE Class: RNG Race: ALL |
 White Spiroc FeatherWhite Spiroc Feather
@@ -6247,6 +6275,19 @@ Race: ALL
 Gorgalosk |
 Face |
 AC: 4 CHA: 5 INT: 3 SV DISEASE: 2 WT: 1.0 Size: MEDIUM Class: DRU Race: ALL |
+Woven Skull CapWoven Skull Cap
+Lore Equipped, No Trade, Quest
+Slot: Head
+AC: 4
+MANA: 5
+SV POISON: 2
+WT: 0.1 Size: SMALL
+Class: WIZ
+Race: ALL
+|
+Keeper of Souls |
+Head |
+AC: 4 MANA: 5 SV POISON: 2 WT: 0.1 Size: SMALL Class: WIZ Race: ALL |
 Writ of QuelliousWrit of Quellious
 LORE ITEM
 WT: 1.0 Size: MEDIUM
@@ -6265,12 +6306,12 @@ Race: ALL
 Protector of Sky |
 (None) |
 LORE ITEM WT: 6.0 Size: MEDIUM Class: ALL Race: ALL |
-Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Sky&oldid=176688"
+Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Sky&oldid=177571"
 Categories: Classic Era
 Zones
 How to Contribute
 Donate
-This page was last edited on 4 September 2026, at 21:27.
+This page was last edited on 9 September 2026, at 14:56.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

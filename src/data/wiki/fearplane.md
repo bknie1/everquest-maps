@@ -1,5 +1,5 @@
 # Plane_of_Fear (eqlwiki.com)
-fetched: 2026-09-08
+fetched: 2026-09-09
 
 Plane of Fear - EverQuest Legends Wiki
 Jump to content
@@ -759,7 +759,7 @@ Gelatinous Cube |
 Warrior |
 48-51 |
 7% @ (860, 480), 7% @ (775, 381) |
-Various |
+Midnight Clad Armor Set |
 These cubes will melee proc a 4-slot AOE dispel. They also posses an expanded loot table, including many drops usually f... |
 Terror
 |
@@ -2169,7 +2169,7 @@ WT: 5.6 Size: LARGE
 Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
 Race: ALL
 |
-phoboplasm |
+None? |
 Legs |
 AC: 15 STR: +5 STA: +5 AGI: +5 WT: 5.6 Size: LARGE Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
 Lustrous Russet HelmLustrous Russet Helm
@@ -2181,7 +2181,7 @@ WT: 4.5 Size: SMALL
 Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
 Race: ALL
 |
-phoboplasm |
+None? |
 Head |
 AC: 15 CHA: +5 INT: +5 WT: 4.5 Size: SMALL Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
 Lustrous Russet VambracesLustrous Russet Vambraces
@@ -2193,7 +2193,7 @@ WT: 4.9 Size: SMALL
 Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
 Race: ALL
 |
-phoboplasm |
+None? |
 Arms |
 AC: 15 STR: +9 DEX: +5 WT: 4.9 Size: SMALL Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
 Lyssa`s Darkwood PiccoloLyssa`s Darkwood Piccolo
@@ -2714,14 +2714,14 @@ Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 47
 DMG: 20
-Effect: Banish Undead (Combat) at Level 46
+Effect: Banish Undead (Combat, Rate +43%) at Level 46
 Size: LARGE WT: 6.5
 Class: NEC
 Race: ALL
 |
 Various |
 2H Blunt |
-Atk Delay: 47 DMG: 20 Effect: Banish Undead (Combat) at Level 46 Size: LARGE WT: 6.5 Class: NEC Race: ALL |
+Atk Delay: 47 DMG: 20 Effect: Banish Undead (Combat, Rate +43%) at Level 46 Size: LARGE WT: 6.5 Class: NEC Race: ALL |
 Staff of the EarthcrafterStaff of the Earthcrafter
 Attunable, Placeable
 Slot: PRIMARY
@@ -3448,7 +3448,7 @@ Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 47
 DMG: 20
-Effect: Banish Undead (Combat) at Level 46
+Effect: Banish Undead (Combat, Rate +43%) at Level 46
 Size: LARGE WT: 6.5
 Class: NEC
 Race: ALL

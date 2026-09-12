@@ -1,5 +1,5 @@
 # Greater_Faydark (eqlwiki.com)
-fetched: 2026-09-08
+fetched: 2026-09-10
 
 Greater Faydark - EverQuest Legends Wiki
 Jump to content
@@ -1351,7 +1351,7 @@ Devin Ashwood
 Wood Elf |
 Ranger |
 10 |
-50% @ (-2, 395) |
+-1, 395, 161 |
 None |
 Description needed. |
 Dill Fireshine
@@ -1715,7 +1715,7 @@ Lily Ashwood
 Wood Elf |
 Bard |
 15 |
-50% @ (-5, 411) |
+-5, 411, 161 |
 None |
 Description needed. |
 Linadian

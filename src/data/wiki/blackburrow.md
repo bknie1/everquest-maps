@@ -1,5 +1,5 @@
 # Blackburrow (eqlwiki.com)
-fetched: 2026-09-08
+fetched: 2026-09-11
 
 Blackburrow - EverQuest Legends Wiki
 Jump to content
@@ -719,7 +719,7 @@ North Qeynos: @ (1210, 480)
 Blackburrow: @ (160, -140) |
 Various |
 In North Qeynos, Tranixx Darkpaw will randomly spawn in place of Fippy Darkpaw in the newbie area outside the gate. He s... |
-Items - Found 40 items that drop in Blackburrow:
+Items - Found 41 items that drop in Blackburrow:
 Item Name | Drops From | Slot | Stats |
 An Elven Charm NecklaceAn Elven Charm Necklace
 LORE ITEM
@@ -934,6 +934,15 @@ Race: ALL
 Master Brewer |
 1H Blunt |
 Base Dmg: 9 Atk Delay: 30 STA: +3 WIS: +3 WT: 1.5 Size: SMALL Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST BER Race: ALL |
+Mammoth SkinMammoth Skin
+No Trade, Temporary
+Size: TINY WT: 0.0
+Class: NONE
+Race: NONE
+|
+Master Brewer, a gnoll brewer |
+(None) |
+No Trade, Temporary Size: TINY WT: 0.0 Class: NONE Race: NONE |
 Onyx EarringOnyx Earring
 MAGIC ITEM
 Slot: EAR

@@ -205,6 +205,25 @@ ZONES = {
                    inks={(62, 104, 56)}, grow=1.2),
     "qrg": dict(text="SUREFALL GLADE", style="sylvan", mode="generic",
                 knockout=True),
+    "permafrost": dict(text="PERMAFROST KEEP", style="ice", mode="ink",
+                       inks={(72, 62, 54)}, grow=0.72, dy=-67),
+    "lavastorm": dict(text="LAVASTORM MOUNTAINS", style="lava", mode="ink",
+                      inks={(80, 58, 50)}, grow=0.9),
+    "innothule": dict(text="INNOTHULE SWAMP", style="swamp", mode="ink",
+                      inks={(70, 80, 50)}, grow=0.5, dy=-110,
+                      protect=[(0.0, 1.0, -3520, -3400),     # top border zigzag row
+                               (0.0, 0.06, -3400, -3150),    # left corner descent
+                               (0.94, 1.0, -3400, -3150)]),  # right corner descent
+    "hateplane": dict(text="PLANE OF HATE", style="hate", mode="ink",
+                      inks={(50, 40, 64)}, grow=0.9, dy=-30),
+    "gfaydark": dict(text="GREATER FAYDARK", style="woodelf", mode="ink",
+                     inks={(90, 60, 34)}, grow=0.85, dy=-80, band_pad=110),
+    "kithicor": dict(text="KITHICOR FOREST", style="darkwood", mode="box",
+                     inks={(34, 58, 38)}, box=(-3650, 1300, -2820, -2440),
+                     min_len=45, grow=0.85, dy=-40),
+    "nektulos": dict(text="NEKTULOS FOREST", style="darkwood", mode="ink",
+                     inks={(34, 58, 38)}, grow=0.85, dy=-25,
+                     kw=dict(ink=(96, 74, 132), branch=(78, 66, 76))),
     "mistmoore": dict(text="CASTLE MISTMOORE", style="gothic", mode="generic",
                       det=dict(graph_min_len=11.0, min_med_len=12.0, min_h=28,
                                max_h=150, max_w=160),
@@ -222,11 +241,14 @@ def apply_zone(zone, dry=False):
     fx0, fx1 = lo["frame"][0], lo["frame"][1]
     path = os.path.join(MAPS, zone + "_2.txt")
     raw = [l for l in open(path, encoding="utf-8").read().splitlines() if l.strip()]
+    # band cutoff is gy0+40 by default; band_pad lets a zone whose title dips
+    # below that line (a few letter feet at the grid top) capture all of it.
+    cutoff = gy0 + cfg.get("band_pad", 40)
     keep_lines, band, band_lines = [], [], []
     for l in raw:
         if l[:1] == "L":
             s = parse(l)
-            if (s[1] + s[3]) / 2 < gy0 + 40:
+            if (s[1] + s[3]) / 2 < cutoff:
                 band.append(s)
                 band_lines.append(l)
                 continue
@@ -249,6 +271,19 @@ def apply_zone(zone, dry=False):
             removed = {i for i in removed
                        if not (pf0 <= ((band[i][0] + band[i][2]) / 2 - b0) / bw <= pf1
                                and py0 <= (band[i][1] + band[i][3]) / 2 <= py1)}
+    elif cfg["mode"] == "box":
+        # letters share their ink with scattered decor (bushes/trees) at similar
+        # y: component and ink_comp detection fragment this plain-cap font, so
+        # bound the title with an explicit box (x0,x1,y0,y1) and take that ink
+        # inside it. Decor outside the box (and other inks inside it) survive.
+        bx = cfg["box"]
+        inks = cfg.get("inks")
+        minlen = cfg.get("min_len", 0.0)
+        removed = {i for i, s in enumerate(band)
+                   if (inks is None or s[4] in inks)
+                   and bx[0] <= (s[0] + s[2]) / 2 <= bx[1]
+                   and bx[2] <= (s[1] + s[3]) / 2 <= bx[3]
+                   and slen(s) >= minlen}
     elif cfg["mode"] == "ink_comp":
         # letters share ink with other art (guards, trees): restrict to the
         # letter inks, then keep only letter-shaped components of them
@@ -258,7 +293,7 @@ def apply_zone(zone, dry=False):
         removed = {pool[i] for i in picked}
     else:
         removed = letter_components(band, **cfg.get("det", {}))
-    if cfg["mode"] != "all":
+    if cfg["mode"] not in ("all", "box"):
         removed |= sweep_bboxes(band, removed)
     if "rule_ink" in cfg:
         # long ruled lines tied to the old lettering (underlines), taken by

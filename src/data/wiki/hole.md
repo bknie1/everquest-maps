@@ -1,5 +1,5 @@
 # The_Hole (eqlwiki.com)
-fetched: 2026-09-08
+fetched: 2026-09-11
 
 The Hole - EverQuest Legends Wiki
 Jump to content
@@ -202,12 +202,12 @@ WT: 5.5 Size: LARGE
 Class: WAR CLR PAL RNG SHD BRD SHM
 Race: ALL
 , Paineel Steel Armor, Ruined Heretic LongswordRuined Heretic Longsword
-MAGIC ITEM LORE ITEM
+Lore
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 30
 DMG: 2
 WT: 3.0 Size: MEDIUM
-Class: ALL
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST
 Race: ALL
 , Smoldering BrandSmoldering Brand
 MAGIC ITEM LORE ITEM
@@ -1145,7 +1145,7 @@ Class: CLR DRU SHM BST
 Race: ALL
 |
 Can randomly spawn in place of a revenant or a wanderer. |
-Items - Found 67 items that drop in The Hole:
+Items - Found 68 items that drop in The Hole:
 Item Name | Drops From | Slot | Stats |
 Blood of KyrennaBlood of Kyrenna
 MAGIC ITEM LORE ITEM NO DROP
@@ -1269,6 +1269,20 @@ Race: ALL
 High Scale Kirn |
 Fingers |
 CHA: +5 WT: 0.2 Size: SMALL Class: ALL Race: ALL |
+Essence of EarthEssence of Earth
+Lore Equipped, Attunable
+Slot: NECK
+AC 4 STR: 5 STA: 5
+SV Fire: 2
+Effect: Illusion: Earth Elemental (Can Equip, Cast Time: Instant) at Level 30
+Charges: 2
+WT: 1.1 Size: MEDIUM
+Class: ALL
+Race: ALL
+|
+Retseth Tretse |
+Neck |
+AC 4 STR: 5 STA: 5 SV Fire: 2 Effect: Illusion: Earth Elemental (Can Equip, Cast Time: Instant) at Level 30 Charges: 2 WT: 1.1 Size: MEDIUM Class: ALL Race: ALL |
 Essence of a GhostEssence of a Ghost
 MAGIC ITEM LORE ITEM NO DROP
 WT: 1.0 Size: SMALL
@@ -1651,17 +1665,17 @@ Nortlav the Scalekeeper (Fear/Hate 2.0 Era) |
 (None) |
 Attunable, Quest WT: 2.5 Size: MEDIUM Class: ALL Race: ALL |
 Ruined Heretic LongswordRuined Heretic Longsword
-MAGIC ITEM LORE ITEM
+Lore
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 30
 DMG: 2
 WT: 3.0 Size: MEDIUM
-Class: ALL
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST
 Race: ALL
 |
 a revenant, a wanderer |
 1H Slashing |
-Atk Delay: 30 DMG: 2 WT: 3.0 Size: MEDIUM Class: ALL Race: ALL |
+Atk Delay: 30 DMG: 2 WT: 3.0 Size: MEDIUM Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST Race: ALL |
 Ruined Sword HiltRuined Sword Hilt
 MAGIC ITEM NO DROP
 WT: 0.0 Size: SMALL

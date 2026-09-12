@@ -1,5 +1,5 @@
 # Butcherblock_Mountains (eqlwiki.com)
-fetched: 2026-09-08
+fetched: 2026-09-09
 
 Butcherblock Mountains - EverQuest Legends Wiki
 Jump to content
@@ -2099,14 +2099,14 @@ a large skunk |
 (None) |
 QUEST ITEM WT: 0.5 Size: SMALL Class: ALL Race: ALL |
 Small Wooden LegSmall Wooden Leg
-LORE ITEM NO DROP
+No Trade
 WT: 0.2 Size: SMALL
 Class: ALL
 Race: ALL
 |
 Peg Leg |
 (None) |
-LORE ITEM NO DROP WT: 0.2 Size: SMALL Class: ALL Race: ALL |
+No Trade WT: 0.2 Size: SMALL Class: ALL Race: ALL |
 Warbone ChipsWarbone Chips
 Quest
 Size: SMALL WT: 0.1

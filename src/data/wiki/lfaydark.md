@@ -1,5 +1,5 @@
 # Lesser_Faydark (eqlwiki.com)
-fetched: 2026-09-08
+fetched: 2026-09-11
 
 Lesser Faydark - EverQuest Legends Wiki
 Jump to content
@@ -641,7 +641,8 @@ Warrior |
 45 |
 (-902, 1185) |
 Fish WineFish Wine
-WT: 0.4 Size: SMALL
+Quest
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 |
@@ -1421,13 +1422,14 @@ Various |
 (None) |
 WT: 0.1 Size: TINY Class: ALL Race: ALL |
 Fish WineFish Wine
-WT: 0.4 Size: SMALL
+Quest
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 |
 Dragoon Szorn, Teir`Dal Elite |
 (None) |
-WT: 0.4 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.4 Class: ALL Race: ALL |
 Ghoul Boss' Log BookGhoul Boss' Log Book
 LORE ITEM NO DROP
 WT: 0.2 Size: SMALL
@@ -1478,14 +1480,14 @@ a shadowed man |
 (None) |
 MAGIC ITEM LORE ITEM TEMPORARY EXPENDABLE Charges: 1 Effect: Grim Aura as Level 10 WT: 2.0 Size: SMALL Class: ALL Race: ALL |
 Honey MeadHoney Mead
-QUEST ITEM
-WT: 0.4 Size: SMALL
+Quest
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 |
 Dragoon Szorn, Teir`Dal Elite |
 (None) |
-QUEST ITEM WT: 0.4 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.4 Class: ALL Race: ALL |
 Illusionists StoneIllusionists Stone
 MAGIC ITEM
 Slot: PRIMARY SECONDARY
