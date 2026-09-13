@@ -108,6 +108,22 @@ only scale a dungeon and a continent can be compared on. A rose outside
 - Baseline after: 78/79 A or B (feerrott F by doctrine); every B is a plain-caps
   style verdict waiting on a theme.
 
+## FEERROTT ☑ 2026-09-12 (fixed same day, Brandon: "way too tree dense")
+
+The even-field doctrine above still landed 2.9x over budget because `_2` was
+layering a second full interior canopy pass on top of base's own PLUS a
+32,215-stroke margin ring (bigger than the whole budget alone). Brandon: revert
+to "when we just filled the grid with rainforest" and drop the margin trees.
+Fix: stripped every `_2` canopy stroke (all 4 tree inks) except the title's own
+letters (title shares canopy ink with decor — found by isolating that one ink
+and locating its locally-dense glyph cluster, not by bbox alone). Base interior
+(unchanged pattern) + surviving non-tree `_2` (frame/compass/grid/statues/title)
+landed at 32,450; a further ~7% uniform deterministic stroke thin of the base
+canopy (never whole tufts) closed it to 30,831 — **grade A**. Margin is now bare
+parchment (frame + corner statues, no tree ring), sanctioned by Brandon. See
+docs/zones/feerrott.md for the full account.
+- Baseline is now **79/79 A or B** — no zone is over budget.
+
 ## TODO — unowned, need scheduling
 
 - ⏸ paineel margin mountains — variation/offset (lowest priority, "already good").
