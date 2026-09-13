@@ -2,12 +2,12 @@
 
 **Title:** THE FEERROTT (12 chars)
 **Title style:** unreviewed
-**Title bbox:** x[-2908,2575] y[-2840,-2348] (h 492)
-**Title inks:** (38, 62, 32) x122, (96, 104, 82) x107, (168, 148, 112) x105, (64, 72, 54) x93
+**Title bbox:** x[-4546,4196] y[-3340,-2004] (h 1336)
+**Title inks:** (96, 104, 82) x107, (168, 148, 112) x105, (64, 72, 54) x93, (124, 106, 76) x56
 **Frame width:** 9009
 **Compass:** 1 rose(s), ring 21px at 900px fit
-**Layers:** _1=0, _2=2445, _3=35, base=28351
-**Total strokes:** 30831 (budget 31000) | POIs 44 | dupes 0 | inks 38
+**Layers:** _1=0, _2=2368, _3=35, base=28351
+**Total strokes:** 30754 (budget 31000) | POIs 44 | dupes 0 | inks 38
 **eqqms:** overall A (format A, budget A, title A, dupes A, palette A)
 
 ## Notes
@@ -42,3 +42,21 @@ existing doctrine) closed the last 1,650 to land at 30,831, grade A. Margin is n
 bare parchment (frame + corner statues only, no tree ring) -- Brandon explicitly
 sanctioned this. Interior pattern is visually unchanged from the prior "one even
 field" look at any normal zoom.
+
+2026-09-13 (Brandon: "lost some of the outer border and there are some artifacts
+above the title"): both were fallout from the 2026-09-12 canopy strip, not new
+damage -- (1) the title-preservation box was a generously-padded rectangle
+around the letters; incidental background-canopy specks of the same title ink
+(38,62,32) that happened to fall inside the padding came along for the ride,
+and with the surrounding margin canopy gone they read as stray squiggles above
+the clean text. Tightened the box (x[-1567,1150] y[-2680,-2275], found by
+histogramming stroke density -- the noise was a locally dense band right above
+a much sparser true letter band) -- verified render is pixel-clean. (2) the
+worn-zigzag border ink (40,58,36) never actually wrapped the top edge, even
+before any of this session's changes -- it only ran left/right/bottom, stopping
+at y=-1601 on each side (confirmed against the pre-strip file); the top margin
+was ALWAYS solid canopy standing in as the visual border, which no longer
+exists post-strip. Extended the same zigzag (measured period 402.7, outer/inner
+x -4546.0/-4450 left, 4195.9/4110 right) up both sides to the frame-top corners
+and across the top with a matching amplitude, so all four sides are now a
+consistent drawn border like every other zone. 30,754 total, grade A, 0 dupes.
