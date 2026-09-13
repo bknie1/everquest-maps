@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-09-12
+fetched: 2026-09-13
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -4379,18 +4379,18 @@ Noble Dojorn, Overseer of Air, the Hand of Veeshan |
 1H Blunt |
 Atk Delay: 30 DMG: 10 Dmg Bon: 15 WT: 1.0 Size: MEDIUM Class: WAR CLR PAL RNG SHD MNK BRD ROG SHM BST Race: ALL |
 Efreeti Magi StaffEfreeti Magi Staff
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable, Quest, Placeable
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 36
 DMG: 12 AC: 5
 STA: +2 CHA: +2 INT: +5
-WT: 2.0 Size: LARGE
+Size: LARGE WT: 2.0
 Class: NEC WIZ MAG ENC
 Race: ALL
 |
 Noble Dojorn, Overseer of Air |
 2H Blunt |
-Atk Delay: 36 DMG: 12 AC: 5 STA: +2 CHA: +2 INT: +5 WT: 2.0 Size: LARGE Class: NEC WIZ MAG ENC Race: ALL |
+Atk Delay: 36 DMG: 12 AC: 5 STA: +2 CHA: +2 INT: +5 Size: LARGE WT: 2.0 Class: NEC WIZ MAG ENC Race: ALL |
 Efreeti ScimitarEfreeti Scimitar
 MAGIC ITEM LORE ITEM
 Slot: PRIMARY
@@ -5881,15 +5881,15 @@ Race: ALL
 None? |
 Ear |
 AC: 4 HP: +10 Mana: +10 End: +10 WIS: +5 CHA: +5 WT: 0.1 Size: TINY Click Effect: Vigor of Zehkes (Must Equip) Required Level: 46 Cast Time: Instant, Cooldown: 120 seconds Class: BST Race: ALL |
-Spiroc Earth totemSpiroc Earth totem
-LORE ITEM NO DROP
-WT: 9.0 Size: LARGE
+Spiroc Earth TotemSpiroc Earth Totem
+No Trade, Quest
+Size: LARGE WT: 9.0
 Class: ALL
 Race: ALL
 |
 The Spiroc Lord |
 (None) |
-LORE ITEM NO DROP WT: 9.0 Size: LARGE Class: ALL Race: ALL |
+No Trade, Quest Size: LARGE WT: 9.0 Class: ALL Race: ALL |
 Spiroc Elder's TotemSpiroc Elder's Totem
 LORE ITEM NO DROP
 WT: 0.2 Size: SMALL

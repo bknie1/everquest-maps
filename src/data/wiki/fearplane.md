@@ -1,5 +1,5 @@
 # Plane_of_Fear (eqlwiki.com)
-fetched: 2026-09-12
+fetched: 2026-09-13
 
 Plane of Fear - EverQuest Legends Wiki
 Jump to content
@@ -182,11 +182,11 @@ WT: 2.0 Size: SMALL
 Class: WAR
 Race: ALL
 Nautilus ShieldNautilus Shield
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade, Placeable
 Slot: SECONDARY
 AC: 20
 STR: +5 DEX: +5 STA: +5
-WT: 7.0 Size: MEDIUM
+Size: MEDIUM WT: 7.0
 Class: WAR
 Race: ALL
 |
@@ -598,7 +598,7 @@ WT: 2.0 Size: SMALL
 Class: BER
 Race: ALL
 Shiverback-hide WristbandsShiverback-hide Wristbands
-Lore Equipped, No Trade, Quest
+No Trade, Quest
 Slot: WRIST
 AC: 4
 END: 10
@@ -728,7 +728,7 @@ Shadow Knight |
 70 |
 Top of the Temple |
 Various |
-The God of Fear, Cazic Thule, wanders the northeastern area of the Plane of Fear around the ring of fire. Unlike his... |
+The God of Fear, Cazic-Thule, stands at the top of the temple within the ring of fire (during raid only). Unlike his den... |
 Dread
 |
 Golem |
@@ -1328,18 +1328,18 @@ Various |
 Chest |
 AC: 12 DEX: +15 INT: +15 HP: +50 MANA: +50 Size: MEDIUM WT: 1.0 Class: NEC WIZ MAG ENC Race: ALL |
 Cryosilk AmiceCryosilk Amice
-MAGIC ITEM NO DROP
+No Trade
 Slot: SHOULDERS
 AC: 4
 STA: +2 INT: +1 MANA: +10
 SV COLD: +10
-WT: 0.3 Size: SMALL
+Size: SMALL WT: 0.3
 Class: NEC WIZ MAG ENC
 Race: ALL
 |
 a spinechiller spider |
 Shoulders |
-AC: 4 STA: +2 INT: +1 MANA: +10 SV COLD: +10 WT: 0.3 Size: SMALL Class: NEC WIZ MAG ENC Race: ALL |
+AC: 4 STA: +2 INT: +1 MANA: +10 SV COLD: +10 Size: SMALL WT: 0.3 Class: NEC WIZ MAG ENC Race: ALL |
 Cryosilk BraceletCryosilk Bracelet
 MAGIC ITEM NO DROP
 Slot: WRIST
@@ -1583,13 +1583,13 @@ Slot: LEGS
 AC: 15
 STR: +5 WIS: +9 AGI: +5
 SV POISON: +7
-WT: 5.6 Size: LARGE
+Size: LARGE WT: 5.6
 Class: CLR
 Race: ALL
 |
 phoboplasm |
 Legs |
-AC: 15 STR: +5 WIS: +9 AGI: +5 SV POISON: +7 WT: 5.6 Size: LARGE Class: CLR Race: ALL |
+AC: 15 STR: +5 WIS: +9 AGI: +5 SV POISON: +7 Size: LARGE WT: 5.6 Class: CLR Race: ALL |
 Ethereal Mist HelmEthereal Mist Helm
 Lore Equipped, No Trade, Quest
 Slot: HEAD
@@ -2310,17 +2310,17 @@ Various |
 2H Slashing |
 Atk Delay: 45 DMG: 30 STR: +10 STA: +9 Haste: +36% Size: MEDIUM WT: 2.0 Class: WAR Race: ALL |
 Nautilus ShieldNautilus Shield
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade, Placeable
 Slot: SECONDARY
 AC: 20
 STR: +5 DEX: +5 STA: +5
-WT: 7.0 Size: MEDIUM
+Size: MEDIUM WT: 7.0
 Class: WAR
 Race: ALL
 |
 Amygdalan warrior, Amygdalan knight |
 Secondary |
-AC: 20 STR: +5 DEX: +5 STA: +5 WT: 7.0 Size: MEDIUM Class: WAR Race: ALL |
+AC: 20 STR: +5 DEX: +5 STA: +5 Size: MEDIUM WT: 7.0 Class: WAR Race: ALL |
 Nightmare HideNightmare Hide
 Attunable
 Slot: BACK
@@ -2660,7 +2660,7 @@ phoboplasm |
 Legs |
 AC: 5 WIS: +5 AGI: +5 SV FIRE: +7 WT: 0.1 Size: MEDIUM Class: MNK Race: ALL |
 Shiverback-hide WristbandsShiverback-hide Wristbands
-Lore Equipped, No Trade, Quest
+No Trade, Quest
 Slot: WRIST
 AC: 4
 END: 10

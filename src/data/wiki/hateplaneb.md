@@ -1,5 +1,5 @@
 # Plane_of_Hate (eqlwiki.com)
-fetched: 2026-09-12
+fetched: 2026-09-13
 
 Plane of Hate - EverQuest Legends Wiki
 Jump to content
@@ -245,11 +245,11 @@ Cleric |
 Low HP |
 Head Group 1 |
 Prismatic ShieldPrismatic Shield
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade, Placeable
 Slot: SECONDARY
 AC: 18
 SV FIRE: +10 SV DISEASE: +10 SV COLD: +10 SV MAGIC: +10 SV POISON: +10
-WT: 7.3 Size: MEDIUM
+Size: MEDIUM WT: 7.3
 Class: CLR
 Race: ALL
 |
@@ -406,13 +406,13 @@ Warrior |
 Deadly Poison |
 Wrist Group 2 |
 Revultant WhipRevultant Whip
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 14
 DMG: 5
 DEX: +5 AGI: +4
 SV DISEASE: +5 SV POISON: +5
-WT: 1.0 Size: SMALL
+Size: SMALL WT: 1.0
 Class: RNG
 Race: ALL
 |
@@ -783,7 +783,7 @@ WT: 2.0 Size: SMALL
 Class: BER
 Race: ALL
 Shiverback-hide WristbandsShiverback-hide Wristbands
-Lore Equipped, No Trade, Quest
+No Trade, Quest
 Slot: WRIST
 AC: 4
 END: 10
@@ -1194,11 +1194,11 @@ WT: 3.5 Size: MEDIUM
 Class: CLR
 Race: ALL
 , Prismatic ShieldPrismatic Shield
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade, Placeable
 Slot: SECONDARY
 AC: 18
 SV FIRE: +10 SV DISEASE: +10 SV COLD: +10 SV MAGIC: +10 SV POISON: +10
-WT: 7.3 Size: MEDIUM
+Size: MEDIUM WT: 7.3
 Class: CLR
 Race: ALL
 |
@@ -2181,13 +2181,13 @@ Slot: LEGS
 AC: 15
 STR: +5 WIS: +9 AGI: +5
 SV POISON: +7
-WT: 5.6 Size: LARGE
+Size: LARGE WT: 5.6
 Class: CLR
 Race: ALL
 |
 Various |
 Legs |
-AC: 15 STR: +5 WIS: +9 AGI: +5 SV POISON: +7 WT: 5.6 Size: LARGE Class: CLR Race: ALL |
+AC: 15 STR: +5 WIS: +9 AGI: +5 SV POISON: +7 Size: LARGE WT: 5.6 Class: CLR Race: ALL |
 Ethereal Mist HelmEthereal Mist Helm
 Lore Equipped, No Trade, Quest
 Slot: HEAD
@@ -2718,18 +2718,18 @@ Maestro of Rancor |
 Secondary |
 String Resonance: 14 DEX: +9 CHA: +15 AGI: +9 WT: 0.6 Size: SMALL Class: BRD Race: ALL |
 Leatherfoot SandalsLeatherfoot Sandals
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade
 Slot: FEET
 AC: 11
 STR: +10 WIS: +10 AGI: +10 MANA: +30
 SV MAGIC: +20
-WT: 0.5 Size: SMALL
+Size: SMALL WT: 0.5
 Class: WAR CLR PAL RNG DRU ROG
 Race: ALL
 |
 Innoruuk |
 Feet |
-AC: 11 STR: +10 WIS: +10 AGI: +10 MANA: +30 SV MAGIC: +20 WT: 0.5 Size: SMALL Class: WAR CLR PAL RNG DRU ROG Race: ALL |
+AC: 11 STR: +10 WIS: +10 AGI: +10 MANA: +30 SV MAGIC: +20 Size: SMALL WT: 0.5 Class: WAR CLR PAL RNG DRU ROG Race: ALL |
 Legionnaire Scale BootsLegionnaire Scale Boots
 MAGIC ITEM LORE ITEM NO DROP
 Slot: FEET
@@ -3082,17 +3082,17 @@ Innoruuk |
 Shoulders |
 AC: 10 STR: +9 CHA: +9 WIS: +9 INT: +9 HP: +30 MANA: +30 WT: 2.0 Size: SMALL Class: CLR PAL SHD NEC WIZ MAG ENC Race: ALL |
 Prismatic ShieldPrismatic Shield
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade, Placeable
 Slot: SECONDARY
 AC: 18
 SV FIRE: +10 SV DISEASE: +10 SV COLD: +10 SV MAGIC: +10 SV POISON: +10
-WT: 7.3 Size: MEDIUM
+Size: MEDIUM WT: 7.3
 Class: CLR
 Race: ALL
 |
 Cleric of Innoruuk |
 Secondary |
-AC: 18 SV FIRE: +10 SV DISEASE: +10 SV COLD: +10 SV MAGIC: +10 SV POISON: +10 WT: 7.3 Size: MEDIUM Class: CLR Race: ALL |
+AC: 18 SV FIRE: +10 SV DISEASE: +10 SV COLD: +10 SV MAGIC: +10 SV POISON: +10 Size: MEDIUM WT: 7.3 Class: CLR Race: ALL |
 Raiment of the ChosenRaiment of the Chosen
 MAGIC ITEM LORE ITEM NO DROP
 Slot: CHEST
@@ -3107,32 +3107,32 @@ A Sage of Innoruuk |
 Chest |
 AC: 22 INT: +16 SV DISEASE: +10 SV POISON: +10 WT: 2.5 Size: MEDIUM Class: NEC WIZ MAG ENC Race: ALL |
 Rakusha CloakRakusha Cloak
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade
 Slot: BACK
 AC: 10
 SV FIRE: +10 SV MAGIC: +10
 Haste: +36%
-WT: 0.1 Size: MEDIUM
+Size: MEDIUM WT: 0.1
 Class: MNK
 Race: ALL
 |
 Grandmaster R`Tal |
 Back |
-AC: 10 SV FIRE: +10 SV MAGIC: +10 Haste: +36% WT: 0.1 Size: MEDIUM Class: MNK Race: ALL |
+AC: 10 SV FIRE: +10 SV MAGIC: +10 Haste: +36% Size: MEDIUM WT: 0.1 Class: MNK Race: ALL |
 Revultant WhipRevultant Whip
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 14
 DMG: 5
 DEX: +5 AGI: +4
 SV DISEASE: +5 SV POISON: +5
-WT: 1.0 Size: SMALL
+Size: SMALL WT: 1.0
 Class: RNG
 Race: ALL
 |
 an eerie chest, a revultant rat |
 1H Slashing |
-Atk Delay: 14 DMG: 5 DEX: +5 AGI: +4 SV DISEASE: +5 SV POISON: +5 WT: 1.0 Size: SMALL Class: RNG Race: ALL |
+Atk Delay: 14 DMG: 5 DEX: +5 AGI: +4 SV DISEASE: +5 SV POISON: +5 Size: SMALL WT: 1.0 Class: RNG Race: ALL |
 Ring of PurebloodRing of Pureblood
 Lore Equipped, No Trade
 Slot: Fingers
@@ -3568,7 +3568,7 @@ Various |
 Legs |
 AC: 5 WIS: +5 AGI: +5 SV FIRE: +7 WT: 0.1 Size: MEDIUM Class: MNK Race: ALL |
 Shiverback-hide WristbandsShiverback-hide Wristbands
-Lore Equipped, No Trade, Quest
+No Trade, Quest
 Slot: WRIST
 AC: 4
 END: 10
@@ -4560,12 +4560,12 @@ WT: 2.0 Size: SMALL
 Class: WAR ROG SHM
 Race: ALL
 , Leatherfoot SandalsLeatherfoot Sandals
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade
 Slot: FEET
 AC: 11
 STR: +10 WIS: +10 AGI: +10 MANA: +30
 SV MAGIC: +20
-WT: 0.5 Size: SMALL
+Size: SMALL WT: 0.5
 Class: WAR CLR PAL RNG DRU ROG
 Race: ALL
 , Pauldrons of PowerPauldrons of Power
