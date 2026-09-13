@@ -2,12 +2,12 @@
 
 **Title:** THE FEERROTT (12 chars)
 **Title style:** unreviewed
-**Title bbox:** x[-4546,4196] y[-3340,-2004] (h 1336)
+**Title bbox:** x[-4546,4196] y[-3340,-1953] (h 1387)
 **Title inks:** (96, 104, 82) x107, (168, 148, 112) x105, (64, 72, 54) x93, (124, 106, 76) x56
 **Frame width:** 9009
 **Compass:** 1 rose(s), ring 21px at 900px fit
-**Layers:** _1=0, _2=2368, _3=35, base=28351
-**Total strokes:** 30754 (budget 31000) | POIs 44 | dupes 0 | inks 38
+**Layers:** _1=0, _2=2389, _3=35, base=28351
+**Total strokes:** 30775 (budget 31000) | POIs 44 | dupes 0 | inks 38
 **eqqms:** overall A (format A, budget A, title A, dupes A, palette A)
 
 ## Notes
