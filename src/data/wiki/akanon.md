@@ -1,5 +1,5 @@
 # Ak'Anon (eqlwiki.com)
-fetched: 2026-09-08
+fetched: 2026-09-13
 
 Ak'Anon - EverQuest Legends Wiki
 Jump to content
@@ -190,7 +190,7 @@ However, over the last hundred years (not that long a time from a Gnomes perspec
 Other than the Summer Solstice holiday in honor of Brell, the Gnomes also have a fairly new holiday. Held in mid-October, this was the day that the final Steamfont Windmill was completed and King Ak'Anon (or his spokesperson) declared it as a national holiday.
 Generally 'Windmill Day' sees the Gnomes having a party in and around the Windmills with various entertainments, included foot races from the Ak'Anon entrance to the windmills for the younger Gnomes. For the elder Gnomes, the race involves inventors using their contraptions instead of their feet. This is usually a bizarre sight for any foreign visitor as the Gnomes ride their mechanical horses, spiders, snakes, etc. towards the windmills.
 What's in this zone?
-Quests - Found 31 quests that start in Ak'Anon:
+Quests - Found 32 quests that start in Ak'Anon:
 Quest Name | Reward | Quest Giver | Minimum Level | Classes | Related Zones | Related NPCs |
 Air Tight Box Quest
 |
@@ -255,6 +255,14 @@ Drekon Vebnebber |
 All |
 None |
 Duster V, Duster X, Sanfyrd Featherhead |
+Escort the Cargo Clockwork
+|
+? |
+|
+|
+|
+|
+|
 Gearheart (Quest)
 |
 Small Leather WristbandsSmall Leather Wristbands
