@@ -1,5 +1,5 @@
 # Erud's_Crossing (eqlwiki.com)
-fetched: 2026-09-08
+fetched: 2026-09-14
 
 Erud's Crossing - EverQuest Legends Wiki
 Jump to content
@@ -516,17 +516,7 @@ Kerra |
 Warrior |
 4 |
 50% @ (-1781, 1125) |
-AmberAmber
-Quest
-Size: TINY WT: 0.1
-Class: ALL
-Race: ALL
-, Fresh FishFresh Fish
-This is a meal!
-WT: 1.0 Size: SMALL
-Class: ALL
-Race: ALL
-, Catman Skin, Damaged Catman Skin |
+Various |
 Description needed. |
 Ooglyn
 |
@@ -587,7 +577,7 @@ Shaman |
 -1301, 2132 |
 None |
 Guarded by four zombie guardians. On hailing, says "Were you sent by Kintok? What's that you say? You don't know who Ki... |
-Items - Found 18 items that drop in Erud's Crossing:
+Items - Found 19 items that drop in Erud's Crossing:
 Item Name | Drops From | Slot | Stats |
 Algae Covered FleshAlgae Covered Flesh
 QUEST ITEM
@@ -692,6 +682,15 @@ Race: ALL
 Hastashi |
 (None) |
 WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+Pen Key No. 7Pen Key No. 7
+No Trade, Quest
+Size: TINY WT: 0.1
+Class: ALL
+Race: ALL
+|
+Nomala |
+(None) |
+No Trade, Quest Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Rotten Shark MeatRotten Shark Meat
 WT: 0.1 Size: SMALL
 Class: ALL

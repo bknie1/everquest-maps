@@ -1,5 +1,5 @@
 # West_Commonlands (eqlwiki.com)
-fetched: 2026-09-10
+fetched: 2026-09-14
 
 West Commonlands - EverQuest Legends Wiki
 Jump to content
@@ -192,7 +192,8 @@ WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
 , HoneycombHoneycomb
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.
 Class: ALL
 Race: ALL
 , Bixie StingerBixie Stinger
@@ -410,7 +411,8 @@ WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
 , HoneycombHoneycomb
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.
 Class: ALL
 Race: ALL
 , Bixie StingerBixie Stinger
@@ -932,13 +934,14 @@ Various |
 (None) |
 WT: 1.3 Size: SMALL Class: ALL Race: ALL |
 HoneycombHoneycomb
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.
 Class: ALL
 Race: ALL
 |
 a bixie |
 (None) |
-WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Quest Size: TINY WT: 0. Class: ALL Race: ALL |
 Illegible CantripIllegible Cantrip
 WT: 0.1 Size: SMALL
 Class: ALL

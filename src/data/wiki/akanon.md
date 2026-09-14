@@ -1,5 +1,5 @@
 # Ak'Anon (eqlwiki.com)
-fetched: 2026-09-13
+fetched: 2026-09-14
 
 Ak'Anon - EverQuest Legends Wiki
 Jump to content
@@ -552,8 +552,8 @@ Dooly Jonkers, The Prophet |
 The Regurgitonic
 |
 RegurgitonicRegurgitonic
-LORE ITEM NO DROP
-WT: 0.4 Size: SMALL
+No Trade, Quest
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 |

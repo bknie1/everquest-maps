@@ -1,5 +1,5 @@
 # Western_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-09-08
+fetched: 2026-09-14
 
 Western Karana - EverQuest Legends Wiki
 Jump to content
@@ -1091,8 +1091,8 @@ Warrior |
 10-12 |
 100% @ (-3532, -2236) |
 Koalindl FishKoalindl Fish
-LORE ITEM NO DROP
-WT: 0.1 Size: TINY
+No Trade, Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |

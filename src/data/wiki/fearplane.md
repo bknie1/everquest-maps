@@ -1,5 +1,5 @@
 # Plane_of_Fear (eqlwiki.com)
-fetched: 2026-09-13
+fetched: 2026-09-14
 
 Plane of Fear - EverQuest Legends Wiki
 Jump to content
@@ -3067,7 +3067,7 @@ WT: 6.5 Size: MEDIUM
 Class: DRU
 Race: ALL
 |
-a boogeyman, a phantasm5, phoboplasm |
+a boogeyman, a phantasm, phoboplasm |
 Feet |
 AC: 6 STR: +5 AGI: +13 HP: +15 WT: 6.5 Size: MEDIUM Class: DRU Race: ALL |
 Vermiculated BraceletVermiculated Bracelet

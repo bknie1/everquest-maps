@@ -1,5 +1,5 @@
 # Halas (eqlwiki.com)
-fetched: 2026-09-08
+fetched: 2026-09-14
 
 Halas - EverQuest Legends Wiki
 Jump to content
@@ -684,7 +684,7 @@ Waltor Felligan |
 Shaman |
 Everfrost Peaks |
 a wooly spiderling |
-NPCs - Found 83 NPCs that spawn in Halas:
+NPCs - Found 84 NPCs that spawn in Halas:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Sled Dog
 |
@@ -1279,6 +1279,14 @@ Merchant |
 @ (348, 343) |
 |
 Spirita is an Alchemy Supplies merchant standing outside the Shaman Guild's Temple of the Tribunal. |
+Sven Felligan
+|
+Barbarian |
+|
+|
+(2849, -3460, -37) |
+|
+|
 Telvina
 |
 Halas Citizen |

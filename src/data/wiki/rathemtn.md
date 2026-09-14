@@ -1,5 +1,5 @@
 # Rathe_Mountains (eqlwiki.com)
-fetched: 2026-09-08
+fetched: 2026-09-14
 
 Rathe Mountains - EverQuest Legends Wiki
 Jump to content
@@ -1402,7 +1402,7 @@ Mortificator Syythrak
 |
 Lizardman |
 Shaman |
-40 |
+38-40 |
 ~20% @ -520, -1530 |
 Mortificator StaffMortificator Staff
 MAGIC ITEM LORE ITEM

@@ -1,5 +1,5 @@
 # Toxxulia_Forest (eqlwiki.com)
-fetched: 2026-09-08
+fetched: 2026-09-14
 
 Toxxulia Forest - EverQuest Legends Wiki
 Jump to content
@@ -759,9 +759,9 @@ WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
 , Infected Rat LiversInfected Rat Livers
-NO DROP
+Quest
 SV DISEASE: -1
-WT: 0.2 Size: TINY
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 |

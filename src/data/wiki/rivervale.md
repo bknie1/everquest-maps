@@ -1,5 +1,5 @@
 # Rivervale (eqlwiki.com)
-fetched: 2026-09-08
+fetched: 2026-09-14
 
 Rivervale - EverQuest Legends Wiki
 Jump to content
@@ -204,8 +204,8 @@ All |
 Honey Jum Quest
 |
 Honey JumHoney Jum
-LORE ITEM
-WT: 0.2 Size: SMALL
+Quest
+Size: SMALL WT: 0.2
 Class: ALL
 Race: ALL
 |
@@ -516,7 +516,7 @@ Halfling |
 Rogue |
 10 |
 50% @ (-139, -342) |
-None |
+|
 This Halfling does nothing as far as I know, but they are “shady” in a way as they do just sit there in a dark nook. |
 A halfling grandma
 |

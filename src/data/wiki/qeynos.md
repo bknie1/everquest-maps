@@ -1,5 +1,5 @@
 # Qeynos (eqlwiki.com)
-fetched: 2026-09-08
+fetched: 2026-09-14
 
 Qeynos - EverQuest Legends Wiki
 Jump to content
@@ -2976,8 +2976,8 @@ Warrior |
 1 |
 100% @ (-114, -392), 100% @ (-55, -454) |
 Koalindl FishKoalindl Fish
-LORE ITEM NO DROP
-WT: 0.1 Size: TINY
+No Trade, Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -3638,8 +3638,8 @@ Warrior (?) |
 50 |
 5% @ (-114, -392), (-55, -454) |
 Koalindl FishKoalindl Fish
-LORE ITEM NO DROP
-WT: 0.1 Size: TINY
+No Trade, Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -4226,14 +4226,14 @@ a gnoll pup |
 (None) |
 WT: 0.3 Size: SMALL Class: ALL Race: ALL |
 Koalindl FishKoalindl Fish
-LORE ITEM NO DROP
-WT: 0.1 Size: TINY
+No Trade, Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 a koalindl, Koalindl (Rodcet Nife) |
 (None) |
-LORE ITEM NO DROP WT: 0.1 Size: TINY Class: ALL Race: ALL |
+No Trade, Quest Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Monogrammed ClothMonogrammed Cloth
 LORE ITEM NO DROP
 WT: 0.2 Size: SMALL

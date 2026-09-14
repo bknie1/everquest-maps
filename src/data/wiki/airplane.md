@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-09-13
+fetched: 2026-09-14
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -762,12 +762,12 @@ Wind Rune Lena
 Silver Hoop (3-Gorga)
 |
 Aegis of the WindAegis of the Wind
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade, Placeable
 Slot: SECONDARY
 AC: 25
 WIS: +9 MANA: +60
 SV DISEASE: +10
-WT: 9.5 Size: LARGE
+Size: LARGE WT: 9.5
 Class: CLR
 Race: ALL
 |
@@ -1622,12 +1622,12 @@ Wind Rune Kala
 Spiroc Earth Totem (5-SL)
 |
 Thunderforged EarringThunderforged Earring
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equpped, No Trade
 Slot: EAR
 AC: 8
 DEX: +8 WIS: +8 AGI: +8 MANA: +25
-Effect: Careless Lightning (Must Equip, Casting Time: 12.0) at Level 45
-WT: 0.1 Size: TINY
+Effect: Careless Lightning (Clicky, Can Equip, Casting Time: 12.0) at Level 45
+Size: TINY WT: 0.1
 Class: RNG
 Race: ALL
 |
@@ -3371,7 +3371,7 @@ Sirran the Lunatic
 Halfling |
 Warrior |
 63 |
-Sirran has not been sighted in EQ Legends |
+Sirran was removed from EQ Legends - confirmed by the Developers on Discord |
 None |
 A lot has been and can be said about Sirran, but here are the basic facts as confirmed by direct evidence (from Drexxe... |
 Sister of the Spire
@@ -4036,14 +4036,14 @@ The Spiroc Lord |
 Waist |
 AC: 6 WIS: +5 WT: 0.1 Size: SMALL Class: SHM Race: ALL |
 Charm and SacrificeCharm and Sacrifice
-MAGIC ITEM LORE ITEM NO DROP
-WT: 0.1 Size: TINY
+No Trade
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 None? |
 (None) |
-MAGIC ITEM LORE ITEM NO DROP WT: 0.1 Size: TINY Class: ALL Race: ALL |
+No Trade Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Circlet of BramblesCirclet of Brambles
 Lore Equipped, No Trade, Quest
 Slot: Head

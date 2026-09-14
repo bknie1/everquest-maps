@@ -1,5 +1,5 @@
 # Najena (eqlwiki.com)
-fetched: 2026-09-08
+fetched: 2026-09-14
 
 Najena - EverQuest Legends Wiki
 Jump to content
@@ -868,7 +868,26 @@ Dark Elf |
 Cleric |
 25 |
 10% @ (-493, 170) |
-Various |
+Emissary MaskEmissary Mask
+Attunable
+Slot: FACE
+AC: 4
+WIS: +3
+SV FIRE: +3
+WT: 1.0 Size: SMALL
+Class: WAR CLR PAL SHD BRD
+Race: ALLFocus Effect: Improved Healing I
+, Traveling SolleretsTraveling Sollerets
+No Trade
+Slot: FEET
+AC: 9
+END: +10
+STA: +2 AGI: +2
+SV Cold: +5
+WT: 8.0 Size: SMALL
+Class: WAR CLR PAL SHD BRD BER
+Race: ALL
+|
 Spawns to the right of the guard captain. |
 A dread skeleton
 |

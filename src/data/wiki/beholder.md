@@ -1,5 +1,5 @@
 # Gorge_of_King_Xorbb (eqlwiki.com)
-fetched: 2026-09-08
+fetched: 2026-09-14
 
 Gorge of King Xorbb - EverQuest Legends Wiki
 Jump to content
@@ -326,7 +326,7 @@ King Xorbb
 Evil Eye |
 Wizard |
 35 |
-(672, -207), (867, -920) |
+(658, -1796) |
 Various |
 King Xorbb is an elusive monster in Beholder's Maze, and a Wizard, unlike most of his subjects. He has two spawn poi... |
 Lord Soptyvr

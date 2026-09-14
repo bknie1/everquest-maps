@@ -1,5 +1,5 @@
 # East_Freeport (eqlwiki.com)
-fetched: 2026-09-12
+fetched: 2026-09-14
 
 Freeport - EverQuest Legends Wiki
 Jump to content
@@ -3406,7 +3406,8 @@ Tykar Renlin
 Human Beggar |
 Rogue |
 21 |
-14% @ (-236, -855) |
+14% @ (-236, -855, -52)
+,) |
 None |
 Hand him 4 Drom's ChampagneDrom's Champagne
 WT: 0.4 Size: SMALL

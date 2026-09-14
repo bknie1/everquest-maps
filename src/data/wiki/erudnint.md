@@ -1,5 +1,5 @@
 # Erudin_Palace (eqlwiki.com)
-fetched: 2026-09-08
+fetched: 2026-09-14
 
 Erudin - EverQuest Legends Wiki
 Jump to content
@@ -343,8 +343,8 @@ Various |
 Erud's Tonic Quest
 |
 Erud's TonicErud's Tonic
-LORE ITEM NO DROP
-WT: 0.4 Size: SMALL
+No Trade, Quest
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 |
@@ -751,8 +751,8 @@ Lorekeeper Roggik |
 Vasty Deep Water
 |
 Erud's TonicErud's Tonic
-LORE ITEM NO DROP
-WT: 0.4 Size: SMALL
+No Trade, Quest
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 , Rusty Long SwordRusty Long Sword

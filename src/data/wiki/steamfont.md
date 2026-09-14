@@ -1,5 +1,5 @@
 # Steamfont_Mountains (eqlwiki.com)
-fetched: 2026-09-08
+fetched: 2026-09-14
 
 Steamfont Mountains - EverQuest Legends Wiki
 Jump to content
@@ -217,9 +217,9 @@ Warrior |
 5 ~ 7 |
 Need Info |
 Infected Rat LiversInfected Rat Livers
-NO DROP
+Quest
 SV DISEASE: -1
-WT: 0.2 Size: TINY
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 , Piece of Rat FurPiece of Rat Fur
@@ -293,9 +293,9 @@ DMG: 6
 WT: 7.3 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
-, An encrypted documentAn encrypted document
-MAGIC ITEM LORE ITEM NO DROP
-WT: 0.0 Size: TINY
+, Encrypted DocumentEncrypted Document
+No Trade, Quest
+Size: TINY WT: 0.0
 Class: ALL
 Race: ALL
 |
@@ -449,9 +449,9 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , Infected Rat LiversInfected Rat Livers
-NO DROP
+Quest
 SV DISEASE: -1
-WT: 0.2 Size: TINY
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 , Rat MeatRat Meat
@@ -589,7 +589,7 @@ Water Elemental |
 9 - 10 |
 ? |
 Gems, Russet OxideRusset Oxide
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Swirling MistSwirling Mist
@@ -622,9 +622,9 @@ WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
 , Infected Rat LiversInfected Rat Livers
-NO DROP
+Quest
 SV DISEASE: -1
-WT: 0.2 Size: TINY
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 , Rat MeatRat Meat
@@ -984,13 +984,13 @@ WT: 8.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , Minotaur Hero ShacklesMinotaur Hero Shackles
-LORE ITEM NO DROP
+Lore Equipped, No Trade, Quest
 Slot: WRIST
 AC: 4
 CHA: -5
 SV POISON: +10
-WT: 2.7 Size: SMALL
-Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Size: SMALL WT: 2.7
+Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
 Race: ALL
 , Minotaur HornMinotaur Horn
 Slot: PRIMARY SECONDARY
@@ -1019,13 +1019,12 @@ WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALLFocus Effect: Wind Resonance 10
 , Broken Minotaur Lord's HornBroken Minotaur Lord's Horn
-LORE ITEM NO DROP
-Slot: SECONDARY
-Wind Resonance: 0
+Lore Equipped, No Trade, Quest, Placeable
+Slot: PRIMARY SECONDARY
 SV POISON: +10
-WT: 2.7 Size: SMALL
-Class: BRD
-Race: ALL
+Size: SMALL WT: 2.7
+Class: ALL
+Race: ALLFocus Effect: Wind Resonance 8
 |
 Shares a spawn cycle with a minotaur slavers (with an "a", 3 spawns in the mines). He can spawn at any of their spaw... |
 Minotaur Sentry
@@ -1048,8 +1047,8 @@ WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALLFocus Effect: Wind Resonance 10
 , Icon of the DevoutIcon of the Devout
-MAGIC ITEM LORE ITEM NO DROP
-WT: 1.0 Size: SMALL
+No Trade, Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 |
@@ -1244,17 +1243,8 @@ Wizard |
 (-1788, 723) |
 * Gnome Meat |
 This guy stands rather close to the spawn point of the Cargo Clockwork and often gives it a minimal DS. He's a wizard, o... |
-Items - Found 57 items that drop in Steamfont Mountains:
+Items - Found 61 items that drop in Steamfont Mountains:
 Item Name | Drops From | Slot | Stats |
-An encrypted documentAn encrypted document
-MAGIC ITEM LORE ITEM NO DROP
-WT: 0.0 Size: TINY
-Class: ALL
-Race: ALL
-|
-a kobold missionary |
-(None) |
-MAGIC ITEM LORE ITEM NO DROP WT: 0.0 Size: TINY Class: ALL Race: ALL |
 Berinsans ShirtBerinsans Shirt
 MAGIC ITEM LORE ITEM NO DROP
 WT: 0.6 Size: SMALL
@@ -1274,17 +1264,33 @@ runaway clockwork, rogue clockwork |
 (None) |
 NO DROP WT: 0.1 Size: TINY Class: ALL Race: ALL |
 Broken Minotaur Lord's HornBroken Minotaur Lord's Horn
-LORE ITEM NO DROP
-Slot: SECONDARY
-Wind Resonance: 0
+Lore Equipped, No Trade, Quest, Placeable
+Slot: PRIMARY SECONDARY
 SV POISON: +10
-WT: 2.7 Size: SMALL
-Class: BRD
-Race: ALL
+Size: SMALL WT: 2.7
+Class: ALL
+Race: ALLFocus Effect: Wind Resonance 8
 |
 Minotaur Lord |
-Secondary |
-Wind Resonance: 0 SV POISON: +10 WT: 2.7 Size: SMALL Class: BRD Race: ALL |
+Primary, Secondary |
+SV POISON: +10 Size: SMALL WT: 2.7 Class: ALL Race: ALL |
+Brownie LegBrownie Leg
+Size: TINY WT: 0.8
+Class: NONE
+Race: NONE
+|
+a mountain brownie |
+(None) |
+Size: TINY WT: 0.8 Class: NONE Race: NONE |
+Brownie TorsoBrownie Torso
+No Trade, Quest
+Size: TINY WT: 0.1
+Class: ALL
+Race: ALL
+|
+a mountain brownie |
+(None) |
+No Trade, Quest Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Butcher KnifeButcher Knife
 LORE ITEM NO DROP
 Slot: PRIMARY SECONDARY
@@ -1402,6 +1408,15 @@ Race: ALL
 a lesser ebon drake, an ebon drakeling |
 (None) |
 WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+Encrypted DocumentEncrypted Document
+No Trade, Quest
+Size: TINY WT: 0.0
+Class: ALL
+Race: ALL
+|
+a kobold missionary |
+(None) |
+No Trade, Quest Size: TINY WT: 0.0 Class: ALL Race: ALL |
 Feir'Dal Long SwordFeir'Dal Long Sword
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 28
@@ -1448,24 +1463,32 @@ an earth elemental |
 (None) |
 WT: 5.0 Size: SMALL Class: ALL Race: ALL |
 Icon of the DevoutIcon of the Devout
-MAGIC ITEM LORE ITEM NO DROP
-WT: 1.0 Size: SMALL
+No Trade, Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 |
 Minotaur Sentry |
 (None) |
-MAGIC ITEM LORE ITEM NO DROP WT: 1.0 Size: SMALL Class: ALL Race: ALL |
+No Trade, Quest Size: SMALL WT: 1.0 Class: ALL Race: ALL |
 Infected Rat LiversInfected Rat Livers
-NO DROP
+Quest
 SV DISEASE: -1
-WT: 0.2 Size: TINY
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 |
 Various |
 (None) |
-NO DROPSV DISEASE: -1 WT: 0.2 Size: TINY Class: ALL Race: ALL |
+Quest SV DISEASE: -1 Size: TINY WT: 0.2 Class: ALL Race: ALL |
+Iron OxideIron Oxide
+Size: TINY WT: 0.1
+Class: ALL
+Race: ALL
+|
+an earth elemental |
+(None) |
+Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Iron PelletIron Pellet
 MAGIC ITEM LORE ITEM NO DROP
 WT: 1.0 Size: SMALL
@@ -1515,18 +1538,18 @@ rogue clockwork, runaway clockwork |
 (None) |
 NO DROP WT: 0.1 Size: TINY Class: ALL Race: ALL |
 Minotaur Hero ShacklesMinotaur Hero Shackles
-LORE ITEM NO DROP
+Lore Equipped, No Trade, Quest
 Slot: WRIST
 AC: 4
 CHA: -5
 SV POISON: +10
-WT: 2.7 Size: SMALL
-Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Size: SMALL WT: 2.7
+Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
 Race: ALL
 |
 Minotaur Hero |
 Wrist |
-AC: 4 CHA: -5 SV POISON: +10 WT: 2.7 Size: SMALL Class: WAR CLR PAL RNG SHD BRD ROG SHM Race: ALL |
+AC: 4 CHA: -5 SV POISON: +10 Size: SMALL WT: 2.7 Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
 Missing Teir`Dal CrateMissing Teir`Dal Crate
 LORE ITEM NO DROP
 WT: 2.5 Size: MEDIUM
@@ -1536,6 +1559,14 @@ Race: ALL
 Crusader Swiftmoon |
 (None) |
 LORE ITEM NO DROP WT: 2.5 Size: MEDIUM Class: ALL Race: ALL |
+Moss Covered Drake ScaleMoss Covered Drake Scale
+Size: SMALL WT: 0.1
+Class: ALL
+Race: ALL
+|
+None? |
+(None) |
+Size: SMALL WT: 0.1 Class: ALL Race: ALL |
 Pristine Ebon Drakeling ScalesPristine Ebon Drakeling Scales
 WT: 0.1 Size: SMALL
 Class: ALL
@@ -1618,14 +1649,14 @@ a lesser ebon drake, an ebon drakeling |
 (None) |
 WT: 0.1 Size: SMALL Class: ALL Race: ALL |
 Rusted BlackboxRusted Blackbox
-NO DROP
-WT: 5.0 Size: SMALL
+No Trade, Quest
+Size: SMALL WT: 5.0
 Class: ALL
 Race: ALL
 |
 rogue clockwork |
 (None) |
-NO DROP WT: 5.0 Size: SMALL Class: ALL Race: ALL |
+No Trade, Quest Size: SMALL WT: 5.0 Class: ALL Race: ALL |
 Scrap MetalScrap Metal
 QUEST ITEM
 WT: 7.5 Size: MEDIUM
@@ -1717,14 +1748,14 @@ Various |
 (None) |
 WT: 0.5 Size: SMALL Class: ALL Race: ALL |
 Skull of MeldrathSkull of Meldrath
-MAGIC ITEM LORE ITEM NO DROP
-WT: 1.5 Size: SMALL
+No Trade, Quest
+Size: SMALL WT: 1.5
 Class: ALL
 Race: ALL
 |
 Meldrath The Malignant |
 (None) |
-MAGIC ITEM LORE ITEM NO DROP WT: 1.5 Size: SMALL Class: ALL Race: ALL |
+No Trade, Quest Size: SMALL WT: 1.5 Class: ALL Race: ALL |
 Small Round ShieldSmall Round Shield
 Slot: SECONDARY
 AC: 6
@@ -1736,14 +1767,14 @@ Various |
 Secondary |
 AC: 6 WT: 3.7 Size: MEDIUM Class: ALL except NEC WIZ MAG ENC Race: ALL |
 Steamfont Spring WaterSteamfont Spring Water
-This is a refreshing drink!
-WT: 0.6 Size: SMALL
+Quest
+Size: SMALL WT: 0.6
 Class: ALL
 Race: ALL
 |
 Various |
 (None) |
-This is a refreshing drink! WT: 0.6 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.6 Class: ALL Race: ALL |
 Swiftmoon's HeadSwiftmoon's Head
 LORE ITEM NO DROP
 WT: 0.7 Size: MEDIUM

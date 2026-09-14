@@ -1,5 +1,5 @@
 # Nektulos_Forest (eqlwiki.com)
-fetched: 2026-09-08
+fetched: 2026-09-14
 
 Nektulos Forest - EverQuest Legends Wiki
 Jump to content
@@ -586,6 +586,11 @@ Quest
 Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
+, Tome Insert Page 1Tome Insert Page 1
+NO TRADE
+WT: 0.3 Size: TINY
+Class: None
+Race: None
 |
 Added in Mar2002 update to Nektulos[https://web.archive.org/web/20020421200608/http://eqbeastiary.allakhazam.com:80/sear... |
 An araneidae spiderling
@@ -1305,7 +1310,7 @@ Necromancer |
 100% @ (-1073.54, -685.43) |
 None |
 Starts the Necromancer Epic questline. She is located on the northern bank of the river, east of the bridge. Seems to be... |
-Items - Found 30 items that drop in Nektulos Forest:
+Items - Found 31 items that drop in Nektulos Forest:
 Item Name | Drops From | Slot | Stats |
 Basilisk EggBasilisk Egg
 QUEST ITEM
@@ -1581,6 +1586,15 @@ Race: NONE
 an undead annalkeeper |
 (None) |
 MAGIC ITEM LORE ITEM NO DROP WT: 0.3 Size: TINY Class: NONE Race: NONE |
+Tome Insert Page 1Tome Insert Page 1
+NO TRADE
+WT: 0.3 Size: TINY
+Class: None
+Race: None
+|
+An Undead Steward |
+(None) |
+NO TRADE WT: 0.3 Size: TINY Class: None Race: None |
 Vial of Halfling BloodVial of Halfling Blood
 MAGIC ITEM NO DROP
 WT: 0.1 Size: TINY

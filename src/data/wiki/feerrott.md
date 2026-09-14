@@ -1,5 +1,5 @@
 # The_Feerrott (eqlwiki.com)
-fetched: 2026-09-08
+fetched: 2026-09-14
 
 The Feerrott - EverQuest Legends Wiki
 Jump to content
@@ -320,6 +320,11 @@ WT: 0.5 Size: SMALL
 Class: ALL
 Race: ALL
 , Black Spider SilkBlack Spider Silk
+Quest
+WT: 0.1 Size: SMALL
+Class: ALL
+Race: ALL
+, Spiderling SilkSpiderling Silk
 Quest
 WT: 0.1 Size: SMALL
 Class: ALL

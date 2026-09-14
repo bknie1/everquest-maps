@@ -1,5 +1,5 @@
 # Blackburrow (eqlwiki.com)
-fetched: 2026-09-11
+fetched: 2026-09-14
 
 Blackburrow - EverQuest Legends Wiki
 Jump to content
@@ -107,13 +107,13 @@ WT: 0.5 Size: SMALL
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 , Rusty Spiked ShoulderpadsRusty Spiked Shoulderpads
-MAGIC ITEM
+Attunable
 Slot: SHOULDERS
 AC: 3
 STR: +5
 SV MAGIC: -10
-WT: 2.5 Size: SMALL
-Class: ALL except NEC WIZ MAG ENC
+Size: SMALL WT: 2.5
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST BER
 Race: ALL
 , Giant Snake FangGiant Snake Fang
 QUEST ITEM
@@ -589,7 +589,7 @@ Socho Darkpaw
 Gnoll |
 Rogue |
 13 |
-@ (-85,-286) |
+@ (-85,-286, -62) |
 Blackburrow Gnoll SkinBlackburrow Gnoll Skin
 WT: 4.5 Size: LARGE
 Class: ALL
@@ -1051,18 +1051,18 @@ Refugee Splitpaw |
 2H Blunt |
 Atk Delay: 37 DMG: 9 HP: +5 MANA: +5 WT: 11.0 Size: LARGE Class: CLR DRU SHM NEC WIZ MAG ENC Race: ALL |
 Rusty Spiked ShoulderpadsRusty Spiked Shoulderpads
-MAGIC ITEM
+Attunable
 Slot: SHOULDERS
 AC: 3
 STR: +5
 SV MAGIC: -10
-WT: 2.5 Size: SMALL
-Class: ALL except NEC WIZ MAG ENC
+Size: SMALL WT: 2.5
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST BER
 Race: ALL
 |
 Various |
 Shoulders |
-AC: 3 STR: +5 SV MAGIC: -10 WT: 2.5 Size: SMALL Class: ALL except NEC WIZ MAG ENC Race: ALL |
+AC: 3 STR: +5 SV MAGIC: -10 Size: SMALL WT: 2.5 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST BER Race: ALL |
 Sabertooth Short BowSabertooth Short Bow
 Slot: RANGE
 Skill: Archery Atk Delay: 30

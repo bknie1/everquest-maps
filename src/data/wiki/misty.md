@@ -1,5 +1,5 @@
 # Misty_Thicket (eqlwiki.com)
-fetched: 2026-09-08
+fetched: 2026-09-14
 
 Misty Thicket - EverQuest Legends Wiki
 Jump to content
@@ -252,7 +252,8 @@ WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
 , HoneycombHoneycomb
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.
 Class: ALL
 Race: ALL
 , Bixie StingerBixie Stinger
@@ -277,7 +278,8 @@ WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
 , HoneycombHoneycomb
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.
 Class: ALL
 Race: ALL
 , Bixie StingerBixie Stinger
@@ -637,7 +639,8 @@ WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
 , HoneycombHoneycomb
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.
 Class: ALL
 Race: ALL
 , Bixie StingerBixie Stinger
@@ -658,7 +661,8 @@ WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
 , HoneycombHoneycomb
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.
 Class: ALL
 Race: ALL
 |
@@ -1518,13 +1522,14 @@ a giant wasp |
 (None) |
 WT: 0.1 Size: SMALL Class: ALL Race: ALL |
 HoneycombHoneycomb
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.
 Class: ALL
 Race: ALL
 |
 a bixie, a bixie drone, a bixie queen |
 (None) |
-WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Quest Size: TINY WT: 0. Class: ALL Race: ALL |
 Humerus Handled MaceHumerus Handled Mace
 MAGIC ITEM LORE ITEM NO DROP
 Slot: PRIMARY SECONDARY

@@ -1,5 +1,5 @@
 # Lesser_Faydark (eqlwiki.com)
-fetched: 2026-09-11
+fetched: 2026-09-14
 
 Lesser Faydark - EverQuest Legends Wiki
 Jump to content
@@ -1134,7 +1134,7 @@ Ytharisth Nerishar
 ? |
 None |
 Description needed.[2] |
-Items - Found 90 items that drop in Lesser Faydark:
+Items - Found 91 items that drop in Lesser Faydark:
 Item Name | Drops From | Slot | Stats |
 A shadowed knifeA shadowed knife
 MAGIC ITEM LORE ITEM NO DROP
@@ -1299,6 +1299,14 @@ Race: ALL
 Teir`Dal Elite |
 (None) |
 WT: 0.4 Size: SMALL Class: ALL Race: ALL |
+Brownie LegBrownie Leg
+Size: TINY WT: 0.8
+Class: NONE
+Race: NONE
+|
+Thistle Underbrush |
+(None) |
+Size: TINY WT: 0.8 Class: NONE Race: NONE |
 Brownie PartsBrownie Parts
 WT: 0.1 Size: SMALL
 Class: ALL

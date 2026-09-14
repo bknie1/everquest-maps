@@ -1,5 +1,5 @@
 # Paineel (eqlwiki.com)
-fetched: 2026-09-08
+fetched: 2026-09-14
 
 Paineel - EverQuest Legends Wiki
 Jump to content
@@ -1922,15 +1922,15 @@ None? |
 (None) |
 MAGIC ITEM LORE ITEM NO DROP WT: 0.1 Size: TINY Class: ALL Race: ALL |
 Infected Rat LiversInfected Rat Livers
-NO DROP
+Quest
 SV DISEASE: -1
-WT: 0.2 Size: TINY
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 |
 an undead rat |
 (None) |
-NO DROPSV DISEASE: -1 WT: 0.2 Size: TINY Class: ALL Race: ALL |
+Quest SV DISEASE: -1 Size: TINY WT: 0.2 Class: ALL Race: ALL |
 Kite ShieldKite Shield
 Slot: SECONDARY
 AC: 8

@@ -1,5 +1,5 @@
 # The_Warrens (eqlwiki.com)
-fetched: 2026-09-12
+fetched: 2026-09-14
 
 The Warrens - EverQuest Legends Wiki
 Jump to content
@@ -1901,14 +1901,14 @@ A Kobold Guard, A Pack Leader, Foodmaster Rargnar |
 Wrist |
 AC: 3 WT: 1.5 Size: SMALL Class: ALL except NEC WIZ MAG ENC Race: ALL |
 Steamfont Spring WaterSteamfont Spring Water
-This is a refreshing drink!
-WT: 0.6 Size: SMALL
+Quest
+Size: SMALL WT: 0.6
 Class: ALL
 Race: ALL
 |
 None? |
 (None) |
-This is a refreshing drink! WT: 0.6 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.6 Class: ALL Race: ALL |
 Tiny Brass ShurikenTiny Brass Shuriken
 Slot: RANGE AMMO
 Skill: Throwing Atk Delay: 20
