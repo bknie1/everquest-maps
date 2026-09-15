@@ -1,5 +1,5 @@
 # Plane_of_Hate (eqlwiki.com)
-fetched: 2026-09-13
+fetched: 2026-09-15
 
 Plane of Hate - EverQuest Legends Wiki
 Jump to content
@@ -4515,7 +4515,7 @@ WT: 1.0 Size: SMALL
 Class: WAR CLR SHD ROG NEC WIZ MAG ENC
 Race: ALL
 , Earring of BashingEarring of Bashing
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade
 Slot: EAR
 AC: 5
 STR: +8 WIS: +8

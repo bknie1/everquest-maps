@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-09-14
+fetched: 2026-09-15
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -1160,15 +1160,14 @@ Wind Rune Azia
 Golden Coffer (5-SL)
 |
 Drake-Hide AmiceDrake-Hide Amice
-MAGIC ITEM LORE ITEM NO DROP
-Slot: SHOULDERS
-Charges: 10
-AC: 6
-STA: +5 HP: +50 MANA: +50
-Effect: Malaise (Must Equip, Casting Time: Instant) at Level 45
-WT: 2.5 Size: SMALL
+Lore Equipped, No Trade
 Class: MAG
 Race: ALL
+Slot: SHOULDERS
+WT: 2.5 Size: SMALL
+AC: 6
+STA: +5 HP: +50 MANA: +50
+Effect: Malaise (Must Equip, Casting Time: Instant, Cooldown: 120 seconds) at Level 45
 |
 Magician Test of Summoning
 |
@@ -1179,12 +1178,11 @@ Wind Rune Dena
 Large Diamond (6-BZ)
 |
 Duennan Shielding RingDuennan Shielding Ring
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade
 Slot: FINGER
-Charges: 1
 AC: 4
 WIS: +5 INT: +5 MANA: +30
-Effect: Harmshield (Must Equip, Casting Time: Instant)
+Effect: Harmshield (Must Equip, Casting Time: Instant, Cooldown: 900 seconds)
 WT: 0.1 Size: TINY
 Class: MAG
 Race: ALL
@@ -2138,7 +2136,7 @@ Wind Tablet (6-BZ)
 Efreeti Belt
 |
 DagasDagas
-MAGIC ITEM LORE EQUIPPED NO DROP
+Lore Equipped, No Trade
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 21
 DMG: 11 AC: 20
@@ -3349,7 +3347,7 @@ Rogue |
 55 |
 2nd Island |
 Various |
-The boss of island two. This triggered spawn will appear over the corpse of an azarack, a particular one which is sl... |
+The boss of island two. They spawn from killing an azarack, and once spawned will return to the location they spawne... |
 Ranger Spirit
 |
 Efreeti |
@@ -3436,7 +3434,12 @@ Fairy |
 Bard |
 53 |
 (1372, 609) |
-Various |
+Key of SwordsKey of Swords
+LORE ITEM NO DROP
+WT: 1.0 Size: SMALL
+Class: ALL
+Race: ALL
+(Always) |
 This is the boss of island 1.
 Although the princess will assist and be assisted by the other spirits, she is out of th... |
 Ton Po

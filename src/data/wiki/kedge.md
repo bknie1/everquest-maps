@@ -1,5 +1,5 @@
 # Kedge_Keep (eqlwiki.com)
-fetched: 2026-09-10
+fetched: 2026-09-15
 
 Kedge Keep - EverQuest Legends Wiki
 Jump to content
@@ -311,7 +311,7 @@ kedge
 |
 Zone Spawn Timer:
 |
-22:00
+14:30
 |
 Succor/Evacuate:
 |
@@ -1865,14 +1865,14 @@ Kedge Keep
 Solo vs. Multiplayer
 When creating the raid instance, players can choose between solo and multiplayer instances. These instances share lockouts, so players cannot do both in the same week and receive full loot.
 Both instances are a single room, with four seahorse trash mobs and the boss. The seahorses are in the north, south, east and west of the map, with the boss roaming below them.
-Retrieved from "https://eqlwiki.com/index.php?title=Kedge_Keep&oldid=176827"
+Retrieved from "https://eqlwiki.com/index.php?title=Kedge_Keep&oldid=178272"
 Categories: Pages using duplicate arguments in template calls
 Classic Era
 Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 6 September 2026, at 16:56.
+This page was last edited on 14 September 2026, at 23:47.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

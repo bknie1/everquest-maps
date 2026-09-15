@@ -1,5 +1,5 @@
 # Nagafen's_Lair (eqlwiki.com)
-fetched: 2026-09-11
+fetched: 2026-09-15
 
 Nagafen's Lair - EverQuest Legends Wiki
 Jump to content
@@ -1137,7 +1137,7 @@ Zordakalicus Ragefire |
 Arms |
 AC: 15 DEX: +8 CHA: +5 AGI: +8 SV FIRE: +20 Effect: Shield of Flame (Must Equip, Casting Time: Instant) at Level 45 WT: 3.7 Size: MEDIUM Class: WAR CLR PAL SHD BRD Race: ALL |
 Blight, Hammer of the ScourgeBlight, Hammer of the Scourge
-MAGIC ITEM
+Attunable
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 47
 DMG: 23
@@ -1747,7 +1747,7 @@ WT: 7.3 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD BRD ROG SHM
 Race: ALL
 , Blight, Hammer of the ScourgeBlight, Hammer of the Scourge
-MAGIC ITEM
+Attunable
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 47
 DMG: 23
