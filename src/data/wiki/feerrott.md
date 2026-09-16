@@ -1,5 +1,5 @@
 # The_Feerrott (eqlwiki.com)
-fetched: 2026-09-14
+fetched: 2026-09-16
 
 The Feerrott - EverQuest Legends Wiki
 Jump to content
@@ -168,7 +168,7 @@ Innkeep Morpa |
 All |
 Southern Karana |
 Jarlen Meadowgreen |
-NPCs - Found 45 NPCs that spawn in The Feerrott:
+NPCs - Found 47 NPCs that spawn in The Feerrott:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Decaying Skeleton
 |
@@ -194,6 +194,14 @@ Warrior |
 See Discussion |
 Various |
 It appears this bear is supposed to be available in classic and there may be placeholders. |
+A Silverflank guardian
+|
+Gorilla |
+Warrior |
+30 |
+(-1377, -40) (-1377, -78) |
+Lizardskin Tribal Mask (Common), Ravenscale Gloves (Rare), Clump of Gorilla Hair (100%) |
+The rarest of four gorilla types that guard the entrance to Cazic Thule. This fellow is part of the [[Hunter of the ... |
 A Spectre
 |
 Spectre |
@@ -354,6 +362,14 @@ Class: ALL
 Race: ALL
 |
 Spawn in the North East region near and around the druid rings. |
+A large gorilla
+|
+Gorilla |
+Warrior |
+21-24 |
+(-1377, -40) (-1377, -78) |
+None |
+One of the four gorilla types that guard the entrance to Cazic Thule. |
 A lizard man mystic
 |
 Lizard Man |

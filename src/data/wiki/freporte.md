@@ -1,5 +1,5 @@
 # East_Freeport (eqlwiki.com)
-fetched: 2026-09-14
+fetched: 2026-09-16
 
 Freeport - EverQuest Legends Wiki
 Jump to content
@@ -1618,22 +1618,10 @@ Trissa Whistlesong
 |
 Half-Elf |
 Bard |
-35, previously 15 |
+35 |
 100% @ (-107, -430) |
-MandolinMandolin
-Slot: SECONDARY
-String Resonance: 10
-WT: 0.0 Size: TINY
-Class: ALL
-Race: ALL
-, Wooden FluteWooden Flute
-Slot: SECONDARY
-Wind Resonance: 8
-WT: 0.5 Size: TINY
-Class: BRD
-Race: ALL
 |
-Starting Nov 2000 in the EverQuest Timeline, Trissa Whistlesong increases to level 35 and becomes very difficult to ... |
+On the first floorof the Hogcallers' Inno. Cannot be attacked or cast upon. |
 Tyeg Envil
 |
 Freeport Guards |
@@ -2387,6 +2375,12 @@ Skill: Piercing Atk Delay: 31
 DMG: 4BACKSTAB: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG
+Race: ALL
+, LuteLute
+Slot: SECONDARY
+String Resonance: 10
+WT: 0.8 Size: SMALL
+Class: BRD
 Race: ALL
 , MandolinMandolin
 Slot: SECONDARY

@@ -1,5 +1,5 @@
 # Northern_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-09-09
+fetched: 2026-09-16
 
 Northern Plains of Karana - EverQuest Legends Wiki
 Jump to content
@@ -707,10 +707,10 @@ Cordelia Minster
 |
 Half-Elf |
 Bard |
-18-22 |
+18 |
 (-3801, 1160) |
 Raw-hide Armor |
-Cordelia is a member of the worldwide bard faction. Due to her position in the world, relative isolation and ability to ... |
+Cordelia spawns at the spires near South Karana, but she is a pathing mob, meaning that if you're certain she is not bei... |
 Ezmirella
 |
 Qeynos Citizen |

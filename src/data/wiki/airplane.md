@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-09-15
+fetched: 2026-09-16
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -90,6 +90,8 @@ Island 4: Pegasus Island
 Island 5: Spiroc Island
 4.9
 Island 6: Bee Island
+4.9.1
+Finding the Queen Bee
 4.10
 Island 7: Drake Island
 4.11
@@ -341,23 +343,25 @@ Key required: Key of the Swarm
 Key dropped: Key of Scale
 Bees do not see invis, but they social and have very large aggro radiuses (probably the whole island will aggro you at once).
 The three original bees are all named "Bzzazzt". Only the final boss will drop the Key of Scale you need to progress to the next island. They are easily mezzed, slowed, or stunned. Like the soul carriers back on Pegasus island, they can split into multiple mobs when killed. All of the bees and their split spawns hit very hard and very fast. They also proc poison dots (about 100hp/tick) which aren't life threatening but significant if not cured for awhile.
-Each original spawn will either spawn 1, 2, or 3 Bazzzazzts, and it may be difficult or impossible to know which is which, so be prepared for a 3-split on your first pull. The original bee that spawns the queen is larger than the other two, but for thoroughness' sake:
+Each original spawn will either spawn 1, 2, or 3 Bazzzazzts:
 If you get a 3-split, then those 3 Bazzzazzts are each final and will not spawn any more mobs. You will not get the boss from this pull.
 If you get a 2-split, both of those Bazzzazzts will spawn a single Bizazzt. Both Bizazzts are final and won't spawn anything else. You will also not get the boss from this pull.
 If you only have a 1-split of a single Bazzzazzt, then you are on the chain of splits that results in the boss of the island, Bazzt Zzzt. Your single Bazzzazzt upon death will spawn Bzzzt, the mini-queen. Mini-queen's death leads to Bazzt Zzzt, the queen bee and boss of the island.
 The mini-queen is at least as hard as the rest of the bees and also casts a nasty dot as well.
 The boss, Bazzt Zzzt, is a particularly nasty bixie that will drop the key to the next island. If you wipe, be aware that queen bee will return to where she spawned, the location of Bzzzt's death, so kill him somewhere besides the port-in spot for sure. Like other bees she has a very large aggro radius. Dealing with several fights in a row can be quite taxing. If you are a class that can feign death or evacuate/succor, you can take the opportunity to take a breath and wait for some of your resources to regenerate - however, she will pretty much sit right you spawned her from killing the previous bee.
-After you're done, go invisible once again.
+Finding the Queen Bee
+If you go over to Island 6 without invisibility, the bees will agro you immediately. However, if you invs over, you can identify the bee that spawns the queen because her spawn is always in the middle of the island a little further back and between the other two bees. With a combination of lull and feign death it's possible to lull the other bees, pull the main bee to the back of the island and safely fight her without bothering with the other bees at all.
+Additionally, the queen Bzzazzt is larger than the other two, and immune to Charm. So if you can mez, you could mez them, identify the queen, kill them, and then memblur the other two and head to the far back side of the island to recuperate outside of their agro range.
 Island 7: Drake Island
 Boss: Sister of the Spire
 Common: a heartsbane drake, a fatestealer drake, a windrider drake, a greater sphinx, undine spirit
 Key required: Key of Scale
 Key dropped: Veeshan's Key
 Note that many of the trash mobs here cast nasty things like mez (sphinxes) and grav flux (drakes). The grav flux from the windrider drakes can shoot you clear off the island, so engage them with care.
-Sister of the Spire is the boss here. She is not so terribly hard compared to all those bees. If engaged in her room, you risk social agro through the wall with the Sphinxes - the safest bet is to clear them out before engaging her. They can be split off solo without attracting the attention of the drakes. Once you've thinned the Sphinx herd, she can be knocked over pretty safely.
+Sister of the Spire is the boss here - she is the only mob on the island that is agro, but the others will come to her aid if they're nearby. She is not so terribly hard compared to all those bees. If engaged in her room, you risk social agro through the wall with the Sphinxes - the safest bet is to clear them out before engaging her. They can be split off solo without attracting the attention of the drakes. Once you've thinned the Sphinx herd, she can be knocked over pretty safely.
 Island 8: Veeshan Island
 Boss: Eye of Veeshan
-Common: None?
+Common: None
 Other: the Hand of Veeshan
 Key required: Veeshan's Key
 This small island is home to the Hand of Veeshan and Eye of Veeshan. The Hand is only spawned by killing the Overseer of Air way back on island 4. He can easily be singled out from the Eye by engaging him on the northern(behind the house) end of the island. The Eye is social with him, but neither see invis, so you can pick your engagement spot and wait for the Hand to come to you.
@@ -1058,12 +1062,11 @@ Wind Rune Caza
 Adamantium Earring (6-BZ)
 |
 Necklace of Whispering WindsNecklace of Whispering Winds
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade
 Slot: NECK
-Charges: 2
 AC: 4
 STA: +5 CHA: +10 INT: +5 MANA: +35
-Effect: Cajoling Whispers (Must Equip, Casting Time: Instant) at Level 45
+Effect: Cajoling Whispers (Must Equip, Casting Time: Instant, Cooldown: 120 seconds) at Level 45
 WT: 0.1 Size: TINY
 Class: ENC
 Race: ALL
@@ -1499,7 +1502,7 @@ Wind Rune Lena
 Ivory Sky Diamond (5-SL)
 |
 Aldryn, Blade of the OceanAldryn, Blade of the Ocean
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade, Placeable
 Slot: PRIMARY
 Skill: 1H Slashing Atk Delay: 26
 DMG: 20
@@ -1537,7 +1540,7 @@ Golden Hilt (7-Trash)
 Sphinx Claw (7-SotS)
 |
 TruvinanTruvinan
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade, Placeable
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 40
 DMG: 32
@@ -3168,8 +3171,7 @@ Warrior |
 70 |
 (-267, -1370, 1250) |
 Various |
-In theory, the end boss of the Plane of Sky. "Undergone nerf, should be substantially easier" (7/14/2013 patch).
-In prac... |
+In theory, the end boss of the Plane of Sky. In practice, several other mobs are much stronger. Fairly straightforward f... |
 Gkzzallk
 |
 Human |
@@ -3258,7 +3260,7 @@ Shadow Knight |
 60 |
 4th Island |
 Various |
-The boss of island four. Come prepared with multiple tanks or a metric buttload of dps. He is slowable. |
+The boss of island four. |
 Key Master
 |
 Dwarf |
@@ -6309,12 +6311,12 @@ Race: ALL
 Protector of Sky |
 (None) |
 LORE ITEM WT: 6.0 Size: MEDIUM Class: ALL Race: ALL |
-Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Sky&oldid=177571"
+Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Sky&oldid=178362"
 Categories: Classic Era
 Zones
 How to Contribute
 Donate
-This page was last edited on 9 September 2026, at 14:56.
+This page was last edited on 15 September 2026, at 17:26.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers
