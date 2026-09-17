@@ -1,5 +1,5 @@
 # Northern_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-09-16
+fetched: 2026-09-17
 
 Northern Plains of Karana - EverQuest Legends Wiki
 Jump to content
@@ -1156,10 +1156,10 @@ None |
 This named treant is located in the northern part of the zone and his main purpose is for both the druid and ranger epic... |
 Zahal the Vile
 |
-Ghoul |
+Undead Troll |
 Warrior |
 30 |
-100% @ (1237, -2023) |
+(694, -1115, 24) |
 Belt of Flesh HooksBelt of Flesh Hooks
 Slot: WAIST
 AC: 5
@@ -1173,7 +1173,7 @@ WT: 3.7 Size: SMALL
 Class: ALL
 Race: ALL
 |
-Zahal the Vile is a ghoul who is the spawn trigger for Regis the Reverent. Zahal spawns at (1237, -2023) and paths w... |
+Zahal the Vile is an undead Troll who is the spawn trigger for Regis the Reverent. Zahal spawns at (694, -1115, 24) ... |
 Items - Found 34 items that drop in Northern Karana:
 Item Name | Drops From | Slot | Stats |
 A Gypsy MedallionA Gypsy Medallion

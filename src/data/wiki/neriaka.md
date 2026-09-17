@@ -1,5 +1,5 @@
 # Neriak_Foreign_Quarter (eqlwiki.com)
-fetched: 2026-09-10
+fetched: 2026-09-17
 
 Neriak - EverQuest Legends Wiki
 Jump to content
@@ -1919,7 +1919,7 @@ Book of Turmoil Quest
 Book of TurmoilBook of Turmoil
 WT: 0.0 Size: TINY
 Glowing TorchGlowing Torch
-MAGIC ITEM
+Attunable
 Slot: PRIMARY SECONDARY
 AC: 7
 CHA: +5
@@ -2536,7 +2536,7 @@ Dark Elf |
 Necromancer |
 10 |
 (894, -1246) In the Left room of the Library - #3 on the map |
-Dark Elf Decapitated Head, Dark Stained Training Robe |
+Dark Elf Decapitated Head, Dark Stained Training Robe* |
 This NPC is on Dark Bargainers faction. A minimum of Dubious is required to hand in the Red Wine Quest. |
 Loveal S`Nez
 |
@@ -2876,14 +2876,14 @@ Description needed. |
 Items - Found 8 items that drop in Neriak Third Gate:
 Item Name | Drops From | Slot | Stats |
 Dark Elf Decapitated HeadDark Elf Decapitated Head
-LORE ITEM
-WT: 2.0 Size: MEDIUM
+Quest
+Size: MEDIUM WT: 2.0
 Class: ALL
 Race: ALL
 |
 Lokar To`Biath |
 (None) |
-LORE ITEM WT: 2.0 Size: MEDIUM Class: ALL Race: ALL |
+Quest Size: MEDIUM WT: 2.0 Class: ALL Race: ALL |
 Great StaffGreat Staff
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 38

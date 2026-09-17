@@ -1,5 +1,5 @@
 # West_Freeport (eqlwiki.com)
-fetched: 2026-09-16
+fetched: 2026-09-17
 
 Freeport - EverQuest Legends Wiki
 Jump to content
@@ -1827,7 +1827,7 @@ Race: ALL
 None? |
 2H Blunt |
 Atk Delay: 40 DMG: 7 WT: 11.0 Size: LARGE Class: ALL except BRD ROG Race: ALL |
-Quests - Found 28 quests that start in East Freeport:
+Quests - Found 27 quests that start in East Freeport:
 Quest Name | Reward | Quest Giver | Minimum Level | Classes | Related Zones | Related NPCs |
 Ale for Beur
 |
@@ -1870,14 +1870,6 @@ Priest of Discord |
 All |
 East Freeport |
 Priest of Discord |
-Fabian's Strings
-|
-Experience, Faction, Coin |
-Fabian |
-30+ |
-All |
-North Karana, South Qeynos |
-Zahal the Vile |
 Faction Quests
 |
 ? |

@@ -1,5 +1,5 @@
 # Qeynos (eqlwiki.com)
-fetched: 2026-09-14
+fetched: 2026-09-17
 
 Qeynos - EverQuest Legends Wiki
 Jump to content
@@ -1185,11 +1185,11 @@ Up in game day light hours only. Spawns at loc -121, -77 near the Port Authority
 Dionna
 |
 Human |
-NPC |
+|
 25 |
 50% @ (406, -346) |
 None |
-A shy girl near the clock tower. She blushes and turns away when hailed. Once part of the Fabians Strings quest in plane... |
+A shy girl near the clock tower. She blushes and turns away when hailed. Ends the Fabian's Strings quest. |
 Donally Stultz
 |
 Human |
@@ -1517,7 +1517,7 @@ Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
-Description needed. |
+Aligned with the evil Qeynos factions. |
 Guard Dunix
 |
 Human |
@@ -1573,7 +1573,7 @@ Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
-Description needed. |
+Aligned with the evil Qeynos factions. |
 Guard Naret
 |
 Human |
@@ -2159,8 +2159,8 @@ Merchant |
 27 |
 (557, -146) inside The Wind Spirit's Song. |
 |
-Merchant inside The Wind Spirit's Song.
-Probably a reference to A Song of Ice and Fire / Game of Thrones character ... |
+Merchant inside The Wind Spirit's Song. Cannot be attacked.
+Probably a reference to A Song of Ice and Fire / Game of Th... |
 Sinon Loarpe
 |
 Human |

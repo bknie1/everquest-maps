@@ -1,5 +1,5 @@
 # Lavastorm_Mountains (eqlwiki.com)
-fetched: 2026-09-08
+fetched: 2026-09-17
 
 Lavastorm Mountains - EverQuest Legends Wiki
 Jump to content
@@ -235,6 +235,10 @@ QUEST ITEM
 This is a meal!
 WT: 1.0 Size: SMALL
 Class: ALL
+Race: ALL
+, Lava PearsLava Pears
+Size: TINY WT: 0.1
+Class: NONE
 Race: ALL
 |
 A reliable farm location is the Gypsy camp (#3 on wiki map) where at least two basilisks roam through. One will stop at ... |
@@ -481,7 +485,7 @@ Warrior |
 12 - 14 |
 Wanders |
 Glowing TorchGlowing Torch
-MAGIC ITEM
+Attunable
 Slot: PRIMARY SECONDARY
 AC: 7
 CHA: +5
@@ -506,7 +510,7 @@ Enchanter |
 (-333, 937) |
 None |
 Nestled in a camp of otherwise indifferent & dubious merchants, Tizina cons threatening to Rallos Zek Ogres and Cazic Th... |
-Items - Found 28 items that drop in Lavastorm Mountains:
+Items - Found 30 items that drop in Lavastorm Mountains:
 Item Name | Drops From | Slot | Stats |
 AshweedAshweed
 This is a meal!
@@ -632,7 +636,7 @@ a shadowed man |
 Hands |
 AC: 4 WT: 1.5 Size: SMALL Class: ENC Race: ALL |
 Glowing TorchGlowing Torch
-MAGIC ITEM
+Attunable
 Slot: PRIMARY SECONDARY
 AC: 7
 CHA: +5
@@ -691,6 +695,14 @@ Race: ALL
 a rock dervish |
 (None) |
 WT: 25.5 Size: SMALL Class: ALL Race: ALL |
+Lava PearsLava Pears
+Size: TINY WT: 0.1
+Class: NONE
+Race: ALL
+|
+a lava basilisk |
+(None) |
+Size: TINY WT: 0.1 Class: NONE Race: ALL |
 Lava RockLava Rock
 MAGIC ITEM QUEST ITEM
 WT: 0.1 Size: TINY
@@ -760,6 +772,14 @@ Race: ALL
 Various |
 (None) |
 QUEST ITEM WT: 0.1 Size: TINY Class: ALL Race: ALL |
+StonefruitStonefruit
+Size: TINY WT: 0
+Class: NONE
+Race: NONE
+|
+a lava basilisk |
+(None) |
+Size: TINY WT: 0 Class: NONE Race: NONE |
 TestimonyTestimony
 This note is rolled up.
 LORE ITEM NO DROP
