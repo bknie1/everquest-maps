@@ -1,5 +1,5 @@
 # Kaladim (eqlwiki.com)
-fetched: 2026-09-08
+fetched: 2026-09-18
 
 Kaladim - EverQuest Legends Wiki
 Jump to content
@@ -2173,7 +2173,7 @@ Aanina Rockfinder
 |
 Kaladim Citizen |
 Merchant |
-41 |
+50 |
 (401, -156) |
 |
 Description needed. |

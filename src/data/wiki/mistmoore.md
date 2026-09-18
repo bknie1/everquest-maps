@@ -1,5 +1,5 @@
 # Castle_Mistmoore (eqlwiki.com)
-fetched: 2026-09-11
+fetched: 2026-09-18
 
 Mistmoore Castle - EverQuest Legends Wiki
 Jump to content
@@ -1804,7 +1804,7 @@ Princess Cherista
 Elf Vampire |
 Necromancer |
 35 |
-33% @ (-131, 23) Level 2
+@ (-131, 23, 152.77) Level 2
 Respawn: 8 minutes 47 seconds |
 Cherista's FangsCherista's Fangs
 Attunable

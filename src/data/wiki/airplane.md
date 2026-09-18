@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-09-16
+fetched: 2026-09-18
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -3468,7 +3468,7 @@ Warrior |
 |
 None |
 This is the quest NPC for Wizard Plane of Sky Tests turn ins. |
-Items - Found 270 items that drop in Plane of Sky:
+Items - Found 272 items that drop in Plane of Sky:
 Item Name | Drops From | Slot | Stats |
 Acidic VenomAcidic Venom
 LORE ITEM
@@ -3606,6 +3606,18 @@ Click Effect: Whirl Bolt (Must Equip) - Cast Time: 1.0 seconds, Required Level: 
 None? |
 (None) |
 No Trade Class: BST Race: ALL Wrist AC: 5 HP: +35 END: +10 STR: +5 STA: +5 DEX: +5 WT: 1.0 Size: SMALL Click Effect: Whirl Bolt (Must Equip) - Cast Time: 1.0 seconds, Required Level: 46, Cooldown: 240 seconds |
+Azure RingAzure Ring
+Lore Equipped, No Trade, Quest
+Slot: Fingers
+AC: 2
+DEX: 2
+WT: 3.0 Size: MEDIUM
+Class: WAR
+Race: ALL
+|
+Gorgalosk |
+Fingers |
+AC: 2 DEX: 2 WT: 3.0 Size: MEDIUM Class: WAR Race: ALL |
 Azure TesseraAzure Tessera
 LORE ITEM
 WT: 0.1 Size: SMALL
@@ -4082,6 +4094,15 @@ Race: ALL
 an azarack |
 (None) |
 LORE ITEM WT: 8.0 Size: LARGE Class: ALL Race: ALL |
+Corrosive VenomCorrosive Venom
+No Trade, Quest
+WT: 5.0 Size: MEDIUM
+Class: SHM
+Race: ALL
+|
+Bazzt Zzzt |
+(None) |
+No Trade, Quest WT: 5.0 Size: MEDIUM Class: SHM Race: ALL |
 Cracked Leather BeltCracked Leather Belt
 LORE ITEM
 Slot: WAIST

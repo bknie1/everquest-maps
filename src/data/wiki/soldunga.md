@@ -1,5 +1,5 @@
 # Solusek's_Eye (eqlwiki.com)
-fetched: 2026-09-08
+fetched: 2026-09-18
 
 Solusek's Eye - EverQuest Legends Wiki
 Jump to content
@@ -81,11 +81,11 @@ Level of Monsters:
 |
 Types of Monsters:
 |
-Young, Cinder, Flame, Fire, Inferno, and Solusek Goblins, Wizards, and Shamans; Solusek Champions, Priests, and Mages; Goblin Merchant; Gnome Miners, Curators, and Conjurers; CWG Models CA, CB, CC, MA, MB, MC, XA, XB, and XC; CWG Spider, Blazing Elemental
+Young, Cinder, Flame, Fire, Inferno, and Solusek Goblins, Wizards, and Shamans; Solusek Champions, Priests, and Mages; Goblin Merchant; Gnome Miners, Curators, and Conjurers; CWG Models CA, CB, CC, MA, MB, MC, XA, XB, and XC; CWG Spider, Elementals
 |
 Notable NPCs:
 |
-Captain Bipnubble, CWG Model CX, CWG Model EXG, Fire Goblin Bartender, Inferno Goblin Captain, Fire Goblin Drunkard, Goblin High Shaman, Solusek Goblin King, Gabbie Mardoddle, flame goblin foreman, Inferno Goblin Torturer, Kindle, Kobold predator, lava elemental, Lord Gimblox, Lynada the Exiled, Marfen Binkdirple, Reckless Efreeti, Singe
+22 for Crawl: Blazing Elemental (x2), Captain Bipnubble, CWG Model CX, CWG Model EXG, CWG Model SX, Fire Goblin Bartender, Fire Goblin Drunkard, flame goblin foreman, Goblin High Shaman, Gabbie Mardoddle, Inferno Goblin Captain, Inferno Goblin Torturer, Kindle, Kobold predator, lava elemental, Lord Gimblox, Lynada the Exiled, Marfen Binkdirple, Reckless Efreeti, Singe, Solusek Goblin King
 |
 Unique Items:
 |
@@ -2091,7 +2091,7 @@ WT: 0.0 Size: TINY
 Class: NONE
 Race: NONE
 |
-blazing elemental (confirmed), lava elemental (Confirmed) |
+blazing elemental, lava elemental |
 (None) |
 LORE ITEM NO DROP WT: 0.0 Size: TINY Class: NONE Race: NONE |
 Ring of Goblin LordsRing of Goblin Lords
@@ -2213,13 +2213,13 @@ Race: ALL
 None? |
 (None) |
 WT: 0.1 Size: TINY Class: ALL Race: ALL |
-Retrieved from "https://eqlwiki.com/index.php?title=Solusek%27s_Eye&oldid=154176"
+Retrieved from "https://eqlwiki.com/index.php?title=Solusek%27s_Eye&oldid=178707"
 Categories: Classic Era
 Loc Mapped
 Zones
 How to Contribute
 Donate
-This page was last edited on 5 July 2026, at 14:56.
+This page was last edited on 17 September 2026, at 11:54.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

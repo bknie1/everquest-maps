@@ -1,5 +1,5 @@
 # Southern_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-09-11
+fetched: 2026-09-18
 
 Southern Karana - EverQuest Legends Wiki
 Jump to content
@@ -995,7 +995,7 @@ WT: 2.0 Size: LARGE
 Class: ALL
 Race: ALL
 , Grizzleknot BarkGrizzleknot Bark
-MAGIC ITEM LORE ITEM NO DROP
+No Trade, Quest
 WT: 5.5 Size: LARGE
 Class: ALL
 Race: ALL
@@ -1780,14 +1780,14 @@ a treant |
 2H Blunt |
 Atk Delay: 38 DMG: 9 WT: 10.0 Size: LARGE Class: ALL except BRD ROG Race: ALL |
 Grizzleknot BarkGrizzleknot Bark
-MAGIC ITEM LORE ITEM NO DROP
+No Trade, Quest
 WT: 5.5 Size: LARGE
 Class: ALL
 Race: ALL
 |
 Grizzleknot |
 (None) |
-MAGIC ITEM LORE ITEM NO DROP WT: 5.5 Size: LARGE Class: ALL Race: ALL |
+No Trade, Quest WT: 5.5 Size: LARGE Class: ALL Race: ALL |
 Head of Ghanex DrahHead of Ghanex Drah
 LORE ITEM
 STA: -10 CHA: -5
