@@ -1,5 +1,5 @@
 # Kedge_Keep (eqlwiki.com)
-fetched: 2026-09-15
+fetched: 2026-09-19
 
 Kedge Keep - EverQuest Legends Wiki
 Jump to content
@@ -90,9 +90,9 @@ Types of Monsters:
 |
 Cerulean, Cobalt, Crimson, Emerald, and Shimmering Sailfins, Lancer, Piercer, and Impaler Swordfish, Stingtooth, Stiletto Tooth Piranha, Stiletto Fang Piranha, Cauldron Sharks and Hammerheads, Spinereef, Squallsurge, Soothebrine, and Swirlspine Seahorse, Swirlspine Guardian, Gloomwater and Gloomstalker Mermaids, Aqua Goblin Prisoners
 |
-Notable NPCs:
+Rare NPCs:
 |
-Cauldronboil, Cauldronbubble, Coralyn Kelpmaiden, Estrella of Gloomwater, Fierce Impaler, a ferocious cauldron shark, Frenzied Cauldron Shark, Golden Haired Mermaid, Stiletto Fang Piranha, Seahorse Patriarch, Seahorse Matriarch, Shellara Ebbhunter, Undertow, Swirlspine Guardian
+Auraline, Cauldronboil, Cauldronbubble, Coralyn Kelpmaiden, Estrella of Gloomwater, a fierce impaler, a ferocious hammerhead, a frenzied cauldron shark, a golden haired mermaid, a seahorse patriarch, a seahorse matriarch, Shellara Ebbhunter, Undertow
 |
 Unique Items:
 |
@@ -1865,14 +1865,14 @@ Kedge Keep
 Solo vs. Multiplayer
 When creating the raid instance, players can choose between solo and multiplayer instances. These instances share lockouts, so players cannot do both in the same week and receive full loot.
 Both instances are a single room, with four seahorse trash mobs and the boss. The seahorses are in the north, south, east and west of the map, with the boss roaming below them.
-Retrieved from "https://eqlwiki.com/index.php?title=Kedge_Keep&oldid=178272"
+Retrieved from "https://eqlwiki.com/index.php?title=Kedge_Keep&oldid=178873"
 Categories: Pages using duplicate arguments in template calls
 Classic Era
 Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 14 September 2026, at 23:47.
+This page was last edited on 18 September 2026, at 22:00.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

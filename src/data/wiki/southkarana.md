@@ -1,5 +1,5 @@
 # Southern_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-09-18
+fetched: 2026-09-19
 
 Southern Karana - EverQuest Legends Wiki
 Jump to content
@@ -1495,7 +1495,7 @@ Warrior |
 100% @ (2335, -2350) |
 None |
 Hand him the Warm Pulsing Treant Heart in exchange for the Cleansed Spirit of Antonica. |
-Items - Found 71 items that drop in Southern Karana:
+Items - Found 72 items that drop in Southern Karana:
 Item Name | Drops From | Slot | Stats |
 A LocketA Locket
 LORE ITEM NO DROP
@@ -2221,6 +2221,15 @@ Race: ALL
 Various |
 (None) |
 WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Wooden HeartWooden Heart
+No Trade, Quest
+WT: 2.0 Size: SMALL
+Class: ALL
+Race: ALL
+|
+a treant |
+(None) |
+No Trade, Quest WT: 2.0 Size: SMALL Class: ALL Race: ALL |
 Wooden ShardsWooden Shards
 WT: 1.0 Size: SMALL
 Class: ALL

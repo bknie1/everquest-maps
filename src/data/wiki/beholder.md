@@ -1,5 +1,5 @@
 # Gorge_of_King_Xorbb (eqlwiki.com)
-fetched: 2026-09-14
+fetched: 2026-09-19
 
 Gorge of King Xorbb - EverQuest Legends Wiki
 Jump to content
@@ -420,14 +420,14 @@ an evil eye, Lord Sviir, Lord Syrkl |
 (None) |
 MAGIC ITEM LORE ITEM NO DROP WT: 0.5 Size: SMALL Class: ALL Race: ALL |
 Block of ClayBlock of Clay
-QUEST ITEM
+Quest
 WT: 1.0 Size: TINY
 Class: ALL
 Race: ALL
 |
 Various |
 (None) |
-QUEST ITEM WT: 1.0 Size: TINY Class: ALL Race: ALL |
+Quest WT: 1.0 Size: TINY Class: ALL Race: ALL |
 Block of OreBlock of Ore
 WT: 25.5 Size: SMALL
 Class: ALL

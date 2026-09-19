@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-09-18
+fetched: 2026-09-19
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -2102,10 +2102,9 @@ Stone Amulet (4-KoS)
 Pauldrons of the Blue SkyPauldrons of the Blue Sky
 MAGIC ITEM LORE ITEM NO DROP
 Slot: SHOULDERS
-Charges: 3
 AC: 12
 STR: +8 DEX: +10 STA: +7 AGI: +10
-Effect: Spirit of Cheetah (Must Equip, Casting Time: Instant) at Level 45
+Effect: Spirit of Cheetah (Must Equip, Casting Time: Instant, Cooldown: 180 sec) at Level 45
 WT: 4.5 Size: MEDIUM
 Class: WAR
 Race: ALL

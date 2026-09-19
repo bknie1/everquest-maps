@@ -1,5 +1,5 @@
 # Lesser_Faydark (eqlwiki.com)
-fetched: 2026-09-14
+fetched: 2026-09-19
 
 Lesser Faydark - EverQuest Legends Wiki
 Jump to content
@@ -1453,7 +1453,7 @@ WT: 0.1 Size: TINY
 Class: NEC
 Race: ALL
 |
-a shadowed man (?) |
+None? |
 (None) |
 MAGIC ITEM LORE ITEM NO DROP WT: 0.1 Size: TINY Class: NEC Race: ALL |
 Glowing GlovesGlowing Gloves

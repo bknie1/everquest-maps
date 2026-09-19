@@ -1,5 +1,5 @@
 # Steamfont_Mountains (eqlwiki.com)
-fetched: 2026-09-14
+fetched: 2026-09-19
 
 Steamfont Mountains - EverQuest Legends Wiki
 Jump to content
@@ -1529,14 +1529,14 @@ an earth elemental |
 (None) |
 WT: 1.5 Size: SMALL Class: ALL Race: ALL |
 Micro ServoMicro Servo
-NO DROP
+No Trade
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 |
 rogue clockwork, runaway clockwork |
 (None) |
-NO DROP WT: 0.1 Size: TINY Class: ALL Race: ALL |
+No Trade WT: 0.1 Size: TINY Class: ALL Race: ALL |
 Minotaur Hero ShacklesMinotaur Hero Shackles
 Lore Equipped, No Trade, Quest
 Slot: WRIST

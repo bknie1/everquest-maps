@@ -1,5 +1,5 @@
 # Northern_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-09-17
+fetched: 2026-09-19
 
 Northern Plains of Karana - EverQuest Legends Wiki
 Jump to content
@@ -626,7 +626,7 @@ Warrior |
 13 |
 10% @ (787, -1831), (-3314, 2300) |
 Bear-hide JerkinBear-hide Jerkin
-MAGIC ITEM
+Attunable
 Slot: CHEST
 AC: 9
 STA: +2 WIS: +2
@@ -1213,7 +1213,7 @@ Zahal the Vile |
 (None) |
 WT: 3.7 Size: SMALL Class: ALL Race: ALL |
 Bear-hide JerkinBear-hide Jerkin
-MAGIC ITEM
+Attunable
 Slot: CHEST
 AC: 9
 STA: +2 WIS: +2
