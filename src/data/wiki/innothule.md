@@ -1,5 +1,5 @@
 # Innothule_Swamp (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-09-22
 
 Innothule Swamp - EverQuest Legends Wiki
 Jump to content
@@ -144,32 +144,32 @@ Quest Name | Reward | Quest Giver | Minimum Level | Classes | Related Zones | Re
 Lynuga's Gem Collection
 |
 Midnight MalletMidnight Mallet
-MAGIC ITEM LORE EQUIPPED ITEM
+Attunable
 Slot: PRIMARY
 Charges: 5
 Skill: 2H Blunt Atk Delay: 44
 DMG: 14
-Effect: Walking Sleep (Any Slot, Casting Time: 2.0)
+Effect: Walking Sleep (Any Slot, Casting Time: 0.3, Cooldown: 1 seconds, Cooldown Group: 52)
 WT: 11.0 Size: GIANT
 Class: CLR SHM BST BER
 Race: ALL
 (Rare), BrutechopperBrutechopper
-MAGIC ITEM LORE ITEM
+Attunable
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 50
 DMG: 16
 WT: 11.0 Size: GIANT
-Class: WAR PAL SHD ROG
+Class: WAR PAL SHD ROG BER
 Race: ALL
 (Common), Ivandyr's HoopIvandyr's Hoop
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable
 Slot: EAR
 Charges: 6
 AC: 6
 WIS: +6 INT: +6 HP: +6
-Effect: Spirit Tap (Any Slot, Casting Time: Instant)
+Effect: Spirit Tap (Any Slot, Casting Time: 0.3 seconds, Cooldown: 1 seconds, Cooldown Group: 3)
 WT: 0.1 Size: TINY
-Class: ALL except DRU MNK BRD
+Class: ALL except DRU MNK BRD BST
 Race: ALL
 (Ultra-Rare) |
 Lynuga |
@@ -908,7 +908,7 @@ Warrior |
 * Zimbittle's Pouch |
 Zimbittle is a female Troll that wanders around the zone in to city of Grobb.
 She is fairly low level so if yo... |
-Items - Found 40 items that drop in Innothule Swamp:
+Items - Found 41 items that drop in Innothule Swamp:
 Item Name | Drops From | Slot | Stats |
 A Noble's CrestA Noble's Crest
 NO DROP
@@ -1017,6 +1017,17 @@ Race: ALL
 a fat alligator |
 Chest |
 AC: 6 WT: 4.4 Size: MEDIUM Class: ALL except NEC WIZ MAG ENC Race: ALL |
+Large RubyLarge Ruby
+Lore Equipped, Attunable
+Slot: HEAD
+INT: +1
+WT: 0.1 Size: TINY
+Class: ALL
+Race: ALL
+|
+Lynuga |
+Head |
+INT: +1 WT: 0.1 Size: TINY Class: ALL Race: ALL |
 LongbowLongbow
 Slot: RANGE
 Skill: Archery Atk Delay: 51

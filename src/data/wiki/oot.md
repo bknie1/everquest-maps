@@ -1,5 +1,5 @@
 # Ocean_of_Tears (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-09-22
 
 Ocean of Tears - EverQuest Legends Wiki
 Jump to content
@@ -1205,7 +1205,7 @@ WT: 0.5 Weight Reduction: 0%
 Capacity: 4 Size Capacity: MEDIUM
 |
 Pirate connected to Pirate Camp on other island in OOT. Spawns about every 6 minutes up hill from rune stone on NE corne... |
-Items - Found 33 items that drop in Ocean of Tears:
+Items - Found 34 items that drop in Ocean of Tears:
 Item Name | Drops From | Slot | Stats |
 A DollA Doll
 WT: 1.0 Size: TINY
@@ -1240,6 +1240,18 @@ Race: ALL
 Quag Maelstrom |
 Primary, Secondary |
 Brass Resonance: 9 WT: 1.0 Size: MEDIUM Class: ALL Race: ALL |
+Blackened Mithril ChainBlackened Mithril Chain
+No Trade, Quest
+Slot: NECK
+MANA: 10
+SV Magic: 5
+Size: SMALL WT: 0.1
+Class: DRU
+Race: ALL
+|
+Nyuae the Cruel |
+Neck |
+MANA: 10 SV Magic: 5 Size: SMALL WT: 0.1 Class: DRU Race: ALL |
 Bonechipped MaskBonechipped Mask
 LORE ITEM NO DROP
 Slot: FACE

@@ -1,5 +1,5 @@
 # Nagafen's_Lair (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-09-22
 
 Nagafen's Lair - EverQuest Legends Wiki
 Jump to content
@@ -94,7 +94,7 @@ Greater Kobolds, Greater Kobold Shamans, Solusek Kobolds, Solusek Kobold Shamans
 |
 Rare NPCs:
 |
-death beetle, Efreeti Lord Djarn, guano harvester, kobold champion, kobold noble, kobold priest, noxious spider, Solusek kobold king, stone spider, Targin the Rock
+10 for Crawl: death beetle, Efreeti Lord Djarn, guano harvester, kobold champion, kobold noble, kobold priest, noxious spider, a kobold king, stone spider, Targin the Rock
 |
 Unique Items:
 |
@@ -303,7 +303,7 @@ WT: 0.2 Size: SMALL
 Class: BRD NEC WIZ MAG ENC
 Race: ALL
 (Rare)
-6. "King Room" with Solusek kobold king who drops Runed Mithril BracerRuned Mithril Bracer
+6. "King Room" with a kobold king who drops Runed Mithril BracerRuned Mithril Bracer
 MAGIC ITEM
 Slot: WRIST
 AC: 4
@@ -517,6 +517,32 @@ There are multiple zones from Solusek's Eye (Sol A) into Nagafen's Lair. These a
 What's in this zone?
 NPCs - Found 29 NPCs that spawn in Nagafen's Lair:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
+A kobold king
+|
+Kobold |
+Shadow Knight |
+42 |
+50% @ (-549, -362) |
+Runed Mithril BracerRuned Mithril Bracer
+MAGIC ITEM
+Slot: WRIST
+AC: 4
+STR: +3 WIS: +5
+WT: 2.3 Size: SMALL
+Class: ALL
+Race: ALLFocus Effect: Reagent Conservation III
+, FleshripperFleshripper
+Lore Equipped, No Trade, Quest
+Slot: PRIMARY
+Skill: 2H Slashing Atk Delay: 42
+DMG: 20
+Effect: Word of Shadow (Combat, Casting Time: Instant) at Level 35
+WT: 11.0 Size: LARGE
+Class: WAR SHD BER
+Race: ALL
+|
+He spawns beside two solusek kobolds near the other ledges where kobold champion and kobold priest spawn.
+... |
 A lava guardian
 |
 Elemental |
@@ -873,32 +899,6 @@ Shaman |
 9% @ (-549, -362), 9% @ (-587, -303) |
 Various |
 Description needed. |
-Solusek kobold king
-|
-Kobold |
-Shadow Knight |
-42 |
-50% @ (-549, -362) |
-Runed Mithril BracerRuned Mithril Bracer
-MAGIC ITEM
-Slot: WRIST
-AC: 4
-STR: +3 WIS: +5
-WT: 2.3 Size: SMALL
-Class: ALL
-Race: ALLFocus Effect: Reagent Conservation III
-, FleshripperFleshripper
-Lore Equipped, No Trade, Quest
-Slot: PRIMARY
-Skill: 2H Slashing Atk Delay: 42
-DMG: 20
-Effect: Word of Shadow (Combat, Casting Time: Instant) at Level 35
-WT: 11.0 Size: LARGE
-Class: WAR SHD BER
-Race: ALL
-|
-He spawns beside two solusek kobolds near the other ledges where kobold champion and kobold priest spawn.
-... |
 Sonic bat
 |
 Giant Bat |
@@ -1854,13 +1854,13 @@ Nagafen's Lair
 Solo vs. Multiplayer
 When creating the raid instance, players can choose between solo and multiplayer instances. These instances share lockouts, so players cannot do both in the same week and receive full loot.
 Trash mobs and boss placement also differ between the two versions. Multiplayer will have additional trash mobs, and Magus Roykl will move from the stairwell outside of Nagafens room to inside the room with Nagafen. It can be advised to have a character with feign death in order to pull Magus Roykl without also pulling Nagafen.
-Retrieved from "https://eqlwiki.com/index.php?title=Nagafen%27s_Lair&oldid=177854"
+Retrieved from "https://eqlwiki.com/index.php?title=Nagafen%27s_Lair&oldid=179111"
 Categories: Classic Era
 Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 10 September 2026, at 17:07.
+This page was last edited on 21 September 2026, at 21:19.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

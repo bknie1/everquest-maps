@@ -1,5 +1,5 @@
 # Plane_of_Hate (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-09-22
 
 Plane of Hate - EverQuest Legends Wiki
 Jump to content
@@ -2429,18 +2429,18 @@ Innoruuk |
 Wrist |
 AC: 10 STR: +10 CHA: +10 WIS: +10 SV FIRE: +15 SV COLD: +15 WT: 1.0 Size: SMALL Class: WAR RNG DRU BRD ROG Race: ALL |
 IcebeltIcebelt
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade
 Slot: WAIST
 AC: 10
 STR: +10 DEX: +10 WIS: +10 AGI: +10
-SV FIRE: +5 SV DISEASE: +5 SV COLD: +5 SV MAGIC: +5 SV POISON: +5
+SV MAGIC: +5 SV FIRE: +5 SV COLD: +5 SV DISEASE: +5 SV POISON: +5
 WT: 2.0 Size: SMALL
-Class: WAR ROG SHM
+Class: WAR ROG SHM BST BER
 Race: ALL
 |
 Innoruuk |
 Waist |
-AC: 10 STR: +10 DEX: +10 WIS: +10 AGI: +10 SV FIRE: +5 SV DISEASE: +5 SV COLD: +5 SV MAGIC: +5 SV POISON: +5 WT: 2.0 Size: SMALL Class: WAR ROG SHM Race: ALL |
+AC: 10 STR: +10 DEX: +10 WIS: +10 AGI: +10 SV MAGIC: +5 SV FIRE: +5 SV COLD: +5 SV DISEASE: +5 SV POISON: +5 WT: 2.0 Size: SMALL Class: WAR ROG SHM BST BER Race: ALL |
 Imbrued Platemail BootsImbrued Platemail Boots
 Lore Equipped, No Trade, Quest
 Slot: FEET
@@ -4551,13 +4551,13 @@ WT: 1.0 Size: SMALL
 Class: WAR RNG DRU BRD ROG
 Race: ALL
 , IcebeltIcebelt
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade
 Slot: WAIST
 AC: 10
 STR: +10 DEX: +10 WIS: +10 AGI: +10
-SV FIRE: +5 SV DISEASE: +5 SV COLD: +5 SV MAGIC: +5 SV POISON: +5
+SV MAGIC: +5 SV FIRE: +5 SV COLD: +5 SV DISEASE: +5 SV POISON: +5
 WT: 2.0 Size: SMALL
-Class: WAR ROG SHM
+Class: WAR ROG SHM BST BER
 Race: ALL
 , Leatherfoot SandalsLeatherfoot Sandals
 Lore Equipped, No Trade
