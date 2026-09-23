@@ -1,5 +1,5 @@
 # Western_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-09-23
 
 Western Karana - EverQuest Legends Wiki
 Jump to content
@@ -310,12 +310,20 @@ North Qeynos |
 Crow, a giant spider |
 Hollow Skull Quest
 |
-? |
+Jeweled SkullJeweled Skull
+Lore Equipped, Attunable, Quest
+Slot: PRIMARY SECONDARY
+INT: +5 HP: +20 MANA: +20
+SV COLD: -5 SV MAGIC: +5
+WT: 1.5 Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: ALL
 |
-|
-|
-|
-|
+Yiz Pon |
+25 |
+Enchanter, Magician, Necromancer, Wizard |
+Splitpaw Lair, Innothule Swamp, Southern Karana, West Freeport |
+Hyrill Pon, Kurrpok Splitpaw, Lynuga, a Splitpaw assassin |
 McMannus Revenge
 |
 McMannus Clan DaggerMcMannus Clan Dagger
@@ -542,10 +550,10 @@ Gnoll |
 Warrior |
 15 |
 1067, -15394 |
-Hollow SkullHollow Skull
-LORE ITEM NO DROP
+Hollow Skull (Skull of Wun Toque)Hollow Skull (Skull of Wun Toque)
+Quest
 WT: 1.0 Weight Reduction: 0%
-Capacity: 4 Size Capacity: MEDIUM
+Capacity: 2 Size Capacity: TINY
 |
 Spawned by dialogue with Yiz Pon and attacks him. Can be continuously respawned as long as Yiz Pon lives. More than ... |
 A Treant
@@ -1863,7 +1871,7 @@ Wizard |
 5 |
 100% @ (1341, -15076) |
 None |
-He stops for quite a while at the following location. -568, -14726. Near a small cross roads next to a tree. |
+Spawns in the far northeast corner of Western Plains of Karana. Can be found anywhere in the northeast quadrant of t... |
 Items - Found 39 items that drop in Western Plains of Karana:
 Item Name | Drops From | Slot | Stats |
 A Strategic Map of KithicorA Strategic Map of Kithicor

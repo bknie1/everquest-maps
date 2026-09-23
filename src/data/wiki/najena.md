@@ -1,5 +1,5 @@
 # Najena (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-09-23
 
 Najena - EverQuest Legends Wiki
 Jump to content
@@ -1045,6 +1045,8 @@ A Stein
 A Shovel
 A Broom
 Torn Page of Mastery Fire
+Torn Page of Mastery Water
+Torn Page of Mastery Earth
 |
 This highelf is a prisoner of Najena, found in the basement. Her primary faction may be Keepers of the Art.
 If you ... |

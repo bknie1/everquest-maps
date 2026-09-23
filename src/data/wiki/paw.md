@@ -1,5 +1,5 @@
 # Splitpaw_Lair (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-09-23
 
 Splitpaw Lair - EverQuest Legends Wiki
 Jump to content
@@ -729,7 +729,7 @@ Size: LARGE WT: 11.0
 Class: CLR DRU SHM NEC WIZ MAG ENC BST BER
 Race: ALL
 |
-Spawns next to Verishe Mal Executioner, who will immediately kill him. |
+Spawns next to Verishe Mal Executioner, who will immediately kill him. Can also spawn wandering in [[Southern Karana... |
 Nisch Val Torash Mashk
 |
 Gnoll |

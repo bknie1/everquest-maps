@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-09-23
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -1618,7 +1618,7 @@ Wind Rune Meda
 Griffon Talon (3-Gorga)
 |
 Dark Cloak of the SkyDark Cloak of the Sky
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade
 Slot: BACK
 AC: 6
 STR: +7 DEX: +7 WIS: +7 AGI: +7 HP: +55
@@ -1694,7 +1694,7 @@ Circlet of Brambles (7-SotS)
 Efreeti Long Sword
 |
 WindstrikerWindstriker
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade, Placeable
 Slot: RANGE
 Skill: Archery Atk Delay: 60
 DMG: 45
@@ -2032,7 +2032,7 @@ Wind Rune Beza
 Light Damask Mantle (5-SL)
 |
 Warhammer of the WindWarhammer of the Wind
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade, Placeable
 Slot: PRIMARY
 Skill: 1H Blunt Atk Delay: 24
 DMG: 12

@@ -1,5 +1,5 @@
 # Plane_of_Hate (eqlwiki.com)
-fetched: 2026-09-22
+fetched: 2026-09-23
 
 Plane of Hate - EverQuest Legends Wiki
 Jump to content
@@ -543,7 +543,7 @@ Various, Imbrued Platemail Armor
 |
 Alternate Maps
 What's in this zone?
-NPCs - Found 49 NPCs that spawn in Plane of Hate:
+NPCs - Found 50 NPCs that spawn in Plane of Hate:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Champion of Innoruuk
 |
@@ -612,6 +612,15 @@ Shadow Knight |
 100% @ (104, 255) level 2 |
 None |
 These emissaries are KOS to ALL, even ogre shadowknights. |
+A Greenmist Diplomat
+|
+Iksar |
+Shadowknight |
+55 |
+(130, 291, 147) Level 2 |
+None |
+KOS to all players regardless of faction.
+Counts as an Iksar for the 'I'm a People Person' achievement. |
 A Hatebone Drake
 |
 Dragon Skeleton |

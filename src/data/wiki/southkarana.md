@@ -1,5 +1,5 @@
 # Southern_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-09-23
 
 Southern Karana - EverQuest Legends Wiki
 Jump to content
@@ -375,7 +375,7 @@ Vhalen Nostrolo |
 All |
 Northern Karana |
 Cordelia Minster, a hermit |
-NPCs - Found 73 NPCs that spawn in Southern Karana:
+NPCs - Found 74 NPCs that spawn in Southern Karana:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Cyclops
 |
@@ -1154,6 +1154,35 @@ WT: 0.4 Weight Reduction: 33%
 Capacity: 4 Size Capacity: MEDIUM
 |
 centaur foal and centaur archer is a place holder. Respawn Time 6 min (confirmed). Kroldir or his place holde... |
+Kurrpok Splitpaw
+|
+Gnoll |
+Shaman |
+25 |
+100% @ (1184, 113) |
+Bottle of KalishBottle of Kalish
+Quest
+Size: SMALL WT: 0.3
+Class: ALL
+Race: ALL
+, Ruby PendantRuby Pendant
+Lore Equipped, Attunable, Quest
+Slot: NECK
+INT: +1
+WT: 0.1 Size: TINY
+Class: ALL
+Race: ALL
+, Runed Totem StaffRuned Totem Staff
+Lore Equipped, Attunable, Quest, Placeable
+Slot: PRIMARY
+Skill: 2H Blunt Atk Delay: 37
+DMG: 9
+HP: +5 MANA: +5 END: +5
+Size: LARGE WT: 11.0
+Class: CLR DRU SHM NEC WIZ MAG ENC BST BER
+Race: ALL
+|
+Spawns next to Verishe Mal Executioner, who will immediately kill him. Can also spawn wandering in [[Southern Karana... |
 Lord Grimrot
 |
 Human |
