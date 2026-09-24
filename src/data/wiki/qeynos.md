@@ -1,5 +1,5 @@
 # Qeynos (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-09-24
 
 Qeynos - EverQuest Legends Wiki
 Jump to content
@@ -2898,7 +2898,7 @@ Tomer Instogle |
 All |
 None |
 Seta Bakindo |
-NPCs - Found 117 NPCs that spawn in North Qeynos:
+NPCs - Found 118 NPCs that spawn in North Qeynos:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Decaying Skeleton
 |
@@ -4020,6 +4020,14 @@ Merchant |
 (132, 243) inside Galliway's Trading Post, #5 on North Qeynos Map. |
 |
 Located inside of Sneed Galliway's Trading post across from the Priest of Discord. |
+Stable Hand Kaye
+|
+Human |
+Merchant |
+35 |
+201, 572 |
+|
+Qeynos' stable hand who sells horse bridles (mounts) in four materials (speeds) — rope, leather, silken, and chain —... |
 Suuspa Clanim
 |
 Human |

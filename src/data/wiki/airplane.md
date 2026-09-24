@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-09-23
+fetched: 2026-09-24
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -105,7 +105,7 @@ Dungeon Crawls
 4.9
 Island 6: Bee Island
 4.9.1
-Finding the Queen Bee
+Separating the Bees
 4.9.2
 Dungeon Crawls
 4.10
@@ -372,17 +372,19 @@ Common: Bzzazzt
 Other: Bazzzazzt, Bizazzt, Bzzzt a.k.a. Mini-Queen
 Key required: Key of the Swarm
 Key dropped: Key of Scale
-Bees do not see invis, but they social and have very large aggro radiuses (probably the whole island will aggro you at once).
+Bees do not see invis, but they social and have very large aggro radiuses. If you teleport to the island without invis, all three bees will aggro you at once.
 The three original bees are all named "Bzzazzt". Only the final boss will drop the Key of Scale you need to progress to the next island. They are easily mezzed, slowed, or stunned. Like the soul carriers back on Pegasus island, they can split into multiple mobs when killed. All of the bees and their split spawns hit very hard and very fast. They also proc poison dots (about 100hp/tick) which aren't life threatening but significant if not cured for awhile.
-Each original spawn will either spawn 1, 2, or 3 Bazzzazzts:
-If you get a 3-split, then those 3 Bazzzazzts are each final and will not spawn any more mobs. You will not get the boss from this pull.
-If you get a 2-split, both of those Bazzzazzts will spawn a single Bizazzt. Both Bizazzts are final and won't spawn anything else. You will also not get the boss from this pull.
-If you only have a 1-split of a single Bazzzazzt, then you are on the chain of splits that results in the boss of the island, Bazzt Zzzt. Your single Bazzzazzt upon death will spawn Bzzzt, the mini-queen. Mini-queen's death leads to Bazzt Zzzt, the queen bee and boss of the island.
-The mini-queen is at least as hard as the rest of the bees and also casts a nasty dot as well.
-The boss, Bazzt Zzzt, is a particularly nasty bixie that will drop the key to the next island. If you wipe, be aware that queen bee will return to where she spawned, the location of Bzzzt's death, so kill him somewhere besides the port-in spot for sure. Like other bees she has a very large aggro radius. Dealing with several fights in a row can be quite taxing. If you are a class that can feign death or evacuate/succor, you can take the opportunity to take a breath and wait for some of your resources to regenerate - however, she will pretty much sit right you spawned her from killing the previous bee.
-Finding the Queen Bee
-If you go over to Island 6 without invisibility, the bees will agro you immediately. However, if you invs over, you can identify the bee that spawns the queen because her spawn is always in the middle of the island a little further back and between the other two bees. With a combination of lull and feign death it's possible to lull the other bees, pull the main bee to the back of the island and safely fight her without bothering with the other bees at all.
-Additionally, the queen Bzzazzt is larger than the other two, and immune to Charm. So if you can mez, you could mez them, identify the queen, kill them, and then memblur the other two and head to the far back side of the island to recuperate outside of their agro range.
+Each original bee will either spawn 1, 2, or 3 Bazzzazzts:
+Center bee (largest): Spawns one Bazzzazzt, starting the chain that results in the island boss. This Bazzzazzt will then spawn Bzzzt, the mini-queen. The mini-queen's death leads to Bazzt Zzzt, the boss of the island.
+East bee: Splits into 3 Bazzzazzts which will not spawn any more mobs.
+West bee: Splits into 2 Bazzzazzts, each of which will spawn a single Bizazzt. Both Bizazzts are final and won't spawn anything else.
+The mini-queen is stronger than the earlier bees and also casts a nasty DoT.
+The boss, Bazzt Zzzt, is a particularly nasty bixie that will drop the key to the next island. If you wipe, be aware that queen bee will return to where she spawned, the location of Bzzzt's death, so kill her somewhere besides the port-in spot for sure. Like other bees, she has a very large aggro radius. Dealing with several fights in a row can be quite taxing. If you are a class that can feign death or evacuate/succor, you can take the opportunity to take a breath and wait for some of your resources to regenerate.
+Separating the Bees
+The south end of the island behind the giant gear is outside the aggro range of all three bees, so that's usually where you'll want to set up to begin pulling.
+The original 3 bees will always return back to their starting position when combat ends. However, the spawned bees will instead return to the point that they first spawned. Try to kill each starting bee outside the aggro range of the remaining bees, so they can be fought separately if you die or feign death.
+The bees are normally difficult to Lull because their aggro radius is larger than the spell's range. With feign death you can lull all three, wait for them to exit combat, and then pull the boss individually. Alternately you can acquire the Cryosilk Sash for its Extended Range III exaltation, allowing you to lull the bees from a safe distance.
+The queen Bzzazzt is larger than the other two, and immune to Charm. So if you can mez, you could mez the group, identify the queen, kill them, and then memblur the other two and head to the far back side of the island to recuperate outside of their agro range.
 Dungeon Crawls
 Technically this island can be skipped - though the Queen Bee drops some of the most sought after quest items, so you'll likely want to kill her. Killing the other two bees are a giant pain, and best avoided if possible. If you don't need anything from this island, just skip on ahead.
 Island 7: Drake Island
@@ -1353,7 +1355,7 @@ Wind Rune Beza
 Silken Wrap (6-BZ)
 |
 Wu's Fist of MasteryWu's Fist of Mastery
-MAGIC ITEM NO DROP
+No Trade, Placeable
 Slot: PRIMARY SECONDARY
 Skill: Hand to Hand Atk Delay: 22
 DMG: 16
@@ -1813,7 +1815,7 @@ Fine Wool Cloak (6-BZ)
 |
 ThornstingerThornstinger
 MAGIC ITEM LORE ITEM NO DROP
-Slot: PRIMARY
+Slot: PRIMARY SECONDARY
 Skill: Piercing Atk Delay: 19
 DMG: 12BACKSTAB: 12
 STR: +5 DEX: +5 AGI: +5 HP: +50
@@ -5902,14 +5904,14 @@ Sister of the Spire |
 Fingers |
 MANA: +10 SV FIRE: +5 SV DISEASE: +5 SV COLD: +5 WT: 5.0 Size: MEDIUM Class: SHM Race: ALL |
 Spiroc Air TotemSpiroc Air Totem
-LORE ITEM NO DROP
+No Trade, Quest
 WT: 0.1 Size: SMALL
-Class: ALL
+Class: WAR
 Race: ALL
 |
 The Spiroc Lord |
 (None) |
-LORE ITEM NO DROP WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+No Trade, Quest WT: 0.1 Size: SMALL Class: WAR Race: ALL |
 Spiroc Battle StaffSpiroc Battle Staff
 Lore Equipped, No Trade, Quest, Placeable
 Slot: Primary
@@ -6364,12 +6366,12 @@ Race: ALL
 Protector of Sky |
 (None) |
 LORE ITEM WT: 6.0 Size: MEDIUM Class: ALL Race: ALL |
-Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Sky&oldid=178897"
+Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Sky&oldid=179233"
 Categories: Classic Era
 Zones
 How to Contribute
 Donate
-This page was last edited on 19 September 2026, at 10:14.
+This page was last edited on 23 September 2026, at 14:53.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

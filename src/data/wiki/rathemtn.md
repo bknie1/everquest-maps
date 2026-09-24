@@ -1,5 +1,5 @@
 # Rathe_Mountains (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-09-24
 
 Rathe Mountains - EverQuest Legends Wiki
 Jump to content
@@ -1619,7 +1619,7 @@ Merchant |
 60 |
 -2232, 588 |
 |
-Rathe Mountain's stable hand, who sells Drogmor Mounts. |
+Rathe Mountain's stable hand who sells Drogmor mounts. |
 Sugal the Fist
 |
 Froglok |
