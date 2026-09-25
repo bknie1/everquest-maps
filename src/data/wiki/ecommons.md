@@ -1,5 +1,5 @@
 # East_Commonlands (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-09-25
 
 East Commonlands - EverQuest Legends Wiki
 Jump to content
@@ -295,7 +295,7 @@ Spider SilkSpider Silk
 WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
-, A Spider Venom SacA Spider Venom Sac
+, Spider Venom SacSpider Venom Sac
 QUEST ITEM
 WT: 0.2 Size: SMALL
 Class: ALL

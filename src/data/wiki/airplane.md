@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-09-24
+fetched: 2026-09-25
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -3502,7 +3502,7 @@ Warrior |
 |
 None |
 This is the quest NPC for Wizard Plane of Sky Tests turn ins. |
-Items - Found 272 items that drop in Plane of Sky:
+Items - Found 274 items that drop in Plane of Sky:
 Item Name | Drops From | Slot | Stats |
 Acidic VenomAcidic Venom
 LORE ITEM
@@ -3561,13 +3561,25 @@ Lore Equipped, No Trade, Quest
 Slot: Neck
 AC: 2
 STR: 3 STA: 3
-WT: 0.1 Size: MEDIUM
+Size: MEDIUM WT: 0.1
 Class: WIZ
 Race: ALL
 |
 Sister of the Spire |
 Neck |
-AC: 2 STR: 3 STA: 3 WT: 0.1 Size: MEDIUM Class: WIZ Race: ALL |
+AC: 2 STR: 3 STA: 3 Size: MEDIUM WT: 0.1 Class: WIZ Race: ALL |
+Amulet of Woven HairAmulet of Woven Hair
+Lore Equipped, No Trade, Quest
+Slot: Neck
+AC: 2
+CHA: 4
+WT: 0.2 Size: SMALL
+Class: BRD
+Race: ALL
+|
+None? |
+Neck |
+AC: 2 CHA: 4 WT: 0.2 Size: SMALL Class: BRD Race: ALL |dropsfrom = Plane of Sky* Bazzt Zzzt |
 Amulet of the VoidAmulet of the Void
 MAGIC ITEM LORE ITEM NO DROP
 Slot: NECK
@@ -4294,6 +4306,18 @@ Race: ALL
 Sister of the Spire |
 1H Slashing |
 Atk Delay: 24 DMG: 10 Dmg Bon: 11 WT: 2.0 Size: MEDIUM Class: WAR BER Race: ALL |
+Dove SlippersDove Slippers
+Lore Equipped, No Trade, Quest
+Slot: Feet
+AC: 2
+DEX: +3 AGI: +3
+WT: 0.2 Size: SMALL
+Class: MNK
+Race: ALL
+|
+None? |
+Feet |
+AC: 2 DEX: +3 AGI: +3 WT: 0.2 Size: SMALL Class: MNK Race: ALL |
 Dragon-hide MantleDragon-hide Mantle
 MAGIC ITEM LORE ITEM
 Slot: SHOULDERS

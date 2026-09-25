@@ -1,5 +1,5 @@
 # The_Warrens (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-09-25
 
 The Warrens - EverQuest Legends Wiki
 Jump to content
@@ -575,7 +575,7 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , Giant Bat FurGiant Bat Fur
-QUEST ITEM
+Quest
 WT: 0.5 Size: MEDIUM
 Class: ALL
 Race: ALL
@@ -631,7 +631,7 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , Giant Bat FurGiant Bat Fur
-QUEST ITEM
+Quest
 WT: 0.5 Size: MEDIUM
 Class: ALL
 Race: ALL

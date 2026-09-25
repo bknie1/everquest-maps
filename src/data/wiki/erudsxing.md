@@ -1,5 +1,5 @@
 # Erud's_Crossing (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-09-25
 
 Erud's Crossing - EverQuest Legends Wiki
 Jump to content
@@ -266,7 +266,7 @@ QUEST ITEM
 WT: 0.5 Size: SMALL
 Class: ALL
 Race: ALL
-, A Spider Venom SacA Spider Venom Sac
+, Spider Venom SacSpider Venom Sac
 QUEST ITEM
 WT: 0.2 Size: SMALL
 Class: ALL
@@ -336,7 +336,7 @@ WT: 0.8 Size: SMALL
 Class: ALL
 Race: ALL
 , Giant Bat FurGiant Bat Fur
-QUEST ITEM
+Quest
 WT: 0.5 Size: MEDIUM
 Class: ALL
 Race: ALL

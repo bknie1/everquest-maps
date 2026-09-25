@@ -1,5 +1,5 @@
 # Nagafen's_Lair (eqlwiki.com)
-fetched: 2026-09-22
+fetched: 2026-09-25
 
 Nagafen's Lair - EverQuest Legends Wiki
 Jump to content
@@ -906,7 +906,7 @@ Warrior |
 38-42 |
 50% @ (-677, -218), (-655, -144), (-698, -237), (-751, -208), (-688, -30), (-652, -62) |
 Giant Bat FurGiant Bat Fur
-QUEST ITEM
+Quest
 WT: 0.5 Size: MEDIUM
 Class: ALL
 Race: ALL

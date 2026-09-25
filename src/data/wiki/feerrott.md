@@ -1,5 +1,5 @@
 # The_Feerrott (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-09-25
 
 The Feerrott - EverQuest Legends Wiki
 Jump to content
@@ -268,7 +268,7 @@ Size: SMALL
 Class: ALL
 Race: ALL
 , Giant Bat FurGiant Bat Fur
-QUEST ITEM
+Quest
 WT: 0.5 Size: MEDIUM
 Class: ALL
 Race: ALL
