@@ -1,5 +1,5 @@
 # Lower_Guk (eqlwiki.com)
-fetched: 2026-09-25
+fetched: 2026-09-26
 
 Lower Guk - EverQuest Legends Wiki
 Jump to content
@@ -2793,14 +2793,14 @@ a ghoul supplier |
 Waist |
 AC: 8 STR: +15 Size: SMALL WT: 0.5 Class: ALL Race: ALL |
 Torn Page of Magi`kot pg. 1Torn Page of Magi`kot pg. 1
-LORE ITEM NO DROP
+No Trade, Quest
 WT: 0.0 Size: TINY
 Class: NONE
 Race: NONE
 |
 None? |
 (None) |
-LORE ITEM NO DROP WT: 0.0 Size: TINY Class: NONE Race: NONE |
+No Trade, Quest WT: 0.0 Size: TINY Class: NONE Race: NONE |
 Torn Page of Magi`kot pg. 2Torn Page of Magi`kot pg. 2
 No Trade, Quest
 Size: TINY WT: 0.0

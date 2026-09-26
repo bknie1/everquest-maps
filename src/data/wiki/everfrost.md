@@ -1,5 +1,5 @@
 # Everfrost_Peaks (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-09-26
 
 Everfrost Peaks - EverQuest Legends Wiki
 Jump to content
@@ -270,7 +270,7 @@ Werewolf Skin Cloak Quest
 |
 |
 |
-NPCs - Found 66 NPCs that spawn in Everfrost Peaks:
+NPCs - Found 65 NPCs that spawn in Everfrost Peaks:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Decaying Skeleton
 |
@@ -975,28 +975,6 @@ Merchant |
 (2871, -3431) |
 |
 Shaman spells vendor in Everfrost Peaks. |
-Sulgar
-|
-Human |
-Wizard |
-50 |
-100% @ (3032, -2395) |
-Robe of the EvokerRobe of the Evoker
-MAGIC ITEM LORE ITEM
-Slot: CHEST
-AC: 6
-WT: 1.0 Size: MEDIUM
-Class: NEC WIZ MAG ENC
-Race: ALL
-, Human BloodHuman Blood
-MAGIC ITEM QUEST ITEM
-WT: 0.1 Size: TINY
-Class: ALL
-Race: ALL
-|
-He is located in the north of the zone next to Trankia and Ristia.
-Attack dialogue:
-Sulgar says, 'I put a curs... |
 Sulon McMoor
 |
 Human |

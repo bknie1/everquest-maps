@@ -1,5 +1,5 @@
 # Kithicor_Forest (eqlwiki.com)
-fetched: 2026-09-25
+fetched: 2026-09-26
 
 Kithicor Forest - EverQuest Legends Wiki
 Jump to content
@@ -1136,11 +1136,11 @@ Warrior |
 40 |
 Everywhere |
 Torn Page of Magi`kot pg. 1Torn Page of Magi`kot pg. 1
-LORE ITEM NO DROP
+No Trade, Quest
 WT: 0.0 Size: TINY
 Class: NONE
 Race: NONE
-, Dreadskin CloakDreadskin Cloak
+(Common), Dreadskin CloakDreadskin Cloak
 MAGIC ITEM LORE ITEM
 Slot: BACK
 AC: 6
@@ -1149,7 +1149,7 @@ SV FIRE: +5
 WT: 3.5 Size: MEDIUM
 Class: RNG DRU
 Race: ALL
-|
+(Uncommon) |
 Spawns at night, there can be more than one up at a time. These are severe undercons, and either have increased regen or... |
 Fallen advisor
 |
@@ -2273,14 +2273,14 @@ Decaying Swordsman |
 2H Slashing |
 Atk Delay: 42 DMG: 20 STR: +6 SV DISEASE: -5 WT: 8.5 Size: MEDIUM Class: WAR PAL RNG SHD Race: ALL |
 Torn Page of Magi`kot pg. 1Torn Page of Magi`kot pg. 1
-LORE ITEM NO DROP
+No Trade, Quest
 WT: 0.0 Size: TINY
 Class: NONE
 Race: NONE
 |
-Dread Wolf, dreaded wolf, enraged dread wolf |
+dread wolf, dreaded wolf, enraged dread wolf |
 (None) |
-LORE ITEM NO DROP WT: 0.0 Size: TINY Class: NONE Race: NONE |
+No Trade, Quest WT: 0.0 Size: TINY Class: NONE Race: NONE |
 Unusual Tiger PeltUnusual Tiger Pelt
 LORE ITEM NO DROP QUEST ITEM
 WT: 3.5 Size: LARGE

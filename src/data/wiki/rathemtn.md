@@ -1,5 +1,5 @@
 # Rathe_Mountains (eqlwiki.com)
-fetched: 2026-09-24
+fetched: 2026-09-26
 
 Rathe Mountains - EverQuest Legends Wiki
 Jump to content
@@ -1617,7 +1617,7 @@ Stablehand Fleeb
 Froglok |
 Merchant |
 60 |
--2232, 588 |
+-2244, 589 |
 |
 Rathe Mountain's stable hand who sells Drogmor mounts. |
 Sugal the Fist

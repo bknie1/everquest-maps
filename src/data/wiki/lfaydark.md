@@ -1,5 +1,5 @@
 # Lesser_Faydark (eqlwiki.com)
-fetched: 2026-09-25
+fetched: 2026-09-26
 
 Lesser Faydark - EverQuest Legends Wiki
 Jump to content
@@ -1123,9 +1123,10 @@ Whimsy Larktwitter
 Pixie |
 Rogue |
 16 |
-Roams - ran into her @ (1448, 1193) |
+Roams - ran into her @ (1448, 1193)
+also -330, -1060 (loitering at the end of the road), then another time freshly spawned moving due west from this area immediately after brownie scouts were killed. |
 Various |
-PH is a Pixie or Pixie Prankster. Camping and killing the PH will cause faction hits. Only seen o... |
+PH is a Pixie or Pixie Prankster. Camping and killing the PH will cause faction hits. Bow and arr... |
 Ytharisth Nerishar
 |
 ? |

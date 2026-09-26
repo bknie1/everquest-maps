@@ -1,5 +1,5 @@
 # Rivervale (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-09-26
 
 Rivervale - EverQuest Legends Wiki
 Jump to content
@@ -199,8 +199,8 @@ Healing, Cure Poison, or Cure Disease |
 Hendi Mrubble |
 1 |
 All |
-|
-|
+Rivervale, Misty Thicket, Kithicor Forest, West Commonlands |
+a large piranha, a bixie, a bixie drone, a bixie queen |
 Honey Jum Quest
 |
 Honey JumHoney Jum
@@ -565,7 +565,7 @@ WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
 , Piranha ToothPiranha Tooth
-NO DROP
+No Trade, Quest
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
@@ -2127,14 +2127,14 @@ Nillipuss |
 (None) |
 This is a snack. WT: 0.6 Size: SMALL Class: ALL Race: ALL |
 Piranha ToothPiranha Tooth
-NO DROP
+No Trade, Quest
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 |
-a large piranha (?) |
+a large piranha (4-6) |
 (None) |
-NO DROP WT: 0.1 Size: TINY Class: ALL Race: ALL |
+No Trade, Quest WT: 0.1 Size: TINY Class: ALL Race: ALL |
 Runners RingRunners Ring
 MAGIC ITEM
 Slot: FINGER

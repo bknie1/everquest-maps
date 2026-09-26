@@ -1,5 +1,5 @@
 # Qeynos_Catacombs (eqlwiki.com)
-fetched: 2026-09-25
+fetched: 2026-09-26
 
 Qeynos Aqueducts - EverQuest Legends Wiki
 Jump to content
@@ -627,7 +627,7 @@ WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
 , Piranha ToothPiranha Tooth
-NO DROP
+No Trade, Quest
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL

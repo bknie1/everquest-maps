@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-09-25
+fetched: 2026-09-26
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -2073,7 +2073,7 @@ Bixie Essence (6)
 Spiritualist`s Ring (7-SotS)
 |
 GardukGarduk
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade, Placeable
 Slot: PRIMARY
 Skill: Piercing Atk Delay: 40
 DMG: 23
@@ -3502,7 +3502,7 @@ Warrior |
 |
 None |
 This is the quest NPC for Wizard Plane of Sky Tests turn ins. |
-Items - Found 274 items that drop in Plane of Sky:
+Items - Found 276 items that drop in Plane of Sky:
 Item Name | Drops From | Slot | Stats |
 Acidic VenomAcidic Venom
 LORE ITEM
@@ -4718,6 +4718,18 @@ Race: ALL
 Bazzzazzt, Bizazzzt, Bzzzt |
 (None) |
 LORE ITEM WT: 1.0 Size: MEDIUM Class: ALL Race: ALL |
+Fae PauldronsFae Pauldrons
+Lore Equipped, No Trade, Quest
+Slot: SHOULDERS
+AC: 8
+STR: +4 DEX: +4
+WT: 2.0 Size: MEDIUM
+Class: SHD
+Race: ALL
+|
+Eye of Veeshan |
+Shoulders |
+AC: 8 STR: +4 DEX: +4 WT: 2.0 Size: MEDIUM Class: SHD Race: ALL |
 Faintly Glowing DiamondFaintly Glowing Diamond
 LORE ITEM
 WT: 18.0 Size: LARGE
@@ -5266,6 +5278,15 @@ Race: ALL
 Noble Dojorn, Overseer of Air, The Hand of Veeshan |
 (None) |
 LORE ITEM WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+Large Sky SapphireLarge Sky Sapphire
+No Trade, Quest
+WT: 15.0 Size: LARGE
+Class: ENC
+Race: ALL
+|
+None? |
+(None) |
+No Trade, Quest WT: 15.0 Size: LARGE Class: ENC Race: ALL |
 Light Cloth MantleLight Cloth Mantle
 Lore Equipped, Attunable, Quest
 Slot: Shoulders

@@ -1,5 +1,5 @@
 # Nektulos_Forest (eqlwiki.com)
-fetched: 2026-09-25
+fetched: 2026-09-26
 
 Nektulos Forest - EverQuest Legends Wiki
 Jump to content
@@ -1405,14 +1405,14 @@ a rotting citizen |
 (None) |
 MAGIC ITEM LORE ITEM NO DROP WT: 0.5 Size: TINY Class: ALL Race: ALL |
 Piranha ToothPiranha Tooth
-NO DROP
+No Trade, Quest
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 |
 a darkwater piranha (?) |
 (None) |
-NO DROP WT: 0.1 Size: TINY Class: ALL Race: ALL |
+No Trade, Quest WT: 0.1 Size: TINY Class: ALL Race: ALL |
 Raw Darkwater PiranhaRaw Darkwater Piranha
 LORE ITEM NO DROP
 WT: 0.1 Size: TINY
