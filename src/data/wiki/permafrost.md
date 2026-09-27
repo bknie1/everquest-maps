@@ -1,5 +1,5 @@
 # Permafrost_Keep (eqlwiki.com)
-fetched: 2026-09-25
+fetched: 2026-09-27
 
 Permafrost - EverQuest Legends Wiki
 Jump to content
@@ -594,8 +594,8 @@ Warrior |
 43-47 |
 |
 Bear MeatBear Meat
-QUEST ITEM
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Giant Polar Bear SkinGiant Polar Bear Skin
@@ -893,8 +893,8 @@ WT: 7.0 Size: LARGE
 Class: SHM
 Race: ALL
 , Bear MeatBear Meat
-QUEST ITEM
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 |

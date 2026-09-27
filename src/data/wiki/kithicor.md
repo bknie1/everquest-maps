@@ -1,5 +1,5 @@
 # Kithicor_Forest (eqlwiki.com)
-fetched: 2026-09-26
+fetched: 2026-09-27
 
 Kithicor Forest - EverQuest Legends Wiki
 Jump to content
@@ -1695,8 +1695,8 @@ WT: 3.5 Size: LARGE
 Class: ALL
 Race: ALL
 , Bear MeatBear Meat
-QUEST ITEM
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 |

@@ -1,5 +1,5 @@
 # Rathe_Mountains (eqlwiki.com)
-fetched: 2026-09-26
+fetched: 2026-09-27
 
 Rathe Mountains - EverQuest Legends Wiki
 Jump to content
@@ -658,8 +658,8 @@ Class: ALL
 Race: ALL
 (Rare)
 Bear MeatBear Meat
-QUEST ITEM
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 (Rare)

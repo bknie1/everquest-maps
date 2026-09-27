@@ -1,5 +1,5 @@
 # Crushbone (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-09-27
 
 Crushbone - EverQuest Legends Wiki
 Jump to content
@@ -341,7 +341,7 @@ crushbone
 |
 Zone Spawn Timer:
 |
-9:00
+9:00 8:00
 |
 Succor/Evacuate:
 |
@@ -1641,13 +1641,13 @@ Race: ALL
 Ambassador DVinn |
 Feet |
 AC: 2 AGI: +2 DEX: +1 SV Fire: +2 SV Cold: +2 WT: 2.0 Size: SMALL Class: RNG DRU MNK ROG SHM NEC WIZ MAG ENC BST BER Race: ALL |
-Retrieved from "https://eqlwiki.com/index.php?title=Crushbone&oldid=175421"
+Retrieved from "https://eqlwiki.com/index.php?title=Crushbone&oldid=179637"
 Categories: Classic Era
 Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 1 September 2026, at 00:18.
+This page was last edited on 27 September 2026, at 06:59.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

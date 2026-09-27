@@ -1,5 +1,5 @@
 # East_Freeport (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-09-27
 
 Freeport - EverQuest Legends Wiki
 Jump to content
@@ -3309,7 +3309,7 @@ Tarker Gargurd
 |
 Freeport Guards |
 Merchant |
-45 |
+50 |
 (61, -890) |
 |
 General goods merchant, selling mostly "fish" goods. |

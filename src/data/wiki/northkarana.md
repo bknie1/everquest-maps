@@ -1,5 +1,5 @@
 # Northern_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-09-27
 
 Northern Plains of Karana - EverQuest Legends Wiki
 Jump to content
@@ -640,8 +640,8 @@ WT: 1.0 Size: SMALL
 Class: ALL
 Race: ALL
 , Bear MeatBear Meat
-QUEST ITEM
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Superb Bear HideSuperb Bear Hide

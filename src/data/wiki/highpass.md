@@ -1,5 +1,5 @@
 # Highpass_Hold (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-09-27
 
 Highpass Hold - EverQuest Legends Wiki
 Jump to content
@@ -193,8 +193,8 @@ Faction, Coin, Experience |
 Captain Ashlan |
 1+ (15-20) |
 All |
-None |
-an orc acolyte, |
+West Commonlands, Kithicor Forest, Misty Thicket |
+an orc acolyte, an orc berserker, an orc conscript, an orc fanatic, an orc medic, an orc mercenary, an orc soldier, an orc warrior |
 NPCs - Found 75 NPCs that spawn in Highpass Hold:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Dealer
@@ -721,6 +721,14 @@ Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 23
 DMG: 4
 Size: MEDIUM WT: 4.0
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+, Rusty Long SwordRusty Long Sword
+Attunable, Quest, Placeable
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing Atk Delay: 35
+DMG: 5
+Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |

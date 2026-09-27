@@ -1,5 +1,5 @@
 # West_Commonlands (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-09-27
 
 West Commonlands - EverQuest Legends Wiki
 Jump to content
@@ -765,7 +765,7 @@ Merchant |
 45 |
 (-279, 534) |
 |
-Description needed. |
+|
 Peron ThreadSpinner
 |
 Qeynos Citizen |

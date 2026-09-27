@@ -1,5 +1,5 @@
 # Qeynos_Hills (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-09-27
 
 Qeynos Hills - EverQuest Legends Wiki
 Jump to content
@@ -950,7 +950,7 @@ WT: 0.2 Size: SMALL
 Class: ALL
 Race: ALL
 |
-Found roaming near the cottage. Said to be one of the first NPCs to be added to the game. |
+Found roaming near the cottage. Said to be one of the first NPCs to be added to the game. Rumors of their [https://web.a... |
 Sir Edwin Motte
 |
 Human |

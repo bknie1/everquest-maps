@@ -1,5 +1,5 @@
 # Everfrost_Peaks (eqlwiki.com)
-fetched: 2026-09-26
+fetched: 2026-09-27
 
 Everfrost Peaks - EverQuest Legends Wiki
 Jump to content
@@ -337,7 +337,8 @@ Warrior |
 12 |
 100% @ (-1144, -5060), 100% @ (1252, -5909) |
 Mammoth MeatMammoth Meat
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Mammoth Calf HideMammoth Calf Hide
@@ -461,7 +462,8 @@ Warrior |
 10-14 |
 100% @ (-1144, -5060), 100% @ (1252, -5909) |
 Mammoth MeatMammoth Meat
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Mammoth Calf HideMammoth Calf Hide
@@ -1308,13 +1310,14 @@ a wooly mammoth calf |
 (None) |
 Quest WT: 8.0 Size: LARGE Class: ALL Race: ALL |
 Mammoth MeatMammoth Meat
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 |
 a mammoth calf, a wooly mammoth, a wooly mammoth calf |
 (None) |
-WT: 1.0 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 1.0 Class: ALL Race: ALL |
 Mammoth Rib BoneMammoth Rib Bone
 MAGIC ITEM LORE ITEM NO DROP
 WT: 11.0 Size: GIANT
