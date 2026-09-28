@@ -1,5 +1,5 @@
 # North_Ro (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-09-28
 
 The Northern Desert of Ro - EverQuest Legends Wiki
 Jump to content
@@ -599,7 +599,7 @@ Merchant |
 (2294, -790) |
 |
 Description needed. |
-Items - Found 32 items that drop in Northern Desert of Ro:
+Items - Found 33 items that drop in Northern Desert of Ro:
 Item Name | Drops From | Slot | Stats |
 Armadillo CarapaceArmadillo Carapace
 NO DROP
@@ -652,6 +652,14 @@ Race: ALL
 None? |
 (None) |
 WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Blackrock LichenBlackrock Lichen
+Size: TINY
+Class: WAR
+Race: ALL
+|
+a shriveled mummy |
+(None) |
+Size: TINY Class: WAR Race: ALL |
 Bronze AxeBronze Axe
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 33

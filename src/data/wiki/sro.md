@@ -1,5 +1,5 @@
 # South_Ro (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-09-28
 
 Southern Desert of Ro - EverQuest Legends Wiki
 Jump to content
@@ -1007,14 +1007,13 @@ an ancient cyclops (Southern Ro) |
 Wrist |
 AC: 6 INT: +5 WT: 2.0 Size: SMALL Class: ALL Race: ALL |
 Ro DatesRo Dates
-This is a meal.
-WT: 0.6 Size: SMALL
+Size: SMALL WT: 0.6
 Class: ALL
 Race: ALL
 |
 None? |
 (None) |
-This is a meal. WT: 0.6 Size: SMALL Class: ALL Race: ALL |
+Size: SMALL WT: 0.6 Class: ALL Race: ALL |
 Sand of RoSand of Ro
 WT: 0.1 Size: TINY
 Class: ALL

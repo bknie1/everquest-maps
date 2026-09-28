@@ -1,5 +1,5 @@
 # Lesser_Faydark (eqlwiki.com)
-fetched: 2026-09-26
+fetched: 2026-09-28
 
 Lesser Faydark - EverQuest Legends Wiki
 Jump to content
@@ -655,7 +655,7 @@ Warrior |
 (1585, 505), (866, 9)? |
 Unicorn HornUnicorn Horn
 Attunable, Placeable
-Slot: PRIMARY, SECONDARY
+Slot: PRIMARY SECONDARY
 Charges: 10
 Wind Resonance: 12
 Effect: Purge (Any Slot, Casting Time: Instant)
@@ -683,7 +683,7 @@ Shadowknight |
 (1585, 505), (866, 9)?,[ (-241,-674), (-647,2812) EQL ] |
 Unicorn HornUnicorn Horn
 Attunable, Placeable
-Slot: PRIMARY, SECONDARY
+Slot: PRIMARY SECONDARY
 Charges: 10
 Wind Resonance: 12
 Effect: Purge (Any Slot, Casting Time: Instant)
@@ -1985,7 +1985,7 @@ a faerie guard, a fairy guard |
 MAGIC ITEM LORE ITEM NO DROP WT: 1.5 Size: SMALL Class: ALL Race: ALL |
 Unicorn HornUnicorn Horn
 Attunable, Placeable
-Slot: PRIMARY, SECONDARY
+Slot: PRIMARY SECONDARY
 Charges: 10
 Wind Resonance: 12
 Effect: Purge (Any Slot, Casting Time: Instant)
@@ -1994,7 +1994,7 @@ Class: ALL
 Race: ALL
 |
 Equestrielle, Equestrielle the Corrupted |
-Primary,, Secondary |
+Primary, Secondary |
 Charges: 10 Wind Resonance: 12 Effect: Purge WT: 0.1 Size: SMALL Class: ALL Race: ALL |
 Unicorn Horn FragmentsUnicorn Horn Fragments
 Charges: 2

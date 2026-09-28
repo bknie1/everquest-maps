@@ -1,5 +1,5 @@
 # Greater_Faydark (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-09-28
 
 Greater Faydark - EverQuest Legends Wiki
 Jump to content
@@ -1168,8 +1168,8 @@ Orc |
 Warrior |
 12 |
 100% @ (1958, 2271) |
-Orcish Arsons TorchOrcish Arsons Torch
-LORE ITEM NO DROP
+Orcish Arsonist's TorchOrcish Arsonist's Torch
+Lore Equipped, No Trade, Quest, Placeable
 Slot: PRIMARY
 WT: 0.5 Size: SMALL
 Class: ALL
@@ -2317,8 +2317,8 @@ Race: ALL
 orc hatchetman, Orc Pawn (Crushbone) |
 1H Slashing |
 Atk Delay: 36 DMG: 2 WT: 10.0 Size: MEDIUM Class: WAR PAL RNG SHD BRD ROG SHM Race: ALL |
-Orcish Arsons TorchOrcish Arsons Torch
-LORE ITEM NO DROP
+Orcish Arsonist's TorchOrcish Arsonist's Torch
+Lore Equipped, No Trade, Quest, Placeable
 Slot: PRIMARY
 WT: 0.5 Size: SMALL
 Class: ALL

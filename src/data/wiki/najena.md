@@ -1,5 +1,5 @@
 # Najena (eqlwiki.com)
-fetched: 2026-09-23
+fetched: 2026-09-28
 
 Najena - EverQuest Legends Wiki
 Jump to content
@@ -1302,7 +1302,7 @@ Class: MNK BST
 Race: ALL
 (25%) |
 |
-Items - Found 82 items that drop in Najena:
+Items - Found 83 items that drop in Najena:
 Item Name | Drops From | Slot | Stats |
 A BroomA Broom
 MAGIC ITEM LORE ITEM
@@ -1988,6 +1988,14 @@ Race: ALL
 Rathyl |
 Arms |
 AC: 4 INT: +2 CHA: +2 SV FIRE: +3 SV POISON: +3 WT: 0.3 Size: SMALL Class: NEC WIZ MAG ENC Race: ALL |
+Small Ball of ClaySmall Ball of Clay
+Size: SMALL WT: 0.3
+Class: ALL
+Race: ALL
+|
+an earth elemental |
+(None) |
+Size: SMALL WT: 0.3 Class: ALL Race: ALL |
 Spider Silk CapSpider Silk Cap
 Attunable
 Slot: HEAD

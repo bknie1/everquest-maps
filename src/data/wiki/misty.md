@@ -1,5 +1,5 @@
 # Misty_Thicket (eqlwiki.com)
-fetched: 2026-09-25
+fetched: 2026-09-28
 
 Misty Thicket - EverQuest Legends Wiki
 Jump to content
@@ -842,7 +842,7 @@ A goblin alchemist (Misty Thicket)
 Goblin |
 Shaman |
 16 - 21 |
-?% @ (-885, 1115 |
+Wanders, see below |
 Ribcage Chest ArmorRibcage Chest Armor
 MAGIC ITEM LORE ITEM NO DROP
 Slot: CHEST
@@ -852,7 +852,7 @@ WT: 1.0 Size: SMALL
 Class: ALL
 Race: ALL
 |
-Sometimes spawns in Misty Thicket as a PH for Mooto, running between the goblin camps. Placeholder can be a gobl... |
+Sometimes spawns in Misty Thicket as a PH for Mooto, running between the goblin camps in a clockwise loop with a... |
 A halfling skeleton
 |
 Undead |

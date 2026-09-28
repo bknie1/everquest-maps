@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-09-26
+fetched: 2026-09-28
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -4950,7 +4950,7 @@ Hands |
 AC: 12 WIS: +5 INT: +5 SV DISEASE: +10 WT: 3.8 Size: SMALL Class: ALL Race: ALL |
 Golden Efreeti GreavesGolden Efreeti Greaves
 Lore Equipped, No Trade
-Slot: Legs
+Slot: LEGS
 AC: 15
 DEX: 10 AGI: 9
 WT: 5.6 Size: LARGE

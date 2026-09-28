@@ -1,5 +1,5 @@
 # Everfrost_Peaks (eqlwiki.com)
-fetched: 2026-09-27
+fetched: 2026-09-28
 
 Everfrost Peaks - EverQuest Legends Wiki
 Jump to content
@@ -138,8 +138,8 @@ WT: 0.3 Size: LARGE
 Class: ALL
 Race: ALL
 , Chunk of TundraChunk of Tundra
-MAGIC ITEM LORE ITEM NO DROP
-WT: 0.1 Size: TINY
+No Trade, Quest
+Size: TINY WT: 0.1
 Class: NONE
 Race: NONE
 |
@@ -336,26 +336,7 @@ Mammoth |
 Warrior |
 12 |
 100% @ (-1144, -5060), 100% @ (1252, -5909) |
-Mammoth MeatMammoth Meat
-Quest
-Size: SMALL WT: 1.0
-Class: ALL
-Race: ALL
-, Mammoth Calf HideMammoth Calf Hide
-Quest
-WT: 8.0 Size: LARGE
-Class: ALL
-Race: ALL
-, Small Mammoth TusksSmall Mammoth Tusks
-QUEST ITEM
-WT: 3.5 Size: LARGE
-Class: ALL
-Race: ALL
-, Winter LillyWinter Lilly
-WT: 0.1 Size: TINY
-Class: NONE
-Race: NONE
-|
+Various |
 Description needed. |
 A Wooly Spiderling
 |
@@ -477,7 +458,7 @@ WT: 3.5 Size: LARGE
 Class: ALL
 Race: ALL
 , Winter LillyWinter Lilly
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: NONE
 Race: NONE
 |
@@ -611,8 +592,8 @@ Warrior |
 30 |
 Special |
 Chunk of TundraChunk of Tundra
-MAGIC ITEM LORE ITEM NO DROP
-WT: 0.1 Size: TINY
+No Trade, Quest
+Size: TINY WT: 0.1
 Class: NONE
 Race: NONE
 |
@@ -1060,7 +1041,7 @@ Wood Elf |
 (3100, 750) |
 |
 Part of the Holiday 2025 event The Cracking of the Icestar. |
-Items - Found 48 items that drop in Everfrost Peaks:
+Items - Found 49 items that drop in Everfrost Peaks:
 Item Name | Drops From | Slot | Stats |
 Barbarian MeatBarbarian Meat
 WT: 1.0 Size: SMALL
@@ -1106,14 +1087,14 @@ Dark Assassin |
 Shoulders |
 AC: -3 STR: +5 DEX: +5 CHA: -3 WT: 0.0 Size: SMALL Class: ALL Race: ALL |
 Chunk of TundraChunk of Tundra
-MAGIC ITEM LORE ITEM NO DROP
-WT: 0.1 Size: TINY
+No Trade, Quest
+Size: TINY WT: 0.1
 Class: NONE
 Race: NONE
 |
 corrupted wooly mammoth |
 (None) |
-MAGIC ITEM LORE ITEM NO DROP WT: 0.1 Size: TINY Class: NONE Race: NONE |
+No Trade, Quest Size: TINY WT: 0.1 Class: NONE Race: NONE |
 Cloak of the Ice BearCloak of the Ice Bear
 MAGIC ITEM
 Slot: BACK
@@ -1247,6 +1228,14 @@ Race: ALL
 Various |
 Neck |
 WT: 0.2 Size: SMALL Class: ALL Race: ALL |
+Ice BloodIce Blood
+Size: TINY WT: 0.1
+Class: NONE
+Race: NONE
+|
+a wooly mammoth calf |
+(None) |
+Size: TINY WT: 0.1 Class: NONE Race: NONE |
 Ice Giant ToesIce Giant Toes
 Quest
 WT: 1.5 Size: SMALL
@@ -1486,13 +1475,13 @@ Martar Icebear |
 Legs |
 AC: 5 WT: 1.0 Size: MEDIUM Class: ALL Race: ALL |
 Winter LillyWinter Lilly
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: NONE
 Race: NONE
 |
 Various |
 (None) |
-WT: 0.1 Size: TINY Class: NONE Race: NONE |
+Size: TINY WT: 0.1 Class: NONE Race: NONE |
 Wooly FungusWooly Fungus
 This is a snack!
 WT: 0.1 Size: TINY

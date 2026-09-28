@@ -1,5 +1,5 @@
 # Erudin (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-09-28
 
 Erudin - EverQuest Legends Wiki
 Jump to content
@@ -2092,7 +2092,7 @@ Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
-Class: BRD BST CLR DRU MNK PAL RNG ROG SHA SHD WAR
+Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
 Race: ALL
 |
 Description needed. |
@@ -2107,7 +2107,7 @@ Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
-Class: BRD BST CLR DRU MNK PAL RNG ROG SHA SHD WAR
+Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
 Race: ALL
 , Forged DaggerForged Dagger
 QUEST ITEM
@@ -2160,7 +2160,7 @@ Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
-Class: BRD BST CLR DRU MNK PAL RNG ROG SHA SHD WAR
+Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
 Race: ALL
 , Cast-Iron RapierCast-Iron Rapier
 Slot: PRIMARY SECONDARY
@@ -2191,7 +2191,7 @@ Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
-Class: BRD BST CLR DRU MNK PAL RNG ROG SHA SHD WAR
+Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
 Race: ALL
 |
 Description needed. |
@@ -2206,7 +2206,7 @@ Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
-Class: BRD BST CLR DRU MNK PAL RNG ROG SHA SHD WAR
+Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
 Race: ALL
 |
 Description needed. |
@@ -2221,7 +2221,7 @@ Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
-Class: BRD BST CLR DRU MNK PAL RNG ROG SHA SHD WAR
+Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
 Race: ALL
 |
 Description needed. |
@@ -2236,7 +2236,7 @@ Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
-Class: BRD BST CLR DRU MNK PAL RNG ROG SHA SHD WAR
+Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
 Race: ALL
 |
 Description needed. |
@@ -2251,7 +2251,7 @@ Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
-Class: BRD BST CLR DRU MNK PAL RNG ROG SHA SHD WAR
+Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
 Race: ALL
 |
 Description needed. |
@@ -2266,7 +2266,7 @@ Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
-Class: BRD BST CLR DRU MNK PAL RNG ROG SHA SHD WAR
+Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
 Race: ALL
 |
 Description needed. |
@@ -2281,7 +2281,7 @@ Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
-Class: BRD BST CLR DRU MNK PAL RNG ROG SHA SHD WAR
+Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
 Race: ALL
 , Forged DaggerForged Dagger
 QUEST ITEM
@@ -2304,7 +2304,7 @@ Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
-Class: BRD BST CLR DRU MNK PAL RNG ROG SHA SHD WAR
+Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
 Race: ALL
 , Forged DaggerForged Dagger
 QUEST ITEM
@@ -2327,7 +2327,7 @@ Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
-Class: BRD BST CLR DRU MNK PAL RNG ROG SHA SHD WAR
+Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
 Race: ALL
 , Battle StaffBattle Staff
 LORE ITEM
@@ -2351,7 +2351,7 @@ Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
-Class: BRD BST CLR DRU MNK PAL RNG ROG SHA SHD WAR
+Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
 Race: ALL
 |
 Description needed. |
@@ -2366,7 +2366,7 @@ Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
-Class: BRD BST CLR DRU MNK PAL RNG ROG SHA SHD WAR
+Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
 Race: ALL
 |
 Description needed. |
@@ -2381,7 +2381,7 @@ Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
-Class: BRD BST CLR DRU MNK PAL RNG ROG SHA SHD WAR
+Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
 Race: ALL
 |
 Description needed. |
@@ -2396,7 +2396,7 @@ Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
-Class: BRD BST CLR DRU MNK PAL RNG ROG SHA SHD WAR
+Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
 Race: ALL
 |
 Description needed. |
@@ -2411,7 +2411,7 @@ Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
-Class: BRD BST CLR DRU MNK PAL RNG ROG SHA SHD WAR
+Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
 Race: ALL
 |
 Description needed. |
@@ -2426,7 +2426,7 @@ Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
-Class: BRD BST CLR DRU MNK PAL RNG ROG SHA SHD WAR
+Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
 Race: ALL
 , Cast-Iron RapierCast-Iron Rapier
 Slot: PRIMARY SECONDARY
@@ -2448,7 +2448,7 @@ Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
-Class: BRD BST CLR DRU MNK PAL RNG ROG SHA SHD WAR
+Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
 Race: ALL
 |
 Description needed. |
@@ -2463,7 +2463,7 @@ Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
-Class: BRD BST CLR DRU MNK PAL RNG ROG SHA SHD WAR
+Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
 Race: ALL
 , Cast-Iron RapierCast-Iron Rapier
 Slot: PRIMARY SECONDARY
@@ -2614,7 +2614,7 @@ Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
-Class: BRD BST CLR DRU MNK PAL RNG ROG SHA SHD WAR
+Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
 Race: ALL
 |
 Located in the prison under the Erudin City Office, Warden Lius has some strong thoughts on Prexian justice.
@@ -2644,7 +2644,7 @@ Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
-Class: BRD BST CLR DRU MNK PAL RNG ROG SHA SHD WAR
+Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
 Race: ALL
 |
 Description needed. |
