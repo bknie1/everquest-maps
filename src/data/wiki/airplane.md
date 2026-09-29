@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-09-28
+fetched: 2026-09-29
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -393,7 +393,7 @@ Common: a heartsbane drake, a fatestealer drake, a windrider drake, a greater sp
 Key required: Key of Scale
 Key dropped: Veeshan's Key
 Note that many of the trash mobs here cast nasty things like mez (sphinxes) and grav flux (drakes). The grav flux from the windrider drakes can shoot you clear off the island, so engage them with care.
-Sister of the Spire is the boss here - she is the only mob on the island that is agro, but the others will come to her aid if they're nearby. She is not so terribly hard compared to all those bees. If engaged in her room, you risk social agro through the wall with the Sphinxes - the safest bet is to clear them out before engaging her. They can be split off solo without attracting the attention of the drakes. Once you've thinned the Sphinx herd, she can be knocked over pretty safely.
+Sister of the Spire is the boss here - she is the only mob on the island that is agro, but the others will come to her aid if they're nearby. She is not so terribly hard compared to all those bees. If engaged in her room, you risk social agro through the wall with the Sphinxes - the safest bet is to clear them out before engaging her. They can be split off solo without attracting the attention of the drakes. Once you've thinned the Sphinx herd, she can be knocked over pretty safely. On D0, she can be safely taken in the front right corner pocket (SW) if you sit in the corner fully and do not move.
 Island 8: Veeshan Island
 Boss: Eye of Veeshan
 Common: None
@@ -6411,12 +6411,12 @@ Race: ALL
 Protector of Sky |
 (None) |
 LORE ITEM WT: 6.0 Size: MEDIUM Class: ALL Race: ALL |
-Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Sky&oldid=179233"
+Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Sky&oldid=179711"
 Categories: Classic Era
 Zones
 How to Contribute
 Donate
-This page was last edited on 23 September 2026, at 14:53.
+This page was last edited on 28 September 2026, at 19:51.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

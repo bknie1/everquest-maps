@@ -1,5 +1,5 @@
 # Oggok (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-09-29
 
 Oggok - EverQuest Legends Wiki
 Jump to content
@@ -521,12 +521,12 @@ Bunk Odon, Gwynn Marthank, Hogus Durmas, Jars Legola, Rell Ostodl, Tann Cellus, 
 Pickled Frogloks
 |
 Ogre Butcher ApronOgre Butcher Apron
-LORE ITEM
+Lore Equipped, Attunable, Quest
 Slot: CHEST
 AC: 5
 SV FIRE: +5
-WT: 6.6 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC
+Size: MEDIUM WT: 6.6
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST BER
 Race: ALL
 |
 Chef Dooga |

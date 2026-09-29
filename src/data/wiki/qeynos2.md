@@ -1,5 +1,5 @@
 # Qeynos (eqlwiki.com)
-fetched: 2026-09-24
+fetched: 2026-09-29
 
 Qeynos - EverQuest Legends Wiki
 Jump to content
@@ -3916,7 +3916,7 @@ Rineval Talyas
 Human |
 Enchanter |
 39 |
-100% @ (161, -339) |
+100% @ (161, -339) Also Found @ 195.80, 267.81, 2.56 |
 * Rineval Talyas' Robe |
 Description needed.
 Nilbog: Rineval Talyas now spawns and acts as an alternative for combining the Book of Scale. [May2... |
