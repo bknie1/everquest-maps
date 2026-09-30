@@ -1,5 +1,5 @@
 # North_Ro (eqlwiki.com)
-fetched: 2026-09-28
+fetched: 2026-09-30
 
 The Northern Desert of Ro - EverQuest Legends Wiki
 Jump to content
@@ -599,7 +599,7 @@ Merchant |
 (2294, -790) |
 |
 Description needed. |
-Items - Found 33 items that drop in Northern Desert of Ro:
+Items - Found 34 items that drop in Northern Desert of Ro:
 Item Name | Drops From | Slot | Stats |
 Armadillo CarapaceArmadillo Carapace
 NO DROP
@@ -769,6 +769,14 @@ Race: ALL
 a desert tarantula, a dune tarantula |
 (None) |
 QUEST ITEM STR: -2 DEX: -2 WT: 3.5 Size: LARGE Class: ALL Race: ALL |
+Dry Eye WeedDry Eye Weed
+Size: TINYWT: 0.1
+Class: NONE
+Race: NONE
+|
+a crypt mummy |
+(None) |
+Size: TINY WT: 0.1 Class: NONE Race: NONE |
 Embalming DustEmbalming Dust
 WT: 0.1 Size: TINY
 Class: ALL

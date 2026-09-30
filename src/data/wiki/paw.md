@@ -1,5 +1,5 @@
 # Splitpaw_Lair (eqlwiki.com)
-fetched: 2026-09-23
+fetched: 2026-09-30
 
 Splitpaw Lair - EverQuest Legends Wiki
 Jump to content
@@ -99,11 +99,11 @@ WT: 5.2 Size: SMALL
 Class: WAR CLR PAL SHD
 Race: ALL
 , Apprentice Heretic's RingApprentice Heretic's Ring
-Attunable Lore Equipped
+Attunable, Lore Equipped
 Slot: FINGERS
-AC: 2 MANA: 75
+AC: 2 MANA: +75
 STA: -10
-SV Magic: 10
+SV Magic: +10
 WT: 0.1 Size: TINY
 Class: NEC WIZ MAG ENC
 Race: ALL
@@ -858,18 +858,18 @@ Tesch Val Kadvem |
 Arms |
 AC: 10 DEX: +7 SV Poison: +5 SV Disease: +5 WT: 5.2 Size: SMALL Class: WAR CLR PAL SHD Race: ALL |
 Apprentice Heretic's RingApprentice Heretic's Ring
-Attunable Lore Equipped
+Attunable, Lore Equipped
 Slot: FINGERS
-AC: 2 MANA: 75
+AC: 2 MANA: +75
 STA: -10
-SV Magic: 10
+SV Magic: +10
 WT: 0.1 Size: TINY
 Class: NEC WIZ MAG ENC
 Race: ALL
 |
 Apprentice Ishva Mas, Ishma Mas Apprentice |
 Fingers |
-AC: 2 MANA: 75 STA: -10 SV Magic: 10 WT: 0.1 Size: TINY Class: NEC WIZ MAG ENC Race: ALL |
+AC: 2 MANA: +75 STA: -10 SV Magic: +10 WT: 0.1 Size: TINY Class: NEC WIZ MAG ENC Race: ALL |
 Brain of the Ishva MalBrain of the Ishva Mal
 LORE ITEM NO DROP
 WT: 0.5 Size: TINY

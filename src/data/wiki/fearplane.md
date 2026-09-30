@@ -1,5 +1,5 @@
 # Plane_of_Fear (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-09-30
 
 Plane of Fear - EverQuest Legends Wiki
 Jump to content
@@ -173,11 +173,11 @@ Warrior |
 Mana Sink, high MR |
 Chest Group 2 |
 Amygdalan TendrilAmygdalan Tendril
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 25
 DMG: 9
-STR: 5 DEX: 4
+STR: +5 DEX: +4
 WT: 2.0 Size: SMALL
 Class: WAR
 Race: ALL
@@ -336,13 +336,12 @@ Rogue |
 Backstab, Scareling Step |
 Hands Group 1 |
 EyerazziaEyerazzia
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade, Quest, Placeable
 Slot: PRIMARY
-Skill: Piercing Atk Delay: 24
-DMG: 10
-BACKSTAB: 10
+Skill: 1H Piercing Atk Delay: 24
+DMG: 10 DMG Bonus: 11 @ lvl 50 BACKSTAB: 10
 DEX: +5 STA: +4
-WT: 2.5 Size: MEDIUM
+Size: MEDIUM WT: 2.5
 Class: ROG
 Race: ALL
 |
@@ -801,18 +800,18 @@ Various |
 Neck |
 INT: +13 HP: -100 SV MAGIC: +10 Effect: Illusion: Skeleton (Clicky, Casting Time: Instant) WT: 0.1 Size: SMALL Class: ENC MAG NEC WIZ Race: ALL |
 Amygdalan TendrilAmygdalan Tendril
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 25
 DMG: 9
-STR: 5 DEX: 4
+STR: +5 DEX: +4
 WT: 2.0 Size: SMALL
 Class: WAR
 Race: ALL
 |
 Amygdalan warrior, Amygdalan knight |
 1H Slashing |
-Atk Delay: 25 DMG: 9 STR: 5 DEX: 4 WT: 2.0 Size: SMALL Class: WAR Race: ALL |
+Atk Delay: 25 DMG: 9 STR: +5 DEX: +4 WT: 2.0 Size: SMALL Class: WAR Race: ALL |
 Anthemion ArmbandsAnthemion Armbands
 Lore Equipped, No Trade, Quest
 Slot: ARMS
@@ -1641,19 +1640,18 @@ a boogeyman |
 Primary, Secondary |
 WT: 0.2 Size: TINY Class: ALL Race: ALL |
 EyerazziaEyerazzia
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade, Quest, Placeable
 Slot: PRIMARY
-Skill: Piercing Atk Delay: 24
-DMG: 10
-BACKSTAB: 10
+Skill: 1H Piercing Atk Delay: 24
+DMG: 10 DMG Bonus: 11 @ lvl 50 BACKSTAB: 10
 DEX: +5 STA: +4
-WT: 2.5 Size: MEDIUM
+Size: MEDIUM WT: 2.5
 Class: ROG
 Race: ALL
 |
 a scareling |
-Piercing |
-Atk Delay: 24 DMG: 10 BACKSTAB: 10 DEX: +5 STA: +4 WT: 2.5 Size: MEDIUM Class: ROG Race: ALL |
+Primary |
+Skill: 1H Piercing Atk Delay: 24 DMG: 10 DMG Bonus: 11 @ lvl 50 BACKSTAB: 10 DEX: +5 STA: +4 Size: MEDIUM WT: 2.5 Class: ROG Race: ALL |
 Fearsome ShieldFearsome Shield
 MAGIC ITEM LORE ITEM NO DROP
 Slot: SECONDARY
@@ -1921,13 +1919,13 @@ Slot: ARMS
 AC: 16
 INT: +9
 SV POISON: +10
-WT: 4.9 Size: SMALL
+Size: SMALL WT: 4.9
 Class: BRD
 Race: ALL
 |
 phoboplasm |
 Arms |
-AC: 16 INT: +9 SV POISON: +10 WT: 4.9 Size: SMALL Class: BRD Race: ALL |
+AC: 16 INT: +9 SV POISON: +10 Size: SMALL WT: 4.9 Class: BRD Race: ALL |
 Indicolite BootsIndicolite Boots
 Lore Equipped, No Trade, Quest
 Slot: FEET
@@ -1982,14 +1980,14 @@ Indicolite GreavesIndicolite Greaves
 Lore Equipped, No Trade, Quest
 Slot: LEGS
 AC: 20
-STR: +5 STA: +5 AGI: +5
-WT: 5.6 Size: LARGE
+STR: +5 STA: +5 AGI: +5 END: +10
+Size: LARGE WT: 5.6
 Class: WAR
 Race: ALL
 |
 phoboplasm |
 Legs |
-AC: 20 STR: +5 STA: +5 AGI: +5 WT: 5.6 Size: LARGE Class: WAR Race: ALL |
+AC: 20 STR: +5 STA: +5 AGI: +5 END: +10 Size: LARGE WT: 5.6 Class: WAR Race: ALL |
 Indicolite HelmIndicolite Helm
 Lore Equipped, No Trade, Quest
 Slot: HEAD

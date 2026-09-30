@@ -1,5 +1,5 @@
 # The_Hole (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-09-30
 
 The Hole - EverQuest Legends Wiki
 Jump to content
@@ -306,14 +306,13 @@ Size: MEDIUM WT: 1.0
 Class: NEC WIZ MAG ENC
 Race: ALL
 , and Serpent's ToothSerpent's Tooth
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable, Placeable
 Slot: PRIMARY SECONDARY
-Skill: Piercing Atk Delay: 27
-DMG: 13
-BACKSTAB: 13
+Skill: 1H Piercing Atk Delay: 27
+DMG: 13 DMG Bonus: 13 @ lvl 50 BACKSTAB: 13
 STR: +3
-WT: 2.3 Size: MEDIUM
-Class: ALL except CLR PAL DRU MNK SHM
+Size: MEDIUM WT: 2.3
+Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
 Race: ALL
 . Nortlav the Scalekeeper is also here who drops Red Dragon ScalesRed Dragon Scales
 Attunable, Quest
@@ -1145,7 +1144,7 @@ Class: CLR DRU SHM BST
 Race: ALL
 |
 Can randomly spawn in place of a revenant or a wanderer. |
-Items - Found 68 items that drop in The Hole:
+Items - Found 69 items that drop in The Hole:
 Item Name | Drops From | Slot | Stats |
 Blood of KyrennaBlood of Kyrenna
 MAGIC ITEM LORE ITEM NO DROP
@@ -1203,14 +1202,14 @@ a revenant, a wanderer |
 Secondary |
 AC: 2 WT: 2.5 Size: MEDIUM Class: WAR CLR PAL RNG SHD MNK BRD ROG SHM Race: ALL |
 Drop of MercuryDrop of Mercury
-QUEST ITEM
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 Various |
 (None) |
-QUEST ITEM WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Quest Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Dusty TomeDusty Tome
 MAGIC ITEM LORE ITEM NO DROP
 WT: 0.3 Size: SMALL
@@ -1258,6 +1257,20 @@ Race: ALL
 Various |
 Head |
 AC: 5 INT: +5 SV FIRE: +5 SV COLD: +5 WT: 8.0 Size: MEDIUM Class: MAG Race: ALL |
+Empyran JerkinEmpyran Jerkin
+Lore Equipped, Attunable
+Slot: CHEST
+AC: 5
+STR: +10
+HP: +30
+SV Magic: +10
+WT: 0.5 Size: MEDIUM
+Class: MNK
+Race: ALL
+|
+Retseth Tretse |
+Chest |
+AC: 5 STR: +10 HP: +30 SV Magic: +10 WT: 0.5 Size: MEDIUM Class: MNK Race: ALL |
 Engraved RingEngraved Ring
 MAGIC ITEM LORE ITEM NO DROP
 Slot: FINGER
@@ -1272,8 +1285,8 @@ CHA: +5 WT: 0.2 Size: SMALL Class: ALL Race: ALL |
 Essence of EarthEssence of Earth
 Lore Equipped, Attunable
 Slot: NECK
-AC 4 STR: 5 STA: 5
-SV Fire: 2
+AC 4 STR: +5 STA: +5
+SV Fire: +2
 Effect: Illusion: Earth Elemental (Can Equip, Cast Time: Instant) at Level 30
 Charges: 2
 WT: 1.1 Size: MEDIUM
@@ -1282,7 +1295,7 @@ Race: ALL
 |
 Retseth Tretse |
 Neck |
-AC 4 STR: 5 STA: 5 SV Fire: 2 Effect: Illusion: Earth Elemental (Can Equip, Cast Time: Instant) at Level 30 Charges: 2 WT: 1.1 Size: MEDIUM Class: ALL Race: ALL |
+AC 4 STR: +5 STA: +5 SV Fire: +2 Effect: Illusion: Earth Elemental (Can Equip, Cast Time: Instant) at Level 30 Charges: 2 WT: 1.1 Size: MEDIUM Class: ALL Race: ALL |
 Essence of a GhostEssence of a Ghost
 MAGIC ITEM LORE ITEM NO DROP
 WT: 1.0 Size: SMALL
@@ -1699,19 +1712,18 @@ Nortlav the Scalekeeper |
 2H Slashing |
 Atk Delay: 52 DMG: 27 STR: +3 DEX: +2 WT: 10.0 Size: LARGE Class: WAR PAL RNG SHD Race: ALL |
 Serpent's ToothSerpent's Tooth
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable, Placeable
 Slot: PRIMARY SECONDARY
-Skill: Piercing Atk Delay: 27
-DMG: 13
-BACKSTAB: 13
+Skill: 1H Piercing Atk Delay: 27
+DMG: 13 DMG Bonus: 13 @ lvl 50 BACKSTAB: 13
 STR: +3
-WT: 2.3 Size: MEDIUM
-Class: ALL except CLR PAL DRU MNK SHM
+Size: MEDIUM WT: 2.3
+Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
 Race: ALL
 |
 Master Yael |
-Piercing |
-Atk Delay: 27 DMG: 13 BACKSTAB: 13 STR: +3 WT: 2.3 Size: MEDIUM Class: ALL except CLR PAL DRU MNK SHM Race: ALL |
+Primary, Secondary |
+Skill: 1H Piercing Atk Delay: 27 DMG: 13 DMG Bonus: 13 @ lvl 50 BACKSTAB: 13 STR: +3 Size: MEDIUM WT: 2.3 Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST Race: ALL |
 Smoldering BrandSmoldering Brand
 MAGIC ITEM LORE ITEM
 Slot: PRIMARY SECONDARY
@@ -1985,14 +1997,13 @@ Size: MEDIUM WT: 1.0
 Class: NEC WIZ MAG ENC
 Race: ALL
 , Serpent's ToothSerpent's Tooth
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable, Placeable
 Slot: PRIMARY SECONDARY
-Skill: Piercing Atk Delay: 27
-DMG: 13
-BACKSTAB: 13
+Skill: 1H Piercing Atk Delay: 27
+DMG: 13 DMG Bonus: 13 @ lvl 50 BACKSTAB: 13
 STR: +3
-WT: 2.3 Size: MEDIUM
-Class: ALL except CLR PAL DRU MNK SHM
+Size: MEDIUM WT: 2.3
+Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
 Race: ALL
 |
 |

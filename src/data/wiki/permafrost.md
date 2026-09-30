@@ -1,5 +1,5 @@
 # Permafrost_Keep (eqlwiki.com)
-fetched: 2026-09-27
+fetched: 2026-09-30
 
 Permafrost - EverQuest Legends Wiki
 Jump to content
@@ -228,10 +228,12 @@ WT: 0.3 Size: SMALL
 Class: ALL
 Race: ALL
 , Throwing BoulderThrowing Boulder
+Attunable, Placeable
 Slot: RANGE AMMO
-Skill: Throwingv2 Atk Delay: 35
+Skill: Throwing Atk Delay: 35
 DMG: 18
-WT: 25.5 Range: 200 Size: LARGE
+Size: LARGE WT: 25.5
+Range: 200
 Class: WAR SHD ROG BST BER
 Race: ALL
 , White Wolf-hide CloakWhite Wolf-hide Cloak
@@ -296,10 +298,12 @@ Map
 Permafrost Keep
 Lair of Lady Vox (Raid Instance Only)
 Ice Giant Diplomat who drops Throwing BoulderThrowing Boulder
+Attunable, Placeable
 Slot: RANGE AMMO
-Skill: Throwingv2 Atk Delay: 35
+Skill: Throwing Atk Delay: 35
 DMG: 18
-WT: 25.5 Range: 200 Size: LARGE
+Size: LARGE WT: 25.5
+Range: 200
 Class: WAR SHD ROG BST BER
 Race: ALL
 , and Ice Goblin Champion who drops Crystalline BladeCrystalline Blade
@@ -1254,7 +1258,7 @@ Scimitar of the MistwalkerScimitar of the Mistwalker
 Lore Equipped, Attunable, No Pet, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 25
-DMG: 10
+DMG: 10 DMG Bonus: 12 @ lvl 50
 Effect: Mistwalker (Combat) at Level 50
 Size: MEDIUM WT: 2.5
 Class: RNG DRU
@@ -1262,7 +1266,7 @@ Race: ALL
 |
 Lady Vox |
 1H Slashing |
-Atk Delay: 25 DMG: 10 Effect: Mistwalker (Combat) at Level 50 Size: MEDIUM WT: 2.5 Class: RNG DRU Race: ALL |
+Atk Delay: 25 DMG: 10 DMG Bonus: 12 @ lvl 50 Effect: Mistwalker (Combat) at Level 50 Size: MEDIUM WT: 2.5 Class: RNG DRU Race: ALL |
 Silvery Two Handed AxeSilvery Two Handed Axe
 MAGIC ITEM LORE ITEM
 Slot: PRIMARY
@@ -1336,16 +1340,18 @@ Various |
 (None) |
 QUEST ITEM WT: 0.1 Size: TINY Class: ALL Race: ALL |
 Throwing BoulderThrowing Boulder
+Attunable, Placeable
 Slot: RANGE AMMO
-Skill: Throwingv2 Atk Delay: 35
+Skill: Throwing Atk Delay: 35
 DMG: 18
-WT: 25.5 Range: 200 Size: LARGE
+Size: LARGE WT: 25.5
+Range: 200
 Class: WAR SHD ROG BST BER
 Race: ALL
 |
 a priest of Nagafen, an ice giant diplomat, an ice giant magus |
 Range, Ammo |
-Skill: Throwingv2 Atk Delay: 35 DMG: 18 WT: 25.5 Range: 200 Size: LARGE Class: WAR SHD ROG BST BER Race: ALL |
+Skill: Throwing Atk Delay: 35 DMG: 18 Size: LARGE WT: 25.5 Range: 200 Class: WAR SHD ROG BST BER Race: ALL |
 Tobrin's Mystical EyepatchTobrin's Mystical Eyepatch
 Attunable
 Slot: FACE
@@ -1408,13 +1414,13 @@ Lady Vox |
 No Trade, Quest WT: 3.0 Size: MEDIUM Class: ALL Race: ALL |
 White Dragon ScalesWhite Dragon Scales
 Attunable, Quest
-WT: 2.5 Size: MEDIUM
+Size: MEDIUM WT: 2.5
 Class: ALL
 Race: ALL
 |
 Lady Vox |
 (None) |
-Attunable, Quest WT: 2.5 Size: MEDIUM Class: ALL Race: ALL |
+Attunable, Quest Size: MEDIUM WT: 2.5 Class: ALL Race: ALL |
 White Dragon ToothWhite Dragon Tooth
 MAGIC ITEM
 EXPENDABLE Charges: 1
@@ -1521,12 +1527,14 @@ Attunable
 Slot: WRIST
 AC: 4
 STR: +7 AGI: +7
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: WAR PAL RNG SHD MNK BRD ROG BST BER
 Race: ALL
 , Kavruul`s Mystic PouchKavruul`s Mystic Pouch
 Size: SMALL WT: 0.4
 Weight Reduction: 100% Capacity: 10 Size Capacity: GIANT
+Class: ALL
+Race: ALL
 , McVaxius` Horn of WarMcVaxius` Horn of War
 Lore Equipped, Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
@@ -1583,7 +1591,7 @@ Class: ALL
 Race: ALL
 , White Dragon ScalesWhite Dragon Scales
 Attunable, Quest
-WT: 2.5 Size: MEDIUM
+Size: MEDIUM WT: 2.5
 Class: ALL
 Race: ALL
 , White Dragon ToothWhite Dragon Tooth

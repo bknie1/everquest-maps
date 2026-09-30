@@ -1,5 +1,5 @@
 # Nagafen's_Lair (eqlwiki.com)
-fetched: 2026-09-25
+fetched: 2026-09-30
 
 Nagafen's Lair - EverQuest Legends Wiki
 Jump to content
@@ -605,10 +605,12 @@ Warrior |
 47-51 |
 Inside the Fire Giant castle on the way to Nagafen's lair |
 Throwing BoulderThrowing Boulder
+Attunable, Placeable
 Slot: RANGE AMMO
-Skill: Throwingv2 Atk Delay: 35
+Skill: Throwing Atk Delay: 35
 DMG: 18
-WT: 25.5 Range: 200 Size: LARGE
+Size: LARGE WT: 25.5
+Range: 200
 Class: WAR SHD ROG BST BER
 Race: ALL
 (Common), Fire Giant ToesFire Giant Toes
@@ -705,10 +707,12 @@ WT: 1.0 Size: SMALL
 Class: ALL
 Race: ALL
 , Throwing BoulderThrowing Boulder
+Attunable, Placeable
 Slot: RANGE AMMO
-Skill: Throwingv2 Atk Delay: 35
+Skill: Throwing Atk Delay: 35
 DMG: 18
-WT: 25.5 Range: 200 Size: LARGE
+Size: LARGE WT: 25.5
+Range: 200
 Class: WAR SHD ROG BST BER
 Race: ALL
 , Fire Giant ToesFire Giant Toes
@@ -1620,16 +1624,18 @@ kobold noble |
 1H Blunt |
 Atk Delay: 33 DMG: 9 CHA: -9 Effect: Chaotic Feedback (Combat, Rate +75%) at Level 28 Size: LARGE WT: 6.5 Class: BRD NEC WIZ MAG ENC Race: ALL |
 Throwing BoulderThrowing Boulder
+Attunable, Placeable
 Slot: RANGE AMMO
-Skill: Throwingv2 Atk Delay: 35
+Skill: Throwing Atk Delay: 35
 DMG: 18
-WT: 25.5 Range: 200 Size: LARGE
+Size: LARGE WT: 25.5
+Range: 200
 Class: WAR SHD ROG BST BER
 Race: ALL
 |
 fire giant warrior, King Tranix, Warlord Skarlon |
 Range, Ammo |
-Skill: Throwingv2 Atk Delay: 35 DMG: 18 WT: 25.5 Range: 200 Size: LARGE Class: WAR SHD ROG BST BER Race: ALL |
+Skill: Throwing Atk Delay: 35 DMG: 18 Size: LARGE WT: 25.5 Range: 200 Class: WAR SHD ROG BST BER Race: ALL |
 Torn, burnt bookTorn, burnt book
 No Trade, Quest
 WT: 1.0 Size: TINY

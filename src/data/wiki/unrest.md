@@ -1,5 +1,5 @@
 # Estate_of_Unrest (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-09-30
 
 The Estate of Unrest - EverQuest Legends Wiki
 Jump to content
@@ -125,7 +125,7 @@ Race: ALL
 MAGIC ITEM
 Slot: CHEST
 AC: 13
-WIS: 4 AGI: 4
+WIS: +4 AGI: +4
 WT: 6.5 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD BRD ROG SHM
 Race: ALL
@@ -133,7 +133,7 @@ Race: ALL
 Attunable
 Slot: WRIST
 AC: 6
-DEX: 2 STA: 2
+DEX: +2 STA: +2
 Size: SMALL WT: 2.1
 Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
 Race: ALL
@@ -141,8 +141,8 @@ Race: ALL
 Attunable
 Slot: HANDS
 AC: 5
-DEX: 3 STA: 3
-SV Magic: 5
+DEX: +3 STA: +3
+SV Magic: +5
 WT: 4.5 Size: SMALL
 Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
 Race: ALL
@@ -152,7 +152,7 @@ Slot: PRIMARY
 Skill: 2H Blunt
 DMG: 12
 Atk Delay: 42
-DEX: -13 INT: 7
+DEX: -13 INT: +7
 Size: MEDIUM WT: 3.5
 Class: NEC WIZ MAG ENC
 Race: ALL
@@ -162,7 +162,7 @@ Slot: PRIMARY SECONDARY
 Skill: 1H Slashing
 DMG: 12 Atk Delay: 36
 DMG Bonus: 17
-DEX: 10 STA: -5 END: 5
+DEX: +10 STA: -5 END: +5
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
@@ -178,7 +178,7 @@ Race: ALL
 Attunable
 Slot: LEGS
 AC: 13
-STR: 2 STA: 5
+STR: +2 STA: +5
 Size: MEDIUM WT: 9.4
 Class: WAR PAL SHD
 Race: ALL
@@ -202,7 +202,7 @@ Race: ALL
 Attunable, Quest
 Slot: BACK
 AC: 5
-HP: 10 MANA: 35 END: 15
+HP: +10 MANA: +35 END: +15
 SV Disease: -10 SV Poison: -10
 Size: MEDMIUM WT: 0.5
 Class: NEC
@@ -260,8 +260,8 @@ Race: ALL
 , Rhodium BandRhodium Band
 Attunable, Quest
 Slot: FINGER
-HP: 27
-SV Magic: -4
+HP: +25
+SV Magic: -5
 Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
@@ -269,8 +269,8 @@ Race: ALL
 Attunable
 Slot: CHEST
 AC: 13
-STR: 1 DEX: 4 STA: 3 CHA: -25 AGI: 3
-SV Fire: 3 SV Disease: -15 SV Cold: 3 SV Magic: -6 SV Poison: -15
+STR: +1 DEX: +4 STA: +3 CHA: -25 AGI: +3
+SV Fire: +3 SV Disease: -15 SV Cold: +3 SV Magic: -6 SV Poison: -15
 WT: 0.3 Size: MEDIUM
 Class: MNK BST
 Race: ALL
@@ -286,7 +286,7 @@ Race: ALLFocus Effect: Reagent Conservation II
 Attunable
 Slot: HEAD
 AC: 2
-MANA: 30
+MANA: +30
 WT: 0.3 Size: SMALL
 Class: NEC WIZ ENC
 Race: ALLFocus Effect: See Invisible
@@ -294,7 +294,7 @@ Race: ALLFocus Effect: See Invisible
 Attunable
 Slot: SHOULDERS
 AC: 4
-STA: 4 CHA: -10 INT: 4
+STA: +4 CHA: -10 INT: +4
 WT: 0.3 Size: SMALL
 Class: NEC WIZ MAG ENC
 Race: ALL
@@ -302,7 +302,7 @@ Race: ALL
 Attunable
 Slot: HEAD
 AC: 10
-STA: 5
+STA: +5
 WT: 5.5 Size: SMALL
 Class: WAR CLR PAL SHD BRD
 Race: ALL
@@ -355,7 +355,7 @@ Race: ALL
 Attunable
 Slot: HEAD
 AC: 10
-STA: 5
+STA: +5
 WT: 5.5 Size: SMALL
 Class: WAR CLR PAL SHD BRD
 Race: ALL
@@ -432,7 +432,7 @@ Slot: PRIMARY SECONDARY
 Skill: 1H Slashing
 DMG: 12 Atk Delay: 36
 DMG Bonus: 17
-DEX: 10 STA: -5 END: 5
+DEX: +10 STA: -5 END: +5
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
@@ -440,7 +440,7 @@ and Dark Plate LeggingsDark Plate Leggings
 Attunable
 Slot: LEGS
 AC: 13
-STR: 2 STA: 5
+STR: +2 STA: +5
 Size: MEDIUM WT: 9.4
 Class: WAR PAL SHD
 Race: ALL
@@ -457,15 +457,15 @@ Slot: PRIMARY
 Skill: 2H Blunt
 DMG: 12
 Atk Delay: 42
-DEX: -13 INT: 7
+DEX: -13 INT: +7
 Size: MEDIUM WT: 3.5
 Class: NEC WIZ MAG ENC
 Race: ALL
 , and Rhodium BandRhodium Band
 Attunable, Quest
 Slot: FINGER
-HP: 27
-SV Magic: -4
+HP: +25
+SV Magic: -5
 Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
@@ -500,7 +500,7 @@ Race: ALL
 MAGIC ITEM
 Slot: CHEST
 AC: 13
-WIS: 4 AGI: 4
+WIS: +4 AGI: +4
 WT: 6.5 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD BRD ROG SHM
 Race: ALL
@@ -538,7 +538,7 @@ Note: On the second floor west of the stairs notated C in one of the closets is 
 Attunable
 Slot: HEAD
 AC: 2
-MANA: 30
+MANA: +30
 WT: 0.3 Size: SMALL
 Class: NEC WIZ ENC
 Race: ALLFocus Effect: See Invisible
@@ -546,7 +546,7 @@ and Shawl of Less-Than InvisibilityShawl of Less-Than Invisibility
 Attunable
 Slot: SHOULDERS
 AC: 4
-STA: 4 CHA: -10 INT: 4
+STA: +4 CHA: -10 INT: +4
 WT: 0.3 Size: SMALL
 Class: NEC WIZ MAG ENC
 Race: ALL
@@ -554,8 +554,8 @@ As part of The Summoning of Dread quest, Khrix will summon Khrix Abomination who
 Attunable
 Slot: CHEST
 AC: 13
-STR: 1 DEX: 4 STA: 3 CHA: -25 AGI: 3
-SV Fire: 3 SV Disease: -15 SV Cold: 3 SV Magic: -6 SV Poison: -15
+STR: +1 DEX: +4 STA: +3 CHA: -25 AGI: +3
+SV Fire: +3 SV Disease: -15 SV Cold: +3 SV Magic: -6 SV Poison: -15
 WT: 0.3 Size: MEDIUM
 Class: MNK BST
 Race: ALL
@@ -651,7 +651,7 @@ Festering CloakFestering Cloak
 Attunable, Quest
 Slot: BACK
 AC: 5
-HP: 10 MANA: 35 END: 15
+HP: +10 MANA: +35 END: +15
 SV Disease: -10 SV Poison: -10
 Size: MEDMIUM WT: 0.5
 Class: NEC
@@ -661,7 +661,7 @@ Bloodstained TunicBloodstained Tunic
 MAGIC ITEM
 Slot: CHEST
 AC: 13
-WIS: 4 AGI: 4
+WIS: +4 AGI: +4
 WT: 6.5 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD BRD ROG SHM
 Race: ALL
@@ -1002,8 +1002,8 @@ Brewer's MittensBrewer's Mittens
 Attunable
 Slot: HANDS
 AC: 5
-DEX: 3 STA: 3
-SV Magic: 5
+DEX: +3 STA: +3
+SV Magic: +5
 WT: 4.5 Size: SMALL
 Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
 Race: ALL
@@ -1032,7 +1032,7 @@ Bloodstained TunicBloodstained Tunic
 MAGIC ITEM
 Slot: CHEST
 AC: 13
-WIS: 4 AGI: 4
+WIS: +4 AGI: +4
 WT: 6.5 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD BRD ROG SHM
 Race: ALL
@@ -1124,7 +1124,7 @@ Race: ALL
 Attunable
 Slot: HEAD
 AC: 2
-MANA: 30
+MANA: +30
 WT: 0.3 Size: SMALL
 Class: NEC WIZ ENC
 Race: ALLFocus Effect: See Invisible
@@ -1132,7 +1132,7 @@ Race: ALLFocus Effect: See Invisible
 Attunable
 Slot: SHOULDERS
 AC: 4
-STA: 4 CHA: -10 INT: 4
+STA: +4 CHA: -10 INT: +4
 WT: 0.3 Size: SMALL
 Class: NEC WIZ MAG ENC
 Race: ALL
@@ -1262,7 +1262,7 @@ Slot: PRIMARY SECONDARY
 Skill: 1H Slashing
 DMG: 12 Atk Delay: 36
 DMG Bonus: 17
-DEX: 10 STA: -5 END: 5
+DEX: +10 STA: -5 END: +5
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
@@ -1270,7 +1270,7 @@ Race: ALL
 Attunable
 Slot: LEGS
 AC: 13
-STR: 2 STA: 5
+STR: +2 STA: +5
 Size: MEDIUM WT: 9.4
 Class: WAR PAL SHD
 Race: ALL
@@ -1339,14 +1339,14 @@ Bloodstained TunicBloodstained Tunic
 MAGIC ITEM
 Slot: CHEST
 AC: 13
-WIS: 4 AGI: 4
+WIS: +4 AGI: +4
 WT: 6.5 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD BRD ROG SHM
 Race: ALL
 |
 an undead knight of Unrest |
 Chest |
-AC: 13 WIS: 4 AGI: 4 WT: 6.5 Size: MEDIUM Class: WAR CLR PAL RNG SHD BRD ROG SHM Race: ALL |
+AC: 13 WIS: +4 AGI: +4 WT: 6.5 Size: MEDIUM Class: WAR CLR PAL RNG SHD BRD ROG SHM Race: ALL |
 Bone BarbsBone Barbs
 No Trade, Quest
 Size: SMALL WT: 0.4
@@ -1360,41 +1360,41 @@ Brewer's BracerBrewer's Bracer
 Attunable
 Slot: WRIST
 AC: 6
-DEX: 2 STA: 2
+DEX: +2 STA: +2
 Size: SMALL WT: 2.1
 Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
 Race: ALL
 |
 an undead brewer |
 Wrist |
-AC: 6 DEX: 2 STA: 2 Size: SMALL WT: 2.1 Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
+AC: 6 DEX: +2 STA: +2 Size: SMALL WT: 2.1 Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
 Brewer's MittensBrewer's Mittens
 Attunable
 Slot: HANDS
 AC: 5
-DEX: 3 STA: 3
-SV Magic: 5
+DEX: +3 STA: +3
+SV Magic: +5
 WT: 4.5 Size: SMALL
 Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
 Race: ALL
 |
 an undead brewer |
 Hands |
-AC: 5 DEX: 3 STA: 3 SV Magic: 5 WT: 4.5 Size: SMALL Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
+AC: 5 DEX: +3 STA: +3 SV Magic: +5 WT: 4.5 Size: SMALL Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
 Brittle StaffBrittle Staff
 Attunable
 Slot: PRIMARY
 Skill: 2H Blunt
 DMG: 12
 Atk Delay: 42
-DEX: -13 INT: 7
+DEX: -13 INT: +7
 Size: MEDIUM WT: 3.5
 Class: NEC WIZ MAG ENC
 Race: ALL
 |
 a reanimated hand |
 2H Blunt |
-DMG: 12 Atk Delay: 42 DEX: -13 INT: 7 Size: MEDIUM WT: 3.5 Class: NEC WIZ MAG ENC Race: ALL |
+DMG: 12 Atk Delay: 42 DEX: -13 INT: +7 Size: MEDIUM WT: 3.5 Class: NEC WIZ MAG ENC Race: ALL |
 Bronze Two Handed Battle AxeBronze Two Handed Battle Axe
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 46
@@ -1479,14 +1479,14 @@ Slot: PRIMARY SECONDARY
 Skill: 1H Slashing
 DMG: 12 Atk Delay: 36
 DMG Bonus: 17
-DEX: 10 STA: -5 END: 5
+DEX: +10 STA: -5 END: +5
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
 zombie of an unrest noble |
 1H Slashing |
-DMG: 12 Atk Delay: 36 DMG Bonus: 17 DEX: 10 STA: -5 END: 5 WT: 5.0 Size: MEDIUM Class: WAR PAL RNG SHD BRD ROG Race: ALL |
+DMG: 12 Atk Delay: 36 DMG Bonus: 17 DEX: +10 STA: -5 END: +5 WT: 5.0 Size: MEDIUM Class: WAR PAL RNG SHD BRD ROG Race: ALL |
 Dark Bone ChipsDark Bone Chips
 WT: 0.1 Size: SMALL
 Class: ALL
@@ -1511,14 +1511,14 @@ Dark Plate LeggingsDark Plate Leggings
 Attunable
 Slot: LEGS
 AC: 13
-STR: 2 STA: 5
+STR: +2 STA: +5
 Size: MEDIUM WT: 9.4
 Class: WAR PAL SHD
 Race: ALL
 |
 zombie of an unrest noble |
 Legs |
-AC: 13 STR: 2 STA: 5 Size: MEDIUM WT: 9.4 Class: WAR PAL SHD Race: ALL |
+AC: 13 STR: +2 STA: +5 Size: MEDIUM WT: 9.4 Class: WAR PAL SHD Race: ALL |
 Darkbone MarrowDarkbone Marrow
 Quest
 Size: TINY WT: 0.1
@@ -1621,7 +1621,7 @@ Festering CloakFestering Cloak
 Attunable, Quest
 Slot: BACK
 AC: 5
-HP: 10 MANA: 35 END: 15
+HP: +10 MANA: +35 END: +15
 SV Disease: -10 SV Poison: -10
 Size: MEDMIUM WT: 0.5
 Class: NEC
@@ -1629,7 +1629,7 @@ Race: ALL
 |
 a festering hag |
 Back |
-AC: 5 HP: 10 MANA: 35 END: 15 SV Disease: -10 SV Poison: -10 Size: MEDMIUM WT: 0.5 Class: NEC Race: ALL |
+AC: 5 HP: +10 MANA: +35 END: +15 SV Disease: -10 SV Poison: -10 Size: MEDMIUM WT: 0.5 Class: NEC Race: ALL |
 Fungus EyeFungus Eye
 Lore Equipped, No Trade, Quest, Placeable
 Slot: PRIMARY SECONDARY
@@ -1917,28 +1917,28 @@ Skill: 1H Piercing DMG: 15 Atk Delay: 50 WT: 14.7 Size: LARGE Class: WAR PAL RNG
 Rhodium BandRhodium Band
 Attunable, Quest
 Slot: FINGER
-HP: 27
-SV Magic: -4
+HP: +25
+SV Magic: -5
 Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 a reanimated hand |
 Fingers |
-HP: 27 SV Magic: -4 Size: TINY WT: 0.1 Class: ALL Race: ALL |
+HP: +25 SV Magic: -5 Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Rotted ChestwrapsRotted Chestwraps
 Attunable
 Slot: CHEST
 AC: 13
-STR: 1 DEX: 4 STA: 3 CHA: -25 AGI: 3
-SV Fire: 3 SV Disease: -15 SV Cold: 3 SV Magic: -6 SV Poison: -15
+STR: +1 DEX: +4 STA: +3 CHA: -25 AGI: +3
+SV Fire: +3 SV Disease: -15 SV Cold: +3 SV Magic: -6 SV Poison: -15
 WT: 0.3 Size: MEDIUM
 Class: MNK BST
 Race: ALL
 |
 Khrix's Abomination |
 Chest |
-AC: 13 STR: 1 DEX: 4 STA: 3 CHA: -25 AGI: 3 SV Fire: 3 SV Disease: -15 SV Cold: 3 SV Magic: -6 SV Poison: -15 WT: 0.3 Size: MEDIUM Class: MNK BST Race: ALL |
+AC: 13 STR: +1 DEX: +4 STA: +3 CHA: -25 AGI: +3 SV Fire: +3 SV Disease: -15 SV Cold: +3 SV Magic: -6 SV Poison: -15 WT: 0.3 Size: MEDIUM Class: MNK BST Race: ALL |
 Sarcoscypha FungusSarcoscypha Fungus
 Size: TINY WT: 0.1
 Class: ALL
@@ -1963,26 +1963,26 @@ Scaredy CapScaredy Cap
 Attunable
 Slot: HEAD
 AC: 2
-MANA: 30
+MANA: +30
 WT: 0.3 Size: SMALL
 Class: NEC WIZ ENC
 Race: ALLFocus Effect: See Invisible
 |
 Khrix Fritchoff |
 Head |
-AC: 2 MANA: 30 WT: 0.3 Size: SMALL Class: NEC WIZ ENC Race: ALL |
+AC: 2 MANA: +30 WT: 0.3 Size: SMALL Class: NEC WIZ ENC Race: ALL |
 Shawl of Less-Than InvisibilityShawl of Less-Than Invisibility
 Attunable
 Slot: SHOULDERS
 AC: 4
-STA: 4 CHA: -10 INT: 4
+STA: +4 CHA: -10 INT: +4
 WT: 0.3 Size: SMALL
 Class: NEC WIZ MAG ENC
 Race: ALL
 |
 Khrix Fritchoff |
 Shoulders |
-AC: 4 STA: 4 CHA: -10 INT: 4 WT: 0.3 Size: SMALL Class: NEC WIZ MAG ENC Race: ALL |
+AC: 4 STA: +4 CHA: -10 INT: +4 WT: 0.3 Size: SMALL Class: NEC WIZ MAG ENC Race: ALL |
 Small Kite ShieldSmall Kite Shield
 Attunable, Placeable
 Slot: SECONDARY
@@ -2006,14 +2006,14 @@ Spelunker's HeadlampSpelunker's Headlamp
 Attunable
 Slot: HEAD
 AC: 10
-STA: 5
+STA: +5
 WT: 5.5 Size: SMALL
 Class: WAR CLR PAL SHD BRD
 Race: ALL
 |
 a gnomish spelunker |
 Head |
-AC: 10 STA: 5 WT: 5.5 Size: SMALL Class: WAR CLR PAL SHD BRD Race: ALL |
+AC: 10 STA: +5 WT: 5.5 Size: SMALL Class: WAR CLR PAL SHD BRD Race: ALL |
 Sphere of UnrestSphere of Unrest
 Lore Equipped, No Trade, Quest, Placeable
 Slot: PRIMARY SECONDARY

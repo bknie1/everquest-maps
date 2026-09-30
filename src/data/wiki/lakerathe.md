@@ -1,5 +1,5 @@
 # Lake_Rathetear (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-09-30
 
 Lake Rathetear - EverQuest Legends Wiki
 Jump to content
@@ -1082,7 +1082,7 @@ Class: WAR PAL RNG SHD ROG
 Race: ALL
 |
 He is a rare spawn that has at least 2 possible place holders (an aqua goblin and an aqua goblin shaman). Spawn timer i... |
-Items - Found 29 items that drop in Lake Rathetear:
+Items - Found 30 items that drop in Lake Rathetear:
 Item Name | Drops From | Slot | Stats |
 Apprentice RingApprentice Ring
 MAGIC ITEM LORE ITEM NO DROP
@@ -1170,6 +1170,15 @@ Race: ALL
 a stone skeleton |
 (None) |
 MAGIC ITEM LORE ITEM NO DROP WT: 1.5 Size: SMALL Class: ALL Race: ALL |
+Lake PebbleLake Pebble
+No Trade, Quest
+Size: SMALL WT: 0.3
+Class: NONE
+Race: NONE
+|
+an aqua goblin, an aqua goblin shaman |
+(None) |
+No Trade, Quest Size: SMALL WT: 0.3 Class: NONE Race: NONE |
 Lord Bergurgle's CrownLord Bergurgle's Crown
 MAGIC ITEM LORE ITEM NO DROP
 Slot: HEAD

@@ -1,5 +1,5 @@
 # Rathe_Mountains (eqlwiki.com)
-fetched: 2026-09-27
+fetched: 2026-09-30
 
 Rathe Mountains - EverQuest Legends Wiki
 Jump to content
@@ -397,7 +397,7 @@ WT: 1.0 Size: MEDIUM
 Class: ALL
 Race: ALLFocus Effect: Improved Damage III
 |
-Karam Dragonforge |
+Karam Dragonforge (4109, 918) |
 45+ |
 All |
 Permafrost |

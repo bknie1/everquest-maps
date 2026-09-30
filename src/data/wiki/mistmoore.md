@@ -1,5 +1,5 @@
 # Castle_Mistmoore (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-09-30
 
 Mistmoore Castle - EverQuest Legends Wiki
 Jump to content
@@ -204,8 +204,8 @@ Race: ALL
 Attunable
 Slot: HANDS
 AC: 10
-STR: 5 STA: 5
-SV Magic: 5
+STR: +5 STA: +5
+SV Magic: +5
 WT: 6.0 Size: SMALL
 Class: WAR CLR PAL SHD BRD
 Race: ALL
@@ -222,8 +222,8 @@ Race: ALL
 Attunable
 Slot: FACE
 AC: 7
-STR: 5
-SV Fire: 10
+STR: +5
+SV Fire: +10
 WT: 2.0 Size: SMALL
 Class: WAR CLR PAL SHD BRD
 Race: ALL
@@ -270,8 +270,8 @@ Race: ALL
 Attunable
 Slot: LEGS
 AC: 4
-STA: 4 MANA: 12
-SV Fire: 3 SV Magic: 2
+STA: +4 MANA: +12
+SV Fire: +3 SV Magic: +2
 WT: 0.7 Size: SMALL
 Class: NEC WIZ MAG ENC
 Race: ALL
@@ -290,7 +290,7 @@ Race: ALL
 Attuneable
 Slot: FINGER
 AC: 1
-INT: 3 HP: 10
+INT: +3 HP: +10
 Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
@@ -333,7 +333,7 @@ Slot: PRIMARY
 Skill: 1H Blunt
 DMG: 5
 Atk Delay: 25 DMG Bonus: 12
-DEX: 5 INT: 5
+DEX: +5 INT: +5
 Effect: Dyn's Dizzying Draught (Proc)
 WT: 6.5 Size: MEDIUM
 Class: NEC WIZ MAG ENC
@@ -356,7 +356,7 @@ Race: ALL
 Attunable
 Slot: HEAD
 AC: 2
-CHA: 2 WIS: 3 INT: 3
+CHA: +2 WIS: +3 INT: +3
 WT: 0.6 Size: SMALL
 Class: CLR BRD NEC WIZ MAG ENC
 Race: ALLFocus Effect: Mana Preservation I
@@ -364,7 +364,7 @@ Race: ALLFocus Effect: Mana Preservation I
 Attunable
 Slot: FACE
 AC: 4
-STR: 6 MANA: -37
+STR: +6 MANA: -40
 WT: 0.5 Size: SMALL
 Class: ALL
 Race: ALL
@@ -378,7 +378,7 @@ Race: ALL
 Attunable
 Slot: FACE
 AC: 7
-CHA: -10 HP: 25
+CHA: -10 HP: +25
 WT: 2.5 Size: SMALL
 Class: WAR CLR PAL SHD BRD
 Race: ALL
@@ -456,8 +456,8 @@ and Gilded Mistmoore VisorGilded Mistmoore Visor
 Attunable
 Slot: FACE
 AC: 7
-STR: 5
-SV Fire: 10
+STR: +5
+SV Fire: +10
 WT: 2.0 Size: SMALL
 Class: WAR CLR PAL SHD BRD
 Race: ALL
@@ -475,8 +475,8 @@ Race: ALL
 Attunable
 Slot: HANDS
 AC: 10
-STR: 5 STA: 5
-SV Magic: 5
+STR: +5 STA: +5
+SV Magic: +5
 WT: 6.0 Size: SMALL
 Class: WAR CLR PAL SHD BRD
 Race: ALL
@@ -489,7 +489,7 @@ and Visage of the GargoyleVisage of the Gargoyle
 Attunable
 Slot: FACE
 AC: 7
-CHA: -10 HP: 25
+CHA: -10 HP: +25
 WT: 2.5 Size: SMALL
 Class: WAR CLR PAL SHD BRD
 Race: ALL
@@ -560,7 +560,7 @@ Race: ALL
 Attuneable
 Slot: FINGER
 AC: 1
-INT: 3 HP: 10
+INT: +3 HP: +10
 Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
@@ -620,8 +620,8 @@ Race: ALL
 Attunable
 Slot: LEGS
 AC: 4
-STA: 4 MANA: 12
-SV Fire: 3 SV Magic: 2
+STA: +4 MANA: +12
+SV Fire: +3 SV Magic: +2
 WT: 0.7 Size: SMALL
 Class: NEC WIZ MAG ENC
 Race: ALL
@@ -659,7 +659,7 @@ Slot: PRIMARY
 Skill: 1H Blunt
 DMG: 5
 Atk Delay: 25 DMG Bonus: 12
-DEX: 5 INT: 5
+DEX: +5 INT: +5
 Effect: Dyn's Dizzying Draught (Proc)
 WT: 6.5 Size: MEDIUM
 Class: NEC WIZ MAG ENC
@@ -704,7 +704,7 @@ Race: ALL
 Attunable
 Slot: HEAD
 AC: 2
-CHA: 2 WIS: 3 INT: 3
+CHA: +2 WIS: +3 INT: +3
 WT: 0.6 Size: SMALL
 Class: CLR BRD NEC WIZ MAG ENC
 Race: ALLFocus Effect: Mana Preservation I
@@ -796,7 +796,7 @@ Slot: PRIMARY
 Skill: 1H Blunt
 DMG: 5
 Atk Delay: 25 DMG Bonus: 12
-DEX: 5 INT: 5
+DEX: +5 INT: +5
 Effect: Dyn's Dizzying Draught (Proc)
 WT: 6.5 Size: MEDIUM
 Class: NEC WIZ MAG ENC
@@ -805,7 +805,7 @@ Race: ALL
 Attunable
 Slot: FACE
 AC: 4
-STR: 6 MANA: -37
+STR: +6 MANA: -40
 WT: 0.5 Size: SMALL
 Class: ALL
 Race: ALL
@@ -861,7 +861,7 @@ Cleric |
 Attuneable
 Slot: FINGER
 AC: 1
-INT: 3 HP: 10
+INT: +3 HP: +10
 Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
@@ -1428,8 +1428,8 @@ Race: ALL
 Attunable
 Slot: FACE
 AC: 7
-STR: 5
-SV Fire: 10
+STR: +5
+SV Fire: +10
 WT: 2.0 Size: SMALL
 Class: WAR CLR PAL SHD BRD
 Race: ALL
@@ -1665,8 +1665,8 @@ Gargoyle GripsGargoyle Grips
 Attunable
 Slot: HANDS
 AC: 10
-STR: 5 STA: 5
-SV Magic: 5
+STR: +5 STA: +5
+SV Magic: +5
 WT: 6.0 Size: SMALL
 Class: WAR CLR PAL SHD BRD
 Race: ALL
@@ -1679,7 +1679,7 @@ Race: ALL
 Attunable
 Slot: FACE
 AC: 7
-CHA: -10 HP: 25
+CHA: -10 HP: +25
 WT: 2.5 Size: SMALL
 Class: WAR CLR PAL SHD BRD
 Race: ALL
@@ -1743,8 +1743,8 @@ Maid's StockingsMaid's Stockings
 Attunable
 Slot: LEGS
 AC: 4
-STA: 4 MANA: 12
-SV Fire: 3 SV Magic: 2
+STA: +4 MANA: +12
+SV Fire: +3 SV Magic: +2
 WT: 0.7 Size: SMALL
 Class: NEC WIZ MAG ENC
 Race: ALL
@@ -1837,7 +1837,7 @@ Race: ALL
 Attunable
 Slot: HEAD
 AC: 2
-CHA: 2 WIS: 3 INT: 3
+CHA: +2 WIS: +3 INT: +3
 WT: 0.6 Size: SMALL
 Class: CLR BRD NEC WIZ MAG ENC
 Race: ALLFocus Effect: Mana Preservation I
@@ -2098,15 +2098,15 @@ Gargoyle GripsGargoyle Grips
 Attunable
 Slot: HANDS
 AC: 10
-STR: 5 STA: 5
-SV Magic: 5
+STR: +5 STA: +5
+SV Magic: +5
 WT: 6.0 Size: SMALL
 Class: WAR CLR PAL SHD BRD
 Race: ALL
 |
 Enynti |
 Hands |
-AC: 10 STR: 5 STA: 5 SV Magic: 5 WT: 6.0 Size: SMALL Class: WAR CLR PAL SHD BRD Race: ALL |
+AC: 10 STR: +5 STA: +5 SV Magic: +5 WT: 6.0 Size: SMALL Class: WAR CLR PAL SHD BRD Race: ALL |
 Gem-Encrusted ScepterGem-Encrusted Scepter
 MAGIC ITEM
 Slot: PRIMARY
@@ -2124,15 +2124,15 @@ Gilded Mistmoore VisorGilded Mistmoore Visor
 Attunable
 Slot: FACE
 AC: 7
-STR: 5
-SV Fire: 10
+STR: +5
+SV Fire: +10
 WT: 2.0 Size: SMALL
 Class: WAR CLR PAL SHD BRD
 Race: ALL
 |
 a glyphed ghoul |
 Face |
-AC: 7 STR: 5 SV Fire: 10 WT: 2.0 Size: SMALL Class: WAR CLR PAL SHD BRD Race: ALL |
+AC: 7 STR: +5 SV Fire: +10 WT: 2.0 Size: SMALL Class: WAR CLR PAL SHD BRD Race: ALL |
 Glowing Iron PikeGlowing Iron Pike
 MAGIC ITEM
 Slot: PRIMARY
@@ -2209,15 +2209,15 @@ Maid's StockingsMaid's Stockings
 Attunable
 Slot: LEGS
 AC: 4
-STA: 4 MANA: 12
-SV Fire: 3 SV Magic: 2
+STA: +4 MANA: +12
+SV Fire: +3 SV Magic: +2
 WT: 0.7 Size: SMALL
 Class: NEC WIZ MAG ENC
 Race: ALL
 |
 Maid Issis |
 Legs |
-AC: 4 STA: 4 MANA: 12 SV Fire: 3 SV Magic: 2 WT: 0.7 Size: SMALL Class: NEC WIZ MAG ENC Race: ALL |
+AC: 4 STA: +4 MANA: +12 SV Fire: +3 SV Magic: +2 WT: 0.7 Size: SMALL Class: NEC WIZ MAG ENC Race: ALL |
 Maid Issis FangMaid Issis Fang
 LORE ITEM
 WT: 0.1 Size: SMALL
@@ -2250,7 +2250,7 @@ Mistmoore Heirloom RingMistmoore Heirloom Ring
 Attuneable
 Slot: FINGER
 AC: 1
-INT: 3 HP: 10
+INT: +3 HP: +10
 Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
@@ -2258,7 +2258,7 @@ Effect: Heritage of Mistmoore (Worn)
 |
 a fallen noble |
 Fingers |
-AC: 1 INT: 3 HP: 10 Size: TINY WT: 0.1 Class: ALL Race: ALL Effect: Heritage of Mistmoore (Worn) |
+AC: 1 INT: +3 HP: +10 Size: TINY WT: 0.1 Class: ALL Race: ALL Effect: Heritage of Mistmoore (Worn) |
 Nightshade WreathNightshade Wreath
 MAGIC ITEM
 Slot: HEAD
@@ -2322,7 +2322,7 @@ Slot: PRIMARY
 Skill: 1H Blunt
 DMG: 5
 Atk Delay: 25 DMG Bonus: 12
-DEX: 5 INT: 5
+DEX: +5 INT: +5
 Effect: Dyn's Dizzying Draught (Proc)
 WT: 6.5 Size: MEDIUM
 Class: NEC WIZ MAG ENC
@@ -2330,7 +2330,7 @@ Race: ALL
 |
 a dark librarian |
 1H Blunt |
-DMG: 5 Atk Delay: 25 DMG Bonus: 12 DEX: 5 INT: 5 Effect: Dyn's Dizzying Draught (Proc) WT: 6.5 Size: MEDIUM Class: NEC WIZ MAG ENC Race: ALL |
+DMG: 5 Atk Delay: 25 DMG Bonus: 12 DEX: +5 INT: +5 Effect: Dyn's Dizzying Draught (Proc) WT: 6.5 Size: MEDIUM Class: NEC WIZ MAG ENC Race: ALL |
 Rune of IvyRune of Ivy
 No Trade, Quest
 Size: TINY WT: 0.1
@@ -2375,14 +2375,14 @@ Tarnished Ancient TiaraTarnished Ancient Tiara
 Attunable
 Slot: HEAD
 AC: 2
-CHA: 2 WIS: 3 INT: 3
+CHA: +2 WIS: +3 INT: +3
 WT: 0.6 Size: SMALL
 Class: CLR BRD NEC WIZ MAG ENC
 Race: ALLFocus Effect: Mana Preservation I
 |
 Princess Cherista |
 Head |
-AC: 2 CHA: 2 WIS: 3 INT: 3 WT: 0.6 Size: SMALL Class: CLR BRD NEC WIZ MAG ENC Race: ALL |
+AC: 2 CHA: +2 WIS: +3 INT: +3 WT: 0.6 Size: SMALL Class: CLR BRD NEC WIZ MAG ENC Race: ALL |
 Taste of EnticementTaste of Enticement
 No Trade, Quest
 Size: SMALL WT: 0.4
@@ -2405,14 +2405,14 @@ Veil of SilenceVeil of Silence
 Attunable
 Slot: FACE
 AC: 4
-STR: 6 MANA: -37
+STR: +6 MANA: -40
 WT: 0.5 Size: SMALL
 Class: ALL
 Race: ALL
 |
 a dark librarian |
 Face |
-AC: 4 STR: 6 MANA: -37 WT: 0.5 Size: SMALL Class: ALL Race: ALL |
+AC: 4 STR: +6 MANA: -40 WT: 0.5 Size: SMALL Class: ALL Race: ALL |
 Vial of Noble's BloodVial of Noble's Blood
 MAGIC ITEM NO DROP
 WT: 0.2 Size: TINY
@@ -2436,14 +2436,14 @@ Visage of the GargoyleVisage of the Gargoyle
 Attunable
 Slot: FACE
 AC: 7
-CHA: -10 HP: 25
+CHA: -10 HP: +25
 WT: 2.5 Size: SMALL
 Class: WAR CLR PAL SHD BRD
 Race: ALL
 |
 Enynti |
 Face |
-AC: 7 CHA: -10 HP: 25 WT: 2.5 Size: SMALL Class: WAR CLR PAL SHD BRD Race: ALL |
+AC: 7 CHA: -10 HP: +25 WT: 2.5 Size: SMALL Class: WAR CLR PAL SHD BRD Race: ALL |
 Werewolf ClawsWerewolf Claws
 MAGIC ITEM
 WT: 3.5 Size: LARGE

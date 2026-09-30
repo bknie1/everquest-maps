@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-09-29
+fetched: 2026-09-30
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -204,7 +204,7 @@ Benefits
 Most of the loot from Plane of Sky quests are quite excellent for the Kunark era. All melee classes can quickly attain a 21% haste belt and eventually earn a 41% belt. There are also numerous useful clicky items for caster classes, such as the Vermilion Sky Ring for Shamans, the Duennan Shielding Ring for Magicians, and the Necklace of Resolution for Clerics. Magicians, Monks, Rangers, and Paladins will also find they must visit Plane of Sky for their epic quests. For these reasons, most casual raiding guilds will raid Plane of Sky once a week, and defeating every boss in Plane of Sky is considered a major milestone in a guild's rise to fame.
 Travelling To/From Plane of Sky
 This is a quest zone, very similar to the Temple of Solusek Ro, only the challenges are here in the Zone with us.
-The Plane of Sky is accessible via an orb in East Freeport, located on a rock in the bay (location approximately -425, -1200). Clicking the orb will send you to the zone. There are reports of a Wizard spell Alter Plane: Sky, which requires Cloudy Stone of Veeshan for each cast, which may also work, but this is not confirmed for EQL. If you are grouped, you may also accept a 'Gather Party' summons from a group member already on the island.
+The Plane of Sky is accessible via an orb in East Freeport, located on a rock in the bay (location approximately -425, -1200). Clicking the orb will send you to the zone. There are reports of a Wizard spell Alter Plane: Sky, which requires Cloudy Stone of Veeshan for each cast. If you are grouped, you may also accept a 'Gather Party' summons from a group member already on the island.
 Leaving the Plane of Sky is available via any normal port spell or ritual, Gate, or the Origin ability. You may also opt to leap off the edge. After falling, you zone into the eastern edge of the ocean of East Freeport, east of the docks (swim directly west to get back to land, the docks should come into view quickly).
 Walkthrough/Guide
 Plane of Sky is a unique, complex, and challenging zone which requires tremendous effort, preparation, and resources for any guild to succeed in. Progress can be measured in how many island bosses a guild has defeated. Your guild probably shouldn't start here until you've already had some success in Plane of Hate and Fear, which are considerably easier zones in general. You should also already have some minimum level of discipline in your guild, and most members should be able to follow simple instructions and pay attention.
@@ -759,7 +759,7 @@ Cudgel of the FoolCudgel of the Fool
 Lore Equipped, No Trade
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 52
-DMG: 45
+DMG: 45 DMG Bonus: 34 @ lvl 50
 INT: -10 END: +100
 Effect: Fury of the Chosen (Combat)
 Size: GIANT WT: 8.0
@@ -2279,7 +2279,7 @@ Solidate Mithril RingSolidate Mithril Ring
 Lore Equipped, No Trade
 Slot: Fingers
 AC: 4
-STR: 5 INT: 5 AGI: 6 MANA: 50
+STR: +5 INT: +5 AGI: +6 MANA: +50
 Effect: Steelskin (Must Equip, Casting Time: Instant, Cooldown: 180 seconds) at Level 45
 WT: 0.1 Size: TINY
 Class: WIZ
@@ -2362,8 +2362,8 @@ Belt of IniquityBelt of Iniquity
 Lore Equipped, No Trade
 Slot: Waist
 AC: 8
-STR: 5 INT: 5
-SV MAGIC: 5
+STR: +5 INT: +5
+SV MAGIC: +5
 Haste: 16%
 WT: 0.1 Size: SMALL
 Class: SHD
@@ -2426,7 +2426,7 @@ Race: ALL
 Bracelet of DistortionBracelet of Distortion
 Lore Equipped, No Trade
 Slot: Wrist
-STR: 5 INT: -5 HP: 50 MANA: 50
+STR: +5 INT: -5 HP: +50 MANA: +50
 WT: 0.1 Size: TINY
 Class: WIZ
 Race: ALL
@@ -2442,7 +2442,7 @@ Race: ALL
 Bracelet of QuiescenceBracelet of Quiescence
 Lore Equipped, No Trade
 Slot: Wrist
-CHA: 7 INT: 7 MANA: 20
+CHA: +7 INT: +7 MANA: +20
 WT: 0.1 Size: TINY
 Class: ENC
 Race: ALL
@@ -2454,7 +2454,7 @@ Slot: Primary
 Skill: 1H Slashing Atk Delay: 39
 DMG: 20
 Dmg Bon: 19
-STR: 7 INT: 3
+STR: +7 INT: +3
 WT: 7.5 Size: MEDIUM
 Class: SHD
 Race: ALL
@@ -2856,7 +2856,7 @@ Slot: Primary
 Skill: 1H Slashing Atk Delay: 39
 DMG: 20
 Dmg Bon: 19
-STR: 7 INT: 3
+STR: +7 INT: +3
 WT: 7.5 Size: MEDIUM
 Class: SHD
 Race: ALL
@@ -3529,15 +3529,15 @@ AC: 4 DEX: +4 SV COLD: +4 WT: 9.0 Size: LARGE Class: ALL Race: ALL |
 Adamantium EarringAdamantium Earring
 Lore Equipped, No Trade, Quest
 Slot: Ear
-MANA: 5
-SV FIRE: 5
+MANA: +5
+SV FIRE: +5
 WT: 1.0 Size: MEDIUM
 Class: ENC
 Race: ALL
 |
 Bazzt Zzzt |
 Ear |
-MANA: 5 SV FIRE: 5 WT: 1.0 Size: MEDIUM Class: ENC Race: ALL |
+MANA: +5 SV FIRE: +5 WT: 1.0 Size: MEDIUM Class: ENC Race: ALL |
 Adumbrate GlobeAdumbrate Globe
 MAGIC ITEM LORE ITEM
 WT: 1.0 Size: MEDIUM
@@ -3560,14 +3560,14 @@ Amethyst AmuletAmethyst Amulet
 Lore Equipped, No Trade, Quest
 Slot: Neck
 AC: 2
-STR: 3 STA: 3
+STR: +3 STA: +3
 Size: MEDIUM WT: 0.1
 Class: WIZ
 Race: ALL
 |
 Sister of the Spire |
 Neck |
-AC: 2 STR: 3 STA: 3 Size: MEDIUM WT: 0.1 Class: WIZ Race: ALL |
+AC: 2 STR: +3 STA: +3 Size: MEDIUM WT: 0.1 Class: WIZ Race: ALL |
 Amulet of Woven HairAmulet of Woven Hair
 Lore Equipped, No Trade, Quest
 Slot: Neck
@@ -3705,8 +3705,8 @@ Belt of IniquityBelt of Iniquity
 Lore Equipped, No Trade
 Slot: Waist
 AC: 8
-STR: 5 INT: 5
-SV MAGIC: 5
+STR: +5 INT: +5
+SV MAGIC: +5
 Haste: 16%
 WT: 0.1 Size: SMALL
 Class: SHD
@@ -3714,7 +3714,7 @@ Race: ALL
 |
 Various |
 Waist |
-AC: 8 STR: 5 INT: 5 SV MAGIC: 5 Haste: 16% WT: 0.1 Size: SMALL Class: SHD Race: ALL |
+AC: 8 STR: +5 INT: +5 SV MAGIC: +5 Haste: 16% WT: 0.1 Size: SMALL Class: SHD Race: ALL |
 Belt of TranquilityBelt of Tranquility
 Lore Equipped, No Trade
 Slot: Waist
@@ -3879,14 +3879,14 @@ Slot: Primary
 Skill: 1H Slashing Atk Delay: 39
 DMG: 20
 Dmg Bon: 19
-STR: 7 INT: 3
+STR: +7 INT: +3
 WT: 7.5 Size: MEDIUM
 Class: SHD
 Race: ALL
 |
 Various |
 1H Slashing |
-Atk Delay: 39 DMG: 20 Dmg Bon: 19 STR: 7 INT: 3 WT: 7.5 Size: MEDIUM Class: SHD Race: ALL |
+Atk Delay: 39 DMG: 20 Dmg Bon: 19 STR: +7 INT: +3 WT: 7.5 Size: MEDIUM Class: SHD Race: ALL |
 Blood-Drawn RunesBlood-Drawn Runes
 No Trade, Quest
 Slot: CHEST
@@ -3986,14 +3986,14 @@ DEX: 5 CHA: -5 HP: 25 MANA: 65 WT: 0.1 Size: TINY Class: NEC Race: ALL |
 Bracelet of DistortionBracelet of Distortion
 Lore Equipped, No Trade
 Slot: Wrist
-STR: 5 INT: -5 HP: 50 MANA: 50
+STR: +5 INT: -5 HP: +50 MANA: +50
 WT: 0.1 Size: TINY
 Class: WIZ
 Race: ALL
 |
 Various |
 Wrist |
-STR: 5 INT: -5 HP: 50 MANA: 50 WT: 0.1 Size: TINY Class: WIZ Race: ALL |
+STR: +5 INT: -5 HP: +50 MANA: +50 WT: 0.1 Size: TINY Class: WIZ Race: ALL |
 Bracelet of ExertionBracelet of Exertion
 Lore Equipped, No Trade
 Slot: Wrist
@@ -4008,14 +4008,14 @@ STR: 5 HP: 75 MANA: 35 WT: 0.1 Size: TINY Class: MAG Race: ALL |
 Bracelet of QuiescenceBracelet of Quiescence
 Lore Equipped, No Trade
 Slot: Wrist
-CHA: 7 INT: 7 MANA: 20
+CHA: +7 INT: +7 MANA: +20
 WT: 0.1 Size: TINY
 Class: ENC
 Race: ALL
 |
 Various |
 Wrist |
-CHA: 7 INT: 7 MANA: 20 WT: 0.1 Size: TINY Class: ENC Race: ALL |
+CHA: +7 INT: +7 MANA: +20 WT: 0.1 Size: TINY Class: ENC Race: ALL |
 Brass KnucklesBrass Knuckles
 No Trade, Quest, Placeable
 Slot: Primary Secondary
@@ -4575,8 +4575,8 @@ Efreeti War ShieldEfreeti War Shield
 Lore Equipped, Attunable, Quest, Placeable
 Slot: Secondary
 AC: 15
-STR: 5
-SV FIRE: 10
+STR: +5
+SV FIRE: +10
 WT: 2.0 Size: MEDIUM
 Skill: Shield
 Class: WAR CLR PAL RNG SHD
@@ -4584,7 +4584,7 @@ Race: ALL
 |
 Noble Dojorn, Overseer of Air, the Hand of Veeshan |
 Secondary |
-AC: 15 STR: 5 SV FIRE: 10 WT: 2.0 Size: MEDIUM Skill: Shield Class: WAR CLR PAL RNG SHD Race: ALL |
+AC: 15 STR: +5 SV FIRE: +10 WT: 2.0 Size: MEDIUM Skill: Shield Class: WAR CLR PAL RNG SHD Race: ALL |
 Efreeti War SpearEfreeti War Spear
 MAGIC ITEM LORE ITEM
 Slot: PRIMARY
@@ -4603,28 +4603,28 @@ Slot: Primary
 Skill: 2H Blunt Atk Delay: 30
 DMG: 10
 Dmg Bon: 20
-End: 10
+End: +10
 WT: 1.0 Size: MEDIUM
 Class: ALL
 Race: ALL
 |
 Noble Dojorn, Overseer of Air, the Hand of Veeshan |
 2H Blunt |
-Atk Delay: 30 DMG: 10 Dmg Bon: 20 End: 10 WT: 1.0 Size: MEDIUM Class: ALL Race: ALL |
+Atk Delay: 30 DMG: 10 Dmg Bon: 20 End: +10 WT: 1.0 Size: MEDIUM Class: ALL Race: ALL |
 Efreeti Wind StaffEfreeti Wind Staff
 Lore Equipped, Attunable, Quest, Placeable
 Slot: Primary
 Skill: 2H Blunt Atk Delay: 36
 DMG: 12
 Dmg Bon: 24
-INT: 3
+INT: +3
 WT: 15.0 Size: LARGE
 Class: CLR DRU SHM NEC WIZ MAG ENC BST BER
 Race: ALL
 |
 Noble Dojorn, Overseer of Air, the Hand of Veeshan |
 2H Blunt |
-Atk Delay: 36 DMG: 12 Dmg Bon: 24 INT: 3 WT: 15.0 Size: LARGE Class: CLR DRU SHM NEC WIZ MAG ENC BST BER Race: ALL |
+Atk Delay: 36 DMG: 12 Dmg Bon: 24 INT: +3 WT: 15.0 Size: LARGE Class: CLR DRU SHM NEC WIZ MAG ENC BST BER Race: ALL |
 Efreeti ZweihanderEfreeti Zweihander
 Lore Equipped, Attunable, Quest, Placeable
 Slot: Primary
@@ -4800,14 +4800,14 @@ Finely Woven Cloth BeltFinely Woven Cloth Belt
 Lore Equipped, No Trade
 Slot: Waist
 AC: 1
-INT: 3 AGI: 3
+INT: +3 AGI: +3
 WT: 0.1 Size: SMALL
 Class: SHD
 Race: ALL
 |
 The Spiroc Lord |
 Waist |
-AC: 1 INT: 3 AGI: 3 WT: 0.1 Size: SMALL Class: SHD Race: ALL |
+AC: 1 INT: +3 AGI: +3 WT: 0.1 Size: SMALL Class: SHD Race: ALL |
 Finely Woven Gold MeshFinely Woven Gold Mesh
 MAGIC ITEM LORE ITEM
 Slot: FACE
@@ -4915,26 +4915,26 @@ Golden Efreeti BracersGolden Efreeti Bracers
 No Trade
 Slot: Wrist
 AC: 8
-AGI: 5 MANA: 20
+AGI: +5 MANA: +20
 WT: 3.0 Size: SMALL
 Class: ALL
 Race: ALL
 |
 Noble Dojorn, Overseer of Air, the Hand of Veeshan |
 Wrist |
-AC: 8 AGI: 5 MANA: 20 WT: 3.0 Size: SMALL Class: ALL Race: ALL |
+AC: 8 AGI: +5 MANA: +20 WT: 3.0 Size: SMALL Class: ALL Race: ALL |
 Golden Efreeti ChestplateGolden Efreeti Chestplate
 Lore Equipped, No Trade
 Slot: Chest
 AC: 20
-STR: 5 WIS: 10
+STR: +5 WIS: +10
 WT: 7.5 Size: LARGE
 Class: ALL
 Race: ALL
 |
 Noble Dojorn, Overseer of Air, the Hand of Veeshan |
 Chest |
-AC: 20 STR: 5 WIS: 10 WT: 7.5 Size: LARGE Class: ALL Race: ALL |
+AC: 20 STR: +5 WIS: +10 WT: 7.5 Size: LARGE Class: ALL Race: ALL |
 Golden Efreeti GauntletsGolden Efreeti Gauntlets
 MAGIC ITEM LORE ITEM NO DROP
 Slot: HANDS
@@ -4952,14 +4952,14 @@ Golden Efreeti GreavesGolden Efreeti Greaves
 Lore Equipped, No Trade
 Slot: LEGS
 AC: 15
-DEX: 10 AGI: 9
+DEX: +10 AGI: +9
 WT: 5.6 Size: LARGE
 Class: ALL
 Race: ALL
 |
 Noble Dojorn, Overseer of Air, the Hand of Veeshan |
 Legs |
-AC: 15 DEX: 10 AGI: 9 WT: 5.6 Size: LARGE Class: ALL Race: ALL |
+AC: 15 DEX: +10 AGI: +9 WT: 5.6 Size: LARGE Class: ALL Race: ALL |
 Golden Efreeti RingGolden Efreeti Ring
 Lore Equipped, No Trade, Quest
 Slot: Fingers
@@ -4990,15 +4990,15 @@ Golden Efreeti VambracesGolden Efreeti Vambraces
 Lore Equipped, No Trade
 Slot: Arms
 AC: 12
-DEX: 6 STA: 10
-End: 20
+DEX: +6 STA: +10
+End: +20
 WT: 4.9 Size: SMALL
 Class: ALL
 Race: ALL
 |
 Noble Dojorn, Overseer of Air, the Hand of Veeshan |
 Arms |
-AC: 12 DEX: 6 STA: 10 End: 20 WT: 4.9 Size: SMALL Class: ALL Race: ALL |
+AC: 12 DEX: +6 STA: +10 End: +20 WT: 4.9 Size: SMALL Class: ALL Race: ALL |
 Golden HiltGolden Hilt
 Quest
 WT: 1.0 Size: MEDIUM
@@ -5125,15 +5125,15 @@ High Quality RaimentHigh Quality Raiment
 Lore Equipped, No Trade, Quest
 Slot: Shoulders
 AC: 6
-INT: 2 AGI: 2
-SV MAGIC: 3
+INT: +2 AGI: +2
+SV MAGIC: +3
 WT: 15.0 Size: LARGE
 Class: WIZ BER
 Race: ALL
 |
 The Spiroc Lord |
 Shoulders |
-AC: 6 INT: 2 AGI: 2 SV MAGIC: 3 WT: 15.0 Size: LARGE Class: WIZ BER Race: ALL |
+AC: 6 INT: +2 AGI: +2 SV MAGIC: +3 WT: 15.0 Size: LARGE Class: WIZ BER Race: ALL |
 Honeyed NectarHoneyed Nectar
 LORE ITEM
 WT: 10.0 Size: LARGE
@@ -5291,14 +5291,14 @@ Light Cloth MantleLight Cloth Mantle
 Lore Equipped, Attunable, Quest
 Slot: Shoulders
 AC: 4
-STA: 3 CHA: 3
+STA: +3 CHA: +3
 WT: 9.0 Size: LARGE
 Class: ENC
 Race: ALL
 |
 Keeper of Souls |
 Shoulders |
-AC: 4 STA: 3 CHA: 3 WT: 9.0 Size: LARGE Class: ENC Race: ALL |
+AC: 4 STA: +3 CHA: +3 WT: 9.0 Size: LARGE Class: ENC Race: ALL |
 Light Damask MantleLight Damask Mantle
 Lore Equipped, No Trade, Quest
 Slot: Shoulders
@@ -5744,14 +5744,14 @@ AC: 10 STR: +5 STA: +5 WT: 0.2 Size: SMALL Class: PAL Race: ALL |
 Silvery RingSilvery Ring
 Lore Equipped, No Trade, Quest
 Slot: Fingers
-SV MAGIC: 5
+SV MAGIC: +5
 WT: 5.0 Size: MEDIUM
 Class: SHD
 Race: ALL
 |
 Keeper of Souls |
 Fingers |
-SV MAGIC: 5 WT: 5.0 Size: MEDIUM Class: SHD Race: ALL |
+SV MAGIC: +5 WT: 5.0 Size: MEDIUM Class: SHD Race: ALL |
 Sky EmeraldSky Emerald
 LORE ITEM
 WT: 3.0 Size: MEDIUM
@@ -6384,15 +6384,15 @@ Woven Skull CapWoven Skull Cap
 Lore Equipped, No Trade, Quest
 Slot: Head
 AC: 4
-MANA: 5
-SV POISON: 2
+MANA: +5
+SV POISON: +2
 WT: 0.1 Size: SMALL
 Class: WIZ
 Race: ALL
 |
 Keeper of Souls |
 Head |
-AC: 4 MANA: 5 SV POISON: 2 WT: 0.1 Size: SMALL Class: WIZ Race: ALL |
+AC: 4 MANA: +5 SV POISON: +2 WT: 0.1 Size: SMALL Class: WIZ Race: ALL |
 Writ of QuelliousWrit of Quellious
 LORE ITEM
 WT: 1.0 Size: MEDIUM
@@ -6411,12 +6411,12 @@ Race: ALL
 Protector of Sky |
 (None) |
 LORE ITEM WT: 6.0 Size: MEDIUM Class: ALL Race: ALL |
-Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Sky&oldid=179711"
+Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Sky&oldid=179754"
 Categories: Classic Era
 Zones
 How to Contribute
 Donate
-This page was last edited on 28 September 2026, at 19:51.
+This page was last edited on 29 September 2026, at 14:14.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

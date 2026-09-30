@@ -1,5 +1,5 @@
 # Steamfont_Mountains (eqlwiki.com)
-fetched: 2026-09-25
+fetched: 2026-09-30
 
 Steamfont Mountains - EverQuest Legends Wiki
 Jump to content
@@ -1339,14 +1339,14 @@ rogue clockwork |
 (None) |
 WT: 0.1 Size: TINY Class: ALL Race: ALL |
 Drop of MercuryDrop of Mercury
-QUEST ITEM
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 an earth elemental |
 (None) |
-QUEST ITEM WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Quest Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Dusty Old SkullDusty Old Skull
 No Trade
 WT: 0.1 Size: TINY

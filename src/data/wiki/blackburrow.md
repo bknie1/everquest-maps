@@ -1,5 +1,5 @@
 # Blackburrow (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-09-30
 
 Blackburrow - EverQuest Legends Wiki
 Jump to content
@@ -387,7 +387,7 @@ Race: ALL
 , Rat Paw TalismanRat Paw Talisman
 Attunable
 Slot: NECK
-AC: +2 Mana: +2
+AC: 2 Mana: +2
 WIS: +2
 WT: 0.1 Size: TINY
 Class: CLR DRU SHM NEC WIZ MAG ENC
@@ -969,7 +969,7 @@ AC: 6 Mana: +10 END: +10 AGI: +5 WT: 2.0 Size: SMALL Class: WAR CLR PAL RNG SHD 
 Rat Paw TalismanRat Paw Talisman
 Attunable
 Slot: NECK
-AC: +2 Mana: +2
+AC: 2 Mana: +2
 WIS: +2
 WT: 0.1 Size: TINY
 Class: CLR DRU SHM NEC WIZ MAG ENC
@@ -977,7 +977,7 @@ Race: ALL
 |
 a giant plague rat |
 Neck |
-AC: +2 Mana: +2 WIS: +2 WT: 0.1 Size: TINY Class: CLR DRU SHM NEC WIZ MAG ENC Race: ALL |
+AC: 2 Mana: +2 WIS: +2 WT: 0.1 Size: TINY Class: CLR DRU SHM NEC WIZ MAG ENC Race: ALL |
 Raw-Hide Arm GuardRaw-Hide Arm Guard
 Attunable
 Slot: WRIST

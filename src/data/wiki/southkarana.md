@@ -1,5 +1,5 @@
 # Southern_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-09-23
+fetched: 2026-09-30
 
 Southern Karana - EverQuest Legends Wiki
 Jump to content
@@ -912,7 +912,8 @@ Cracktusk
 Elephant |
 Warrior |
 23-25 |
-(-6641, 1835, 59) |
+(-6641, 1835, 59)
+(-3800, -1380) x2 |
 Bull Elephant ToothBull Elephant Tooth
 MAGIC ITEM LORE ITEM NO DROP
 WT: 3.0 Size: LARGE
@@ -931,8 +932,7 @@ WT: 10.0 Size: GIANT
 Class: ALL
 Race: ALL
 |
-This elephant had a storied past on live ... [2]
-<div style="border... |
+9/30/26 - He was cruising north, north of Splitpaw, when I entered the instance. Later, he spawned twice at (-3800, -138... |
 Ghanex Drah
 |
 Gnoll |
@@ -968,7 +968,9 @@ Gnawfang
 lion |
 Warrior |
 15 |
-|
+(-2170, 2735)
+(-3750, 3500)
+Also near aviak city |
 Gnawfang's PeltGnawfang's Pelt
 WT: 3.5 Size: LARGE
 Class: ALL
@@ -979,8 +981,7 @@ Class: ALL
 Race: ALL
 , High Quality Cat Pelt |
 A named lion that wanders Southern Karana.
-PH is a lioness. Spawns in middle of grim rot ruins every 6 minutes.
-Unlike ... |
+PH is a lioness. Spawns in middle of grim rot ruins every 6 minutes. (needs v... |
 Grizzleknot
 |
 Treant |

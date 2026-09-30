@@ -1,5 +1,5 @@
 # Ocean_of_Tears (eqlwiki.com)
-fetched: 2026-09-22
+fetched: 2026-09-30
 
 Ocean of Tears - EverQuest Legends Wiki
 Jump to content
@@ -311,7 +311,7 @@ Oracle of K`Arnon |
 All |
 See The Fiery Avenger |
 See The Fiery Avenger |
-NPCs - Found 77 NPCs that spawn in Ocean of Tears:
+NPCs - Found 78 NPCs that spawn in Ocean of Tears:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Boat
 |
@@ -974,6 +974,14 @@ Warrior |
 100% @ (730, 8800) |
 None |
 Nerbilik can be found at two locations in the Ocean of Tears. He stands on the rock at +730, +8800 for a few minutes and... |
+Nyuae the Cruel
+|
+Dark Elf |
+Necromancer |
+42 |
+-3484, -1190.5, 129.5 |
+* Blackened Mithril Chain |
+|
 Oracle of K`Arnon
 |
 High Elf |

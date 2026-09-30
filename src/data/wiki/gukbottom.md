@@ -1,5 +1,5 @@
 # Lower_Guk (eqlwiki.com)
-fetched: 2026-09-26
+fetched: 2026-09-30
 
 Lower Guk - EverQuest Legends Wiki
 Jump to content
@@ -161,7 +161,7 @@ Race: ALL
 MAGIC ITEM
 Slot: CHEST
 AC: 17
-END: 10
+END: +10
 STR: +7 STA: +4
 WT: 6.5 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
@@ -746,7 +746,7 @@ Race: ALL
 MAGIC ITEM
 Slot: CHEST
 AC: 17
-END: 10
+END: +10
 STR: +7 STA: +4
 WT: 6.5 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
@@ -1641,7 +1641,7 @@ Race: ALL
 MAGIC ITEM
 Slot: CHEST
 AC: 17
-END: 10
+END: +10
 STR: +7 STA: +4
 WT: 6.5 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
@@ -2103,7 +2103,7 @@ Brigandine TunicBrigandine Tunic
 MAGIC ITEM
 Slot: CHEST
 AC: 17
-END: 10
+END: +10
 STR: +7 STA: +4
 WT: 6.5 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
@@ -2111,7 +2111,7 @@ Race: ALL
 |
 a ghoul sentinel |
 Chest |
-AC: 17 END: 10 STR: +7 STA: +4 WT: 6.5 Size: MEDIUM Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
+AC: 17 END: +10 STR: +7 STA: +4 WT: 6.5 Size: MEDIUM Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
 Broken Bow Part BBroken Bow Part B
 LORE ITEM NO DROP
 WT: 0.6 Size: SMALL

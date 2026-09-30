@@ -1,5 +1,5 @@
 # Everfrost_Peaks (eqlwiki.com)
-fetched: 2026-09-28
+fetched: 2026-09-30
 
 Everfrost Peaks - EverQuest Legends Wiki
 Jump to content
@@ -251,7 +251,7 @@ WT: 1.0 Size: LARGE
 Class: WIZ
 Race: ALL
 , Star of EyesStar of Eyes
-MAGIC ITEM NODROP
+No Trade, Quest
 Effect: Identify (Any Slot, Casting Time: Instant)
 WT: 0.1 Size: TINY
 Class: WIZ
@@ -1433,16 +1433,18 @@ goblin lackey |
 (None) |
 QUEST ITEM WT: 0.1 Size: TINY Class: ALL Race: ALL |
 Throwing BoulderThrowing Boulder
+Attunable, Placeable
 Slot: RANGE AMMO
-Skill: Throwingv2 Atk Delay: 35
+Skill: Throwing Atk Delay: 35
 DMG: 18
-WT: 25.5 Range: 200 Size: LARGE
+Size: LARGE WT: 25.5
+Range: 200
 Class: WAR SHD ROG BST BER
 Race: ALL
 |
 an ice giant |
 Range, Ammo |
-Skill: Throwingv2 Atk Delay: 35 DMG: 18 WT: 25.5 Range: 200 Size: LARGE Class: WAR SHD ROG BST BER Race: ALL |
+Skill: Throwing Atk Delay: 35 DMG: 18 Size: LARGE WT: 25.5 Range: 200 Class: WAR SHD ROG BST BER Race: ALL |
 Tishan's KiltTishan's Kilt
 MAGIC ITEM LORE ITEM NO DROP
 Slot: LEGS

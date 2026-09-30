@@ -1,5 +1,5 @@
 # East_Freeport (eqlwiki.com)
-fetched: 2026-09-27
+fetched: 2026-09-30
 
 Freeport - EverQuest Legends Wiki
 Jump to content
@@ -301,12 +301,21 @@ West Freeport, North Freeport |
 a minnow |
 Militia Seals
 |
-? |
+Twisted Silver TorqueTwisted Silver Torque
+MAGIC ITEM LORE ITEM NO TRADE
+Slot: NECK
+AC: 11
+STA: +7 WIS: +4 INT: +4
+SV Poison: +10
+WT: 4.0 Size: TINY
+Class: BRD, PAL, RNG, ROG, SHD, WAR
+Race: ALL
 |
-|
-|
-|
-|
+Guard Jup |
+35 |
+All |
+Dulak's Harbor Gulf of Gunthak |
+Guard Jup |
 Monk Sash Quests
 |
 White Training SashWhite Training Sash

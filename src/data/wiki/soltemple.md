@@ -1,5 +1,5 @@
 # Temple_of_Solusek_Ro (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-09-30
 
 The Temple of Solusek Ro - EverQuest Legends Wiki
 Jump to content
@@ -378,7 +378,7 @@ Romar Sunto, Tarn Visilin, Mizr N`Mar, Raine Beteria |
 Darkforge Armor Quests
 |
 ? |
-an undead knight |
+an undead knight, An undead knight (Mistmoore) |
 33 |
 Shadow Knight |
 Cazic Thule, Steamfont Mountains, Greater Faydark, Lesser Faydark, Solusek's Eye, East Freeport, West Freeport, Northern Desert of Ro, Northern Karana |

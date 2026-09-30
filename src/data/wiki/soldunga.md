@@ -1,5 +1,5 @@
 # Solusek's_Eye (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-09-30
 
 Solusek's Eye - EverQuest Legends Wiki
 Jump to content
@@ -224,7 +224,7 @@ Race: ALL
 , Lord Gimblox's Signet RingLord Gimblox's Signet Ring
 Lore Equipped, No Trade, Quest
 Slot: FINGER
-SV FIRE: 4
+SV FIRE: +4
 WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
@@ -1297,7 +1297,7 @@ Warrior |
 Lord Gimblox's Signet RingLord Gimblox's Signet Ring
 Lore Equipped, No Trade, Quest
 Slot: FINGER
-SV FIRE: 4
+SV FIRE: +4
 WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
@@ -1943,14 +1943,14 @@ MAGIC ITEM EXPENDABLE Charges: 1 Effect: Inferno Shield as Level 50 WT: 0.4 Size
 Lord Gimblox's Signet RingLord Gimblox's Signet Ring
 Lore Equipped, No Trade, Quest
 Slot: FINGER
-SV FIRE: 4
+SV FIRE: +4
 WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
 |
 Lord Gimblox |
 Fingers |
-SV FIRE: 4 WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+SV FIRE: +4 WT: 0.1 Size: SMALL Class: ALL Race: ALL |
 MelatiteMelatite
 WT: 5.0 Size: TINY
 Class: ALL

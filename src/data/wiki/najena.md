@@ -1,5 +1,5 @@
 # Najena (eqlwiki.com)
-fetched: 2026-09-28
+fetched: 2026-09-30
 
 Najena - EverQuest Legends Wiki
 Jump to content
@@ -1863,15 +1863,6 @@ Race: ALL
 an earth elemental |
 (None) |
 WT: 1.5 Size: SMALL Class: ALL Race: ALL |
-|
-Notice: This article is being considered for deletion.
-Please add comments or information below, as to whether this page applies to EverQuest Legends and should be kept or not.
-Feel free to edit the article, but please do not blank it or remove this notice.
-|
-not relevent in EQ legends
-Were you looking for Ringmail Armor Set?
-Were you looking for Ringmail Armor Set?
-<onlyinclude>
 Large Ringmail BeltLarge Ringmail Belt
 Slot: WAIST
 AC: 5

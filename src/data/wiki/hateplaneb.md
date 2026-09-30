@@ -1,5 +1,5 @@
 # Plane_of_Hate (eqlwiki.com)
-fetched: 2026-09-23
+fetched: 2026-09-30
 
 Plane of Hate - EverQuest Legends Wiki
 Jump to content
@@ -928,8 +928,8 @@ Indicolite GreavesIndicolite Greaves
 Lore Equipped, No Trade, Quest
 Slot: LEGS
 AC: 20
-STR: +5 STA: +5 AGI: +5
-WT: 5.6 Size: LARGE
+STR: +5 STA: +5 AGI: +5 END: +10
+Size: LARGE WT: 5.6
 Class: WAR
 Race: ALL
 Insidious PantaloonsInsidious Pantaloons
@@ -1066,8 +1066,8 @@ WT: 1.5 Size: SMALL
 Class: WIZ
 Race: ALL
 , Shattered Emerald of CorruptionShattered Emerald of Corruption
-MAGIC ITEM LORE ITEM NO DROP
-WT: 0.1 Size: TINY
+No Trade, Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -1750,15 +1750,15 @@ BloodmoonBloodmoon
 Lore Equipped, No Trade, Placeable
 Slot: PRIMARY
 Skill: 1H Slashing Atk Delay: 28
-DMG: 18
+DMG: 18 DMG Bonus: 13 @ lvl 50
 STR: +10
-WT: 3.0 Size: MEDIUM
+Size: MEDIUM WT: 3.0
 Class: SHD
 Race: ALLFocus Effect: Improved Vampirism III
 |
 Lord of Ire |
 1H Slashing |
-Atk Delay: 28 DMG: 18 STR: +10 WT: 3.0 Size: MEDIUM Class: SHD Race: ALL |
+Atk Delay: 28 DMG: 18 DMG Bonus: 13 @ lvl 50 STR: +10 Size: MEDIUM WT: 3.0 Class: SHD Race: ALL |
 Boots of the RighteousBoots of the Righteous
 MAGIC ITEM LORE ITEM NO DROP
 Slot: FEET
@@ -2067,17 +2067,17 @@ a revultant rat, An Agent of Innoruuk |
 Face |
 AC: 10 STR: +5 DEX: +5 AGI: +5 WT: 2.5 Size: SMALL Class: WAR Race: ALL |
 DawnchaserDawnchaser
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade, Placeable
 Slot: PRIMARY SECONDARY
-Skill: Piercing Atk Delay: 25
-DMG: 11
-WT: 3.0 Size: LARGE
+Skill: 1H Piercing Atk Delay: 25
+DMG: 11 DMG Bonus: 12 @ lvl 50
+Size: LARGE WT: 3.0
 Class: BRD
 Race: ALL
 |
-Innoruuk (God) |
-Piercing |
-Atk Delay: 25 DMG: 11 WT: 3.0 Size: LARGE Class: BRD Race: ALL |
+Mistress of Scorn |
+Primary, Secondary |
+Skill: 1H Piercing Atk Delay: 25 DMG: 11 DMG Bonus: 12 @ lvl 50 Size: LARGE WT: 3.0 Class: BRD Race: ALL |
 Decrepit HideDecrepit Hide
 No Trade, Quest
 WT: 0.2 Size: SMALL
@@ -2114,17 +2114,17 @@ Ashenbone Broodmaster |
 Primary, Secondary |
 Effect: Reclaim Energy (Casting Time: Instant) at Level 40 Focus Effect: Minion of Hate WT: 2.0 Size: MEDIUM Class: NEC Race: ALL |
 Engineer's RingEngineer's Ring
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade
 Slot: FINGER
 AC: 20
 STR: +5 DEX: +5 STA: +5 CHA: +5 WIS: +5 INT: +5 AGI: +5 HP: +5 MANA: +20 END: +20
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: WAR CLR PAL SHD ROG NEC WIZ MAG ENC
 Race: ALL
 |
 Innoruuk |
 Fingers |
-AC: 20 STR: +5 DEX: +5 STA: +5 CHA: +5 WIS: +5 INT: +5 AGI: +5 HP: +5 MANA: +20 END: +20 WT: 0.1 Size: TINY Class: WAR CLR PAL SHD ROG NEC WIZ MAG ENC Race: ALL |
+AC: 20 STR: +5 DEX: +5 STA: +5 CHA: +5 WIS: +5 INT: +5 AGI: +5 HP: +5 MANA: +20 END: +20 Size: TINY WT: 0.1 Class: WAR CLR PAL SHD ROG NEC WIZ MAG ENC Race: ALL |
 Essence of a VampireEssence of a Vampire
 MAGIC ITEM LORE ITEM NO DROP
 WT: 0.1 Size: TINY
@@ -2442,14 +2442,14 @@ Lore Equipped, No Trade
 Slot: WAIST
 AC: 10
 STR: +10 DEX: +10 WIS: +10 AGI: +10
-SV MAGIC: +5 SV FIRE: +5 SV COLD: +5 SV DISEASE: +5 SV POISON: +5
-WT: 2.0 Size: SMALL
+SV FIRE: +5 SV DISEASE: +5 SV COLD: +5 SV MAGIC: +5 SV POISON: +5
+Size: SMALL WT: 2.0
 Class: WAR ROG SHM BST BER
 Race: ALL
 |
 Innoruuk |
 Waist |
-AC: 10 STR: +10 DEX: +10 WIS: +10 AGI: +10 SV MAGIC: +5 SV FIRE: +5 SV COLD: +5 SV DISEASE: +5 SV POISON: +5 WT: 2.0 Size: SMALL Class: WAR ROG SHM BST BER Race: ALL |
+AC: 10 STR: +10 DEX: +10 WIS: +10 AGI: +10 SV FIRE: +5 SV DISEASE: +5 SV COLD: +5 SV MAGIC: +5 SV POISON: +5 Size: SMALL WT: 2.0 Class: WAR ROG SHM BST BER Race: ALL |
 Imbrued Platemail BootsImbrued Platemail Boots
 Lore Equipped, No Trade, Quest
 Slot: FEET
@@ -2532,13 +2532,13 @@ Slot: ARMS
 AC: 16
 INT: +9
 SV POISON: +10
-WT: 4.9 Size: SMALL
+Size: SMALL WT: 4.9
 Class: BRD
 Race: ALL
 |
 a forsaken revenant (male), an ashenbone drake, a haunted chest |
 Arms |
-AC: 16 INT: +9 SV POISON: +10 WT: 4.9 Size: SMALL Class: BRD Race: ALL |
+AC: 16 INT: +9 SV POISON: +10 Size: SMALL WT: 4.9 Class: BRD Race: ALL |
 Indicolite BootsIndicolite Boots
 Lore Equipped, No Trade, Quest
 Slot: FEET
@@ -2593,14 +2593,14 @@ Indicolite GreavesIndicolite Greaves
 Lore Equipped, No Trade, Quest
 Slot: LEGS
 AC: 20
-STR: +5 STA: +5 AGI: +5
-WT: 5.6 Size: LARGE
+STR: +5 STA: +5 AGI: +5 END: +10
+Size: LARGE WT: 5.6
 Class: WAR
 Race: ALL
 |
 Various |
 Legs |
-AC: 20 STR: +5 STA: +5 AGI: +5 WT: 5.6 Size: LARGE Class: WAR Race: ALL |
+AC: 20 STR: +5 STA: +5 AGI: +5 END: +10 Size: LARGE WT: 5.6 Class: WAR Race: ALL |
 Indicolite HelmIndicolite Helm
 Lore Equipped, No Trade, Quest
 Slot: HEAD
@@ -2955,17 +2955,17 @@ a scorn banshee |
 Piercing |
 Atk Delay: 23 DMG: 8 STR: +5 AGI: +4 WT: 2.8 Size: MEDIUM Class: BRD Race: ALL |
 Mempo of LikatoMempo of Likato
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade
 Slot: FACE
 AC: 6
 Effect: Ultravision (Worn)
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: MNK
 Race: ALL
 |
 Maestro of Rancor |
 Face |
-AC: 6 Effect: Ultravision (Worn) WT: 0.1 Size: SMALL Class: MNK Race: ALL |
+AC: 6 Effect: Ultravision (Worn) Size: SMALL WT: 0.1 Class: MNK Race: ALL |
 Midnight Clad ArmbandsMidnight Clad Armbands
 Lore Equipped, No Trade
 Slot: ARMS
@@ -3144,30 +3144,30 @@ an eerie chest, a revultant rat |
 Atk Delay: 14 DMG: 5 DEX: +5 AGI: +4 SV DISEASE: +5 SV POISON: +5 Size: SMALL WT: 1.0 Class: RNG Race: ALL |
 Ring of PurebloodRing of Pureblood
 Lore Equipped, No Trade
-Slot: Fingers
+Slot: FINGER
 AC: 3
-STR: 5 CHA: 5 WIS: 5 INT: 5 HP: 30 MANA: 30
-WT: 0.1 Size: TINY
+STR: +5 CHA: +5 WIS: +5 INT: +5 HP: +30 MANA: +30
+Size: TINY WT: 0.1
 Class: CLR PAL WIZ MAG ENC
 Race: ALL
 |
 Innoruuk |
 Fingers |
-AC: 3 STR: 5 CHA: 5 WIS: 5 INT: 5 HP: 30 MANA: 30 WT: 0.1 Size: TINY Class: CLR PAL WIZ MAG ENC Race: ALL |
+AC: 3 STR: +5 CHA: +5 WIS: +5 INT: +5 HP: +30 MANA: +30 Size: TINY WT: 0.1 Class: CLR PAL WIZ MAG ENC Race: ALL |
 Rod of Infinite ThoughtRod of Infinite Thought
 Lore Equipped, No Trade, Placeable
 Slot: PRIMARY
 Skill: 1H Blunt Atk Delay: 30
-DMG: 10
+DMG: 10 DMG Bonus: 15 @ lvl 50
 CHA: +5
-Effect: Clarity (Any Slot/Can Equip, Casting Time: 7.0) at Level 46
-WT: 1.5 Size: MEDIUM
+Effect: Clarity (Clicky, Can Equip, Casting Time: 7.0) at Level 46
+Size: MEDIUM WT: 1.5
 Class: ENC
 Race: ALL
 |
 Coercer T`vala |
 1H Blunt |
-Atk Delay: 30 DMG: 10 CHA: +5 Effect: Clarity (Casting Time: 7.0) at Level 46 WT: 1.5 Size: MEDIUM Class: ENC Race: ALL |
+Atk Delay: 30 DMG: 10 DMG Bonus: 15 @ lvl 50 CHA: +5 Effect: Clarity (Clicky, Can Equip, Casting Time: 7.0) at Level 46 Size: MEDIUM WT: 1.5 Class: ENC Race: ALL |
 Rod of Unbound ThoughtRod of Unbound Thought
 MAGIC ITEM LORE ITEM NO DROP
 Slot: PRIMARY
@@ -3477,14 +3477,14 @@ a scorn banshee, an abhorrent, a haunted chest |
 Wrist |
 AC: 6 STR: +4 AGI: +4 DEX: +4 SV FIRE: +5 SV COLD: +5 WT: 2.0 Size: SMALL Class: BER Race: ALL |
 Shattered Emerald of CorruptionShattered Emerald of Corruption
-MAGIC ITEM LORE ITEM NO DROP
-WT: 0.1 Size: TINY
+No Trade, Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 Various |
 (None) |
-MAGIC ITEM LORE ITEM NO DROP WT: 0.1 Size: TINY Class: ALL Race: ALL |
+No Trade, Quest Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Shield of the ImmaculateShield of the Immaculate
 MAGIC ITEM LORE ITEM
 Slot: BACK SECONDARY
@@ -4462,11 +4462,11 @@ WT: 0.6 Size: SMALL
 Class: BRD
 Race: ALL
 , Mempo of LikatoMempo of Likato
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade
 Slot: FACE
 AC: 6
 Effect: Ultravision (Worn)
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: MNK
 Race: ALL
 , Shield of the Stalwart SeasShield of the Stalwart Seas
@@ -4533,11 +4533,11 @@ WT: 0.1 Size: TINY
 Class: WAR SHD SHM BST BER
 Race: ALL
 , Engineer's RingEngineer's Ring
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade
 Slot: FINGER
 AC: 20
 STR: +5 DEX: +5 STA: +5 CHA: +5 WIS: +5 INT: +5 AGI: +5 HP: +5 MANA: +20 END: +20
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: WAR CLR PAL SHD ROG NEC WIZ MAG ENC
 Race: ALL
 , Eye of InnoruukEye of Innoruuk
@@ -4564,8 +4564,8 @@ Lore Equipped, No Trade
 Slot: WAIST
 AC: 10
 STR: +10 DEX: +10 WIS: +10 AGI: +10
-SV MAGIC: +5 SV FIRE: +5 SV COLD: +5 SV DISEASE: +5 SV POISON: +5
-WT: 2.0 Size: SMALL
+SV FIRE: +5 SV DISEASE: +5 SV COLD: +5 SV MAGIC: +5 SV POISON: +5
+Size: SMALL WT: 2.0
 Class: WAR ROG SHM BST BER
 Race: ALL
 , Leatherfoot SandalsLeatherfoot Sandals
@@ -4587,15 +4587,15 @@ Class: CLR PAL SHD NEC WIZ MAG ENC
 Race: ALL
 , Ring of PurebloodRing of Pureblood
 Lore Equipped, No Trade
-Slot: Fingers
+Slot: FINGER
 AC: 3
-STR: 5 CHA: 5 WIS: 5 INT: 5 HP: 30 MANA: 30
-WT: 0.1 Size: TINY
+STR: +5 CHA: +5 WIS: +5 INT: +5 HP: +30 MANA: +30
+Size: TINY WT: 0.1
 Class: CLR PAL WIZ MAG ENC
 Race: ALL
 , Shattered Emerald of CorruptionShattered Emerald of Corruption
-MAGIC ITEM LORE ITEM NO DROP
-WT: 0.1 Size: TINY
+No Trade, Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Skinner's BeltSkinner's Belt
