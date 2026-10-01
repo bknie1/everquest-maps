@@ -1,5 +1,5 @@
 # Nagafen's_Lair (eqlwiki.com)
-fetched: 2026-09-30
+fetched: 2026-10-01
 
 Nagafen's Lair - EverQuest Legends Wiki
 Jump to content
@@ -1545,13 +1545,13 @@ Warlord Skarlon |
 Atk Delay: 40 DMG: 25 Effect: Serpent Sight (Worn) WT: 9.5 Size: LARGE Class: WAR PAL SHD BER Race: ALL |
 Red Dragon ScalesRed Dragon Scales
 Attunable, Quest
-WT: 2.5 Size: MEDIUM
+Size: MEDIUM WT: 2.5
 Class: ALL
 Race: ALL
 |
 Lord Nagafen, Zordakalicus Ragefire |
 (None) |
-Attunable, Quest WT: 2.5 Size: MEDIUM Class: ALL Race: ALL |
+Attunable, Quest Size: MEDIUM WT: 2.5 Class: ALL Race: ALL |
 Red Dragon ToothRed Dragon Tooth
 MAGIC ITEM
 EXPENDABLE Charges: 1
@@ -1821,7 +1821,7 @@ Class: ALL
 Race: ALL
 , Red Dragon ScalesRed Dragon Scales
 Attunable, Quest
-WT: 2.5 Size: MEDIUM
+Size: MEDIUM WT: 2.5
 Class: ALL
 Race: ALL
 , Red Dragon ToothRed Dragon Tooth

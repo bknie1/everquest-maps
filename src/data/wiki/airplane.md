@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-09-30
+fetched: 2026-10-01
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -1318,13 +1318,12 @@ Wind Rune Geza
 Cracked Leather Eyepatch (4-KoS)
 |
 Sandals of AlacritySandals of Alacrity
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade
 Slot: FEET
-Charges: 2
 AC: 6
 STR: +10 AGI: +10 HP: +20
-Effect: Alacrity (Must Equip, Casting Time: Instant) at Level 45
-WT: 0.5 Size: SMALL
+Effect: Alacrity (Clicky, Must Equip, Casting Time: Instant, Cooldown: 120 seconds) at Level 45
+Size: SMALL WT: 0.5
 Class: MNK
 Race: ALL
 |
@@ -1796,12 +1795,12 @@ Wind Rune Dena
 Jester's Mask (4-KoS)
 |
 Shimmering Bracer of ProtectionShimmering Bracer of Protection
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade
 Slot: WRIST
 AC: 10
 STR: +9 DEX: +3 WIS: +2
 SV FIRE: +8 SV DISEASE: +8 SV COLD: +8 SV MAGIC: +8 SV POISON: +8
-WT: 2.5 Size: MEDIUM
+Size: MEDIUM WT: 2.5
 Class: ROG
 Race: ALL
 |

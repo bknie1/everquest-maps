@@ -1,5 +1,5 @@
 # Surefall_Glade (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-10-01
 
 Surefall Glade - EverQuest Legends Wiki
 Jump to content
@@ -283,8 +283,8 @@ WT: 0.5 Size: SMALL
 Class: ALL
 Race: ALL
 , MeadMead
-QUEST ITEM
-WT: 0.4 Size: SMALL
+Quest
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 , RationRation

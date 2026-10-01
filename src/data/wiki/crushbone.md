@@ -1,5 +1,5 @@
 # Crushbone (eqlwiki.com)
-fetched: 2026-09-27
+fetched: 2026-10-01
 
 Crushbone - EverQuest Legends Wiki
 Jump to content
@@ -743,39 +743,7 @@ Orc |
 Warrior |
 14-17 |
 (250, 90) |
-Dwarven AxeDwarven Axe
-Slot: PRIMARY SECONDARY
-Skill: 1H Slashing Atk Delay: 26
-DMG: 6
-WT: 4.0 Size: MEDIUM
-Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
-, Dwarven Two-Handed AxeDwarven Two-Handed Axe
-Slot: PRIMARY
-Skill: 2H Slashing Atk Delay: 43
-DMG: 14
-WT: 6.5 Size: MEDIUM
-Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
-, Torn Elvish TapestryTorn Elvish Tapestry
-Attunable
-Slot: BACK
-AC: 6
-CHA: +4
-SV Magic: +5
-WT: 2.0 Size: MEDIUM
-Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BER
-Race: ALL
-, Bandolier of TeethBandolier of Teeth
-Attunable
-Slot: SHOULDERS
-HP: +10
-STR: +1
-SV Poison: +1
-WT: 1.0 Size: SMALL
-Class: ALL
-Race: ALL
-|
+Various |
 Spawns in front of the throne. Placeholder is Orc Legionnaire. |
 Marrowbane
 |

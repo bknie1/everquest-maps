@@ -1,5 +1,5 @@
 # Qeynos (eqlwiki.com)
-fetched: 2026-09-29
+fetched: 2026-10-01
 
 Qeynos - EverQuest Legends Wiki
 Jump to content
@@ -774,8 +774,10 @@ WT: 0.0 Size: TINY
 Class: ALL
 Race: ALL
 , Copper AmuletCopper Amulet
+Attunable
 Slot: NECK
-WT: 0.1 Size: SMALL
+AC: 1
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , TurquoiseTurquoise
@@ -2102,8 +2104,8 @@ Quest NPC |
 5 |
 100% @ (-345, 38) |
 MeadMead
-QUEST ITEM
-WT: 0.4 Size: SMALL
+Quest
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 |

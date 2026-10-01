@@ -1,5 +1,5 @@
 # Lavastorm_Mountains (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-10-01
 
 Lavastorm Mountains - EverQuest Legends Wiki
 Jump to content
@@ -513,14 +513,13 @@ Nestled in a camp of otherwise indifferent & dubious merchants, Tizina cons thre
 Items - Found 30 items that drop in Lavastorm Mountains:
 Item Name | Drops From | Slot | Stats |
 AshweedAshweed
-This is a meal!
-WT: 0.6 Size: SMALL
+Size: SMALL WT: 0.6
 Class: ALL
 Race: ALL
 |
 a fire goblin, a fire imp, a fire goblin scout |
 (None) |
-This is a meal! WT: 0.6 Size: SMALL Class: ALL Race: ALL |
+Size: SMALL WT: 0.6 Class: ALL Race: ALL |
 Asmag WeedAsmag Weed
 Quest
 Size: TINY WT: 0.1

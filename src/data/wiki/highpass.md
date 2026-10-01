@@ -1,5 +1,5 @@
 # Highpass_Hold (eqlwiki.com)
-fetched: 2026-09-27
+fetched: 2026-10-01
 
 Highpass Hold - EverQuest Legends Wiki
 Jump to content
@@ -409,8 +409,10 @@ Class: ALL
 Race: ALL
 (Uncommon)
 Large BagLarge Bag
-WT: 1.0 Weight Reduction: 0%
-Capacity: 6 Size Capacity: LARGE
+Size: LARGE WT: 1.0
+Weight Reduction: 0% Capacity: 6 Size Capacity: LARGE
+Class: ALL
+Race: ALL
 (Rare)
 Large Ringmail Armor (Uncommon)
 Rain WaterRain Water
@@ -421,7 +423,7 @@ Race: ALL
 (Rare)
 Short BeerShort Beer
 Quest
-WT: 0.4 Size: SMALL
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 (Rare)

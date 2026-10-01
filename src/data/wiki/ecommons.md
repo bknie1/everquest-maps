@@ -1,5 +1,5 @@
 # East_Commonlands (eqlwiki.com)
-fetched: 2026-09-25
+fetched: 2026-10-01
 
 East Commonlands - EverQuest Legends Wiki
 Jump to content
@@ -384,8 +384,8 @@ WT: 3.5 Size: LARGE
 Class: ALL
 Race: ALL
 , Low Quality Cat PeltLow Quality Cat Pelt
-QUEST ITEM
-WT: 3.5 Size: LARGE
+Quest
+Size: LARGE WT: 3.5
 Class: ALL
 Race: ALL
 |
@@ -717,8 +717,8 @@ WT: 0.1 Range: 25 Size: SMALL
 Class: WAR PAL RNG SHD ROG
 Race: ALL
 , MeadMead
-QUEST ITEM
-WT: 0.4 Size: SMALL
+Quest
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 |

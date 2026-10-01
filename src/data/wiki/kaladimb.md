@@ -1,5 +1,5 @@
 # Kaladim (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-10-01
 
 Kaladim - EverQuest Legends Wiki
 Jump to content
@@ -471,11 +471,11 @@ WT: 4.0 Size: SMALL
 Class: WAR CLR PAL RNG SHD BRD ROG SHM
 Race: ALL
 , Supple Black CloakSupple Black Cloak
-MAGIC ITEM
+Attunable
 Slot: BACK
 AC: 8
-WT: 1.0 Size: LARGE
-Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Size: LARGE WT: 1.0
+Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
 Race: ALL
 , Bloodstone EyepatchBloodstone Eyepatch
 MAGIC ITEM
@@ -681,10 +681,11 @@ WT: 2.7 Size: SMALL
 Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
 Race: ALL
 , Ringmail SleevesRingmail Sleeves
+Attunable
 Slot: ARMS
 AC: 6
-WT: 4.7 Size: SMALL
-Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Size: SMALL WT: 4.7
+Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
 Race: ALL
 , Sleek Black CapeSleek Black Cape
 MAGIC ITEM
@@ -2058,8 +2059,10 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , Copper AmuletCopper Amulet
+Attunable
 Slot: NECK
-WT: 0.1 Size: SMALL
+AC: 1
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Copper BandCopper Band

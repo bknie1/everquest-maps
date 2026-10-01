@@ -1,5 +1,5 @@
 # East_Freeport (eqlwiki.com)
-fetched: 2026-09-30
+fetched: 2026-10-01
 
 Freeport - EverQuest Legends Wiki
 Jump to content
@@ -1522,26 +1522,7 @@ Freeport Guards |
 GM Warrior |
 48 |
 (29, -178) |
-Boots of BrawnBoots of Brawn
-MAGIC ITEM LORE ITEM
-Slot: FEET
-AC: 8
-STR: +9 DEX: -13
-WT: 6.5 Size: MEDIUM
-Class: WAR CLR PAL RNG SHD BRD ROG SHM
-Race: ALL
-, Fordel Short SwordFordel Short Sword
-Slot: PRIMARY SECONDARY
-Skill: 1H Slashing Atk Delay: 22
-DMG: 4
-WT: 5.0 Size: MEDIUM
-Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
-, Words of BondageWords of Bondage
-WT: 0.1 Size: TINY
-Class: ALL
-Race: ALL
-|
+Various |
 Sir Lucan was formerly a paladin of the Knights of Truth until he took over half the city with a band of mercenaries... |
 Swin Blackeye
 |

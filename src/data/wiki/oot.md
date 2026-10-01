@@ -1,5 +1,5 @@
 # Ocean_of_Tears (eqlwiki.com)
-fetched: 2026-09-30
+fetched: 2026-10-01
 
 Ocean of Tears - EverQuest Legends Wiki
 Jump to content
@@ -586,8 +586,10 @@ WT: 3.0 Size: SMALL
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 , Copper AmuletCopper Amulet
+Attunable
 Slot: NECK
-WT: 0.1 Size: SMALL
+AC: 1
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |

@@ -1,5 +1,5 @@
 # Plane_of_Hate (eqlwiki.com)
-fetched: 2026-09-30
+fetched: 2026-10-01
 
 Plane of Hate - EverQuest Legends Wiki
 Jump to content
@@ -2866,7 +2866,7 @@ WT: 3.0 Size: SMALL
 Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
 Race: ALL
 |
-Various |
+a haunted chest, a scorn banshee, an abhorrent |
 Wrist |
 AC: 9 STR: +3 DEX: +3 SV FIRE: +7 SV COLD: +7 SV MAGIC: +7 WT: 3.0 Size: SMALL Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
 Lustrous Russet BreastplateLustrous Russet Breastplate
@@ -3500,18 +3500,18 @@ None? |
 Back, Secondary |
 AC: 25 STR: +10 SV DISEASE: +25 Effect: Cure Disease (Any Slot, Casting Time: Instant, Recast Time: 6 Seconds) WT: 7.3 Size: MEDIUM Class: ALL Race: ALL |
 Shield of the Stalwart SeasShield of the Stalwart Seas
-MAGIC ITEM LORE ITEM
-Slot: SECONDARY
+Lore Equipped, Attunable, Placeable
+Slot: SECONDARY Type: Shield
 AC: 35
 STR: +20 STA: +20
 Effect: Ultravision (Worn)
-WT: 7.3 Size: MEDIUM
+Size: MEDIUM WT: 7.3
 Class: PAL
 Race: ALL
 |
-an eerie chest, Lord of Ire, Maestro of Rancor |
-Secondary |
-AC: 35 STR: +20 STA: +20 Effect: Ultravision (Worn) WT: 7.3 Size: MEDIUM Class: PAL Race: ALL |
+an eerie chest (unconfirmed for EQL), Lord of Ire, Maestro of Rancor |
+Secondary, [[:Category:|]], Type:, Shield |
+AC: 35 STR: +20 STA: +20 Effect: Ultravision (Worn) Size: MEDIUM WT: 7.3 Class: PAL Race: ALL |
 Shiverback-hide ArmbandsShiverback-hide Armbands
 Lore Equipped, No Trade, Quest
 Slot: ARMS
@@ -4470,12 +4470,12 @@ Size: SMALL WT: 0.1
 Class: MNK
 Race: ALL
 , Shield of the Stalwart SeasShield of the Stalwart Seas
-MAGIC ITEM LORE ITEM
-Slot: SECONDARY
+Lore Equipped, Attunable, Placeable
+Slot: SECONDARY Type: Shield
 AC: 35
 STR: +20 STA: +20
 Effect: Ultravision (Worn)
-WT: 7.3 Size: MEDIUM
+Size: MEDIUM WT: 7.3
 Class: PAL
 Race: ALL
 , Six Note BladeSix Note Blade

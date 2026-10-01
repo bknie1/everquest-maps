@@ -1,5 +1,5 @@
 # Solusek's_Eye (eqlwiki.com)
-fetched: 2026-09-30
+fetched: 2026-10-01
 
 Solusek's Eye - EverQuest Legends Wiki
 Jump to content
@@ -1914,13 +1914,13 @@ Various |
 WT: 14.0 Size: SMALL Class: ALL Race: ALL |
 Large Brick of Unrefined OreLarge Brick of Unrefined Ore
 Quest
-WT: 10.0 Size: SMALL
+Size: SMALL WT: 10.0
 Class: ALL
 Race: ALL
 |
 fire goblin, inferno goblin |
 (None) |
-Quest WT: 10.0 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 10.0 Class: ALL Race: ALL |
 Large Power SourceLarge Power Source
 WT: 1.0 Size: SMALL
 Class: ALL
@@ -2144,13 +2144,13 @@ Various |
 (None) |
 Quest WT: 7.0 Size: SMALL Class: ALL Race: ALL Value: 5 platinum 6 gold 1 silver |
 Small Brick of Unrefined OreSmall Brick of Unrefined Ore
-WT: 5.0 Size: SMALL
+Size: SMALL WT: 5.0
 Class: ALL
 Race: ALL
 |
 Various |
 (None) |
-WT: 5.0 Size: SMALL Class: ALL Race: ALL |
+Size: SMALL WT: 5.0 Class: ALL Race: ALL |
 Small Power SourceSmall Power Source
 WT: 1.0 Size: SMALL
 Class: ALL

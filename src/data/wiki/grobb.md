@@ -1,5 +1,5 @@
 # Grobb (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-10-01
 
 Grobb - EverQuest Legends Wiki
 Jump to content
@@ -409,8 +409,10 @@ Warrior |
 4-6 |
 (604, -453) |
 Large BagLarge Bag
-WT: 1.0 Weight Reduction: 0%
-Capacity: 6 Size Capacity: LARGE
+Size: LARGE WT: 1.0
+Weight Reduction: 0% Capacity: 6 Size Capacity: LARGE
+Class: ALL
+Race: ALL
 |
 Description needed. |
 Bahagg

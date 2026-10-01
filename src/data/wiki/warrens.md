@@ -1,5 +1,5 @@
 # The_Warrens (eqlwiki.com)
-fetched: 2026-09-28
+fetched: 2026-10-01
 
 The Warrens - EverQuest Legends Wiki
 Jump to content
@@ -243,8 +243,10 @@ Class: SHD
 Race: ALL
 , Kobold Shaman's PouchKobold Shaman's Pouch
 No Trade, Quest
-WT: 0.6 Weight Reduction: 10%
-Capacity: 6 Size Capacity: MEDIUM
+Size: MEDIUM WT: 0.6
+Weight Reduction: 10% Capacity: 6 Size Capacity: MEDIUM
+Class: ALL
+Race: ALL
 , Krode's ShawlKrode's Shawl
 MAGIC ITEM LORE ITEM
 Slot: SHOULDERS
@@ -301,8 +303,10 @@ Class: CLR DRU SHM NEC WIZ MAG ENC
 Race: ALL
 , Kobold Shaman's PouchKobold Shaman's Pouch
 No Trade, Quest
-WT: 0.6 Weight Reduction: 10%
-Capacity: 6 Size Capacity: MEDIUM
+Size: MEDIUM WT: 0.6
+Weight Reduction: 10% Capacity: 6 Size Capacity: MEDIUM
+Class: ALL
+Race: ALL
 , Scepter of the ForlornScepter of the Forlorn
 MAGIC ITEM LORE ITEM
 Slot: PRIMARY SECONDARY
@@ -357,8 +361,8 @@ WT: 4.5 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM
 Race: ALL
 , Kobold MolarKobold Molar
-NO DROP QUEST ITEM
-WT: 0.1 Size: TINY
+No Trade, Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Brawler's BeltBrawler's Belt
@@ -919,8 +923,8 @@ WT: 0.7 Size: MEDIUM
 Class: SHD BRD NEC WIZ MAG ENC
 Race: ALL
 , Tiny Pouch of Bone DiceTiny Pouch of Bone Dice
-LORE ITEM NO DROP
-WT: 0.1 Size: TINY
+No Trade, Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -982,10 +986,11 @@ WT: 15.0 Size: GIANT
 Class: WAR PAL RNG SHD BER
 Race: ALL
 , Bronze TachiBronze Tachi
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 32
-DMG: 5
-WT: 8.5 Size: MEDIUM
+DMG: 5 DMG Bonus: 15 @ lvl 50
+Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD DRU BRD ROG
 Race: ALL
 , Blood Crusted Two-Handed SwordBlood Crusted Two-Handed Sword
@@ -1101,15 +1106,16 @@ None? |
 Legs |
 AC: 7 WT: 7.3 Size: MEDIUM Class: WAR CLR PAL RNG SHD BRD ROG SHM Race: ALL |
 Bamboo Splint SkirtBamboo Splint Skirt
+Attunable
 Slot: WAIST
 AC: 5
-WT: 3.3 Size: SMALL
+Size: SMALL WT: 3.3
 Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
 Race: ALL
 |
 None? |
 Waist |
-AC: 5 WT: 3.3 Size: SMALL Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
+AC: 5 Size: SMALL WT: 3.3 Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
 Bamboo Splint SleevesBamboo Splint Sleeves
 Slot: ARMS
 AC: 6
@@ -1243,16 +1249,17 @@ King Gragnar |
 1H Slashing |
 Atk Delay: 32 DMG: 5 WT: 8.5 Size: MEDIUM Class: WAR PAL RNG SHD BRD ROG Race: ALL |
 Bronze KusarigamaBronze Kusarigama
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 37
-DMG: 6
-WT: 9.5 Size: MEDIUM
+DMG: 6 DMG Bonus: 18
+Size: MEDIUM WT: 9.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
-None? |
+Various |
 1H Slashing |
-Atk Delay: 37 DMG: 6 WT: 9.5 Size: MEDIUM Class: WAR PAL RNG SHD BRD ROG Race: ALL |
+Atk Delay: 37 DMG: 6 DMG Bonus: 18 Size: MEDIUM WT: 9.5 Class: WAR PAL RNG SHD BRD ROG Race: ALL |
 Bronze NaginataBronze Naginata
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 52
@@ -1584,22 +1591,24 @@ a fierce kobold, a howler, a kobold (Warrens) |
 (None) |
 QUEST ITEM WT: 1.0 Size: SMALL Class: ALL Race: ALL |
 Kobold MolarKobold Molar
-NO DROP QUEST ITEM
-WT: 0.1 Size: TINY
+No Trade, Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 Various |
 (None) |
-NO DROP QUEST ITEM WT: 0.1 Size: TINY Class: ALL Race: ALL |
+No Trade, Quest Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Kobold Shaman's PouchKobold Shaman's Pouch
 No Trade, Quest
-WT: 0.6 Weight Reduction: 10%
-Capacity: 6 Size Capacity: MEDIUM
+Size: MEDIUM WT: 0.6
+Weight Reduction: 10% Capacity: 6 Size Capacity: MEDIUM
+Class: ALL
+Race: ALL
 |
 a greater kobold shaman |
 (None) |
-No Trade, Quest WT: 0.6 Weight Reduction: 10% Capacity: 6 Size Capacity: MEDIUM |
+No Trade, Quest Size: MEDIUM WT: 0.6 Weight Reduction: 10% Capacity: 6 Size Capacity: MEDIUM Class: ALL Race: ALL |
 Krode's ShawlKrode's Shawl
 MAGIC ITEM LORE ITEM
 Slot: SHOULDERS
@@ -1618,7 +1627,7 @@ Size: SMALL
 Class: None
 Race: None
 |
-A pack leader |
+Various |
 (None) |
 Quest Size: SMALL Class: None Race: None |
 Midnight Sea Mail CoatMidnight Sea Mail Coat
@@ -1661,7 +1670,7 @@ Size: TINY
 Class: ALL
 Race: ALL
 |
-High Shaman Drogik |
+a greater shaman, High Shaman Drogik |
 Neck |
 Size: TINY Class: ALL Race: ALL |
 Packmaster's LashPackmaster's Lash
@@ -1801,15 +1810,16 @@ A Kobold Guard, Foodmaster Rargnar |
 Feet |
 AC: 4 WT: 3.8 Size: SMALL Class: ALL except NEC WIZ MAG ENC Race: ALL |
 Soft Wicker CloakSoft Wicker Cloak
+Attunable
 Slot: BACK
 AC: 4
-WT: 3.0 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC
+Size: MEDIUM WT: 3.0
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST BER
 Race: ALL
 |
 A Kobold Guard, Foodmaster Rargnar |
 Back |
-AC: 4 WT: 3.0 Size: MEDIUM Class: ALL except NEC WIZ MAG ENC Race: ALL |
+AC: 4 Size: MEDIUM WT: 3.0 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST BER Race: ALL |
 Soft Wicker GlovesSoft Wicker Gloves
 Slot: HANDS
 AC: 4
@@ -1871,25 +1881,27 @@ A Kobold Guard, Foodmaster Rargnar |
 Shoulders |
 AC: 3 WT: 2.2 Size: SMALL Class: ALL except NEC WIZ MAG ENC Race: ALL |
 Soft Wicker SleevesSoft Wicker Sleeves
+Attunable
 Slot: ARMS
 AC: 4
-WT: 2.2 Size: SMALL
-Class: ALL except NEC WIZ MAG ENC
+Size: SMALL WT: 2.2
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST BER
 Race: ALL
 |
-A Kobold Guard, Foodmaster Rargnar, A howler |
+Various |
 Arms |
-AC: 4 WT: 2.2 Size: SMALL Class: ALL except NEC WIZ MAG ENC Race: ALL |
+AC: 4 Size: SMALL WT: 2.2 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST BER Race: ALL |
 Soft Wicker TunicSoft Wicker Tunic
+Attunable
 Slot: CHEST
 AC: 8
-WT: 5.3 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC
+Size: MEDIUM WT: 5.3
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST BER
 Race: ALL
 |
-A Kobold Guard, Foodmaster Rargnar |
+Various |
 Chest |
-AC: 8 WT: 5.3 Size: MEDIUM Class: ALL except NEC WIZ MAG ENC Race: ALL |
+AC: 8 Size: MEDIUM WT: 5.3 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST BER Race: ALL |
 Soft Wicker WristbandsSoft Wicker Wristbands
 Slot: WRIST
 AC: 3
@@ -1921,14 +1933,14 @@ None? |
 Range, Ammo |
 Skill: Throwing Atk Delay: 20 DMG: 2 WT: 0.5 Range: 120 Size: SMALL Class: ALL except CLR PAL DRU SHM Race: ALL |
 Tiny Pouch of Bone DiceTiny Pouch of Bone Dice
-LORE ITEM NO DROP
-WT: 0.1 Size: TINY
+No Trade, Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 Prince Bragnar |
 (None) |
-LORE ITEM NO DROP WT: 0.1 Size: TINY Class: ALL Race: ALL |
+No Trade, Quest Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Uliorn's Fishing PoleUliorn's Fishing Pole
 MAGIC ITEM NO DROP
 Slot: PRIMARY SECONDARY

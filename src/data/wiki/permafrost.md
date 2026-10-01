@@ -1,5 +1,5 @@
 # Permafrost_Keep (eqlwiki.com)
-fetched: 2026-09-30
+fetched: 2026-10-01
 
 Permafrost - EverQuest Legends Wiki
 Jump to content
@@ -1184,13 +1184,13 @@ an elite goblin guard |
 WT: 14.0 Size: SMALL Class: ALL Race: ALL |
 Large Brick of Unrefined OreLarge Brick of Unrefined Ore
 Quest
-WT: 10.0 Size: SMALL
+Size: SMALL WT: 10.0
 Class: ALL
 Race: ALL
 |
 None? |
 (None) |
-Quest WT: 10.0 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 10.0 Class: ALL Race: ALL |
 Mammoth Hide CloakMammoth Hide Cloak
 Slot: BACK
 AC: 7
@@ -1303,13 +1303,13 @@ an elite goblin guard, an ice goblin |
 (None) |
 Quest WT: 7.0 Size: SMALL Class: ALL Race: ALL Value: 5 platinum 6 gold 1 silver |
 Small Brick of Unrefined OreSmall Brick of Unrefined Ore
-WT: 5.0 Size: SMALL
+Size: SMALL WT: 5.0
 Class: ALL
 Race: ALL
 |
-an elite goblin guard |
+an elite goblin guard, an ice goblin veteran |
 (None) |
-WT: 5.0 Size: SMALL Class: ALL Race: ALL |
+Size: SMALL WT: 5.0 Class: ALL Race: ALL |
 Snowfall AlgaeSnowfall Algae
 WT: 0.1 Size: TINY
 Class: ALL

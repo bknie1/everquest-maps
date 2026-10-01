@@ -1,5 +1,5 @@
 # Butcherblock_Mountains (eqlwiki.com)
-fetched: 2026-09-25
+fetched: 2026-10-01
 
 Butcherblock Mountains - EverQuest Legends Wiki
 Jump to content
@@ -397,7 +397,7 @@ Class: ALL
 Race: ALL
 , Spiderling EyeSpiderling Eye
 Quest
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Spider LegsSpider Legs
@@ -1518,10 +1518,11 @@ WT: 14.0 Size: LARGE
 Class: WAR PAL RNG SHD
 Race: ALL
 , Ringmail SleevesRingmail Sleeves
+Attunable
 Slot: ARMS
 AC: 6
-WT: 4.7 Size: SMALL
-Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Size: SMALL WT: 4.7
+Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
 Race: ALL
 |
 One of 3 Kaladim Citizens at the shore west of druid rings. Killing her won't hurt the dwarf guard faction. She is insi... |

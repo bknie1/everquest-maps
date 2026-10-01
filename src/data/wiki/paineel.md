@@ -1,5 +1,5 @@
 # Paineel (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-10-01
 
 Paineel - EverQuest Legends Wiki
 Jump to content
@@ -1769,8 +1769,10 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , ToolboxToolbox
-WT: 3.0 Weight Reduction: 0%
-Capacity: 8 Size Capacity: GIANT
+Size: SMALL WT: 3.0
+Weight Reduction: 0% Capacity: 8 Size Capacity: GIANT
+Class: ALL
+Race: ALL
 |
 Shadow Knight guildmaster in Paineel. |
 Shwara Volerno

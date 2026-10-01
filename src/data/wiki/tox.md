@@ -1,5 +1,5 @@
 # Toxxulia_Forest (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-10-01
 
 Toxxulia Forest - EverQuest Legends Wiki
 Jump to content
@@ -389,7 +389,7 @@ Class: ALL
 Race: ALL
 , Spiderling EyeSpiderling Eye
 Quest
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Spider LegsSpider Legs
@@ -417,7 +417,7 @@ Class: ALL
 Race: ALL
 Spiderling EyeSpiderling Eye
 Quest
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 Spiderling LegsSpiderling Legs

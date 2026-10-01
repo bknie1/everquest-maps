@@ -1,5 +1,5 @@
 # Runnyeye_Citadel (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-10-01
 
 Runnyeye - EverQuest Legends Wiki
 Jump to content
@@ -111,22 +111,22 @@ WT: 0.2 Size: SMALL
 Class: ALL
 Race: ALLFocus Effect: Spell Haste I
 , Blackened Alloy Armor Set, Blackened Alloy Bastard SwordBlackened Alloy Bastard Sword
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 39
-DMG: 21
+DMG: 21 DMG Bonus: 26
 SV POISON: +3
-WT: 2.5 Size: MEDIUM
-Class: WAR PAL RNG SHD
+Size: MEDIUM WT: 2.5
+Class: WAR PAL RNG SHD BER
 Race: ALL
 , Blackened Alloy CoifBlackened Alloy Coif
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable
 Slot: HEAD
 AC: 8
 STR: +6
 SV FIRE: +6 SV DISEASE: +6 SV COLD: +6 SV MAGIC: +6 SV POISON: +6
-WT: 4.0 Size: SMALL
-Class: ALL except DRU NEC WIZ MAG ENC
+Size: SMALL WT: 4.0
+Class: WAR CLR PAL RNG SHD MNK BRD ROG SHM BER
 Race: ALL
 , Black Alloy GirdleBlack Alloy Girdle
 MAGIC ITEM
@@ -354,9 +354,10 @@ WT: 0.4 Size: TINY
 Class: ALL
 Race: ALLFocus Effect: Affliction Efficiency I
 , Polished Bone HoopPolished Bone Hoop
+Attunable
 Slot: EAR
 MANA: +10
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALLFocus Effect: Mana Preservation I
 , and Evil Eye LensEvil Eye Lens
@@ -393,13 +394,13 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALLFocus Effect: Mana Preservation II
 and Blackened Alloy CoifBlackened Alloy Coif
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable
 Slot: HEAD
 AC: 8
 STR: +6
 SV FIRE: +6 SV DISEASE: +6 SV COLD: +6 SV MAGIC: +6 SV POISON: +6
-WT: 4.0 Size: SMALL
-Class: ALL except DRU NEC WIZ MAG ENC
+Size: SMALL WT: 4.0
+Class: WAR CLR PAL RNG SHD MNK BRD ROG SHM BER
 Race: ALL
 and other loot and A Goblin Captain who drops Fractured FemurFractured Femur
 MAGIC ITEM LORE ITEM NO TRADE
@@ -436,13 +437,13 @@ WT: 1.0 Size: SMALL
 Class: WAR CLR PAL RNG SHD BRD ROG SHM
 Race: ALL
 (Rare) Battlelord Paluk who drops Blackened Alloy Bastard SwordBlackened Alloy Bastard Sword
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 39
-DMG: 21
+DMG: 21 DMG Bonus: 26
 SV POISON: +3
-WT: 2.5 Size: MEDIUM
-Class: WAR PAL RNG SHD
+Size: MEDIUM WT: 2.5
+Class: WAR PAL RNG SHD BER
 Race: ALL
 may spawn here. Also rarely A Goblin Warlord spawns here, as does Borxx.
 4. Underwater Tunnel with A Gelatinous Cube (Runnyeye Citadel) which drops Cat Skull CapCat Skull Cap
@@ -764,11 +765,11 @@ Class: WAR CLR PAL RNG SHD BRD ROG SHM
 Race: ALL
 (Uncommon)
 Supple Black CloakSupple Black Cloak
-MAGIC ITEM
+Attunable
 Slot: BACK
 AC: 8
-WT: 1.0 Size: LARGE
-Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Size: LARGE WT: 1.0
+Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
 Race: ALL
 (Uncommon)
 |
@@ -1180,15 +1181,16 @@ an evil eye prisoner |
 Wrist |
 AC: 2 WIS: +3 INT: +3 WT: 0.4 Size: TINY Class: ALL Race: ALL |
 Polished Bone HoopPolished Bone Hoop
+Attunable
 Slot: EAR
 MANA: +10
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALLFocus Effect: Mana Preservation I
 |
 an Evil Eye prisoner |
 Ear |
-MANA: +10 WT: 0.1 Size: TINY Class: ALL Race: ALL |
+MANA: +10 Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Ring of SlimeRing of Slime
 MAGIC ITEM
 Slot: FINGER
@@ -1212,13 +1214,13 @@ a goblin warlord |
 Back |
 AC: 6 WT: 2.0 Size: LARGE Class: WAR CLR PAL RNG SHD BRD ROG SHM Race: ALL |
 Small Brick of Unrefined OreSmall Brick of Unrefined Ore
-WT: 5.0 Size: SMALL
+Size: SMALL WT: 5.0
 Class: ALL
 Race: ALL
 |
-goblin janitor |
+a Sporali Scavenger, goblin janitor |
 (None) |
-WT: 5.0 Size: SMALL Class: ALL Race: ALL |
+Size: SMALL WT: 5.0 Class: ALL Race: ALL |
 Sporestrand ShieldSporestrand Shield
 LORE ITEM
 Slot: SECONDARY

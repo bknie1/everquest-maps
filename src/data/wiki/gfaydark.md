@@ -1,5 +1,5 @@
 # Greater_Faydark (eqlwiki.com)
-fetched: 2026-09-28
+fetched: 2026-10-01
 
 Greater Faydark - EverQuest Legends Wiki
 Jump to content
@@ -998,7 +998,7 @@ Class: ALL
 Race: ALL
 , Spiderling EyeSpiderling Eye
 Quest
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Spiderling LegsSpiderling Legs

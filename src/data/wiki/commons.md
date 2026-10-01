@@ -1,5 +1,5 @@
 # West_Commonlands (eqlwiki.com)
-fetched: 2026-09-27
+fetched: 2026-10-01
 
 West Commonlands - EverQuest Legends Wiki
 Jump to content
@@ -344,8 +344,8 @@ WT: 3.5 Size: LARGE
 Class: ALL
 Race: ALL
 , Low Quality Cat PeltLow Quality Cat Pelt
-QUEST ITEM
-WT: 3.5 Size: LARGE
+Quest
+Size: LARGE WT: 3.5
 Class: ALL
 Race: ALL
 |

@@ -1,5 +1,5 @@
 # Lesser_Faydark (eqlwiki.com)
-fetched: 2026-09-28
+fetched: 2026-10-01
 
 Lesser Faydark - EverQuest Legends Wiki
 Jump to content
@@ -1293,13 +1293,14 @@ Bracken Underbrush, Thistle Underbrush |
 Shoulders |
 AC: 4 WIS: +5 Size: SMALL WT: 0.3 Class: DRU BRD ENC Race: ALL |
 BrandyBrandy
-WT: 0.4 Size: SMALL
+Quest
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 |
 Teir`Dal Elite |
 (None) |
-WT: 0.4 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.4 Class: ALL Race: ALL |
 Brownie LegBrownie Leg
 Size: TINY WT: 0.8
 Class: NONE
@@ -1622,14 +1623,14 @@ a rancorous ghast |
 (None) |
 No Trade, Quest Size: SMALL WT: 0.3 Class: ALL Race: ALL |
 Red WineRed Wine
-QUEST ITEM
-WT: 0.4 Size: SMALL
+Quest
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 |
 Dragoon Szorn, Teir`Dal Elite |
 (None) |
-QUEST ITEM WT: 0.4 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.4 Class: ALL Race: ALL |
 Red Wood WandRed Wood Wand
 MAGIC ITEM
 Slot: PRIMARY SECONDARY
@@ -2031,13 +2032,14 @@ a wasp sentinel, a wasp soldier |
 (None) |
 QUEST ITEM WT: 0.0 Size: SMALL Class: ALL Race: ALL |
 White WineWhite Wine
-WT: 0.4 Size: SMALL
+Quest
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 |
 Teir`Dal Elite |
 (None) |
-WT: 0.4 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.4 Class: ALL Race: ALL |
 Retrieved from "https://eqlwiki.com/index.php?title=Lesser_Faydark&oldid=150106"
 Categories: Classic Era
 Zones

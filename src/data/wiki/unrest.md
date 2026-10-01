@@ -1,5 +1,5 @@
 # Estate_of_Unrest (eqlwiki.com)
-fetched: 2026-09-30
+fetched: 2026-10-01
 
 The Estate of Unrest - EverQuest Legends Wiki
 Jump to content
@@ -1680,16 +1680,16 @@ a festering hag |
 (None) |
 No Trade, Quest Size: SMALL WT: 0.3 Class: ALL Race: ALL |
 Gossamer AmiceGossamer Amice
-MAGIC ITEM
+Attunable
 Slot: SHOULDERS
 AC: 3
-WT: 0.3 Size: SMALL
+Size: SMALL WT: 0.3
 Class: NEC WIZ MAG ENC
 Race: ALL
 |
 a festering hag |
 Shoulders |
-AC: 3 WT: 0.3 Size: SMALL Class: NEC WIZ MAG ENC Race: ALL |
+AC: 3 Size: SMALL WT: 0.3 Class: NEC WIZ MAG ENC Race: ALL |
 Gossamer CapGossamer Cap
 MAGIC ITEM
 Slot: HEAD
@@ -1724,16 +1724,16 @@ a festering hag |
 Neck |
 AC: 3 WT: 0.2 Size: SMALL Class: NEC WIZ MAG ENC Race: ALL |
 Gossamer GlovesGossamer Gloves
-MAGIC ITEM
+Attunable
 Slot: HANDS
 AC: 4
-WT: 0.4 Size: SMALL
+Size: SMALL WT: 0.4
 Class: NEC WIZ MAG ENC
 Race: ALL
 |
 a festering hag |
 Hands |
-AC: 4 WT: 0.4 Size: SMALL Class: NEC WIZ MAG ENC Race: ALL |
+AC: 4 Size: SMALL WT: 0.4 Class: NEC WIZ MAG ENC Race: ALL |
 Gossamer LeggingsGossamer Leggings
 MAGIC ITEM
 Slot: LEGS
@@ -1768,16 +1768,16 @@ a festering hag |
 Arms |
 AC: 4 Size: SMALL WT: 0.4 Class: NEC WIZ MAG ENC Race: ALL |
 Gossamer VeilGossamer Veil
-MAGIC ITEM
+Attunable
 Slot: FACE
 AC: 2
-WT: 0.2 Size: SMALL
+Size: SMALL WT: 0.2
 Class: NEC WIZ MAG ENC
 Race: ALL
 |
 a festering hag |
 Face |
-AC: 2 WT: 0.2 Size: SMALL Class: NEC WIZ MAG ENC Race: ALL |
+AC: 2 Size: SMALL WT: 0.2 Class: NEC WIZ MAG ENC Race: ALL |
 Gossamer WristbandsGossamer Wristbands
 Attunable
 Slot: WRIST

@@ -1,5 +1,5 @@
 # Everfrost_Peaks (eqlwiki.com)
-fetched: 2026-09-30
+fetched: 2026-10-01
 
 Everfrost Peaks - EverQuest Legends Wiki
 Jump to content
@@ -346,7 +346,7 @@ Warrior |
 Various |
 Spiderling EyeSpiderling Eye
 Quest
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Wooly FungusWooly Fungus

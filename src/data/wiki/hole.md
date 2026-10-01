@@ -1,5 +1,5 @@
 # The_Hole (eqlwiki.com)
-fetched: 2026-09-30
+fetched: 2026-10-01
 
 The Hole - EverQuest Legends Wiki
 Jump to content
@@ -316,7 +316,7 @@ Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
 Race: ALL
 . Nortlav the Scalekeeper is also here who drops Red Dragon ScalesRed Dragon Scales
 Attunable, Quest
-WT: 2.5 Size: MEDIUM
+Size: MEDIUM WT: 2.5
 Class: ALL
 Race: ALL
 Pool with Jaeil the Wretched
@@ -962,7 +962,7 @@ Warrior |
 Bottom of the Hole, next to Master Yael |
 Red Dragon ScalesRed Dragon Scales
 Attunable, Quest
-WT: 2.5 Size: MEDIUM
+Size: MEDIUM WT: 2.5
 Class: ALL
 Race: ALL
 , Rusted ThronebladeRusted Throneblade
@@ -1670,13 +1670,13 @@ Arms |
 AC: 8 WT: 6.5 Size: SMALL Class: WAR CLR PAL RNG SHD BRD SHM Race: ALL |
 Red Dragon ScalesRed Dragon Scales
 Attunable, Quest
-WT: 2.5 Size: MEDIUM
+Size: MEDIUM WT: 2.5
 Class: ALL
 Race: ALL
 |
 Nortlav the Scalekeeper (Fear/Hate 2.0 Era) |
 (None) |
-Attunable, Quest WT: 2.5 Size: MEDIUM Class: ALL Race: ALL |
+Attunable, Quest Size: MEDIUM WT: 2.5 Class: ALL Race: ALL |
 Ruined Heretic LongswordRuined Heretic Longsword
 Lore
 Slot: PRIMARY SECONDARY
