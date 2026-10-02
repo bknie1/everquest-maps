@@ -1,5 +1,5 @@
 # Ak'Anon (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-10-02
 
 Ak'Anon - EverQuest Legends Wiki
 Jump to content
@@ -2006,7 +2006,7 @@ Warrior |
 40 |
 (1335, -795) |
 None |
-Description needed. |
+Cannot be attacked in Legends |
 King Ak`Anon
 |
 Gnome |
@@ -2145,7 +2145,7 @@ Warrior |
 25 |
 (2020, -231) |
 None |
-Description needed. |
+Respawn: 6 min |
 Scrubber IV
 |
 Clockwork Rat |

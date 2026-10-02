@@ -1,5 +1,5 @@
 # Misty_Thicket (eqlwiki.com)
-fetched: 2026-10-01
+fetched: 2026-10-02
 
 Misty Thicket - EverQuest Legends Wiki
 Jump to content
@@ -425,7 +425,7 @@ WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
 , Spider Venom SacSpider Venom Sac
-QUEST ITEM
+Quest
 WT: 0.2 Size: SMALL
 Class: ALL
 Race: ALL

@@ -1,5 +1,5 @@
 # Plane_of_Fear (eqlwiki.com)
-fetched: 2026-09-30
+fetched: 2026-10-02
 
 Plane of Fear - EverQuest Legends Wiki
 Jump to content
@@ -1495,10 +1495,12 @@ AC: 10 DEX: +7 INT: +7 HP: +35 WT: 0.2 Size: TINY Class: BRD NEC WIZ MAG ENC Rac
 Darkwood TrunkDarkwood Trunk
 Size: MEDIUM WT: 2.0
 Weight Reduction: 100% Capacity: 10 Size Capacity: GIANT
+Class: ALL
+Race: ALL
 |
 None? |
 (None) |
-Size: MEDIUM WT: 2.0 Weight Reduction: 100% Capacity: 10 Size Capacity: GIANT |
+Size: MEDIUM WT: 2.0 Weight Reduction: 100% Capacity: 10 Size Capacity: GIANT Class: ALL Race: ALL |
 DawnFire, Morning Star of LightDawnFire, Morning Star of Light
 Attunable, Placeable
 Slot: PRIMARY
@@ -3376,6 +3378,8 @@ Race: ALL
 , Darkwood TrunkDarkwood Trunk
 Size: MEDIUM WT: 2.0
 Weight Reduction: 100% Capacity: 10 Size Capacity: GIANT
+Class: ALL
+Race: ALL
 , DawnFire, Morning Star of LightDawnFire, Morning Star of Light
 Attunable, Placeable
 Slot: PRIMARY
@@ -3572,6 +3576,8 @@ Race: ALL
 , Darkwood TrunkDarkwood Trunk
 Size: MEDIUM WT: 2.0
 Weight Reduction: 100% Capacity: 10 Size Capacity: GIANT
+Class: ALL
+Race: ALL
 , DawnFire, Morning Star of LightDawnFire, Morning Star of Light
 Attunable, Placeable
 Slot: PRIMARY

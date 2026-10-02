@@ -1,5 +1,5 @@
 # Erudin (eqlwiki.com)
-fetched: 2026-09-28
+fetched: 2026-10-02
 
 Erudin - EverQuest Legends Wiki
 Jump to content
@@ -2489,7 +2489,7 @@ Warrior |
 11 |
 (603, 814) |
 None |
-Located inside a Jail Cell in the basement underneath the Erudin City Office. Respawn is 6:40
+Located inside a Jail Cell in the basement underneath the Erudin City Office. Respawn is 2:00
 Killing him is the onl... |
 Slansin
 |

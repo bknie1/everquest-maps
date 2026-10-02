@@ -1,5 +1,5 @@
 # Nagafen's_Lair (eqlwiki.com)
-fetched: 2026-10-01
+fetched: 2026-10-02
 
 Nagafen's Lair - EverQuest Legends Wiki
 Jump to content
@@ -1646,13 +1646,14 @@ Lord Nagafen |
 (None) |
 No Trade, Quest WT: 1.0 Size: TINY Class: NONE Race: NONE |
 Treasure Hunter`s SatchelTreasure Hunter`s Satchel
-MAGIC ITEM
-WT: 0.4 Weight Reduction: 100%
-Capacity: 10 Size Capacity: GIANT
+Size: SMALL WT: 0.4
+Weight Reduction: 100% Capacity: 10 Size Capacity: GIANT
+Class: ALL
+Race: ALL
 |
 Lord Nagafen |
 (None) |
-MAGIC ITEM WT: 0.4 Weight Reduction: 100% Capacity: 10 Size Capacity: GIANT |
+Size: SMALL WT: 0.4 Weight Reduction: 100% Capacity: 10 Size Capacity: GIANT Class: ALL Race: ALL |
 Velium Gemmed RuneVelium Gemmed Rune
 Size: TINY WT: 0.1
 Class: ALL
@@ -1843,9 +1844,10 @@ WT: 1.0 Size: TINY
 Class: NONE
 Race: NONE
 , Treasure Hunter`s SatchelTreasure Hunter`s Satchel
-MAGIC ITEM
-WT: 0.4 Weight Reduction: 100%
-Capacity: 10 Size Capacity: GIANT
+Size: SMALL WT: 0.4
+Weight Reduction: 100% Capacity: 10 Size Capacity: GIANT
+Class: ALL
+Race: ALL
 |
 |
 Raid Map

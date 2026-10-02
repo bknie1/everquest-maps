@@ -1,5 +1,5 @@
 # Eastern_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-09-25
+fetched: 2026-10-02
 
 Eastern Plains of Karana - EverQuest Legends Wiki
 Jump to content
@@ -454,7 +454,7 @@ WT: 0.5 Size: SMALL
 Class: ALL
 Race: ALL
 , Spider Venom SacSpider Venom Sac
-QUEST ITEM
+Quest
 WT: 0.2 Size: SMALL
 Class: ALL
 Race: ALL
@@ -491,7 +491,7 @@ Class: ALL
 Race: ALL
 (Common)
 Spider Venom SacSpider Venom Sac
-QUEST ITEM
+Quest
 WT: 0.2 Size: SMALL
 Class: ALL
 Race: ALL

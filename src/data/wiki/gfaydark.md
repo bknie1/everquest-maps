@@ -1,5 +1,5 @@
 # Greater_Faydark (eqlwiki.com)
-fetched: 2026-10-01
+fetched: 2026-10-02
 
 Greater Faydark - EverQuest Legends Wiki
 Jump to content
@@ -741,7 +741,7 @@ Tylfon |
 1 |
 Rogue |
 Greater Faydark |
-a decaying skeleton, Orc Pawn (Crushbone), a pixie trickster |
+Start Zone: |
 Wino
 |
 ? |
@@ -1699,10 +1699,10 @@ Laren
 |
 Wood Elf |
 GM Rogue |
-40 |
+70 |
+(-363, -333, 163) |
 |
-|
-Description needed. |
+Laren is a rogue GM located in the hut across from the Tunare's Scouts' building. |
 Lieutenant Leafstalker
 |
 Fayguard |

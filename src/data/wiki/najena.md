@@ -1,5 +1,5 @@
 # Najena (eqlwiki.com)
-fetched: 2026-09-30
+fetched: 2026-10-02
 
 Najena - EverQuest Legends Wiki
 Jump to content
@@ -386,7 +386,7 @@ WT: 8.0 Size: SMALL
 Class: WAR CLR PAL SHD BRD BER
 Race: ALL
 , Whore's BaneWhore's Bane
-QUEST ITEM
+Quest
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
@@ -1081,7 +1081,7 @@ Warrior |
 18 |
 Guards the jail cells. |
 Bronze Armor (Rare), Whore's BaneWhore's Bane
-QUEST ITEM
+Quest
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
@@ -2193,23 +2193,23 @@ BoneCracker |
 2H Blunt |
 Atk Delay: 40 DMG: 7 WT: 11.0 Size: LARGE Class: ALL except BRD ROG Race: ALL |
 Whore's BaneWhore's Bane
-QUEST ITEM
+Quest
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 |
 Various |
 (None) |
-QUEST ITEM WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Quest WT: 0.1 Size: TINY Class: ALL Race: ALL |
 Widowmistress HairWidowmistress Hair
-LORE ITEM NO DROP
+No Trade, Quest
 WT: 0.1 Size: TINY
 Class: NONE
 Race: NONE
 |
 The Widowmistress |
 (None) |
-LORE ITEM NO DROP WT: 0.1 Size: TINY Class: NONE Race: NONE |
+No Trade, Quest WT: 0.1 Size: TINY Class: NONE Race: NONE |
 Retrieved from "https://eqlwiki.com/index.php?title=Najena&oldid=176072"
 Categories: Classic Era
 Zones

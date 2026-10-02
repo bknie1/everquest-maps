@@ -1,5 +1,5 @@
 # Western_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-09-27
+fetched: 2026-10-02
 
 Western Karana - EverQuest Legends Wiki
 Jump to content
@@ -473,7 +473,7 @@ WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
 , Spider Venom SacSpider Venom Sac
-QUEST ITEM
+Quest
 WT: 0.2 Size: SMALL
 Class: ALL
 Race: ALL

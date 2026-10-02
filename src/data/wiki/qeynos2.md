@@ -1,5 +1,5 @@
 # Qeynos (eqlwiki.com)
-fetched: 2026-10-01
+fetched: 2026-10-02
 
 Qeynos - EverQuest Legends Wiki
 Jump to content
@@ -2854,7 +2854,20 @@ East Cabilis |
 Half Elf Maiden, Mare X`Lottl |
 The Clothspinner Sisters (good)
 |
-Unknown |
+Round ShieldRound Shield
+Slot: SECONDARY
+AC: 6
+WT: 5.0 Size: MEDIUM
+Class: ALL except MNK NEC WIZ MAG ENC
+Race: ALL
+, Bronze MaceBronze Mace
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt Atk Delay: 38
+DMG: 6
+WT: 9.0 Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+|
 Astaed Wemor |
 8 |
 ? |

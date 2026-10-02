@@ -1,5 +1,5 @@
 # Qeynos_Catacombs (eqlwiki.com)
-fetched: 2026-09-26
+fetched: 2026-10-02
 
 Qeynos Aqueducts - EverQuest Legends Wiki
 Jump to content
@@ -669,7 +669,7 @@ WT: 0.5 Size: SMALL
 Class: ALL
 Race: ALL
 , Spider Venom SacSpider Venom Sac
-QUEST ITEM
+Quest
 WT: 0.2 Size: SMALL
 Class: ALL
 Race: ALL

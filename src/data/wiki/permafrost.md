@@ -1,5 +1,5 @@
 # Permafrost_Keep (eqlwiki.com)
-fetched: 2026-10-01
+fetched: 2026-10-02
 
 Permafrost - EverQuest Legends Wiki
 Jump to content
@@ -261,7 +261,7 @@ WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
 , Zaharn's CoronetZaharn's Coronet
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable, Quest
 Slot: HEAD
 AC: 5
 STR: +3 MANA: +25
@@ -377,7 +377,7 @@ Class: WAR PAL RNG SHD
 Race: ALL
 (Rare)
 High Priest Zaharn who drops Zaharn's CoronetZaharn's Coronet
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable, Quest
 Slot: HEAD
 AC: 5
 STR: +3 MANA: +25
@@ -915,7 +915,7 @@ WT: 0.5 Size: SMALL
 Class: ALL
 Race: ALL
 , Spider Venom SacSpider Venom Sac
-QUEST ITEM
+Quest
 WT: 0.2 Size: SMALL
 Class: ALL
 Race: ALL
@@ -1481,7 +1481,7 @@ a goblin jailmaster |
 (None) |
 MAGIC ITEM Charges: 3 Effect: Ensnaring Roots (Any Slot, Casting Time: 1.5 seconds) WT: 0.1 Size: SMALL Class: ALL Race: ALL |
 Zaharn's CoronetZaharn's Coronet
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable, Quest
 Slot: HEAD
 AC: 5
 STR: +3 MANA: +25

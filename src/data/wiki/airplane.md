@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-10-01
+fetched: 2026-10-02
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -2017,10 +2017,10 @@ Fairy-Hide MantleFairy-Hide Mantle
 Lore Equipped, No Trade
 Slot: Shoulders
 AC: 9
-STR: 5 WIS: 12
-SV FIRE: 10 SV COLD: 10 SV MAGIC: 10
-Click Effect: Guardian Spirit (Must Equip, Casting Time: Instant) at Level 45
-WT: 2.5 Size: SMALL
+STR: +5 WIS: +12
+SV FIRE: +10 SV COLD: +10 SV MAGIC: +10
+Effect: Guardian Spirit (Clicky, Must Equip, Casting Time: Instant, Cooldown: 600 seconds) at Level 45
+Size: SMALL WT: 2.5
 Class: SHM
 Race: ALL
 |
@@ -2671,6 +2671,7 @@ DMG: 33
 STR: +15 CHA: +10 WIS: +15 HP: +25 MANA: +25
 SV FIRE: +5 SV DISEASE: +5 SV COLD: +5 SV MAGIC: +5 SV POISON: +5
 Effect: Flame Shock (Combat, Casting Time: Instant) at Level 45
+Effect: Virtuous Bash (Worn)
 WT: 0.1 Size: LARGE
 Class: PAL
 Race: ALL
@@ -2683,16 +2684,16 @@ Various |
 The Torrid Corruptor
 |
 Torrid CorruptorTorrid Corruptor
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade, Quest, QuestReward
 Slot: PRIMARY
-Skill: 2H Slashing Atk Delay: 44
-DMG: 33
-STR: +15 CHA: -30 INT: +5 WIS: +5 DEX: +5 HP: +25 MANA: +25
-SV FIRE: +5 SV DISEASE: +5 SV COLD: +5 SV MAGIC: +5 SV POISON: +5
-Effect: Oathbreaker's Curse (Combat, Casting Time: Instant) at Level 45
-Worn Effect: Unrighteous Bash
-WT: 0.1 Size: LARGE
-Class: PAL SHD
+Skill: 2H Slashing ATK Delay: 44
+DMG: 33 DMG Bonus: 20
+STR: +16 INT: +5 WIS: +5 DEX: +5 CHA: -30 HP: +30 MANA: +30
+SV Fire: +5 SV Disease: +5 SV Cold: +5 SV Magic: +5 SV Poison: +5
+Effect: Oathbreaker's Curse (Combat Req Level 45)
+Effect: Unrighteous Bash (Worn)
+Size: LARGE WT: 0.1
+Class: PAL, SHD
 Race: ALL
 |
 Brother Hayle |
@@ -5646,14 +5647,14 @@ a soul carrier, an essence carrier, an essence tamer |
 (None) |
 MAGIC ITEM LORE ITEM WT: 9.0 Size: LARGE Class: ALL Race: ALL |
 Shimmering PearlShimmering Pearl
-LORE ITEM NO DROP
-WT: 1.0 Size: MEDIUM
-Class: ALL
+No Trade, Quest
+Size: MEDIUM WT: 1.0
+Class: RNG
 Race: ALL
 |
 Eye of Veeshan |
 (None) |
-LORE ITEM NO DROP WT: 1.0 Size: MEDIUM Class: ALL Race: ALL |
+No Trade, Quest Size: MEDIUM WT: 1.0 Class: RNG Race: ALL |
 Shimmering TopazShimmering Topaz
 LORE ITEM
 WT: 5.0 Size: MEDIUM
