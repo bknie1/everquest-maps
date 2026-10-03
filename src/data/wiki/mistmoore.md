@@ -1,5 +1,5 @@
 # Castle_Mistmoore (eqlwiki.com)
-fetched: 2026-09-30
+fetched: 2026-10-03
 
 Mistmoore Castle - EverQuest Legends Wiki
 Jump to content
@@ -168,12 +168,12 @@ WT: 5.0 Size: SMALL
 Class: WAR CLR PAL RNG SHD BRD ROG
 Race: ALL
 , Crested Mistmoore ShieldCrested Mistmoore Shield
-MAGIC ITEM LORE ITEM
-Slot: SECONDARY
+Lore Equipped, Attunable, Placeable
+Slot: SECONDARY Type: Shield
 AC: 10
 DEX: +6
 SV DISEASE: +10 SV MAGIC: +10 SV POISON: +10
-WT: 6.5 Size: MEDIUM
+Size: MEDIUM WT: 6.5
 Class: WAR CLR PAL RNG SHD DRU BRD ROG SHM
 Race: ALL
 , Crested SpauldersCrested Spaulders
@@ -444,12 +444,12 @@ WT: 0.4 Size: SMALL
 Class: ALL
 Race: ALL
 (Common) and Crested Mistmoore ShieldCrested Mistmoore Shield
-MAGIC ITEM LORE ITEM
-Slot: SECONDARY
+Lore Equipped, Attunable, Placeable
+Slot: SECONDARY Type: Shield
 AC: 10
 DEX: +6
 SV DISEASE: +10 SV MAGIC: +10 SV POISON: +10
-WT: 6.5 Size: MEDIUM
+Size: MEDIUM WT: 6.5
 Class: WAR CLR PAL RNG SHD DRU BRD ROG SHM
 Race: ALL
 and Gilded Mistmoore VisorGilded Mistmoore Visor
@@ -1416,12 +1416,12 @@ Warrior |
 27 |
 (38, 597, -206 roams slightly), (218, 522, -223), (157, 565, -233), (-187, 486, -232), (-107, 371, -234), (-385, 516, -220) |
 Crested Mistmoore ShieldCrested Mistmoore Shield
-MAGIC ITEM LORE ITEM
-Slot: SECONDARY
+Lore Equipped, Attunable, Placeable
+Slot: SECONDARY Type: Shield
 AC: 10
 DEX: +6
 SV DISEASE: +10 SV MAGIC: +10 SV POISON: +10
-WT: 6.5 Size: MEDIUM
+Size: MEDIUM WT: 6.5
 Class: WAR CLR PAL RNG SHD DRU BRD ROG SHM
 Race: ALL
 , Gilded Mistmoore VisorGilded Mistmoore Visor
@@ -2019,18 +2019,18 @@ an avenging caitiff |
 Head |
 AC: 10 STR: +6 CHA: +3 WT: 5.0 Size: SMALL Class: WAR CLR PAL RNG SHD BRD ROG Race: ALL |
 Crested Mistmoore ShieldCrested Mistmoore Shield
-MAGIC ITEM LORE ITEM
-Slot: SECONDARY
+Lore Equipped, Attunable, Placeable
+Slot: SECONDARY Type: Shield
 AC: 10
 DEX: +6
 SV DISEASE: +10 SV MAGIC: +10 SV POISON: +10
-WT: 6.5 Size: MEDIUM
+Size: MEDIUM WT: 6.5
 Class: WAR CLR PAL RNG SHD DRU BRD ROG SHM
 Race: ALL
 |
 a glyphed ghoul |
-Secondary |
-AC: 10 DEX: +6 SV DISEASE: +10 SV MAGIC: +10 SV POISON: +10 WT: 6.5 Size: MEDIUM Class: WAR CLR PAL RNG SHD DRU BRD ROG SHM Race: ALL |
+Secondary, [[:Category:|]], Type:, Shield |
+AC: 10 DEX: +6 SV DISEASE: +10 SV MAGIC: +10 SV POISON: +10 Size: MEDIUM WT: 6.5 Class: WAR CLR PAL RNG SHD DRU BRD ROG SHM Race: ALL |
 Crested SpauldersCrested Spaulders
 Attunable
 Slot: SHOULDERS

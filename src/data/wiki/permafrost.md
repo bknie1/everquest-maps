@@ -1,5 +1,5 @@
 # Permafrost_Keep (eqlwiki.com)
-fetched: 2026-10-02
+fetched: 2026-10-03
 
 Permafrost - EverQuest Legends Wiki
 Jump to content
@@ -1405,13 +1405,13 @@ Lady Vox |
 Atk Delay: 39 DMG: 18 Effect: Yaulp III (Combat, Casting Time: Instant) at Level 40 Size: MEDIUM WT: 7.3 Class: CLR Race: ALL |
 White Dragon HideWhite Dragon Hide
 No Trade, Quest
-WT: 3.0 Size: MEDIUM
+Size: MEDIUM WT: 3.0
 Class: ALL
 Race: ALL
 |
 Lady Vox |
 (None) |
-No Trade, Quest WT: 3.0 Size: MEDIUM Class: ALL Race: ALL |
+No Trade, Quest Size: MEDIUM WT: 3.0 Class: ALL Race: ALL |
 White Dragon ScalesWhite Dragon Scales
 Attunable, Quest
 Size: MEDIUM WT: 2.5
@@ -1586,7 +1586,7 @@ Class: CLR
 Race: ALL
 , White Dragon HideWhite Dragon Hide
 No Trade, Quest
-WT: 3.0 Size: MEDIUM
+Size: MEDIUM WT: 3.0
 Class: ALL
 Race: ALL
 , White Dragon ScalesWhite Dragon Scales

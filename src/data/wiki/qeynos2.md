@@ -1,5 +1,5 @@
 # Qeynos (eqlwiki.com)
-fetched: 2026-10-02
+fetched: 2026-10-03
 
 Qeynos - EverQuest Legends Wiki
 Jump to content
@@ -2865,6 +2865,20 @@ Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 38
 DMG: 6
 WT: 9.0 Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+, Bronze FlailBronze Flail
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt Atk Delay: 37
+DMG: 6
+WT: 10.0 Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+, Bronze WarhammerBronze Warhammer
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt Atk Delay: 33
+DMG: 5
+WT: 8.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 |

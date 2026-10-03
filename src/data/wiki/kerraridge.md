@@ -1,5 +1,5 @@
 # Kerra_Isle (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-10-03
 
 Kerra Isle - EverQuest Legends Wiki
 Jump to content
@@ -131,12 +131,13 @@ a kerran pasdar (Toxxulia Forest)
 Falthrik Lothoro (Toxxulia Forest - Quest NPC)
 kerran tseq (Toxxulia Forest - Quest NPC)
 Khonza Mitty of Kerra (Kerra Isle)
-Retrieved from "https://eqlwiki.com/index.php?title=Kerra_Isle&oldid=164409"
+Retrieved from "https://eqlwiki.com/index.php?title=Kerra_Isle&oldid=180442"
 Categories: Classic Era
 Factions
+Achievement Faction
 How to Contribute
 Donate
-This page was last edited on 30 July 2026, at 15:11.
+This page was last edited on 2 October 2026, at 12:18.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

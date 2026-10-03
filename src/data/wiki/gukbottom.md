@@ -1,5 +1,5 @@
 # Lower_Guk (eqlwiki.com)
-fetched: 2026-10-02
+fetched: 2026-10-03
 
 Lower Guk - EverQuest Legends Wiki
 Jump to content
@@ -101,11 +101,11 @@ a frenzied ghoul, a froglok crusader, a froglok herbalist, the froglok king, a f
 Unique Items:
 |
 Woven Armor, Adamantite BandAdamantite Band
-MAGIC ITEM
+Attunable, Quest
 Slot: FINGER
 HP: +75
 SV MAGIC: -10
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALLFocus Effect: Summoning Haste I
 , Adamantite EpauletsAdamantite Epaulets
@@ -133,8 +133,10 @@ Class: ALL
 Race: ALLFocus Effect: Improved Damage I
 ,
 Bag of Sewn Evil-EyeBag of Sewn Evil-Eye
-WT: 3.0 Weight Reduction: 70%
-Capacity: 8 Size Capacity: LARGE
+Size: LARGE WT: 3.0
+Weight Reduction: 70% Capacity: 8 Size Capacity: LARGE
+Class: ALL
+Race: ALL
 , Basalt CarapaceBasalt Carapace
 LORE ITEM NO DROP
 Slot: CHEST
@@ -535,8 +537,10 @@ Race: ALL
 7. "Jail Room". Slaythe the Slayer spawns in dead end just north of this room and drops Broken Bow Part B. He does not actually spawn in the Jail Room itself.
 8. Ledge with an evil eye who drops
 Bag of Sewn Evil-EyeBag of Sewn Evil-Eye
-WT: 3.0 Weight Reduction: 70%
-Capacity: 8 Size Capacity: LARGE
+Size: LARGE WT: 3.0
+Weight Reduction: 70% Capacity: 8 Size Capacity: LARGE
+Class: ALL
+Race: ALL
 (and ManastoneManastone
 MAGIC ITEM Slot: PRIMARY SECONDARY Effect: Mana Convert (Any Slot, Casting Time: Instant) WT: 1.0 Size: SMALL Class: CLR DRU BRD SHM NEC WIZ MAG ENC Race: ALL
 before its removal)
@@ -689,11 +693,11 @@ WT: 0.8 Size: SMALL
 Class: ALL
 Race: ALLFocus Effect: Burning Affliction II
 (Common) and Adamantite BandAdamantite Band
-MAGIC ITEM
+Attunable, Quest
 Slot: FINGER
 HP: +75
 SV MAGIC: -10
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALLFocus Effect: Summoning Haste I
 (Rare), as well as Wizard Rod on ground
@@ -783,7 +787,7 @@ Slot: FACE
 AC: 4
 CHA: +13
 SV MAGIC: +7
-Effect: Illusion: Dark Elf (Any Slot, Casting Time: 6.0)
+Effect: Illusion: Dark Elf (Clicky, Casting Time: 6.0)
 Size: SMALL WT: 0.4
 Class: BRD ROG
 Race: ALL
@@ -1473,7 +1477,7 @@ Slot: FACE
 AC: 4
 CHA: +13
 SV MAGIC: +7
-Effect: Illusion: Dark Elf (Any Slot, Casting Time: 6.0)
+Effect: Illusion: Dark Elf (Clicky, Casting Time: 6.0)
 Size: SMALL WT: 0.4
 Class: BRD ROG
 Race: ALL
@@ -1803,11 +1807,11 @@ WT: 0.8 Size: SMALL
 Class: ALL
 Race: ALLFocus Effect: Burning Affliction II
 (Common), Adamantite BandAdamantite Band
-MAGIC ITEM
+Attunable, Quest
 Slot: FINGER
 HP: +75
 SV MAGIC: -10
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALLFocus Effect: Summoning Haste I
 (Rare) |
@@ -1862,8 +1866,10 @@ Wizard |
 34-36 |
 625, -445 |
 Bag of Sewn Evil-EyeBag of Sewn Evil-Eye
-WT: 3.0 Weight Reduction: 70%
-Capacity: 8 Size Capacity: LARGE
+Size: LARGE WT: 3.0
+Weight Reduction: 70% Capacity: 8 Size Capacity: LARGE
+Class: ALL
+Race: ALL
 , Evil Eye EyestalksEvil Eye Eyestalks
 WT: 0.1 Size: TINY
 Class: ALL
@@ -2004,17 +2010,17 @@ The arch mage is an excellent hunt for high level casters in LGuk. PH is a jin g
 Items - Found 75 items that drop in Lower Guk:
 Item Name | Drops From | Slot | Stats |
 Adamantite BandAdamantite Band
-MAGIC ITEM
+Attunable, Quest
 Slot: FINGER
 HP: +75
 SV MAGIC: -10
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALLFocus Effect: Summoning Haste I
 |
 a reanimated hand (Lower Guk) |
 Fingers |
-HP: +75 SV MAGIC: -10 WT: 0.1 Size: TINY Class: ALL Race: ALL |
+HP: +75 SV MAGIC: -10 Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Adamantite EpauletsAdamantite Epaulets
 MAGIC ITEM
 Slot: SHOULDERS
@@ -2051,12 +2057,14 @@ a minotaur patriarch |
 Arms |
 AC: 12 WT: 0.6 Size: SMALL Class: ALL Race: ALL |
 Bag of Sewn Evil-EyeBag of Sewn Evil-Eye
-WT: 3.0 Weight Reduction: 70%
-Capacity: 8 Size Capacity: LARGE
+Size: LARGE WT: 3.0
+Weight Reduction: 70% Capacity: 8 Size Capacity: LARGE
+Class: ALL
+Race: ALL
 |
 an evil eye |
 (None) |
-WT: 3.0 Weight Reduction: 70% Capacity: 8 Size Capacity: LARGE |
+Size: LARGE WT: 3.0 Weight Reduction: 70% Capacity: 8 Size Capacity: LARGE Class: ALL Race: ALL |
 Basalt CarapaceBasalt Carapace
 LORE ITEM NO DROP
 Slot: CHEST

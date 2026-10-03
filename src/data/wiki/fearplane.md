@@ -1,5 +1,5 @@
 # Plane_of_Fear (eqlwiki.com)
-fetched: 2026-10-02
+fetched: 2026-10-03
 
 Plane of Fear - EverQuest Legends Wiki
 Jump to content
@@ -720,7 +720,7 @@ Class: WIZ
 Race: ALL
 |
 Very magic resistant,Lure of flame lands. |
-Cazic Thule (God)
+Cazic-Thule (God)
 |
 Cazic-Thule |
 Shadow Knight |
@@ -2349,15 +2349,15 @@ Cazic Thule (God) |
 Shoulders |
 AC: 20 STR: +10 STA: +10 HP: +20 MANA: +20 SV FIRE: +5 SV DISEASE: +5 SV COLD: +5 SV MAGIC: +5 SV POISON: +5 Effect: Aura of Battle (Must Equip, Casting Time: Instant) WT: 4.0 Size: MEDIUM Class: WAR PAL SHD Race: ALL |
 Puppet StringsPuppet Strings
+Effect: Allure (Charge Clicky, Casting Time: Instant)
 Charges: 10
-Effect: Allure (Clicky, Casting Time: Instant)
 Size: SMALL WT: 0.2
 Class: ALL
 Race: ALL
 |
 None? |
 (None) |
-Charges: 10 Effect: Allure (Clicky, Casting Time: Instant) Size: SMALL WT: 0.2 Class: ALL Race: ALL |
+Effect: Allure (Charge Clicky, Casting Time: Instant) Charges: 10 Size: SMALL WT: 0.2 Class: ALL Race: ALL |
 Robe of InspirationRobe of Inspiration
 MAGIC ITEM LORE ITEM NO DROP
 Slot: CHEST
@@ -3408,8 +3408,8 @@ Size: MEDIUM WT: 2.0
 Class: WAR
 Race: ALL
 , Puppet StringsPuppet Strings
+Effect: Allure (Charge Clicky, Casting Time: Instant)
 Charges: 10
-Effect: Allure (Clicky, Casting Time: Instant)
 Size: SMALL WT: 0.2
 Class: ALL
 Race: ALL
@@ -3596,8 +3596,8 @@ Size: TINY WT: 0.5
 Class: ALL
 Race: ALLFocus Effect: Wind Resonance 14
 , Puppet StringsPuppet Strings
+Effect: Allure (Charge Clicky, Casting Time: Instant)
 Charges: 10
-Effect: Allure (Clicky, Casting Time: Instant)
 Size: SMALL WT: 0.2
 Class: ALL
 Race: ALL

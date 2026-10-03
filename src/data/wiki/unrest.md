@@ -1,5 +1,5 @@
 # Estate_of_Unrest (eqlwiki.com)
-fetched: 2026-10-01
+fetched: 2026-10-03
 
 The Estate of Unrest - EverQuest Legends Wiki
 Jump to content
@@ -560,10 +560,11 @@ WT: 0.3 Size: MEDIUM
 Class: MNK BST
 Race: ALL
 and Fistwraps of Raw FleshFistwraps of Raw Flesh
+Attunable
 Slot: PRIMARY
 Skill: Hand to Hand Atk Delay: 40
 DMG: 17
-WT: 2.0 Size: MEDIUM
+WT: 2.0 Size: SMALL
 END: +35
 Class: MNK
 Race: ALL
@@ -1089,20 +1090,6 @@ Class: ALL
 Race: ALL
 |
 A Festering Hag spawns as the PH. |
-Khrix Abomination
-|
-Ghoul |
-Warrior |
-38-40 |
-(620, 56) |
-Powder of ReanimationPowder of Reanimation
-LORE ITEM NO DROP
-WT: 0.1 Size: TINY
-Class: NONE
-Race: NONE
-|
-Found in Unrest running amok on all the lower levels of the zone.
-He is notorious among the people of Unrest. Triggered... |
 Khrix Fritchoff
 |
 Gnome |
@@ -1138,6 +1125,20 @@ Class: NEC WIZ MAG ENC
 Race: ALL
 |
 This gnomish necromancer can be reached by going through the southwest door in the fireplace room and making an immediat... |
+Khrix`s Abomination
+|
+Ghoul |
+Warrior |
+38-40 |
+(620, 56) |
+Powder of ReanimationPowder of Reanimation
+No Trade, Quest
+WT: 0.1 Size: TINY
+Class: NONE
+Race: NONE
+|
+Found in Unrest running amok on all the lower levels of the zone.
+He is notorious among the people of Unrest. Triggered... |
 Lesser Blade Fiend
 |
 Dervish |
@@ -1863,14 +1864,14 @@ a dusty werebat |
 (None) |
 No Trade, Quest WT: 1.0 Size: SMALL Class: ALL Race: ALL |
 Powder of ReanimationPowder of Reanimation
-LORE ITEM NO DROP
+No Trade, Quest
 WT: 0.1 Size: TINY
 Class: NONE
 Race: NONE
 |
-Khrix Abomination |
+Khrix`s Abomination |
 (None) |
-LORE ITEM NO DROP WT: 0.1 Size: TINY Class: NONE Race: NONE |
+No Trade, Quest WT: 0.1 Size: TINY Class: NONE Race: NONE |
 Preserved HopsPreserved Hops
 No Trade
 Size: TINY WT: 0.1
@@ -1936,7 +1937,7 @@ WT: 0.3 Size: MEDIUM
 Class: MNK BST
 Race: ALL
 |
-Khrix's Abomination |
+Khrix`s Abomination |
 Chest |
 AC: 13 STR: +1 DEX: +4 STA: +3 CHA: -25 AGI: +3 SV Fire: +3 SV Disease: -15 SV Cold: +3 SV Magic: -6 SV Poison: -15 WT: 0.3 Size: MEDIUM Class: MNK BST Race: ALL |
 Sarcoscypha FungusSarcoscypha Fungus

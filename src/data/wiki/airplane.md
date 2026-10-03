@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-10-02
+fetched: 2026-10-03
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -422,9 +422,9 @@ Mask of SongMask of Song
 Lore Equipped, No Trade
 Slot: Face
 AC: 12
-STR: 3 DEX: 3 STA: 3 CHA: 3 WIS: 3 INT: 3 AGI: 3
-SV FIRE: 7 SV DISEASE: 7 SV COLD: 7 SV MAGIC: 7 SV POISON: 7
-WT: 0.5 Size: MEDIUM
+STR: +3 DEX: +3 STA: +3 CHA: +3 WIS: +3 INT: +3 AGI: +3
+SV FIRE: +7 SV DISEASE: +7 SV COLD: +7 SV MAGIC: +7 SV POISON: +7
+Size: MEDIUM WT: 0.5
 Class: BRD
 Race: ALL
 |
@@ -493,13 +493,13 @@ Wind Rune Caza
 Amulet of Woven Hair (6-BZ)
 |
 Denon's Horn of DisasterDenon's Horn of Disaster
-MAGIC ITEM LORE ITEM NO DROP
-Slot: PRIMARY
-Brass Resonance: 15
+Lore Equipped, No Trade, Placeable
+Slot: PRIMARY SECONDARY
 STR: +5 CHA: +10 INT: +5 HP: +50
 WT: 2.0 Size: MEDIUM
-Class: BRD
-Race: ALL
+Brass Resonance 15
+Class: ALL
+Race: ALLFocus Effect: Brass Resonance 15
 |
 Bard Test of Brass
 |
@@ -679,14 +679,13 @@ Efreeti Standard
 |
 Molten CoilMolten Coil
 Lore Equipped, No Trade
-Slot: FINGERS
+Slot: FINGER
+AC: 5
+STR: +6 DEX: +6 STA: +5 CHA: +10 AGI: +5 Mana: -55
+SV FIRE: +5
+Size: TINY WT: 0.1
 Class: BER
 Race: ALL
-AC: 5
-Mana: -55
-STR: +6 STA: +5 AGI: +5 DEX: +6 CHA: +10
-SV FIRE: +5
-WT: 0.1 Size: TINY
 |
 Berserker Test of Will
 |
@@ -738,14 +737,13 @@ Wind Rune Azia
 Feathered Cape (3-Gorga)
 |
 Blood-Drawn RunesBlood-Drawn Runes
-No Trade, Quest
+Lore Equipped, No Trade, Quest
 Slot: CHEST
-Class: BER
-Race: ALL
-HP: +55 End: +25
-STR: +10 STA: +10 AGI: +5 DEX: +10
+STR: +10 DEX: +10 STA: +10 AGI: +5 HP: +55 End: +25
 HP Regen: +10
 Size: LARGE
+Class: BER
+Race: ALL
 |
 Berserker Test of Blood
 |
@@ -909,12 +907,12 @@ Rune |
 Quest Items
 |
 Drake-Hide MaskDrake-Hide Mask
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade
 Slot: FACE
 AC: 4
 STR: +10 DEX: +10 WIS: +10 AGI: +10 MANA: +10
 SV MAGIC: +7
-WT: 0.4 Size: SMALL
+Size: SMALL WT: 0.4
 Class: DRU
 Race: ALL
 |
@@ -1115,15 +1113,13 @@ Wind Rune Fana
 Glowing Necklace (7-SotS)
 |
 Rod of the Protecting WindsRod of the Protecting Winds
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade, Placeable
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 45
-DMG: 35 AC: 10
+DMG: 35 DMG Bonus: 30 @ lvl 50 AC: 10
 CHA: +15 INT: +15 MANA: +75
-Effect: Rune III (Must Equip, Casting Time: Instant) at Level 45
-Charges: Infinite
-Cooldown: 180 seconds
-WT: 5.0 Size: LARGE
+Effect: Rune III (Clicky, Must Equip, Casting Time: Instant, Cooldown: 180 seconds) at Level 45
+Size: LARGE WT: 5.0
 Class: ENC
 Race: ALL
 |
@@ -1300,12 +1296,11 @@ Wind Rune Caza
 Silken Strands (3-Gorga)
 |
 Ton Po's Eye PatchTon Po's Eye Patch
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade
 Slot: FACE
-End: +25
-STR: +8 DEX: +8 AGI: +8
+STR: +8 DEX: +8 AGI: +8 End: +25
 Effect: See Invisible (Worn)
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: MNK
 Race: ALL
 |
@@ -1417,11 +1412,11 @@ Wind Rune Lena
 Griffon's Beak (3-Gorga)
 |
 Cloak of Spiroc FeathersCloak of Spiroc Feathers
-LORE ITEM NO DROP
+Lore Equipped, No Trade, Quest
 Slot: BACK
 AC: 6
 STR: +5 STA: +6 INT: +5 MANA: +50
-WT: 0.5 Size: MEDIUM
+Size: MEDIUM WT: 0.5
 Class: NEC
 Race: ALL
 |
@@ -1518,12 +1513,12 @@ Rune |
 Quest Items
 |
 Girdle of FaithGirdle of Faith
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade
 Slot: WAIST
 AC: 10
 STR: +6 WIS: +6 AGI: +6
 Haste: +41%
-WT: 1.0 Size: SMALL
+Size: SMALL WT: 1.0
 Class: PAL
 Race: ALL
 |
@@ -1554,13 +1549,13 @@ Wind Rune Ozah
 Bixie Sword Blade (6-BZ)
 |
 Thelvorn, Blade of LightThelvorn, Blade of Light
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade, Placeable
 Slot: PRIMARY
 Skill: 1H Slashing Atk Delay: 26
-DMG: 20
+DMG: 20 DMG Bonus: 12 @ lvl 50
 WIS: +15
-Effect: Dismiss Summoned (Combat, Casting Time: Instant) at Level 45
-WT: 3.0 Size: MEDIUM
+Effect: Dismiss Summoned (Combat) at Level 45
+Size: MEDIUM WT: 3.0
 Class: PAL
 Race: ALL
 |
@@ -1577,9 +1572,9 @@ TruvinanTruvinan
 Lore Equipped, No Trade, Placeable
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 40
-DMG: 32
-Effect: Dismiss Undead (Combat, Casting Time: Instant) at Level 45
-WT: 8.0 Size: LARGE
+DMG: 32 DMG Bonus: 27 @ lvl 50
+Effect: Dismiss Undead (Combat) at Level 45
+Size: LARGE WT: 8.0
 Class: PAL
 Race: ALL
 |
@@ -1623,8 +1618,8 @@ Lore Equipped, No Trade
 Slot: BACK
 AC: 6
 STR: +7 DEX: +7 WIS: +7 AGI: +7 HP: +55
-Effect: Haste (Any Slot/Can Equip, Casting Time: Instant) at Level 40
-WT: 5.0 Size: MEDIUM
+Effect: Haste (Clicky, Can Equip, Casting Time: Instant) at Level 40
+Size: MEDIUM WT: 5.0
 Class: RNG
 Race: ALL
 |
@@ -1657,7 +1652,7 @@ Wind Rune Kala
 Spiroc Earth Totem (5-SL)
 |
 Thunderforged EarringThunderforged Earring
-Lore Equpped, No Trade
+Lore Equipped, No Trade
 Slot: EAR
 AC: 8
 DEX: +8 WIS: +8 AGI: +8 MANA: +25
@@ -1726,8 +1721,8 @@ Wispy Choker of VigorWispy Choker of Vigor
 Lore Equipped, No Trade
 Slot: Neck
 AC: 5
-STR: 9 DEX: 9 AGI: 3 HP: 20
-WT: 0.1 Size: TINY
+STR: +9 DEX: +9 AGI: +3 HP: +20
+Size: TINY WT: 0.1
 Class: ROG
 Race: ALL
 |
@@ -1762,8 +1757,8 @@ Lore Equipped, No Trade
 Slot: SHOULDERS
 AC: 9
 STR: +6 DEX: +6 AGI: +4 HP: +30
-Effect: Levitate (Must Equip, Casting Time: Instant, Cooldown: 120s) at Level 45
-WT: 2.5 Size: SMALL
+Effect: Levitate (Clicky, Must Equip, Casting Time: Instant, Cooldown: 120 seconds) at Level 45
+Size: SMALL WT: 2.5
 Class: ROG
 Race: ALL
 |
@@ -1914,7 +1909,7 @@ Rusted Pauldrons (6-BZ)
 |
 Obtenebrate Mithril GuardObtenebrate Mithril Guard
 Lore Equipped, No Trade, Placeable
-Slot: SECONDARY
+Slot: SECONDARY Type: Shield
 AC: 35
 STR: +15
 SV FIRE: +15
@@ -2152,13 +2147,13 @@ Wind Rune Beza
 Spiroc Air Totem (5-SL)
 |
 Belt of the Four WindsBelt of the Four Winds
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade
 Slot: WAIST
 AC: 5
 STR: +12 DEX: +6 STA: +12 AGI: +6
 SV MAGIC: +5
 Haste: +41%
-WT: 2.0 Size: MEDIUM
+Size: MEDIUM WT: 2.0
 Class: WAR
 Race: ALL
 |
@@ -2294,12 +2289,12 @@ Box of Winds (6-BZ)
 Efreeti Statuette
 |
 Amulet of the VoidAmulet of the Void
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade
 Slot: NECK
 AC: 4
 DEX: +5 CHA: +5 INT: +5 AGI: +5 MANA: +50
-Effect: Alter Plane: Sky (Any Slot/Can Equip, Casting Time: Instant, Cooldown: 120 seconds) at Level 45
-WT: 0.1 Size: TINY
+Effect: Alter Plane: Sky (Clicky, Must Equip, Casting Time: Instant, Cooldown: 120 seconds) at Level 45
+Size: TINY WT: 0.1
 Class: WIZ
 Race: ALL
 |
@@ -3581,18 +3576,18 @@ None? |
 Neck |
 AC: 2 CHA: 4 WT: 0.2 Size: SMALL Class: BRD Race: ALL |dropsfrom = Plane of Sky* Bazzt Zzzt |
 Amulet of the VoidAmulet of the Void
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade
 Slot: NECK
 AC: 4
 DEX: +5 CHA: +5 INT: +5 AGI: +5 MANA: +50
-Effect: Alter Plane: Sky (Any Slot/Can Equip, Casting Time: Instant, Cooldown: 120 seconds) at Level 45
-WT: 0.1 Size: TINY
+Effect: Alter Plane: Sky (Clicky, Must Equip, Casting Time: Instant, Cooldown: 120 seconds) at Level 45
+Size: TINY WT: 0.1
 Class: WIZ
 Race: ALL
 |
 None? |
 Neck |
-AC: 4 DEX: +5 CHA: +5 INT: +5 AGI: +5 MANA: +50 Effect: Alter Plane: Sky (Casting Time: Instant, Cooldown: 120 seconds) at Level 45 WT: 0.1 Size: TINY Class: WIZ Race: ALL |
+AC: 4 DEX: +5 CHA: +5 INT: +5 AGI: +5 MANA: +50 Effect: Alter Plane: Sky (Clicky, Must Equip, Casting Time: Instant, Cooldown: 120 seconds) at Level 45 Size: TINY WT: 0.1 Class: WIZ Race: ALL |
 Animal FigurineAnimal Figurine
 LORE ITEM NO DROP
 WT: 0.1 Size: TINY
@@ -3888,18 +3883,17 @@ Various |
 1H Slashing |
 Atk Delay: 39 DMG: 20 Dmg Bon: 19 STR: +7 INT: +3 WT: 7.5 Size: MEDIUM Class: SHD Race: ALL |
 Blood-Drawn RunesBlood-Drawn Runes
-No Trade, Quest
+Lore Equipped, No Trade, Quest
 Slot: CHEST
-Class: BER
-Race: ALL
-HP: +55 End: +25
-STR: +10 STA: +10 AGI: +5 DEX: +10
+STR: +10 DEX: +10 STA: +10 AGI: +5 HP: +55 End: +25
 HP Regen: +10
 Size: LARGE
+Class: BER
+Race: ALL
 |
 None? |
 Chest |
-Class: BER Race: ALL HP: +55 End: +25 STR: +10 STA: +10 AGI: +5 DEX: +10 HP Regen: +10 Size: LARGE |
+STR: +10 DEX: +10 STA: +10 AGI: +5 HP: +55 End: +25 HP Regen: +10 Size: LARGE Class: BER Race: ALL |
 Blood Sky AmethystBlood Sky Amethyst
 LORE ITEM
 WT: 6.0 Size: MEDIUM
@@ -4440,15 +4434,14 @@ Efreeti Long SwordEfreeti Long Sword
 Lore Equipped, Attunable, Quest, Placeable
 Slot: Primary Secondary
 Skill: 1H Slashing Atk Delay: 28
-DMG: 11
-Dmg Bon: 13
-WT: 0.1 Size: SMALL
+DMG: 11 DMG Bonus: 13 @ lvl 50
+Size: SMALL WT: 0.1
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 |
 Noble Dojorn, Overseer of Air, the Hand of Veeshan |
 1H Slashing |
-Atk Delay: 28 DMG: 11 Dmg Bon: 13 WT: 0.1 Size: SMALL Class: WAR PAL RNG SHD BRD ROG Race: ALL |
+Atk Delay: 28 DMG: 11 DMG Bonus: 13 @ lvl 50 Size: SMALL WT: 0.1 Class: WAR PAL RNG SHD BRD ROG Race: ALL |
 Efreeti MaceEfreeti Mace
 Lore Equipped, Attunable, Quest, Placeable
 Slot: Primary

@@ -1,5 +1,5 @@
 # Nagafen's_Lair (eqlwiki.com)
-fetched: 2026-10-02
+fetched: 2026-10-03
 
 Nagafen's Lair - EverQuest Legends Wiki
 Jump to content
@@ -1520,16 +1520,15 @@ King Tranix |
 Neck |
 AC: 7 WIS: +13 INT: +13 WT: 4.0 Size: SMALL Class: WAR PAL RNG SHD MNK BRD ROG BST BER Race: ALL |
 Prayers of LifePrayers of Life
-MAGIC ITEM
+Effect: Word of Healing (Charge Clicky, Casting Time: Instant)
 Charges: 5
-Effect: Word of Healing (Any Slot, Casting Time: 2.0)
-WT: 0.4 Size: SMALL
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 |
 Lord Nagafen |
 (None) |
-MAGIC ITEM Charges: 5 Effect: Word of Healing (Any Slot, Casting Time: 2.0) WT: 0.4 Size: SMALL Class: ALL Race: ALL |
+Effect: Word of Healing (Charge Clicky, Casting Time: Instant) Charges: 5 Size: SMALL WT: 0.4 Class: ALL Race: ALL |
 Razing Sword of SkarlonRazing Sword of Skarlon
 MAGIC ITEM LORE ITEM NO DROP
 Slot: PRIMARY
@@ -1814,10 +1813,9 @@ WT: 1.5 Size: SMALL
 Class: BRD NEC WIZ MAG ENC
 Race: ALL
 , Prayers of LifePrayers of Life
-MAGIC ITEM
+Effect: Word of Healing (Charge Clicky, Casting Time: Instant)
 Charges: 5
-Effect: Word of Healing (Any Slot, Casting Time: 2.0)
-WT: 0.4 Size: SMALL
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 , Red Dragon ScalesRed Dragon Scales

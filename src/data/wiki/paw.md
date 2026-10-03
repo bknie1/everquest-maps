@@ -1,5 +1,5 @@
 # Splitpaw_Lair (eqlwiki.com)
-fetched: 2026-09-30
+fetched: 2026-10-03
 
 Splitpaw Lair - EverQuest Legends Wiki
 Jump to content
@@ -281,14 +281,12 @@ WT: 10 Size:MEDIUM
 Class: WAR MNK BST BER
 Race: ALL
 , Vacra Av SvimVacra Av Svim
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade, Placeable
 Slot: SECONDARY
 Skill: 1H Slashing Atk Delay: 31
-DMG: 10
-AC: 6
-STR: +6 WIS: +6
-AGI: +6 HP: +5
-WT: 5.0 Size: MEDIUM
+DMG: 10 DMG Bonus: 15 @ lvl 50 AC: 6
+STR: +6 WIS: +6 AGI: +6 HP: +5
+Size: MEDIUM WT: 5.0
 Class: WAR RNG BRD ROG
 Race: ALL
 , Verishe Bracer of DominanceVerishe Bracer of Dominance
@@ -380,14 +378,12 @@ Race: ALL
 5. Underwater secret tunnel leads to 8.
 6. Prison with the Brother Hayle
 7. Tesch Val Kadvem who drops Vacra Av SvimVacra Av Svim
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade, Placeable
 Slot: SECONDARY
 Skill: 1H Slashing Atk Delay: 31
-DMG: 10
-AC: 6
-STR: +6 WIS: +6
-AGI: +6 HP: +5
-WT: 5.0 Size: MEDIUM
+DMG: 10 DMG Bonus: 15 @ lvl 50 AC: 6
+STR: +6 WIS: +6 AGI: +6 HP: +5
+Size: MEDIUM WT: 5.0
 Class: WAR RNG BRD ROG
 Race: ALL
 (Rare)
@@ -779,14 +775,12 @@ Warrior |
 40 |
 50% @ (405, -154) |
 Vacra Av SvimVacra Av Svim
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade, Placeable
 Slot: SECONDARY
 Skill: 1H Slashing Atk Delay: 31
-DMG: 10
-AC: 6
-STR: +6 WIS: +6
-AGI: +6 HP: +5
-WT: 5.0 Size: MEDIUM
+DMG: 10 DMG Bonus: 15 @ lvl 50 AC: 6
+STR: +6 WIS: +6 AGI: +6 HP: +5
+Size: MEDIUM WT: 5.0
 Class: WAR RNG BRD ROG
 Race: ALL
 , Ancient Earthen VambracesAncient Earthen Vambraces
@@ -1179,20 +1173,18 @@ a Tesch Val Brute |
 2H Blunt |
 Atk Delay: 30 DMG: 15 Effect: Stun (Req Level 30) HP: +20 End: +20 STR: +9 AGI: -5 WT: 10 Size:MEDIUM Class: WAR MNK BST BER Race: ALL |
 Vacra Av SvimVacra Av Svim
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade, Placeable
 Slot: SECONDARY
 Skill: 1H Slashing Atk Delay: 31
-DMG: 10
-AC: 6
-STR: +6 WIS: +6
-AGI: +6 HP: +5
-WT: 5.0 Size: MEDIUM
+DMG: 10 DMG Bonus: 15 @ lvl 50 AC: 6
+STR: +6 WIS: +6 AGI: +6 HP: +5
+Size: MEDIUM WT: 5.0
 Class: WAR RNG BRD ROG
 Race: ALL
 |
 Tesch Val Kadvem |
 1H Slashing |
-Atk Delay: 31 DMG: 10AC: 6 STR: +6 WIS: +6AGI: +6 HP: +5 WT: 5.0 Size: MEDIUM Class: WAR RNG BRD ROG Race: ALL |
+Atk Delay: 31 DMG: 10 DMG Bonus: 15 @ lvl 50 AC: 6 STR: +6 WIS: +6 AGI: +6 HP: +5 Size: MEDIUM WT: 5.0 Class: WAR RNG BRD ROG Race: ALL |
 Verishe Bracer of DominanceVerishe Bracer of Dominance
 Lore Equipped, Attunable
 Slot: WRIST

@@ -1,5 +1,5 @@
 # Paineel (eqlwiki.com)
-fetched: 2026-10-01
+fetched: 2026-10-03
 
 Paineel - EverQuest Legends Wiki
 Jump to content
@@ -390,10 +390,10 @@ Noclin`s Pet |
 The Summoning of Dread
 |
 Dread Forged ShieldDread Forged Shield
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade, Placeable
 Slot: SECONDARY
 AC: 17
-STR: +5 CHA: +10 WIS: +5 MANA: +20
+STR: +5 WIS: +5 CHA: +10 MANA: +20
 SV MAGIC: +10
 WT: 1.5 Size: MEDIUM
 Class: CLR
@@ -403,7 +403,7 @@ Nivold Predd |
 40 (Group) |
 Cleric |
 The Estate of Unrest, Northern Karana, Permafrost, Splitpaw Lair |
-Khrix Abomination, a Griffon, An Ice Giant, The Ishva Mal |
+Khrix Fritchoff, Khrix`s Abomination, a Griffon, An Ice Giant, The Ishva Mal |
 The Summoning of Fright
 |
 ? |
@@ -604,12 +604,12 @@ None |
 Description needed. |
 Avatar of Dread
 |
-? |
-? |
-? |
-? |
+Golem |
+Warrior |
+40 |
+(1231, 472, -38) |
 None |
-Description needed. |
+Summoned for The Summoning of Dread. |
 Avatar of Fright
 |
 ? |
@@ -1653,7 +1653,7 @@ Nivold Predd
 |
 Erudite |
 GM Cleric |
-61 |
+70 |
 (1116, 519) |
 None |
 Description needed. |

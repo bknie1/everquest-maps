@@ -1,5 +1,5 @@
 # Cazic-Thule (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-10-03
 
 Cazic-Thule (Lore) - EverQuest Legends Wiki
 Jump to content
@@ -67,7 +67,7 @@ Cazic-Thule (Lore)
 From EverQuest Legends Wiki
 (Redirected from Cazic-Thule)
 Were you looking for Cazic Thule (Zone)?
-Were you looking for Cazic Thule (God)?
+Were you looking for Cazic-Thule (God)?
 File:Cazic.PNG
 The Faceless
 Followers of Cazic-Thule fear their Lord and believe that only by causing terror in others will they be spared his vengeful wrath. They strive to beat down and suppress all hope. Fear rules their lives and through fear they rule the lives of others. Pain, misery, violence, torture, and living sacrifices are all the tools of a Cazicite. Many lizardman tribes are devout followers, but his number of humanoid patrons grows daily, a cold shadow slowly engulfing the bright spots of Norrath in a twisted nightmare of horror and pain.
@@ -77,13 +77,13 @@ Agnostic • Bertoxxulous • Brell Serilis • Bristlebane Fizzlethrope
 Cazic-Thule • Erollisi Marr • Innoruuk • Karana
 Mithaniel Marr • Prexus • Quellious • Rallos Zek • Rodcet Nife
 Solusek Ro • The Tribunal • Tunare • Veeshan
-Retrieved from "https://eqlwiki.com/index.php?title=Cazic-Thule_(Lore)&oldid=108239"
+Retrieved from "https://eqlwiki.com/index.php?title=Cazic-Thule_(Lore)&oldid=180651"
 Categories: Pages with broken file links
 Lore
 Deity
 How to Contribute
 Donate
-This page was last edited on 12 April 2026, at 09:16.
+This page was last edited on 2 October 2026, at 18:18.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

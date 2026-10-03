@@ -1,5 +1,5 @@
 # Plane_of_Hate (eqlwiki.com)
-fetched: 2026-10-01
+fetched: 2026-10-03
 
 Plane of Hate - EverQuest Legends Wiki
 Jump to content
@@ -210,7 +210,7 @@ Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 Decrepit HideDecrepit Hide
 No Trade, Quest
-WT: 0.2 Size: SMALL
+Size: SMALL WT: 0.2
 Class: NONE
 Race: NONE
 Ashenbone AbbasiAshenbone Abbasi
@@ -289,8 +289,8 @@ WT: 1.0 Size: SMALL
 Class: ENC
 Race: ALL
 Essence of a VampireEssence of a Vampire
-MAGIC ITEM LORE ITEM NO DROP
-WT: 0.1 Size: TINY
+No Trade, Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -2080,13 +2080,13 @@ Primary, Secondary |
 Skill: 1H Piercing Atk Delay: 25 DMG: 11 DMG Bonus: 12 @ lvl 50 Size: LARGE WT: 3.0 Class: BRD Race: ALL |
 Decrepit HideDecrepit Hide
 No Trade, Quest
-WT: 0.2 Size: SMALL
+Size: SMALL WT: 0.2
 Class: NONE
 Race: NONE
 |
 an ashenbone drake |
 (None) |
-No Trade, Quest WT: 0.2 Size: SMALL Class: NONE Race: NONE |
+No Trade, Quest Size: SMALL WT: 0.2 Class: NONE Race: NONE |
 Diamond RodDiamond Rod
 MAGIC ITEM LORE ITEM NO DROP
 Slot: PRIMARY
@@ -2126,14 +2126,14 @@ Innoruuk |
 Fingers |
 AC: 20 STR: +5 DEX: +5 STA: +5 CHA: +5 WIS: +5 INT: +5 AGI: +5 HP: +5 MANA: +20 END: +20 Size: TINY WT: 0.1 Class: WAR CLR PAL SHD ROG NEC WIZ MAG ENC Race: ALL |
 Essence of a VampireEssence of a Vampire
-MAGIC ITEM LORE ITEM NO DROP
-WT: 0.1 Size: TINY
+No Trade, Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 a forsaken revenant, Coercer T`vala |
 (None) |
-MAGIC ITEM LORE ITEM NO DROP WT: 0.1 Size: TINY Class: ALL Race: ALL |
+No Trade, Quest Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Ethereal Mist BootsEthereal Mist Boots
 Lore Equipped, No Trade, Quest
 Slot: FEET
