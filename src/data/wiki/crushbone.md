@@ -1,5 +1,5 @@
 # Crushbone (eqlwiki.com)
-fetched: 2026-10-01
+fetched: 2026-10-04
 
 Crushbone - EverQuest Legends Wiki
 Jump to content
@@ -292,7 +292,7 @@ WT: 4.0 Size: SMALL
 Class: PAL RNG SHD BRD
 Race: ALL
 , Spiky SplintmailSpiky Splintmail
-ATTUNEABLE
+Attunable
 Slot: Chest
 AC: 12 HP: +15
 STA: +5
@@ -431,7 +431,7 @@ WT: 3.0 Size: SMALL
 Class: WAR PAL RNG SHD MNK BRD ROG NEC WIZ MAG ENC BST BER
 Race: ALL
 and Spiky SplintmailSpiky Splintmail
-ATTUNEABLE
+Attunable
 Slot: Chest
 AC: 12 HP: +15
 STA: +5
@@ -633,7 +633,7 @@ WT: 3.0 Size: SMALL
 Class: WAR PAL RNG SHD MNK BRD ROG NEC WIZ MAG ENC BST BER
 Race: ALL
 , Spiky SplintmailSpiky Splintmail
-ATTUNEABLE
+Attunable
 Slot: Chest
 AC: 12 HP: +15
 STA: +5
@@ -1550,7 +1550,7 @@ orc slaver |
 1H Slashing |
 Atk Delay: 40 DMG: 9 HP: +5 END: +5 WIS: +2 INT: +2 WT: 4.0 Size: SMALL Class: PAL RNG SHD BRD Race: ALL |
 Spiky SplintmailSpiky Splintmail
-ATTUNEABLE
+Attunable
 Slot: Chest
 AC: 12 HP: +15
 STA: +5

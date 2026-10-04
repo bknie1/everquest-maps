@@ -1,5 +1,5 @@
 # Permafrost_Keep (eqlwiki.com)
-fetched: 2026-10-03
+fetched: 2026-10-04
 
 Permafrost - EverQuest Legends Wiki
 Jump to content
@@ -106,7 +106,7 @@ WT: 0.4 Weight Reduction: 25%
 Capacity: 6 Size Capacity: LARGE
 , Barbarian Hunting SpearBarbarian Hunting Spear
 MAGIC ITEM LORE ITEM
-Slot: RANGE PRIMARY
+Slot: PRIMARY
 Skill: Piercing Atk Delay: 33
 DMG: 10
 WIS: +5 MANA: +10
@@ -540,7 +540,7 @@ A Goblin Preacher
 Goblin |
 Cleric |
 24 |
-34% @ (223, 264) |
+(223, 264) |
 Runed CircletRuned Circlet
 Slot: HEAD
 AC: 4
@@ -564,7 +564,7 @@ WT: 2.8 Size: MEDIUM
 Class: ALL except
 Race: ALL
 |
-Description needed. |
+Spawns only at the above location. PHs include an ice goblin, a goblin priest, an ice goblin veteran, and [[... |
 A dire pup
 |
 Wolf |
@@ -889,7 +889,7 @@ Warrior |
 (956, -224, -110) |
 Barbarian Hunting SpearBarbarian Hunting Spear
 MAGIC ITEM LORE ITEM
-Slot: RANGE PRIMARY
+Slot: PRIMARY
 Skill: Piercing Atk Delay: 33
 DMG: 10
 WIS: +5 MANA: +10
@@ -977,7 +977,7 @@ a goblin archeologist |
 LORE ITEM WT: 0.4 Weight Reduction: 25% Capacity: 6 Size Capacity: LARGE |
 Barbarian Hunting SpearBarbarian Hunting Spear
 MAGIC ITEM LORE ITEM
-Slot: RANGE PRIMARY
+Slot: PRIMARY
 Skill: Piercing Atk Delay: 33
 DMG: 10
 WIS: +5 MANA: +10

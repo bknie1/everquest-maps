@@ -1,5 +1,5 @@
 # Plane_of_Fear (eqlwiki.com)
-fetched: 2026-10-03
+fetched: 2026-10-04
 
 Plane of Fear - EverQuest Legends Wiki
 Jump to content
@@ -752,7 +752,7 @@ Warrior |
 51 |
 Wanders between the hourglass (366,-188) and the fallen bell (423, -746) |
 None |
-Skeleton Quest NPC |
+Wandering unattackable skeleton, associated with Paladin Epic Quest. |
 Phoboplasm
 |
 Gelatinous Cube |

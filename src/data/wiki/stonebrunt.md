@@ -1,5 +1,5 @@
 # Stonebrunt_Mountains (eqlwiki.com)
-fetched: 2026-10-01
+fetched: 2026-10-04
 
 Stonebrunt Mountains - EverQuest Legends Wiki
 Jump to content
@@ -1503,7 +1503,7 @@ Girgak the Bloody
 |
 Kobold |
 Warrior |
-23-24 |
+19 |
 -5000, 1000 |
 Blood Crusted Leather BootsBlood Crusted Leather Boots
 MAGIC ITEM LORE ITEM

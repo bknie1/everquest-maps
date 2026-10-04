@@ -1,5 +1,5 @@
 # Nagafen's_Lair (eqlwiki.com)
-fetched: 2026-10-03
+fetched: 2026-10-04
 
 Nagafen's Lair - EverQuest Legends Wiki
 Jump to content
@@ -195,9 +195,11 @@ WT: 3.5 Size: MEDIUM
 Class: NEC WIZ MAG ENC
 Race: ALLFocus Effect: Affliction Haste II
 , Large Soiled BagLarge Soiled Bag
-LORE ITEM
+Size: LARGE
 WT: 1.0 Weight Reduction: 100%
 Capacity: 10 Size Capacity: SMALL
+Class: ALL
+Race: ALL
 , Mithril BreastplateMithril Breastplate
 MAGIC ITEM LORE ITEM
 Slot: CHEST
@@ -417,9 +419,11 @@ Class: DRU
 Race: ALL
 (Rare)
 14. "Collector's Room" with guano harvester (long wander path) who is invisible and drops Large Soiled BagLarge Soiled Bag
-LORE ITEM
+Size: LARGE
 WT: 1.0 Weight Reduction: 100%
 Capacity: 10 Size Capacity: SMALL
+Class: ALL
+Race: ALL
 (Common) and Cloak of ShadowsCloak of Shadows
 MAGIC ITEM LORE ITEM
 Slot: BACK
@@ -669,9 +673,11 @@ WT: 0.0 Size: LARGE
 Class: ALL
 Race: ALL
 , Large Soiled BagLarge Soiled Bag
-LORE ITEM
+Size: LARGE
 WT: 1.0 Weight Reduction: 100%
 Capacity: 10 Size Capacity: SMALL
+Class: ALL
+Race: ALL
 |
 Placeholder is a roaming sonic bat. Upon spawning, will immediately cast invis on itself and roam through the ba... |
 Imp Protector
@@ -1416,13 +1422,15 @@ imp protector |
 (None) |
 WT: 0.1 Size: SMALL Class: ALL Race: ALL |
 Large Soiled BagLarge Soiled Bag
-LORE ITEM
+Size: LARGE
 WT: 1.0 Weight Reduction: 100%
 Capacity: 10 Size Capacity: SMALL
+Class: ALL
+Race: ALL
 |
 guano harvester |
 (None) |
-LORE ITEM WT: 1.0 Weight Reduction: 100% Capacity: 10 Size Capacity: SMALL |
+Size: LARGE WT: 1.0 Weight Reduction: 100% Capacity: 10 Size Capacity: SMALL Class: ALL Race: ALL |
 Lava RockLava Rock
 MAGIC ITEM QUEST ITEM
 WT: 0.1 Size: TINY
