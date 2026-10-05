@@ -1,5 +1,5 @@
 # North_Ro (eqlwiki.com)
-fetched: 2026-09-30
+fetched: 2026-10-05
 
 The Northern Desert of Ro - EverQuest Legends Wiki
 Jump to content
@@ -770,7 +770,7 @@ a desert tarantula, a dune tarantula |
 (None) |
 QUEST ITEM STR: -2 DEX: -2 WT: 3.5 Size: LARGE Class: ALL Race: ALL |
 Dry Eye WeedDry Eye Weed
-Size: TINYWT: 0.1
+Size: TINY WT: 0.1
 Class: NONE
 Race: NONE
 |

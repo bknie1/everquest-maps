@@ -1,5 +1,5 @@
 # Ocean_of_Tears (eqlwiki.com)
-fetched: 2026-10-01
+fetched: 2026-10-05
 
 Ocean of Tears - EverQuest Legends Wiki
 Jump to content
@@ -140,12 +140,12 @@ WT: 1.0 Size: MEDIUM
 Class: ALL
 Race: ALL
 , Bracers of ErollisiBracers of Erollisi
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable, Quest
 Slot: WRIST
 AC: 5
 STR: +5
 WT: 1.0 Size: SMALL
-Class: ALL except SHD NEC WIZ MAG ENC
+Class: WAR CLR PAL RND DRU MNK BRD ROG SHM
 Race: ALL
 , Robe of the GroveRobe of the Grove
 MAGIC ITEM LORE ITEM
@@ -253,7 +253,7 @@ Styria Fearnon |
 20 |
 ? |
 None |
-a pirate |
+Captain Surestout |
 Pirate Earrings
 |
 Aviak FeatherAviak Feather
@@ -1274,17 +1274,17 @@ a goblin headmaster |
 Face |
 AC: 2 WT: 0.4 Size: SMALL Class: WIZ Race: ALL |
 Bracers of ErollisiBracers of Erollisi
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable, Quest
 Slot: WRIST
 AC: 5
 STR: +5
 WT: 1.0 Size: SMALL
-Class: ALL except SHD NEC WIZ MAG ENC
+Class: WAR CLR PAL RND DRU MNK BRD ROG SHM
 Race: ALL
 |
 Capt Surestout |
 Wrist |
-AC: 5 STR: +5 WT: 1.0 Size: SMALL Class: ALL except SHD NEC WIZ MAG ENC Race: ALL |
+AC: 5 STR: +5 WT: 1.0 Size: SMALL Class: WAR CLR PAL RND DRU MNK BRD ROG SHM Race: ALL |
 Bronze ScytheBronze Scythe
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 48

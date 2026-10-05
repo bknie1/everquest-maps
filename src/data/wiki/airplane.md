@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-10-03
+fetched: 2026-10-05
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -3497,7 +3497,7 @@ Warrior |
 |
 None |
 This is the quest NPC for Wizard Plane of Sky Tests turn ins. |
-Items - Found 276 items that drop in Plane of Sky:
+Items - Found 277 items that drop in Plane of Sky:
 Item Name | Drops From | Slot | Stats |
 Acidic VenomAcidic Venom
 LORE ITEM
@@ -4521,13 +4521,14 @@ Lore Equipped, Attunable, Quest, Placeable
 Slot: Range
 Skill: Archery Atk Delay: 100
 DMG: 40
-WT: 1.0 Range: 75 Size: MEDIUM
+Size: MEDIUM WT: 1.0
+Range: 75
 Class: WAR RNG
 Race: ALL
 |
 Noble Dojorn, Overseer of Air, The Hand of Veeshan |
 Archery |
-Atk Delay: 100 DMG: 40 WT: 1.0 Range: 75 Size: MEDIUM Class: WAR RNG Race: ALL |
+Atk Delay: 100 DMG: 40 Size: MEDIUM WT: 1.0 Range: 75 Class: WAR RNG Race: ALL |
 Efreeti War ClubEfreeti War Club
 Lore Equipped, Attunable, Quest, Placeable
 Slot: Primary
@@ -4544,13 +4545,13 @@ Atk Delay: 26 DMG: 11 Dmg Bon: 12 WT: 1.0 Size: MEDIUM Class: WAR CLR PAL RNG SH
 Efreeti War HornEfreeti War Horn
 Lore Equipped, Attunable, Quest, Placeable
 Slot: Primary Secondary
-WT: 5.0 Size: MEDIUM
+Size: MEDIUM WT: 5.0
 Class: ALL
-Race: ALLFocus Effect: Brass Resonance: 13
+Race: ALLFocus Effect: Brass Resonance 13
 |
 Noble Dojorn, Overseer of Air, The Hand of Veeshan |
 Primary, Secondary |
-WT: 5.0 Size: MEDIUM Class: ALL Race: ALL |
+Size: MEDIUM WT: 5.0 Class: ALL Race: ALL |
 Efreeti War MaulEfreeti War Maul
 Lore Equipped, Attunable, Quest, Placeable
 Slot: Primary
@@ -5261,7 +5262,7 @@ Race: ALL
 |
 Eye of Veeshan |
 (None) |
-|
+No Trade, Quest WT: 0.1 Size: MEDIUM Class: WIZ Race: ALL |
 Large Sky PearlLarge Sky Pearl
 LORE ITEM
 WT: 0.1 Size: SMALL
@@ -5280,6 +5281,15 @@ Race: ALL
 None? |
 (None) |
 No Trade, Quest WT: 15.0 Size: LARGE Class: ENC Race: ALL |
+Leather CordLeather Cord
+No Trade, Quest
+WT: 3.0 Size: MEDIUM
+Class: SHM BST
+Race: ALL
+|
+Gorgalosk |
+(None) |
+No Trade, Quest WT: 3.0 Size: MEDIUM Class: SHM BST Race: ALL |
 Light Cloth MantleLight Cloth Mantle
 Lore Equipped, Attunable, Quest
 Slot: Shoulders

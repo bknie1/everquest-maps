@@ -1,5 +1,5 @@
 # Rathe_Mountains (eqlwiki.com)
-fetched: 2026-09-30
+fetched: 2026-10-05
 
 Rathe Mountains - EverQuest Legends Wiki
 Jump to content
@@ -127,12 +127,13 @@ WT: 0.8 Size: SMALL
 Class: ALL
 Race: ALLFocus Effect: Affliction Haste I
 , Man-o-WarMan-o-War
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 41
-DMG: 19
-Effect: Chaotic Feedback (Combat, Casting Time: Instant) at Level 30
-WT: 9.0 Size: LARGE
+DMG: 19 DMG Bonus: 28 @ lvl 50
+Accuracy: +2.5%
+Effect: Chaotic Feedback (Combat, Rate +75%) at Level 30
+Size: LARGE WT: 9.0
 Class: PAL
 Race: ALL
 , Marr's PromiseMarr's Promise
@@ -1486,12 +1487,13 @@ Paladin |
 35 |
 2945,-1990 3707,-813 1990,-1260 |
 Man-o-WarMan-o-War
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 41
-DMG: 19
-Effect: Chaotic Feedback (Combat, Casting Time: Instant) at Level 30
-WT: 9.0 Size: LARGE
+DMG: 19 DMG Bonus: 28 @ lvl 50
+Accuracy: +2.5%
+Effect: Chaotic Feedback (Combat, Rate +75%) at Level 30
+Size: LARGE WT: 9.0
 Class: PAL
 Race: ALL
 , Siryn Hair HoodSiryn Hair Hood
@@ -2115,18 +2117,19 @@ Various |
 (None) |
 Quest Size: MEDIUM WT: 2.0 Class: ALL Race: ALL |
 Man-o-WarMan-o-War
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 41
-DMG: 19
-Effect: Chaotic Feedback (Combat, Casting Time: Instant) at Level 30
-WT: 9.0 Size: LARGE
+DMG: 19 DMG Bonus: 28 @ lvl 50
+Accuracy: +2.5%
+Effect: Chaotic Feedback (Combat, Rate +75%) at Level 30
+Size: LARGE WT: 9.0
 Class: PAL
 Race: ALL
 |
 Quid Rilstone |
 2H Blunt |
-Atk Delay: 41 DMG: 19 Effect: Chaotic Feedback (Combat, Casting Time: Instant) at Level 30 WT: 9.0 Size: LARGE Class: PAL Race: ALL |
+Atk Delay: 41 DMG: 19 DMG Bonus: 28 @ lvl 50 Accuracy: +2.5% Effect: Chaotic Feedback (Combat, Rate +75%) at Level 30 Size: LARGE WT: 9.0 Class: PAL Race: ALL |
 Marr's PromiseMarr's Promise
 MAGIC ITEM LORE ITEM
 Slot: SECONDARY

@@ -1,5 +1,5 @@
 # Northern_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-09-27
+fetched: 2026-10-05
 
 Northern Plains of Karana - EverQuest Legends Wiki
 Jump to content
@@ -1518,14 +1518,13 @@ Grimtooth |
 Chest |
 AC: 9 STR: +3 AGI: +3 WT: 1.0 Size: MEDIUM Class: DRU BRD Race: ALL |
 Wild CabbageWild Cabbage
-This is a meal.
-WT: 0.6 Size: SMALL
+Size: SMALL WT: 0.6
 Class: ALL
 Race: ALL
 |
 None? |
 (None) |
-This is a meal. WT: 0.6 Size: SMALL Class: ALL Race: ALL |
+Size: SMALL WT: 0.6 Class: ALL Race: ALL |
 Retrieved from "https://eqlwiki.com/index.php?title=Northern_Plains_of_Karana&oldid=133778"
 Categories: Classic Era
 Zones

@@ -1,5 +1,5 @@
 # Castle_Mistmoore (eqlwiki.com)
-fetched: 2026-10-03
+fetched: 2026-10-05
 
 Mistmoore Castle - EverQuest Legends Wiki
 Jump to content
@@ -276,9 +276,9 @@ WT: 0.7 Size: SMALL
 Class: NEC WIZ MAG ENC
 Race: ALL
 , Mistmoore Battle DrumsMistmoore Battle Drums
-Attunable Placeable
+Attunable, Placeable
 Slot: Primary Secondary
-WT: 0.5 Size: SMALL
+Size: SMALL WT: 0.5
 Class: ALL
 Race: ALLFocus Effect: Percussion Resonance 11
 , Mistmoore GraniteMistmoore Granite
@@ -588,9 +588,9 @@ WT: 0.8 Size: SMALL
 Class: ALL
 Race: ALLFocus Effect: String Resonance 11
 (Common) and Mistmoore Battle DrumsMistmoore Battle Drums
-Attunable Placeable
+Attunable, Placeable
 Slot: Primary Secondary
-WT: 0.5 Size: SMALL
+Size: SMALL WT: 0.5
 Class: ALL
 Race: ALLFocus Effect: Percussion Resonance 11
 (Rare)
@@ -1792,9 +1792,9 @@ WT: 0.8 Size: SMALL
 Class: ALL
 Race: ALLFocus Effect: String Resonance 11
 , Mistmoore Battle DrumsMistmoore Battle Drums
-Attunable Placeable
+Attunable, Placeable
 Slot: Primary Secondary
-WT: 0.5 Size: SMALL
+Size: SMALL WT: 0.5
 Class: ALL
 Race: ALLFocus Effect: Percussion Resonance 11
 |
@@ -2228,15 +2228,15 @@ Maid Issis |
 (None) |
 LORE ITEM WT: 0.1 Size: SMALL Class: ALL Race: ALL |
 Mistmoore Battle DrumsMistmoore Battle Drums
-Attunable Placeable
+Attunable, Placeable
 Slot: Primary Secondary
-WT: 0.5 Size: SMALL
+Size: SMALL WT: 0.5
 Class: ALL
 Race: ALLFocus Effect: Percussion Resonance 11
 |
 a werewolf gypsy, Mynthi Davissi |
 Primary, Secondary |
-WT: 0.5 Size: SMALL Class: ALL Race: ALL |
+Size: SMALL WT: 0.5 Class: ALL Race: ALL |
 Mistmoore GraniteMistmoore Granite
 NO DROP
 WT: 2.0 Size: TINY
