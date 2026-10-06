@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-10-05
+fetched: 2026-10-06
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -1393,12 +1393,11 @@ Rune |
 Quest Items
 |
 Bloody Griffon-Hide Wrist GuardBloody Griffon-Hide Wrist Guard
-MAGIC ITEM LORE ITEM
+Lore Equipped, No Trade
 Slot: WRIST
-Charges: 10
 AC: 5
-DEX: +5 CHA: +10 INT: +5 AGI: +5 MANA: +25
-Effect: Levitate (Must Equip, Casting Time: Instant) at Level 30
+INT: +5 AGI: +5 DEX: +5 CHA: +10 MANA: +25
+Effect: Levitate (Must Equip, Casting Time: Instant, Cooldown: 120 seconds) at Level 45
 WT: 1.0 Size: SMALL
 Class: NEC
 Race: ALL
@@ -3497,7 +3496,7 @@ Warrior |
 |
 None |
 This is the quest NPC for Wizard Plane of Sky Tests turn ins. |
-Items - Found 277 items that drop in Plane of Sky:
+Items - Found 278 items that drop in Plane of Sky:
 Item Name | Drops From | Slot | Stats |
 Acidic VenomAcidic Venom
 LORE ITEM
@@ -3939,6 +3938,19 @@ Race: ALL
 an undine spirit |
 (None) |
 LORE ITEM WT: 8.0 Size: LARGE Class: ALL Race: ALL |
+Bloody Griffon-Hide Wrist GuardBloody Griffon-Hide Wrist Guard
+Lore Equipped, No Trade
+Slot: WRIST
+AC: 5
+INT: +5 AGI: +5 DEX: +5 CHA: +10 MANA: +25
+Effect: Levitate (Must Equip, Casting Time: Instant, Cooldown: 120 seconds) at Level 45
+WT: 1.0 Size: SMALL
+Class: NEC
+Race: ALL
+|
+None? |
+Wrist |
+AC: 5 INT: +5 AGI: +5 DEX: +5 CHA: +10 MANA: +25 Effect: Levitate (Must Equip, Casting Time: Instant, Cooldown: 120 seconds) at Level 45 WT: 1.0 Size: SMALL Class: NEC Race: ALL |
 Bluish StoneBluish Stone
 LORE ITEM
 WT: 0.2 Size: SMALL
@@ -4580,17 +4592,17 @@ Noble Dojorn, Overseer of Air, the Hand of Veeshan |
 Secondary |
 AC: 15 STR: +5 SV FIRE: +10 WT: 2.0 Size: MEDIUM Skill: Shield Class: WAR CLR PAL RNG SHD Race: ALL |
 Efreeti War SpearEfreeti War Spear
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable, Quest, Placeable
 Slot: PRIMARY
 Skill: Piercing Atk Delay: 40
 DMG: 15BACKSTAB: 15
 WT: 5.0 Size: MEDIUM
-Class: WAR BRD ROG SHM
+Class: WAR BRD ROG SHM BST
 Race: ALL
 |
 Noble Dojorn, Overseer of Air |
 Piercing |
-Atk Delay: 40 DMG: 15 WT: 5.0 Size: MEDIUM Class: WAR BRD ROG SHM Race: ALL |
+Atk Delay: 40 DMG: 15 WT: 5.0 Size: MEDIUM Class: WAR BRD ROG SHM BST Race: ALL |
 Efreeti War StaffEfreeti War Staff
 Lore Equipped, Attunable, Quest, Placeable
 Slot: Primary
@@ -4610,7 +4622,7 @@ Lore Equipped, Attunable, Quest, Placeable
 Slot: Primary
 Skill: 2H Blunt Atk Delay: 36
 DMG: 12
-Dmg Bon: 24
+Dmg Bon: 22
 INT: +3
 WT: 15.0 Size: LARGE
 Class: CLR DRU SHM NEC WIZ MAG ENC BST BER
@@ -4618,7 +4630,7 @@ Race: ALL
 |
 Noble Dojorn, Overseer of Air, the Hand of Veeshan |
 2H Blunt |
-Atk Delay: 36 DMG: 12 Dmg Bon: 24 INT: +3 WT: 15.0 Size: LARGE Class: CLR DRU SHM NEC WIZ MAG ENC BST BER Race: ALL |
+Atk Delay: 36 DMG: 12 Dmg Bon: 22 INT: +3 WT: 15.0 Size: LARGE Class: CLR DRU SHM NEC WIZ MAG ENC BST BER Race: ALL |
 Efreeti ZweihanderEfreeti Zweihander
 Lore Equipped, Attunable, Quest, Placeable
 Slot: Primary
@@ -4897,14 +4909,14 @@ an azarack |
 (None) |
 LORE ITEM WT: 0.5 Size: SMALL Class: ALL Race: ALL |
 Golden CofferGolden Coffer
-LORE ITEM NO DROP
+No Trade, Quest
 WT: 10.0 Size: LARGE
-Class: ALL
+Class: MAG
 Race: ALL
 |
 The Spiroc Lord |
 (None) |
-LORE ITEM NO DROP WT: 10.0 Size: LARGE Class: ALL Race: ALL |
+No Trade, Quest WT: 10.0 Size: LARGE Class: MAG Race: ALL |
 Golden Efreeti BracersGolden Efreeti Bracers
 No Trade
 Slot: Wrist
@@ -4930,7 +4942,7 @@ Noble Dojorn, Overseer of Air, the Hand of Veeshan |
 Chest |
 AC: 20 STR: +5 WIS: +10 WT: 7.5 Size: LARGE Class: ALL Race: ALL |
 Golden Efreeti GauntletsGolden Efreeti Gauntlets
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade
 Slot: HANDS
 AC: 12
 WIS: +5 INT: +5
@@ -5685,7 +5697,7 @@ None? |
 Shoulders |
 Class: BER Race: ALL AC: 8 HP: +25 End: +25 STR: +7 WIS: +7 DEX: +7 WT: 2.5 Size: SMALL Click Effect: Raging Strength (Must Equip) Cast Time: 3.5 seconds Required Level: 46 Cooldown: 120 seconds |
 Silken MaskSilken Mask
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade, Quest
 Slot: BACK
 AC: 2
 DEX: +3 AGI: +3
