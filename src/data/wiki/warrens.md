@@ -1,5 +1,5 @@
 # The_Warrens (eqlwiki.com)
-fetched: 2026-10-01
+fetched: 2026-10-07
 
 The Warrens - EverQuest Legends Wiki
 Jump to content
@@ -588,7 +588,7 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , Giant Bat WingGiant Bat Wing
-QUEST ITEM
+Quest
 WT: 0.3 Size: SMALL
 Class: ALL
 Race: ALL
@@ -644,7 +644,7 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , Giant Bat WingGiant Bat Wing
-QUEST ITEM
+Quest
 WT: 0.3 Size: SMALL
 Class: ALL
 Race: ALL

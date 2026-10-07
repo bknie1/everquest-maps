@@ -1,5 +1,5 @@
 # Stonebrunt_Mountains (eqlwiki.com)
-fetched: 2026-10-04
+fetched: 2026-10-07
 
 Stonebrunt Mountains - EverQuest Legends Wiki
 Jump to content
@@ -1861,7 +1861,7 @@ Warrior |
 60 |
 (-4000, -3423) |
 |
-Dark Elf located at the abandoned Kobold campsite, east of the docks. Joined by a scorned shiphand and [[a heretic s... |
+Dark Elf located at the abandoned Kobold campsite, east of the docks. Joined by 2x a scorned shiphand and [[a hereti... |
 Yuio Kaliio
 |
 Kerran |

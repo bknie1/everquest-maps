@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-10-06
+fetched: 2026-10-07
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -5015,14 +5015,14 @@ Various |
 (None) |
 Quest WT: 1.0 Size: MEDIUM Class: PAL Race: ALL |
 Gorgon HeadGorgon Head
-LORE ITEM NO DROP
+No Trade, Quest
 WT: 12.0 Size: LARGE
-Class: ALL
+Class: NEC
 Race: ALL
 |
 Gorgalosk |
 (None) |
-LORE ITEM NO DROP WT: 12.0 Size: LARGE Class: ALL Race: ALL |
+No Trade, Quest WT: 12.0 Size: LARGE Class: NEC Race: ALL |
 Grey Damask CloakGrey Damask Cloak
 MAGIC ITEM LORE ITEM NO DROP
 Slot: BACK

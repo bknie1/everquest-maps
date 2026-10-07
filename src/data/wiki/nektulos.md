@@ -1,5 +1,5 @@
 # Nektulos_Forest (eqlwiki.com)
-fetched: 2026-10-02
+fetched: 2026-10-07
 
 Nektulos Forest - EverQuest Legends Wiki
 Jump to content
@@ -565,34 +565,17 @@ An Undead Annalkeeper
 Skeleton New |
 Warrior |
 10 |
-See Discussion |
+Spawns NW corner, paths south |
 Various |
-Added in Mar2002 update to Nektulos[https://web.archive.org/web/20020421200608/http://eqbeastiary.allakhazam.com:80/sear... |
+Always drops a page, but the pages are for an unimplemented quest |
 An Undead Steward
 |
 Skeleton New |
 Warrior |
 10 |
-See Discussion |
-Rusty ScimitarRusty Scimitar
-Slot: PRIMARY SECONDARY
-Skill: 1H Slashing Atk Delay: 35
-DMG: 5
-WT: 7.5 Size: MEDIUM
-Class: WAR PAL RNG SHD DRU BRD ROG
-Race: ALL
-, Bone ChipsBone Chips
-Quest
-Size: SMALL WT: 0.1
-Class: ALL
-Race: ALL
-, Tome Insert Page 1Tome Insert Page 1
-NO TRADE
-WT: 0.3 Size: TINY
-Class: None
-Race: None
-|
-Added in Mar2002 update to Nektulos[https://web.archive.org/web/20020421200608/http://eqbeastiary.allakhazam.com:80/sear... |
+Spawns NW corner, paths south |
+Various |
+Always drops a page, but the pages are for an unimplemented quest. |
 An araneidae spiderling
 |
 |
@@ -1310,7 +1293,7 @@ Necromancer |
 100% @ (-1073.54, -685.43) |
 None |
 Starts the Necromancer Epic questline. She is located on the northern bank of the river, east of the bridge. Seems to be... |
-Items - Found 31 items that drop in Nektulos Forest:
+Items - Found 34 items that drop in Nektulos Forest:
 Item Name | Drops From | Slot | Stats |
 Basilisk EggBasilisk Egg
 QUEST ITEM
@@ -1560,41 +1543,68 @@ Kirak Vil |
 Secondary |
 AC: 5 WT: 7.5 Size: MEDIUM Class: WAR PAL RNG SHD Race: ALL |
 Tattered Journal Page 1Tattered Journal Page 1
-MAGIC ITEM LORE ITEM NO DROP
+No Trade, Quest
 WT: 0.3 Size: TINY
 Class: NONE
 Race: NONE
 |
-an undead annalkeeper |
+An Undead Annalkeeper |
 (None) |
-MAGIC ITEM LORE ITEM NO DROP WT: 0.3 Size: TINY Class: NONE Race: NONE |
+No Trade, Quest WT: 0.3 Size: TINY Class: NONE Race: NONE |
 Tattered Journal Page 2Tattered Journal Page 2
-MAGIC ITEM LORE ITEM NO DROP
+No Trade, Quest
 WT: 0.3 Size: TINY
 Class: NONE
 Race: NONE
 |
-an undead annalkeeper |
+An Undead Annalkeeper |
 (None) |
-MAGIC ITEM LORE ITEM NO DROP WT: 0.3 Size: TINY Class: NONE Race: NONE |
+No Trade, Quest WT: 0.3 Size: TINY Class: NONE Race: NONE |
 Tattered Journal Page 3Tattered Journal Page 3
-MAGIC ITEM LORE ITEM NO DROP
+No Trade, Quest
 WT: 0.3 Size: TINY
 Class: NONE
 Race: NONE
 |
-an undead annalkeeper |
+An Undead Annalkeeper |
 (None) |
-MAGIC ITEM LORE ITEM NO DROP WT: 0.3 Size: TINY Class: NONE Race: NONE |
+No Trade, Quest WT: 0.3 Size: TINY Class: NONE Race: NONE |
 Tome Insert Page 1Tome Insert Page 1
-NO TRADE
+No Trade
 WT: 0.3 Size: TINY
 Class: None
 Race: None
 |
 An Undead Steward |
 (None) |
-NO TRADE WT: 0.3 Size: TINY Class: None Race: None |
+No Trade WT: 0.3 Size: TINY Class: None Race: None |
+Tome Insert Page 2Tome Insert Page 2
+No Trade
+WT: 0.3 Size: TINY
+Class: None
+Race: None
+|
+An Undead Steward |
+(None) |
+No Trade WT: 0.3 Size: TINY Class: None Race: None |
+Tome Insert Page 3Tome Insert Page 3
+No Trade
+WT: 0.3 Size: TINY
+Class: None
+Race: None
+|
+An Undead Steward |
+(None) |
+No Trade WT: 0.3 Size: TINY Class: None Race: None |
+Tome Insert Page 4Tome Insert Page 4
+No Trade
+WT: 0.3 Size: TINY
+Class: None
+Race: None
+|
+An Undead Steward |
+(None) |
+No Trade WT: 0.3 Size: TINY Class: None Race: None |
 Vial of Halfling BloodVial of Halfling Blood
 MAGIC ITEM NO DROP
 WT: 0.1 Size: TINY

@@ -1,5 +1,5 @@
 # The_Hole (eqlwiki.com)
-fetched: 2026-10-06
+fetched: 2026-10-07
 
 The Hole - EverQuest Legends Wiki
 Jump to content
@@ -307,12 +307,12 @@ Class: NEC WIZ MAG ENC
 Race: ALL
 , and Serpent's ToothSerpent's Tooth
 Lore Equipped, Attunable, Placeable
-Slot: PRIMARY
+Slot: PRIMARY SECONDARY
 Skill: 1H Piercing Atk Delay: 27
 DMG: 13 DMG Bonus: 13 @ lvl 50 BACKSTAB: 13
 STR: +3
 Size: MEDIUM WT: 2.3
-Class: ROG
+Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
 Race: ALL
 . Nortlav the Scalekeeper is also here who drops Red Dragon ScalesRed Dragon Scales
 Attunable, Quest
@@ -1713,17 +1713,17 @@ Nortlav the Scalekeeper |
 Atk Delay: 52 DMG: 27 STR: +3 DEX: +2 WT: 10.0 Size: LARGE Class: WAR PAL RNG SHD Race: ALL |
 Serpent's ToothSerpent's Tooth
 Lore Equipped, Attunable, Placeable
-Slot: PRIMARY
+Slot: PRIMARY SECONDARY
 Skill: 1H Piercing Atk Delay: 27
 DMG: 13 DMG Bonus: 13 @ lvl 50 BACKSTAB: 13
 STR: +3
 Size: MEDIUM WT: 2.3
-Class: ROG
+Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
 Race: ALL
 |
 Master Yael |
-Primary |
-Skill: 1H Piercing Atk Delay: 27 DMG: 13 DMG Bonus: 13 @ lvl 50 BACKSTAB: 13 STR: +3 Size: MEDIUM WT: 2.3 Class: ROG Race: ALL |
+Primary, Secondary |
+Skill: 1H Piercing Atk Delay: 27 DMG: 13 DMG Bonus: 13 @ lvl 50 BACKSTAB: 13 STR: +3 Size: MEDIUM WT: 2.3 Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST Race: ALL |
 Smoldering BrandSmoldering Brand
 MAGIC ITEM LORE ITEM
 Slot: PRIMARY SECONDARY
@@ -1998,12 +1998,12 @@ Class: NEC WIZ MAG ENC
 Race: ALL
 , Serpent's ToothSerpent's Tooth
 Lore Equipped, Attunable, Placeable
-Slot: PRIMARY
+Slot: PRIMARY SECONDARY
 Skill: 1H Piercing Atk Delay: 27
 DMG: 13 DMG Bonus: 13 @ lvl 50 BACKSTAB: 13
 STR: +3
 Size: MEDIUM WT: 2.3
-Class: ROG
+Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
 Race: ALL
 |
 |

@@ -1,5 +1,5 @@
 # Nagafen's_Lair (eqlwiki.com)
-fetched: 2026-10-04
+fetched: 2026-10-07
 
 Nagafen's Lair - EverQuest Legends Wiki
 Jump to content
@@ -921,7 +921,7 @@ WT: 0.5 Size: MEDIUM
 Class: ALL
 Race: ALL
 , Giant Bat WingGiant Bat Wing
-QUEST ITEM
+Quest
 WT: 0.3 Size: SMALL
 Class: ALL
 Race: ALL
