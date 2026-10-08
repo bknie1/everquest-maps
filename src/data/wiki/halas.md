@@ -1,5 +1,5 @@
 # Halas (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-10-08
 
 Halas - EverQuest Legends Wiki
 Jump to content
@@ -1282,12 +1282,12 @@ Merchant |
 Spirita is an Alchemy Supplies merchant standing outside the Shaman Guild's Temple of the Tribunal. |
 Sven Felligan
 |
-Barbarian |
+Halas Citizen |
+Merchant |
+45 |
+(2848, -3454, -37) |
 |
-|
-(2849, -3460, -37) |
-|
-|
+Please note! You must uncheck "Show only items I can use" in order to see some of his items, as they have the class/race... |
 Telvina
 |
 Halas Citizen |

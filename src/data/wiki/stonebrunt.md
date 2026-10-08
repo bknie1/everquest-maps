@@ -1,5 +1,5 @@
 # Stonebrunt_Mountains (eqlwiki.com)
-fetched: 2026-10-07
+fetched: 2026-10-08
 
 Stonebrunt Mountains - EverQuest Legends Wiki
 Jump to content
@@ -1549,7 +1549,7 @@ WT: 0.8 Size: SMALL
 Class: WAR SHD BRD SHM NEC WIZ MAG ENC
 Race: ALL
 |
-Can spawn in the east or west tent at (-5000, 1000). Sometimes drops nothing. |
+Can spawn in the east or west tent or campfire at (-5000, 1000). Sometimes drops nothing. |
 Heretic Invader
 |
 Erudite |
