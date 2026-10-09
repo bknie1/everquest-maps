@@ -1,5 +1,5 @@
 # Felwithe (eqlwiki.com)
-fetched: 2026-10-01
+fetched: 2026-10-09
 
 Felwithe - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -187,14 +188,14 @@ Skill: Piercing Atk Delay: 24
 DMG: 3BACKSTAB: 3
 WT: 2.5 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 , Spell: Numbing Cold, Worn Great StaffWorn Great Staff
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 40
 DMG: 6
 WT: 10.0 Size: LARGE
 Class: ALL except BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 27 @ lvl 50
 |
 Tarker Blazetoss |
 1 |
@@ -307,7 +308,7 @@ Skill: 2H Slashing Atk Delay: 45
 DMG: 12
 WT: 12.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 , Ringmail Armor, Fine Steel Weapons, Gems |
 Casts Lay on hands. Often casts cancel magic, and root. |
 Guard Psape
@@ -731,7 +732,7 @@ Skill: 1H Slashing Atk Delay: 24
 DMG: 6
 WT: 3.5 Size: MEDIUM
 Class: PAL
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 General Jyleel |
 22 |
@@ -825,7 +826,7 @@ Skill: 2H Slashing Atk Delay: 45
 DMG: 12
 WT: 12.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 |
 Located at 21, -292, downstairs of the paladin guild in one of the rooms opposite the secret door. |
 Assa Leafwind
@@ -944,7 +945,7 @@ Skill: 2H Slashing Atk Delay: 45
 DMG: 12
 WT: 12.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 , Ringmail Armor, Fine Steel Weapons, Gems |
 Casts Lay on hands. Often casts cancel magic, and root. |
 Guard Crucorn
@@ -959,7 +960,7 @@ Skill: 2H Slashing Atk Delay: 45
 DMG: 12
 WT: 12.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 , Ringmail Armor, Fine Steel Weapons, Gems |
 Casts Lay on hands. Often casts cancel magic, and root. |
 Guard Evital
@@ -982,7 +983,7 @@ Skill: 2H Slashing Atk Delay: 45
 DMG: 12
 WT: 12.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 , Ringmail Armor, Fine Steel Weapons, Gems |
 Casts Lay on hands. Often casts cancel magic, and root. Will likely have haste as his patrol takes him right next to [[T... |
 Guard Jassong
@@ -997,7 +998,7 @@ Skill: 2H Slashing Atk Delay: 45
 DMG: 12
 WT: 12.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 , Ringmail Armor, Fine Steel Weapons, Gems |
 Casts Lay on hands. Often casts cancel magic, and root. |
 Guard Kiston
@@ -1012,7 +1013,7 @@ Skill: 2H Slashing Atk Delay: 45
 DMG: 12
 WT: 12.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 , Ringmail Armor, Fine Steel Weapons, Gems |
 Casts Lay on hands. Often casts cancel magic, and root. Spawns to left as you enter ramparts and paths to right side. |
 Guard Legver
@@ -1027,7 +1028,7 @@ Skill: 2H Slashing Atk Delay: 45
 DMG: 12
 WT: 12.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 , Ringmail Armor, Fine Steel Weapons, Gems |
 Casts Lay on hands. Often casts cancel magic, and root. |
 Guard Lovayn
@@ -1042,7 +1043,7 @@ Skill: 2H Slashing Atk Delay: 45
 DMG: 12
 WT: 12.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 , Ringmail Armor, Fine Steel Weapons, Gems |
 Casts Lay on hands. Often casts cancel magic, and root. |
 Guard Meadom
@@ -1057,7 +1058,7 @@ Skill: 2H Slashing Atk Delay: 45
 DMG: 12
 WT: 12.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 , Ringmail Armor, Fine Steel Weapons, Gems |
 Casts Lay on hands. Often casts cancel magic, and root. |
 Guard Mystan
@@ -1072,7 +1073,7 @@ Skill: 2H Slashing Atk Delay: 45
 DMG: 12
 WT: 12.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 , Ringmail Armor, Fine Steel Weapons, Gems, Vendor Trash |
 Casts Lay on hands. Often casts cancel magic, and root. |
 Guard Mystan (Northern Felwithe)
@@ -1095,7 +1096,7 @@ Skill: 2H Slashing Atk Delay: 45
 DMG: 12
 WT: 12.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 , Ringmail Armor, Fine Steel Weapons, Gems |
 Casts Lay on hands. Often casts cancel magic, and root. |
 Guard Trerun
@@ -1110,7 +1111,7 @@ Skill: 2H Slashing Atk Delay: 45
 DMG: 12
 WT: 12.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 , Ringmail Armor, Fine Steel Weapons, Gems |
 Casts Lay on hands. Often casts cancel magic, and root. |
 Guard Wisnyw
@@ -1125,7 +1126,7 @@ Skill: 2H Slashing Atk Delay: 45
 DMG: 12
 WT: 12.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 , Ringmail Armor, Fine Steel Weapons, Gems |
 Casts Lay on hands. Often casts cancel magic, and root. |
 Inkeeper Freegraze
@@ -1277,7 +1278,7 @@ Skill: 1H Slashing Atk Delay: 24
 DMG: 7
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD DRU BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 . |
 Priest of Discord
 |

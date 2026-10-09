@@ -1,5 +1,5 @@
 # Dagnor's_Cauldron (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-10-09
 
 Dagnor's Cauldron - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -98,7 +99,7 @@ DMG: 8BACKSTAB: 8
 DEX: +5
 WT: 4.5 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 , Giant Wasp VenomGiant Wasp Venom
 Effect: Contact Poison I (Combat, Casting Time: Instant) at Level 5
 WT: 0.2 Size: SMALL
@@ -373,7 +374,7 @@ DMG: 8BACKSTAB: 8
 DEX: +5
 WT: 4.5 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 |
 Description needed. |
 Bilge Farfathom
@@ -487,7 +488,7 @@ Skill: 1H Slashing Atk Delay: 27
 DMG: 5
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Wanders a small area in the middle of the northern shore.
 Placeholder is a sandbar serpent, exactly 2 minute respaw... |
@@ -665,7 +666,7 @@ DMG: 8BACKSTAB: 8
 DEX: +5
 WT: 4.5 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 |
 Barnacle Bones |
 Piercing |

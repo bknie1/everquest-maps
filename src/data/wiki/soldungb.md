@@ -1,5 +1,5 @@
 # Nagafen's_Lair (eqlwiki.com)
-fetched: 2026-10-07
+fetched: 2026-10-09
 
 Nagafen's Lair - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -168,7 +169,7 @@ DMG: 20
 Effect: Word of Shadow (Combat, Casting Time: Instant) at Level 35
 WT: 11.0 Size: LARGE
 Class: WAR SHD BER
-Race: ALL
+Race: ALLDMG Bonus: 28 @ lvl 50
 , Golden Chitin BracerGolden Chitin Bracer
 MAGIC ITEM
 Slot: WRIST
@@ -216,7 +217,7 @@ DMG: 7
 Effect: Word of Pain (Combat, Casting Time: Instant) at Level 17
 WT: 2.0 Size: MEDIUM
 Class: WAR
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 , Petrified Erudite Heart AmuletPetrified Erudite Heart Amulet
 MAGIC ITEM
 Slot: NECK
@@ -242,7 +243,7 @@ CHA: -9
 Effect: Chaotic Feedback (Combat, Rate +75%) at Level 28
 Size: LARGE WT: 6.5
 Class: BRD NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Adjacent Zones:
 |
@@ -295,7 +296,7 @@ CHA: -9
 Effect: Chaotic Feedback (Combat, Rate +75%) at Level 28
 Size: LARGE WT: 6.5
 Class: BRD NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 (Common) and Petrified Erudite Heart AmuletPetrified Erudite Heart Amulet
 MAGIC ITEM
 Slot: NECK
@@ -321,7 +322,7 @@ DMG: 20
 Effect: Word of Shadow (Combat, Casting Time: Instant) at Level 35
 WT: 11.0 Size: LARGE
 Class: WAR SHD BER
-Race: ALL
+Race: ALLDMG Bonus: 28 @ lvl 50
 (Rare) and Targin the Rock who drops Code of Zan FiCode of Zan Fi
 MAGIC ITEM LORE ITEM NO DROP
 Slot: PRIMARY SECONDARY
@@ -363,7 +364,7 @@ DMG: 7
 Effect: Word of Pain (Combat, Casting Time: Instant) at Level 17
 WT: 2.0 Size: MEDIUM
 Class: WAR
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 (Rare) (part of "Royals")
 9. Block Crusher Trap
 10. "Lily Pads" stepping stones across river of lava
@@ -480,7 +481,7 @@ DMG: 25
 Effect: Serpent Sight (Worn)
 WT: 9.5 Size: LARGE
 Class: WAR PAL SHD BER
-Race: ALL
+Race: ALLDMG Bonus: 27 @ lvl 50
 (ultra-rare) (Raid Instance Only)
 18. "Drawbridge Room" with two levers to lower drawbridge at southern edge, bridge raises on its own after a period of time
 19. "Nagafen's Lair" with Magus Rokyl who drops Polished Mithril MaskPolished Mithril Mask
@@ -543,7 +544,7 @@ DMG: 20
 Effect: Word of Shadow (Combat, Casting Time: Instant) at Level 35
 WT: 11.0 Size: LARGE
 Class: WAR SHD BER
-Race: ALL
+Race: ALLDMG Bonus: 28 @ lvl 50
 |
 He spawns beside two solusek kobolds near the other ledges where kobold champion and kobold priest spawn.
 ... |
@@ -741,7 +742,7 @@ DMG: 7
 Effect: Word of Pain (Combat, Casting Time: Instant) at Level 17
 WT: 2.0 Size: MEDIUM
 Class: WAR
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 , Shield of the Slain UnicornShield of the Slain Unicorn
 MAGIC ITEM LORE ITEM
 Slot: SECONDARY
@@ -767,7 +768,7 @@ CHA: -9
 Effect: Chaotic Feedback (Combat, Rate +75%) at Level 28
 Size: LARGE WT: 6.5
 Class: BRD NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Petrified Erudite Heart AmuletPetrified Erudite Heart Amulet
 MAGIC ITEM
 Slot: NECK
@@ -865,7 +866,7 @@ Skill: 2H Slashing Atk Delay: 46
 DMG: 9
 WT: 14.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 31 @ lvl 50
 |
 An extremely rare spawn in SolB with little information. A rather most mysterious figure. No faction hits. Paths from "P... |
 Noxious spider
@@ -1156,7 +1157,7 @@ SV DISEASE: +10
 Effect: Scourge (Combat) at Level 30
 WT: 10.0 Size: LARGE
 Class: SHM
-Race: ALL
+Race: ALLDMG Bonus: 32 @ lvl 50
 |
 Lord Nagafen |
 2H Blunt |
@@ -1321,7 +1322,7 @@ DMG: 20
 Effect: Word of Shadow (Combat, Casting Time: Instant) at Level 35
 WT: 11.0 Size: LARGE
 Class: WAR SHD BER
-Race: ALL
+Race: ALLDMG Bonus: 28 @ lvl 50
 |
 Solusek kobold king |
 2H Slashing |
@@ -1348,7 +1349,7 @@ BACKSTAB: 9
 Effect: Dismiss Summoned (Combat, Casting Time: Instant) at Level 30
 WT: 2.5 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 Lord Nagafen |
 Piercing |
@@ -1408,7 +1409,7 @@ STR: +9 DEX: +9 WIS: +9
 Effect: Earthquake (Combat, Casting Time: Instant) at Level 30
 WT: 7.5 Size: LARGE
 Class: DRU
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 |
 Lord Nagafen |
 2H Blunt |
@@ -1486,7 +1487,7 @@ DMG: 7
 Effect: Word of Pain (Combat, Casting Time: Instant) at Level 17
 WT: 2.0 Size: MEDIUM
 Class: WAR
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 kobold champion |
 1H Slashing |
@@ -1545,7 +1546,7 @@ DMG: 25
 Effect: Serpent Sight (Worn)
 WT: 9.5 Size: LARGE
 Class: WAR PAL SHD BER
-Race: ALL
+Race: ALLDMG Bonus: 27 @ lvl 50
 |
 Warlord Skarlon |
 2H Slashing |
@@ -1625,7 +1626,7 @@ CHA: -9
 Effect: Chaotic Feedback (Combat, Rate +75%) at Level 28
 Size: LARGE WT: 6.5
 Class: BRD NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 kobold noble |
 1H Blunt |
@@ -1738,7 +1739,7 @@ DMG: 25
 Effect: Serpent Sight (Worn)
 WT: 9.5 Size: LARGE
 Class: WAR PAL SHD BER
-Race: ALL
+Race: ALLDMG Bonus: 27 @ lvl 50
 , Rokyls Channelling CrystalRokyls Channelling Crystal
 MAGIC ITEM LORE ITEM
 Slot: SECONDARY
@@ -1770,7 +1771,7 @@ SV DISEASE: +10
 Effect: Scourge (Combat) at Level 30
 WT: 10.0 Size: LARGE
 Class: SHM
-Race: ALL
+Race: ALLDMG Bonus: 32 @ lvl 50
 , Cloak of FlamesCloak of Flames
 MAGIC ITEM
 Slot: BACK
@@ -1799,7 +1800,7 @@ BACKSTAB: 9
 Effect: Dismiss Summoned (Combat, Casting Time: Instant) at Level 30
 WT: 2.5 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 , Hierophant`s CrookHierophant`s Crook
 MAGIC ITEM
 Slot: PRIMARY
@@ -1809,7 +1810,7 @@ STR: +9 DEX: +9 WIS: +9
 Effect: Earthquake (Combat, Casting Time: Instant) at Level 30
 WT: 7.5 Size: LARGE
 Class: DRU
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 , Orb of TishanOrb of Tishan
 MAGIC ITEM
 Slot: PRIMARY SECONDARY
@@ -1819,7 +1820,7 @@ STR: +9 STA: +9 MANA: +35
 Effect: Tashania (Combat, Casting Time: Instant) at Level 40
 WT: 1.5 Size: SMALL
 Class: BRD NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 , Prayers of LifePrayers of Life
 Effect: Word of Healing (Charge Clicky, Casting Time: Instant)
 Charges: 5

@@ -1,5 +1,5 @@
 # Lower_Guk (eqlwiki.com)
-fetched: 2026-10-03
+fetched: 2026-10-09
 
 Lower Guk - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -213,7 +214,7 @@ DMG: 20
 Effect: Steal Strength (Combat, Casting Time: Instant) at Level 30
 WT: 9.5 Size: LARGE
 Class: SHD
-Race: ALL
+Race: ALLDMG Bonus: 28 @ lvl 50
 , Ebony Bladed SwordEbony Bladed Sword
 MAGIC ITEM
 Slot: PRIMARY SECONDARY
@@ -222,7 +223,7 @@ DMG: 7
 Effect: Ensnaring Roots (Combat, Casting Time: Instant) at Level 25
 WT: 2.0 Size: MEDIUM
 Class: RNG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 , Embroidered Black CapeEmbroidered Black Cape
 Attunable
 Slot: SHOULDERS
@@ -253,7 +254,7 @@ Skill: 1H Blunt Atk Delay: 28
 DMG: 8
 WT: 4.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Executioner's AxeExecutioner's Axe
 Lore, Attunable
 Slot: PRIMARY
@@ -262,7 +263,7 @@ DMG: 25
 Effect: Haste (Combat, Casting Time: Instant) at Level 30
 WT: 8.5 Size: LARGE
 Class: WAR BER
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 , Executioners HoodExecutioners Hood
 MAGIC ITEM
 Slot: HEAD
@@ -333,7 +334,7 @@ DMG: 21
 Haste: +31%
 WT: 8.5 Size: LARGE
 Class: WAR PAL SHD
-Race: ALL
+Race: ALLDMG Bonus: 27 @ lvl 50
 , Moonstone RingMoonstone Ring
 MAGIC ITEM
 Slot: FINGER
@@ -365,7 +366,7 @@ DMG: 11
 This item can be used in tradeskills.
 WT: 2.5 Size: MEDIUM
 Class: WAR PAL RNG SHD DRU BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 , ScepterScepter
 MAGIC ITEM LORE ITEM NO DROP
 WT: 0.1 Size: SMALL
@@ -387,7 +388,7 @@ DMG: 8BACKSTAB: 8
 Effect: Engulfing Darkness (Combat) at Level 27
 WT: 2.0 Size: SMALL
 Class: ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 , Shimmering White ShroudShimmering White Shroud
 MAGIC ITEM
 Slot: BACK
@@ -430,7 +431,7 @@ DMG: 9
 Effect: Ykesha (Combat) at Level 37
 WT: 4.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 , Silver-Plated LeggingsSilver-Plated Leggings
 Slot: LEGS
 AC: 10
@@ -532,7 +533,7 @@ DMG: 7
 Effect: Ensnaring Roots (Combat, Casting Time: Instant) at Level 25
 WT: 2.0 Size: MEDIUM
 Class: RNG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 (Rare)
 7. "Jail Room". Slaythe the Slayer spawns in dead end just north of this room and drops Broken Bow Part B. He does not actually spawn in the Jail Room itself.
 8. Ledge with an evil eye who drops
@@ -586,7 +587,7 @@ DMG: 11
 This item can be used in tradeskills.
 WT: 2.5 Size: MEDIUM
 Class: WAR PAL RNG SHD DRU BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 (Common) and Mithril-Runed TunicMithril-Runed Tunic
 MAGIC ITEM
 Slot: CHEST
@@ -633,7 +634,7 @@ DMG: 21
 Haste: +31%
 WT: 8.5 Size: LARGE
 Class: WAR PAL SHD
-Race: ALL
+Race: ALLDMG Bonus: 27 @ lvl 50
 (Rare)
 a froglok tactician
 who drops Black Tome with Silver RunesBlack Tome with Silver Runes
@@ -682,7 +683,7 @@ DMG: 9
 Effect: Ykesha (Combat) at Level 37
 WT: 4.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 (Rare)
 4. "Hand Room" with a reanimated hand (Lower Guk) who drops Serpentine BracerSerpentine Bracer
 MAGIC ITEM
@@ -799,7 +800,7 @@ DMG: 8BACKSTAB: 8
 Effect: Engulfing Darkness (Combat) at Level 27
 WT: 2.0 Size: SMALL
 Class: ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 (Rare) and a ghoul supplier who drops Light Burlap SackLight Burlap Sack
 Size: LARGE WT: 3.0
 Weight Reduction: 65% Capacity: 8 Size Capacity: LARGE
@@ -819,7 +820,7 @@ Skill: 1H Blunt Atk Delay: 28
 DMG: 8
 WT: 4.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 (Common) and Enameled Black ChestplateEnameled Black Chestplate
 MAGIC ITEM
 Slot: CHEST
@@ -844,7 +845,7 @@ DMG: 20
 Effect: Steal Strength (Combat, Casting Time: Instant) at Level 30
 WT: 9.5 Size: LARGE
 Class: SHD
-Race: ALL
+Race: ALLDMG Bonus: 28 @ lvl 50
 (Rare)
 17. "Sage Room" with a ghoul sage who drops Braided Cinch CordBraided Cinch Cord
 MAGIC ITEM
@@ -885,7 +886,7 @@ DMG: 25
 Effect: Haste (Combat, Casting Time: Instant) at Level 30
 WT: 8.5 Size: LARGE
 Class: WAR BER
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 (Rare)
 |
 Dangers
@@ -1313,7 +1314,7 @@ DMG: 11
 This item can be used in tradeskills.
 WT: 2.5 Size: MEDIUM
 Class: WAR PAL RNG SHD DRU BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 |
 Will Lay on Hands when low on health. PH is a froglok dar knight or a froglok zol knight. There are 2 frogs clos... |
 A froglok dar knight
@@ -1489,7 +1490,7 @@ DMG: 8BACKSTAB: 8
 Effect: Engulfing Darkness (Combat) at Level 27
 WT: 2.0 Size: SMALL
 Class: ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 In the same room as A ghoul supplier. Sees through hide and sneak. 9 min 30 second respawn. |
 A ghoul cavalier
@@ -1514,7 +1515,7 @@ DMG: 20
 Effect: Steal Strength (Combat, Casting Time: Instant) at Level 30
 WT: 9.5 Size: LARGE
 Class: SHD
-Race: ALL
+Race: ALLDMG Bonus: 28 @ lvl 50
 |
 The cavalier is a Shadowknight and has Harm Touch. He will also summon a pet. He is found in the Dead tower, in a room w... |
 A ghoul executioner
@@ -1539,7 +1540,7 @@ DMG: 25
 Effect: Haste (Combat, Casting Time: Instant) at Level 30
 WT: 8.5 Size: LARGE
 Class: WAR BER
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 |
 The ghoul executioner is an excellent hunt for warriors because of the axe that he drops. |
 A ghoul ritualist
@@ -1610,7 +1611,7 @@ Skill: 1H Blunt Atk Delay: 28
 DMG: 8
 WT: 4.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 The savant is on the middle level of the Dead Tower and spawns right next to the stairway leading down to the bottom lev... |
 A ghoul scribe
@@ -1709,7 +1710,7 @@ Skill: 1H Slashing Atk Delay: 37
 DMG: 8
 WT: 8.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 18 @ lvl 50
 , Minotaur HornMinotaur Horn
 Slot: PRIMARY SECONDARY
 WT: 0.1 Size: SMALL
@@ -1781,7 +1782,7 @@ DMG: 7
 Effect: Ensnaring Roots (Combat, Casting Time: Instant) at Level 25
 WT: 2.0 Size: MEDIUM
 Class: RNG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 , Minotaur Battle AxeMinotaur Battle Axe
 QUEST ITEM
 Slot: PRIMARY SECONDARY
@@ -1789,7 +1790,7 @@ Skill: 1H Slashing Atk Delay: 37
 DMG: 8
 WT: 8.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 18 @ lvl 50
 |
 The sleeves from this Minotaur are wearable by all/all, and provide excellent AC at the expense of cool graphics and sta... |
 A reanimated hand (Lower Guk)
@@ -1954,7 +1955,7 @@ DMG: 9
 Effect: Ykesha (Combat) at Level 37
 WT: 4.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 Hoptor Thaggelum, the Lord of the Undead Ghouls is usually found with 2 Guk and/or Bok Guards. This Shadowknight is very... |
 The froglok king
@@ -1971,7 +1972,7 @@ DMG: 21
 Haste: +31%
 WT: 8.5 Size: LARGE
 Class: WAR PAL SHD
-Race: ALL
+Race: ALLDMG Bonus: 27 @ lvl 50
 , Crown of the Froglok KingsCrown of the Froglok Kings
 MAGIC ITEM LORE ITEM
 Slot: HEAD
@@ -2194,7 +2195,7 @@ DMG: 20
 Effect: Steal Strength (Combat, Casting Time: Instant) at Level 30
 WT: 9.5 Size: LARGE
 Class: SHD
-Race: ALL
+Race: ALLDMG Bonus: 28 @ lvl 50
 |
 a ghoul cavalier |
 2H Slashing |
@@ -2207,7 +2208,7 @@ DMG: 7
 Effect: Ensnaring Roots (Combat, Casting Time: Instant) at Level 25
 WT: 2.0 Size: MEDIUM
 Class: RNG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 a minotaur patriarch |
 1H Slashing |
@@ -2254,7 +2255,7 @@ Skill: 1H Blunt Atk Delay: 28
 DMG: 8
 WT: 4.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 a ghoul savant |
 1H Blunt |
@@ -2267,7 +2268,7 @@ DMG: 25
 Effect: Haste (Combat, Casting Time: Instant) at Level 30
 WT: 8.5 Size: LARGE
 Class: WAR BER
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 |
 a ghoul executioner |
 2H Slashing |
@@ -2563,7 +2564,7 @@ DMG: 21
 Haste: +31%
 WT: 8.5 Size: LARGE
 Class: WAR PAL SHD
-Race: ALL
+Race: ALLDMG Bonus: 27 @ lvl 50
 |
 the froglok king |
 2H Slashing |
@@ -2617,7 +2618,7 @@ DMG: 11
 This item can be used in tradeskills.
 WT: 2.5 Size: MEDIUM
 Class: WAR PAL RNG SHD DRU BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 |
 a froglok crusader |
 1H Slashing |
@@ -2665,7 +2666,7 @@ DMG: 8BACKSTAB: 8
 Effect: Engulfing Darkness (Combat) at Level 27
 WT: 2.0 Size: SMALL
 Class: ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 a ghoul assassin |
 Piercing |
@@ -2728,7 +2729,7 @@ DMG: 9
 Effect: Ykesha (Combat) at Level 37
 WT: 4.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 the ghoul lord |
 1H Slashing |

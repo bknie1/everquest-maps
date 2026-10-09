@@ -1,5 +1,5 @@
 # Castle_Mistmoore (eqlwiki.com)
-fetched: 2026-10-05
+fetched: 2026-10-09
 
 Mistmoore Castle - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -217,7 +218,7 @@ DMG: 7
 WIS: +5
 WT: 4.5 Size: MEDIUM
 Class: CLR DRU BRD SHM
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Gilded Mistmoore VisorGilded Mistmoore Visor
 Attunable
 Slot: FACE
@@ -234,7 +235,7 @@ Skill: Piercing Atk Delay: 36
 DMG: 9BACKSTAB: 9
 WT: 8.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 18 @ lvl 50
 , Glowing Sword HiltGlowing Sword Hilt
 MAGIC ITEM LORE ITEM NODROP
 WT: 0.2 Size: SMALL
@@ -351,7 +352,7 @@ DMG: 5BACKSTAB: 5
 INT: +5
 WT: 2.5 Size: MEDIUM
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 10 @ lvl 50
 , Tarnished Ancient TiaraTarnished Ancient Tiara
 Attunable
 Slot: HEAD
@@ -391,7 +392,7 @@ DMG: 9
 BACKSTAB : 8
 WT: 2.5 Size: TINY
 Class: SHD NEC
-Race: ALLFocus Effect: Improved Vampirism II
+Race: ALLDMG Bonus: 15 @ lvl 50Focus Effect: Improved Vampirism II
 |
 Related Quests:
 |
@@ -428,7 +429,7 @@ DMG: 5BACKSTAB: 5
 INT: +5
 WT: 2.5 Size: MEDIUM
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 10 @ lvl 50
 (Common) and Bloodstone EyepatchBloodstone Eyepatch
 MAGIC ITEM
 Slot: FACE
@@ -532,7 +533,7 @@ DMG: 9
 BACKSTAB : 8
 WT: 2.5 Size: TINY
 Class: SHD NEC
-Race: ALLFocus Effect: Improved Vampirism II
+Race: ALLDMG Bonus: 15 @ lvl 50Focus Effect: Improved Vampirism II
 7. Fountain where a cloaked dhampyre spawns, who drops Blood of the DhampyreBlood of the Dhampyre
 MAGIC ITEM
 EXPENDABLE Charges: 1
@@ -603,7 +604,7 @@ Skill: Piercing Atk Delay: 36
 DMG: 9BACKSTAB: 9
 WT: 8.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 18 @ lvl 50
 (Common) and Chestplate of the Dark FlameChestplate of the Dark Flame
 Lore Equipped, Attunable
 Slot: CHEST
@@ -699,7 +700,7 @@ DMG: 7
 WIS: +5
 WT: 4.5 Size: MEDIUM
 Class: CLR DRU BRD SHM
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 & Tarnished Ancient TiaraTarnished Ancient Tiara
 Attunable
 Slot: HEAD
@@ -963,14 +964,14 @@ Skill: 1H Blunt Atk Delay: 30
 DMG: 6
 WT: 7.3 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 , Fine Steel Morning StarFine Steel Morning Star
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 38
 DMG: 8
 WT: 10.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 , Stone MarkerStone Marker
 MAGIC ITEM LORE ITEM NO DROP
 WT: 0.3 Size: TINY
@@ -1033,7 +1034,7 @@ DMG: 9
 BACKSTAB : 8
 WT: 2.5 Size: TINY
 Class: SHD NEC
-Race: ALLFocus Effect: Improved Vampirism II
+Race: ALLDMG Bonus: 15 @ lvl 50Focus Effect: Improved Vampirism II
 |
 Description needed. |
 A Jeering Gargoyle
@@ -1149,7 +1150,7 @@ Skill: Piercing Atk Delay: 27
 DMG: 6BACKSTAB: 6
 Size: LARGE WT: 6.8
 Class: WAR RNG SHD BRD ROG SHM BST
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 , Gold RingGold Ring
 Slot: FINGER
 WT: 0.1 Size: TINY
@@ -1248,7 +1249,7 @@ Skill: Piercing Atk Delay: 21
 DMG: 4BACKSTAB: 4
 WT: 4.0 Size: SMALL
 Class: ALL except CLR PAL DRU MNK
-Race: ALL
+Race: ALLDMG Bonus: 10 @ lvl 50
 |
 Description needed. |
 A Vampire Oracle
@@ -1263,7 +1264,7 @@ Skill: Piercing Atk Delay: 23
 DMG: 4BACKSTAB: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 Description needed. |
 A Vampiric Ancille
@@ -1303,7 +1304,7 @@ Skill: 1H Slashing Atk Delay: 23
 DMG: 4
 Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 Description needed. |
 A Will Ravisher
@@ -1454,14 +1455,14 @@ Skill: Piercing Atk Delay: 19
 DMG: 3BACKSTAB: 3
 WT: 2.4 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 , Fine Steel SpearFine Steel Spear
 Slot: PRIMARY
 Skill: Piercing Atk Delay: 27
 DMG: 6BACKSTAB: 6
 Size: LARGE WT: 6.8
 Class: WAR RNG SHD BRD ROG SHM BST
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 , Fine Steel RapierFine Steel Rapier
 Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
@@ -1469,7 +1470,7 @@ Skill: Piercing Atk Delay: 23
 DMG: 5BACKSTAB: 5
 Size: MEDIUM WT: 5.0
 Class: WAR RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 Description needed. |
 A gypsy dancer
@@ -1599,7 +1600,7 @@ DMG: 5BACKSTAB: 5
 INT: +5
 WT: 2.5 Size: MEDIUM
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 10 @ lvl 50
 |
 Rare spawn in the Grave Yard. |
 An undead knight (Mistmoore)
@@ -1706,7 +1707,7 @@ Skill: Piercing Atk Delay: 36
 DMG: 9BACKSTAB: 9
 WT: 8.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 18 @ lvl 50
 |
 He always spawns in the tower inside the white circle drawn on the floor opposite the stairs. He has a random place hold... |
 Lasna Cheroon
@@ -1776,7 +1777,7 @@ Skill: Piercing Atk Delay: 22
 DMG: 12BACKSTAB: 12
 WT: 5.0 Size: MEDIUM
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 Mayong Mistmoore was an ancient elf who, by some unknown means, was cursed to be the first vampire. Mayong is one of the... |
 Mynthi Davissi
@@ -1832,7 +1833,7 @@ DMG: 7
 WIS: +5
 WT: 4.5 Size: MEDIUM
 Class: CLR DRU BRD SHM
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Tarnished Ancient TiaraTarnished Ancient Tiara
 Attunable
 Slot: HEAD
@@ -2115,7 +2116,7 @@ DMG: 7
 WIS: +5
 WT: 4.5 Size: MEDIUM
 Class: CLR DRU BRD SHM
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 Princess Cherista |
 1H Blunt |
@@ -2140,7 +2141,7 @@ Skill: Piercing Atk Delay: 36
 DMG: 9BACKSTAB: 9
 WT: 8.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 18 @ lvl 50
 |
 Garton Viswin |
 Piercing |
@@ -2348,7 +2349,7 @@ DMG: 5BACKSTAB: 5
 INT: +5
 WT: 2.5 Size: MEDIUM
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 10 @ lvl 50
 |
 an imp familiar |
 Piercing |
@@ -2480,7 +2481,7 @@ DMG: 9
 BACKSTAB : 8
 WT: 2.5 Size: TINY
 Class: SHD NEC
-Race: ALLFocus Effect: Improved Vampirism II
+Race: ALLDMG Bonus: 15 @ lvl 50Focus Effect: Improved Vampirism II
 |
 a hemo enologist |
 Primary |

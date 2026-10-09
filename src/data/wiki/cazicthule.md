@@ -1,5 +1,5 @@
 # Cazic-Thule (eqlwiki.com)
-fetched: 2026-10-03
+fetched: 2026-10-09
 
 Cazic-Thule (Lore) - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes

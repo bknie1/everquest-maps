@@ -1,5 +1,5 @@
 # Kithicor_Forest (eqlwiki.com)
-fetched: 2026-10-07
+fetched: 2026-10-09
 
 Kithicor Forest - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -131,7 +132,7 @@ DMG: 5BACKSTAB: 5
 STR: +2 AGI: +5
 WT: 4.5 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 , Lionskin GlovesLionskin Gloves
 Slot: HANDS
 AC: 5
@@ -147,7 +148,7 @@ DMG: 17
 STR: +6
 WT: 8.5 Size: MEDIUM
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 , Ruined Teir`Dal Great StaffRuined Teir`Dal Great Staff
 MAGIC ITEM NO DROP
 Slot: PRIMARY
@@ -157,7 +158,7 @@ WIS: +3 INT: +3
 SV DISEASE: -5
 WT: 7.5 Size: MEDIUM
 Class: ALL except BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 33 @ lvl 50
 , Ruined Teir`Dal Long SwordRuined Teir`Dal Long Sword
 MAGIC ITEM NO DROP
 Slot: PRIMARY SECONDARY
@@ -167,7 +168,7 @@ STR: +5 AGI: +2
 SV DISEASE: -5
 WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 , Ruined Teir`Dal RapierRuined Teir`Dal Rapier
 MAGIC ITEM NO DROP
 Slot: PRIMARY SECONDARY
@@ -177,7 +178,7 @@ DEX: +2 AGI: +5
 SV DISEASE: -5
 WT: 4.5 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 , Ruined Battleworn Morning StarRuined Battleworn Morning Star
 MAGIC ITEM NO DROP
 Slot: PRIMARY SECONDARY
@@ -187,7 +188,7 @@ WIS: +6
 SV DISEASE: -5
 WT: 9.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Scimitar of the YkeshaScimitar of the Ykesha
 MAGIC ITEM LORE ITEM NO DROP
 Slot: PRIMARY SECONDARY
@@ -196,7 +197,7 @@ DMG: 8
 Effect: Ykesha (Combat, Casting Time: Instant) at Level 37
 WT: 2.2 Size: MEDIUM
 Class: WAR
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 , Tainted Steel Bastard SwordTainted Steel Bastard Sword
 MAGIC ITEM NO DROP
 Slot: PRIMARY
@@ -206,7 +207,7 @@ STR: +6
 SV DISEASE: -5
 WT: 8.5 Size: MEDIUM
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 28 @ lvl 50
 |
 Related Quests:
 |
@@ -330,7 +331,7 @@ DMG: 6
 STR: +3 AGI: +3
 WT: 3.0 Size: MEDIUM
 Class: RNG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 Morin Shadowbane |
 Start Zone: |
@@ -380,7 +381,7 @@ DMG: 7
 STR: +3 WIS: +4 HP: +10
 WT: 3.0 Range: 40 Size: SMALL
 Class: RNG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 Morin Shadowbane |
 35 |
@@ -786,7 +787,7 @@ DMG: 8
 Effect: Ykesha (Combat, Casting Time: Instant) at Level 37
 WT: 2.2 Size: MEDIUM
 Class: WAR
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 , Argent DefenderArgent Defender
 MAGIC ITEM
 Slot: PRIMARY
@@ -795,7 +796,7 @@ DMG: 33
 MANA: +20
 WT: 10.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 33 @ lvl 50
 |
 Seems to attack much faster than the average mob. |
 Advisor C`Zatl
@@ -821,7 +822,7 @@ WIS: +6
 SV DISEASE: -5
 WT: 9.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Description needed. |
 An Orc Warrior
@@ -975,7 +976,7 @@ Skill: 1H Blunt Atk Delay: 30
 DMG: 4
 WT: 7.5 Range: 40 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 One of many orcs in the SouthWest corner of Kithicor Forest. |
 Chief Gan`Shralok
@@ -1012,7 +1013,7 @@ DMG: 15
 WIS: +4 INT: +4
 WT: 7.5 Size: MEDIUM
 Class: ALL except RNG BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 28 @ lvl 50
 , Robe of the IshvaRobe of the Ishva
 MAGIC ITEM LORE ITEM
 Slot: CHEST
@@ -1081,7 +1082,7 @@ Skill: Piercing Atk Delay: 27
 DMG: 6BACKSTAB: 6
 Size: LARGE WT: 6.8
 Class: WAR RNG SHD BRD ROG SHM BST
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Description needed. |
 Decaying footman
@@ -1163,14 +1164,14 @@ Skill: 1H Blunt Atk Delay: 38
 DMG: 8
 WT: 10.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 , Fine Steel Great StaffFine Steel Great Staff
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 36
 DMG: 9
 WT: 10.0 Size: LARGE
 Class: ALL except BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 24 @ lvl 50
 |
 Description needed. |
 Gandari
@@ -1194,7 +1195,7 @@ Skill: 1H Slashing Atk Delay: 23
 DMG: 4
 Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 Ged will make you some gloves for a price. He makes ratskin, wolfskin, bearhide, or lionskin gloves.
 All require some m... |
@@ -1328,7 +1329,7 @@ Skill: 1H Slashing Atk Delay: 28
 DMG: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Fine Steel Short SwordFine Steel Short Sword
 Attunable, Placeable
 Slot: PRIMARY SECONDARY
@@ -1336,7 +1337,7 @@ Skill: 1H Slashing Atk Delay: 23
 DMG: 4
 Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 Description needed. |
 Jeena Firechaser
@@ -1514,14 +1515,14 @@ WIS: +3 INT: +3
 SV DISEASE: -5
 WT: 7.5 Size: MEDIUM
 Class: ALL except BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 33 @ lvl 50
 , Fine Steel SpearFine Steel Spear
 Slot: PRIMARY
 Skill: Piercing Atk Delay: 27
 DMG: 6BACKSTAB: 6
 Size: LARGE WT: 6.8
 Class: WAR RNG SHD BRD ROG SHM BST
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 , Fine Steel RapierFine Steel Rapier
 Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
@@ -1529,7 +1530,7 @@ Skill: Piercing Atk Delay: 23
 DMG: 5BACKSTAB: 5
 Size: MEDIUM WT: 5.0
 Class: WAR RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 Description needed. |
 Rotting knight
@@ -1555,7 +1556,7 @@ WIS: +3 INT: +3
 SV DISEASE: -5
 WT: 7.5 Size: MEDIUM
 Class: ALL except BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 33 @ lvl 50
 , Ruined Battleworn Morning StarRuined Battleworn Morning Star
 MAGIC ITEM NO DROP
 Slot: PRIMARY SECONDARY
@@ -1565,7 +1566,7 @@ WIS: +6
 SV DISEASE: -5
 WT: 9.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Description needed. |
 Skeleton Infantry
@@ -1613,7 +1614,7 @@ Skill: 2H Slashing Atk Delay: 43
 DMG: 12
 Size: LARGE WT: 10.0
 Class: WAR PAL RNG SHD BER
-Race: ALL
+Race: ALLDMG Bonus: 29 @ lvl 50
 |
 Description needed. |
 Skeleton private
@@ -1795,7 +1796,7 @@ Skill: 2H Slashing Atk Delay: 45
 DMG: 12
 WT: 12.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 , Gem-Encrusted ScepterGem-Encrusted Scepter
 MAGIC ITEM
 Slot: PRIMARY
@@ -1804,7 +1805,7 @@ DMG: 7
 WIS: +5
 WT: 4.5 Size: MEDIUM
 Class: CLR DRU BRD SHM
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Teir`Dal Adamantite HelmTeir`Dal Adamantite Helm
 Slot: HEAD
 AC: 13
@@ -1838,7 +1839,7 @@ Skill: Piercing Atk Delay: 32
 DMG: 4BACKSTAB: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 One of many Shralok orcs found in the Southwest corner of Kithicor Forest. Despite his name, he is quite inferior to oth... |
 Wrom Shralok
@@ -1903,7 +1904,7 @@ DMG: 33
 MANA: +20
 WT: 10.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 33 @ lvl 50
 |
 Various |
 2H Slashing |
@@ -1937,7 +1938,7 @@ DMG: 19
 Effect: Engulfing Darkness (Combat, Casting Time: Instant) at Level 35
 WT: 10.0 Size: LARGE
 Class: SHD
-Race: ALL
+Race: ALLDMG Bonus: 27 @ lvl 50
 |
 General V`ghera, Laarthik K`Shin |
 2H Slashing |
@@ -1948,7 +1949,7 @@ Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Various |
 1H Blunt |
@@ -1962,7 +1963,7 @@ AGI: +5
 Effect: Shadow Vortex (Combat, Casting Time: Instant) at Level 35
 WT: 1.1 Size: SMALL
 Class: ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 General V`ghera |
 Piercing |
@@ -1975,7 +1976,7 @@ DMG: 14
 STR: +8 DEX: +8 AGI: +8
 WT: 4.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 General V`ghera |
 1H Slashing |
@@ -1987,7 +1988,7 @@ Skill: 2H Slashing Atk Delay: 40
 DMG: 21
 WT: 2.0 Size: MEDIUM
 Class: WAR PAL RNG SHD ROG
-Race: ALL
+Race: ALLDMG Bonus: 27 @ lvl 50
 |
 General V`ghera |
 2H Slashing |
@@ -2000,7 +2001,7 @@ DMG: 15
 WIS: +4 INT: +4
 WT: 7.5 Size: MEDIUM
 Class: ALL except RNG BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 28 @ lvl 50
 |
 Coercer Q`ioul |
 2H Blunt |
@@ -2022,7 +2023,7 @@ DMG: 7
 WIS: +5
 WT: 4.5 Size: MEDIUM
 Class: CLR DRU BRD SHM
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 War Priestess T`zan |
 1H Blunt |
@@ -2051,7 +2052,7 @@ Skill: 1H Slashing Atk Delay: 24
 DMG: 7
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 Brigadier G`tav |
 1H Slashing |
@@ -2093,7 +2094,7 @@ DMG: 5BACKSTAB: 5
 Effect: Rising Dexterity (Combat) at Level 15
 Size: SMALL WT: 2.5
 Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
-Race: ALL
+Race: ALLDMG Bonus: 10 @ lvl 50
 |
 General V`ghera |
 Piercing |
@@ -2132,7 +2133,7 @@ WIS: +6
 SV DISEASE: -5
 WT: 9.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Advisor C`zatl, Decaying Healer, Rotting priest |
 1H Blunt |
@@ -2145,7 +2146,7 @@ DMG: 17
 STR: +6
 WT: 8.5 Size: MEDIUM
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 |
 Risen Commander |
 2H Slashing |
@@ -2159,7 +2160,7 @@ WIS: +3 INT: +3
 SV DISEASE: -5
 WT: 7.5 Size: MEDIUM
 Class: ALL except BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 33 @ lvl 50
 |
 wandering warrior |
 2H Blunt |
@@ -2173,7 +2174,7 @@ STR: +5 AGI: +2
 SV DISEASE: -5
 WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 ? |
 1H Slashing |
@@ -2187,7 +2188,7 @@ DEX: +2 AGI: +5
 SV DISEASE: -5
 WT: 4.5 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 rotting knight |
 Piercing |
@@ -2213,7 +2214,7 @@ DMG: 8
 Effect: Ykesha (Combat, Casting Time: Instant) at Level 37
 WT: 2.2 Size: MEDIUM
 Class: WAR
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 Adjutant D`kan |
 1H Slashing |
@@ -2253,7 +2254,7 @@ WIS: +6
 SV DISEASE: -5
 WT: 9.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 undead cleric |
 1H Blunt |
@@ -2267,7 +2268,7 @@ STR: +6
 SV DISEASE: -5
 WT: 8.5 Size: MEDIUM
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 28 @ lvl 50
 |
 Decaying Swordsman |
 2H Slashing |

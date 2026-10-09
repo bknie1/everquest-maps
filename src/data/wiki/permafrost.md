@@ -1,5 +1,5 @@
 # Permafrost_Keep (eqlwiki.com)
-fetched: 2026-10-04
+fetched: 2026-10-09
 
 Permafrost - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -112,7 +113,7 @@ DMG: 10
 WIS: +5 MANA: +10
 WT: 7.0 Size: LARGE
 Class: SHM
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Cold Iron Morning StarCold Iron Morning Star
 MAGIC ITEM
 Slot: PRIMARY SECONDARY
@@ -120,7 +121,7 @@ Skill: 1H Blunt Atk Delay: 35
 DMG: 9
 WT: 4.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 , Crystalline BladeCrystalline Blade
 MAGIC ITEM LORE ITEM
 Slot: PRIMARY
@@ -128,7 +129,7 @@ Skill: 1H Slashing Atk Delay: 38
 DMG: 11
 WT: 3.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 , Dented Brass MaskDented Brass Mask
 MAGIC ITEM
 Slot: FACE
@@ -177,7 +178,7 @@ DMG: 5
 Effect: Shock of Frost (Combat, Casting Time: Instant)
 WT: 6.5 Size: LARGE
 Class: BRD NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Mammoth Hide CloakMammoth Hide Cloak
 Slot: BACK
 AC: 7
@@ -210,7 +211,7 @@ DMG: 21
 Effect: Serpent Sight (Worn)
 WT: 13.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 33 @ lvl 50
 , Silvery War AxeSilvery War Axe
 MAGIC ITEM LORE ITEM
 Slot: PRIMARY SECONDARY
@@ -218,7 +219,7 @@ Skill: 1H Slashing Atk Delay: 22
 DMG: 6
 WT: 2.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 , Symbol of Loyalty to VoxSymbol of Loyalty to Vox
 MAGIC ITEM
 Slot: WRIST
@@ -313,7 +314,7 @@ Skill: 1H Slashing Atk Delay: 38
 DMG: 11
 WT: 3.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 .
 King's Room
 King Thex'Ka IV who drops Symbol of Loyalty to VoxSymbol of Loyalty to Vox
@@ -365,7 +366,7 @@ Skill: 1H Slashing Atk Delay: 22
 DMG: 6
 WT: 2.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 (Common), and Silvery Two Handed AxeSilvery Two Handed Axe
 MAGIC ITEM LORE ITEM
 Slot: PRIMARY
@@ -374,7 +375,7 @@ DMG: 21
 Effect: Serpent Sight (Worn)
 WT: 13.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 33 @ lvl 50
 (Rare)
 High Priest Zaharn who drops Zaharn's CoronetZaharn's Coronet
 Lore Equipped, Attunable, Quest
@@ -405,7 +406,7 @@ Skill: 1H Blunt Atk Delay: 35
 DMG: 9
 WT: 4.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 (Common) and Runed CircletRuned Circlet
 Slot: HEAD
 AC: 4
@@ -457,7 +458,7 @@ DMG: 5
 Effect: Shock of Frost (Combat, Casting Time: Instant)
 WT: 6.5 Size: LARGE
 Class: BRD NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 (Common) and Wolf Fur SlippersWolf Fur Slippers
 MAGIC ITEM
 Slot: FEET
@@ -555,14 +556,14 @@ Skill: 1H Blunt Atk Delay: 35
 DMG: 9
 WT: 4.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 , Goblin Shin SplinterGoblin Shin Splinter
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 30
 DMG: 5
 WT: 2.8 Size: MEDIUM
 Class: ALL except
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Spawns only at the above location. PHs include an ice goblin, a goblin priest, an ice goblin veteran, and [[... |
 A dire pup
@@ -646,7 +647,7 @@ Skill: 1H Slashing Atk Delay: 38
 DMG: 11
 WT: 3.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 , Fine Steel Weapons |
 Spawns at #2 on map upon Ice Giant Diplomat death, then paths through King's room and back. |
 A goblin diviner
@@ -719,7 +720,7 @@ DMG: 5
 Effect: Shock of Frost (Combat, Casting Time: Instant)
 WT: 6.5 Size: LARGE
 Class: BRD NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 Spawns in the back center, right in front of the frozen king. A rare spawn, a goblin priest, a goblin prelate or... |
 A goblin wizard (Permafrost)
@@ -895,7 +896,7 @@ DMG: 10
 WIS: +5 MANA: +10
 WT: 7.0 Size: LARGE
 Class: SHM
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Bear MeatBear Meat
 Quest
 Size: SMALL WT: 1.0
@@ -983,7 +984,7 @@ DMG: 10
 WIS: +5 MANA: +10
 WT: 7.0 Size: LARGE
 Class: SHM
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 an injured polar bear |
 Piercing |
@@ -1013,7 +1014,7 @@ Skill: 1H Blunt Atk Delay: 35
 DMG: 9
 WT: 4.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 |
 a goblin preacher |
 1H Blunt |
@@ -1025,7 +1026,7 @@ Skill: 1H Slashing Atk Delay: 38
 DMG: 11
 WT: 3.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 |
 a goblin champion, Ice Goblin Champion |
 1H Slashing |
@@ -1037,7 +1038,7 @@ Skill: Piercing Atk Delay: 30
 DMG: 13BACKSTAB: 13
 WT: 6.8 Size: MEDIUM
 Class: WAR RNG BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Lady Vox |
 Piercing |
@@ -1139,7 +1140,7 @@ DMG: 5
 Effect: Shock of Frost (Combat, Casting Time: Instant)
 WT: 6.5 Size: LARGE
 Class: BRD NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 a goblin scryer |
 1H Blunt |
@@ -1275,7 +1276,7 @@ DMG: 21
 Effect: Serpent Sight (Worn)
 WT: 13.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 33 @ lvl 50
 |
 an elite honor guard |
 2H Slashing |
@@ -1287,7 +1288,7 @@ Skill: 1H Slashing Atk Delay: 22
 DMG: 6
 WT: 2.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 an elite honor guard |
 1H Slashing |
@@ -1398,7 +1399,7 @@ DMG: 18
 Effect: Yaulp III (Combat, Casting Time: Instant) at Level 40
 Size: MEDIUM WT: 7.3
 Class: CLR
-Race: ALL
+Race: ALLDMG Bonus: 26 @ lvl 50
 |
 Lady Vox |
 2H Blunt |
@@ -1521,7 +1522,7 @@ Skill: Piercing Atk Delay: 30
 DMG: 13BACKSTAB: 13
 WT: 6.8 Size: MEDIUM
 Class: WAR RNG BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 , Dragon Bone BraceletDragon Bone Bracelet
 Attunable
 Slot: WRIST
@@ -1561,7 +1562,7 @@ WIS: +9 HP: +50 MANA: +50
 Effect: Resurrection (Any Slot, Casting Time: Instant)
 WT: 6.5 Size: LARGE
 Class: CLR PAL DRU SHM
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 , Tobrin's Mystical EyepatchTobrin's Mystical Eyepatch
 Attunable
 Slot: FACE
@@ -1583,7 +1584,7 @@ DMG: 18
 Effect: Yaulp III (Combat, Casting Time: Instant) at Level 40
 Size: MEDIUM WT: 7.3
 Class: CLR
-Race: ALL
+Race: ALLDMG Bonus: 26 @ lvl 50
 , White Dragon HideWhite Dragon Hide
 No Trade, Quest
 Size: MEDIUM WT: 3.0

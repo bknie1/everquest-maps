@@ -1,5 +1,5 @@
 # Gorge_of_King_Xorbb (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-10-09
 
 Gorge of King Xorbb - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -113,7 +114,7 @@ DMG: 5
 SV COLD: +2
 WT: 1.5 Size: SMALL
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Lens of Lord SoptyvrLens of Lord Soptyvr
 LORE ITEM NODROP
 WT: 0.1 Size: TINY
@@ -143,7 +144,7 @@ DMG: 5
 Effect: Sicken (Combat, Casting Time: Instant)
 WT: 6.5 Size: LARGE
 Class: BRD NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 Related Quests:
 |
@@ -273,7 +274,7 @@ DMG: 5
 SV COLD: +2
 WT: 1.5 Size: SMALL
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 Placeholders are a goblin lookout, a goblin sentry, a goblin veteran. There are two identical spawn cycles at this spawn... |
 An Evil Eye (Beholder's Maze)
@@ -596,7 +597,7 @@ DMG: 5
 Effect: Sicken (Combat, Casting Time: Instant)
 WT: 6.5 Size: LARGE
 Class: BRD NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 King Xorbb |
 1H Blunt |

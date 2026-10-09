@@ -1,5 +1,5 @@
 # The_Warrens (eqlwiki.com)
-fetched: 2026-10-07
+fetched: 2026-10-09
 
 The Warrens - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -103,14 +104,14 @@ Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Bamboo Wakizashi BoBamboo Wakizashi Bo
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 38
 DMG: 6
 WT: 9.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 , Bathide WristbandBathide Wristband
 MAGIC ITEM
 Slot: WRIST
@@ -146,7 +147,7 @@ Skill: 2H Slashing Atk Delay: 47
 DMG: 10
 WT: 13.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 32 @ lvl 50
 , Bracer of the ForlornBracer of the Forlorn
 MAGIC ITEM LORE ITEM
 Slot: WRIST
@@ -163,7 +164,7 @@ DMG: 5 AC: 3
 STA: +2 WIS: +3
 WT: 4.3 Size: SMALL
 Class: CLR PAL DRU SHM
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 , Cloak of the ForlornCloak of the Forlorn
 LORE ITEM
 Slot: BACK
@@ -223,7 +224,7 @@ Skill: 2H Slashing Atk Delay: 46
 DMG: 15
 WT: 15.0 Size: GIANT
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 31 @ lvl 50
 , Globe of the Everburning FlameGlobe of the Everburning Flame
 MAGIC ITEM
 Slot: RANGE PRIMARY SECONDARY
@@ -283,7 +284,7 @@ DMG: 4 AC: 3
 Effect: Choking (Combat, Casting Time: Instant) at Level 20
 WT: 2.5 Size: TINY
 Class: WAR RNG BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 , Pit Fighter HandwrapsPit Fighter Handwraps
 MAGIC ITEM
 Slot: HANDS
@@ -300,7 +301,7 @@ DMG: 9
 SV FIRE: +3 SV DISEASE: +3 SV COLD: +3 SV MAGIC: +3 SV POISON: +3
 WT: 12.0 Size: LARGE
 Class: CLR DRU SHM NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 25 @ lvl 50
 , Kobold Shaman's PouchKobold Shaman's Pouch
 No Trade, Quest
 Size: MEDIUM WT: 0.6
@@ -317,7 +318,7 @@ SV MAGIC: +2
 Effect: Clinging Darkness (Any Slot, Casting Time: Instant)
 WT: 4.5 Size: MEDIUM
 Class: WAR SHD NEC
-Race: ALL
+Race: ALLDMG Bonus: 20 @ lvl 50
 , Shield of the ForlornShield of the Forlorn
 MAGIC ITEM LORE ITEM
 Slot: SECONDARY
@@ -359,7 +360,7 @@ DMG: 4 AC: 1
 STR: +2 HP: +4
 WT: 4.5 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 , Kobold MolarKobold Molar
 No Trade, Quest
 Size: TINY WT: 0.1
@@ -888,7 +889,7 @@ DMG: 4 AC: 3
 Effect: Choking (Combat, Casting Time: Instant) at Level 20
 WT: 2.5 Size: TINY
 Class: WAR RNG BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 Frenzied Rat is PH. 16 minute respawn time. Roughly about 2 spawns in 85 kills. Rare NPC |
 Prince Bragnar
@@ -984,7 +985,7 @@ Skill: 2H Slashing Atk Delay: 52
 DMG: 10
 WT: 15.0 Size: GIANT
 Class: WAR PAL RNG SHD BER
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 , Bronze TachiBronze Tachi
 Attunable, Placeable
 Slot: PRIMARY SECONDARY
@@ -999,7 +1000,7 @@ Skill: 2H Slashing Atk Delay: 47
 DMG: 10
 WT: 13.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 32 @ lvl 50
 |
 A Kobold Brawler is the placeholder, confirmed spawn 02/25/2024 |
 Items - Found 90 items that drop in The Warrens:
@@ -1010,7 +1011,7 @@ Skill: 2H Blunt Atk Delay: 45
 DMG: 8
 WT: 14.0 Size: LARGE
 Class: ALL except BRD ROG NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 |
 Foodmaster Rargnar, Lorekeeper Roggik |
 2H Blunt |
@@ -1142,7 +1143,7 @@ Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 High Shaman Drogik |
 1H Blunt |
@@ -1153,7 +1154,7 @@ Skill: 1H Blunt Atk Delay: 38
 DMG: 6
 WT: 9.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 |
 Various |
 1H Blunt |
@@ -1196,7 +1197,7 @@ Skill: 2H Slashing Atk Delay: 47
 DMG: 10
 WT: 13.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 32 @ lvl 50
 |
 Warlord Drrig |
 2H Slashing |
@@ -1232,7 +1233,7 @@ Skill: Piercing Atk Delay: 23
 DMG: 3BACKSTAB: 3
 WT: 4.0 Size: SMALL
 Class: WAR RNG SHD BRD ROG SHM NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 a rabid kobold |
 Piercing |
@@ -1243,7 +1244,7 @@ Skill: 1H Slashing Atk Delay: 32
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 King Gragnar |
 1H Slashing |
@@ -1266,7 +1267,7 @@ Skill: 2H Slashing Atk Delay: 52
 DMG: 10
 WT: 15.0 Size: GIANT
 Class: WAR PAL RNG SHD BER
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 |
 High Shaman Drogik, A Kobold Sentinel, A Kobold Sentry |
 2H Slashing |
@@ -1286,7 +1287,7 @@ Skill: 1H Slashing Atk Delay: 27
 DMG: 4
 WT: 6.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 King Gragnar, Smithy Rrarrgin |
 1H Slashing |
@@ -1298,7 +1299,7 @@ Skill: Piercing Atk Delay: 32
 DMG: 5BACKSTAB: 5
 WT: 8.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM BST
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 a rabid kobold, other kobolds |
 Piercing |
@@ -1311,7 +1312,7 @@ DMG: 5 AC: 3
 STA: +2 WIS: +3
 WT: 4.3 Size: SMALL
 Class: CLR PAL DRU SHM
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 The Muglwump |
 1H Blunt |
@@ -1525,7 +1526,7 @@ Skill: 2H Slashing Atk Delay: 46
 DMG: 15
 WT: 15.0 Size: GIANT
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 31 @ lvl 50
 |
 King Gragnar |
 2H Slashing |
@@ -1683,7 +1684,7 @@ CHA: -4
 SV DISEASE: -3
 WT: 2.5 Size: SMALL
 Class: WAR RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 Packmaster Dledsh |
 1H Slashing |
@@ -1757,7 +1758,7 @@ DMG: 9
 SV FIRE: +3 SV DISEASE: +3 SV COLD: +3 SV MAGIC: +3 SV POISON: +3
 WT: 12.0 Size: LARGE
 Class: CLR DRU SHM NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 25 @ lvl 50
 |
 High Shaman Drogik |
 2H Blunt |
@@ -1772,7 +1773,7 @@ SV MAGIC: +2
 Effect: Clinging Darkness (Any Slot, Casting Time: Instant)
 WT: 4.5 Size: MEDIUM
 Class: WAR SHD NEC
-Race: ALL
+Race: ALLDMG Bonus: 20 @ lvl 50
 |
 King Gragnar |
 1H Blunt |
@@ -1973,7 +1974,7 @@ DMG: 4 AC: 1
 STR: +2 HP: +4
 WT: 4.5 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Smithy Rrarrgin |
 1H Blunt |

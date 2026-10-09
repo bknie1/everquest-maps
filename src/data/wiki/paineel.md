@@ -1,5 +1,5 @@
 # Paineel (eqlwiki.com)
-fetched: 2026-10-03
+fetched: 2026-10-09
 
 Paineel - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -276,7 +277,7 @@ STA: +5 AGI: +5
 SV DISEASE: +5
 WT: 8.0 Size: GIANT
 Class: SHD
-Race: ALL
+Race: ALLDMG Bonus: 28 @ lvl 50
 |
 Davorre Bloodthorn |
 30 |
@@ -362,7 +363,7 @@ DMG: 6
 INT: +1
 WT: 7.0 Size: MEDIUM
 Class: NEC
-Race: ALL
+Race: ALLDMG Bonus: 22 @ lvl 50
 , Experience, Faction, Coin |
 Antus Shelbra |
 8 |
@@ -380,7 +381,7 @@ CHA: -5 MANA: +10
 Effect: Sicken (Combat, Casting Time: Instant) at Level 10
 WT: 4.0 Size: MEDIUM
 Class: NEC
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 |
 Noclin Saah |
 1 |
@@ -447,7 +448,7 @@ Skill: 2H Blunt Atk Delay: 22
 DMG: 10
 WT: 4.6 Size: LARGE
 Class: SHD NEC BER
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Sejako Mujan |
 40 |
@@ -804,7 +805,7 @@ Skill: 1H Slashing Atk Delay: 42
 DMG: 7
 WT: 10.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 21 @ lvl 50
 , Kite ShieldKite Shield
 Slot: SECONDARY
 AC: 8
@@ -825,7 +826,7 @@ Skill: 1H Slashing Atk Delay: 42
 DMG: 7
 WT: 10.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 21 @ lvl 50
 , Kite ShieldKite Shield
 Slot: SECONDARY
 AC: 8
@@ -847,7 +848,7 @@ Skill: 1H Slashing Atk Delay: 42
 DMG: 7
 WT: 10.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 21 @ lvl 50
 , Kite ShieldKite Shield
 Slot: SECONDARY
 AC: 8
@@ -868,7 +869,7 @@ Skill: 1H Slashing Atk Delay: 42
 DMG: 7
 WT: 10.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 21 @ lvl 50
 , Kite ShieldKite Shield
 Slot: SECONDARY
 AC: 8
@@ -889,7 +890,7 @@ Skill: 1H Slashing Atk Delay: 42
 DMG: 7
 WT: 10.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 21 @ lvl 50
 , Kite ShieldKite Shield
 Slot: SECONDARY
 AC: 8
@@ -910,7 +911,7 @@ Skill: 1H Slashing Atk Delay: 42
 DMG: 7
 WT: 10.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 21 @ lvl 50
 , Kite ShieldKite Shield
 Slot: SECONDARY
 AC: 8
@@ -931,7 +932,7 @@ Skill: 1H Slashing Atk Delay: 42
 DMG: 7
 WT: 10.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 21 @ lvl 50
 , Kite ShieldKite Shield
 Slot: SECONDARY
 AC: 8
@@ -953,14 +954,14 @@ Skill: 1H Slashing Atk Delay: 28
 DMG: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Bronze Bastard SwordBronze Bastard Sword
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 42
 DMG: 7
 WT: 10.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 21 @ lvl 50
 , Kite ShieldKite Shield
 Slot: SECONDARY
 AC: 8
@@ -981,7 +982,7 @@ Skill: 1H Slashing Atk Delay: 42
 DMG: 7
 WT: 10.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 21 @ lvl 50
 , Kite ShieldKite Shield
 Slot: SECONDARY
 AC: 8
@@ -1002,7 +1003,7 @@ Skill: 1H Slashing Atk Delay: 42
 DMG: 7
 WT: 10.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 21 @ lvl 50
 , Kite ShieldKite Shield
 Slot: SECONDARY
 AC: 8
@@ -1023,7 +1024,7 @@ Skill: 1H Slashing Atk Delay: 42
 DMG: 7
 WT: 10.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 21 @ lvl 50
 , Kite ShieldKite Shield
 Slot: SECONDARY
 AC: 8
@@ -1044,7 +1045,7 @@ Skill: 1H Slashing Atk Delay: 42
 DMG: 7
 WT: 10.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 21 @ lvl 50
 , Kite ShieldKite Shield
 Slot: SECONDARY
 AC: 8
@@ -1065,7 +1066,7 @@ Skill: 1H Slashing Atk Delay: 42
 DMG: 7
 WT: 10.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 21 @ lvl 50
 , Kite ShieldKite Shield
 Slot: SECONDARY
 AC: 8
@@ -1086,7 +1087,7 @@ Skill: 1H Slashing Atk Delay: 42
 DMG: 7
 WT: 10.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 21 @ lvl 50
 , Kite ShieldKite Shield
 Slot: SECONDARY
 AC: 8
@@ -1107,7 +1108,7 @@ Skill: 1H Slashing Atk Delay: 42
 DMG: 7
 WT: 10.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 21 @ lvl 50
 , Kite ShieldKite Shield
 Slot: SECONDARY
 AC: 8
@@ -1128,7 +1129,7 @@ Skill: 1H Slashing Atk Delay: 42
 DMG: 7
 WT: 10.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 21 @ lvl 50
 , Kite ShieldKite Shield
 Slot: SECONDARY
 AC: 8
@@ -1150,7 +1151,7 @@ Skill: 1H Slashing Atk Delay: 42
 DMG: 7
 WT: 10.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 21 @ lvl 50
 , Kite ShieldKite Shield
 Slot: SECONDARY
 AC: 8
@@ -1171,7 +1172,7 @@ Skill: 1H Slashing Atk Delay: 42
 DMG: 7
 WT: 10.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 21 @ lvl 50
 , Kite ShieldKite Shield
 Slot: SECONDARY
 AC: 8
@@ -1193,14 +1194,14 @@ Skill: 1H Slashing Atk Delay: 28
 DMG: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Bronze Bastard SwordBronze Bastard Sword
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 42
 DMG: 7
 WT: 10.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 21 @ lvl 50
 , Kite ShieldKite Shield
 Slot: SECONDARY
 AC: 8
@@ -1221,7 +1222,7 @@ Skill: 1H Slashing Atk Delay: 42
 DMG: 7
 WT: 10.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 21 @ lvl 50
 , Kite ShieldKite Shield
 Slot: SECONDARY
 AC: 8
@@ -1242,7 +1243,7 @@ Skill: 1H Slashing Atk Delay: 42
 DMG: 7
 WT: 10.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 21 @ lvl 50
 , Kite ShieldKite Shield
 Slot: SECONDARY
 AC: 8
@@ -1263,7 +1264,7 @@ Skill: 1H Slashing Atk Delay: 42
 DMG: 7
 WT: 10.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 21 @ lvl 50
 , Kite ShieldKite Shield
 Slot: SECONDARY
 AC: 8
@@ -1284,7 +1285,7 @@ Skill: 1H Slashing Atk Delay: 42
 DMG: 7
 WT: 10.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 21 @ lvl 50
 , Kite ShieldKite Shield
 Slot: SECONDARY
 AC: 8
@@ -1305,7 +1306,7 @@ Skill: 1H Slashing Atk Delay: 42
 DMG: 7
 WT: 10.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 21 @ lvl 50
 , Kite ShieldKite Shield
 Slot: SECONDARY
 AC: 8
@@ -1326,7 +1327,7 @@ Skill: 1H Slashing Atk Delay: 42
 DMG: 7
 WT: 10.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 21 @ lvl 50
 , Kite ShieldKite Shield
 Slot: SECONDARY
 AC: 8
@@ -1347,7 +1348,7 @@ Skill: 1H Slashing Atk Delay: 42
 DMG: 7
 WT: 10.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 21 @ lvl 50
 , Kite ShieldKite Shield
 Slot: SECONDARY
 AC: 8
@@ -1368,7 +1369,7 @@ Skill: 1H Slashing Atk Delay: 42
 DMG: 7
 WT: 10.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 21 @ lvl 50
 , Kite ShieldKite Shield
 Slot: SECONDARY
 AC: 8
@@ -1389,7 +1390,7 @@ Skill: 1H Slashing Atk Delay: 42
 DMG: 7
 WT: 10.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 21 @ lvl 50
 , Kite ShieldKite Shield
 Slot: SECONDARY
 AC: 8
@@ -1410,7 +1411,7 @@ Skill: 1H Slashing Atk Delay: 42
 DMG: 7
 WT: 10.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 21 @ lvl 50
 , Kite ShieldKite Shield
 Slot: SECONDARY
 AC: 8
@@ -1431,7 +1432,7 @@ Skill: 1H Slashing Atk Delay: 42
 DMG: 7
 WT: 10.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 21 @ lvl 50
 , Kite ShieldKite Shield
 Slot: SECONDARY
 AC: 8
@@ -1452,7 +1453,7 @@ Skill: 1H Slashing Atk Delay: 42
 DMG: 7
 WT: 10.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 21 @ lvl 50
 , Kite ShieldKite Shield
 Slot: SECONDARY
 AC: 8

@@ -1,5 +1,5 @@
 # Halas (eqlwiki.com)
-fetched: 2026-10-08
+fetched: 2026-10-09
 
 Halas - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -269,7 +270,7 @@ Skill: Piercing Atk Delay: 26
 DMG: 5BACKSTAB: 5
 WT: 2.0 Size: MEDIUM
 Class: WAR ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 , Patched Gnoll Fur BundlePatched Gnoll Fur Bundle
 Slot: BACK
 AC: 4
@@ -293,7 +294,7 @@ DMG: 5
 MANA: +5
 WT: 7.5 Size: MEDIUM
 Class: SHM
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 |
 Shamus Felligan |
 5 |
@@ -430,7 +431,7 @@ Skill: 1H Slashing Atk Delay: 23
 DMG: 6
 WT: 4.0 Size: MEDIUM
 Class: WAR
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 , Langseax of the WolvesLangseax of the Wolves
 MAGIC ITEM LORE ITEM
 Slot: PRIMARY
@@ -439,7 +440,7 @@ DMG: 19
 STR: +5 DEX: +5
 WT: 9.5 Size: LARGE
 Class: WAR
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 |
 Renth McLanis |
 20 |
@@ -497,7 +498,7 @@ Skill: 1H Slashing Atk Delay: 36
 DMG: 5
 WT: 6.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 18 @ lvl 50
 |
 Dargon McPherson |
 1 |
@@ -636,7 +637,7 @@ Skill: Piercing Atk Delay: 21
 DMG: 3BACKSTAB: 3
 WT: 3.0 Size: SMALL
 Class: WAR ROG
-Race: ALL
+Race: ALLDMG Bonus: 10 @ lvl 50
 |
 Lysbith McNaff |
 7 |

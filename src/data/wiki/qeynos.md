@@ -1,5 +1,5 @@
 # Qeynos (eqlwiki.com)
-fetched: 2026-10-03
+fetched: 2026-10-09
 
 Qeynos - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -264,14 +265,14 @@ Skill: 1H Slashing Atk Delay: 32
 DMG: 6
 WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Cast-Iron MaceCast-Iron Mace
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 38
 DMG: 5
 WT: 19.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 |
 Tabure Ahendle |
 10 |
@@ -289,7 +290,7 @@ WIS: +3
 Effect: Ward Undead (Combat, Casting Time: Instant) at Level 10
 WT: 10.0 Size: LARGE
 Class: CLR PAL
-Race: ALL
+Race: ALLDMG Bonus: 24 @ lvl 50
 |
 Runethar Hamest |
 20 |
@@ -335,7 +336,7 @@ DMG: 5
 WIS: +3
 WT: 8.5 Size: LARGE
 Class: CLR PAL
-Race: ALL
+Race: ALLDMG Bonus: 21 @ lvl 50
 |
 Wolten Grafe |
 8 |
@@ -353,7 +354,7 @@ WIS: +3
 Effect: Ward Undead (Combat, Casting Time: Instant) at Level 10
 WT: 10.0 Size: LARGE
 Class: CLR PAL
-Race: ALL
+Race: ALLDMG Bonus: 24 @ lvl 50
 |
 Runethar Hamest |
 20 |
@@ -377,7 +378,7 @@ Skill: 1H Blunt Atk Delay: 44
 DMG: 6
 WT: 10.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 22 @ lvl 50
 , Small LanternSmall Lantern
 Attunable, Quest, Placeable
 Slot: SECONDARY
@@ -1046,7 +1047,7 @@ Skill: 1H Blunt Atk Delay: 27
 DMG: 4
 WT: 5.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Description needed. |
 Byjan Timbokker
@@ -1235,7 +1236,7 @@ Skill: 2H Slashing Atk Delay: 43
 DMG: 12
 Size: LARGE WT: 10.0
 Class: WAR PAL RNG SHD BER
-Race: ALL
+Race: ALLDMG Bonus: 29 @ lvl 50
 (Always) |
 Stands watch outside the Qeynos bank. Friends with Eracon Krengon who hangs out inside. Flees at 20% health. |
 Earron Huntlan
@@ -1304,7 +1305,7 @@ Skill: 2H Slashing Atk Delay: 43
 DMG: 12
 Size: LARGE WT: 10.0
 Class: WAR PAL RNG SHD BER
-Race: ALL
+Race: ALLDMG Bonus: 29 @ lvl 50
 (Always) |
 Hangs out inside the Qeynos bank. Friends with Dun who stands watch outside. Flees at 20% health. |
 Esdia Moeba
@@ -1470,7 +1471,7 @@ Skill: 1H Slashing Atk Delay: 35
 DMG: 5
 Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 |
 Pather. |
 Guard Beren
@@ -1494,7 +1495,7 @@ Skill: 1H Slashing Atk Delay: 35
 DMG: 5
 Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 |
 Pather. |
 Guard Corshin
@@ -1518,7 +1519,7 @@ Skill: 1H Slashing Atk Delay: 35
 DMG: 5
 Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 |
 Aligned with the evil Qeynos factions. |
 Guard Dunix
@@ -1574,7 +1575,7 @@ Skill: 1H Slashing Atk Delay: 35
 DMG: 5
 Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 |
 Aligned with the evil Qeynos factions. |
 Guard Naret
@@ -1606,7 +1607,7 @@ Skill: 1H Slashing Atk Delay: 35
 DMG: 5
 Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 |
 Corrupt Guard. Paths near bank and will attack you if your faction with Corrupt Qeynos Guards is low. Non-corrupt guar... |
 Guard Phaeton
@@ -1622,7 +1623,7 @@ Skill: 1H Slashing Atk Delay: 35
 DMG: 5
 Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 |
 Description needed. |
 Guard Quedal
@@ -1638,7 +1639,7 @@ Skill: 1H Slashing Atk Delay: 35
 DMG: 5
 Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 |
 Pather. |
 Guard Relam
@@ -1662,7 +1663,7 @@ Skill: 1H Slashing Atk Delay: 35
 DMG: 5
 Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 |
 Description needed. |
 Guard Urius
@@ -2064,7 +2065,7 @@ Skill: Piercing Atk Delay: 24
 DMG: 3BACKSTAB: 3
 WT: 2.5 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 , Black Wood ChipBlack Wood Chip
 NO DROP
 Slot: NECK
@@ -2296,7 +2297,7 @@ Skill: Piercing Atk Delay: 24
 DMG: 3BACKSTAB: 3
 WT: 2.5 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 , Dwarf MeatDwarf Meat
 WT: 1.0 Size: SMALL
 Class: ALL
@@ -2819,7 +2820,7 @@ Skill: Piercing Atk Delay: 20
 DMG: 3BACKSTAB: 3
 WT: 2.5 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 10 @ lvl 50
 , Water FlaskWater Flask
 Quest
 Size: SMALL WT: 0.4
@@ -2845,7 +2846,7 @@ Skill: 1H Slashing Atk Delay: 23
 DMG: 4
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 Brohan Ironforge |
 1 |
@@ -2866,21 +2867,21 @@ Skill: 1H Blunt Atk Delay: 38
 DMG: 6
 WT: 9.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 , Bronze FlailBronze Flail
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 37
 DMG: 6
 WT: 10.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 18 @ lvl 50
 , Bronze WarhammerBronze Warhammer
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Astaed Wemor |
 8 |
@@ -3377,7 +3378,7 @@ Skill: 1H Slashing Atk Delay: 35
 DMG: 5
 Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 |
 This Guard of Qeynos is a time based placeholder during the dayshift instead of Lieutenant Dagarok who takes his pla... |
 Guard Furithane
@@ -3400,7 +3401,7 @@ Skill: 1H Slashing Atk Delay: 24
 DMG: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 , Rusty Short SwordRusty Short Sword
 QUEST ITEM
 Slot: PRIMARY SECONDARY
@@ -3408,7 +3409,7 @@ Skill: 1H Slashing Atk Delay: 28
 DMG: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Qeynos Kite ShieldQeynos Kite Shield
 Slot: SECONDARY
 AC: 8
@@ -3422,7 +3423,7 @@ Skill: 1H Slashing Atk Delay: 29
 DMG: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 Guards The Entrance To Qeynos. |
 Guard Ginton
@@ -3453,7 +3454,7 @@ Skill: 1H Slashing Atk Delay: 24
 DMG: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 , Rusty Short SwordRusty Short Sword
 QUEST ITEM
 Slot: PRIMARY SECONDARY
@@ -3461,7 +3462,7 @@ Skill: 1H Slashing Atk Delay: 28
 DMG: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Qeynos Kite ShieldQeynos Kite Shield
 Slot: SECONDARY
 AC: 8
@@ -3475,7 +3476,7 @@ Skill: 1H Slashing Atk Delay: 29
 DMG: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 Guards The Entrance To Qeynos. |
 Guard Liben
@@ -3491,7 +3492,7 @@ Skill: 1H Slashing Atk Delay: 35
 DMG: 5
 Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 |
 Paths between the listed locations. |
 Guard Obyn
@@ -3637,14 +3638,14 @@ Skill: 2H Slashing Atk Delay: 45
 DMG: 12
 WT: 12.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 , Forged Two Handed SwordForged Two Handed Sword
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 44
 DMG: 12
 WT: 11.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 , Qeynos Kite ShieldQeynos Kite Shield
 Slot: SECONDARY
 AC: 8
@@ -3711,7 +3712,7 @@ Skill: 1H Blunt Atk Delay: 44
 DMG: 6
 WT: 10.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 22 @ lvl 50
 |
 Commonly patrols between the gates of Qeynos and the Silent Fist guild. |
 Leanon Ruksey
@@ -3734,7 +3735,7 @@ Skill: 2H Slashing Atk Delay: 52
 DMG: 10
 WT: 15.0 Size: GIANT
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 |
 Very dangerous due to Harmtouch (for 501 damage). Be mindful while in North Qeynos at night if the [[Corrupt Qeynos Gua... |
 LuSun
@@ -3856,7 +3857,7 @@ DMG: 5
 Effect: Shock of Frost (Combat, Casting Time: Instant)
 WT: 6.5 Size: LARGE
 Class: BRD NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 If you have turned in the book of Discord to the Priest of Discord and flagged your name red with PvP... there is a fix.... |
 Priestess Caulria
@@ -3969,7 +3970,7 @@ Skill: 2H Slashing Atk Delay: 45
 DMG: 12
 WT: 12.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 |
 Description needed. |
 Rolon Banari
@@ -3984,7 +3985,7 @@ Skill: 1H Blunt Atk Delay: 36
 DMG: 5
 WT: 8.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 18 @ lvl 50
 |
 Description needed. |
 Runethar Hamest
@@ -4015,7 +4016,7 @@ Skill: 1H Blunt Atk Delay: 27
 DMG: 4
 WT: 5.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Description needed. |
 Seta Bakindo
@@ -4093,7 +4094,7 @@ Skill: 1H Blunt Atk Delay: 36
 DMG: 5
 WT: 8.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 18 @ lvl 50
 |
 Not at listed location, probably moves to Paineel after it released. |
 Togahn Sorast
@@ -4149,7 +4150,7 @@ Skill: 1H Blunt Atk Delay: 36
 DMG: 5
 WT: 8.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 18 @ lvl 50
 , Ulia Yovar's Head |
 Not found in WFP sewers, but might be on a day/night cycle. The quest involving her head appears to have been classicall... |
 Umvera Dekash
@@ -4210,7 +4211,7 @@ Skill: 1H Slashing Atk Delay: 39
 DMG: 8
 WT: 9.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 |
 Corporal Lancot |
 1H Slashing |
@@ -4233,7 +4234,7 @@ Skill: 2H Slashing Atk Delay: 52
 DMG: 10
 WT: 15.0 Size: GIANT
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 |
 Lieutenant Dagarok |
 2H Slashing |
@@ -4317,7 +4318,7 @@ Skill: 1H Blunt Atk Delay: 36
 DMG: 5
 WT: 8.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 18 @ lvl 50
 |
 Rolon Banari |
 1H Blunt |

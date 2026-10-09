@@ -1,5 +1,5 @@
 # The_Hole (eqlwiki.com)
-fetched: 2026-10-07
+fetched: 2026-10-09
 
 The Hole - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -136,7 +137,7 @@ DMG: 26
 Effect: Haste (Combat, Casting Time: Instant) at Level 25
 WT: 8.5 Size: LARGE
 Class: WAR BER
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 , Elemental BinderElemental Binder
 MAGIC ITEM LORE ITEM
 Slot: HEAD
@@ -194,7 +195,7 @@ DMG: 8
 STR: +3
 WT: 1.9 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 10 @ lvl 50
 , Paineel Splinted CloakPaineel Splinted Cloak
 Slot: BACK
 AC: 8
@@ -208,7 +209,7 @@ Skill: 1H Slashing Atk Delay: 30
 DMG: 2
 WT: 3.0 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 , Smoldering BrandSmoldering Brand
 MAGIC ITEM LORE ITEM
 Slot: PRIMARY SECONDARY
@@ -219,7 +220,7 @@ STR: +3
 WT: 5.0 Size: SMALL
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC
 WIZ MAG ENC BST
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 , Tome of MiragulTome of Miragul
 MAGIC ITEM LORE ITEM
 Slot: PRIMARY SECONDARY
@@ -295,7 +296,7 @@ STR: +6 DEX: -5 STA: +6
 Effect: Earthquake (Combat, Casting Time: Instant) at Level 45
 WT: 16.0 Size: GIANT
 Class: WAR PAL RNG SHD BER
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 , Loam Encrusted RobeLoam Encrusted Robe
 Lore Equipped, Attunable
 Slot: CHEST
@@ -422,7 +423,7 @@ STR: +3
 WT: 5.0 Size: SMALL
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC
 WIZ MAG ENC BST
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 , Paineel Steel Armor Set pieces |
 Ratmen warriors cannot see invis, which can be handy. Main area is the jail just inside castle.
 When pulling prison, ... |
@@ -530,7 +531,7 @@ DMG: 8
 STR: +3
 WT: 1.9 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 10 @ lvl 50
 (Rare), Bow of the UnderfootBow of the Underfoot
 Lore Equipped, No Trade, Placeable
 Slot: RANGE
@@ -839,7 +840,7 @@ Skill: 1H Blunt Atk Delay: 50
 DMG: 2
 WT: 5.0 Size: MEDIUM
 Class: RNG
-Race: ALL
+Race: ALLDMG Bonus: 25 @ lvl 50
 |
 Slowable. Jaeil the Insane is easily 1 groupable and can be spawn multiple times provided you have the Shiny Tin Bowl.
 ... |
@@ -864,7 +865,7 @@ Skill: 1H Slashing Atk Delay: 30
 DMG: 5
 WT: 4.0 Size: MEDIUM
 Class: PAL
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Respawn time: 1 week. (1/8/2020) Easy kill for one group of 55 plus. Bring a CC because the spawns to get to him come in... |
 Kejar the Mighty
@@ -973,7 +974,7 @@ DMG: 27
 STR: +3 DEX: +2
 WT: 10.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 |
 Alternative way to obtain the Red Dragon Scale. Procs Deadly Lifetap (1500hp frontal lifetap, same as VS). Boon of the ... |
 Polzin Mrid
@@ -1060,7 +1061,7 @@ STR: +3
 WT: 5.0 Size: SMALL
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC
 WIZ MAG ENC BST
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 Spawns in a cell at the back of ratman jail. |
 Stonegrinder Minion
@@ -1226,7 +1227,7 @@ Skill: 1H Blunt Atk Delay: 50
 DMG: 2
 WT: 5.0 Size: MEDIUM
 Class: RNG
-Race: ALL
+Race: ALLDMG Bonus: 25 @ lvl 50
 |
 None? |
 1H Blunt |
@@ -1239,7 +1240,7 @@ DMG: 26
 Effect: Haste (Combat, Casting Time: Instant) at Level 25
 WT: 8.5 Size: LARGE
 Class: WAR BER
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 |
 Various |
 2H Slashing |
@@ -1573,7 +1574,7 @@ DMG: 8
 STR: +3
 WT: 1.9 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 10 @ lvl 50
 |
 a rock golem, Retseth Tretse |
 1H Blunt |
@@ -1684,7 +1685,7 @@ Skill: 1H Slashing Atk Delay: 30
 DMG: 2
 WT: 3.0 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 a revenant, a wanderer |
 1H Slashing |
@@ -1706,7 +1707,7 @@ DMG: 27
 STR: +3 DEX: +2
 WT: 10.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 |
 Nortlav the Scalekeeper |
 2H Slashing |
@@ -1734,7 +1735,7 @@ STR: +3
 WT: 5.0 Size: SMALL
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC
 WIZ MAG ENC BST
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 Various |
 1H Blunt |
@@ -1746,7 +1747,7 @@ Skill: 1H Blunt Atk Delay: 50
 DMG: 2
 WT: 5.0 Size: MEDIUM
 Class: RNG
-Race: ALL
+Race: ALLDMG Bonus: 25 @ lvl 50
 |
 Jaeil the Insane |
 1H Blunt |
@@ -1770,7 +1771,7 @@ Skill: 1H Slashing Atk Delay: 30
 DMG: 5
 WT: 4.0 Size: MEDIUM
 Class: PAL
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Keeper of the Tombs |
 1H Slashing |
@@ -1973,7 +1974,7 @@ STR: +6 DEX: -5 STA: +6
 Effect: Earthquake (Combat, Casting Time: Instant) at Level 45
 WT: 16.0 Size: GIANT
 Class: WAR PAL RNG SHD BER
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 , Fusible Earthen OreFusible Earthen Ore
 MAGIC ITEM LORE ITEM NO DROP
 WT: 0.1 Size: TINY

@@ -1,5 +1,5 @@
 # Steamfont_Mountains (eqlwiki.com)
-fetched: 2026-10-02
+fetched: 2026-10-09
 
 Steamfont Mountains - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -169,7 +170,7 @@ WIS: +5 INT: +5 MANA: +30
 Effect: Sentinel (Any Slot, Casting Time: Instant)
 WT: 10.0 Size: LARGE
 Class: CLR DRU SHM WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 24 @ lvl 50
 |
 Brona Frugrin |
 30 |
@@ -292,7 +293,7 @@ Skill: 1H Blunt Atk Delay: 30
 DMG: 6
 WT: 7.3 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 , Encrypted DocumentEncrypted Document
 No Trade, Quest
 Size: TINY WT: 0.0
@@ -513,7 +514,7 @@ Skill: 1H Slashing Atk Delay: 37
 DMG: 8
 WT: 8.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 18 @ lvl 50
 , Minotaur HornMinotaur Horn
 Slot: PRIMARY SECONDARY
 WT: 0.1 Size: SMALL
@@ -676,7 +677,7 @@ Skill: 1H Slashing Atk Delay: 35
 DMG: 5
 Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 , Berinsans Shirt |
 |
 Bigilam Wantilans
@@ -782,7 +783,7 @@ Skill: 1H Slashing Atk Delay: 28
 DMG: 6
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 Spawns at 728, 2000 near lesser faydark zoneline. |
 Dimlore Stormhammer
@@ -832,7 +833,7 @@ Skill: Piercing Atk Delay: 24
 DMG: 3BACKSTAB: 3
 WT: 2.5 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 , Gnome MeatGnome Meat
 QUEST ITEM
 WT: 1.0 Size: SMALL
@@ -961,7 +962,7 @@ Skill: 1H Slashing Atk Delay: 37
 DMG: 8
 WT: 8.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 18 @ lvl 50
 , Minotaur HornMinotaur Horn
 Slot: PRIMARY SECONDARY
 WT: 0.1 Size: SMALL
@@ -982,7 +983,7 @@ Skill: 1H Slashing Atk Delay: 37
 DMG: 8
 WT: 8.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 18 @ lvl 50
 , Minotaur Hero ShacklesMinotaur Hero Shackles
 Lore Equipped, No Trade, Quest
 Slot: WRIST
@@ -1012,7 +1013,7 @@ Skill: 1H Slashing Atk Delay: 37
 DMG: 8
 WT: 8.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 18 @ lvl 50
 , Minotaur HornMinotaur Horn
 Slot: PRIMARY SECONDARY
 WT: 0.1 Size: SMALL
@@ -1040,7 +1041,7 @@ Skill: 1H Slashing Atk Delay: 37
 DMG: 8
 WT: 8.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 18 @ lvl 50
 , Minotaur HornMinotaur Horn
 Slot: PRIMARY SECONDARY
 WT: 0.1 Size: SMALL
@@ -1183,7 +1184,7 @@ Skill: 1H Slashing Atk Delay: 24
 DMG: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 , Small Round ShieldSmall Round Shield
 Slot: SECONDARY
 AC: 6
@@ -1298,7 +1299,7 @@ Skill: Piercing Atk Delay: 24
 DMG: 3BACKSTAB: 3
 WT: 2.5 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 Feddi Dooger |
 Piercing |
@@ -1423,7 +1424,7 @@ Skill: 1H Slashing Atk Delay: 28
 DMG: 6
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 Crusader Swiftmoon |
 1H Slashing |
@@ -1506,7 +1507,7 @@ DMG: 9BACKSTAB: 9
 DEX: +9
 WT: 1.7 Size: SMALL
 Class: ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 Renux Herkanor |
 Piercing |
@@ -1694,7 +1695,7 @@ Skill: 1H Slashing Atk Delay: 24
 DMG: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 Various |
 1H Slashing |
@@ -1812,7 +1813,7 @@ Skill: 2H Blunt Atk Delay: 40
 DMG: 7
 WT: 11.0 Size: LARGE
 Class: ALL except BRD ROG
-Race: ALL except
+Race: ALL exceptDMG Bonus: 27 @ lvl 50
 |
 Winex Kloktik |
 2H Blunt |

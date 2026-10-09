@@ -1,5 +1,5 @@
 # Lake_Rathetear (eqlwiki.com)
-fetched: 2026-09-30
+fetched: 2026-10-09
 
 Lake Rathetear - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -103,7 +104,7 @@ DMG: 9
 HP: +5 MANA: +5 END: +5
 Size: LARGE WT: 11.0
 Class: CLR DRU SHM NEC WIZ MAG ENC BST BER
-Race: ALL
+Race: ALLDMG Bonus: 25 @ lvl 50
 , Water Crystal StaffWater Crystal Staff
 MAGIC ITEM LORE ITEM
 Slot: PRIMARY SECONDARY
@@ -112,7 +113,7 @@ DMG: 5
 Effect: Shallow Breath (Combat, Casting Time: Instant)
 WT: 6.5 Size: LARGE
 Class: BRD NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Skull of Jhen`TraSkull of Jhen`Tra
 MAGIC ITEM LORE ITEM
 Slot: PRIMARY SECONDARY
@@ -200,7 +201,7 @@ SV FIRE: +10 SV DISEASE: +10 SV COLD: +10 SV MAGIC: +10 SV POISON: +10
 Effect: Reviviscence (Must Equip, Casting Time: 10.0) at Level 50
 WT: 8.0 Size: MEDIUM
 Class: CLR
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Shmendrik Lavawalker |
 Start Zone: |
@@ -220,7 +221,7 @@ SV FIRE: +20 SV COLD: +20 SV MAGIC: +10
 Effect: Manifest Elements (Must Equip, Casting Time: 20.0) at Level 46
 WT: 1.0 Size: TINY
 Class: MAG
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Rykas |
 Start Zone: |
@@ -313,7 +314,7 @@ DMG: 3
 BACKSTAB: 3
 WT: 4.0 Size: SMALL
 Class: ALL except CLR PAL DRU MNK
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 , Quartz CrystalQuartz Crystal
 MAGIC ITEM
 Slot: PRIMARY SECONDARY
@@ -1072,7 +1073,7 @@ DMG: 5
 Effect: Shallow Breath (Combat, Casting Time: Instant)
 WT: 6.5 Size: LARGE
 Class: BRD NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Hunting BowHunting Bow
 Slot: RANGE
 Skill: Archery Atk Delay: 43
@@ -1244,7 +1245,7 @@ DMG: 9
 HP: +5 MANA: +5 END: +5
 Size: LARGE WT: 11.0
 Class: CLR DRU SHM NEC WIZ MAG ENC BST BER
-Race: ALL
+Race: ALLDMG Bonus: 25 @ lvl 50
 |
 a gnoll high shaman |
 2H Blunt |
@@ -1393,7 +1394,7 @@ DMG: 5
 Effect: Shallow Breath (Combat, Casting Time: Instant)
 WT: 6.5 Size: LARGE
 Class: BRD NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 Webclaw Murkwave |
 1H Blunt |

@@ -1,5 +1,5 @@
 # Lesser_Faydark (eqlwiki.com)
-fetched: 2026-10-02
+fetched: 2026-10-09
 
 Lesser Faydark - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -607,7 +608,7 @@ DMG: 4BACKSTAB: 4
 Effect: Weak Poison (Combat, Casting Time: Instant)
 WT: 5.0 Size: MEDIUM
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 10 @ lvl 50
 (Always)
 Crookstinger PoisonCrookstinger Poison
 Effect: Feeble Mind I (Combat) at Level 20
@@ -1146,7 +1147,7 @@ INT: +2
 SV COLD: +2
 WT: 2.5 Size: SMALL
 Class: SHD NEC
-Race: ALL
+Race: ALLDMG Bonus: 10 @ lvl 50
 |
 None? |
 Piercing |
@@ -1334,7 +1335,7 @@ DMG: 4BACKSTAB: 4
 Effect: Weak Poison (Combat, Casting Time: Instant)
 WT: 5.0 Size: MEDIUM
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 10 @ lvl 50
 |
 Crookstinger (mob) |
 Piercing |
@@ -1689,7 +1690,7 @@ Skill: 1H Slashing Atk Delay: 35
 DMG: 7
 WT: 8.5 Size: MEDIUM
 Class: WAR
-Race: NONE
+Race: NONEDMG Bonus: 17 @ lvl 50
 |
 a shadowed man, a shadowed man pet |
 1H Slashing |
@@ -1719,7 +1720,7 @@ Skill: 1H Slashing Atk Delay: 25
 DMG: 5
 WT: 7.5 Size: MEDIUM
 Class: WAR
-Race: NONE
+Race: NONEDMG Bonus: 12 @ lvl 50
 |
 a shadowed man, a shadowed man pet |
 1H Slashing |
@@ -1731,7 +1732,7 @@ Skill: 2H Blunt Atk Delay: 51
 DMG: 13
 WT: 13.0 Size: LARGE
 Class: WAR
-Race: NONE
+Race: NONEDMG Bonus: 34 @ lvl 50
 |
 a shadowed man |
 2H Blunt |
@@ -1743,7 +1744,7 @@ Skill: 2H Slashing Atk Delay: 45
 DMG: 12
 WT: 12.0 Size: LARGE
 Class: WAR
-Race: NONE
+Race: NONEDMG Bonus: 30 @ lvl 50
 |
 a shadowed man, a shadowed man pet |
 2H Slashing |

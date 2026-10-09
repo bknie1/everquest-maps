@@ -1,5 +1,5 @@
 # Stonebrunt_Mountains (eqlwiki.com)
-fetched: 2026-10-08
+fetched: 2026-10-09
 
 Stonebrunt Mountains - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -104,7 +105,7 @@ DMG: 7
 STR: +3 HP: +5
 WT: 9.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 , Blood Crusted WhipBlood Crusted Whip
 MAGIC ITEM LORE ITEM
 Slot: PRIMARY SECONDARY
@@ -113,7 +114,7 @@ DMG: 6
 STR: +5
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 , Blue Bamboo Armor, Etched Iron Armor, Footpads of the TigerFootpads of the Tiger
 MAGIC ITEM LORE ITEM
 Slot: FEET
@@ -148,7 +149,7 @@ STR: +4 WIS: +4
 SV MAGIC: +3
 WT: 1.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Gloves of the Rock ClimberGloves of the Rock Climber
 MAGIC ITEM LORE ITEM NO DROP
 Slot: HANDS
@@ -170,7 +171,7 @@ Skill: 1H Slashing Atk Delay: 30
 DMG: 7
 WT: 1.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 , Prowling Leopard LeggingsProwling Leopard Leggings
 MAGIC ITEM LORE ITEM
 Slot: LEGS
@@ -195,7 +196,7 @@ DMG: 6 AC: 2
 HP: +5
 WT: 8.5 Size: MEDIUM
 Class: WAR PAL RNG SHD DRU BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 , Spirit ReaverSpirit Reaver
 MAGIC ITEM LORE ITEM
 Slot: PRIMARY
@@ -204,7 +205,7 @@ DMG: 13
 Effect: Lifespike (Combat, Casting Time: Instant) at Level 20
 WT: 0.4 Size: MEDIUM
 Class: SHD
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Related Quests:
 |
@@ -316,7 +317,7 @@ INT: +3
 Effect: Leech (Combat, Casting Time: Instant) at Level 25
 WT: 9.2 Size: LARGE
 Class: SHD
-Race: ALL
+Race: ALLDMG Bonus: 28 @ lvl 50
 |
 a spirit |
 25 |
@@ -333,7 +334,7 @@ DMG: 7 AC: 4
 HP: +10
 WT: 5.0 Size: MEDIUM
 Class: ALL except BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 22 @ lvl 50
 , Titan Blessed TachiTitan Blessed Tachi
 MAGIC ITEM
 Slot: PRIMARY SECONDARY
@@ -342,7 +343,7 @@ DMG: 6 AC: 2
 HP: +5
 WT: 8.5 Size: MEDIUM
 Class: WAR PAL RNG SHD DRU BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 , Titan Blessed TantoTitan Blessed Tanto
 MAGIC ITEM
 Slot: PRIMARY SECONDARY
@@ -351,7 +352,7 @@ DMG: 4BACKSTAB: 4
 AC: 2 HP: +5
 WT: 3.0 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 , Minor coin |
 Shazda Kaekwon |
 28 |
@@ -368,7 +369,7 @@ CHA: +2
 SV FIRE: +3 SV DISEASE: +3 SV COLD: +3 SV MAGIC: +3 SV POISON: +3
 WT: 10.0 Size: LARGE
 Class: WAR PAL RNG
-Race: ALL
+Race: ALLDMG Bonus: 28 @ lvl 50
 , Purified Crystal ClaymorePurified Crystal Claymore
 MAGIC ITEM
 Slot: PRIMARY
@@ -378,7 +379,7 @@ CHA: +4
 SV FIRE: +5 SV DISEASE: +5 SV COLD: +5 SV MAGIC: +5 SV POISON: +5
 WT: 10.0 Size: LARGE
 Class: WAR PAL RNG
-Race: ALL
+Race: ALLDMG Bonus: 28 @ lvl 50
 , Purified Crystal DaggerPurified Crystal Dagger
 MAGIC ITEM
 Slot: RANGE PRIMARY SECONDARY
@@ -388,7 +389,7 @@ CHA: +4
 SV FIRE: +5 SV DISEASE: +5 SV COLD: +5 SV MAGIC: +5 SV POISON: +5
 WT: 2.4 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 , Purified Crystal Long SwordPurified Crystal Long Sword
 MAGIC ITEM
 Slot: PRIMARY SECONDARY
@@ -398,7 +399,7 @@ CHA: +4
 SV FIRE: +5 SV DISEASE: +5 SV COLD: +5 SV MAGIC: +5 SV POISON: +5
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 , Purified Crystal ScimitarPurified Crystal Scimitar
 MAGIC ITEM
 Slot: PRIMARY SECONDARY
@@ -408,7 +409,7 @@ CHA: +4
 SV FIRE: +5 SV DISEASE: +5 SV COLD: +5 SV MAGIC: +5 SV POISON: +5
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG DRU BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 , Purified Crystal Short SwordPurified Crystal Short Sword
 MAGIC ITEM
 Slot: PRIMARY SECONDARY
@@ -418,7 +419,7 @@ CHA: +4
 SV FIRE: +5 SV DISEASE: +5 SV COLD: +5 SV MAGIC: +5 SV POISON: +5
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 , Purified Crystal StarPurified Crystal Star
 MAGIC ITEM
 Slot: PRIMARY SECONDARY
@@ -428,7 +429,7 @@ CHA: +4
 SV FIRE: +5 SV DISEASE: +5 SV COLD: +5 SV MAGIC: +5 SV POISON: +5
 WT: 10.0 Size: MEDIUM
 Class: WAR CLR PAL RNG DRU MNK BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 18 @ lvl 50
 , Purified DaggerPurified Dagger
 Slot: PRIMARY SECONDARY
 Skill: Piercing Atk Delay: 18
@@ -437,7 +438,7 @@ CHA: +2
 SV FIRE: +3 SV DISEASE: +3 SV COLD: +3 SV MAGIC: +3 SV POISON: +3
 WT: 2.4 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 , Purified Long SwordPurified Long Sword
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 27
@@ -446,7 +447,7 @@ CHA: +2
 SV FIRE: +3 SV DISEASE: +3 SV COLD: +3 SV MAGIC: +3 SV POISON: +3
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 , Purified RapierPurified Rapier
 Slot: PRIMARY SECONDARY
 Skill: Piercing Atk Delay: 22
@@ -455,7 +456,7 @@ CHA: +2
 SV FIRE: +3 SV DISEASE: +3 SV COLD: +3 SV MAGIC: +3 SV POISON: +3
 WT: 5.0 Size: MEDIUM
 Class: WAR RNG BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 , Purified ScimitarPurified Scimitar
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 22
@@ -464,7 +465,7 @@ CHA: +2
 SV FIRE: +3 SV DISEASE: +3 SV COLD: +3 SV MAGIC: +3 SV POISON: +3
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 , Purified SpearPurified Spear
 Slot: PRIMARY
 Skill: Piercing Atk Delay: 26
@@ -473,7 +474,7 @@ CHA: +2
 SV FIRE: +3 SV DISEASE: +3 SV COLD: +3 SV MAGIC: +3 SV POISON: +3
 WT: 6.8 Size: LARGE
 Class: WAR RNG BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 , Purified Spirit BeltPurified Spirit Belt
 MAGIC ITEM LORE ITEM NO DROP
 Slot: WAIST
@@ -549,7 +550,7 @@ CHA: +2
 SV FIRE: +3 SV DISEASE: +3 SV COLD: +3 SV MAGIC: +3 SV POISON: +3
 WT: 10.0 Size: LARGE
 Class: ALL except BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 24 @ lvl 50
 , Purified StarPurified Star
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 37
@@ -558,7 +559,7 @@ CHA: +2
 SV FIRE: +3 SV DISEASE: +3 SV COLD: +3 SV MAGIC: +3 SV POISON: +3
 WT: 10.0 Size: MEDIUM
 Class: WAR CLR PAL RNG DRU MNK BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 18 @ lvl 50
 , Purified WarhammerPurified Warhammer
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 29
@@ -567,7 +568,7 @@ CHA: +2
 SV FIRE: +3 SV DISEASE: +3 SV COLD: +3 SV MAGIC: +3 SV POISON: +3
 WT: 7.3 Size: MEDIUM
 Class: ALL except SHD NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Soulforge HammerSoulforge Hammer
 MAGIC ITEM
 Slot: PRIMARY SECONDARY
@@ -576,7 +577,7 @@ DMG: 6
 WT: 18.0 Size: SMALL
 Class: ALL except
 Race: ALL
-Deity: Bertoxxulous Cazic-Thule Innoruuk Rallos Zek
+Deity: Bertoxxulous Cazic-Thule Innoruuk Rallos ZekDMG Bonus: 20 @ lvl 50
 |
 Saemey Wirewhisker |
 35 |
@@ -605,7 +606,7 @@ DMG: 6
 Effect: Spirit Strike (Combat, Rate +50%) at Level 35
 WT: 1.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 Jali Kaliio |
 25 |
@@ -706,7 +707,7 @@ Skill: Piercing Atk Delay: 32
 DMG: 5BACKSTAB: 5
 WT: 8.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM BST
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Soft Wicker GorgetSoft Wicker Gorget
 Slot: NECK
 AC: 3
@@ -792,7 +793,7 @@ Skill: Piercing Atk Delay: 21
 DMG: 4BACKSTAB: 4
 WT: 4.0 Size: SMALL
 Class: ALL except CLR PAL DRU MNK
-Race: ALL
+Race: ALLDMG Bonus: 10 @ lvl 50
 , Kobold MeatKobold Meat
 QUEST ITEM
 WT: 1.0 Size: SMALL
@@ -1048,7 +1049,7 @@ Skill: 1H Slashing Atk Delay: 30
 DMG: 7
 WT: 1.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 (Rare), Panda PeltPanda Pelt
 QUEST ITEM
 WT: 2.0 Size: MEDIUM
@@ -1078,7 +1079,7 @@ Skill: 1H Slashing Atk Delay: 30
 DMG: 7
 WT: 1.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 for the Wakizashi, these are your target. They have a seemingly higher chance than ... |
 A mountain spiritling
 |
@@ -1113,7 +1114,7 @@ Skill: 1H Slashing Atk Delay: 30
 DMG: 7
 WT: 1.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 (Rare), Panda PeltPanda Pelt
 QUEST ITEM
 WT: 2.0 Size: MEDIUM
@@ -1267,7 +1268,7 @@ Skill: 1H Slashing Atk Delay: 30
 DMG: 7
 WT: 1.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 (Rare), Panda PeltPanda Pelt
 QUEST ITEM
 WT: 2.0 Size: MEDIUM
@@ -1304,7 +1305,7 @@ Skill: 1H Slashing Atk Delay: 30
 DMG: 7
 WT: 1.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 (Rare), Panda PeltPanda Pelt
 QUEST ITEM
 WT: 2.0 Size: MEDIUM
@@ -1382,7 +1383,7 @@ DMG: 4BACKSTAB: 4
 AC: 2 DEX: +4
 WT: 3.0 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 , Ceramic DirkCeramic Dirk
 Slot: PRIMARY SECONDARY
 Skill: Piercing Atk Delay: 20
@@ -1391,7 +1392,7 @@ DEX: +2
 SV MAGIC: +3
 WT: 3.0 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 10 @ lvl 50
 , Bronze TantoBronze Tanto
 QUEST ITEM
 Slot: PRIMARY SECONDARY
@@ -1399,7 +1400,7 @@ Skill: Piercing Atk Delay: 22
 DMG: 3BACKSTAB: 3
 WT: 3.0 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 Description needed. |
 Chef Stead
@@ -1450,7 +1451,7 @@ Skill: Piercing Atk Delay: 19
 DMG: 3BACKSTAB: 3
 WT: 3.0 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 |
 Description Needed. |
 Ghost of Ridossan
@@ -1480,7 +1481,7 @@ STR: +4 WIS: +4
 SV MAGIC: +3
 WT: 1.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Gargantuan Panda PeltGargantuan Panda Pelt
 MAGIC ITEM NO DROP
 Slot: BACK
@@ -1529,7 +1530,7 @@ DMG: 6
 STR: +5
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 Blood Crusted Kobold MaceBlood Crusted Kobold Mace
 MAGIC ITEM LORE ITEM
 Slot: PRIMARY SECONDARY
@@ -1538,7 +1539,7 @@ DMG: 7
 STR: +3 HP: +5
 WT: 9.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 , Forlorn Totem of Rolfron ZekForlorn Totem of Rolfron Zek
 MAGIC ITEM
 Slot: PRIMARY SECONDARY
@@ -1727,7 +1728,7 @@ Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Blood Crusted Kobold MaceBlood Crusted Kobold Mace
 MAGIC ITEM LORE ITEM
 Slot: PRIMARY SECONDARY
@@ -1736,7 +1737,7 @@ DMG: 7
 STR: +3 HP: +5
 WT: 9.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 |
 All kobold in Camp 3 are PH. |
 Ridossan the Unliving
@@ -1754,7 +1755,8 @@ Warrior |
 30 |
 ? |
 Various |
-Placeholder can be any kobold in the zone. Sometimes roams. Sometimes drops nothing (trivial loot code). |
+Placeholder can be any kobold in the zone. Sometimes roams. Sometimes drops nothing (trivial loot code).
+Found him spaw... |
 Saemey Wirewhisker
 |
 Kerra |
@@ -1767,7 +1769,7 @@ Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Description needed. |
 Scout Malom
@@ -1878,7 +1880,7 @@ Skill: 2H Slashing Atk Delay: 40
 DMG: 13
 WT: 9.5 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 27 @ lvl 50
 |
 Rognarog the Infuriated |
 2H Slashing |
@@ -1891,7 +1893,7 @@ DMG: 11BACKSTAB: 11
 Effect: Weak Poison (Combat, Casting Time: Instant) at Level 15
 WT: 5.0 Size: MEDIUM
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Slyder the Ancient |
 Piercing |
@@ -1929,7 +1931,7 @@ Skill: 2H Blunt Atk Delay: 45
 DMG: 8
 WT: 14.0 Size: LARGE
 Class: ALL except BRD ROG NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 |
 a kobold spiritslaver |
 2H Blunt |
@@ -2071,7 +2073,7 @@ DMG: 4BACKSTAB: 4
 AC: 2 DEX: +4
 WT: 3.0 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 Arglar the Tormentor |
 Piercing |
@@ -2084,7 +2086,7 @@ DMG: 7
 STR: +3 HP: +5
 WT: 9.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 |
 Rendolr the Maimer |
 1H Blunt |
@@ -2109,7 +2111,7 @@ DMG: 6
 STR: +5
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 which mobs? |
 1H Slashing |
@@ -2240,7 +2242,7 @@ Skill: 1H Slashing Atk Delay: 32
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Rognarog the Infuriated, Any kobold |
 1H Slashing |
@@ -2431,7 +2433,7 @@ Skill: 1H Slashing Atk Delay: 28
 DMG: 7
 WT: 8.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 a highland kobold, Heretic Invader |
 1H Slashing |
@@ -2442,7 +2444,7 @@ Skill: 1H Slashing Atk Delay: 35
 DMG: 7
 WT: 9.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 |
 Jelquar the Soulslayer |
 1H Slashing |
@@ -2453,7 +2455,7 @@ Skill: 1H Slashing Atk Delay: 24
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: WAR PAL RNG SHD DRU BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 a highland kobold |
 1H Slashing |
@@ -2464,7 +2466,7 @@ Skill: Piercing Atk Delay: 19
 DMG: 3BACKSTAB: 3
 WT: 3.0 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 |
 a heretic invader |
 Piercing |
@@ -2475,7 +2477,7 @@ Skill: 1H Slashing Atk Delay: 23
 DMG: 4
 WT: 6.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 a highland kobold |
 1H Slashing |
@@ -2526,7 +2528,7 @@ STR: +4 WIS: +4
 SV MAGIC: +3
 WT: 1.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 Giang Yin |
 1H Slashing |
@@ -2733,7 +2735,7 @@ Skill: 1H Slashing Atk Delay: 30
 DMG: 7
 WT: 1.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Various |
 1H Slashing |
@@ -2911,7 +2913,7 @@ DMG: 13
 Effect: Lifespike (Combat, Casting Time: Instant) at Level 20
 WT: 0.4 Size: MEDIUM
 Class: SHD
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Jelquar the Soulslayer |
 1H Slashing |

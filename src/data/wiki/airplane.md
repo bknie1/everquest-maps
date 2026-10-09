@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-10-07
+fetched: 2026-10-09
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -519,7 +520,7 @@ STR: +5 DEX: +5 CHA: +5
 Effect: Chant of Battle (Combat, Casting Time: Instant) at Level 45
 WT: 3.5 Size: MEDIUM
 Class: BRD
-Race: ALL
+Race: ALLDMG Bonus: 10 @ lvl 50
 |
 Bard Test of Harmony
 |
@@ -862,7 +863,7 @@ SV DISEASE: +25 SV POISON: +25
 Effect: Blessing of the Theurgist (Combat, Casting Time: Instant) at Level 50
 WT: 4.0 Size: MEDIUM
 Class: CLR
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 Cleric Test of Theurgy
 |
@@ -887,7 +888,7 @@ Required Level: 49
 Cooldown: 600 seconds
 WT: 8.0 Size: MEDIUM
 Class: CLR
-Race: ALL
+Race: ALLDMG Bonus: 27 @ lvl 50
 |
 Cleric Test of The Weak
 |
@@ -950,7 +951,7 @@ CHA: +4 WIS: +9 AGI: +2 MANA: +50
 SV FIRE: +5
 WT: 4.0 Size: LARGE
 Class: DRU
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 Druid Test of Tree
 |
@@ -1005,7 +1006,7 @@ DEX: +9 WIS: +9 MANA: +50
 Effect: Combust (Combat, Casting Time: Instant) at Level 45
 WT: 2.0 Size: MEDIUM
 Class: DRU
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 Druid Test of Nature
 |
@@ -1238,7 +1239,7 @@ INT: +15 MANA: +75
 SV FIRE: +10 SV COLD: +20 SV POISON: +10
 WT: 4.0 Size: LARGE
 Class: MAG
-Race: ALL
+Race: ALLDMG Bonus: 33 @ lvl 50
 |
 Magician Test of Gesticulation
 |
@@ -1258,7 +1259,7 @@ Effect: Reclaim Energy (Any Slot/Can Equip, Casting Time: Instant) at Level 40
 Focus Effect: Servant of Air
 WT: 5.0 Size: LARGE
 Class: MAG
-Race: ALL
+Race: ALLDMG Bonus: 20 @ lvl 50
 |
 Magician Test of Displacement
 |
@@ -1355,7 +1356,7 @@ Skill: Hand to Hand Atk Delay: 22
 DMG: 16
 WT: 0.5 Size: TINY
 Class: MNK
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 Monk Test of Fists
 |
@@ -1492,7 +1493,7 @@ SV DISEASE: +25
 Effect: Tishan's Clash (Combat, Casting Time: Instant) at Level 50
 WT: 5.0 Size: LARGE
 Class: NEC
-Race: ALL
+Race: ALLDMG Bonus: 28 @ lvl 50
 |
 Necromancer Test of Hands
 |
@@ -1537,7 +1538,7 @@ DMG: 20
 STR: +10 STA: +10 WIS: +8
 WT: 2.0 Size: MEDIUM
 Class: PAL
-Race: ALL
+Race: ALL DMG Bonus: 13 @ lvl 50
 |
 Paladin Test of Sacrifice
 |
@@ -1677,7 +1678,7 @@ STR: +8 WIS: +8 HP: +50
 Effect: Shield of Brambles (Combat, Casting Time: Instant) at Level 45
 WT: 1.0 Size: MEDIUM
 Class: RNG
-Race: ALL
+Race: ALLDMG Bonus: 10 @ lvl 50
 |
 Ranger Test of Blade
 |
@@ -1815,7 +1816,7 @@ STR: +5 DEX: +5 AGI: +5 HP: +50
 Effect: Rampage (Combat, Casting Time: Instant) at Level 45
 WT: 2.0 Size: SMALL
 Class: ROG
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 |
 Rogue Test of Deception
 |
@@ -1951,7 +1952,7 @@ STR: +10 INT: +7
 Effect: Siphon (Combat, Casting Time: Instant) at Level 50
 Size: GIANT WT: 8.0
 Class: SHD
-Race: ALL
+Race: ALLDMG Bonus: 29 @ lvl 50
 |
 Shadow Knight Test of Necropotence
 |
@@ -2034,7 +2035,7 @@ DMG: 12
 WIS: +14 HP: +50 MANA: +50
 WT: 3.5 Size: LARGE
 Class: SHM
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 Shaman Test of Shrink
 |
@@ -2074,7 +2075,7 @@ WIS: +15 MANA: +75
 Effect: Tagar's Insects (Combat, Casting Time: Instant)
 WT: 6.0 Size: LARGE
 Class: SHM
-Race: ALL
+Race: ALLDMG Bonus: 20 @ lvl 50
 |
 Shaman Test of The Witch Doctor
 |
@@ -2173,7 +2174,7 @@ DMG: 11 AC: 20
 STR: +3 AGI: +2 HP: +100
 WT: 2.5 Size: MEDIUM
 Class: WAR
-Race: ALL
+Race: ALLDMG Bonus: 10 @ lvl 50
 |
 Warrior Test of Smash
 |
@@ -2194,7 +2195,7 @@ SV POISON: +5
 Effect: Fangol's Breath (Combat, Casting Time: Instant) at Level 50
 WT: 8.0 Size: GIANT
 Class: WAR
-Race: ALL
+Race: ALLDMG Bonus: 24 @ lvl 50
 |
 Warrior Test of Bash
 |
@@ -2314,7 +2315,7 @@ INT: +15 MANA: +75
 SV DISEASE: +25 SV MAGIC: +10
 WT: 4.0 Size: LARGE
 Class: WIZ
-Race: ALL
+Race: ALLDMG Bonus: 33 @ lvl 50
 |
 Wizard Test of Preparation
 |
@@ -2668,7 +2669,7 @@ Effect: Flame Shock (Combat, Casting Time: Instant) at Level 45
 Effect: Virtuous Bash (Worn)
 WT: 0.1 Size: LARGE
 Class: PAL
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 |
 Inte Akera |
 46 |
@@ -4475,7 +4476,7 @@ DMG: 12 AC: 5
 STA: +2 CHA: +2 INT: +5
 Size: LARGE WT: 2.0
 Class: NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 24 @ lvl 50
 |
 Noble Dojorn, Overseer of Air |
 2H Blunt |
@@ -4488,7 +4489,7 @@ DMG: 12
 MANA: +10
 WT: 0.1 Size: SMALL
 Class: WAR PAL RNG SHD DRU MNK BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 Noble Dojorn, Overseer of Air |
 1H Slashing |
@@ -4598,7 +4599,7 @@ Skill: Piercing Atk Delay: 40
 DMG: 15BACKSTAB: 15
 WT: 5.0 Size: MEDIUM
 Class: WAR BRD ROG SHM BST
-Race: ALL
+Race: ALLDMG Bonus: 20 @ lvl 50
 |
 Noble Dojorn, Overseer of Air |
 Piercing |

@@ -1,5 +1,5 @@
 # Highpass_Hold (eqlwiki.com)
-fetched: 2026-10-01
+fetched: 2026-10-09
 
 Highpass Hold - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -100,7 +101,7 @@ DMG: 6
 Effect: Berserker Strength (Combat, Casting Time: Instant) at Level 10
 WT: 6.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 , Shralok PackShralok Pack
 PENDING LORE
 WT: 0.4 Weight Reduction: 25%
@@ -120,7 +121,7 @@ Skill: 2H Slashing Atk Delay: 48
 DMG: 16
 WT: 15.0 Size: GIANT
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 33 @ lvl 50
 , Shiny Brass IdolShiny Brass Idol
 MAGIC ITEM LORE ITEM
 Slot: PRIMARY SECONDARY
@@ -230,7 +231,7 @@ Skill: 1H Slashing Atk Delay: 28
 DMG: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 (Ultra Rare)
 |
 Weak Warrior gnoll by the East Karana zoneline in Highpass Hold, by the "West Gate" which is ironically at the north end... |
@@ -247,7 +248,7 @@ Skill: 1H Slashing Atk Delay: 23
 DMG: 4
 Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 Description needed. |
 A Highpass Citizen
@@ -315,7 +316,7 @@ Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 (Rare)
 Gnoll ScalpGnoll Scalp
 WT: 0.1 Size: SMALL
@@ -345,7 +346,7 @@ Skill: 1H Blunt Atk Delay: 28
 DMG: 4
 WT: 6.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 (Rare)
 Words of EradicationWords of Eradication
 WT: 0.1 Size: TINY
@@ -358,7 +359,7 @@ Skill: 2H Blunt Atk Delay: 40
 DMG: 6
 WT: 10.0 Size: LARGE
 Class: ALL except BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 27 @ lvl 50
 (Rare)
 |
 Strongest of the three Shaman gnoll varieties near the East Karana zoneline in Highpass Hold, by the "West Gate" whi... |
@@ -374,7 +375,7 @@ Skill: 1H Blunt Atk Delay: 28
 DMG: 4
 WT: 6.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Gnoll ScalpGnoll Scalp
 WT: 0.1 Size: SMALL
 Class: ALL
@@ -393,7 +394,7 @@ Skill: 1H Blunt Atk Delay: 43
 DMG: 7
 WT: 11.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 21 @ lvl 50
 (Rare)
 Bronze WarhammerBronze Warhammer
 Slot: PRIMARY SECONDARY
@@ -401,7 +402,7 @@ Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 (Rare)
 Gnoll ScalpGnoll Scalp
 WT: 0.1 Size: SMALL
@@ -449,7 +450,7 @@ Skill: 1H Blunt Atk Delay: 32
 DMG: 5
 WT: 8.5 Size: LARGE
 Class: ALL
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 (Ultra Rare)
 Orc ScalpOrc Scalp
 WT: 0.1 Size: SMALL
@@ -467,7 +468,7 @@ Skill: 2H Blunt Atk Delay: 40
 DMG: 6
 WT: 10.0 Size: LARGE
 Class: ALL except BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 27 @ lvl 50
 (Ultra Rare)
 |
 Weakest of the Shaman orcs besieging Highpass Hold, ranked below an orc medic. |
@@ -571,7 +572,7 @@ Skill: 2H Blunt Atk Delay: 40
 DMG: 6
 WT: 10.0 Size: LARGE
 Class: ALL except BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 27 @ lvl 50
 (Ultra Rare)
 |
 Strongest of the Shaman-class orcs besieging Highpass Hold, ranked above an orc medic.
@@ -623,7 +624,7 @@ DMG: 4BACKSTAB: 4
 HP: +2
 WT: 2.4 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 |
 GM rogue hidden away in the smugglers' tunnels near High Keep. He is able to spawn Stanos Herkanor for any rogue... |
 Bartender
@@ -670,7 +671,7 @@ Skill: Piercing Atk Delay: 32
 DMG: 5BACKSTAB: 5
 WT: 8.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , PearlPearl
 Quest
 Size: TINY WT: 0.1
@@ -724,7 +725,7 @@ Skill: 1H Slashing Atk Delay: 23
 DMG: 4
 Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 , Rusty Long SwordRusty Long Sword
 Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
@@ -732,7 +733,7 @@ Skill: 1H Slashing Atk Delay: 35
 DMG: 5
 Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 |
 Captain Ashlan spawns in two different areas, both are in the pass itself not the keep. One is up the steps near the Kit... |
 Captain Orben
@@ -748,7 +749,7 @@ Skill: 1H Slashing Atk Delay: 23
 DMG: 4
 Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 Found around the northern guard lookout/arch/bridge area, near the zoneline with Eastern Plains of Karana. Often surroun... |
 Commander Thafer
@@ -797,14 +798,14 @@ Skill: Piercing Atk Delay: 22
 DMG: 3BACKSTAB: 3
 WT: 3.0 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 , Bronze SpearBronze Spear
 Slot: PRIMARY
 Skill: Piercing Atk Delay: 32
 DMG: 5BACKSTAB: 5
 WT: 8.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Silver AmuletSilver Amulet
 Attunable
 Slot: NECK
@@ -869,7 +870,7 @@ DMG: 6
 Effect: Berserker Strength (Combat, Casting Time: Instant) at Level 10
 WT: 6.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 (Common)
 |
 Highpass: Shares a spawn with Vexven Mucktail. Placeholder is a gnoll flamepaw. Begins pathing away shortly ... |
@@ -926,7 +927,7 @@ Skill: 2H Slashing Atk Delay: 48
 DMG: 16
 WT: 15.0 Size: GIANT
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 33 @ lvl 50
 |
 Rare spawn, five minute respawn. |
 Jovan
@@ -1050,7 +1051,7 @@ Skill: Piercing Atk Delay: 27
 DMG: 5BACKSTAB: 5
 WT: 5.0 Size: MEDIUM
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 , Bayle List IBayle List I
 LORE ITEM NO DROP
 WT: 0.0 Size: TINY
@@ -1117,14 +1118,14 @@ DMG: 4BACKSTAB: 4
 HP: +2
 WT: 2.4 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 , DaggerDagger
 Slot: PRIMARY SECONDARY
 Skill: Piercing Atk Delay: 20
 DMG: 3BACKSTAB: 3
 WT: 2.5 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 10 @ lvl 50
 , Head of StanosHead of Stanos
 LORE ITEM NO DROP
 WT: 0.5 Size: MEDIUM
@@ -1278,7 +1279,7 @@ DMG: 6
 Effect: Berserker Strength (Combat, Casting Time: Instant) at Level 10
 WT: 6.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Grenix Mucktail |
 1H Slashing |
@@ -1299,7 +1300,7 @@ Skill: 2H Slashing Atk Delay: 48
 DMG: 16
 WT: 15.0 Size: GIANT
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 33 @ lvl 50
 |
 Hagnis Shralok |
 2H Slashing |

@@ -1,5 +1,5 @@
 # Blackburrow (eqlwiki.com)
-fetched: 2026-09-30
+fetched: 2026-10-09
 
 Blackburrow - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -122,7 +123,7 @@ Skill: Piercing Atk Delay: 27
 DMG: 5BACKSTAB: 5
 WT: 5.0 Size: MEDIUM
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 , Onyx EarringOnyx Earring
 MAGIC ITEM
 Slot: EAR
@@ -141,7 +142,7 @@ DMG: 3 AC: 3
 Effect: Stun (Combat, Casting Time: Instant) at Level 25
 WT: 3.0 Size: TINY
 Class: WAR RNG BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 10 @ lvl 50
 , Runed Totem StaffRuned Totem Staff
 Lore Equipped, Attunable, Quest, Placeable
 Slot: PRIMARY
@@ -150,7 +151,7 @@ DMG: 9
 HP: +5 MANA: +5 END: +5
 Size: LARGE WT: 11.0
 Class: CLR DRU SHM NEC WIZ MAG ENC BST BER
-Race: ALL
+Race: ALLDMG Bonus: 25 @ lvl 50
 , Ill-Fitting Robes
 |
 Related Quests:
@@ -535,7 +536,7 @@ DMG: 7
 WT: 3.5 Size: SMALL
 Class: MNK BST
 Race: ALL
-Combat Effect: Laceration (Req Level 15)
+Combat Effect: Laceration (Req Level 15)DMG Bonus: 12 @ lvl 50
 |
 One of two variants residing in Blackburrow, both having separate loot tables. The monk refugee can be found southwest o... |
 Sabertooth Clan Necromancer
@@ -863,7 +864,7 @@ DMG: 3 AC: 3
 Effect: Stun (Combat, Casting Time: Instant) at Level 25
 WT: 3.0 Size: TINY
 Class: WAR RNG BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 10 @ lvl 50
 |
 Splitpaw Commander |
 1H Slashing |
@@ -1045,7 +1046,7 @@ DMG: 9
 HP: +5 MANA: +5 END: +5
 Size: LARGE WT: 11.0
 Class: CLR DRU SHM NEC WIZ MAG ENC BST BER
-Race: ALL
+Race: ALLDMG Bonus: 25 @ lvl 50
 |
 Refugee Splitpaw |
 2H Blunt |
@@ -1083,7 +1084,7 @@ DMG: 7
 WT: 3.5 Size: SMALL
 Class: MNK BST
 Race: ALL
-Combat Effect: Laceration (Req Level 15)
+Combat Effect: Laceration (Req Level 15)DMG Bonus: 12 @ lvl 50
 |
 Refugee Splitpaw (Monk) |
 Hand to Hand |

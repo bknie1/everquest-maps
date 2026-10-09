@@ -1,5 +1,5 @@
 # Befallen (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-10-09
 
 Befallen - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -130,7 +131,7 @@ DMG: 17
 AGI: -8
 WT: 10.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 ,
 Chipped Bone RodChipped Bone Rod
 MAGIC ITEM
@@ -148,7 +149,7 @@ DMG: 3
 INT: +3 MANA: +15
 WT: 2.0 Range: 40 Size: SMALL
 Class: NEC
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 , Damask Armor, Ebon ScytheEbon Scythe
 MAGIC ITEM LORE ITEM
 Slot: PRIMARY
@@ -158,7 +159,7 @@ STR: +5 CHA: -10 INT: +2 MANA: +5
 SV DISEASE: -5 SV POISON: -5
 WT: 15.0 Size: LARGE
 Class: WAR SHD BER
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 , Enchanted Fine Steel RapierEnchanted Fine Steel Rapier
 Attunable, Placeable
 Slot: PRIMARY SECONDARY
@@ -167,7 +168,7 @@ DMG: 5BACKSTAB: 5
 STR: +2 AGI: +5
 WT: 4.5 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 ,
 Gossamer Armor, Icon of the ArdentIcon of the Ardent
 MAGIC ITEM LORE ITEM NO DROP
@@ -191,7 +192,7 @@ DEX: +2
 SV POISON: +10
 WT: 0.8 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 ,
 Thaumaturgist's RobeThaumaturgist's Robe
 MAGIC ITEM
@@ -218,7 +219,7 @@ DMG: 10
 DEX: +5 STA: +5 HP: +5
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Related Quests:
 |
@@ -493,7 +494,7 @@ DMG: 17
 AGI: -8
 WT: 10.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 ? (Ultra Rare), Chipped Bone RodChipped Bone Rod
 MAGIC ITEM
 Slot: PRIMARY SECONDARY
@@ -539,7 +540,7 @@ DMG: 17
 AGI: -8
 WT: 10.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 (Uncommon), Splintered Wooden KeySplintered Wooden Key
 WT: 0.1 Size: TINY
 Class: ALL
@@ -625,7 +626,7 @@ DMG: 7
 STR: +2 WIS: +5
 WT: 9.0 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 , Ebon ScytheEbon Scythe
 MAGIC ITEM LORE ITEM
 Slot: PRIMARY
@@ -635,7 +636,7 @@ STR: +5 CHA: -10 INT: +2 MANA: +5
 SV DISEASE: -5 SV POISON: -5
 WT: 15.0 Size: LARGE
 Class: WAR SHD BER
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 |
 |
 Baron Telyx V`Zher
@@ -662,7 +663,7 @@ DMG: 10
 DEX: +5 STA: +5 HP: +5
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 (Rare) |
 |
 Boondin Babbinsbort
@@ -682,7 +683,7 @@ Skill: Piercing Atk Delay: 20
 DMG: 3BACKSTAB: 3
 WT: 2.5 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 10 @ lvl 50
 |
 Hits for 52 max (pet hits for 26, bashes for 8).
 Casts the following buffs when he spawns: Leatherskin, [[Haunting ... |
@@ -717,7 +718,7 @@ DMG: 15
 STR: +5 CHA: -5 HP: +15
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 26 @ lvl 50
 |
 |
 Gynok Moltor
@@ -801,7 +802,7 @@ DMG: 20
 STR: +7
 WT: 8.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BER
-Race: ALL
+Race: ALLDMG Bonus: 28 @ lvl 50
 , Enchanted Fine Steel Long SwordEnchanted Fine Steel Long Sword
 Attunable, Placeable
 Slot: PRIMARY SECONDARY
@@ -810,7 +811,7 @@ DMG: 7
 STR: +5 AGI: +2
 WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 |
 Korven Nisere
@@ -827,7 +828,7 @@ DMG: 5BACKSTAB: 5
 STR: +2 AGI: +5
 WT: 4.5 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 (Common), Shimmering Ruby StilettoShimmering Ruby Stiletto
 No Trade, Placeable
 Slot: PRIMARY SECONDARY
@@ -838,7 +839,7 @@ DEX: +2
 SV POISON: +10
 WT: 0.8 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 (Rare) |
 |
 Priest Amiaz
@@ -884,7 +885,7 @@ Skill: 1H Blunt Atk Delay: 27
 DMG: 4
 WT: 4.9 Size: MEDIUM
 Class: ALL
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 , Pristine Studded Leather BootsPristine Studded Leather Boots
 Lore Equipped, No Trade
 Slot: FEET
@@ -985,7 +986,7 @@ DMG: 17
 AGI: -8
 WT: 10.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 |
 a shadowknight (Troll) |
 2H Slashing |
@@ -1018,7 +1019,7 @@ DMG: 3
 INT: +3 MANA: +15
 WT: 2.0 Range: 40 Size: SMALL
 Class: NEC
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 the thaumaturgist |
 Piercing |
@@ -1153,7 +1154,7 @@ STR: +5 CHA: -10 INT: +2 MANA: +5
 SV DISEASE: -5 SV POISON: -5
 WT: 15.0 Size: LARGE
 Class: WAR SHD BER
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 |
 Asaka L`Rei |
 2H Slashing |
@@ -1166,7 +1167,7 @@ DMG: 20
 STR: +7
 WT: 8.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BER
-Race: ALL
+Race: ALLDMG Bonus: 28 @ lvl 50
 |
 Knight V`Tal |
 2H Slashing |
@@ -1192,7 +1193,7 @@ DMG: 7
 STR: +5 AGI: +2
 WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 Knight V`Tal |
 1H Slashing |
@@ -1205,7 +1206,7 @@ DMG: 7
 STR: +2 WIS: +5
 WT: 9.0 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Asaka L`Rei |
 1H Blunt |
@@ -1218,7 +1219,7 @@ DMG: 5BACKSTAB: 5
 STR: +2 AGI: +5
 WT: 4.5 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 |
 Korven Nisere |
 Piercing |
@@ -1375,7 +1376,7 @@ DEX: +2
 SV POISON: +10
 WT: 0.8 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Korven Nisere |
 Piercing |
@@ -1388,7 +1389,7 @@ DMG: 15
 STR: +5 CHA: -5 HP: +15
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 26 @ lvl 50
 |
 Footman of V`Zher |
 2H Slashing |
@@ -1454,7 +1455,7 @@ DMG: 10
 DEX: +5 STA: +5 HP: +5
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Baron Telyx V`Zher |
 1H Slashing |

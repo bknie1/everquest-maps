@@ -1,5 +1,5 @@
 # The_Feerrott (eqlwiki.com)
-fetched: 2026-10-07
+fetched: 2026-10-09
 
 The Feerrott - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -101,7 +102,7 @@ Skill: Hand to Hand Atk Delay: 27
 DMG: 4
 WT: 5.0 Size: MEDIUM
 Class: MNK
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Related Quests:
 |
@@ -762,7 +763,7 @@ Skill: 1H Slashing Atk Delay: 33
 DMG: 5
 WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Cyndreela |
 1H Slashing |
@@ -782,7 +783,7 @@ Skill: 1H Blunt Atk Delay: 37
 DMG: 6
 WT: 10.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 18 @ lvl 50
 |
 Cyndreela |
 1H Blunt |
@@ -794,7 +795,7 @@ Skill: Piercing Atk Delay: 23
 DMG: 3BACKSTAB: 3
 WT: 4.0 Size: SMALL
 Class: WAR RNG SHD BRD ROG SHM NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 Cyndreela |
 Piercing |
@@ -805,7 +806,7 @@ Skill: 1H Blunt Atk Delay: 35
 DMG: 5
 WT: 6.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 |
 Cyndreela |
 1H Blunt |

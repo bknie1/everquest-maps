@@ -1,5 +1,5 @@
 # Qeynos_Hills (eqlwiki.com)
-fetched: 2026-09-27
+fetched: 2026-10-09
 
 Qeynos Hills - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -98,7 +99,7 @@ WIS: +5 MANA: +30
 WT: 3.5 Size: MEDIUM
 Class: WAR CLR PAL RNG DRU BRD
 Race: ALL
-Deity: Karana
+Deity: KaranaDMG Bonus: 22 @ lvl 50
 , Fishbone EarringFishbone Earring
 MAGIC ITEM LORE ITEM
 Slot: EAR
@@ -123,7 +124,7 @@ DMG: 6
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
-Bane Dmg: Gnoll 5
+Bane Dmg: Gnoll 5DMG Bonus: 14 @ lvl 50
 |
 Related Quests:
 |
@@ -219,7 +220,7 @@ DMG: 6
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
-Bane Dmg: Gnoll 5
+Bane Dmg: Gnoll 5DMG Bonus: 14 @ lvl 50
 , Gnoll Slayer (final)Gnoll Slayer (final)
 Lore, No Trade
 Slot: PRIMARY SECONDARY
@@ -231,7 +232,7 @@ Effect: Companion Spirit (Any Slot/Can Equip, Casting Time: Instant) at Level 34
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
-Bane Dmg: Gnoll 10
+Bane Dmg: Gnoll 10DMG Bonus: 20 @ lvl 50
 |
 Marton Sayer |
 30 |
@@ -603,7 +604,7 @@ Skill: 1H Slashing Atk Delay: 32
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: WAR PAL RNG SHD DRU BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Sits at the fire outside of Surefall with his sister. Will roam up the road toward Qeynos periodically... |
 Barn Bloodstone
@@ -618,7 +619,7 @@ Skill: Piercing Atk Delay: 20
 DMG: 3BACKSTAB: 3
 WT: 2.5 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 10 @ lvl 50
 |
 When hailed, he speaks of the Golden Rooster bar and Blackburrow Stout. One of the possibly 24 minute spawns in Qeyn... |
 Buzzlin Bornahm
@@ -696,7 +697,7 @@ Skill: 1H Slashing Atk Delay: 23
 DMG: 4
 Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 , Guard BraceletGuard Bracelet
 NO DROP
 Slot: WRIST
@@ -727,7 +728,7 @@ Skill: 1H Slashing Atk Delay: 23
 DMG: 4
 Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 Paths between the two listed locations. |
 Guard Lammel
@@ -775,7 +776,7 @@ Skill: 1H Slashing Atk Delay: 23
 DMG: 4
 Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 , Guard BraceletGuard Bracelet
 NO DROP
 Slot: WRIST
@@ -846,7 +847,7 @@ Skill: 1H Slashing Atk Delay: 27
 DMG: 4
 WT: 6.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 She walks around Qeynos Hills and will attack you if you are attacking any bear or wolf. |
 Konem Matse
@@ -984,7 +985,7 @@ Skill: Piercing Atk Delay: 24
 DMG: 3BACKSTAB: 3
 WT: 2.5 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 , Tovaxs Necklace |
 Only Spawns at night 9pm and despawns at 7am Norrath time. This guy killed my low lvl ranger, hit for 44 damage max. He ... |
 Tovax Vmar Pet
@@ -1062,7 +1063,7 @@ Skill: 2H Slashing Atk Delay: 46
 DMG: 9
 WT: 14.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 31 @ lvl 50
 |
 Niclaus Ressinn |
 2H Slashing |
@@ -1094,7 +1095,7 @@ WIS: +5 MANA: +30
 WT: 3.5 Size: MEDIUM
 Class: WAR CLR PAL RNG DRU BRD
 Race: ALL
-Deity: Karana
+Deity: KaranaDMG Bonus: 22 @ lvl 50
 |
 Defiled Grizzly |
 2H Blunt |

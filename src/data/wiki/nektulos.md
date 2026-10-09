@@ -1,5 +1,5 @@
 # Nektulos_Forest (eqlwiki.com)
-fetched: 2026-10-07
+fetched: 2026-10-09
 
 Nektulos Forest - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -165,7 +166,7 @@ SV FIRE: +5 SV DISEASE: +15 SV COLD: +5 SV MAGIC: +10 SV POISON: +15
 Effect: Torment of Shadows (Must Equip, Casting Time: 9.0) at Level 50
 WT: 5.0 Size: MEDIUM
 Class: NEC
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 |
 Venenzi Oberzendi |
 Start Zone: |
@@ -402,7 +403,7 @@ Skill: Piercing Atk Delay: 27
 DMG: 5BACKSTAB: 5
 WT: 5.0 Size: MEDIUM
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Added in Mar2002 update to Nektulos[https://web.archive.org/web/20020421200608/http://eqbeastiary.allakhazam.com:80/sear... |
 A darkwater piranha
@@ -651,7 +652,7 @@ Skill: 1H Slashing Atk Delay: 32
 DMG: 5
 Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Guards The Bridge in Nektulos Forest. |
 Corporal X`Horn
@@ -667,7 +668,7 @@ Skill: 1H Slashing Atk Delay: 35
 DMG: 5
 Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 , Bronze Long SwordBronze Long Sword
 Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
@@ -675,7 +676,7 @@ Skill: 1H Slashing Atk Delay: 32
 DMG: 5
 Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Description needed. |
 Corporal X`Tis
@@ -691,7 +692,7 @@ Skill: 1H Slashing Atk Delay: 32
 DMG: 5
 Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Description Needed. |
 Dragoon J`Len
@@ -709,7 +710,7 @@ DEX: +2
 SV MAGIC: +3
 WT: 2.5 Size: SMALL
 Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 (Rare)
 |
 Guards the entrance to the city of Neriak - High MR but is slowable/charmable
@@ -784,7 +785,7 @@ Skill: 1H Slashing Atk Delay: 32
 DMG: 5
 Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Can spawn guarding the Lavastorm entrance. Rotates spawns with Guard V'Ehn and Guard Z'Den. Respawn time of 6 minutes 40... |
 Guard E`Brona
@@ -800,7 +801,7 @@ Skill: 1H Slashing Atk Delay: 32
 DMG: 5
 Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 (Uncommon)
 |
 Description needed. |
@@ -833,7 +834,7 @@ Skill: 1H Slashing Atk Delay: 32
 DMG: 5
 Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Guards the Lavastorm entrance. Rotates spawns with Guard V'Ehn and Guard Z'Den. Respawn time of 6 minutes 40 seconds. |
 Guard N`Lan
@@ -849,7 +850,7 @@ Skill: 1H Slashing Atk Delay: 32
 DMG: 5
 Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Description needed. |
 Guard T`Aba
@@ -865,7 +866,7 @@ Skill: 1H Slashing Atk Delay: 32
 DMG: 5
 Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Description Needed. |
 Guard T`Quetal
@@ -881,7 +882,7 @@ Skill: 1H Slashing Atk Delay: 32
 DMG: 5
 Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Description needed. |
 Guard V`Ehn
@@ -897,7 +898,7 @@ Skill: 1H Slashing Atk Delay: 32
 DMG: 5
 Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Guards the Lavastorm entrance. Rotates spawns with Guard Z'Den and Guard G'Var.
 Respawn time of 6 minutes 40 seconds. |
@@ -914,7 +915,7 @@ Skill: 1H Slashing Atk Delay: 32
 DMG: 5
 Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Description needed. |
 Guard X`Onnu
@@ -930,7 +931,7 @@ Skill: 1H Slashing Atk Delay: 32
 DMG: 5
 Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 (Uncommon)
 |
 Description needed. |
@@ -947,7 +948,7 @@ Skill: 1H Slashing Atk Delay: 32
 DMG: 5
 Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Can be found guarding the Lavastorm entrance. Rotates spawns with Guard V'Ehn and Guard G'Var. Respawn time of 6 minutes... |
 Hamer
@@ -1099,7 +1100,7 @@ Skill: 1H Blunt Atk Delay: 28
 DMG: 4
 WT: 6.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Leatherfoot Raider Skullcap (drop)Leatherfoot Raider Skullcap (drop)
 Slot: HEAD
 AC: 4
@@ -1265,7 +1266,7 @@ Skill: Piercing Atk Delay: 32
 DMG: 4BACKSTAB: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Leatherfoot Short BowLeatherfoot Short Bow
 Slot: RANGE
 Skill: Archery Atk Delay: 41
@@ -1469,7 +1470,7 @@ Skill: 1H Slashing Atk Delay: 35
 DMG: 7
 WT: 8.5 Size: MEDIUM
 Class: WAR
-Race: NONE
+Race: NONEDMG Bonus: 17 @ lvl 50
 |
 a shadowed man |
 1H Slashing |
@@ -1490,7 +1491,7 @@ Skill: 1H Slashing Atk Delay: 25
 DMG: 5
 WT: 7.5 Size: MEDIUM
 Class: WAR
-Race: NONE
+Race: NONEDMG Bonus: 12 @ lvl 50
 |
 a shadowed man |
 1H Slashing |
@@ -1502,7 +1503,7 @@ Skill: 2H Blunt Atk Delay: 51
 DMG: 13
 WT: 13.0 Size: LARGE
 Class: WAR
-Race: NONE
+Race: NONEDMG Bonus: 34 @ lvl 50
 |
 a shadowed man |
 2H Blunt |
@@ -1514,7 +1515,7 @@ Skill: 2H Slashing Atk Delay: 45
 DMG: 12
 WT: 12.0 Size: LARGE
 Class: WAR
-Race: NONE
+Race: NONEDMG Bonus: 30 @ lvl 50
 |
 a shadowed man |
 2H Slashing |
@@ -1526,7 +1527,7 @@ Skill: 2H Blunt Atk Delay: 40
 DMG: 10
 WT: 2.0 Size: LARGE
 Class: ALL
-Race: ALL
+Race: ALLDMG Bonus: 27 @ lvl 50
 |
 None? |
 2H Blunt |

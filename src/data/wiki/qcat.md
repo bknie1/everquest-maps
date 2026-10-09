@@ -1,5 +1,5 @@
 # Qeynos_Catacombs (eqlwiki.com)
-fetched: 2026-10-02
+fetched: 2026-10-09
 
 Qeynos Aqueducts - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -329,7 +330,7 @@ Required level of 46.
 Effect: Seething Fury (Worn)
 WT: 2.5 Size: SMALL
 Class: ROG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 Malka Rale |
 Start Zone: |
@@ -346,7 +347,7 @@ DMG: 16
 SV MAGIC: +15
 WT: 13.0 Size: LARGE
 Class: SHD
-Race: ALL
+Race: ALLDMG Bonus: 31 @ lvl 50
 |
 Commander Kane |
 25 |
@@ -502,7 +503,7 @@ Skill: 1H Slashing Atk Delay: 35
 DMG: 5
 Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 |
 Description needed. |
 A Shark (Qeynos Aqueducts)
@@ -692,7 +693,7 @@ Skill: 1H Slashing Atk Delay: 42
 DMG: 6
 WT: 8.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 21 @ lvl 50
 |
 A placeholder for a shady mercenary |
 A piranha
@@ -854,7 +855,7 @@ Skill: 1H Slashing Atk Delay: 35
 DMG: 5
 Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 |
 Description needed. |
 An injured brigand
@@ -930,7 +931,7 @@ DMG: 17
 Effect: Heat Blood (Combat, Casting Time: Instant)
 WT: 4.0 Size: MEDIUM
 Class: SHD
-Race: ALL
+Race: ALLDMG Bonus: 27 @ lvl 50
 |
 Azibelle is spawned for the Qeynos Badge of Honor quest. There are some other pathing NPCs around that will not social a... |
 Banker Javen
@@ -1009,7 +1010,7 @@ Skill: 2H Blunt Atk Delay: 45
 DMG: 7
 WT: 13.0 Size: LARGE
 Class: ALL except BRD ROG NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 |
 Description needed. |
 Chou Whinstone
@@ -1224,7 +1225,7 @@ Skill: Piercing Atk Delay: 19
 DMG: 3BACKSTAB: 3
 WT: 2.4 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 |
 Spawns at night (in place of a courier) in the Qeynos Aqueducts at #15 (lower most 15) on the map |
 Marn Darkson
@@ -1252,7 +1253,7 @@ Skill: 1H Slashing Atk Delay: 34
 DMG: 5
 WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 |
 Description needed. |
 Morn Darkson
@@ -1307,7 +1308,7 @@ Skill: 1H Blunt Atk Delay: 32
 DMG: 5
 WT: 8.5 Size: LARGE
 Class: ALL
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Jade Shard |
 Watches the pool of sharks at the bottom of the Aqueducts trap with his buddy Neab. They both attack passing critter... |
 Pakeg Aspet
@@ -1403,7 +1404,7 @@ Skill: 2H Slashing Atk Delay: 44
 DMG: 12
 WT: 11.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 |
 Leader of the Bloodsabers Shadowknights found within the evil underground Qeynos Aqueducts. |
 Tessia Sowtsui
@@ -1435,7 +1436,7 @@ Skill: 1H Slashing Atk Delay: 35
 DMG: 5
 Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 Cloth GlovesCloth Gloves
 Slot: HANDS
 AC: 2
@@ -1506,7 +1507,7 @@ Skill: 2H Blunt Atk Delay: 45
 DMG: 7
 WT: 13.0 Size: LARGE
 Class: ALL except BRD ROG NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 |
 Very fitting name for a guy who worships Bertoxxulous. |
 Xeture Demiagar
@@ -1632,7 +1633,7 @@ DMG: 17
 Effect: Heat Blood (Combat, Casting Time: Instant)
 WT: 4.0 Size: MEDIUM
 Class: SHD
-Race: ALL
+Race: ALLDMG Bonus: 27 @ lvl 50
 |
 a rotting sentry, Azibelle Spavin |
 2H Slashing |
@@ -1655,7 +1656,7 @@ Skill: Piercing Atk Delay: 23
 DMG: 8BACKSTAB: 8
 WT: 1.5 Size: SMALL
 Class: WAR SHD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 a spectre |
 Piercing |

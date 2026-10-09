@@ -1,5 +1,5 @@
 # Kaladim (eqlwiki.com)
-fetched: 2026-10-01
+fetched: 2026-10-09
 
 Kaladim - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -317,14 +318,14 @@ Skill: 2H Slashing Atk Delay: 56
 DMG: 10
 WT: 14.0 Size: GIANT
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 , Rusty WarhammerRusty Warhammer
 Slot: RANGE PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 30
 DMG: 4
 WT: 7.5 Range: 40 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 , Small Patchwork BootsSmall Patchwork Boots
 Slot: FEET
 AC: 3
@@ -371,7 +372,7 @@ STR: +3 STA: +3 AGI: +3
 SV MAGIC: +5
 WT: 11.5 Size: LARGE
 Class: WAR
-Race: ALL
+Race: ALLDMG Bonus: 29 @ lvl 50
 |
 Beno Targnarle |
 20 |
@@ -940,7 +941,7 @@ Skill: 2H Blunt Atk Delay: 50
 DMG: 17
 WT: 13.0 Size: LARGE
 Class: ALL except BRD ROG NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 |
 Furtog Ogrebane |
 20 |
@@ -957,7 +958,7 @@ DMG: 13
 SV MAGIC: +10
 WT: 10.0 Size: LARGE
 Class: ALL except BRD ROG NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 |
 Byzar Bloodforge |
 10 |
@@ -978,7 +979,7 @@ Skill: 1H Slashing Atk Delay: 26
 DMG: 6
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 This dwarf guard can be found near King Kazon Stormhammer's castle. Mezzable. |
 Aarina Ratsbone
@@ -1042,7 +1043,7 @@ Skill: 1H Slashing Atk Delay: 26
 DMG: 6
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 This dwarf guard can be found near King Kazon Stormhammer's castle. |
 Bronlor Lightblade
@@ -1137,7 +1138,7 @@ Skill: 1H Slashing Atk Delay: 26
 DMG: 6
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Description needed. |
 Guard Adolmer
@@ -1152,7 +1153,7 @@ Skill: 1H Slashing Atk Delay: 26
 DMG: 6
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Description needed. |
 Guard Anathur
@@ -1168,7 +1169,7 @@ Skill: 1H Slashing Atk Delay: 35
 DMG: 7
 Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 , Small Kite ShieldSmall Kite Shield
 Attunable, Placeable
 Slot: SECONDARY
@@ -1190,7 +1191,7 @@ Skill: 1H Slashing Atk Delay: 26
 DMG: 6
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Description needed. |
 Guard Bobbin
@@ -1205,7 +1206,7 @@ Skill: 1H Slashing Atk Delay: 26
 DMG: 6
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Description needed. |
 Guard Cardaff
@@ -1221,7 +1222,7 @@ Skill: 1H Slashing Atk Delay: 35
 DMG: 7
 Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 , Small Kite ShieldSmall Kite Shield
 Attunable, Placeable
 Slot: SECONDARY
@@ -1243,7 +1244,7 @@ Skill: 1H Slashing Atk Delay: 26
 DMG: 6
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Description needed. |
 Guard Dinamin
@@ -1258,7 +1259,7 @@ Skill: 1H Slashing Atk Delay: 26
 DMG: 6
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Description needed. |
 Guard Dinler
@@ -1274,7 +1275,7 @@ Skill: 1H Slashing Atk Delay: 35
 DMG: 7
 Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 , Small Kite ShieldSmall Kite Shield
 Attunable, Placeable
 Slot: SECONDARY
@@ -1297,7 +1298,7 @@ Skill: 1H Slashing Atk Delay: 35
 DMG: 7
 Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 , Small Kite ShieldSmall Kite Shield
 Attunable, Placeable
 Slot: SECONDARY
@@ -1319,7 +1320,7 @@ Skill: 1H Slashing Atk Delay: 26
 DMG: 6
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Description needed. |
 Guard Humkor
@@ -1335,7 +1336,7 @@ Skill: 1H Slashing Atk Delay: 35
 DMG: 7
 Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 , Small Kite ShieldSmall Kite Shield
 Attunable, Placeable
 Slot: SECONDARY
@@ -1357,7 +1358,7 @@ Skill: 1H Slashing Atk Delay: 26
 DMG: 6
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Description needed. |
 Guard Kanuf
@@ -1372,7 +1373,7 @@ Skill: 1H Slashing Atk Delay: 26
 DMG: 6
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Description needed. |
 Guard Kathur
@@ -1387,7 +1388,7 @@ Skill: 1H Slashing Atk Delay: 26
 DMG: 6
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Description needed. |
 Guard Kindor
@@ -1403,7 +1404,7 @@ Skill: 1H Slashing Atk Delay: 35
 DMG: 7
 Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 , Small Kite ShieldSmall Kite Shield
 Attunable, Placeable
 Slot: SECONDARY
@@ -1426,7 +1427,7 @@ Skill: 1H Slashing Atk Delay: 35
 DMG: 7
 Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 , Small Kite ShieldSmall Kite Shield
 Attunable, Placeable
 Slot: SECONDARY
@@ -1448,7 +1449,7 @@ Skill: 1H Slashing Atk Delay: 26
 DMG: 6
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Description needed. |
 Guard Ninaf
@@ -1463,7 +1464,7 @@ Skill: 1H Slashing Atk Delay: 26
 DMG: 6
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Description needed. |
 Guard Stump
@@ -1479,7 +1480,7 @@ Skill: 1H Slashing Atk Delay: 35
 DMG: 7
 Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 , Small Kite ShieldSmall Kite Shield
 Attunable, Placeable
 Slot: SECONDARY
@@ -1501,7 +1502,7 @@ Skill: 1H Slashing Atk Delay: 26
 DMG: 6
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Description needed. |
 Gurtha Yaptongue
@@ -1593,7 +1594,7 @@ Skill: 1H Slashing Atk Delay: 35
 DMG: 7
 Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 , Small Kite ShieldSmall Kite Shield
 Attunable, Placeable
 Slot: SECONDARY
@@ -1644,7 +1645,7 @@ Skill: 1H Slashing Atk Delay: 35
 DMG: 7
 Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 |
 Various |
 1H Slashing |
@@ -1655,7 +1656,7 @@ Skill: 1H Slashing Atk Delay: 26
 DMG: 6
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Most (all?) Guards |
 1H Slashing |
@@ -1727,14 +1728,14 @@ Skill: 1H Slashing Atk Delay: 36
 DMG: 5
 WT: 6.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 18 @ lvl 50
 , Rusty Broad SwordRusty Broad Sword
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 36
 DMG: 5
 WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 18 @ lvl 50
 , Rusty MaceRusty Mace
 Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
@@ -1742,14 +1743,14 @@ Skill: 1H Blunt Atk Delay: 38
 DMG: 5
 Size: MEDIUM WT: 8.0
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 , Rusty Two Handed SwordRusty Two Handed Sword
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 50
 DMG: 9
 WT: 12.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 , Small LanternSmall Lantern
 Attunable, Quest, Placeable
 Slot: SECONDARY
@@ -1926,7 +1927,7 @@ Skill: Piercing Atk Delay: 31
 DMG: 7BACKSTAB: 7
 WT: 6.5 Size: MEDIUM
 Class: ROG
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Diggins |
 18 |
@@ -1995,28 +1996,28 @@ Skill: Piercing Atk Delay: 24
 DMG: 3BACKSTAB: 3
 WT: 2.5 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 , Rusty RapierRusty Rapier
 Slot: PRIMARY SECONDARY
 Skill: Piercing Atk Delay: 31
 DMG: 4BACKSTAB: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 , Rusty Shortened SpearRusty Shortened Spear
 Slot: PRIMARY SECONDARY
 Skill: Piercing Atk Delay: 32
 DMG: 4BACKSTAB: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Rusty SpearRusty Spear
 Slot: PRIMARY
 Skill: Piercing Atk Delay: 38
 DMG: 5BACKSTAB: 5
 WT: 7.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 |
 Diggins |
 9 |
@@ -2403,7 +2404,7 @@ Skill: 1H Slashing Atk Delay: 26
 DMG: 6
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Description needed. |
 Guard Dalammer
@@ -2418,7 +2419,7 @@ Skill: 1H Slashing Atk Delay: 26
 DMG: 6
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Description needed. |
 Guard Dalthur
@@ -2433,7 +2434,7 @@ Skill: 1H Slashing Atk Delay: 26
 DMG: 6
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Description needed. |
 Guard Doradek
@@ -2448,7 +2449,7 @@ Skill: 1H Slashing Atk Delay: 26
 DMG: 6
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Description needed. |
 Guard Kaldolar
@@ -2463,7 +2464,7 @@ Skill: 1H Slashing Atk Delay: 26
 DMG: 6
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Description needed. |
 Gunlok Jure
@@ -2712,7 +2713,7 @@ Skill: 1H Slashing Atk Delay: 35
 DMG: 7
 Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 |
 Various |
 1H Slashing |
@@ -2749,7 +2750,7 @@ Skill: 1H Blunt Atk Delay: 37
 DMG: 7
 WT: 8.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 18 @ lvl 50
 |
 None? |
 1H Blunt |

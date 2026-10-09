@@ -1,5 +1,5 @@
 # Ak'Anon (eqlwiki.com)
-fetched: 2026-10-02
+fetched: 2026-10-09
 
 Ak'Anon - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -248,7 +249,7 @@ Skill: 1H Blunt Atk Delay: 38
 DMG: 4
 WT: 6.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 |
 Drekon Vebnebber |
 6 |
@@ -265,7 +266,14 @@ Escort the Cargo Clockwork
 |
 Gearheart (Quest)
 |
-Small Leather WristbandsSmall Leather Wristbands
+Bronze WarhammerBronze Warhammer
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt Atk Delay: 33
+DMG: 5
+WT: 8.5 Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALLDMG Bonus: 16 @ lvl 50
+, Small Leather WristbandsSmall Leather Wristbands
 Slot: WRIST
 AC: 3
 WT: 0.8 Size: SMALL
@@ -825,7 +833,7 @@ Skill: Hand to Hand Atk Delay: 27
 DMG: 4
 WT: 5.0 Size: MEDIUM
 Class: MNK
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 , SprocketsSprockets
 QUEST ITEM
 WT: 0.1 Size: TINY
@@ -2362,7 +2370,7 @@ Skill: 1H Slashing Atk Delay: 24
 DMG: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 Various |
 1H Slashing |

@@ -1,5 +1,5 @@
 # Temple_of_Solusek_Ro (eqlwiki.com)
-fetched: 2026-09-30
+fetched: 2026-10-09
 
 The Temple of Solusek Ro - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -303,7 +304,7 @@ Effect: Reclaim Energy (Any Slot, Casting Time: Instant) at Level 20
 Focus Effect: Minion of Air
 WT: 3.5 Size: LARGE
 Class: MAG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 Vira |
 20s |
@@ -319,7 +320,7 @@ Skill: 1H Blunt Atk Delay: 32
 DMG: 12
 WT: 8.0 Size: MEDIUM
 Class: CLR
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Gavel the Temperant |
 1 |
@@ -392,7 +393,7 @@ Skill: 1H Blunt Atk Delay: 28
 DMG: 5
 WT: 6.5 Size: LARGE
 Class: ALL
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 Romar Sunto |
 30 |
@@ -508,7 +509,7 @@ DEX: +5 AGI: +5
 Effect: Ignite (Combat, Casting Time: Instant) at Level 30
 WT: 3.5 Size: MEDIUM
 Class: ROG
-Race: ALL
+Race: ALLDMG Bonus: 10 @ lvl 50
 |
 Lon the redeemed |
 30 but can be done at level 1 with proper help |
@@ -568,7 +569,7 @@ Effect: Reclaim Energy (Any Slot, Casting Time: Instant) at Level 20
 Focus Effect: Minion of Earth
 WT: 3.5 Size: LARGE
 Class: MAG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 Vira |
 20s |
@@ -586,7 +587,7 @@ Effect: LowerElement I (Any Slot/Can Equip, Casting Time: Instant) at Level 20
 SV FIRE +5 SV COLD +5
 WT: 4.0 Size: LARGE
 Class: WIZ
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Gardern |
 30-35 if you're alone. 25 if you bring friends. Staff will not be clickable until 20. |
@@ -606,7 +607,7 @@ Effect: Reclaim Energy (Any Slot, Casting Time: Instant) at Level 20
 Focus Effect: Minion of Water
 WT: 3.5 Size: LARGE
 Class: MAG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 Vira |
 20s |
@@ -642,7 +643,7 @@ Effect: Reclaim Energy (Any Slot, Casting Time: Instant) at Level 20
 Focus Effect: Minion of Fire
 WT: 3.5 Size: LARGE
 Class: MAG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 Vira |
 20s |
@@ -661,7 +662,7 @@ INT: +3
 Effect: Strip Enchantment (Any Slot/Can Equip, Casting Time: Instant) at Level 20
 WT: 1.0 Size: MEDIUM
 Class: WIZ
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 Gardern |
 25 |
@@ -679,7 +680,7 @@ INT: +15 HP: +20 MANA: +25
 SV MAGIC: +25 SV POISON: +25
 WT: 0.5 Size: MEDIUM
 Class: WIZ
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 , Staff of the FourStaff of the Four
 MAGIC ITEM LORE ITEM NO DROP
 Slot: PRIMARY
@@ -690,7 +691,7 @@ SV FIRE: +10 SV DISEASE: +5 SV COLD: +10 SV MAGIC: +10 SV POISON: +5
 Effect: Barrier of Force (Must Equip, Casting Time: 15.0) at Level 50
 WT: 4.0 Size: MEDIUM
 Class: WIZ
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Solomen |
 Start Zone: |
@@ -727,7 +728,7 @@ Skill: 1H Blunt Atk Delay: 28
 DMG: 5
 WT: 6.5 Size: LARGE
 Class: ALL
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Human BloodHuman Blood
 MAGIC ITEM QUEST ITEM
 WT: 0.1 Size: TINY
@@ -764,7 +765,7 @@ Skill: 1H Blunt Atk Delay: 28
 DMG: 5
 WT: 6.5 Size: LARGE
 Class: ALL
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Robe of the KeeperRobe of the Keeper
 MAGIC ITEM QUEST ITEM
 Slot: CHEST
@@ -824,7 +825,7 @@ Skill: 1H Blunt Atk Delay: 38
 DMG: 6
 WT: 9.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 |
 Description needed. |
 Cryssia Stardreamer
@@ -853,7 +854,7 @@ Skill: 1H Blunt Atk Delay: 38
 DMG: 6
 WT: 9.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 |
 If given two unstacked Sapphires and a Lambent stone, he will return a Lambent Sapphire. |
 Gavel the Temperant
@@ -868,7 +869,7 @@ Skill: 1H Blunt Atk Delay: 38
 DMG: 6
 WT: 9.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 |
 Description needed. |
 Genni
@@ -883,7 +884,7 @@ Skill: 1H Blunt Atk Delay: 38
 DMG: 6
 WT: 9.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 |
 Located on the 3rd floor, east library room with Ostorm. Give her 550 gold to receive 1 Fire Opal |
 Joyce
@@ -898,7 +899,7 @@ Skill: 1H Blunt Atk Delay: 38
 DMG: 6
 WT: 9.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 |
 Description needed. |
 Lon the Redeemed
@@ -913,14 +914,14 @@ Skill: Piercing Atk Delay: 32
 DMG: 4BACKSTAB: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 (Always), Fine Steel SpearFine Steel Spear
 Slot: PRIMARY
 Skill: Piercing Atk Delay: 27
 DMG: 6BACKSTAB: 6
 Size: LARGE WT: 6.8
 Class: WAR RNG SHD BRD ROG SHM BST
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 (Always), Lon's Head (Always) |
 A once evil rogue who found redemption through devotion to Solusek Ro. He too offers you a chance at redemption through ... |
 Lord Lyfyx of Burwood
@@ -935,7 +936,7 @@ Skill: 2H Blunt Atk Delay: 70
 DMG: 20
 WT: 12.0 Size: LARGE
 Class: WAR SHD SHM
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 , Dragon ScalesDragon Scales
 MAGIC ITEM LORE ITEM
 WT: 2.5 Size: MEDIUM
@@ -948,7 +949,7 @@ Skill: 1H Blunt Atk Delay: 28
 DMG: 5
 WT: 6.5 Size: LARGE
 Class: ALL
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 He is located on the 2nd floor balcony to the main room on the left when walking in.
 Lord Lyfyx has a strange reaction ... |
@@ -964,7 +965,7 @@ Skill: 1H Blunt Atk Delay: 38
 DMG: 6
 WT: 9.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 |
 Description needed. |
 Moltak
@@ -996,7 +997,7 @@ Skill: 1H Blunt Atk Delay: 38
 DMG: 6
 WT: 9.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 , Tome of TashTome of Tash
 WT: 0.1 Size: SMALL
 (?) |
@@ -1013,7 +1014,7 @@ Skill: 1H Blunt Atk Delay: 38
 DMG: 6
 WT: 9.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 |
 Description needed. |
 Sultin
@@ -1028,7 +1029,7 @@ Skill: 1H Blunt Atk Delay: 38
 DMG: 6
 WT: 9.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 |
 Description needed. |
 Syllina
@@ -1043,7 +1044,7 @@ Skill: 1H Blunt Atk Delay: 38
 DMG: 6
 WT: 9.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 |
 Description needed. |
 Tazgar
@@ -1075,7 +1076,7 @@ Skill: 1H Blunt Atk Delay: 38
 DMG: 6
 WT: 9.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 , Robe of the KeeperRobe of the Keeper
 MAGIC ITEM QUEST ITEM
 Slot: CHEST
@@ -1098,7 +1099,7 @@ Skill: 1H Blunt Atk Delay: 38
 DMG: 6
 WT: 9.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 |
 Description needed. |
 Vira
@@ -1113,7 +1114,7 @@ Skill: 1H Blunt Atk Delay: 38
 DMG: 6
 WT: 9.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 (Uncommon?) |
 Vira gives quests for four items that all give reclaim energy at level 20. |
 Vurgo
@@ -1166,7 +1167,7 @@ Skill: 1H Blunt Atk Delay: 28
 DMG: 5
 WT: 6.5 Size: LARGE
 Class: ALL
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 a keeper, a plasmatic priest, a seeker |
 1H Blunt |

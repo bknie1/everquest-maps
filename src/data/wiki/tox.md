@@ -1,5 +1,5 @@
 # Toxxulia_Forest (eqlwiki.com)
-fetched: 2026-10-01
+fetched: 2026-10-09
 
 Toxxulia Forest - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -171,7 +172,7 @@ DMG: 4BACKSTAB: 4
 SV DISEASE: +2
 WT: 0.5 Size: SMALL
 Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 , Bone ChipsBone Chips
 Quest
 Size: SMALL WT: 0.1
@@ -1088,7 +1089,7 @@ DMG: 5
 CHA: +10
 WT: 6.5 Size: LARGE
 Class: CLR PAL
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 |
 Sentinel Creot, Sentinel Drom, Sentinel Flavius |
 2H Blunt |
@@ -1247,7 +1248,7 @@ Skill: 1H Blunt Atk Delay: 36
 DMG: 5
 WT: 8.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 18 @ lvl 50
 |
 Terago Omath |
 1H Blunt |

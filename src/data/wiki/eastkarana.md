@@ -1,5 +1,5 @@
 # Eastern_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-10-02
+fetched: 2026-10-09
 
 Eastern Plains of Karana - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -184,7 +185,7 @@ Skill: Piercing Atk Delay: 22
 DMG: 3BACKSTAB: 3
 WT: 3.0 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 ; Belt PouchBelt Pouch
 WT: 0.4 Weight Reduction: 0%
 Capacity: 4 Size Capacity: SMALL
@@ -741,7 +742,7 @@ Skill: 1H Slashing Atk Delay: 28
 DMG: 6
 Size: MEDIUM WT: 5.0
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 Found near the Barbarian village. |
 Guard Alonso
@@ -1135,7 +1136,7 @@ Skill: 1H Slashing Atk Delay: 32
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 (Always)
 Halfling KnifeHalfling Knife
 Slot: RANGE AMMO
@@ -1153,7 +1154,7 @@ Skill: 1H Slashing Atk Delay: 28
 DMG: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 (Rare)
 Words of CoercionWords of Coercion
 WT: 0.1 Size: TINY
@@ -1233,7 +1234,7 @@ Skill: 1H Slashing Atk Delay: 24
 DMG: 5
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD DRU BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 , Rain of Karana |
 PH is the roaming a rogue lion which spawns at at 725,-2350 and roams through {{Loc|East Karana|... |
 Teloa

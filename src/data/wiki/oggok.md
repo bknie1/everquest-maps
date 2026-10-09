@@ -1,5 +1,5 @@
 # Oggok (eqlwiki.com)
-fetched: 2026-09-29
+fetched: 2026-10-09
 
 Oggok - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -291,7 +292,7 @@ Skill: 2H Blunt Atk Delay: 50
 DMG: 17
 WT: 13.0 Size: LARGE
 Class: ALL except BRD ROG NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 , PearlPearl
 Quest
 Size: TINY WT: 0.1
@@ -303,7 +304,7 @@ Skill: 1H Blunt Atk Delay: 32
 DMG: 6
 WT: 7.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Ringmail Armor |
 Clurg |
 14 |
@@ -328,7 +329,7 @@ Skill: 2H Blunt Atk Delay: 70
 DMG: 30
 WT: 8.8 Size: LARGE
 Class: WAR CLR SHD SHM
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 |
 Lork |
 26 |
@@ -450,7 +451,7 @@ Skill: 2H Slashing Atk Delay: 50
 DMG: 9
 WT: 12.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 , Faction, Experience |
 Soonog |
 1 |
@@ -497,21 +498,21 @@ Skill: 2H Slashing Atk Delay: 46
 DMG: 9
 WT: 14.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 31 @ lvl 50
 , Bronze Two Handed HammerBronze Two Handed Hammer
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 45
 DMG: 8
 WT: 14.0 Size: LARGE
 Class: ALL except BRD ROG NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 , Ogre War MaulOgre War Maul
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 50
 DMG: 17
 WT: 13.0 Size: LARGE
 Class: ALL except BRD ROG NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 |
 Guntrik |
 14 |
@@ -549,7 +550,7 @@ Skill: 1H Slashing Atk Delay: 33
 DMG: 5
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 - vendors for 9g, Star Rose QuartzStar Rose Quartz
 WT: 0.1 Size: TINY
 Class: ALL
@@ -592,21 +593,21 @@ DMG: 5BACKSTAB: 5
 STR: +4
 WT: 5.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 , Rusty HalberdRusty Halberd
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 56
 DMG: 10
 WT: 14.0 Size: GIANT
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 , Short SwordShort Sword
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 24
 DMG: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 Marda |
 5 |
@@ -630,7 +631,7 @@ DEX: +2
 SV MAGIC: +3
 WT: 2.5 Size: SMALL
 Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 , Black HeartBlack Heart
 LORE ITEM NO DROP
 WT: 0.3 Size: SMALL
@@ -651,6 +652,7 @@ WT: 1.0 Size: SMALL
 Class: ALL
 Race: ALL
 , Armadillo HuskArmadillo Husk
+Quest
 This is a snack.
 WT: 0.4 Size: TINY
 Class: ALL
@@ -702,7 +704,7 @@ Skill: 1H Slashing Atk Delay: 28
 DMG: 6
 Size: MEDIUM WT: 5.0
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Fine Steel Short SwordFine Steel Short Sword
 Attunable, Placeable
 Slot: PRIMARY SECONDARY
@@ -710,7 +712,7 @@ Skill: 1H Slashing Atk Delay: 23
 DMG: 4
 Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 , Fine Steel DaggerFine Steel Dagger
 QUEST ITEM
 Slot: PRIMARY SECONDARY
@@ -718,7 +720,7 @@ Skill: Piercing Atk Delay: 19
 DMG: 3BACKSTAB: 3
 WT: 2.4 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 , Round ShieldRound Shield
 Slot: SECONDARY
 AC: 6

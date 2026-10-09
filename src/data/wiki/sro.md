@@ -1,5 +1,5 @@
 # South_Ro (eqlwiki.com)
-fetched: 2026-09-28
+fetched: 2026-10-09
 
 Southern Desert of Ro - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -127,7 +128,7 @@ Skill: 1H Slashing Atk Delay: 30
 DMG: 5
 WT: 2.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 , Terrorantula SilkTerrorantula Silk
 WT: 0.1 Size: SMALL
 Class: ALL
@@ -586,7 +587,7 @@ Skill: 1H Slashing Atk Delay: 35
 DMG: 5
 Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 |
 Description needed. |
 Dry Bones Skeleton
@@ -616,21 +617,21 @@ Skill: 1H Blunt Atk Delay: 38
 DMG: 5
 Size: MEDIUM WT: 8.0
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 , Orcish MaceOrcish Mace
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 39
 DMG: 7
 WT: 9.0 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 , Orcish Morning StarOrcish Morning Star
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 43
 DMG: 8
 WT: 11.0 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 21 @ lvl 50
 |
 Dervish Cutthroat. His path takes him close to the Oasis zoneline. PH is A Dervish Cutthroat. |
 Merchant Ulyssa
@@ -653,7 +654,7 @@ Skill: Piercing Atk Delay: 22
 DMG: 3BACKSTAB: 3
 WT: 3.0 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 , Forged Dagger, CarnelianCarnelian
 WT: 0.1 Size: TINY
 Class: ALL
@@ -697,7 +698,7 @@ Skill: 1H Slashing Atk Delay: 30
 DMG: 5
 WT: 2.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 , Scrounge's PeltScrounge's Pelt
 WT: 3.5 Size: LARGE
 Class: ALL
@@ -758,7 +759,7 @@ Skill: 1H Slashing Atk Delay: 33
 DMG: 5
 WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 a ghoul |
 1H Slashing |
@@ -769,7 +770,7 @@ Skill: 2H Slashing Atk Delay: 48
 DMG: 8
 WT: 13.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 33 @ lvl 50
 |
 a ghoul |
 2H Slashing |
@@ -841,7 +842,7 @@ Skill: Piercing Atk Delay: 21
 DMG: 3BACKSTAB: 3
 WT: 2.5 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 10 @ lvl 50
 |
 Obretl |
 Piercing |
@@ -897,7 +898,7 @@ Skill: Piercing Atk Delay: 26
 DMG: 7BACKSTAB: 7
 WT: 5.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 None? |
 Piercing |
@@ -936,7 +937,7 @@ Skill: 1H Blunt Atk Delay: 39
 DMG: 7
 WT: 9.0 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 |
 Erg Bluntbruiser |
 1H Blunt |
@@ -947,7 +948,7 @@ Skill: 1H Blunt Atk Delay: 43
 DMG: 8
 WT: 11.0 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 21 @ lvl 50
 |
 Erg Bluntbruiser |
 1H Blunt |
@@ -1028,7 +1029,7 @@ Skill: 1H Slashing Atk Delay: 30
 DMG: 5
 WT: 2.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Scrounge |
 1H Slashing |
@@ -1047,7 +1048,7 @@ Skill: 2H Slashing Atk Delay: 45
 DMG: 11
 WT: 12.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 |
 None? |
 2H Slashing |

@@ -1,5 +1,5 @@
 # Surefall_Glade (eqlwiki.com)
-fetched: 2026-10-01
+fetched: 2026-10-09
 
 Surefall Glade - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -246,7 +247,7 @@ STR: +1 HP: +5
 SV FIRE: +5
 WT: 8.5 Size: LARGE
 Class: RNG DRU
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 , Coin |
 Corun Finisc |
 5 |
@@ -446,7 +447,7 @@ Skill: 1H Slashing Atk Delay: 35
 DMG: 5
 Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 |
 Low lvl NPC on assumed Ranger faction (Protectors of the Pine) as she cons the same as other rangers in the zone. Simil... |
 Bukem Breewood
@@ -477,7 +478,7 @@ Skill: 2H Blunt Atk Delay: 40
 DMG: 6
 WT: 10.0 Size: LARGE
 Class: ALL except BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 27 @ lvl 50
 (Always) |
 ”Heed the wishes of Tunare and leave the bears of Surefall Glade undisturbed!" |
 Durvinna Barkkis
@@ -598,7 +599,7 @@ Skill: 1H Slashing Atk Delay: 23
 DMG: 4
 Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 x2, LongbowLongbow
 Slot: RANGE
 Skill: Archery Atk Delay: 51
@@ -735,7 +736,7 @@ Skill: 2H Blunt Atk Delay: 36
 DMG: 9
 WT: 10.0 Size: LARGE
 Class: ALL except BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 24 @ lvl 50
 |
 |
 Sallah

@@ -1,5 +1,5 @@
 # Crushbone (eqlwiki.com)
-fetched: 2026-10-04
+fetched: 2026-10-09
 
 Crushbone - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -128,7 +129,7 @@ STR: +1 WIS: +1
 SV Magic: +1 SV Fire: +1 SV Cold: +1
 WT: 4.0 Size: MEDIUM
 Class: ALL
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 , Corroded Hand GuardsCorroded Hand Guards
 Attunable
 Slot: HANDS
@@ -200,7 +201,7 @@ DEX: +2
 SV MAGIC: +3
 WT: 2.5 Size: SMALL
 Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 , Grimy Black Silk RobeGrimy Black Silk Robe
 Attunable
 Slot: CHEST
@@ -218,7 +219,7 @@ END: +15
 STR: +4
 Class: WAR PAL RNG SHD BER
 Race: ALL
-WT: 10.0 Size: LARGE
+WT: 10.0 Size: LARGEDMG Bonus: 29 @ lvl 50
 , Ornament of the OracleOrnament of the Oracle
 Attunable
 Slot: EAR
@@ -244,7 +245,7 @@ BACKSTAB: 7
 STR: +1 AGI: +1 DEX: +1
 WT: 3.0 Size: SMALL
 Class: WAR PAL RNG SHD MNK BRD ROG NEC WIZ MAG ENC BST BER
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 , Rotting Faydark MaskRotting Faydark Mask
 Attunable
 Slot: FACE
@@ -262,7 +263,7 @@ DMG: 8
 Effect: Screaming Mace (Combat, Casting Time: Instant) at Level 10
 WT: 8.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 , Shiny Brass ShieldShiny Brass Shield
 MAGIC ITEM LORE ITEM
 Slot: SECONDARY
@@ -290,7 +291,7 @@ HP: +5 END: +5
 WIS: +2 INT: +2
 WT: 4.0 Size: SMALL
 Class: PAL RNG SHD BRD
-Race: ALL
+Race: ALLDMG Bonus: 20 @ lvl 50
 , Spiky SplintmailSpiky Splintmail
 Attunable
 Slot: Chest
@@ -407,7 +408,7 @@ STR: +1 WIS: +1
 SV Magic: +1 SV Fire: +1 SV Cold: +1
 WT: 4.0 Size: MEDIUM
 Class: ALL
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 Outside the castle entrance and across the bridge is the camp frequently called Wall
 3. Slave Cabin, with inhabitants needed for Screaming Mace Quest
 4. Slaver Caves, with the Orc Warden who drops Bracers of BattleBracers of Battle
@@ -429,7 +430,7 @@ BACKSTAB: 7
 STR: +1 AGI: +1 DEX: +1
 WT: 3.0 Size: SMALL
 Class: WAR PAL RNG SHD MNK BRD ROG NEC WIZ MAG ENC BST BER
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 and Spiky SplintmailSpiky Splintmail
 Attunable
 Slot: Chest
@@ -515,7 +516,7 @@ Skill: 1H Blunt Atk Delay: 35
 DMG: 8
 WT: 4.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 , Prayer Cloth of TunarePrayer Cloth of Tunare
 MAGIC ITEM
 Slot: SHOULDERS
@@ -532,7 +533,7 @@ DMG: 8
 Effect: Screaming Mace (Combat, Casting Time: Instant) at Level 10
 WT: 8.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 |
 a dwarven smith |
 18 |
@@ -569,7 +570,7 @@ Skill: Piercing Atk Delay: 38
 DMG: 4BACKSTAB: 4
 WT: 6.5 Size: MEDIUM
 Class: ALL except CLR PAL DRU MNK
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 |
 This page is for both male and female Dwarven slaves in Crushbone. The female slave needs Shackle Key 17, while the ... |
 A dwarven smith
@@ -608,7 +609,7 @@ Skill: Piercing Atk Delay: 38
 DMG: 4BACKSTAB: 4
 WT: 6.5 Size: MEDIUM
 Class: ALL except CLR PAL DRU MNK
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 |
 There are four different Elven slaves in Crushbone:
 Wood Elf (male)
@@ -631,7 +632,7 @@ BACKSTAB: 7
 STR: +1 AGI: +1 DEX: +1
 WT: 3.0 Size: SMALL
 Class: WAR PAL RNG SHD MNK BRD ROG NEC WIZ MAG ENC BST BER
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 , Spiky SplintmailSpiky Splintmail
 Attunable
 Slot: Chest
@@ -658,7 +659,7 @@ END: +15
 STR: +4
 Class: WAR PAL RNG SHD BER
 Race: ALL
-WT: 10.0 Size: LARGE
+WT: 10.0 Size: LARGEDMG Bonus: 29 @ lvl 50
 , Corroded Hand GuardsCorroded Hand Guards
 Attunable
 Slot: HANDS
@@ -694,7 +695,7 @@ STR: +1 WIS: +1
 SV Magic: +1 SV Fire: +1 SV Cold: +1
 WT: 4.0 Size: MEDIUM
 Class: ALL
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 Stands just under the keep tower |
 Emperor Crush
@@ -734,7 +735,7 @@ Skill: Piercing Atk Delay: 38
 DMG: 4BACKSTAB: 4
 WT: 6.5 Size: MEDIUM
 Class: ALL except CLR PAL DRU MNK
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 |
 WARNING: Like many NPCs involved in newbie armor quests, Kelynn appears to have been removed in Legends. |
 Lord Darish
@@ -796,7 +797,7 @@ Skill: Piercing Atk Delay: 38
 DMG: 5BACKSTAB: 5
 WT: 7.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 , Crushbone ShoulderpadsCrushbone Shoulderpads
 Slot: SHOULDERS
 AC: 1
@@ -854,7 +855,7 @@ Skill: 1H Slashing Atk Delay: 36
 DMG: 2
 WT: 10.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 18 @ lvl 50
 |
 The lowliest of orcs. Usually found within Crushbone and Greater Faydark. |
 Orc Slaver
@@ -878,7 +879,7 @@ Skill: 1H Slashing Atk Delay: 30
 DMG: 5
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 , Brass EarringBrass Earring
 Slot: EAR
 AC: 2
@@ -1139,7 +1140,7 @@ STR: +1 WIS: +1
 SV Magic: +1 SV Fire: +1 SV Cold: +1
 WT: 4.0 Size: MEDIUM
 Class: ALL
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 Chokehold |
 1H Blunt |
@@ -1248,7 +1249,7 @@ Skill: 1H Slashing Atk Delay: 26
 DMG: 6
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Lord Darish |
 1H Slashing |
@@ -1259,7 +1260,7 @@ Skill: 1H Blunt Atk Delay: 35
 DMG: 8
 WT: 4.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 |
 Emperor Crush |
 1H Blunt |
@@ -1282,7 +1283,7 @@ Skill: 2H Slashing Atk Delay: 43
 DMG: 14
 WT: 6.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 29 @ lvl 50
 |
 Lord Darish |
 2H Slashing |
@@ -1302,7 +1303,7 @@ Skill: 1H Blunt Atk Delay: 38
 DMG: 4
 WT: 6.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 |
 a dwarven smith |
 1H Blunt |
@@ -1328,7 +1329,7 @@ END: +15
 STR: +4
 Class: WAR PAL RNG SHD BER
 Race: ALL
-WT: 10.0 Size: LARGE
+WT: 10.0 Size: LARGEDMG Bonus: 29 @ lvl 50
 |
 Bonefire |
 2H Slashing |
@@ -1392,7 +1393,7 @@ BACKSTAB: 7
 STR: +1 AGI: +1 DEX: +1
 WT: 3.0 Size: SMALL
 Class: WAR PAL RNG SHD MNK BRD ROG NEC WIZ MAG ENC BST BER
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 |
 Bloodgurgler |
 Piercing |
@@ -1544,7 +1545,7 @@ HP: +5 END: +5
 WIS: +2 INT: +2
 WT: 4.0 Size: SMALL
 Class: PAL RNG SHD BRD
-Race: ALL
+Race: ALLDMG Bonus: 20 @ lvl 50
 |
 orc slaver |
 1H Slashing |

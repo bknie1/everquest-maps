@@ -1,5 +1,5 @@
 # Kedge_Keep (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-10-09
 
 Kedge Keep - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -113,7 +114,7 @@ DMG: 5
 Effect: Blaze (Any Slot/Can Equip, Casting Time: Instant) at Level 35
 WT: 1.5 Size: MEDIUM
 Class: MAG
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 , Darksea HarpoonDarksea Harpoon
 MAGIC ITEM LORE ITEM
 Slot: RANGE PRIMARY
@@ -123,7 +124,7 @@ STR: +5 WIS: +5 MANA: +20
 SV DISEASE: +5
 WT: 7.0 Size: LARGE
 Class: SHM
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Driftwood Treasure ChestDriftwood Treasure Chest
 WT: 10.0 Weight Reduction: 100%
 Capacity: 10 Size Capacity: GIANT
@@ -142,7 +143,7 @@ DMG: 9BACKSTAB: 9
 STR: +4 HP: +25
 WT: 3.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 , Hammerhead HelmHammerhead Helm
 MAGIC ITEM LORE ITEM
 Slot: HEAD
@@ -167,7 +168,7 @@ DMG: 25
 STR: +5 STA: +4
 WT: 8.5 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 , Lock of HairLock of Hair
 LORE ITEM NO DROP
 WT: 1.0 Size: SMALL
@@ -200,7 +201,7 @@ DMG: 6
 Effect: Drones of Doom (Any Slot/Can Equip, Casting Time: Instant) at Level 35
 WT: 1.5 Size: MEDIUM
 Class: DRU
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 , Rod of HealthRod of Health
 MAGIC ITEM LORE ITEM NO DROP
 Slot: PRIMARY
@@ -210,7 +211,7 @@ DMG: 6
 Effect: Word of Health (Any Slot/Can Equip, Casting Time: Instant) at Level 35
 WT: 1.5 Size: MEDIUM
 Class: CLR
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 , Seahorse Scale CloakSeahorse Scale Cloak
 MAGIC ITEM LORE ITEM
 Slot: BACK
@@ -231,7 +232,7 @@ Skill: Piercing Atk Delay: 18
 DMG: 5BACKSTAB: 5
 WT: 1.5 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 , Sharkbone WarhammerSharkbone Warhammer
 MAGIC ITEM
 Slot: PRIMARY SECONDARY
@@ -240,7 +241,7 @@ DMG: 8
 WIS: +5
 WT: 3.0 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 , Sharkjaw CutlassSharkjaw Cutlass
 MAGIC ITEM
 Slot: PRIMARY SECONDARY
@@ -248,7 +249,7 @@ Skill: 1H Slashing Atk Delay: 32
 DMG: 10
 WT: 2.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Sharkskin DrumSharkskin Drum
 MAGIC ITEM
 Slot: SECONDARY
@@ -289,7 +290,7 @@ DMG: 5
 Effect: Ice Shock (Any Slot/Can Equip, Casting Time: Instant) at Level 35
 WT: 1.5 Size: MEDIUM
 Class: WIZ
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 , Wand of ShadowWand of Shadow
 MAGIC ITEM LORE ITEM NO DROP
 Slot: PRIMARY
@@ -299,7 +300,7 @@ DMG: 5
 Effect: Invoke Shadow (Any Slot/Can Equip, Casting Time: Instant) at Level 35
 WT: 1.5 Size: MEDIUM
 Class: NEC
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Adjacent Zones:
 |
@@ -337,7 +338,7 @@ DMG: 9BACKSTAB: 9
 STR: +4 HP: +25
 WT: 3.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 (Common) and Darksea HarpoonDarksea Harpoon
 MAGIC ITEM LORE ITEM
 Slot: RANGE PRIMARY
@@ -347,7 +348,7 @@ STR: +5 WIS: +5 MANA: +20
 SV DISEASE: +5
 WT: 7.0 Size: LARGE
 Class: SHM
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 (Rare)
 2. "Second Floor"
 3. "Bubble's Den" with Cauldronbubble who drops Sharkbone WarhammerSharkbone Warhammer
@@ -358,7 +359,7 @@ DMG: 8
 WIS: +5
 WT: 3.0 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 (Common) and Hammerhead HelmHammerhead Helm
 MAGIC ITEM LORE ITEM
 Slot: HEAD
@@ -385,7 +386,7 @@ DMG: 6
 Effect: Drones of Doom (Any Slot/Can Equip, Casting Time: Instant) at Level 35
 WT: 1.5 Size: MEDIUM
 Class: DRU
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 (Common) and Lamentation BladeLamentation Blade
 MAGIC ITEM
 Slot: PRIMARY
@@ -394,7 +395,7 @@ DMG: 25
 STR: +5 STA: +4
 WT: 8.5 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 (Common) and Prayer ShawlPrayer Shawl
 MAGIC ITEM
 Slot: SHOULDERS
@@ -430,7 +431,7 @@ DMG: 5
 Effect: Blaze (Any Slot/Can Equip, Casting Time: Instant) at Level 35
 WT: 1.5 Size: MEDIUM
 Class: MAG
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 (Common) and Squallsurge ShawlSquallsurge Shawl
 MAGIC ITEM
 Slot: SHOULDERS
@@ -448,7 +449,7 @@ DMG: 8
 WIS: +5
 WT: 3.0 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 (Common) and Sharkskin DrumSharkskin Drum
 MAGIC ITEM
 Slot: SECONDARY
@@ -466,7 +467,7 @@ DMG: 6
 Effect: Word of Health (Any Slot/Can Equip, Casting Time: Instant) at Level 35
 WT: 1.5 Size: MEDIUM
 Class: CLR
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 (Common) and Shield of PrexusShield of Prexus
 MAGIC ITEM
 Slot: SECONDARY
@@ -492,7 +493,7 @@ Skill: 1H Slashing Atk Delay: 32
 DMG: 10
 WT: 2.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 (Common) and Kedgemail GauntletsKedgemail Gauntlets
 MAGIC ITEM NO DROP
 Slot: HANDS
@@ -509,7 +510,7 @@ Skill: Piercing Atk Delay: 18
 DMG: 5BACKSTAB: 5
 WT: 1.5 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 (Common) and Abalone GorgetAbalone Gorget
 MAGIC ITEM
 Slot: NECK
@@ -528,7 +529,7 @@ DMG: 5
 Effect: Ice Shock (Any Slot/Can Equip, Casting Time: Instant) at Level 35
 WT: 1.5 Size: MEDIUM
 Class: WIZ
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 (Common) and Seahorse Scale CloakSeahorse Scale Cloak
 MAGIC ITEM LORE ITEM
 Slot: BACK
@@ -548,7 +549,7 @@ DMG: 5
 Effect: Invoke Shadow (Any Slot/Can Equip, Casting Time: Instant) at Level 35
 WT: 1.5 Size: MEDIUM
 Class: NEC
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 (Common) and Driftwood Treasure ChestDriftwood Treasure Chest
 WT: 10.0 Weight Reduction: 100%
 Capacity: 10 Size Capacity: GIANT
@@ -637,7 +638,7 @@ Skill: Piercing Atk Delay: 30
 DMG: 4BACKSTAB: 4
 WT: 6.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Description needed. By Zone in, roams the courtyard area there. |
 A Piercer Swordfish
@@ -663,7 +664,7 @@ Skill: Piercing Atk Delay: 30
 DMG: 4BACKSTAB: 4
 WT: 6.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 , A Faded Salil's Writ Page |
 Description needed. |
 A Swirlspine Seahorse
@@ -687,7 +688,7 @@ Skill: Piercing Atk Delay: 18
 DMG: 5BACKSTAB: 5
 WT: 1.5 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 , Shark SkinShark Skin
 WT: 0.1 Size: SMALL
 Class: ALL
@@ -783,7 +784,7 @@ DMG: 5
 Effect: Invoke Shadow (Any Slot/Can Equip, Casting Time: Instant) at Level 35
 WT: 1.5 Size: MEDIUM
 Class: NEC
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Hits like a truck for their level (up to 165, I believe). The Driftwood Treasure ChestDriftwood Treasure Chest
 WT: 10.0 Weight Reduction: 100%
@@ -804,7 +805,7 @@ STR: +5 WIS: +5 MANA: +20
 SV DISEASE: +5
 WT: 7.0 Size: LARGE
 Class: SHM
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Gloomwater HarpoonGloomwater Harpoon
 MAGIC ITEM
 Slot: PRIMARY SECONDARY
@@ -813,7 +814,7 @@ DMG: 9BACKSTAB: 9
 STR: +4 HP: +25
 WT: 3.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Spawns in the first room of Kedge Keep, spot #1 on the map. Place holder is An impaler swordfish or [[a piercer swor... |
 A frenzied bull shark
@@ -845,7 +846,7 @@ Skill: Piercing Atk Delay: 18
 DMG: 5BACKSTAB: 5
 WT: 1.5 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 , Abalone GorgetAbalone Gorget
 MAGIC ITEM
 Slot: NECK
@@ -879,7 +880,7 @@ DMG: 6
 Effect: Word of Health (Any Slot/Can Equip, Casting Time: Instant) at Level 35
 WT: 1.5 Size: MEDIUM
 Class: CLR
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Casts a long AOE stun |
 A seahorse patriarch
@@ -906,7 +907,7 @@ DMG: 5
 Effect: Ice Shock (Any Slot/Can Equip, Casting Time: Instant) at Level 35
 WT: 1.5 Size: MEDIUM
 Class: WIZ
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Rare. Respawns every 22 minutes. Placeholders are the 2 seahorses in the room. Casts a powerful dispel, AE knockback, an... |
 A shimmering sailfin
@@ -1023,7 +1024,7 @@ Skill: Piercing Atk Delay: 30
 DMG: 4BACKSTAB: 4
 WT: 6.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 , Lancer Swordfish FinLancer Swordfish Fin
 MAGIC ITEM LORE ITEM NO DROP
 WT: 3.5 Size: LARGE
@@ -1067,7 +1068,7 @@ Skill: 1H Slashing Atk Delay: 32
 DMG: 10
 WT: 2.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Spawns in the jail cells (very bottom of default map).
 To get to boss from spawn:
@@ -1094,7 +1095,7 @@ DMG: 8
 WIS: +5
 WT: 3.0 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 (Common) |
 A big fish with sharp teeth.
 Respawn timer of ~14.5 min (Aug 18th, 2026 - D1 Zone)
@@ -1114,7 +1115,7 @@ DMG: 8
 WIS: +5
 WT: 3.0 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 , Sharkskin DrumSharkskin Drum
 MAGIC ITEM
 Slot: SECONDARY
@@ -1159,7 +1160,7 @@ DMG: 25
 STR: +5 STA: +4
 WT: 8.5 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 (Rare), Rod of DronesRod of Drones
 MAGIC ITEM LORE ITEM NO DROP
 Slot: PRIMARY
@@ -1169,7 +1170,7 @@ DMG: 6
 Effect: Drones of Doom (Any Slot/Can Equip, Casting Time: Instant) at Level 35
 WT: 1.5 Size: MEDIUM
 Class: DRU
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 (Rare) |
 Estrella is a druid and a pretty tough fight. Spawns at #8 on the map. Has an obscenely large mana pool; casts dispel, ... |
 Phinigel Autropos
@@ -1307,7 +1308,7 @@ DMG: 5
 Effect: Blaze (Any Slot/Can Equip, Casting Time: Instant) at Level 35
 WT: 1.5 Size: MEDIUM
 Class: MAG
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 , Tears of PrexusTears of Prexus
 WT: 0.1 Size: TINY
 Class: ALL
@@ -1337,7 +1338,7 @@ DMG: 5
 Effect: Blaze (Any Slot/Can Equip, Casting Time: Instant) at Level 35
 WT: 1.5 Size: MEDIUM
 Class: MAG
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Undertow |
 1H Blunt |
@@ -1351,7 +1352,7 @@ INT: +10 HP: +10 MANA: +30
 SV FIRE: +20 SV COLD: +20
 WT: 0.6 Size: MEDIUM
 Class: WIZ
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 |
 Phinigel Autropos |
 1H Blunt |
@@ -1365,7 +1366,7 @@ STR: +5 WIS: +5 MANA: +20
 SV DISEASE: +5
 WT: 7.0 Size: LARGE
 Class: SHM
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 a fierce impaler |
 Piercing |
@@ -1423,7 +1424,7 @@ DMG: 9BACKSTAB: 9
 STR: +4 HP: +25
 WT: 3.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 a fierce impaler |
 Piercing |
@@ -1478,7 +1479,7 @@ DMG: 25
 STR: +5 STA: +4
 WT: 8.5 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 |
 Estrella of Gloomwater |
 2H Slashing |
@@ -1556,7 +1557,7 @@ DMG: 6
 Effect: Drones of Doom (Any Slot/Can Equip, Casting Time: Instant) at Level 35
 WT: 1.5 Size: MEDIUM
 Class: DRU
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Estrella of Gloomwater |
 1H Blunt |
@@ -1570,7 +1571,7 @@ DMG: 6
 Effect: Word of Health (Any Slot/Can Equip, Casting Time: Instant) at Level 35
 WT: 1.5 Size: MEDIUM
 Class: CLR
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 a seahorse matriarch |
 1H Blunt |
@@ -1584,7 +1585,7 @@ DMG: 7
 Effect: Malaisement (Any Slot/Can Equip, Casting Time: Instant) at Level 35
 WT: 1.5 Size: MEDIUM
 Class: SHM
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Phinigel Autropos |
 1H Blunt |
@@ -1618,7 +1619,7 @@ Skill: Piercing Atk Delay: 18
 DMG: 5BACKSTAB: 5
 WT: 1.5 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 |
 a frenzied cauldron shark |
 Piercing |
@@ -1631,7 +1632,7 @@ DMG: 8
 WIS: +5
 WT: 3.0 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Cauldronbubble, Coralyn Kelpmaiden |
 1H Blunt |
@@ -1643,7 +1644,7 @@ Skill: 1H Slashing Atk Delay: 32
 DMG: 10
 WT: 2.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Cauldronboil |
 1H Slashing |
@@ -1692,7 +1693,7 @@ Effect: Reclaim Energy (Any Slot/Can Equip, Casting Time: Instant) at Level 40
 Focus Effect: Servant of Water
 WT: 5.0 Size: LARGE
 Class: MAG
-Race: ALL
+Race: ALLDMG Bonus: 20 @ lvl 50
 |
 Phinigel Autropos |
 2H Blunt |
@@ -1716,7 +1717,7 @@ Skill: Piercing Atk Delay: 30
 DMG: 4BACKSTAB: 4
 WT: 6.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 a lancer swordfish, a piercer swordfish, an impaler swordfish |
 Piercing |
@@ -1729,7 +1730,7 @@ DMG: 10BACKSTAB: 10
 Effect: Frost Strike (Combat, Rate +35%) at Level 45
 Size: LARGE WT: 2.0
 Class: ROG
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Phinigel Autropos |
 Piercing |
@@ -1743,7 +1744,7 @@ DMG: 5
 Effect: Ice Shock (Any Slot/Can Equip, Casting Time: Instant) at Level 35
 WT: 1.5 Size: MEDIUM
 Class: WIZ
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 a seahorse matriarch, a seahorse patriarch |
 1H Blunt |
@@ -1757,7 +1758,7 @@ DMG: 5
 Effect: Mana Sieve (Any Slot/Can Equip, Casting Time: Instant) at Level 35
 WT: 1.5 Size: MEDIUM
 Class: ENC
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Phinigel Autropos |
 1H Blunt |
@@ -1771,7 +1772,7 @@ DMG: 5
 Effect: Invoke Shadow (Any Slot/Can Equip, Casting Time: Instant) at Level 35
 WT: 1.5 Size: MEDIUM
 Class: NEC
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 a ferocious hammerhead |
 1H Blunt |
@@ -1802,7 +1803,7 @@ INT: +10 HP: +10 MANA: +30
 SV FIRE: +20 SV COLD: +20
 WT: 0.6 Size: MEDIUM
 Class: WIZ
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 , Kedge BackboneKedge Backbone
 MAGIC ITEM LORE ITEM NO DROP
 WT: 25.0 Size: MEDIUM
@@ -1825,7 +1826,7 @@ DMG: 7
 Effect: Malaisement (Any Slot/Can Equip, Casting Time: Instant) at Level 35
 WT: 1.5 Size: MEDIUM
 Class: SHM
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 , Staff of Elemental Mastery: WaterStaff of Elemental Mastery: Water
 Lore Equipped, No Trade, Placeable, Quest
 Slot: PRIMARY
@@ -1835,7 +1836,7 @@ Effect: Reclaim Energy (Any Slot/Can Equip, Casting Time: Instant) at Level 40
 Focus Effect: Servant of Water
 WT: 5.0 Size: LARGE
 Class: MAG
-Race: ALL
+Race: ALLDMG Bonus: 20 @ lvl 50
 , Trident of the Seven SeasTrident of the Seven Seas
 Lore Equipped, No Trade, Placeable
 Slot: PRIMARY
@@ -1844,7 +1845,7 @@ DMG: 10BACKSTAB: 10
 Effect: Frost Strike (Combat, Rate +35%) at Level 45
 Size: LARGE WT: 2.0
 Class: ROG
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 , Wand of Mana TappingWand of Mana Tapping
 MAGIC ITEM LORE ITEM NO DROP
 Slot: PRIMARY
@@ -1854,7 +1855,7 @@ DMG: 5
 Effect: Mana Sieve (Any Slot/Can Equip, Casting Time: Instant) at Level 35
 WT: 1.5 Size: MEDIUM
 Class: ENC
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 |
 Raid Map

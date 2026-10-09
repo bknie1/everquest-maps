@@ -1,5 +1,5 @@
 # Najena (eqlwiki.com)
-fetched: 2026-10-02
+fetched: 2026-10-09
 
 Najena - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -115,7 +116,7 @@ DMG: 6BACKSTAB: 6
 Effect: Haste (Combat, Casting Time: Instant) at Level 25
 WT: 5.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG BST
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 , Band of FleshBand of Flesh
 MAGIC ITEM
 Slot: FINGER
@@ -130,7 +131,7 @@ Skill: 1H Slashing Atk Delay: 28
 DMG: 7
 WT: 6.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Blackened SapphireBlackened Sapphire
 MAGIC ITEM
 Slot: PRIMARY SECONDARY
@@ -148,7 +149,7 @@ SV FIRE: +10
 Effect: Project Lightning (Combat, Casting Time: Instant) at Level 30
 WT: 11.0 Size: LARGE
 Class: ALL except BRD ROG NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 , Clawed Knuckle-RingClawed Knuckle-Ring
 MAGIC ITEM
 Slot: FINGER
@@ -202,7 +203,7 @@ WIS: +2 AGI: +2
 SV COLD: +5
 WT: 7.0 Size: LARGE
 Class: SHM
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Earring of Disease ReflectionEarring of Disease Reflection
 MAGIC ITEM
 Slot: EAR
@@ -228,7 +229,7 @@ DMG: 6
 SV FIRE: +20
 WT: 0.1 Size: TINY
 Class: MNK BST
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 , Flowing Black RobeFlowing Black Robe
 MAGIC ITEM LORE ITEM
 Slot: CHEST
@@ -275,7 +276,7 @@ Skill: 2H Blunt Atk Delay: 50
 DMG: 17
 WT: 13.0 Size: LARGE
 Class: ALL except BRD ROG NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 , Signet Ring of the Lost CrusaderSignet Ring of the Lost Crusader
 Lore Equipped, Attunable
 Slot: FINGER
@@ -329,7 +330,7 @@ BACKSTAB: 6
 Effect: Blood Claw (Combat, Casting Time: Instant) at Level 18
 WT: 3.5 Size: MEDIUM
 Class: SHD ROG NEC BST
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 , Sword of the LostSword of the Lost
 Lore Equipped, Attunable
 Slot: PRIMARY
@@ -338,7 +339,7 @@ DMG: 15
 STA: +4
 WT: 9.5 Size: LARGE
 Class: PAL SHD
-Race: ALL
+Race: ALLDMG Bonus: 20 @ lvl 50
 , Terror SpinesTerror Spines
 MAGIC ITEM LORE ITEM NO DROP
 WT: 0.6 Size: SMALL
@@ -368,7 +369,7 @@ DMG: 5
 STR: +2
 WT: 2.5 Size: SMALL
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 , Travelers PackTravelers Pack
 WT: 0.4 Weight Reduction: 20%
 Capacity: 8 Size Capacity: LARGE
@@ -426,7 +427,7 @@ DMG: 6
 SV FIRE: +20
 WT: 0.1 Size: TINY
 Class: MNK BST
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 , Drop of Crystallized FlameDrop of Crystallized Flame
 Lore Equipped, Attunable, Quest
 Slot: EAR
@@ -495,7 +496,7 @@ BACKSTAB: 6
 Effect: Blood Claw (Combat, Casting Time: Instant) at Level 18
 WT: 3.5 Size: MEDIUM
 Class: SHD ROG NEC BST
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 , Earring of Disease ReflectionEarring of Disease Reflection
 MAGIC ITEM
 Slot: EAR
@@ -512,7 +513,7 @@ DMG: 6BACKSTAB: 6
 Effect: Haste (Combat, Casting Time: Instant) at Level 25
 WT: 5.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG BST
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 (Rare) and Golden Crescent KeyGolden Crescent Key
 MAGIC ITEM
 WT: 0.1 Size: TINY
@@ -542,7 +543,7 @@ Skill: 1H Slashing Atk Delay: 28
 DMG: 7
 WT: 6.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 (Rare) and Leering MaskLeering Mask
 MAGIC ITEM
 Slot: FACE
@@ -563,7 +564,7 @@ Skill: 2H Blunt Atk Delay: 50
 DMG: 17
 WT: 13.0 Size: LARGE
 Class: ALL except BRD ROG NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 and Shiny Metal KeyShiny Metal Key
 MAGIC ITEM
 WT: 0.1 Size: TINY
@@ -578,7 +579,7 @@ WIS: +2 AGI: +2
 SV COLD: +5
 WT: 7.0 Size: LARGE
 Class: SHM
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , and A Visiting Priestess
 10. Prison with Linara Parlone and An Injured Halfling in cell, Moosh wanders here
 11. Rathyl's Room with Rathyl who drops Travelers PouchTravelers Pouch
@@ -659,7 +660,7 @@ Skill: 1H Slashing Atk Delay: 28
 DMG: 7
 WT: 6.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 and
 Leering MaskLeering Mask
 MAGIC ITEM
@@ -771,7 +772,7 @@ SV FIRE: +10
 Effect: Project Lightning (Combat, Casting Time: Instant) at Level 30
 WT: 11.0 Size: LARGE
 Class: ALL except BRD ROG NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 |
 A Visiting Priestess |
 30 |
@@ -1071,7 +1072,7 @@ DMG: 15
 STA: +4
 WT: 9.5 Size: LARGE
 Class: PAL SHD
-Race: ALL
+Race: ALLDMG Bonus: 20 @ lvl 50
 |
 |
 Moosh
@@ -1162,7 +1163,7 @@ DMG: 4
 Effect: Lifetap (Combat, Casting Time: Instant) at Level 1
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 (Ultra Rare), WandWand
 MAGIC ITEM
 WT: 0.3 Size: SMALL
@@ -1220,7 +1221,7 @@ DMG: 5
 STR: +2
 WT: 2.5 Size: SMALL
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 |
 |
 The Widowmistress
@@ -1259,7 +1260,7 @@ Skill: Piercing Atk Delay: 28
 DMG: 4BACKSTAB: 4
 WT: 6.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Damask RobeDamask Robe
 MAGIC ITEM
 Slot: CHEST
@@ -1299,7 +1300,7 @@ DMG: 6
 SV FIRE: +20
 WT: 0.1 Size: TINY
 Class: MNK BST
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 (25%) |
 |
 Items - Found 83 items that drop in Najena:
@@ -1342,7 +1343,7 @@ DMG: 6BACKSTAB: 6
 Effect: Haste (Combat, Casting Time: Instant) at Level 25
 WT: 5.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG BST
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 Drelzna |
 Piercing |
@@ -1365,7 +1366,7 @@ Skill: 1H Slashing Atk Delay: 28
 DMG: 7
 WT: 6.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 BoneCracker |
 1H Slashing |
@@ -1419,7 +1420,7 @@ Skill: 1H Slashing Atk Delay: 33
 DMG: 5
 WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 a skeleton |
 1H Slashing |
@@ -1430,7 +1431,7 @@ Skill: 1H Blunt Atk Delay: 37
 DMG: 6
 WT: 10.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 18 @ lvl 50
 |
 a skeleton |
 1H Blunt |
@@ -1441,7 +1442,7 @@ Skill: 2H Slashing Atk Delay: 52
 DMG: 10
 WT: 15.0 Size: GIANT
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 |
 a skeleton |
 2H Slashing |
@@ -1452,7 +1453,7 @@ Skill: 2H Slashing Atk Delay: 46
 DMG: 9
 WT: 14.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 31 @ lvl 50
 |
 a skeleton (the ones near the water), an ogre guard |
 2H Slashing |
@@ -1463,7 +1464,7 @@ Skill: 2H Blunt Atk Delay: 45
 DMG: 8
 WT: 14.0 Size: LARGE
 Class: ALL except BRD ROG NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 |
 a skeleton, an ogre guard |
 2H Blunt |
@@ -1474,7 +1475,7 @@ Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 a skeleton |
 1H Blunt |
@@ -1741,7 +1742,7 @@ WIS: +2 AGI: +2
 SV COLD: +5
 WT: 7.0 Size: LARGE
 Class: SHM
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Officer Grush |
 Piercing |
@@ -1779,7 +1780,7 @@ DMG: 6
 SV FIRE: +20
 WT: 0.1 Size: TINY
 Class: MNK BST
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 |
 Unbound Flame |
 Hand to Hand |
@@ -1923,7 +1924,7 @@ Skill: 2H Blunt Atk Delay: 50
 DMG: 17
 WT: 13.0 Size: LARGE
 Class: ALL except BRD ROG NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 |
 the guard captain |
 2H Blunt |
@@ -2018,7 +2019,7 @@ BACKSTAB: 6
 Effect: Blood Claw (Combat, Casting Time: Instant) at Level 18
 WT: 3.5 Size: MEDIUM
 Class: SHD ROG NEC BST
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 Drelzna |
 Piercing |
@@ -2053,7 +2054,7 @@ DMG: 15
 STA: +4
 WT: 9.5 Size: LARGE
 Class: PAL SHD
-Race: ALL
+Race: ALLDMG Bonus: 20 @ lvl 50
 |
 Lost Crusader |
 1H Slashing |
@@ -2066,7 +2067,7 @@ DMG: 4
 Effect: Lifetap (Combat, Casting Time: Instant) at Level 1
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 a tentacle terror, Drelzna |
 1H Slashing |
@@ -2112,7 +2113,7 @@ DMG: 5
 STR: +2
 WT: 2.5 Size: SMALL
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 |
 The Tenderizer |
 1H Blunt |
@@ -2187,7 +2188,7 @@ Skill: 2H Blunt Atk Delay: 40
 DMG: 7
 WT: 11.0 Size: LARGE
 Class: ALL except BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 27 @ lvl 50
 |
 BoneCracker |
 2H Blunt |

@@ -1,5 +1,5 @@
 # Runnyeye_Citadel (eqlwiki.com)
-fetched: 2026-10-01
+fetched: 2026-10-09
 
 Runnyeye - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -144,7 +145,7 @@ DMG: 10
 SV POISON: +3
 WT: 2.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Blackened Iron Eye TotemBlackened Iron Eye Totem
 MAGIC ITEM
 Slot: PRIMARY SECONDARY
@@ -197,7 +198,7 @@ DMG: 4BACKSTAB: 4
 SV DISEASE: +2
 WT: 0.5 Size: SMALL
 Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 , Goblin StickerGoblin Sticker
 MAGIC ITEM LORE ITEM NO DROP
 Slot: PRIMARY
@@ -206,7 +207,7 @@ DMG: 6
 STA: +1 WIS: +1
 WT: 7.0 Size: LARGE
 Class: SHM
-Race: ALL except
+Race: ALL exceptDMG Bonus: 15 @ lvl 50
 , Dark Muslin Armor Set, Grotesque Alloy MaskGrotesque Alloy Mask
 MAGIC ITEM
 Slot: FACE
@@ -264,7 +265,7 @@ Skill: 1H Slashing Atk Delay: 37
 DMG: 17
 WT: 5.5 Size: MEDIUM
 Class: PAL SHD
-Race: ALL
+Race: ALLDMG Bonus: 18 @ lvl 50
 , Sporali GlovesSporali Gloves
 MAGIC ITEM LORE ITEM
 Slot: HANDS
@@ -376,7 +377,7 @@ Skill: 2H Slashing Atk Delay: 47
 DMG: 20
 WT: 9.0 Size: MEDIUM
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 32 @ lvl 50
 (Common)
 |
 Level Three
@@ -410,7 +411,7 @@ DMG: 4BACKSTAB: 4
 SV DISEASE: +2
 WT: 0.5 Size: SMALL
 Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 (Common).
 3. The Goblin King drops Blackened Iron Armor or Black Iron MedallionBlack Iron Medallion
 MAGIC ITEM
@@ -550,7 +551,7 @@ DMG: 4BACKSTAB: 4
 SV DISEASE: +2
 WT: 0.5 Size: SMALL
 Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 , Blackened Iron Armor |
 Spawns along the west wall in room #2 on the fourth floor. |
 A Goblin Knight
@@ -566,7 +567,7 @@ Skill: 2H Slashing Atk Delay: 47
 DMG: 20
 WT: 9.0 Size: MEDIUM
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 32 @ lvl 50
 |
 Description Needed. |
 A Goblin Warlord
@@ -627,7 +628,7 @@ Skill: Piercing Atk Delay: 38
 DMG: 5BACKSTAB: 5
 WT: 7.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 |
 A Clan RunnyEye goblin found mostly on the first floor. |
 A goblin shaman (Clan RunnyEye)
@@ -683,7 +684,7 @@ Skill: Piercing Atk Delay: 32
 DMG: 5BACKSTAB: 5
 WT: 8.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Blackened Iron Armor Set |
 A Clan RunnyEye goblin who is typically found on the lower levels and occasionally drops Blackened Iron Armor. |
 Dazed goblin javelineer
@@ -700,7 +701,7 @@ DMG: 6
 STA: +1 WIS: +1
 WT: 7.0 Size: LARGE
 Class: SHM
-Race: ALL except
+Race: ALL exceptDMG Bonus: 15 @ lvl 50
 , Blackened Iron Armor Set |
 A Rare Spawn Clan Runnyeye goblin who is typically found on the lower levels. Unlike the other shaman mobs, casts Frost ... |
 Dazed goblin shaman
@@ -715,7 +716,7 @@ Skill: Piercing Atk Delay: 32
 DMG: 5BACKSTAB: 5
 WT: 8.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Blackened Iron Armor Set |
 A Clan Runnyeye goblin who is typically found on the lower levels. |
 Goblin Elite Guard (Runnyeye)
@@ -731,7 +732,7 @@ Skill: 1H Slashing Atk Delay: 32
 DMG: 5
 Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Blackened Iron BootsBlackened Iron Boots
 MAGIC ITEM
 Slot: FEET
@@ -746,7 +747,7 @@ Skill: Piercing Atk Delay: 19
 DMG: 3BACKSTAB: 3
 WT: 2.4 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 |
 A Clan RunnyEye goblin rogue type found on first floor. |
 Goblin Warlord (Clan Runnyeye)
@@ -900,7 +901,7 @@ Skill: 2H Slashing Atk Delay: 47
 DMG: 20
 WT: 9.0 Size: MEDIUM
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 32 @ lvl 50
 |
 a Goblin Knight, a Pickclaw veteran, a Goblin Crusader |
 2H Slashing |
@@ -1085,7 +1086,7 @@ DMG: 4BACKSTAB: 4
 SV DISEASE: +2
 WT: 0.5 Size: SMALL
 Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 a goblin captain (pre-revamp), a Pickclaw bonemender (post-revamp) |
 Piercing |
@@ -1098,7 +1099,7 @@ DMG: 6
 STA: +1 WIS: +1
 WT: 7.0 Size: LARGE
 Class: SHM
-Race: ALL except
+Race: ALL exceptDMG Bonus: 15 @ lvl 50
 |
 dazed goblin javelineer |
 Piercing |

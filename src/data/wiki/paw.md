@@ -1,5 +1,5 @@
 # Splitpaw_Lair (eqlwiki.com)
-fetched: 2026-10-03
+fetched: 2026-10-09
 
 Splitpaw Lair - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -138,7 +139,7 @@ DMG: 4BACKSTAB: 4
 Effect: Weaken (Combat, Casting Time: Instant) at Level 15
 WT: 1.5 Size: TINY
 Class: ROG NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 , Devlas IlkvelDevlas Ilkvel
 MAGIC ITEM LORE ITEM
 Slot: SECONDARY
@@ -156,7 +157,7 @@ DMG: 3 AC: 3
 Effect: Stun (Combat, Casting Time: Instant) at Level 25
 WT: 3.0 Size: TINY
 Class: WAR RNG BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 10 @ lvl 50
 , Gnoll Hide TomeGnoll Hide Tome
 MAGIC ITEM LORE ITEM
 Slot: PRIMARY
@@ -184,7 +185,7 @@ DEX: +5
 Effect: Strong Poison (Combat) at Level 20
 Size: LARGE WT: 8.0
 Class: WAR SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 , Looted Channeler's GlovesLooted Channeler's Gloves
 Attunable Lore Equipped
 Slot: HANDS
@@ -268,7 +269,7 @@ WIS: +4 INT: +4
 Effect: Weak Poison (Combat, Casting Time: Instant) at Level 30
 WT: 7.0 Size: LARGE
 Class: SHM
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , TornEar ThumperTornEar Thumper
 Attunable
 Slot: PRIMARY
@@ -279,7 +280,7 @@ HP: +20 End: +20
 STR: +9 AGI: -5
 WT: 10 Size:MEDIUM
 Class: WAR MNK BST BER
-Race: ALL
+Race: ALLDMG Bonus: 20 @ lvl 50
 , Vacra Av SvimVacra Av Svim
 Lore Equipped, No Trade, Placeable
 Slot: SECONDARY
@@ -306,7 +307,7 @@ DMG: 26
 END: 10
 Size: MEDIUM WT: 10.5
 Class: WAR BER
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 |
 Adjacent Zones:
 |
@@ -343,7 +344,7 @@ DEX: +5
 Effect: Strong Poison (Combat) at Level 20
 Size: LARGE WT: 8.0
 Class: WAR SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 (Rare)
 2. Rosch Val L'Vlor who drops Gnoll Hide TomeGnoll Hide Tome
 MAGIC ITEM LORE ITEM
@@ -373,7 +374,7 @@ WIS: +4 INT: +4
 Effect: Weak Poison (Combat, Casting Time: Instant) at Level 30
 WT: 7.0 Size: LARGE
 Class: SHM
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 (Ultra Rare)
 5. Underwater secret tunnel leads to 8.
 6. Prison with the Brother Hayle
@@ -469,7 +470,7 @@ DMG: 4BACKSTAB: 4
 Effect: Weaken (Combat, Casting Time: Instant) at Level 15
 WT: 1.5 Size: TINY
 Class: ROG NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 |
 A Lteth Val Gnoll
@@ -608,7 +609,7 @@ HP: +20 End: +20
 STR: +9 AGI: -5
 WT: 10 Size:MEDIUM
 Class: WAR MNK BST BER
-Race: ALL
+Race: ALLDMG Bonus: 20 @ lvl 50
 |
 Description needed. |
 A Tesch Val Gnoll
@@ -723,7 +724,7 @@ DMG: 9
 HP: +5 MANA: +5 END: +5
 Size: LARGE WT: 11.0
 Class: CLR DRU SHM NEC WIZ MAG ENC BST BER
-Race: ALL
+Race: ALLDMG Bonus: 25 @ lvl 50
 |
 Spawns next to Verishe Mal Executioner, who will immediately kill him. Can also spawn wandering in [[Southern Karana... |
 Nisch Val Torash Mashk
@@ -907,7 +908,7 @@ DMG: 4BACKSTAB: 4
 Effect: Weaken (Combat, Casting Time: Instant) at Level 15
 WT: 1.5 Size: TINY
 Class: ROG NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 Various |
 Piercing |
@@ -966,7 +967,7 @@ DEX: +5
 Effect: Strong Poison (Combat) at Level 20
 Size: LARGE WT: 8.0
 Class: WAR SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 |
 Tesch Val Deval`Nmak |
 1H Slashing |
@@ -1029,7 +1030,7 @@ DMG: 9
 HP: +5 MANA: +5 END: +5
 Size: LARGE WT: 11.0
 Class: CLR DRU SHM NEC WIZ MAG ENC BST BER
-Race: ALL
+Race: ALLDMG Bonus: 25 @ lvl 50
 |
 Kurrpok Splitpaw |
 2H Blunt |
@@ -1141,7 +1142,7 @@ WIS: +4 INT: +4
 Effect: Weak Poison (Combat, Casting Time: Instant) at Level 30
 WT: 7.0 Size: LARGE
 Class: SHM
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Nisch Val Torash Mashk |
 Piercing |
@@ -1167,7 +1168,7 @@ HP: +20 End: +20
 STR: +9 AGI: -5
 WT: 10 Size:MEDIUM
 Class: WAR MNK BST BER
-Race: ALL
+Race: ALLDMG Bonus: 20 @ lvl 50
 |
 a Tesch Val Brute |
 2H Blunt |
@@ -1206,7 +1207,7 @@ DMG: 26
 END: 10
 Size: MEDIUM WT: 10.5
 Class: WAR BER
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 |
 Verishe Mal Executioner |
 2H Slashing |

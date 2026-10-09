@@ -1,5 +1,5 @@
 # Greater_Faydark (eqlwiki.com)
-fetched: 2026-10-02
+fetched: 2026-10-09
 
 Greater Faydark - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -164,14 +165,14 @@ Skill: 1H Slashing Atk Delay: 33
 DMG: 5
 WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD DRU BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Worn Great StaffWorn Great Staff
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 40
 DMG: 6
 WT: 10.0 Size: LARGE
 Class: ALL except BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 27 @ lvl 50
 |
 Heartwood Master |
 1 |
@@ -194,14 +195,14 @@ Skill: 1H Slashing Atk Delay: 36
 DMG: 5
 WT: 6.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 18 @ lvl 50
 , Rusty FlailRusty Flail
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 37
 DMG: 5
 WT: 9.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 18 @ lvl 50
 , Rusty Long SwordRusty Long Sword
 Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
@@ -209,7 +210,7 @@ Skill: 1H Slashing Atk Delay: 35
 DMG: 5
 Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 , Rusty MaceRusty Mace
 Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
@@ -217,126 +218,126 @@ Skill: 1H Blunt Atk Delay: 38
 DMG: 5
 Size: MEDIUM WT: 8.0
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 , Rusty ScimitarRusty Scimitar
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 35
 DMG: 5
 WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD DRU BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 , Rusty Shortened SpearRusty Shortened Spear
 Slot: PRIMARY SECONDARY
 Skill: Piercing Atk Delay: 32
 DMG: 4BACKSTAB: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Rusty SpearRusty Spear
 Slot: PRIMARY
 Skill: Piercing Atk Delay: 38
 DMG: 5BACKSTAB: 5
 WT: 7.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 , Rusty Two Handed Battle AxeRusty Two Handed Battle Axe
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 49
 DMG: 9
 WT: 13.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 33 @ lvl 50
 , Rusty Two Handed HammerRusty Two Handed Hammer
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 45
 DMG: 7
 WT: 13.0 Size: LARGE
 Class: ALL except BRD ROG NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 , Tarnished AxeTarnished Axe
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 34
 DMG: 5
 WT: 6.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 , Tarnished Battle AxeTarnished Battle Axe
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 40
 DMG: 6
 WT: 8.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 20 @ lvl 50
 , Tarnished Broad SwordTarnished Broad Sword
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 34
 DMG: 5
 WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 , Tarnished FlailTarnished Flail
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 35
 DMG: 5
 WT: 9.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 , Tarnished MaceTarnished Mace
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 36
 DMG: 5
 WT: 8.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 18 @ lvl 50
 , Tarnished Morning StarTarnished Morning Star
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 42
 DMG: 6
 WT: 10.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 21 @ lvl 50
 , Tarnished RapierTarnished Rapier
 Slot: PRIMARY SECONDARY
 Skill: Piercing Atk Delay: 29
 DMG: 4BACKSTAB: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Tarnished ScimitarTarnished Scimitar
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 33
 DMG: 5
 WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD DRU BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Tarnished Shortened SpearTarnished Shortened Spear
 Slot: PRIMARY SECONDARY
 Skill: Piercing Atk Delay: 30
 DMG: 4BACKSTAB: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 , Tarnished SpearTarnished Spear
 Slot: PRIMARY
 Skill: Piercing Atk Delay: 36
 DMG: 5BACKSTAB: 5
 WT: 7.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 18 @ lvl 50
 , Tarnished Two Handed Battle AxeTarnished Two Handed Battle Axe
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 47
 DMG: 9
 WT: 13.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 32 @ lvl 50
 , Tarnished Two Handed SwordTarnished Two Handed Sword
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 48
 DMG: 9
 WT: 12.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 33 @ lvl 50
 |
 Regren |
 1 |
@@ -427,7 +428,7 @@ Skill: 1H Slashing Atk Delay: 35
 DMG: 10
 WT: 8.5 Size: MEDIUM
 Class: WAR BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 |
 Bilrio Surecut |
 26 |
@@ -443,35 +444,35 @@ Skill: 1H Slashing Atk Delay: 28
 DMG: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Rusty SpearRusty Spear
 Slot: PRIMARY
 Skill: Piercing Atk Delay: 38
 DMG: 5BACKSTAB: 5
 WT: 7.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 , Rusty Two Handed SwordRusty Two Handed Sword
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 50
 DMG: 9
 WT: 12.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 , Tarnished Bastard SwordTarnished Bastard Sword
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 40
 DMG: 6
 WT: 9.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 20 @ lvl 50
 , Tarnished ScimitarTarnished Scimitar
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 33
 DMG: 5
 WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD DRU BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Dill Fireshine |
 2 |
@@ -494,28 +495,28 @@ Skill: 1H Slashing Atk Delay: 28
 DMG: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Rusty SpearRusty Spear
 Slot: PRIMARY
 Skill: Piercing Atk Delay: 38
 DMG: 5BACKSTAB: 5
 WT: 7.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 , Rusty Two Handed SwordRusty Two Handed Sword
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 50
 DMG: 9
 WT: 12.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 , Tarnished Bastard SwordTarnished Bastard Sword
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 40
 DMG: 6
 WT: 9.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 20 @ lvl 50
 |
 Dill Fireshine |
 8 |
@@ -627,7 +628,7 @@ DMG: 5BACKSTAB: 5
 STR: +2 INT: +2
 WT: 2.5 Size: MEDIUM
 Class: ROG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 Laren |
 16 |
@@ -675,14 +676,14 @@ Skill: Piercing Atk Delay: 23
 DMG: 4BACKSTAB: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 or Bronze DaggerBronze Dagger
 Slot: PRIMARY SECONDARY
 Skill: Piercing Atk Delay: 22
 DMG: 3BACKSTAB: 3
 WT: 3.0 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 Gallin Woodwind |
 5 |
@@ -735,7 +736,7 @@ Skill: Piercing Atk Delay: 22
 DMG: 3BACKSTAB: 3
 WT: 2.5 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 Tylfon |
 1 |
@@ -1124,7 +1125,7 @@ Skill: 2H Blunt Atk Delay: 36
 DMG: 9
 WT: 10.0 Size: LARGE
 Class: ALL except BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 24 @ lvl 50
 |
 Description needed. |
 Aleena Lightleaf
@@ -1300,7 +1301,7 @@ Skill: 1H Slashing Atk Delay: 29
 DMG: 6
 WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Fine Steel Long SwordFine Steel Long Sword
 Attunable, Placeable
 Slot: PRIMARY SECONDARY
@@ -1308,7 +1309,7 @@ Skill: 1H Slashing Atk Delay: 28
 DMG: 6
 Size: MEDIUM WT: 5.0
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Fine Steel ScimitarFine Steel Scimitar
 QUEST ITEM
 Slot: PRIMARY SECONDARY
@@ -1316,7 +1317,7 @@ Skill: 1H Slashing Atk Delay: 24
 DMG: 5
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD DRU BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 Description needed. |
 Centurion Relgle
@@ -1331,7 +1332,7 @@ Skill: 1H Slashing Atk Delay: 42
 DMG: 6
 WT: 8.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 21 @ lvl 50
 , Centurion Relgle's HeadCenturion Relgle's Head
 MAGIC ITEM LORE ITEM NO DROP
 WT: 10.0 Size: LARGE
@@ -1384,7 +1385,7 @@ Skill: 2H Blunt Atk Delay: 36
 DMG: 9
 WT: 10.0 Size: LARGE
 Class: ALL except BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 24 @ lvl 50
 |
 Either the orc pawn PH or Faelin will spawn at pos 1515, pos 555.
 Respawn timer is 7 minutes with roughly 10% cha... |
@@ -1408,7 +1409,7 @@ Skill: Piercing Atk Delay: 29
 DMG: 6BACKSTAB: 6
 WT: 7.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 Description needed. |
 Guard Briarstorm
@@ -2060,7 +2061,7 @@ Skill: 1H Slashing Atk Delay: 36
 DMG: 2
 WT: 10.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 18 @ lvl 50
 |
 Rare monster found around Greater Faydark. |
 Orc Oracle (Crushbone)
@@ -2083,7 +2084,7 @@ Skill: 1H Slashing Atk Delay: 36
 DMG: 2
 WT: 10.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 18 @ lvl 50
 |
 The lowliest of orcs. Usually found within Crushbone and Greater Faydark. |
 Orc scoutsman (Crushbone)
@@ -2312,7 +2313,7 @@ Skill: 1H Slashing Atk Delay: 36
 DMG: 2
 WT: 10.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 18 @ lvl 50
 |
 orc hatchetman, Orc Pawn (Crushbone) |
 1H Slashing |
@@ -2370,7 +2371,7 @@ Skill: Piercing Atk Delay: 29
 DMG: 6BACKSTAB: 6
 WT: 7.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 Geeda |
 Piercing |

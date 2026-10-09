@@ -1,5 +1,5 @@
 # Ocean_of_Tears (eqlwiki.com)
-fetched: 2026-10-05
+fetched: 2026-10-09
 
 Ocean of Tears - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -123,7 +124,7 @@ STR: +4 WIS: +3
 SV MAGIC: +5
 WT: 7.0 Range: 40 Size: LARGE
 Class: SHM
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 , Ring of the AncientsRing of the Ancients
 MAGIC ITEM LORE ITEM NO DROP
 Slot: WRIST
@@ -230,7 +231,7 @@ Skill: Piercing Atk Delay: 32
 DMG: 5BACKSTAB: 5
 WT: 5.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Kiola NutKiola Nut
 WT: 0.5 Size: SMALL
 Class: ALL
@@ -247,7 +248,7 @@ Skill: 1H Slashing Atk Delay: 32
 DMG: 6
 WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Styria Fearnon |
 20 |
@@ -266,7 +267,7 @@ Skill: Piercing Atk Delay: 32
 DMG: 5BACKSTAB: 5
 WT: 5.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Kiola NutKiola Nut
 WT: 0.5 Size: SMALL
 Class: ALL
@@ -291,7 +292,7 @@ DMG: 18
 STA: +5 WIS: +5
 WT: 13.0 Size: GIANT
 Class: PAL
-Race: ALL
+Race: ALLDMG Bonus: 27 @ lvl 50
 |
 Sentry Xyrin |
 40 |
@@ -360,7 +361,7 @@ INT: +2
 SV COLD: +2
 WT: 2.5 Size: SMALL
 Class: SHD NEC
-Race: ALL
+Race: ALLDMG Bonus: 10 @ lvl 50
 , Rune of ClayRune of Clay
 MAGIC ITEM LORE ITEM NO DROP
 WT: 0.1 Size: TINY
@@ -428,14 +429,14 @@ Skill: Piercing Atk Delay: 23
 DMG: 4BACKSTAB: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 , Bronze AxeBronze Axe
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 33
 DMG: 5
 WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Pirate's EarringPirate's Earring
 Slot: EAR
 WT: 0.1 Size: TINY
@@ -578,7 +579,7 @@ Skill: 1H Slashing Atk Delay: 28
 DMG: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , BucklerBuckler
 Slot: SECONDARY
 AC: 4
@@ -633,7 +634,7 @@ Skill: 2H Slashing Atk Delay: 56
 DMG: 10
 WT: 14.0 Size: GIANT
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 |
 Description needed. |
 Aqua goblin sacrifice
@@ -656,7 +657,7 @@ Skill: 1H Slashing Atk Delay: 29
 DMG: 6
 WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Purity BeltPurity Belt
 Slot: WAIST
 AC: 3
@@ -924,7 +925,7 @@ Skill: 1H Slashing Atk Delay: 29
 DMG: 6
 WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Purity BeltPurity Belt
 Slot: WAIST
 AC: 3
@@ -961,7 +962,7 @@ Skill: 2H Slashing Atk Delay: 56
 DMG: 10
 WT: 14.0 Size: GIANT
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 , Wood Elf PartsWood Elf Parts
 WT: 1.0 Size: SMALL
 Class: ALL
@@ -973,7 +974,7 @@ Nerbilik
 Troll |
 Warrior |
 20 |
-100% @ (730, 8800) |
+100% @ (730, 8800) — /waypoint 730, 8800 |
 None |
 Nerbilik can be found at two locations in the Ocean of Tears. He stands on the rock at +730, +8800 for a few minutes and... |
 Nyuae the Cruel
@@ -1020,7 +1021,7 @@ Skill: 1H Slashing Atk Delay: 29
 DMG: 6
 WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 — common drop |
 Description needed. |
 Quag Maelstrom
@@ -1084,7 +1085,7 @@ Skill: 2H Blunt Atk Delay: 36
 DMG: 9
 WT: 10.0 Size: LARGE
 Class: ALL except BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 24 @ lvl 50
 |
 The only known Gnome Druid. Interestingly, the robe he drops is not usable by druids. May be a reference to the [[Guise ... |
 Sister of Erollisi
@@ -1106,7 +1107,7 @@ Skill: 2H Slashing Atk Delay: 56
 DMG: 10
 WT: 14.0 Size: GIANT
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 , Wood Elf PartsWood Elf Parts
 WT: 1.0 Size: SMALL
 Class: ALL
@@ -1132,7 +1133,7 @@ STR: +4 WIS: +3
 SV MAGIC: +5
 WT: 7.0 Range: 40 Size: LARGE
 Class: SHM
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 The Biggest Aviak on Aviak Island in the OOT. 3 hour respawn. |
 Styria Fearnon
@@ -1234,7 +1235,7 @@ INT: +2
 SV COLD: +2
 WT: 2.5 Size: SMALL
 Class: SHD NEC
-Race: ALL
+Race: ALLDMG Bonus: 10 @ lvl 50
 |
 a goblin headmaster |
 Piercing |
@@ -1291,7 +1292,7 @@ Skill: 2H Slashing Atk Delay: 48
 DMG: 8
 WT: 13.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 33 @ lvl 50
 |
 a spectre |
 2H Slashing |
@@ -1323,7 +1324,7 @@ STR: +4 WIS: +3
 SV MAGIC: +5
 WT: 7.0 Range: 40 Size: LARGE
 Class: SHM
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Soarin Brightfeather |
 Piercing |
@@ -1484,7 +1485,7 @@ Skill: 2H Slashing Atk Delay: 45
 DMG: 11
 WT: 12.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 |
 a spectre |
 2H Slashing |

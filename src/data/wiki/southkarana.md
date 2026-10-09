@@ -1,5 +1,5 @@
 # Southern_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-09-30
+fetched: 2026-10-09
 
 Southern Karana - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -136,7 +137,7 @@ Skill: 2H Slashing Atk Delay: 48
 DMG: 18
 WT: 9.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 33 @ lvl 50
 , Electrum BraceletElectrum Bracelet
 MAGIC ITEM
 Slot: WRIST
@@ -159,7 +160,7 @@ Skill: 1H Blunt Atk Delay: 26
 DMG: 6
 WT: 4.5 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 , Lionhide BackpackLionhide Backpack
 WT: 0.4 Weight Reduction: 35%
 Capacity: 8 Size Capacity: LARGE
@@ -169,7 +170,7 @@ Skill: 2H Blunt Atk Delay: 70
 DMG: 20
 WT: 12.0 Size: LARGE
 Class: WAR SHD SHM
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 , Pegasus Feather CloakPegasus Feather Cloak
 MAGIC ITEM NO DROP
 Slot: SHOULDERS
@@ -203,7 +204,7 @@ Skill: 1H Slashing Atk Delay: 28
 DMG: 6
 WT: 2.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Silverish ScimitarSilverish Scimitar
 MAGIC ITEM
 Slot: PRIMARY SECONDARY
@@ -211,7 +212,7 @@ Skill: 1H Slashing Atk Delay: 22
 DMG: 6
 WT: 3.5 Size: MEDIUM
 Class: WAR PAL RNG SHD DRU BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 , Thunderhoof QuiverThunderhoof Quiver
 WT: 0.4 Weight Reduction: 33%
 Capacity: 4 Size Capacity: MEDIUM
@@ -230,7 +231,7 @@ DMG: 10
 Effect: Root (Combat, Casting Time: Instant) at Level 18
 WT: 9.5 Size: LARGE
 Class: ALL except BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 24 @ lvl 50
 , Vial of Rabid FrothVial of Rabid Froth
 Effect: System Shock I (Combat, Casting Time: Instant) at Level 25
 WT: 0.4 Size: SMALL
@@ -244,7 +245,7 @@ DMG: 9
 HP: +5 MANA: +5 END: +5
 Size: LARGE WT: 11.0
 Class: CLR DRU SHM NEC WIZ MAG ENC BST BER
-Race: ALL
+Race: ALLDMG Bonus: 25 @ lvl 50
 , Cyclops SkullCyclops Skull
 WT: 10.0 Size: GIANT
 Class: ALL
@@ -595,7 +596,7 @@ Skill: Piercing Atk Delay: 32
 DMG: 4BACKSTAB: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Rain WaterRain Water
 QUEST ITEM
 WT: 0.1 Size: SMALL
@@ -607,7 +608,7 @@ Skill: 1H Blunt Atk Delay: 32
 DMG: 5
 WT: 8.5 Size: LARGE
 Class: ALL
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 22 spawn timer, wanders zone eventually returning to spawn point loc. Placeholders may be High Shaman Grisok, [[Hig... |
 An Ishva Lteth gnoll
@@ -717,7 +718,7 @@ Skill: 1H Slashing Atk Delay: 28
 DMG: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Rusty Long SwordRusty Long Sword
 Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
@@ -725,21 +726,21 @@ Skill: 1H Slashing Atk Delay: 35
 DMG: 5
 Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 , Bronze Two Handed SwordBronze Two Handed Sword
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 47
 DMG: 9
 WT: 13.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 32 @ lvl 50
 , Bronze MaceBronze Mace
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 38
 DMG: 6
 WT: 9.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 |
 The Egrets are often green to hunters by the time they make it to the Aviak Village. Egrets tend to be found throughout ... |
 Aviak harrier
@@ -959,7 +960,7 @@ Skill: 1H Slashing Atk Delay: 28
 DMG: 6
 WT: 2.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 (rare)
 |
 Shares spawn with a cyclops in South Karana. |
@@ -1008,7 +1009,7 @@ DMG: 10
 Effect: Root (Combat, Casting Time: Instant) at Level 18
 WT: 9.5 Size: LARGE
 Class: ALL except BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 24 @ lvl 50
 |
 Grizzleknot wanders from (-535, -315), (1245, -1830), and (-1700, -1300). Centaurs might be the placeholders, but not co... |
 Groi Gutblade
@@ -1033,7 +1034,7 @@ DMG: 9
 HP: +5 MANA: +5 END: +5
 Size: LARGE WT: 11.0
 Class: CLR DRU SHM NEC WIZ MAG ENC BST BER
-Race: ALL
+Race: ALLDMG Bonus: 25 @ lvl 50
 , Head of ShenHead of Shen
 LORE ITEM
 WT: 2.0 Size: MEDIUM
@@ -1062,14 +1063,14 @@ Skill: 1H Blunt Atk Delay: 38
 DMG: 8
 WT: 10.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 , Fine Steel WarhammerFine Steel Warhammer
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 30
 DMG: 6
 WT: 7.3 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Spawn Timer: 22 minutes
 Place Holders:
@@ -1181,7 +1182,7 @@ DMG: 9
 HP: +5 MANA: +5 END: +5
 Size: LARGE WT: 11.0
 Class: CLR DRU SHM NEC WIZ MAG ENC BST BER
-Race: ALL
+Race: ALLDMG Bonus: 25 @ lvl 50
 |
 Spawns next to Verishe Mal Executioner, who will immediately kill him. Can also spawn wandering in [[Southern Karana... |
 Lord Grimrot
@@ -1200,7 +1201,7 @@ SV DISEASE: +10 SV POISON: +10
 Effect: Vampiric Curse (Any Slot, Casting Time: Instant)
 WT: 12.0 Size: LARGE
 Class: WAR SHD NEC
-Race: ALL
+Race: ALLDMG Bonus: 33 @ lvl 50
 (for quest), Pestilence ScythePestilence Scythe
 LORE ITEM
 Slot: PRIMARY
@@ -1208,7 +1209,7 @@ Skill: 2H Slashing Atk Delay: 50
 DMG: 10
 WT: 11.9 Size: LARGE
 Class: ALL except CLR WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 (not for quest), Burning Soul of the PestilentBurning Soul of the Pestilent
 No Trade, Quest
 Size: TINY
@@ -1238,7 +1239,7 @@ Skill: 1H Blunt Atk Delay: 26
 DMG: 6
 WT: 4.5 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 , Beartooth NecklaceBeartooth Necklace
 Slot: NECK
 STA: +3 HP: +10
@@ -1312,7 +1313,7 @@ Skill: 1H Slashing Atk Delay: 24
 DMG: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 , Silverish ScimitarSilverish Scimitar
 MAGIC ITEM
 Slot: PRIMARY SECONDARY
@@ -1320,7 +1321,7 @@ Skill: 1H Slashing Atk Delay: 22
 DMG: 6
 WT: 3.5 Size: MEDIUM
 Class: WAR PAL RNG SHD DRU BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 A placeholder for Brother Qwinn. |
 Quillmane
@@ -1379,7 +1380,7 @@ Skill: 1H Blunt Atk Delay: 30
 DMG: 4
 WT: 7.5 Range: 40 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 , Runed Totem StaffRuned Totem Staff
 Lore Equipped, Attunable, Quest, Placeable
 Slot: PRIMARY
@@ -1388,7 +1389,7 @@ DMG: 9
 HP: +5 MANA: +5 END: +5
 Size: LARGE WT: 11.0
 Class: CLR DRU SHM NEC WIZ MAG ENC BST BER
-Race: ALL
+Race: ALLDMG Bonus: 25 @ lvl 50
 |
 22 minute spawn timer, wanders zone eventually returning to spawn point loc. Placeholders may be High Shaman Grisok... |
 Shaman Ren`Rex
@@ -1403,14 +1404,14 @@ Skill: 1H Blunt Atk Delay: 30
 DMG: 6
 WT: 7.3 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 , Fine Steel Great StaffFine Steel Great Staff
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 36
 DMG: 9
 WT: 10.0 Size: LARGE
 Class: ALL except BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 24 @ lvl 50
 , Runed Totem StaffRuned Totem Staff
 Lore Equipped, Attunable, Quest, Placeable
 Slot: PRIMARY
@@ -1419,7 +1420,7 @@ DMG: 9
 HP: +5 MANA: +5 END: +5
 Size: LARGE WT: 11.0
 Class: CLR DRU SHM NEC WIZ MAG ENC BST BER
-Race: ALL
+Race: ALLDMG Bonus: 25 @ lvl 50
 |
 Spawn Timer: 22 minutes
 Place Holders:
@@ -1438,7 +1439,7 @@ Skill: 2H Slashing Atk Delay: 45
 DMG: 12
 WT: 12.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 , Sir Telian's HeadSir Telian's Head
 LORE ITEM NO DROP
 WT: 1.0 Size: MEDIUM
@@ -1459,7 +1460,7 @@ Skill: 2H Slashing Atk Delay: 48
 DMG: 18
 WT: 9.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 33 @ lvl 50
 , Bark ShieldBark Shield
 MAGIC ITEM
 Slot: SECONDARY
@@ -1672,7 +1673,7 @@ DMG: 4BACKSTAB: 4
 Effect: Weaken (Combat, Casting Time: Instant) at Level 15
 WT: 1.5 Size: TINY
 Class: ROG NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 a Tesch Mas Gnoll |
 Piercing |
@@ -1703,7 +1704,7 @@ Skill: 2H Slashing Atk Delay: 48
 DMG: 18
 WT: 9.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 33 @ lvl 50
 |
 Synger Foxfyre |
 2H Slashing |
@@ -1781,7 +1782,7 @@ DMG: 3 AC: 3
 Effect: Stun (Combat, Casting Time: Instant) at Level 25
 WT: 3.0 Size: TINY
 Class: WAR RNG BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 10 @ lvl 50
 |
 a Rosch Val Gnoll, a Tesch Mas Gnoll |
 1H Slashing |
@@ -1804,7 +1805,7 @@ Skill: 2H Blunt Atk Delay: 38
 DMG: 9
 WT: 10.0 Size: LARGE
 Class: ALL except BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 26 @ lvl 50
 |
 a treant |
 2H Blunt |
@@ -1861,7 +1862,7 @@ Skill: 1H Blunt Atk Delay: 26
 DMG: 6
 WT: 4.5 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Marik Clubthorn |
 1H Blunt |
@@ -1873,7 +1874,7 @@ Skill: 2H Blunt Atk Delay: 35
 DMG: 10
 WT: 10.0 Size: LARGE
 Class: ALL except BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 24 @ lvl 50
 |
 None? |
 2H Blunt |
@@ -1909,7 +1910,7 @@ Skill: 2H Blunt Atk Delay: 70
 DMG: 20
 WT: 12.0 Size: LARGE
 Class: WAR SHD SHM
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 |
 Mroon |
 2H Blunt |
@@ -1937,7 +1938,7 @@ SV DISEASE: +10 SV POISON: +10
 Effect: Vampiric Curse (Any Slot, Casting Time: Instant)
 WT: 12.0 Size: LARGE
 Class: WAR SHD NEC
-Race: ALL
+Race: ALLDMG Bonus: 33 @ lvl 50
 |
 Lord Grimrot |
 2H Slashing |
@@ -2034,7 +2035,7 @@ DMG: 9
 HP: +5 MANA: +5 END: +5
 Size: LARGE WT: 11.0
 Class: CLR DRU SHM NEC WIZ MAG ENC BST BER
-Race: ALL
+Race: ALLDMG Bonus: 25 @ lvl 50
 |
 High Shaman Grisok, Shaman Lenrel, Shaman Ren`Rex |
 2H Blunt |
@@ -2046,7 +2047,7 @@ Skill: 1H Slashing Atk Delay: 28
 DMG: 6
 WT: 2.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 Gnashmaw |
 1H Slashing |
@@ -2067,7 +2068,7 @@ Skill: 1H Slashing Atk Delay: 22
 DMG: 6
 WT: 3.5 Size: MEDIUM
 Class: WAR PAL RNG SHD DRU BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 Narra Tanith |
 1H Slashing |
@@ -2183,7 +2184,7 @@ DMG: 10
 Effect: Root (Combat, Casting Time: Instant) at Level 18
 WT: 9.5 Size: LARGE
 Class: ALL except BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 24 @ lvl 50
 |
 Grizzleknot |
 2H Blunt |

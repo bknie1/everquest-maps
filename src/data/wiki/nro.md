@@ -1,5 +1,5 @@
 # North_Ro (eqlwiki.com)
-fetched: 2026-10-05
+fetched: 2026-10-09
 
 The Northern Desert of Ro - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -113,7 +114,7 @@ Skill: 1H Blunt Atk Delay: 38
 DMG: 9
 WT: 4.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 , Scute ShieldScute Shield
 MAGIC ITEM
 Slot: SECONDARY
@@ -282,7 +283,7 @@ Skill: 1H Slashing Atk Delay: 35
 DMG: 5
 Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 , Zombie SkinZombie Skin
 Quest
 Size: SMALL WT: 0.1
@@ -428,6 +429,7 @@ WT: 1.0 Size: SMALL
 Class: ALL
 Race: ALL
 , Armadillo HuskArmadillo Husk
+Quest
 This is a snack.
 WT: 0.4 Size: TINY
 Class: ALL
@@ -457,7 +459,7 @@ DEX: +2
 SV MAGIC: +3
 WT: 2.5 Size: SMALL
 Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 Source of one of the earliest available magic weapons on Antonica. Socials with nearby dervishes. Two of the surrounding... |
 Dunedigger
@@ -570,7 +572,7 @@ Skill: 1H Blunt Atk Delay: 38
 DMG: 9
 WT: 4.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 , Scarab RingScarab Ring
 MAGIC ITEM
 Slot: FINGER
@@ -619,6 +621,7 @@ Dunedigger |
 (None) |
 WT: 0.0 Size: TINY Class: ALL Race: ALL |
 Armadillo HuskArmadillo Husk
+Quest
 This is a snack.
 WT: 0.4 Size: TINY
 Class: ALL
@@ -626,7 +629,7 @@ Race: ALL
 |
 an armadillo, Dunedigger (?) |
 (None) |
-This is a snack. WT: 0.4 Size: TINY Class: ALL Race: ALL |
+Quest This is a snack. WT: 0.4 Size: TINY Class: ALL Race: ALL |
 Armadillo MeatArmadillo Meat
 This is a meal!
 WT: 1.0 Size: SMALL
@@ -666,7 +669,7 @@ Skill: 1H Slashing Atk Delay: 33
 DMG: 5
 WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 a ghoul |
 1H Slashing |
@@ -677,7 +680,7 @@ Skill: 2H Blunt Atk Delay: 45
 DMG: 8
 WT: 14.0 Size: LARGE
 Class: ALL except BRD ROG NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 |
 a ghoul |
 2H Blunt |
@@ -688,7 +691,7 @@ Skill: 1H Blunt Atk Delay: 35
 DMG: 5
 WT: 6.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 |
 a Dervish Thug |
 1H Blunt |
@@ -699,7 +702,7 @@ Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 a Dervish Cutthroat, a Dervish Thug |
 1H Blunt |
@@ -826,7 +829,7 @@ Skill: 1H Slashing Atk Delay: 40
 DMG: 2
 WT: 10.0 Size: MEDIUM
 Class: ALL except CLR DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 20 @ lvl 50
 |
 Deathfist Pawn |
 1H Slashing |
@@ -908,7 +911,7 @@ Skill: 1H Blunt Atk Delay: 38
 DMG: 9
 WT: 4.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 |
 Rahotep |
 1H Blunt |

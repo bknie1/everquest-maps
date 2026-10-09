@@ -1,5 +1,5 @@
 # Northern_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-10-05
+fetched: 2026-10-09
 
 Northern Plains of Karana - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -240,7 +241,7 @@ Skill: 2H Slashing Atk Delay: 46
 DMG: 10
 WT: 13.0 Size: LARGE
 Class: WAR
-Race: ALL
+Race: ALLDMG Bonus: 31 @ lvl 50
 , Round ShieldRound Shield
 Slot: SECONDARY
 AC: 6
@@ -259,7 +260,7 @@ Skill: 1H Blunt Atk Delay: 30
 DMG: 6
 WT: 7.3 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 , Fine Steel DaggerFine Steel Dagger
 QUEST ITEM
 Slot: PRIMARY SECONDARY
@@ -267,7 +268,7 @@ Skill: Piercing Atk Delay: 19
 DMG: 3BACKSTAB: 3
 WT: 2.4 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 , Bronze Long SwordBronze Long Sword
 Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
@@ -275,7 +276,7 @@ Skill: 1H Slashing Atk Delay: 32
 DMG: 5
 Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Bronze BracersBronze Bracers
 Slot: WRIST
 AC: 7
@@ -296,7 +297,7 @@ DMG: 4
 Effect: Lifetap (Combat, Casting Time: Instant) at Level 1
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 Capt Linarius |
 15 (lowest level of the guard you need to kill is 30) |
@@ -794,7 +795,7 @@ Skill: 1H Slashing Atk Delay: 23
 DMG: 4
 Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 Famous for chopping up evil wizards and their company who port in unprepared. Spawns in the gatehouse of the bridge to S... |
 Guard Oystin
@@ -826,7 +827,7 @@ Skill: 1H Slashing Atk Delay: 35
 DMG: 5
 Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 , Qeynos Kite ShieldQeynos Kite Shield
 Slot: SECONDARY
 AC: 8
@@ -866,7 +867,7 @@ Skill: 1H Slashing Atk Delay: 23
 DMG: 4
 Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 One of two Qeynos Guards manning the tower on the hill overlooking the Gypsy camp. |
 Guard Westyn
@@ -946,7 +947,7 @@ Skill: 1H Slashing Atk Delay: 29
 DMG: 6
 WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 (100%) |
 A rare wandering guard that pops by the tower, patrols a small area between there and the wizard spires.[https://web.arc... |
 Merry Snowgleam
@@ -1069,7 +1070,7 @@ Skill: 2H Blunt Atk Delay: 40
 DMG: 5
 WT: 5.0 Size: LARGE
 Class: RNG
-Race: ALL
+Race: ALLDMG Bonus: 27 @ lvl 50
 |
 Talionn Forsyth has a Velious era quest that requires cooking. |
 The Silver Griffon
@@ -1129,7 +1130,7 @@ Skill: 1H Slashing Atk Delay: 22
 DMG: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 , Small Round ShieldSmall Round Shield
 Slot: SECONDARY
 AC: 6

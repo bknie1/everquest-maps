@@ -1,5 +1,5 @@
 # Everfrost_Peaks (eqlwiki.com)
-fetched: 2026-10-01
+fetched: 2026-10-09
 
 Everfrost Peaks - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -128,7 +129,7 @@ Skill: 2H Slashing Atk Delay: 39
 DMG: 18
 WT: 10.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 26 @ lvl 50
 , Werewolf Skin CloakWerewolf Skin Cloak
 MAGIC ITEM
 Slot: BACK
@@ -249,7 +250,7 @@ DMG: 10
 INT: +10 HP: +10 MANA: +10
 WT: 1.0 Size: LARGE
 Class: WIZ
-Race: ALL
+Race: ALLDMG Bonus: 25 @ lvl 50
 , Star of EyesStar of Eyes
 No Trade, Quest
 Effect: Identify (Any Slot, Casting Time: Instant)
@@ -629,7 +630,7 @@ STR: +3 DEX: +3
 Effect: Disease Cloud (Combat, Casting Time: Instant) at Level 15
 WT: 1.0 Size: SMALL
 Class: ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 , Combine DaggerCombine Dagger
 MAGIC ITEM
 Slot: PRIMARY SECONDARY
@@ -637,7 +638,7 @@ Skill: Piercing Atk Delay: 19
 DMG: 3BACKSTAB: 3
 WT: 2.4 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 , Fading Shadow DaggerFading Shadow Dagger
 Slot: PRIMARY SECONDARY
 Skill: Piercing Atk Delay: 18
@@ -645,7 +646,7 @@ DMG: 4BACKSTAB: 4
 HP: +2
 WT: 2.4 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 |
 Everfrost Peaks: Placeholders (an ice goblin whelp and a snow leopard) and the Dark Assassin himself follow ... |
 Dom McMarrin
@@ -759,7 +760,7 @@ Skill: Piercing Atk Delay: 24
 DMG: 3BACKSTAB: 3
 WT: 2.5 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 , Goblin Ice NecklaceGoblin Ice Necklace
 QUEST ITEM
 Slot: NECK
@@ -839,7 +840,7 @@ Skill: 2H Slashing Atk Delay: 39
 DMG: 18
 WT: 10.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 26 @ lvl 50
 |
 A difficult-to-locate Barbarian warrior who roams all across the "tundra" area of Everfrost Peaks. He's searching for th... |
 Lich of Miragul
@@ -1069,7 +1070,7 @@ STR: +3 DEX: +3
 Effect: Disease Cloud (Combat, Casting Time: Instant) at Level 15
 WT: 1.0 Size: SMALL
 Class: ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 Dark Assassin |
 1H Slashing |
@@ -1115,7 +1116,7 @@ Skill: Piercing Atk Delay: 19
 DMG: 3BACKSTAB: 3
 WT: 2.4 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 |
 Dark Assassin |
 Piercing |
@@ -1196,7 +1197,7 @@ Skill: 2H Slashing Atk Delay: 39
 DMG: 18
 WT: 10.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 26 @ lvl 50
 |
 Karg IceBear |
 2H Slashing |
@@ -1352,7 +1353,7 @@ Skill: 1H Slashing Atk Delay: 38
 DMG: 4
 WT: 3.0 Size: MEDIUM
 Class: ALL except CLR DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 |
 Tundra Jack |
 1H Slashing |

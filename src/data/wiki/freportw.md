@@ -1,5 +1,5 @@
 # West_Freeport (eqlwiki.com)
-fetched: 2026-10-01
+fetched: 2026-10-09
 
 Freeport - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -410,7 +411,7 @@ Skill: 2H Slashing Atk Delay: 46
 DMG: 10
 WT: 13.0 Size: LARGE
 Class: WAR
-Race: ALL
+Race: ALLDMG Bonus: 31 @ lvl 50
 |
 Cain Darkmoore |
 1 |
@@ -458,7 +459,7 @@ Skill: 1H Slashing Atk Delay: 28
 DMG: 5
 WT: 6.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 Larn Brugal |
 9+ |
@@ -645,7 +646,7 @@ Skill: 1H Slashing Atk Delay: 23
 DMG: 4
 Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 , Damaged Militia HelmDamaged Militia Helm
 NO DROP
 WT: 6.0 Size: SMALL
@@ -706,7 +707,7 @@ Skill: 1H Slashing Atk Delay: 28
 DMG: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Fine Steel Short SwordFine Steel Short Sword
 Attunable, Placeable
 Slot: PRIMARY SECONDARY
@@ -714,7 +715,7 @@ Skill: 1H Slashing Atk Delay: 23
 DMG: 4
 Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 Description needed. |
 Brother Jentry
@@ -745,7 +746,7 @@ Skill: 2H Blunt Atk Delay: 51
 DMG: 13
 WT: 13.0 Size: LARGE
 Class: ALL except BRD ROG NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 , Human HeadHuman Head
 LORE ITEM NO DROP
 WT: 0.4 Size: SMALL
@@ -884,7 +885,7 @@ Skill: 1H Slashing Atk Delay: 29
 DMG: 6
 WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 Description needed. |
 Guard Cozak
@@ -905,7 +906,7 @@ Skill: 1H Slashing Atk Delay: 29
 DMG: 6
 WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Damaged Militia HelmDamaged Militia Helm
 NO DROP
 WT: 6.0 Size: SMALL
@@ -1778,7 +1779,7 @@ Skill: 1H Blunt Atk Delay: 36
 DMG: 5
 WT: 8.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 18 @ lvl 50
 |
 Ulia Yovar |
 1H Blunt |
@@ -1801,7 +1802,7 @@ Skill: 1H Blunt Atk Delay: 32
 DMG: 6
 WT: 7.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Various |
 1H Blunt |
@@ -1812,7 +1813,7 @@ Skill: 2H Blunt Atk Delay: 40
 DMG: 7
 WT: 11.0 Size: LARGE
 Class: ALL except BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 27 @ lvl 50
 |
 None? |
 2H Blunt |
@@ -2116,7 +2117,7 @@ SV FIRE: +10 SV DISEASE: +10 SV COLD: +10 SV MAGIC: +10 SV POISON: +10
 Effect: Rage of Zek (Combat, Casting Time: Instant) at Level 50
 WT: 6.0 Size: MEDIUM
 Class: WAR
-Race: ALL
+Race: ALLDMG Bonus: 28 @ lvl 50
 (2H), Blade of TacticsBlade of Tactics
 MAGIC ITEM LORE ITEM NO DROP
 Slot: PRIMARY SECONDARY
@@ -2127,7 +2128,7 @@ SV FIRE: +5 SV DISEASE: +5 SV COLD: +5 SV MAGIC: +5 SV POISON: +5
 Effect: Rage of Tallon (Worn)
 WT: 2.5 Size: SMALL
 Class: WAR
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 (1H) [Blue], Blade of StrategyBlade of Strategy
 MAGIC ITEM LORE ITEM NO DROP
 Slot: PRIMARY SECONDARY
@@ -2138,7 +2139,7 @@ SV FIRE: +5 SV DISEASE: +5 SV COLD: +5 SV MAGIC: +5 SV POISON: +5
 Effect: Rage of Vallon (Combat, Casting Time: Instant) at Level 50
 WT: 2.5 Size: SMALL
 Class: WAR
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 (1H) [Red] |
 Kargek Redblade, Wenden Blackhammer |
 Start Zone: |
@@ -2298,7 +2299,7 @@ Skill: 1H Blunt Atk Delay: 37
 DMG: 7
 WT: 8.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 18 @ lvl 50
 |
 Evil Cleric Guildmaster |
 Bronto Thudfoot
@@ -2334,7 +2335,7 @@ Skill: 1H Slashing Atk Delay: 24
 DMG: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 , Fine Steel Short SwordFine Steel Short Sword
 Attunable, Placeable
 Slot: PRIMARY SECONDARY
@@ -2342,7 +2343,7 @@ Skill: 1H Slashing Atk Delay: 23
 DMG: 4
 Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 , Short Sword* |
 Description needed. |
 Canlan Talespinner
@@ -2357,7 +2358,7 @@ Skill: Piercing Atk Delay: 31
 DMG: 4BACKSTAB: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 , LuteLute
 Slot: SECONDARY
 String Resonance: 10
@@ -2408,7 +2409,7 @@ Skill: Piercing Atk Delay: 25
 DMG: 5BACKSTAB: 5
 WT: 5.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 Rogue Guildmaster |
 Fabian
@@ -2681,7 +2682,7 @@ Skill: 1H Slashing Atk Delay: 29
 DMG: 6
 WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 Paths between the two listed locations. |
 Gunex Eklar
@@ -2696,7 +2697,7 @@ Skill: 2H Slashing Atk Delay: 45
 DMG: 12
 WT: 12.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 |
 Shadow Knight Guild Master in EFP. |
 Harg Tonicka
@@ -2895,7 +2896,7 @@ Skill: 1H Slashing Atk Delay: 29
 DMG: 6
 WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 Appears in the Seafarer's Roost in the daytime. Also appears as Lenka Stoutheart (Firiona Vie) for [[Dragon Scales Q... |
 Lunce Nasin
@@ -3000,7 +3001,7 @@ Skill: 2H Slashing Atk Delay: 45
 DMG: 12
 WT: 12.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 |
 Description needed. |
 Nexvok Thirod
@@ -3084,7 +3085,7 @@ Skill: 2H Slashing Atk Delay: 45
 DMG: 12
 WT: 12.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 |
 SK Guildmaster |
 Plnorrick Spinecracker
@@ -3140,7 +3141,7 @@ Skill: 2H Slashing Atk Delay: 45
 DMG: 12
 WT: 12.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 |
 Description needed. |
 Rin Distlemor
@@ -3424,7 +3425,7 @@ Skill: 1H Blunt Atk Delay: 37
 DMG: 7
 WT: 8.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 18 @ lvl 50
 |
 Description needed. |
 Wenden Blackhammer
@@ -3487,7 +3488,7 @@ Skill: 1H Blunt Atk Delay: 37
 DMG: 7
 WT: 8.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 18 @ lvl 50
 |
 If you are thinking about taking the quest he offers for Dismal Rage clerics - don't. This looks to be the beginning of... |
 Items - Found 12 items that drop in East Freeport:
@@ -3545,7 +3546,7 @@ Skill: 1H Blunt Atk Delay: 37
 DMG: 7
 WT: 8.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 18 @ lvl 50
 |
 Brek Stolrus, Vesagar Nekio, Zhem Xecia |
 1H Blunt |
@@ -3592,7 +3593,7 @@ Skill: 2H Blunt Atk Delay: 51
 DMG: 13
 WT: 13.0 Size: LARGE
 Class: ALL except BRD ROG NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 |
 Captain Hazran |
 2H Blunt |
@@ -3765,7 +3766,7 @@ STR: +7 WIS: +7
 Effect: Promised Renewal (Any Slot/Can Equip, Casting Time: Instant) at Level 40
 WT: 5.0 Size: LARGE
 Class: PAL
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 |
 Kalatrina Plossen |
 1, but 50 for killing NPCs |
@@ -3899,14 +3900,14 @@ Skill: 2H Slashing Atk Delay: 45
 DMG: 12
 WT: 12.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 , Forged Two Handed SwordForged Two Handed Sword
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 44
 DMG: 12
 WT: 11.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 |
 Description needed. |
 Eestyana Naestra
@@ -4012,21 +4013,21 @@ Skill: 1H Blunt Atk Delay: 32
 DMG: 6
 WT: 7.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Bronze WarhammerBronze Warhammer
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Fine Steel WarhammerFine Steel Warhammer
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 30
 DMG: 6
 WT: 7.3 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Paladin Guildmaster of the Sentries of Passion, Paladins of the Priests of Marr. They are followers of Erollisi Marr and... |
 Hulos Ghenar
@@ -4247,21 +4248,21 @@ Skill: 1H Blunt Atk Delay: 32
 DMG: 6
 WT: 7.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Bronze WarhammerBronze Warhammer
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Fine Steel WarhammerFine Steel Warhammer
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 30
 DMG: 6
 WT: 7.3 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Description needed. |
 Peran Silverfield
@@ -4308,21 +4309,21 @@ Skill: 1H Blunt Atk Delay: 32
 DMG: 6
 WT: 7.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Bronze WarhammerBronze Warhammer
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Fine Steel WarhammerFine Steel Warhammer
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 30
 DMG: 6
 WT: 7.3 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Description needed. |
 Sentry Boris
@@ -4337,21 +4338,21 @@ Skill: 1H Blunt Atk Delay: 32
 DMG: 6
 WT: 7.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Bronze WarhammerBronze Warhammer
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Fine Steel WarhammerFine Steel Warhammer
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 30
 DMG: 6
 WT: 7.3 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Description needed. |
 Sentry Gallius
@@ -4366,21 +4367,21 @@ Skill: 1H Blunt Atk Delay: 32
 DMG: 6
 WT: 7.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Bronze WarhammerBronze Warhammer
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Fine Steel WarhammerFine Steel Warhammer
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 30
 DMG: 6
 WT: 7.3 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Description needed. |
 Sentry Janeal
@@ -4395,21 +4396,21 @@ Skill: 1H Blunt Atk Delay: 32
 DMG: 6
 WT: 7.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Bronze WarhammerBronze Warhammer
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Fine Steel WarhammerFine Steel Warhammer
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 30
 DMG: 6
 WT: 7.3 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Description needed. |
 Sentry Meighan
@@ -4424,21 +4425,21 @@ Skill: 1H Blunt Atk Delay: 32
 DMG: 6
 WT: 7.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Bronze WarhammerBronze Warhammer
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Fine Steel WarhammerFine Steel Warhammer
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 30
 DMG: 6
 WT: 7.3 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Description needed. |
 Sentry Theo
@@ -4453,21 +4454,21 @@ Skill: 1H Blunt Atk Delay: 32
 DMG: 6
 WT: 7.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Bronze WarhammerBronze Warhammer
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Fine Steel WarhammerFine Steel Warhammer
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 30
 DMG: 6
 WT: 7.3 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Description needed. |
 Sentry Warren
@@ -4482,21 +4483,21 @@ Skill: 1H Blunt Atk Delay: 32
 DMG: 6
 WT: 7.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Bronze WarhammerBronze Warhammer
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Fine Steel WarhammerFine Steel Warhammer
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 30
 DMG: 6
 WT: 7.3 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Description needed. |
 Serna Tasknon
@@ -4727,14 +4728,14 @@ Skill: 1H Blunt Atk Delay: 32
 DMG: 6
 WT: 7.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Bronze WarhammerBronze Warhammer
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Cleric Guildmaster of the Temple of Marr |
 Thurion Desius
@@ -4851,7 +4852,7 @@ Skill: 1H Blunt Atk Delay: 32
 DMG: 6
 WT: 7.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Sentry Andlin, Sentry Theo, Sentry Warren |
 1H Blunt |

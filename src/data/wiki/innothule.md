@@ -1,5 +1,5 @@
 # Innothule_Swamp (eqlwiki.com)
-fetched: 2026-09-22
+fetched: 2026-10-09
 
 Innothule Swamp - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -152,7 +153,7 @@ DMG: 14
 Effect: Walking Sleep (Any Slot, Casting Time: 0.3, Cooldown: 1 seconds, Cooldown Group: 52)
 WT: 11.0 Size: GIANT
 Class: CLR SHM BST BER
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 (Rare), BrutechopperBrutechopper
 Attunable
 Slot: PRIMARY
@@ -160,7 +161,7 @@ Skill: 2H Slashing Atk Delay: 50
 DMG: 16
 WT: 11.0 Size: GIANT
 Class: WAR PAL SHD ROG BER
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 (Common), Ivandyr's HoopIvandyr's Hoop
 Lore Equipped, Attunable
 Slot: EAR
@@ -261,7 +262,7 @@ Skill: 1H Slashing Atk Delay: 27
 DMG: 4
 WT: 6.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 , Frog Eye NecklaceFrog Eye Necklace
 Slot: NECK
 WT: 0.2 Size: SMALL
@@ -489,7 +490,7 @@ Skill: 1H Blunt Atk Delay: 30
 DMG: 6
 WT: 7.3 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 , Round ShieldRound Shield
 Slot: SECONDARY
 AC: 6
@@ -531,7 +532,7 @@ Skill: 1H Blunt Atk Delay: 30
 DMG: 6
 WT: 7.3 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 , Round ShieldRound Shield
 Slot: SECONDARY
 AC: 6
@@ -560,7 +561,7 @@ Skill: 1H Blunt Atk Delay: 30
 DMG: 6
 WT: 7.3 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 , Round ShieldRound Shield
 Slot: SECONDARY
 AC: 6
@@ -585,7 +586,7 @@ Skill: Piercing Atk Delay: 38
 DMG: 5BACKSTAB: 5
 WT: 7.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 , A Noble's CrestA Noble's Crest
 NO DROP
 Slot: NECK
@@ -649,7 +650,7 @@ Skill: Piercing Atk Delay: 38
 DMG: 5BACKSTAB: 5
 WT: 7.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 |
 When hailed asks to be left alone. His people are starving. |
 Fungus man tracker
@@ -678,7 +679,7 @@ Skill: Piercing Atk Delay: 27
 DMG: 5BACKSTAB: 5
 WT: 5.0 Size: MEDIUM
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Large snake found in Innothule Swamp.Not aggressive. They proc Poison |
 Gwynn Marthank
@@ -764,7 +765,7 @@ Skill: 1H Blunt Atk Delay: 27
 DMG: 4
 WT: 5.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 , Large RubyLarge Ruby
 MAGIC ITEM LORE ITEM
 Slot: Head
@@ -891,7 +892,7 @@ Skill: Piercing Atk Delay: 27
 DMG: 5BACKSTAB: 5
 WT: 5.0 Size: MEDIUM
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 , Human FleshHuman Flesh
 This is a meal!
 WT: 1.0 Size: SMALL

@@ -1,5 +1,5 @@
 # West_Commonlands (eqlwiki.com)
-fetched: 2026-10-01
+fetched: 2026-10-09
 
 West Commonlands - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -548,7 +549,7 @@ Skill: 2H Slashing Atk Delay: 56
 DMG: 10
 WT: 14.0 Size: GIANT
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 , Dragoon DirkDragoon Dirk
 MAGIC ITEM LORE ITEM
 Slot: RANGE PRIMARY SECONDARY
@@ -558,7 +559,7 @@ DEX: +2
 SV MAGIC: +3
 WT: 2.5 Size: SMALL
 Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 Spawns in front of Befallen after Kizdean Gix is killed. After he spawns, he immediately runs to -635, 1452, where h... |
 Duggin Scumber
@@ -755,7 +756,7 @@ Skill: 1H Slashing Atk Delay: 40
 DMG: 2
 WT: 10.0 Size: MEDIUM
 Class: ALL except CLR DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 20 @ lvl 50
 |
 The lowliest of orcs. The Misty Thicket Orc Pawns will drop Deathfist Slashed Belts. |
 Parus the Strong
@@ -1004,7 +1005,7 @@ Skill: 1H Slashing Atk Delay: 40
 DMG: 2
 WT: 10.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 20 @ lvl 50
 |
 orc weaponsmith |
 1H Slashing |
@@ -1034,7 +1035,7 @@ Skill: 1H Slashing Atk Delay: 35
 DMG: 7
 WT: 8.5 Size: MEDIUM
 Class: WAR
-Race: NONE
+Race: NONEDMG Bonus: 17 @ lvl 50
 |
 a shadowed man |
 1H Slashing |
@@ -1055,7 +1056,7 @@ Skill: 1H Slashing Atk Delay: 25
 DMG: 5
 WT: 7.5 Size: MEDIUM
 Class: WAR
-Race: NONE
+Race: NONEDMG Bonus: 12 @ lvl 50
 |
 a shadowed man |
 1H Slashing |
@@ -1067,7 +1068,7 @@ Skill: 2H Blunt Atk Delay: 51
 DMG: 13
 WT: 13.0 Size: LARGE
 Class: WAR
-Race: NONE
+Race: NONEDMG Bonus: 34 @ lvl 50
 |
 a shadowed man |
 2H Blunt |
@@ -1079,7 +1080,7 @@ Skill: 2H Slashing Atk Delay: 45
 DMG: 12
 WT: 12.0 Size: LARGE
 Class: WAR
-Race: NONE
+Race: NONEDMG Bonus: 30 @ lvl 50
 |
 a shadowed man |
 2H Slashing |
@@ -1096,7 +1097,7 @@ Skill: 2H Blunt Atk Delay: 40
 DMG: 7
 WT: 11.0 Size: LARGE
 Class: ALL except BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 27 @ lvl 50
 |
 a ghoul |
 2H Blunt |

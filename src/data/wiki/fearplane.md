@@ -1,5 +1,5 @@
 # Plane_of_Fear (eqlwiki.com)
-fetched: 2026-10-04
+fetched: 2026-10-09
 
 Plane of Fear - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -180,7 +181,7 @@ DMG: 9
 STR: +5 DEX: +4
 WT: 2.0 Size: SMALL
 Class: WAR
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 Nautilus ShieldNautilus Shield
 Lore Equipped, No Trade, Placeable
 Slot: SECONDARY
@@ -322,7 +323,7 @@ STR: +5 STA: +4
 Effect: Chaos Flux (Combat, Casting Time: Instant) at Level 46
 WT: 3.0 Size: MEDIUM
 Class: RNG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 Scare StrawScare Straw
 Quest
 Size: SMALL WT: 0.1
@@ -456,7 +457,7 @@ SV FIRE: +10 SV DISEASE: +10 SV COLD: +10 SV MAGIC: +10 SV POISON: +10
 Effect: Holy Shock (Combat, Casting Time: Instant) at Level 50
 WT: 0.1 Size: LARGE
 Class: PAL
-Race: ALL
+Race: ALLDMG Bonus: 27 @ lvl 50
 |
 Irak Altil |
 Start Zone: |
@@ -807,7 +808,7 @@ DMG: 9
 STR: +5 DEX: +4
 WT: 2.0 Size: SMALL
 Class: WAR
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 Amygdalan warrior, Amygdalan knight |
 1H Slashing |
@@ -1011,7 +1012,7 @@ WIS: +13 INT: +13
 Effect: Winter's Roar (Combat, Rate +64%) at Level 30
 Size: LARGE WT: 10.0
 Class: SHM
-Race: ALL
+Race: ALLDMG Bonus: 29 @ lvl 50
 |
 None? |
 2H Blunt |
@@ -1050,7 +1051,7 @@ DMG: 30
 Effect: Rain of Swords (Combat, Casting Time: Instant) at Level 40
 WT: 2.0 Size: MEDIUM
 Class: WAR
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 |
 Cazic Thule (God) |
 2H Slashing |
@@ -1152,7 +1153,7 @@ DMG: 11
 Effect: Boil Blood (Combat) at Level 46
 Size: MEDIUM WT: 2.5
 Class: WAR
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 Various |
 1H Slashing |
@@ -1176,7 +1177,7 @@ Skill: Piercing Atk Delay: 22
 DMG: 10BACKSTAB: 10
 Size: MEDIUM WT: 1.5
 Class: ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 a dracoliche, Fright (needs confirmation) |
 Piercing |
@@ -1511,7 +1512,7 @@ SV DISEASE: +10 SV POISON: +10
 Effect: Banish Undead (Combat, Rate +54%) at Level 40
 Size: MEDIUM WT: 6.5
 Class: CLR
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 |
 Various |
 1H Blunt |
@@ -1689,7 +1690,7 @@ STR: +5 STA: +4
 Effect: Chaos Flux (Combat, Casting Time: Instant) at Level 46
 WT: 3.0 Size: MEDIUM
 Class: RNG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 a samhain |
 1H Slashing |
@@ -2304,7 +2305,7 @@ STR: +10 STA: +9
 Haste: +36%
 Size: MEDIUM WT: 2.0
 Class: WAR
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 |
 Various |
 2H Slashing |
@@ -2694,7 +2695,7 @@ DMG: 30
 Effect: Soul Leech (Combat) at Level 45
 Size: LARGE WT: 9.5
 Class: WAR SHD BER
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 |
 Various |
 2H Slashing |
@@ -2706,7 +2707,7 @@ Skill: 1H Slashing Atk Delay: 21
 DMG: 10
 Size: MEDIUM WT: 3.5
 Class: WAR RNG
-Race: ALL
+Race: ALLDMG Bonus: 10 @ lvl 50
 |
 a dracoliche, Terror |
 1H Slashing |
@@ -2719,7 +2720,7 @@ DMG: 20
 Effect: Banish Undead (Combat, Rate +43%) at Level 46
 Size: LARGE WT: 6.5
 Class: NEC
-Race: ALL
+Race: ALLDMG Bonus: 32 @ lvl 50
 |
 Various |
 2H Blunt |
@@ -2733,7 +2734,7 @@ WIS: +15 HP: +100 MANA: +50
 Effect: Drones of Doom (Combat) at Level 40
 Size: LARGE WT: 7.5
 Class: DRU
-Race: ALL
+Race: ALLDMG Bonus: 33 @ lvl 50
 |
 Various |
 2H Blunt |
@@ -3178,7 +3179,7 @@ DEX: +9 WIS: +15
 Effect: Malaisement (Combat, Casting Time: Instant) at Level 35
 WT: 6.5 Size: LARGE
 Class: SHM
-Race: ALL
+Race: ALLDMG Bonus: 28 @ lvl 50
 |
 Dracoliche, Dread |
 2H Blunt |
@@ -3341,7 +3342,7 @@ WIS: +13 INT: +13
 Effect: Winter's Roar (Combat, Rate +64%) at Level 30
 Size: LARGE WT: 10.0
 Class: SHM
-Race: ALL
+Race: ALLDMG Bonus: 29 @ lvl 50
 , Blood FireBlood Fire
 Lore Equipped, Attunable, Placeable
 Slot: PRIMARY SECONDARY
@@ -3350,7 +3351,7 @@ DMG: 11
 Effect: Boil Blood (Combat) at Level 46
 Size: MEDIUM WT: 2.5
 Class: WAR
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 , Bone RazorBone Razor
 Lore Equipped, Attunable, Placeable
 Slot: PRIMARY SECONDARY
@@ -3358,7 +3359,7 @@ Skill: Piercing Atk Delay: 22
 DMG: 10BACKSTAB: 10
 Size: MEDIUM WT: 1.5
 Class: ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 , Bone-Clasped GirdleBone-Clasped Girdle
 Attunable
 Slot: WAIST
@@ -3390,7 +3391,7 @@ SV DISEASE: +10 SV POISON: +10
 Effect: Banish Undead (Combat, Rate +54%) at Level 40
 Size: MEDIUM WT: 6.5
 Class: CLR
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 , Lyssa`s Darkwood PiccoloLyssa`s Darkwood Piccolo
 Attunable, Placeable
 Slot: PRIMARY SECONDARY
@@ -3406,7 +3407,7 @@ STR: +10 STA: +9
 Haste: +36%
 Size: MEDIUM WT: 2.0
 Class: WAR
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 , Puppet StringsPuppet Strings
 Effect: Allure (Charge Clicky, Casting Time: Instant)
 Charges: 10
@@ -3438,7 +3439,7 @@ DMG: 30
 Effect: Soul Leech (Combat) at Level 45
 Size: LARGE WT: 9.5
 Class: WAR SHD BER
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 , Spined Dragon ClawsSpined Dragon Claws
 Lore Equipped, Attunable, Placeable
 Slot: PRIMARY
@@ -3446,7 +3447,7 @@ Skill: 1H Slashing Atk Delay: 21
 DMG: 10
 Size: MEDIUM WT: 3.5
 Class: WAR RNG
-Race: ALL
+Race: ALLDMG Bonus: 10 @ lvl 50
 , Staff of Undead LegionsStaff of Undead Legions
 Attunable, Placeable
 Slot: PRIMARY
@@ -3455,7 +3456,7 @@ DMG: 20
 Effect: Banish Undead (Combat, Rate +43%) at Level 46
 Size: LARGE WT: 6.5
 Class: NEC
-Race: ALL
+Race: ALLDMG Bonus: 32 @ lvl 50
 , Staff of the EarthcrafterStaff of the Earthcrafter
 Attunable, Placeable
 Slot: PRIMARY
@@ -3465,7 +3466,7 @@ WIS: +15 HP: +100 MANA: +50
 Effect: Drones of Doom (Combat) at Level 40
 Size: LARGE WT: 7.5
 Class: DRU
-Race: ALL
+Race: ALLDMG Bonus: 33 @ lvl 50
 |
 Cazic-Thule Drops
 |
@@ -3555,7 +3556,7 @@ WIS: +13 INT: +13
 Effect: Winter's Roar (Combat, Rate +64%) at Level 30
 Size: LARGE WT: 10.0
 Class: SHM
-Race: ALL
+Race: ALLDMG Bonus: 29 @ lvl 50
 , Blood FireBlood Fire
 Lore Equipped, Attunable, Placeable
 Slot: PRIMARY SECONDARY
@@ -3564,7 +3565,7 @@ DMG: 11
 Effect: Boil Blood (Combat) at Level 46
 Size: MEDIUM WT: 2.5
 Class: WAR
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 , Crimson Robe of AlendineCrimson Robe of Alendine
 Attunable
 Slot: CHEST
@@ -3588,7 +3589,7 @@ SV DISEASE: +10 SV POISON: +10
 Effect: Banish Undead (Combat, Rate +54%) at Level 40
 Size: MEDIUM WT: 6.5
 Class: CLR
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 , Lyssa`s Darkwood PiccoloLyssa`s Darkwood Piccolo
 Attunable, Placeable
 Slot: PRIMARY SECONDARY
@@ -3617,7 +3618,7 @@ DMG: 30
 Effect: Soul Leech (Combat) at Level 45
 Size: LARGE WT: 9.5
 Class: WAR SHD BER
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 , Staff of the EarthcrafterStaff of the Earthcrafter
 Attunable, Placeable
 Slot: PRIMARY
@@ -3627,7 +3628,7 @@ WIS: +15 HP: +100 MANA: +50
 Effect: Drones of Doom (Combat) at Level 40
 Size: LARGE WT: 7.5
 Class: DRU
-Race: ALL
+Race: ALLDMG Bonus: 33 @ lvl 50
 |
 |
 Raid Map

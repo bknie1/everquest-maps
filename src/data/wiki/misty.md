@@ -1,5 +1,5 @@
 # Misty_Thicket (eqlwiki.com)
-fetched: 2026-10-07
+fetched: 2026-10-09
 
 Misty Thicket - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -1119,7 +1120,7 @@ Skill: Piercing Atk Delay: 29
 DMG: 6BACKSTAB: 6
 WT: 7.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 Deputy Eigon is on a 20 minute spawn timer and shares a spawn with Deputy Poolt. |
 Deputy Felp
@@ -1142,7 +1143,7 @@ Skill: Piercing Atk Delay: 29
 DMG: 6BACKSTAB: 6
 WT: 7.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Small Round ShieldSmall Round Shield
 Slot: SECONDARY
 AC: 6
@@ -1184,7 +1185,7 @@ Skill: Piercing Atk Delay: 29
 DMG: 6BACKSTAB: 6
 WT: 7.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Small Round ShieldSmall Round Shield
 Slot: SECONDARY
 AC: 6
@@ -1214,7 +1215,7 @@ Skill: Piercing Atk Delay: 29
 DMG: 6BACKSTAB: 6
 WT: 7.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 Deputy Poolt is on a 6 minute spawn timer. |
 Deputy Tagil
@@ -1355,7 +1356,7 @@ Skill: 1H Slashing Atk Delay: 40
 DMG: 2
 WT: 10.0 Size: MEDIUM
 Class: ALL except CLR DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 20 @ lvl 50
 |
 The lowliest of orcs. The Misty Thicket Orc Pawns will drop Deathfist Slashed Belts. |
 Prince Klaknak
@@ -1538,7 +1539,7 @@ DMG: 5
 SV COLD: +2
 WT: 1.5 Size: SMALL
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 None? |
 1H Blunt |
@@ -1566,7 +1567,7 @@ Skill: 1H Slashing Atk Delay: 40
 DMG: 2
 WT: 10.0 Size: MEDIUM
 Class: ALL except CLR DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 20 @ lvl 50
 |
 Orc Pawn |
 1H Slashing |

@@ -1,5 +1,5 @@
 # Erudin_Palace (eqlwiki.com)
-fetched: 2026-10-02
+fetched: 2026-10-09
 
 Erudin - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -262,7 +263,7 @@ DMG: 10
 Effect: Blood Claw (Combat, Casting Time: Instant) at Level 18
 WT: 8.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 , Bloodclaw DaggerBloodclaw Dagger
 MAGIC ITEM
 Slot: PRIMARY SECONDARY
@@ -271,7 +272,7 @@ DMG: 5BACKSTAB: 5
 Effect: Blood Claw (Combat, Casting Time: Instant) at Level 18
 WT: 2.5 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 10 @ lvl 50
 , Bloodclaw MaceBloodclaw Mace
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 32
@@ -279,7 +280,7 @@ DMG: 10
 Effect: Blood Claw (Combat, Casting Time: Instant) at Level 18
 WT: 8.0 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Bloodclaw Long SwordBloodclaw Long Sword
 MAGIC ITEM
 Slot: PRIMARY SECONDARY
@@ -288,7 +289,7 @@ DMG: 9
 Effect: Blood Claw (Combat, Casting Time: Instant) at Level 18
 WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 , Bloodclaw RapierBloodclaw Rapier
 MAGIC ITEM
 Slot: PRIMARY SECONDARY
@@ -297,7 +298,7 @@ DMG: 7BACKSTAB: 7
 Effect: Blood Claw (Combat, Casting Time: Instant) at Level 18
 WT: 5.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 , Bloodclaw ScimitarBloodclaw Scimitar
 MAGIC ITEM
 Slot: PRIMARY SECONDARY
@@ -306,7 +307,7 @@ DMG: 8
 Effect: Blood Claw (Combat, Casting Time: Instant) at Level 18
 WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD DRU BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 Collier |
 20 |
@@ -333,7 +334,7 @@ SV FIRE: +10 SV DISEASE: +10 SV COLD: +10 SV MAGIC: +10 SV POISON: +10
 Effect: Speed of the Shissar (Must Equip, Casting Time: 6.0) at Level 50
 WT: 1.0 Size: LARGE
 Class: ENC
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 Stofo Olan |
 Start Zone: |
@@ -547,7 +548,7 @@ Skill: 1H Blunt Atk Delay: 30
 DMG: 4
 WT: 6.5 Size: LARGE
 Class: CLR PAL
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Lumi Stergnon |
 10+ |
@@ -573,14 +574,14 @@ Skill: Piercing Atk Delay: 32
 DMG: 5BACKSTAB: 5
 WT: 5.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Rusty RapierRusty Rapier
 Slot: PRIMARY SECONDARY
 Skill: Piercing Atk Delay: 31
 DMG: 4BACKSTAB: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 , Small LanternSmall Lantern
 Attunable, Quest, Placeable
 Slot: SECONDARY
@@ -677,21 +678,21 @@ Skill: 1H Blunt Atk Delay: 38
 DMG: 5
 Size: MEDIUM WT: 8.0
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 , Rusty Morning StarRusty Morning Star
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 44
 DMG: 6
 WT: 10.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 22 @ lvl 50
 , Spell: Cure Poison, Spell: Divine Aura, Spell: Flash of Light, Spell: Lull, Spell: Spook the Dead, Spell: Strike, Spell: True North, Spell: Yaulp, Worn Great StaffWorn Great Staff
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 40
 DMG: 6
 WT: 10.0 Size: LARGE
 Class: ALL except BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 27 @ lvl 50
 |
 Lumi Stergnon |
 1 |
@@ -718,7 +719,7 @@ STR: +5
 Effect: Enduring Breath (Any Slot, Casting Time: Instant)
 WT: 12.5 Size: GIANT
 Class: PAL
-Race: ALL
+Race: ALLDMG Bonus: 18 @ lvl 50
 |
 Weligon Steelherder |
 30+ |
@@ -764,14 +765,14 @@ Skill: 1H Slashing Atk Delay: 35
 DMG: 5
 Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 , Splintering ClubSplintering Club
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 28
 DMG: 4
 WT: 6.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 Rarnan Lapice |
 1 |
@@ -1611,7 +1612,7 @@ DMG: 5
 CHA: +10
 WT: 6.5 Size: LARGE
 Class: CLR PAL
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 |
 Various |
 2H Blunt |
@@ -1680,7 +1681,7 @@ DMG: 4
 MANA: +5
 WT: 8.5 Size: LARGE
 Class: NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 Josper Kenshed |
 1+ |
@@ -1831,7 +1832,7 @@ Skill: 1H Blunt Atk Delay: 38
 DMG: 6
 WT: 9.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 |
 Description needed. |
 Dalles Cekus
@@ -2094,7 +2095,7 @@ Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Description needed. |
 Sentinel Charin
@@ -2109,7 +2110,7 @@ Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Forged DaggerForged Dagger
 QUEST ITEM
 Slot: PRIMARY SECONDARY
@@ -2117,7 +2118,7 @@ Skill: Piercing Atk Delay: 21
 DMG: 3BACKSTAB: 3
 WT: 2.5 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 10 @ lvl 50
 |
 Description needed. |
 Sentinel Cholis
@@ -2132,7 +2133,7 @@ Skill: Piercing Atk Delay: 38
 DMG: 5BACKSTAB: 5
 WT: 7.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 |
 Description needed. |
 Sentinel Colm
@@ -2147,7 +2148,7 @@ Skill: Piercing Atk Delay: 38
 DMG: 5BACKSTAB: 5
 WT: 7.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 |
 Description needed. |
 Sentinel Corin
@@ -2162,14 +2163,14 @@ Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Cast-Iron RapierCast-Iron Rapier
 Slot: PRIMARY SECONDARY
 Skill: Piercing Atk Delay: 23
 DMG: 4BACKSTAB: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 , Battle StaffBattle Staff
 LORE ITEM
 Slot: PRIMARY
@@ -2178,7 +2179,7 @@ DMG: 5
 CHA: +10
 WT: 6.5 Size: LARGE
 Class: CLR PAL
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 |
 Upon death, the Sentinels of Erudin Palace are reincarnated as a level 8 Water Elemental. |
 Sentinel Dadil
@@ -2193,7 +2194,7 @@ Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Description needed. |
 Sentinel Desde
@@ -2208,7 +2209,7 @@ Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Description needed. |
 Sentinel Edan
@@ -2223,7 +2224,7 @@ Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Description needed. |
 Sentinel Golas
@@ -2238,7 +2239,7 @@ Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Description needed. |
 Sentinel Hylin
@@ -2253,7 +2254,7 @@ Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Description needed. |
 Sentinel Jeast
@@ -2268,7 +2269,7 @@ Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Description needed. |
 Sentinel Knox
@@ -2283,7 +2284,7 @@ Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Forged DaggerForged Dagger
 QUEST ITEM
 Slot: PRIMARY SECONDARY
@@ -2291,7 +2292,7 @@ Skill: Piercing Atk Delay: 21
 DMG: 3BACKSTAB: 3
 WT: 2.5 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 10 @ lvl 50
 |
 Description needed. |
 Sentinel Laphis
@@ -2306,7 +2307,7 @@ Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Forged DaggerForged Dagger
 QUEST ITEM
 Slot: PRIMARY SECONDARY
@@ -2314,7 +2315,7 @@ Skill: Piercing Atk Delay: 21
 DMG: 3BACKSTAB: 3
 WT: 2.5 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 10 @ lvl 50
 |
 Description needed. |
 Sentinel Lixen
@@ -2329,7 +2330,7 @@ Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Battle StaffBattle Staff
 LORE ITEM
 Slot: PRIMARY
@@ -2338,7 +2339,7 @@ DMG: 5
 CHA: +10
 WT: 6.5 Size: LARGE
 Class: CLR PAL
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 |
 Upon death, the Sentinels of Erudin Palace are reincarnated as a level 8 Water Elemental. |
 Sentinel Nolbain
@@ -2353,7 +2354,7 @@ Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Description needed. |
 Sentinel Ogen
@@ -2368,7 +2369,7 @@ Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Description needed. |
 Sentinel Phis
@@ -2383,7 +2384,7 @@ Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Description needed. |
 Sentinel Rysin
@@ -2398,7 +2399,7 @@ Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Description needed. |
 Sentinel Thron
@@ -2413,7 +2414,7 @@ Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Description needed. |
 Sentinel Tigonus
@@ -2428,14 +2429,14 @@ Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Cast-Iron RapierCast-Iron Rapier
 Slot: PRIMARY SECONDARY
 Skill: Piercing Atk Delay: 23
 DMG: 4BACKSTAB: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 Description needed. |
 Sentinel Vanil
@@ -2450,7 +2451,7 @@ Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Description needed. |
 Sentinel Wren
@@ -2465,14 +2466,14 @@ Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Cast-Iron RapierCast-Iron Rapier
 Slot: PRIMARY SECONDARY
 Skill: Piercing Atk Delay: 23
 DMG: 4BACKSTAB: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 Description needed. |
 Sharin Denuen
@@ -2616,7 +2617,7 @@ Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Located in the prison under the Erudin City Office, Warden Lius has some strong thoughts on Prexian justice.
 You say,... |
@@ -2646,7 +2647,7 @@ Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: BRD BST CLR DRU MNK PAL RNG ROG SHM SHD WAR
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Description needed. |
 Wistcona
@@ -2667,7 +2668,7 @@ DMG: 5
 CHA: +10
 WT: 6.5 Size: LARGE
 Class: CLR PAL
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 |
 Various |
 2H Blunt |

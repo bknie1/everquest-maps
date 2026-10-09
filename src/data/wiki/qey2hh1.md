@@ -1,5 +1,5 @@
 # Western_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-10-02
+fetched: 2026-10-09
 
 Western Karana - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -334,7 +335,7 @@ DMG: 4
 SV COLD: +5
 WT: 3.0 Size: SMALL
 Class: WAR
-Race: ALL
+Race: ALLDMG Bonus: 10 @ lvl 50
 , Gold, Faction |
 Einhorst McMannus |
 20+ |
@@ -367,7 +368,7 @@ DMG: 15
 Effect: Dismiss Undead (Combat, Casting Time: Instant) at Level 20
 WT: 9.5 Size: LARGE
 Class: PAL
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 |
 Ryshon Hunsti |
 30 |
@@ -709,21 +710,21 @@ Skill: 1H Slashing Atk Delay: 34
 DMG: 5
 WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 , Tarnished Morning StarTarnished Morning Star
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 42
 DMG: 6
 WT: 10.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 21 @ lvl 50
 , Tarnished RapierTarnished Rapier
 Slot: PRIMARY SECONDARY
 Skill: Piercing Atk Delay: 29
 DMG: 4BACKSTAB: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 Added with Jun2002 Qeynos armor quests[2]. |
 A skeleton
@@ -1058,14 +1059,14 @@ Skill: 1H Slashing Atk Delay: 36
 DMG: 5
 WT: 6.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 18 @ lvl 50
 , Tarnished Battle AxeTarnished Battle Axe
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 40
 DMG: 6
 WT: 8.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 20 @ lvl 50
 , Tattered Cloth NoteTattered Cloth Note
 LORE ITEM NO DROP
 WT: 0.0 Size: TINY
@@ -1117,7 +1118,7 @@ Skill: 2H Blunt Atk Delay: 27
 DMG: 4
 WT: 6.0 Size: MEDIUM
 Class: ALL
-Race: ALL
+Race: ALLDMG Bonus: 18 @ lvl 50
 , Rain WaterRain Water
 QUEST ITEM
 WT: 0.1 Size: SMALL
@@ -1200,7 +1201,7 @@ Skill: 1H Slashing Atk Delay: 24
 DMG: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 , Fine Steel Short SwordFine Steel Short Sword
 Attunable, Placeable
 Slot: PRIMARY SECONDARY
@@ -1208,7 +1209,7 @@ Skill: 1H Slashing Atk Delay: 23
 DMG: 4
 Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 , Qeynos Kite ShieldQeynos Kite Shield
 Slot: SECONDARY
 AC: 8
@@ -1237,7 +1238,7 @@ Skill: 1H Slashing Atk Delay: 28
 DMG: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Guard BraceletGuard Bracelet
 NO DROP
 Slot: WRIST
@@ -1260,7 +1261,7 @@ Skill: 1H Slashing Atk Delay: 35
 DMG: 5
 Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 |
 Spawns near Misty Storyswapper in the villiage in the far northwest corner of West Karana. Can be safely pulled by himse... |
 Guard Justyn
@@ -1276,7 +1277,7 @@ Skill: 1H Slashing Atk Delay: 23
 DMG: 4
 Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 , Qeynos Kite ShieldQeynos Kite Shield
 Slot: SECONDARY
 AC: 8
@@ -1305,7 +1306,7 @@ Skill: 1H Slashing Atk Delay: 23
 DMG: 4
 Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 , Guard BraceletGuard Bracelet
 NO DROP
 Slot: WRIST
@@ -1336,7 +1337,7 @@ Skill: 1H Slashing Atk Delay: 23
 DMG: 4
 Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 , Guard BraceletGuard Bracelet
 NO DROP
 Slot: WRIST
@@ -1396,7 +1397,7 @@ Skill: Piercing Atk Delay: 30
 DMG: 4BACKSTAB: 4
 WT: 6.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Description needed. |
 Kobot Dellin
@@ -1478,7 +1479,7 @@ Skill: Piercing Atk Delay: 23
 DMG: 4BACKSTAB: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 In Qeynos Hills, has been seen sharing the spawn cycle with Sir Edwin Motte. |
 Lempeck Hargrin
@@ -1798,7 +1799,7 @@ Skill: Piercing Atk Delay: 24
 DMG: 3BACKSTAB: 3
 WT: 2.5 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 , Sack of Hay, Shovel |
 This little farmboy can be found wandering the fields of Western Karanas. |
 Tolony Marle
@@ -1852,7 +1853,7 @@ Skill: Piercing Atk Delay: 22
 DMG: 3BACKSTAB: 3
 WT: 3.0 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 , Fine Steel DaggerFine Steel Dagger
 QUEST ITEM
 Slot: PRIMARY SECONDARY
@@ -1860,7 +1861,7 @@ Skill: Piercing Atk Delay: 19
 DMG: 3BACKSTAB: 3
 WT: 2.4 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 |
 Always spawns at night, does not path.
 Vilnius' placeholder is a brigand or a bandit on the top of the mountain... |
@@ -1934,7 +1935,7 @@ DEX: +2
 SV MAGIC: +3
 WT: 3.0 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 10 @ lvl 50
 |
 Vilnius the Small |
 Piercing |
@@ -2227,7 +2228,7 @@ Skill: 1H Slashing Atk Delay: 24
 DMG: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 Guard McCluskey |
 1H Slashing |

@@ -1,5 +1,5 @@
 # Rathe_Mountains (eqlwiki.com)
-fetched: 2026-10-05
+fetched: 2026-10-09
 
 Rathe Mountains - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -99,7 +100,7 @@ DMG: 23
 Effect: Rampage (Combat, Casting Time: Instant) at Level 30
 WT: 15.0 Size: LARGE
 Class: WAR
-Race: ALL
+Race: ALLDMG Bonus: 33 @ lvl 50
 , Broken Bow Part ABroken Bow Part A
 LORE ITEM NO DROP
 WT: 0.5 Size: SMALL
@@ -161,7 +162,7 @@ WIS: +7 MANA: +45
 Effect: Mana Sink (Combat, Casting Time: Instant) at Level 30
 WT: 6.5 Size: LARGE
 Class: SHM
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 , Onyx Drakescale CloakOnyx Drakescale Cloak
 Slot: BACK
 AC: 8
@@ -330,7 +331,7 @@ Skill: 1H Slashing Atk Delay: 22
 DMG: 6
 WT: 3.0 Size: MEDIUM
 Class: DRU
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 Solvedi Aldeberan |
 25 |
@@ -379,7 +380,7 @@ DMG: 10
 Effect: Root (Combat, Casting Time: Instant) at Level 18
 WT: 7.5 Size: LARGE
 Class: DRU
-Race: ALL
+Race: ALLDMG Bonus: 23 @ lvl 50
 |
 Tibrinn Ember |
 35 |
@@ -1119,7 +1120,7 @@ Skill: 1H Slashing Atk Delay: 32
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , WoeWoe
 MAGIC ITEM LORE ITEM
 Slot: PRIMARY SECONDARY
@@ -1128,7 +1129,7 @@ DMG: 5BACKSTAB: 5
 Effect: Affliction (Combat, Casting Time: Instant) at Level 20
 WT: 4.3 Size: MEDIUM
 Class: WAR SHD ROG NEC
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , EnvyEnvy
 MAGIC ITEM LORE ITEM
 Slot: SECONDARY
@@ -1161,7 +1162,7 @@ DMG: 23
 Effect: Rampage (Combat, Casting Time: Instant) at Level 30
 WT: 15.0 Size: LARGE
 Class: WAR
-Race: ALL
+Race: ALLDMG Bonus: 33 @ lvl 50
 |
 This named Orc carries a lovely warrior-only two-handed upgrade to the PGT (Polished Granite Tomahawk)
 Grazhak is o... |
@@ -1414,7 +1415,7 @@ WIS: +7 MANA: +45
 Effect: Mana Sink (Combat, Casting Time: Instant) at Level 30
 WT: 6.5 Size: LARGE
 Class: SHM
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 , Syythrak Hide VestSyythrak Hide Vest
 MAGIC ITEM
 Slot: CHEST
@@ -1453,7 +1454,7 @@ Skill: 1H Blunt Atk Delay: 28
 DMG: 4
 WT: 6.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 Description needed. |
 Oculys Ogrefiend
@@ -1757,7 +1758,7 @@ Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Description needed. |
 Tomas
@@ -1901,7 +1902,7 @@ DMG: 23
 Effect: Rampage (Combat, Casting Time: Instant) at Level 30
 WT: 15.0 Size: LARGE
 Class: WAR
-Race: ALL
+Race: ALLDMG Bonus: 33 @ lvl 50
 |
 Grazhak the Berzerker |
 2H Slashing |
@@ -2172,7 +2173,7 @@ WIS: +7 MANA: +45
 Effect: Mana Sink (Combat, Casting Time: Instant) at Level 30
 WT: 6.5 Size: LARGE
 Class: SHM
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 |
 Mortificator Syythrak |
 2H Blunt |
@@ -2336,7 +2337,7 @@ DMG: 5BACKSTAB: 5
 Effect: Affliction (Combat, Casting Time: Instant) at Level 20
 WT: 4.3 Size: MEDIUM
 Class: WAR SHD ROG NEC
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 Glaron the Wicked |
 Piercing |

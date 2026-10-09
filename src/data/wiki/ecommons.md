@@ -1,5 +1,5 @@
 # East_Commonlands (eqlwiki.com)
-fetched: 2026-10-02
+fetched: 2026-10-09
 
 East Commonlands - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -165,7 +166,7 @@ STR: +5 WIS: +9 MANA: +15
 SV FIRE: +5 SV DISEASE: +5 SV COLD: +5 SV MAGIC: +5 SV POISION: +5
 WT: 0.0 Size: TINY
 Class: CLR DRU SHM
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 , Cloak of ConfusionCloak of Confusion
 MAGIC ITEM LORE ITEM NO DROP
 Slot: BACK
@@ -701,7 +702,7 @@ Skill: 1H Slashing Atk Delay: 23
 DMG: 4
 Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 , LongbowLongbow
 Slot: RANGE
 Skill: Archery Atk Delay: 51
@@ -772,7 +773,7 @@ Skill: 1H Slashing Atk Delay: 40
 DMG: 2
 WT: 10.0 Size: MEDIUM
 Class: ALL except CLR DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 20 @ lvl 50
 |
 The lowliest of orcs. The Misty Thicket Orc Pawns will drop Deathfist Slashed Belts. |
 Orc Weaponsmith
@@ -901,7 +902,7 @@ Skill: 1H Blunt Atk Delay: 37
 DMG: 6
 WT: 10.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 18 @ lvl 50
 |
 a ghoul |
 1H Blunt |
@@ -912,7 +913,7 @@ Skill: 2H Slashing Atk Delay: 52
 DMG: 10
 WT: 15.0 Size: GIANT
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 |
 a ghoul |
 2H Slashing |
@@ -923,7 +924,7 @@ Skill: 2H Blunt Atk Delay: 45
 DMG: 8
 WT: 14.0 Size: LARGE
 Class: ALL except BRD ROG NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 |
 a ghoul |
 2H Blunt |
@@ -984,7 +985,7 @@ Skill: 1H Slashing Atk Delay: 40
 DMG: 2
 WT: 10.0 Size: MEDIUM
 Class: ALL except CLR DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 20 @ lvl 50
 |
 Orc Pawn |
 1H Slashing |
@@ -1012,7 +1013,7 @@ Skill: 2H Blunt Atk Delay: 40
 DMG: 7
 WT: 11.0 Size: LARGE
 Class: ALL except BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 27 @ lvl 50
 |
 a ghoul |
 2H Blunt |

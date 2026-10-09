@@ -1,5 +1,5 @@
 # Butcherblock_Mountains (eqlwiki.com)
-fetched: 2026-10-07
+fetched: 2026-10-09
 
 Butcherblock Mountains - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -102,7 +103,7 @@ SV COLD: +2 SV MAGIC: -5
 Effect: Enduring Breath (Any Slot, Casting Time: Instant)
 WT: 4.5 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Related Quests:
 |
@@ -616,7 +617,7 @@ Skill: 2H Slashing Atk Delay: 46
 DMG: 9
 WT: 14.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 31 @ lvl 50
 , Fine Steel Weapons, Small Ringmail Armor Set, Dwarf Meat |
 The Bilgum sisters are in a hunt near the entrance of Kalidim with 3 merchants. 22 min respawn. |
 An Aqua Goblin
@@ -755,14 +756,14 @@ Skill: 1H Blunt Atk Delay: 38
 DMG: 5
 Size: MEDIUM WT: 8.0
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 , Splintering ClubSplintering Club
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 28
 DMG: 4
 WT: 6.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Bone ChipsBone Chips
 Quest
 Size: SMALL WT: 0.1
@@ -827,7 +828,7 @@ Skill: 1H Slashing Atk Delay: 36
 DMG: 5
 WT: 6.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 18 @ lvl 50
 , Dwarf HeadDwarf Head
 LORE ITEM NO DROP
 WT: 0.5 Size: SMALL
@@ -871,7 +872,7 @@ Skill: 2H Slashing Atk Delay: 46
 DMG: 9
 WT: 14.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 31 @ lvl 50
 |
 One of 3 Kaladim Citizens at the shore west of druid rings. Killing her won't hurt the dwarf guard faction. She is insi... |
 Darm Dundam
@@ -911,7 +912,7 @@ Skill: 2H Slashing Atk Delay: 46
 DMG: 9
 WT: 14.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 31 @ lvl 50
 , Fine Steel Weapons, Ringmail Armor Set, Dwarf Meat |
 Delin stands next to the anvil outside the guard house near crossroads. Pulling her will not agro the guards. |
 Den Ironblend
@@ -926,7 +927,7 @@ Skill: 2H Slashing Atk Delay: 46
 DMG: 9
 WT: 14.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 31 @ lvl 50
 , Dwarven BloodDwarven Blood
 MAGIC ITEM
 WT: 0.1 Size: TINY
@@ -1018,7 +1019,7 @@ Skill: 2H Slashing Atk Delay: 46
 DMG: 9
 WT: 14.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 31 @ lvl 50
 , Rune of SorceryRune of Sorcery
 WT: 0.1 Size: TINY
 Class: ALL
@@ -1037,7 +1038,7 @@ Skill: 2H Slashing Atk Delay: 46
 DMG: 9
 WT: 14.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 31 @ lvl 50
 , Fine Steel Weapons, Small Ringmail Armor Set, Dwarf Meat |
 The Bilgum sisters are in a hunt near the entrance of Kalidim with 3 merchants. 22 min respawn. |
 Glorin Binfurr
@@ -1065,7 +1066,7 @@ SV COLD: +2 SV MAGIC: -5
 Effect: Enduring Breath (Any Slot, Casting Time: Instant)
 WT: 4.5 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 (Rare) |
 Rare spawn in the ocean between the docks to Freeport/FV at (1235, 3500). Placeholder spawn is an aqua goblin. Paths to ... |
 Glynda Smeltpot
@@ -1096,7 +1097,7 @@ Skill: 1H Slashing Atk Delay: 26
 DMG: 6
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Guards the entrance to Kaladim. |
 Guard Belg
@@ -1111,7 +1112,7 @@ Skill: 1H Slashing Atk Delay: 26
 DMG: 6
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Inside the guard hut with Delin Ironblend, third from Kaladim to the crossroads. |
 Guard Burr
@@ -1126,7 +1127,7 @@ Skill: 1H Slashing Atk Delay: 26
 DMG: 6
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Guards the entrance to Kaladim. |
 Guard Clendin
@@ -1141,7 +1142,7 @@ Skill: 1H Slashing Atk Delay: 26
 DMG: 6
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Guards the entrance of the docks in Butcherblock Mountains. |
 Guard Dunil
@@ -1156,7 +1157,7 @@ Skill: 1H Slashing Atk Delay: 26
 DMG: 6
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Guards to entrance to the docks in Butcherblock Mountains. |
 Guard Dunn
@@ -1171,7 +1172,7 @@ Skill: 1H Slashing Atk Delay: 26
 DMG: 6
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 24 minute spawn timer. He is one of the guards at the first guard hut on the way from Kaladim to the crossroads. Hit po... |
 Guard Gabel
@@ -1186,7 +1187,7 @@ Skill: 1H Slashing Atk Delay: 26
 DMG: 6
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 24 minute spawn timer. He is one of the guards at the first guard hut on the way from Kaladim to the crossroads. Copie... |
 Guard Gonin
@@ -1201,7 +1202,7 @@ Skill: 1H Slashing Atk Delay: 26
 DMG: 6
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 , Rusty Short SwordRusty Short Sword
 QUEST ITEM
 Slot: PRIMARY SECONDARY
@@ -1209,7 +1210,7 @@ Skill: 1H Slashing Atk Delay: 28
 DMG: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 |
 Guard Grae
@@ -1224,7 +1225,7 @@ Skill: 1H Slashing Atk Delay: 26
 DMG: 6
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Guards the entrance to Kaladim. |
 Guard Haendar
@@ -1239,7 +1240,7 @@ Skill: 1H Slashing Atk Delay: 26
 DMG: 6
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Guards the entrance of Kaladim. |
 Guard Haldin
@@ -1254,7 +1255,7 @@ Skill: 1H Slashing Atk Delay: 26
 DMG: 6
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Stands next to a guard house near Delin Ironblend. Third Guard Shack on the way from Kaladim to the Crossroads. |
 Guard Hartt
@@ -1269,7 +1270,7 @@ Skill: 1H Slashing Atk Delay: 26
 DMG: 6
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Description needed. |
 Guard Kizzburr
@@ -1294,7 +1295,7 @@ Skill: 1H Slashing Atk Delay: 26
 DMG: 6
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 , Rusty Short SwordRusty Short Sword
 QUEST ITEM
 Slot: PRIMARY SECONDARY
@@ -1302,7 +1303,7 @@ Skill: 1H Slashing Atk Delay: 28
 DMG: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 |
 Guard Mandin
@@ -1317,7 +1318,7 @@ Skill: 1H Slashing Atk Delay: 26
 DMG: 6
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Description needed.
 Runs very fast. |
@@ -1333,7 +1334,7 @@ Skill: 1H Slashing Atk Delay: 26
 DMG: 6
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 He is outside the first guard hut from Kaladim to the docks. |
 Guard Rundul
@@ -1348,7 +1349,7 @@ Skill: 1H Slashing Atk Delay: 26
 DMG: 6
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 He is outside the second guard hut from Kaladim to the docks. |
 Guard Rylin
@@ -1363,7 +1364,7 @@ Skill: 1H Slashing Atk Delay: 26
 DMG: 6
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 This slightly lower level guard stands in front of the stone dwarf head just outside the docks towards Kaladim. Damage s... |
 Guard Sornn
@@ -1378,7 +1379,7 @@ Skill: 1H Slashing Atk Delay: 26
 DMG: 6
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Outside the first hut from Kaladim to the docks. |
 Guard Srinn
@@ -1401,7 +1402,7 @@ Skill: 1H Slashing Atk Delay: 26
 DMG: 6
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Description needed.
 Runs very fast. |
@@ -1417,14 +1418,14 @@ Skill: Piercing Atk Delay: 31
 DMG: 4BACKSTAB: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 , Rusty Shortened SpearRusty Shortened Spear
 Slot: PRIMARY SECONDARY
 Skill: Piercing Atk Delay: 32
 DMG: 4BACKSTAB: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Dwarf MeatDwarf Meat
 WT: 1.0 Size: SMALL
 Class: ALL
@@ -1516,7 +1517,7 @@ Skill: 2H Slashing Atk Delay: 46
 DMG: 9
 WT: 14.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 31 @ lvl 50
 , Ringmail SleevesRingmail Sleeves
 Attunable
 Slot: ARMS
@@ -1538,7 +1539,7 @@ Skill: 2H Slashing Atk Delay: 46
 DMG: 9
 WT: 14.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 31 @ lvl 50
 |
 One of 4 "Kaladim Citizen" dwarves in the docks area. Killing her will not affect guard faction. |
 Margyl Darklin
@@ -1571,7 +1572,7 @@ DMG: 13
 SV MAGIC: +10
 WT: 10.0 Size: LARGE
 Class: ALL except BRD ROG NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 , Fine Steel Weapons, Dwarven BloodDwarven Blood
 MAGIC ITEM
 WT: 0.1 Size: TINY
@@ -1740,14 +1741,14 @@ Skill: 1H Blunt Atk Delay: 44
 DMG: 6
 WT: 10.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 22 @ lvl 50
 , Bronze WarhammerBronze Warhammer
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Zarchoomi spawns to the NW of 15 on the Butcherblock Mountains map between western wall and rock pillar on the north sid... |
 Items - Found 39 items that drop in Butcherblock Mountains:
@@ -1802,7 +1803,7 @@ Skill: 1H Slashing Atk Delay: 35
 DMG: 7
 Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 |
 Delin Ironblend |
 1H Slashing |
@@ -1824,7 +1825,7 @@ DMG: 13
 SV MAGIC: +10
 WT: 10.0 Size: LARGE
 Class: ALL except BRD ROG NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 |
 Nyzil Bloodforge |
 2H Blunt |
@@ -1835,7 +1836,7 @@ Skill: 2H Slashing Atk Delay: 46
 DMG: 9
 WT: 14.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 31 @ lvl 50
 |
 Various |
 2H Slashing |
@@ -1885,7 +1886,7 @@ Skill: 1H Slashing Atk Delay: 26
 DMG: 6
 WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Various |
 1H Slashing |
@@ -2016,7 +2017,7 @@ SV COLD: +2 SV MAGIC: -5
 Effect: Enduring Breath (Any Slot, Casting Time: Instant)
 WT: 4.5 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Glubbsink |
 Piercing |

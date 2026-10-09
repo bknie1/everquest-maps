@@ -1,5 +1,5 @@
 # Oasis_of_Marr (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-10-09
 
 Oasis of Marr - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -106,7 +107,7 @@ Skill: 2H Blunt Atk Delay: 35
 DMG: 11
 WT: 8.5 Size: LARGE
 Class: ALL except ROG NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 24 @ lvl 50
 , Fine Silk TurbanFine Silk Turban
 MAGIC ITEM
 Slot: HEAD
@@ -122,7 +123,7 @@ Skill: Piercing Atk Delay: 26
 DMG: 7BACKSTAB: 7
 WT: 5.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Related Quests:
 |
@@ -431,7 +432,7 @@ Skill: Piercing Atk Delay: 26
 DMG: 7BACKSTAB: 7
 WT: 5.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Unlike his long-lost cousin Cazel, Hatar does not summon and does not have a mad regen.
 Spawns inside the northwest mou... |
@@ -538,7 +539,7 @@ Skill: 2H Blunt Atk Delay: 35
 DMG: 11
 WT: 8.5 Size: LARGE
 Class: ALL except ROG NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 24 @ lvl 50
 |
 Lockjaw |
 2H Blunt |

@@ -1,5 +1,5 @@
 # Solusek's_Eye (eqlwiki.com)
-fetched: 2026-10-01
+fetched: 2026-10-09
 
 Solusek's Eye - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -158,7 +159,7 @@ DMG: 5
 Effect: Shock of Fire (Combat, Casting Time: Instant)
 WT: 6.5 Size: LARGE
 Class: BRD NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Foreman's TunicForeman's Tunic
 MAGIC ITEM
 Slot: CHEST
@@ -236,7 +237,7 @@ DMG: 4
 HP: +20
 WT: 1.0 Size: MEDIUM
 Class: BRD NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 , Molten CloakMolten Cloak
 Slot: BACK
 AC: 4
@@ -264,7 +265,7 @@ DMG: 20
 Effect: Obsidian Shatter (Combat, Casting Time: Instant) at Level 17
 WT: 9.0 Size: MEDIUM
 Class: WAR PAL SHD
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 , Obsidian RingObsidian Ring
 MAGIC ITEM
 Slot: FINGER
@@ -281,7 +282,7 @@ DMG: 7
 AGI: +6
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD DRU BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 , Obsidian ShardObsidian Shard
 MAGIC ITEM
 Slot: PRIMARY SECONDARY
@@ -290,7 +291,7 @@ DMG: 6BACKSTAB: 6
 Effect: Obsidian Shatter (Combat, Casting Time: Instant) at Level 16
 WT: 2.5 Size: MEDIUM
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 , Platinum ArmbandPlatinum Armband
 MAGIC ITEM
 Slot: ARMS
@@ -331,7 +332,7 @@ MANA: +15
 SV FIRE: +5 SV MAGIC: +5
 WT: 4.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , A 'Sparkle' PurseA 'Sparkle' Purse
 LORE ITEM NO DROP
 WT: 0.2 Weight Reduction: 0%
@@ -427,7 +428,7 @@ DMG: 20
 Effect: Obsidian Shatter (Combat, Casting Time: Instant) at Level 17
 WT: 9.0 Size: MEDIUM
 Class: WAR PAL SHD
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 (Rare)
 Lava Elemental Room with lava elemental who drops Lava PotionLava Potion
 MAGIC ITEM
@@ -488,7 +489,7 @@ DMG: 4
 HP: +20
 WT: 1.0 Size: MEDIUM
 Class: BRD NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 (Common) and Molten CloakMolten Cloak
 Slot: BACK
 AC: 4
@@ -534,7 +535,7 @@ DMG: 6BACKSTAB: 6
 Effect: Obsidian Shatter (Combat, Casting Time: Instant) at Level 16
 WT: 2.5 Size: MEDIUM
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 (Rare)
 Foreman's Room with flame goblin foreman who drops Foreman's TunicForeman's Tunic
 MAGIC ITEM
@@ -552,7 +553,7 @@ DMG: 7
 AGI: +6
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD DRU BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 (Rare)
 Window Room
 The Pit
@@ -589,7 +590,7 @@ DMG: 5
 Effect: Shock of Fire (Combat, Casting Time: Instant)
 WT: 6.5 Size: LARGE
 Class: BRD NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 (Rare)
 King Room (behind Throne Room) with Solusek Goblin King who drops Ring of Goblin LordsRing of Goblin Lords
 LORE ITEM
@@ -608,7 +609,7 @@ MANA: +15
 SV FIRE: +5 SV MAGIC: +5
 WT: 4.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 (Rare)
 Jail Hallway leading to Inferno Goblin Torturer who drops Turquoise EyepatchTurquoise Eyepatch
 MAGIC ITEM
@@ -842,7 +843,7 @@ Skill: 1H Slashing Atk Delay: 23
 DMG: 4
 Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 Spawns often but the Suit is very rare. Has much higher HP than a normal mob. |
 Cinder Goblin
@@ -958,7 +959,7 @@ DMG: 7
 AGI: +6
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD DRU BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 , Foreman's TunicForeman's Tunic
 MAGIC ITEM
 Slot: CHEST
@@ -1006,7 +1007,7 @@ DMG: 4
 HP: +20
 WT: 1.0 Size: MEDIUM
 Class: BRD NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 |
 Gabbie Mardoddle spawns at #8 on the map. There are three gnomes (including her or her PH) in the room and an additiona... |
 Gnomish Conjurer
@@ -1047,7 +1048,7 @@ DMG: 5
 Effect: Shock of Fire (Combat, Casting Time: Instant)
 WT: 6.5 Size: LARGE
 Class: BRD NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Frothy Goblin TonicFrothy Goblin Tonic
 MAGIC ITEM
 EXPENDABLE Charges: 1
@@ -1243,7 +1244,7 @@ DMG: 6BACKSTAB: 6
 Effect: Obsidian Shatter (Combat, Casting Time: Instant) at Level 16
 WT: 2.5 Size: MEDIUM
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 The predator spawns in a hallway listed as #10 on the map at (-319,-583) and then begins wandering around nearby. He (or... |
 Large fire goblin
@@ -1357,7 +1358,7 @@ DMG: 20
 Effect: Obsidian Shatter (Combat, Casting Time: Instant) at Level 17
 WT: 9.0 Size: MEDIUM
 Class: WAR PAL SHD
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 , Platinum ArmbandPlatinum Armband
 MAGIC ITEM
 Slot: ARMS
@@ -1469,7 +1470,7 @@ MANA: +15
 SV FIRE: +5 SV MAGIC: +5
 WT: 4.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Ring of Goblin LordsRing of Goblin Lords
 LORE ITEM
 Slot: FINGER
@@ -1733,7 +1734,7 @@ DMG: 5
 Effect: Shock of Fire (Combat, Casting Time: Instant)
 WT: 6.5 Size: LARGE
 Class: BRD NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 goblin drunkard |
 1H Blunt |
@@ -1975,7 +1976,7 @@ DMG: 4
 HP: +20
 WT: 1.0 Size: MEDIUM
 Class: BRD NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 |
 Gabbie Mardoddle |
 Piercing |
@@ -2011,7 +2012,7 @@ DMG: 20
 Effect: Obsidian Shatter (Combat, Casting Time: Instant) at Level 17
 WT: 9.0 Size: MEDIUM
 Class: WAR PAL SHD
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 |
 reckless efreeti |
 2H Slashing |
@@ -2036,7 +2037,7 @@ DMG: 7
 AGI: +6
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD DRU BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 flame goblin foreman |
 1H Slashing |
@@ -2049,7 +2050,7 @@ DMG: 6BACKSTAB: 6
 Effect: Obsidian Shatter (Combat, Casting Time: Instant) at Level 16
 WT: 2.5 Size: MEDIUM
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 kobold predator |
 Piercing |
@@ -2128,7 +2129,7 @@ MANA: +15
 SV FIRE: +5 SV MAGIC: +5
 WT: 4.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 Solusek goblin king |
 1H Blunt |
@@ -2178,7 +2179,7 @@ SV FIRE: +5
 Effect: Burst of Flame (Any Slot, Casting Time: Instant)
 WT: 6.5 Size: LARGE
 Class: CLR DRU SHM NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 Which mobs? |
 1H Blunt |

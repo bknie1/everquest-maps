@@ -1,5 +1,5 @@
 # Upper_Guk (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-10-09
 
 Upper Guk - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -176,7 +177,7 @@ DMG: 15
 Effect: Dismiss Undead (Combat, Casting Time: Instant) at Level 20
 WT: 9.5 Size: LARGE
 Class: PAL
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 , Glowing MaskGlowing Mask
 LORE ITEM NO DROP
 Slot: FACE
@@ -215,7 +216,7 @@ DMG: 5BACKSTAB: 5
 SV FIRE: +10 SV COLD: +10 SV MAGIC: +10
 WT: 4.5 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , A Shimmering OrbA Shimmering Orb
 MAGIC ITEM LORE ITEM
 Slot: SECONDARY
@@ -334,7 +335,7 @@ DMG: 5BACKSTAB: 5
 SV FIRE: +10 SV COLD: +10 SV MAGIC: +10
 WT: 4.5 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 (rare)
 11. Mushroom Farm with Fungus Men, also A Fungus Mutant who drops Guk Bracket Mildew (common) and Degenerated Guk Weed (rare)
 12. Room with a froglok idealist, who drops Vial of Egg WhitesVial of Egg Whites
@@ -432,7 +433,7 @@ DMG: 15
 Effect: Dismiss Undead (Combat, Casting Time: Instant) at Level 20
 WT: 9.5 Size: LARGE
 Class: PAL
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 (rare)
 18. Heart Spider Room with a giant heart spider who drops Chitin Shell ShieldChitin Shell Shield
 Slot: SECONDARY
@@ -494,7 +495,7 @@ DMG: 5BACKSTAB: 5
 SV FIRE: +10 SV COLD: +10 SV MAGIC: +10
 WT: 4.5 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 (rare). He's about level 17.
 |
 Dangers
@@ -590,7 +591,7 @@ DMG: 5BACKSTAB: 5
 SV FIRE: +10 SV COLD: +10 SV MAGIC: +10
 WT: 4.5 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 (Rare)
 Common Loot
 AmberAmber
@@ -737,7 +738,7 @@ Skill: 1H Blunt Atk Delay: 30
 DMG: 6
 WT: 4.0 Size: MEDIUM
 Class: ENC
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Re-spawn time 16 minutes 30 seconds |
 A Froglok Realist
@@ -1464,7 +1465,7 @@ DMG: 15
 Effect: Dismiss Undead (Combat, Casting Time: Instant) at Level 20
 WT: 9.5 Size: LARGE
 Class: PAL
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 |
 the froglok shin lord |
 1H Slashing |
@@ -1496,7 +1497,7 @@ Skill: 1H Blunt Atk Delay: 30
 DMG: 6
 WT: 4.0 Size: MEDIUM
 Class: ENC
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 a froglok priest |
 1H Blunt |
@@ -1830,7 +1831,7 @@ DMG: 5BACKSTAB: 5
 SV FIRE: +10 SV COLD: +10 SV MAGIC: +10
 WT: 4.5 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 a froglok gaz squire |
 Piercing |

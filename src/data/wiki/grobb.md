@@ -1,5 +1,5 @@
 # Grobb (eqlwiki.com)
-fetched: 2026-10-01
+fetched: 2026-10-09
 
 Grobb - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -280,7 +281,7 @@ DMG: 15
 STR: +3 DEX: +3 INT: +3
 WT: 11.5 Size: LARGE
 Class: WAR SHD
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 |
 Carver Cagrek |
 20 |
@@ -377,7 +378,7 @@ Skill: 2H Slashing Atk Delay: 49
 DMG: 9
 WT: 13.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 33 @ lvl 50
 |
 Ranjor |
 1 |
@@ -448,7 +449,7 @@ Skill: 1H Slashing Atk Delay: 29
 DMG: 6
 WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Intestine NecklaceIntestine Necklace
 Slot: NECK
 HP: +5
@@ -487,7 +488,7 @@ Skill: 1H Slashing Atk Delay: 29
 DMG: 6
 WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 Grobb Guard |
 Basher Bibeka
@@ -502,7 +503,7 @@ Skill: 1H Slashing Atk Delay: 29
 DMG: 6
 WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 Grobb Guard. One of two Bashers located in an alcove(there are bits of dwarf scattered about and an oven in the back of ... |
 Basher Bugak
@@ -517,7 +518,7 @@ Skill: 1H Slashing Atk Delay: 29
 DMG: 6
 WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Round ShieldRound Shield
 Slot: SECONDARY
 AC: 6
@@ -546,7 +547,7 @@ Skill: 1H Slashing Atk Delay: 29
 DMG: 6
 WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 Description needed. |
 Basher Glaum
@@ -561,7 +562,7 @@ Skill: 1H Slashing Atk Delay: 29
 DMG: 6
 WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Round ShieldRound Shield
 Slot: SECONDARY
 AC: 6
@@ -592,7 +593,7 @@ Skill: 1H Slashing Atk Delay: 29
 DMG: 6
 WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 Grobb Guard. In the bank. |
 Basher Gubaku
@@ -607,7 +608,7 @@ Skill: 1H Slashing Atk Delay: 29
 DMG: 6
 WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 Grobb Guard |
 Basher Kankuk
@@ -635,7 +636,7 @@ Skill: 1H Slashing Atk Delay: 29
 DMG: 6
 WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Round ShieldRound Shield
 Slot: SECONDARY
 AC: 6
@@ -689,7 +690,7 @@ Skill: 1H Slashing Atk Delay: 29
 DMG: 6
 WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Round ShieldRound Shield
 Slot: SECONDARY
 AC: 6
@@ -724,7 +725,7 @@ Skill: 1H Slashing Atk Delay: 29
 DMG: 6
 WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Round ShieldRound Shield
 Slot: SECONDARY
 AC: 6
@@ -762,7 +763,7 @@ Skill: 1H Slashing Atk Delay: 29
 DMG: 6
 WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Round ShieldRound Shield
 Slot: SECONDARY
 AC: 6
@@ -811,7 +812,7 @@ Skill: 1H Slashing Atk Delay: 29
 DMG: 6
 WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Round ShieldRound Shield
 Slot: SECONDARY
 AC: 6
@@ -945,7 +946,7 @@ Skill: 1H Slashing Atk Delay: 31
 DMG: 6
 WT: 6.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Description needed. |
 Garklog
@@ -1169,7 +1170,7 @@ Skill: 2H Blunt Atk Delay: 38
 DMG: 9
 WT: 10.0 Size: LARGE
 Class: ALL except BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 26 @ lvl 50
 |
 Sister of Perrir Zexus, leader of the Priests of Innoruuk. |
 Spinkit
@@ -1292,7 +1293,7 @@ Skill: 1H Slashing Atk Delay: 31
 DMG: 6
 WT: 6.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Exterminator Filrog |
 1H Slashing |

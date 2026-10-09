@@ -1,5 +1,5 @@
 # Lavastorm_Mountains (eqlwiki.com)
-fetched: 2026-10-01
+fetched: 2026-10-09
 
 Lavastorm Mountains - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -110,7 +111,7 @@ Skill: Piercing Atk Delay: 29
 DMG: 6BACKSTAB: 6
 WT: 6.5 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Large Bone ShieldLarge Bone Shield
 MAGIC ITEM
 Slot: SECONDARY
@@ -358,7 +359,7 @@ Skill: Piercing Atk Delay: 29
 DMG: 6BACKSTAB: 6
 WT: 6.5 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 Exact spawn location unconfirmed. Seems to be quite rare. Drops one of the first obtainable magic weapons for low-level ... |
 Cyspeth Romtai
@@ -593,7 +594,7 @@ Skill: Piercing Atk Delay: 29
 DMG: 6BACKSTAB: 6
 WT: 6.5 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 a warbone spearman |
 Piercing |

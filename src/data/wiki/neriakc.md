@@ -1,5 +1,5 @@
 # Neriak_Third_Gate (eqlwiki.com)
-fetched: 2026-09-21
+fetched: 2026-10-09
 
 Neriak - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -380,7 +381,7 @@ Skill: 1H Blunt Atk Delay: 30
 DMG: 6
 WT: 7.3 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 , Round ShieldRound Shield
 Slot: SECONDARY
 AC: 6
@@ -414,7 +415,7 @@ Skill: 1H Blunt Atk Delay: 38
 DMG: 6
 WT: 9.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 , Large Round ShieldLarge Round Shield
 Slot: SECONDARY
 AC: 6
@@ -436,7 +437,7 @@ Skill: 1H Slashing Atk Delay: 24
 DMG: 5
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD DRU BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 , Round ShieldRound Shield
 Slot: SECONDARY
 AC: 6
@@ -457,7 +458,7 @@ Skill: 1H Blunt Atk Delay: 38
 DMG: 8
 WT: 10.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 , Round ShieldRound Shield
 Slot: SECONDARY
 AC: 6
@@ -494,7 +495,7 @@ Skill: 1H Slashing Atk Delay: 33
 DMG: 7
 WT: 6.5 Size: MEDIUM
 Class: WAR PAL RNG SHD DRU BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Small Round ShieldSmall Round Shield
 Slot: SECONDARY
 AC: 6
@@ -515,7 +516,7 @@ Skill: 1H Blunt Atk Delay: 38
 DMG: 6
 WT: 9.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 , Large Round ShieldLarge Round Shield
 Slot: SECONDARY
 AC: 6
@@ -536,7 +537,7 @@ Skill: 1H Blunt Atk Delay: 38
 DMG: 6
 WT: 9.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 , Large Round ShieldLarge Round Shield
 Slot: SECONDARY
 AC: 6
@@ -557,7 +558,7 @@ Skill: 1H Slashing Atk Delay: 29
 DMG: 6
 WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Round ShieldRound Shield
 Slot: SECONDARY
 AC: 6
@@ -709,7 +710,7 @@ Skill: Piercing Atk Delay: 30
 DMG: 5BACKSTAB: 5 AC: 2
 WT: 5.0 Size: MEDIUM
 Class: SHD BRD ROG BST
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Dispenses Flaming Pungla for 3gp each. |
 Putad
@@ -741,7 +742,7 @@ Skill: Piercing Atk Delay: 23
 DMG: 5BACKSTAB: 5
 Size: MEDIUM WT: 5.0
 Class: WAR RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 Paths from the market view balcony to Darien Felton vendor. Seems to have a 6:40 spawn timer and always drops fine steel... |
 Sal Drana
@@ -821,7 +822,7 @@ The Gobbler
 Ogre |
 Merchant |
 40 |
-(-323, -125) |
+/waypoint -323, -125 |
 |
 Located in #16 on the Neriak Foreign Quarter map. |
 Thrack
@@ -1058,7 +1059,7 @@ Skill: 2H Slashing Atk Delay: 56
 DMG: 12
 WT: 16.0 Size: GIANT
 Class: WAR SHD
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 |
 Narex T`Vem |
 2 |
@@ -1105,7 +1106,7 @@ Skill: 2H Slashing Atk Delay: 46
 DMG: 9
 WT: 11.5 Size: LARGE
 Class: WAR
-Race: ALL
+Race: ALLDMG Bonus: 31 @ lvl 50
 |
 Yegek B`Larin |
 4 |
@@ -1126,14 +1127,14 @@ Skill: Piercing Atk Delay: 31
 DMG: 4BACKSTAB: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 , Bronze DaggerBronze Dagger
 Slot: PRIMARY SECONDARY
 Skill: Piercing Atk Delay: 22
 DMG: 3BACKSTAB: 3
 WT: 3.0 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 , Head of a Halfling SpyHead of a Halfling Spy
 LORE ITEM NO DROP
 WT: 0.8 Size: SMALL
@@ -1889,7 +1890,7 @@ WIS: +8 MANA: +50
 Effect: Gate (Any Slot/Can Equip, Casting Time: 20.0) at Level 5
 WT: 1.0 Size: MEDIUM
 Class: CLR DRU SHM
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 Vorshar the Despised |
 1H Blunt |
@@ -2156,7 +2157,7 @@ STR: +4
 Effect: Promised Renewal (Any Slot, Casting Time: 2.0 seconds, Cooldown: 1200 seconds) at 45
 WT: 13.0 Size: LARGE
 Class: SHD
-Race: ALL
+Race: ALLDMG Bonus: 27 @ lvl 50
 |
 Loveal S`Nez |
 20+ |
@@ -2186,7 +2187,7 @@ Skill: Piercing Atk Delay: 23
 DMG: 5BACKSTAB: 5
 Size: MEDIUM WT: 5.0
 Class: WAR RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 , Fine Steel DaggerFine Steel Dagger
 QUEST ITEM
 Slot: PRIMARY SECONDARY
@@ -2194,7 +2195,7 @@ Skill: Piercing Atk Delay: 19
 DMG: 3BACKSTAB: 3
 WT: 2.4 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 |
 This Dark Elf spawns in The Maiden's Fancy, on the stairs down to the lower level. He then paths between the bar area of... |
 Ash C`Luzz
@@ -2249,7 +2250,7 @@ Skill: 2H Slashing Atk Delay: 45
 DMG: 11
 WT: 12.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 , Fine Steel Weapons |
 6m40sec spawn time. Quads. Harm Touches for 381. Casts Shadowknight spells such as Disease Cloud, 45hp Lifetap, Heat Blo... |
 Dizra To`Biath
@@ -2364,7 +2365,7 @@ Skill: 1H Slashing Atk Delay: 42
 DMG: 6
 WT: 9.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 21 @ lvl 50
 x2 |
 A pair of these thugs flank Gribnor the Small and assist him. Immune to Lull and Mesmerize. Can be charmed. Dual wie... |
 Gribnor the Small
@@ -2381,7 +2382,7 @@ DMG: 9
 STR: +2 WIS: +1 HP: +5 Mana: +5 End: +5
 WT: 6.0 Size: LARGE
 Class: WAR PAL RNG SHD DRU BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 |
 Is, indeed, a small Troll. Summons. Immune to Lull, Mesmerize, and Charm. Assisted by a pair of [[Gribnor's Thug|Gribnor... |
 Hekzin G`Zule
@@ -2671,7 +2672,7 @@ Skill: 2H Blunt Atk Delay: 38
 DMG: 9
 WT: 10.0 Size: LARGE
 Class: ALL except BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 26 @ lvl 50
 |
 Leader of the Priests of Innoruuk and Cleric GM. Loyal to the Dark Elf King Naythox Thex. |
 Petra D`Dbth
@@ -2706,7 +2707,7 @@ Skill: 1H Blunt Atk Delay: 32
 DMG: 6
 WT: 5.0 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Troll PartsTroll Parts
 QUEST ITEM
 WT: 1.0 Size: SMALL
@@ -2807,7 +2808,7 @@ Skill: 2H Blunt Atk Delay: 38
 DMG: 9
 WT: 10.0 Size: LARGE
 Class: ALL except BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 26 @ lvl 50
 |
 Description needed. |
 Ulraz S`Lon
@@ -2898,7 +2899,7 @@ Skill: 2H Blunt Atk Delay: 38
 DMG: 9
 WT: 10.0 Size: LARGE
 Class: ALL except BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 26 @ lvl 50
 |
 Perrir Zexus |
 2H Blunt |
@@ -2932,7 +2933,7 @@ Skill: 2H Blunt Atk Delay: 35
 DMG: 10
 WT: 10.0 Size: LARGE
 Class: ALL except BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 24 @ lvl 50
 |
 None? |
 2H Blunt |
@@ -2952,7 +2953,7 @@ Skill: 1H Blunt Atk Delay: 32
 DMG: 6
 WT: 5.0 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Ratraz |
 1H Blunt |
@@ -2965,7 +2966,7 @@ DMG: 9
 STR: +2 WIS: +1 HP: +5 Mana: +5 End: +5
 WT: 6.0 Size: LARGE
 Class: WAR PAL RNG SHD DRU BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 |
 Gribnor the Small |
 1H Slashing |

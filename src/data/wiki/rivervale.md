@@ -1,5 +1,5 @@
 # Rivervale (eqlwiki.com)
-fetched: 2026-09-26
+fetched: 2026-10-09
 
 Rivervale - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -437,7 +438,7 @@ STR: +1 STA: +1 WIS: +3
 Effect: Summon Food (Any Slot, Casting Time: Instant)
 WT: 6.0 Size: MEDIUM
 Class: DRU
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 |
 Shakey Scarecrow |
 1? |
@@ -766,7 +767,7 @@ Skill: Piercing Atk Delay: 29
 DMG: 6BACKSTAB: 6
 WT: 7.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Small Round ShieldSmall Round Shield
 Slot: SECONDARY
 AC: 6
@@ -800,7 +801,7 @@ Skill: Piercing Atk Delay: 29
 DMG: 6BACKSTAB: 6
 WT: 7.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Small Round ShieldSmall Round Shield
 Slot: SECONDARY
 AC: 6
@@ -834,7 +835,7 @@ Skill: Piercing Atk Delay: 29
 DMG: 6BACKSTAB: 6
 WT: 7.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Small Round ShieldSmall Round Shield
 Slot: SECONDARY
 AC: 6
@@ -868,7 +869,7 @@ Skill: Piercing Atk Delay: 29
 DMG: 6BACKSTAB: 6
 WT: 7.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Small Round ShieldSmall Round Shield
 Slot: SECONDARY
 AC: 6
@@ -902,7 +903,7 @@ Skill: Piercing Atk Delay: 29
 DMG: 6BACKSTAB: 6
 WT: 7.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Small Round ShieldSmall Round Shield
 Slot: SECONDARY
 AC: 6
@@ -944,7 +945,7 @@ Skill: Piercing Atk Delay: 29
 DMG: 6BACKSTAB: 6
 WT: 7.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Small Round ShieldSmall Round Shield
 Slot: SECONDARY
 AC: 6
@@ -978,7 +979,7 @@ Skill: Piercing Atk Delay: 29
 DMG: 6BACKSTAB: 6
 WT: 7.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Small Round ShieldSmall Round Shield
 Slot: SECONDARY
 AC: 6
@@ -1012,7 +1013,7 @@ Skill: Piercing Atk Delay: 29
 DMG: 6BACKSTAB: 6
 WT: 7.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Small Round ShieldSmall Round Shield
 Slot: SECONDARY
 AC: 6
@@ -1046,7 +1047,7 @@ Skill: Piercing Atk Delay: 29
 DMG: 6BACKSTAB: 6
 WT: 7.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Small Round ShieldSmall Round Shield
 Slot: SECONDARY
 AC: 6
@@ -1080,7 +1081,7 @@ Skill: Piercing Atk Delay: 29
 DMG: 6BACKSTAB: 6
 WT: 7.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Small Round ShieldSmall Round Shield
 Slot: SECONDARY
 AC: 6
@@ -1114,7 +1115,7 @@ Skill: Piercing Atk Delay: 29
 DMG: 6BACKSTAB: 6
 WT: 7.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Small Round ShieldSmall Round Shield
 Slot: SECONDARY
 AC: 6
@@ -1148,7 +1149,7 @@ Skill: Piercing Atk Delay: 29
 DMG: 6BACKSTAB: 6
 WT: 7.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Small Round ShieldSmall Round Shield
 Slot: SECONDARY
 AC: 6
@@ -1182,7 +1183,7 @@ Skill: Piercing Atk Delay: 29
 DMG: 6BACKSTAB: 6
 WT: 7.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Small Round ShieldSmall Round Shield
 Slot: SECONDARY
 AC: 6
@@ -1216,7 +1217,7 @@ Skill: Piercing Atk Delay: 29
 DMG: 6BACKSTAB: 6
 WT: 7.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Small Round ShieldSmall Round Shield
 Slot: SECONDARY
 AC: 6
@@ -1250,7 +1251,7 @@ Skill: Piercing Atk Delay: 29
 DMG: 6BACKSTAB: 6
 WT: 7.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Small Round ShieldSmall Round Shield
 Slot: SECONDARY
 AC: 6
@@ -1284,7 +1285,7 @@ Skill: Piercing Atk Delay: 29
 DMG: 6BACKSTAB: 6
 WT: 7.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Small Round ShieldSmall Round Shield
 Slot: SECONDARY
 AC: 6
@@ -1318,7 +1319,7 @@ Skill: Piercing Atk Delay: 29
 DMG: 6BACKSTAB: 6
 WT: 7.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Small Round ShieldSmall Round Shield
 Slot: SECONDARY
 AC: 6
@@ -1360,7 +1361,7 @@ Skill: Piercing Atk Delay: 29
 DMG: 6BACKSTAB: 6
 WT: 7.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Small Round ShieldSmall Round Shield
 Slot: SECONDARY
 AC: 6
@@ -1394,7 +1395,7 @@ Skill: Piercing Atk Delay: 29
 DMG: 6BACKSTAB: 6
 WT: 7.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Small Round ShieldSmall Round Shield
 Slot: SECONDARY
 AC: 6
@@ -1428,7 +1429,7 @@ Skill: Piercing Atk Delay: 29
 DMG: 6BACKSTAB: 6
 WT: 7.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Small Round ShieldSmall Round Shield
 Slot: SECONDARY
 AC: 6
@@ -1462,7 +1463,7 @@ Skill: Piercing Atk Delay: 29
 DMG: 6BACKSTAB: 6
 WT: 7.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Small Round ShieldSmall Round Shield
 Slot: SECONDARY
 AC: 6
@@ -1496,7 +1497,7 @@ Skill: Piercing Atk Delay: 29
 DMG: 6BACKSTAB: 6
 WT: 7.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Small Round ShieldSmall Round Shield
 Slot: SECONDARY
 AC: 6
@@ -1530,7 +1531,7 @@ Skill: Piercing Atk Delay: 29
 DMG: 6BACKSTAB: 6
 WT: 7.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Small Round ShieldSmall Round Shield
 Slot: SECONDARY
 AC: 6
@@ -1564,7 +1565,7 @@ Skill: Piercing Atk Delay: 29
 DMG: 6BACKSTAB: 6
 WT: 7.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Small Round ShieldSmall Round Shield
 Slot: SECONDARY
 AC: 6
@@ -1598,7 +1599,7 @@ Skill: Piercing Atk Delay: 29
 DMG: 6BACKSTAB: 6
 WT: 7.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Small Round ShieldSmall Round Shield
 Slot: SECONDARY
 AC: 6
@@ -1632,7 +1633,7 @@ Skill: Piercing Atk Delay: 29
 DMG: 6BACKSTAB: 6
 WT: 7.0 Size: LARGE
 Class: WAR RNG SHD BRD ROG SHM
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Small Round ShieldSmall Round Shield
 Slot: SECONDARY
 AC: 6

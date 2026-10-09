@@ -1,5 +1,5 @@
 # Plane_of_Hate (eqlwiki.com)
-fetched: 2026-10-03
+fetched: 2026-10-09
 
 Plane of Hate - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -184,7 +185,7 @@ STR: +4 DEX: +5
 Effect: Yaulp II (Combat, Casting Time: Instant) at Level 45
 WT: 3.0 Size: LARGE
 Class: ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 an Agent of Innoruuk |
 NO |
@@ -207,7 +208,7 @@ DMG: 24
 STR: +5 STA: +4
 WT: 7.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 28 @ lvl 50
 Decrepit HideDecrepit Hide
 No Trade, Quest
 Size: SMALL WT: 0.2
@@ -221,7 +222,7 @@ DMG: 9
 STR: +5 AGI: +4
 WT: 5.0 Size: MEDIUM
 Class: SHD
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 Ashenbone ShieldAshenbone Shield
 MAGIC ITEM LORE ITEM NO DROP
 Slot: SECONDARY
@@ -336,7 +337,7 @@ DMG: 20
 STR: +5 INT: +4
 WT: 6.5 Size: LARGE
 Class: PAL
-Race: ALL
+Race: ALLDMG Bonus: 24 @ lvl 50
 Darkmetal Holy Water SprinklerDarkmetal Holy Water Sprinkler
 Lore Equipped, No Trade, Placeable
 Slot: PRIMARY
@@ -345,7 +346,7 @@ DMG: 16
 WIS: +4
 WT: 7.5 Size: MEDIUM
 Class: PAL
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 Trueheart ShieldTrueheart Shield
 Lore Equipped, No Trade, Placeable
 Slot: SECONDARY
@@ -414,7 +415,7 @@ DEX: +5 AGI: +4
 SV DISEASE: +5 SV POISON: +5
 Size: SMALL WT: 1.0
 Class: RNG
-Race: ALL
+Race: ALLDMG Bonus: 7 @ lvl 50
 |
 a Sage of Innoruuk |
 NO |
@@ -437,7 +438,7 @@ DMG: 8
 STR: +5 AGI: +4
 WT: 2.8 Size: MEDIUM
 Class: BRD
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 a spite golem |
 NO |
@@ -594,7 +595,7 @@ Skill: 1H Slashing Atk Delay: 27
 DMG: 4
 WT: 5.0 Size: MEDIUM
 Class: WAR
-Race: NONE
+Race: NONEDMG Bonus: 13 @ lvl 50
 , Animated ShieldAnimated Shield
 MAGIC ITEM NO DROP TEMPORARY
 Slot: SECONDARY
@@ -773,7 +774,7 @@ DMG: 8
 STR: +5 AGI: +4
 WT: 2.8 Size: MEDIUM
 Class: BRD
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 Rune Etched BracerRune Etched Bracer
 No Trade, Quest
 Slot: WRIST
@@ -1085,7 +1086,7 @@ Skill: Piercing Atk Delay: 19
 DMG: 9BACKSTAB: 9
 WT: 2.5 Size: MEDIUM
 Class: ROG
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 , Shrieking AhlspiessShrieking Ahlspiess
 Lore Equipped, No Trade, Quest, Placeable
 Slot: RANGE PRIMARY SECONDARY
@@ -1095,7 +1096,7 @@ STR: +4 DEX: +5
 Effect: Yaulp II (Combat, Casting Time: Instant) at Level 45
 WT: 3.0 Size: LARGE
 Class: ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 A bigger, meaner Abhorrent.
 Lore
@@ -1201,7 +1202,7 @@ WIS: +7
 Effect: Banish Summoned (Combat) at Level 45
 WT: 3.5 Size: MEDIUM
 Class: CLR
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 , Prismatic ShieldPrismatic Shield
 Lore Equipped, No Trade, Placeable
 Slot: SECONDARY
@@ -1335,7 +1336,7 @@ DMG: 8
 STR: +5 AGI: +4
 WT: 2.8 Size: MEDIUM
 Class: BRD
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 , Tainted Darksteel BreastplateTainted Darksteel Breastplate
 MAGIC ITEM LORE ITEM NO DROP
 Slot: CHEST
@@ -1370,7 +1371,7 @@ DMG: 8
 STR: +5 AGI: +4
 WT: 2.8 Size: MEDIUM
 Class: BRD
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 , Tainted Darksteel BreastplateTainted Darksteel Breastplate
 MAGIC ITEM LORE ITEM NO DROP
 Slot: CHEST
@@ -1578,7 +1579,7 @@ DMG: 9
 STR: +5 AGI: +4
 WT: 5.0 Size: MEDIUM
 Class: SHD
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 an ashenbone drake |
 1H Slashing |
@@ -1591,7 +1592,7 @@ DMG: 24
 STR: +5 STA: +4
 WT: 7.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 28 @ lvl 50
 |
 an ashenbone drake |
 2H Slashing |
@@ -1615,7 +1616,7 @@ Skill: 2H Blunt Atk Delay: 43
 DMG: 34
 WT: 7.0 Size: MEDIUM
 Class: WAR
-Race: ALL
+Race: ALLDMG Bonus: 29 @ lvl 50
 |
 Innoruuk (God) |
 2H Blunt |
@@ -1652,7 +1653,7 @@ DMG: 30
 INT: +10
 WT: 9.5 Size: LARGE
 Class: SHD
-Race: ALL
+Race: ALLDMG Bonus: 28 @ lvl 50
 |
 Lord of Loathing, Innoruuk (God) |
 2H Slashing |
@@ -1856,7 +1857,7 @@ Skill: 1H Slashing Atk Delay: 19
 DMG: 9
 WT: 2.0 Size: MEDIUM
 Class: RNG
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 |
 Innoruuk (God) |
 1H Slashing |
@@ -2010,7 +2011,7 @@ DMG: 31
 STR: +4 STA: +4
 WT: 8.9 Size: LARGE
 Class: WAR RNG
-Race: ALL
+Race: ALLDMG Bonus: 25 @ lvl 50
 |
 None? |
 2H Slashing |
@@ -2036,7 +2037,7 @@ DMG: 27
 WIS: +7 INT: +7
 WT: 7.9 Size: SMALL
 Class: PAL SHD
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 a Disciple of Innoruuk, Innoruuk's Chosen, An Elite Dragoon |
 1H Slashing |
@@ -2049,7 +2050,7 @@ DMG: 16
 WIS: +4
 WT: 7.5 Size: MEDIUM
 Class: PAL
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 an ire ghast, Lord of Ire |
 1H Blunt |
@@ -2096,7 +2097,7 @@ STR: +5 INT: +5
 Effect: Diamondskin (Must Equip, Casting Time: 6.0) at Level 46
 WT: 1.5 Size: MEDIUM
 Class: WIZ
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Innoruuk (God) |
 1H Blunt |
@@ -2230,7 +2231,7 @@ Skill: 1H Blunt Atk Delay: 25
 DMG: 11
 WT: 3.0 Range: 50 Size: MEDIUM
 Class: BRD
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 Maestro of Rancor |
 1H Blunt |
@@ -2266,7 +2267,7 @@ DMG: 30
 WIS: +15
 WT: 8.5 Size: LARGE
 Class: SHM
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 |
 Innoruuk (God), Master of Spite |
 2H Blunt |
@@ -2949,7 +2950,7 @@ DMG: 8
 STR: +5 AGI: +4
 WT: 2.8 Size: MEDIUM
 Class: BRD
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 a scorn banshee |
 Piercing |
@@ -3073,7 +3074,7 @@ DMG: 12
 STR: +8 WIS: +8
 WT: 5.5 Size: SMALL
 Class: RNG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 An Agent of Innoruuk, Innoruuk's Chosen |
 1H Slashing |
@@ -3137,7 +3138,7 @@ DEX: +5 AGI: +4
 SV DISEASE: +5 SV POISON: +5
 Size: SMALL WT: 1.0
 Class: RNG
-Race: ALL
+Race: ALLDMG Bonus: 7 @ lvl 50
 |
 an eerie chest, a revultant rat |
 1H Slashing |
@@ -3177,7 +3178,7 @@ DMG: 10
 Effect: Clarity (Any Slot/Can Equip, Casting Time: Instant) at Level 46
 WT: 1.5 Size: MEDIUM
 Class: WIZ
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Innoruuk (God) |
 1H Blunt |
@@ -3599,7 +3600,7 @@ STR: +4 DEX: +5
 Effect: Yaulp II (Combat, Casting Time: Instant) at Level 45
 WT: 3.0 Size: LARGE
 Class: ROG
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 an abhorrent, Avatar of Abhorrence |
 Piercing |
@@ -3636,7 +3637,7 @@ Skill: 1H Slashing Atk Delay: 25
 DMG: 11
 WT: 3.0 Size: MEDIUM
 Class: BRD
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 Maestro of Rancor |
 1H Slashing |
@@ -3722,7 +3723,7 @@ Effect: Reclaim Energy (Any Slot/Can Equip, Casting Time: Instant) at Level 40
 Focus Effect: Servant of Earth
 WT: 5.0 Size: LARGE
 Class: MAG
-Race: ALL
+Race: ALLDMG Bonus: 20 @ lvl 50
 |
 Magi P`Tasa |
 2H Blunt |
@@ -3736,7 +3737,7 @@ Effect: Reclaim Energy (Any Slot/Can Equip, Casting Time: Instant) at Level 40
 Focus Effect: Servant of Fire
 WT: 5.0 Size: LARGE
 Class: MAG
-Race: ALL
+Race: ALLDMG Bonus: 20 @ lvl 50
 |
 Mistress of Scorn, a forsaken revenant (Male Only) |
 2H Blunt |
@@ -3749,7 +3750,7 @@ DMG: 25
 Haste: +36%
 WT: 7.5 Size: LARGE
 Class: WAR
-Race: ALL
+Race: ALLDMG Bonus: 24 @ lvl 50
 |
 Grandmaster R`Tal |
 2H Slashing |
@@ -3781,7 +3782,7 @@ DMG: 11 AC: 9
 AGI: +5
 WT: 5.2 Size: SMALL
 Class: MNK BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 |
 An Agent of Innoruuk, a Disciple of Innoruuk, a Champion of Innoruuk |
 1H Blunt |
@@ -3794,7 +3795,7 @@ DMG: 20
 STR: +5 INT: +4
 WT: 6.5 Size: LARGE
 Class: PAL
-Race: ALL
+Race: ALLDMG Bonus: 24 @ lvl 50
 |
 an ire ghast, Lord of Ire |
 2H Slashing |
@@ -3931,7 +3932,7 @@ WIS: +7
 Effect: Banish Summoned (Combat) at Level 45
 WT: 3.5 Size: MEDIUM
 Class: CLR
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 |
 High Priest M`kari, Innoruuk (God) |
 1H Blunt |
@@ -4261,7 +4262,7 @@ Skill: Piercing Atk Delay: 19
 DMG: 9BACKSTAB: 9
 WT: 2.5 Size: MEDIUM
 Class: ROG
-Race: ALL
+Race: ALLDMG Bonus: 9 @ lvl 50
 |
 Innoruuk (God), Avatar of Abhorrence |
 Piercing |
@@ -4444,7 +4445,7 @@ Skill: 1H Blunt Atk Delay: 25
 DMG: 11
 WT: 3.0 Range: 50 Size: MEDIUM
 Class: BRD
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 , Hand of the MaestroHand of the Maestro
 MAGIC ITEM LORE ITEM NO DROP
 Slot: PRIMARY SECONDARY
@@ -4485,7 +4486,7 @@ Skill: 1H Slashing Atk Delay: 25
 DMG: 11
 WT: 3.0 Size: MEDIUM
 Class: BRD
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 Innoruuk Drops
 |

@@ -1,5 +1,5 @@
 # Estate_of_Unrest (eqlwiki.com)
-fetched: 2026-10-03
+fetched: 2026-10-09
 
 The Estate of Unrest - EverQuest Legends Wiki
 Jump to content
@@ -8,19 +8,20 @@ EverQuest Legends Wiki
 Search
 Search
 Page
-Discussion
 English
+Talk
 Read
 View source
-View history
+History
 Tools
 Tools
 move to sidebar
 hide
 Actions
+Talk
 Read
 View source
-View history
+History
 General
 What links here
 Related changes
@@ -155,7 +156,7 @@ Atk Delay: 42
 DEX: -13 INT: +7
 Size: MEDIUM WT: 3.5
 Class: NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 28 @ lvl 50
 , Cursed BladeCursed Blade
 Attunable, Lore Equipped
 Slot: PRIMARY SECONDARY
@@ -215,7 +216,7 @@ DMG: 7
 Effect: Laceration (Combat) at Level 15
 Size: MEDIUM WT: 2.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Ivory BraceletIvory Bracelet
 MAGIC ITEM
 Slot: WRIST
@@ -247,7 +248,7 @@ DMG: 5BACKSTAB: 5
 Effect: Rising Dexterity (Combat) at Level 15
 Size: SMALL WT: 2.5
 Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
-Race: ALL
+Race: ALLDMG Bonus: 10 @ lvl 50
 , Repurposed PickaxeRepurposed Pickaxe
 Attunable
 Slot: PRIMARY
@@ -256,7 +257,7 @@ DMG: 15
 Atk Delay: 50
 WT: 14.7 Size: LARGE
 Class: WAR PAL RNG SHD BRD BST BER
-Race: ALL
+Race: ALLDMG Bonus: 25 @ lvl 50
 , Rhodium BandRhodium Band
 Attunable, Quest
 Slot: FINGER
@@ -350,7 +351,7 @@ DMG: 15
 Atk Delay: 50
 WT: 14.7 Size: LARGE
 Class: WAR PAL RNG SHD BRD BST BER
-Race: ALL
+Race: ALLDMG Bonus: 25 @ lvl 50
 (Common) Spelunker's HeadlampSpelunker's Headlamp
 Attunable
 Slot: HEAD
@@ -369,7 +370,7 @@ DMG: 7
 Effect: Laceration (Combat) at Level 15
 Size: MEDIUM WT: 2.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 (Rare) and PugiusPugius
 Attunable, Placeable
 Slot: PRIMARY SECONDARY
@@ -378,7 +379,7 @@ DMG: 5BACKSTAB: 5
 Effect: Rising Dexterity (Combat) at Level 15
 Size: SMALL WT: 2.5
 Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
-Race: ALL
+Race: ALLDMG Bonus: 10 @ lvl 50
 (Common)
 B. To Basement.
 C. Main Room or MR, and stairs to second floor.
@@ -389,7 +390,7 @@ Skill: 1H Blunt Atk Delay: 28
 DMG: 6
 WT: 5.0 Size: MEDIUM
 Class: ALL except SHD NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 The lettered stairs lead to each other.
 |
 Unrest Manor
@@ -460,7 +461,7 @@ Atk Delay: 42
 DEX: -13 INT: +7
 Size: MEDIUM WT: 3.5
 Class: NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 28 @ lvl 50
 , and Rhodium BandRhodium Band
 Attunable, Quest
 Slot: FINGER
@@ -531,7 +532,7 @@ DMG: 4
 Effect: Lifetap (Combat, Casting Time: Instant) at Level 1
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 , and Dark Terrors
 A. Fireplace or FP, and stairs to first and second floors.
 Note: On the second floor west of the stairs notated C in one of the closets is Khrix Fritchoff who drops Scaredy CapScaredy Cap
@@ -567,7 +568,7 @@ DMG: 17
 WT: 2.0 Size: SMALL
 END: +35
 Class: MNK
-Race: ALL
+Race: ALLDMG Bonus: 20 @ lvl 50
 |
 Dangers
 Unrest is a small outdoor estate occupied from top to bottom with undead. The principal areas of note in the estate are the manorhouse, the yard, and the maze. The manorhouse has five levels, including the basement.
@@ -591,7 +592,7 @@ DMG: 5BACKSTAB: 5
 Effect: Rising Dexterity (Combat) at Level 15
 Size: SMALL WT: 2.5
 Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
-Race: ALL
+Race: ALLDMG Bonus: 10 @ lvl 50
 and
 GladiusGladius
 Attunable, Placeable
@@ -601,7 +602,7 @@ DMG: 7
 Effect: Laceration (Combat) at Level 15
 Size: MEDIUM WT: 2.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 spawns), usually considered an extension of the back room (BR), or in the center room known as main room (MR). The main room is more risky because of the stairs leading to the second floor where trains sometimes path. Notable mobs are the an undead brewer who drops Preserved Hops, an item needed for the Cleric-only Brell Serilis symbol quest.
 At around level 22 to 24 (for main healers, Greater Healing will often be necessary; Cleric gets this at 24) when the experience rate slows down and mobs begin to con green, you can graduate to the second floor. The most common camp spot here is called fireplace (FP) with an average mob level of 24-25, and from there you can reach quite a few named mobs with noteworthy loot drops. There are two mobs all but the strongest groups will be careful to avoid: the gnome Khrix Fritchoff and a priest of Najena. Named mobs this camp can pull from the various rooms on the floor (which is easily manageable with a solid group and a Druid or Ranger using Harmony) include the reclusive ghoul magus (
 Savant's CapSavant's Cap
@@ -686,7 +687,7 @@ DMG: 4
 Effect: Lifetap (Combat, Casting Time: Instant) at Level 1
 WT: 5.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 and a Shaman quest item), and mortuary fungus (drops a Necromancer quest item) are further in. There is even fake lava in one hall to trick players into trying to go around it where they'll fall into a trap. Other than the numerous quest items that drop here fairly commonly, there is one notable mob: the ghost of the estate's dwarven owner, Garanel Rucksif, who drops
 Jagged BandJagged Band
 Attunable
@@ -725,7 +726,7 @@ Skill: 1H Slashing Atk Delay: 32
 DMG: 5
 Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 , Grave MoldGrave Mold
 Quest
 Size: TINY WT: 0.1
@@ -738,7 +739,7 @@ Skill: 1H Slashing Atk Delay: 35
 DMG: 5
 Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 , A Ghoul's HeartA Ghoul's Heart
 Lore Equipped, No Trade
 Slot: NECK
@@ -1153,7 +1154,7 @@ DMG: 7
 Effect: Laceration (Combat) at Level 15
 Size: MEDIUM WT: 2.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , PugiusPugius
 Attunable, Placeable
 Slot: PRIMARY SECONDARY
@@ -1162,7 +1163,7 @@ DMG: 5BACKSTAB: 5
 Effect: Rising Dexterity (Combat) at Level 15
 Size: SMALL WT: 2.5
 Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
-Race: ALL
+Race: ALLDMG Bonus: 10 @ lvl 50
 |
 Relatively rare spawn at the alcove next to the side door on the 1st floor. Placeholder is a dark boned skeleton. Seems ... |
 Mortuary Fungus
@@ -1230,7 +1231,7 @@ Skill: 1H Blunt Atk Delay: 28
 DMG: 6
 WT: 5.0 Size: MEDIUM
 Class: ALL except SHD NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Battleworn CanteenBattleworn Canteen
 No Trade
 Size: SMALL WT: 0.5
@@ -1309,7 +1310,7 @@ Skill: 1H Slashing Atk Delay: 35
 DMG: 7
 Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 17 @ lvl 50
 |
 Garanel Rucksif |
 1H Slashing |
@@ -1391,7 +1392,7 @@ Atk Delay: 42
 DEX: -13 INT: +7
 Size: MEDIUM WT: 3.5
 Class: NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 28 @ lvl 50
 |
 a reanimated hand |
 2H Blunt |
@@ -1402,7 +1403,7 @@ Skill: 2H Slashing Atk Delay: 46
 DMG: 9
 WT: 14.0 Size: LARGE
 Class: WAR PAL RNG SHD
-Race: ALL
+Race: ALLDMG Bonus: 31 @ lvl 50
 |
 a greater dark bone |
 2H Slashing |
@@ -1413,7 +1414,7 @@ Skill: 2H Blunt Atk Delay: 45
 DMG: 8
 WT: 14.0 Size: LARGE
 Class: ALL except BRD ROG NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 |
 a greater dark bone |
 2H Blunt |
@@ -1424,7 +1425,7 @@ Skill: 1H Blunt Atk Delay: 33
 DMG: 5
 WT: 8.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 a greater dark bone |
 1H Blunt |
@@ -1436,7 +1437,7 @@ Skill: Piercing Atk Delay: 21
 DMG: 3BACKSTAB: 3
 Size: SMALL WT: 3.0
 Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
-Race: ALL
+Race: ALLDMG Bonus: 10 @ lvl 50
 |
 a carrion ghoul |
 Piercing |
@@ -1602,7 +1603,7 @@ Skill: Piercing Atk Delay: 20
 DMG: 3BACKSTAB: 3
 Size: SMALL WT: 3.0
 Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
-Race: ALL
+Race: ALLDMG Bonus: 10 @ lvl 50
 |
 a dry bone skeleton |
 Piercing |
@@ -1666,7 +1667,7 @@ DMG: 7
 Effect: Laceration (Combat) at Level 15
 Size: MEDIUM WT: 2.5
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 Lesser Blade Fiend |
 1H Slashing |
@@ -1897,7 +1898,7 @@ DMG: 5BACKSTAB: 5
 Effect: Rising Dexterity (Combat) at Level 15
 Size: SMALL WT: 2.5
 Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
-Race: ALL
+Race: ALLDMG Bonus: 10 @ lvl 50
 |
 Lesser Blade Fiend |
 Piercing |
@@ -1910,7 +1911,7 @@ DMG: 15
 Atk Delay: 50
 WT: 14.7 Size: LARGE
 Class: WAR PAL RNG SHD BRD BST BER
-Race: ALL
+Race: ALLDMG Bonus: 25 @ lvl 50
 |
 a gnomish spelunker |
 Primary |
@@ -2070,7 +2071,7 @@ Skill: 1H Blunt Atk Delay: 28
 DMG: 6
 WT: 5.0 Size: MEDIUM
 Class: ALL except SHD NEC WIZ MAG ENC
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 Torklar Battlemaster |
 1H Blunt |
