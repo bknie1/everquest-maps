@@ -1,5 +1,5 @@
 # Neriak_Third_Gate (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-10
 
 Neriak - EverQuest Legends Wiki
 Jump to content
@@ -2148,16 +2148,16 @@ Giz Dinree |
 Thex Mallet Quest
 |
 Reaper of the DeadReaper of the Dead
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable, Placeable
 Slot: PRIMARY
-Charges: Unlimited
 Skill: 2H Slashing Atk Delay: 40
-DMG: 12
+DMG: 12 DMG Bonus: 27
 STR: +4
-Effect: Promised Renewal (Any Slot, Casting Time: 2.0 seconds, Cooldown: 1200 seconds) at 45
-WT: 13.0 Size: LARGE
+Effect: Promised Renewal (Clicky, Must Equip, Casting Time: 2.0, Cooldown: 1200 seconds) at Level 45
+Charges: Unlimited
+Size: LARGE WT: 13.0
 Class: SHD
-Race: ALLDMG Bonus: 27 @ lvl 50
+Race: ALL
 |
 Loveal S`Nez |
 20+ |

@@ -1,5 +1,5 @@
 # Greater_Faydark (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-10
 
 Greater Faydark - EverQuest Legends Wiki
 Jump to content
@@ -607,9 +607,10 @@ Lore Equipped, Attunable, Placeable
 Slot: RANGE
 Skill: Archery Atk Delay: 45
 DMG: 20
+Range: 200
 STR: +6 DEX: +6
-Effect: Firestrike (Must Equip, Casting Time: Instant, Cooldown: 120s) at Level 40
-WT: 3.0 Range: 200 Size: LARGE
+Effect: Firestrike (Clicky, Must Equip, Casting Time: Instant, Cooldown: 120 seconds) at Level 40
+Size: LARGE WT: 3.0
 Class: RNG
 Race: ALL
 |
@@ -856,7 +857,7 @@ Ranger |
 11 |
 100% @ (-888, 1072) |
 Morning DewMorning Dew
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Fairy DustFairy Dust

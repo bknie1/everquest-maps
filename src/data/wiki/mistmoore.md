@@ -1,5 +1,5 @@
 # Castle_Mistmoore (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-10
 
 Mistmoore Castle - EverQuest Legends Wiki
 Jump to content
@@ -121,12 +121,12 @@ WT: 0.4 Size: SMALL
 Class: ALL
 Race: ALL
 , Bloodstone EyepatchBloodstone Eyepatch
-MAGIC ITEM
+Attunable
 Slot: FACE
 AC: 4
 WIS: +3 AGI: +3
-WT: 0.1 Size: SMALL
-Class: ALL except NEC WIZ MAG ENC
+Size: SMALL WT: 0.1
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BER
 Race: ALL
 , Butler Syncalls FangButler Syncalls Fang
 LORE ITEM
@@ -357,8 +357,8 @@ Race: ALLDMG Bonus: 10 @ lvl 50
 Attunable
 Slot: HEAD
 AC: 2
-CHA: +2 WIS: +3 INT: +3
-WT: 0.6 Size: SMALL
+INT: +3 WIS: +3 CHA: +2
+Size: SMALL WT: 0.5
 Class: CLR BRD NEC WIZ MAG ENC
 Race: ALLFocus Effect: Mana Preservation I
 , Veil of SilenceVeil of Silence
@@ -431,12 +431,12 @@ WT: 2.5 Size: MEDIUM
 Class: ALL except CLR PAL DRU MNK SHM
 Race: ALLDMG Bonus: 10 @ lvl 50
 (Common) and Bloodstone EyepatchBloodstone Eyepatch
-MAGIC ITEM
+Attunable
 Slot: FACE
 AC: 4
 WIS: +3 AGI: +3
-WT: 0.1 Size: SMALL
-Class: ALL except NEC WIZ MAG ENC
+Size: SMALL WT: 0.1
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BER
 Race: ALL
 (Rare), and a glyphed ghoul, who drops Vial of Vampire BloodVial of Vampire Blood
 Charges: 1
@@ -705,8 +705,8 @@ Race: ALLDMG Bonus: 14 @ lvl 50
 Attunable
 Slot: HEAD
 AC: 2
-CHA: +2 WIS: +3 INT: +3
-WT: 0.6 Size: SMALL
+INT: +3 WIS: +3 CHA: +2
+Size: SMALL WT: 0.5
 Class: CLR BRD NEC WIZ MAG ENC
 Race: ALLFocus Effect: Mana Preservation I
 21. "The Bath" where Lasna Cheroon spawns, who drops Diamondine EarringDiamondine Earring
@@ -1585,12 +1585,12 @@ Warrior |
 29-35 |
 50% @ (-16, 435) |
 Bloodstone EyepatchBloodstone Eyepatch
-MAGIC ITEM
+Attunable
 Slot: FACE
 AC: 4
 WIS: +3 AGI: +3
-WT: 0.1 Size: SMALL
-Class: ALL except NEC WIZ MAG ENC
+Size: SMALL WT: 0.1
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BER
 Race: ALL
 , Sacrificial DaggerSacrificial Dagger
 MAGIC ITEM
@@ -1838,8 +1838,8 @@ Race: ALLDMG Bonus: 14 @ lvl 50
 Attunable
 Slot: HEAD
 AC: 2
-CHA: +2 WIS: +3 INT: +3
-WT: 0.6 Size: SMALL
+INT: +3 WIS: +3 CHA: +2
+Size: SMALL WT: 0.5
 Class: CLR BRD NEC WIZ MAG ENC
 Race: ALLFocus Effect: Mana Preservation I
 (Very Common) |
@@ -1948,17 +1948,17 @@ a cloaked dhampyre |
 (None) |
 MAGIC ITEM EXPENDABLE Charges: 1 Effect: Extended Regeneration WT: 0.4 Size: SMALL Class: ALL Race: ALL |
 Bloodstone EyepatchBloodstone Eyepatch
-MAGIC ITEM
+Attunable
 Slot: FACE
 AC: 4
 WIS: +3 AGI: +3
-WT: 0.1 Size: SMALL
-Class: ALL except NEC WIZ MAG ENC
+Size: SMALL WT: 0.1
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BER
 Race: ALL
 |
 an imp familiar |
 Face |
-AC: 4 WIS: +3 AGI: +3 WT: 0.1 Size: SMALL Class: ALL except NEC WIZ MAG ENC Race: ALL |
+AC: 4 WIS: +3 AGI: +3 Size: SMALL WT: 0.1 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BER Race: ALL |
 Butler Syncalls FangButler Syncalls Fang
 LORE ITEM
 WT: 0.1 Size: SMALL
@@ -2376,14 +2376,14 @@ Tarnished Ancient TiaraTarnished Ancient Tiara
 Attunable
 Slot: HEAD
 AC: 2
-CHA: +2 WIS: +3 INT: +3
-WT: 0.6 Size: SMALL
+INT: +3 WIS: +3 CHA: +2
+Size: SMALL WT: 0.5
 Class: CLR BRD NEC WIZ MAG ENC
 Race: ALLFocus Effect: Mana Preservation I
 |
 Princess Cherista |
 Head |
-AC: 2 CHA: +2 WIS: +3 INT: +3 WT: 0.6 Size: SMALL Class: CLR BRD NEC WIZ MAG ENC Race: ALL |
+AC: 2 INT: +3 WIS: +3 CHA: +2 Size: SMALL WT: 0.5 Class: CLR BRD NEC WIZ MAG ENC Race: ALL |
 Taste of EnticementTaste of Enticement
 No Trade, Quest
 Size: SMALL WT: 0.4

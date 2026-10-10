@@ -1,5 +1,5 @@
 # Lesser_Faydark (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-10
 
 Lesser Faydark - EverQuest Legends Wiki
 Jump to content
@@ -181,7 +181,7 @@ WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
 , Morning DewMorning Dew
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 (Green 10/29/2025 patch says it will no longer drop and can only bet gotten from foraging and ground spawns ugh) |
@@ -198,7 +198,7 @@ WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
 , Morning DewMorning Dew
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 (Green 10/29/2025 patch says it will no longer drop and can only bet gotten from foraging and ground spawns ugh) |
@@ -216,7 +216,7 @@ WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
 , Morning DewMorning Dew
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |

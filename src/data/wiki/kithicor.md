@@ -1,5 +1,5 @@
 # Kithicor_Forest (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-10
 
 Kithicor Forest - EverQuest Legends Wiki
 Jump to content
@@ -1632,8 +1632,8 @@ Shadow Knight |
 29-31 |
 Various |
 Shriveled FleshShriveled Flesh
-QUEST ITEM
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -2228,14 +2228,14 @@ None? |
 (None) |
 PENDING LORE WT: 0.4 Weight Reduction: 25% Capacity: 8 Size Capacity: GIANT |
 Shriveled FleshShriveled Flesh
-QUEST ITEM
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 Various |
 (None) |
-QUEST ITEM WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Quest Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Strange Tiger PeltStrange Tiger Pelt
 LORE ITEM NO DROP QUEST ITEM
 WT: 3.5 Size: LARGE

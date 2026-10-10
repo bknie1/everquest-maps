@@ -1,5 +1,5 @@
 # Lavastorm_Mountains (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-10
 
 Lavastorm Mountains - EverQuest Legends Wiki
 Jump to content
@@ -540,14 +540,13 @@ a lava basilisk |
 (None) |
 QUEST ITEM WT: 0.1 Size: TINY Class: ALL Race: ALL |
 Basilisk EggsBasilisk Eggs
-This is a meal!
-WT: 0.6 Size: SMALL
+Size: SMALL WT: 0.6
 Class: ALL
 Race: ALL
 |
 None? |
 (None) |
-This is a meal! WT: 0.6 Size: SMALL Class: ALL Race: ALL |
+Size: SMALL WT: 0.6 Class: ALL Race: ALL |
 Basilisk Eye StalkBasilisk Eye Stalk
 QUEST ITEM
 WT: 0.1 Size: TINY

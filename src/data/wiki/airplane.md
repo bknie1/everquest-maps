@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-10
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -423,7 +423,7 @@ Mask of SongMask of Song
 Lore Equipped, No Trade
 Slot: Face
 AC: 12
-STR: +3 DEX: +3 STA: +3 CHA: +3 WIS: +3 INT: +3 AGI: +3
+STR: +3 STA: +3 INT: +3 WIS: +3 AGI: +3 DEX: +3 CHA: +3
 SV FIRE: +7 SV DISEASE: +7 SV COLD: +7 SV MAGIC: +7 SV POISON: +7
 Size: MEDIUM WT: 0.5
 Class: BRD
@@ -682,7 +682,7 @@ Molten CoilMolten Coil
 Lore Equipped, No Trade
 Slot: FINGER
 AC: 5
-STR: +6 DEX: +6 STA: +5 CHA: +10 AGI: +5 Mana: -55
+STR: +6 STA: +5 AGI: +5 DEX: +6 CHA: +10 Mana: -55
 SV FIRE: +5
 Size: TINY WT: 0.1
 Class: BER
@@ -740,7 +740,7 @@ Feathered Cape (3-Gorga)
 Blood-Drawn RunesBlood-Drawn Runes
 Lore Equipped, No Trade, Quest
 Slot: CHEST
-STR: +10 DEX: +10 STA: +10 AGI: +5 HP: +55 End: +25
+STR: +10 STA: +10 AGI: +5 DEX: +10 HP: +55 End: +25
 HP Regen: +10
 Size: LARGE
 Class: BER
@@ -911,7 +911,7 @@ Drake-Hide MaskDrake-Hide Mask
 Lore Equipped, No Trade
 Slot: FACE
 AC: 4
-STR: +10 DEX: +10 WIS: +10 AGI: +10 MANA: +10
+STR: +10 WIS: +10 AGI: +10 DEX: +10 MANA: +10
 SV MAGIC: +7
 Size: SMALL WT: 0.4
 Class: DRU
@@ -1118,7 +1118,7 @@ Lore Equipped, No Trade, Placeable
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 45
 DMG: 35 DMG Bonus: 30 @ lvl 50 AC: 10
-CHA: +15 INT: +15 MANA: +75
+INT: +15 CHA: +15 MANA: +75
 Effect: Rune III (Clicky, Must Equip, Casting Time: Instant, Cooldown: 180 seconds) at Level 45
 Size: LARGE WT: 5.0
 Class: ENC
@@ -1299,7 +1299,7 @@ Silken Strands (3-Gorga)
 Ton Po's Eye PatchTon Po's Eye Patch
 Lore Equipped, No Trade
 Slot: FACE
-STR: +8 DEX: +8 AGI: +8 End: +25
+STR: +8 AGI: +8 DEX: +8 End: +25
 Effect: See Invisible (Worn)
 Size: TINY WT: 0.1
 Class: MNK
@@ -1617,7 +1617,7 @@ Dark Cloak of the SkyDark Cloak of the Sky
 Lore Equipped, No Trade
 Slot: BACK
 AC: 6
-STR: +7 DEX: +7 WIS: +7 AGI: +7 HP: +55
+STR: +7 WIS: +7 AGI: +7 DEX: +7 HP: +55
 Effect: Haste (Clicky, Can Equip, Casting Time: Instant) at Level 40
 Size: MEDIUM WT: 5.0
 Class: RNG
@@ -1655,7 +1655,7 @@ Thunderforged EarringThunderforged Earring
 Lore Equipped, No Trade
 Slot: EAR
 AC: 8
-DEX: +8 WIS: +8 AGI: +8 MANA: +25
+WIS: +8 AGI: +8 DEX: +8 MANA: +25
 Effect: Careless Lightning (Clicky, Can Equip, Casting Time: 12.0) at Level 45
 Size: TINY WT: 0.1
 Class: RNG
@@ -1721,7 +1721,7 @@ Wispy Choker of VigorWispy Choker of Vigor
 Lore Equipped, No Trade
 Slot: Neck
 AC: 5
-STR: +9 DEX: +9 AGI: +3 HP: +20
+STR: +9 AGI: +3 DEX: +9 HP: +20
 Size: TINY WT: 0.1
 Class: ROG
 Race: ALL
@@ -1756,7 +1756,7 @@ Griffon Wing SpauldersGriffon Wing Spaulders
 Lore Equipped, No Trade
 Slot: SHOULDERS
 AC: 9
-STR: +6 DEX: +6 AGI: +4 HP: +30
+STR: +6 AGI: +4 DEX: +6 HP: +30
 Effect: Levitate (Clicky, Must Equip, Casting Time: Instant, Cooldown: 120 seconds) at Level 45
 Size: SMALL WT: 2.5
 Class: ROG
@@ -1793,7 +1793,7 @@ Shimmering Bracer of ProtectionShimmering Bracer of Protection
 Lore Equipped, No Trade
 Slot: WRIST
 AC: 10
-STR: +9 DEX: +3 WIS: +2
+STR: +9 WIS: +2 DEX: +3
 SV FIRE: +8 SV DISEASE: +8 SV COLD: +8 SV MAGIC: +8 SV POISON: +8
 Size: MEDIUM WT: 2.5
 Class: ROG
@@ -1857,7 +1857,7 @@ Crimson Ring of the DjinniCrimson Ring of the Djinni
 Lore Equipped, No Trade
 Slot: FINGER
 AC: 8
-STR: +7 DEX: +7 INT: +5
+STR: +7 INT: +5 DEX: +7
 SV MAGIC: +5
 Size: TINY WT: 0.1
 Class: SHD
@@ -2150,7 +2150,7 @@ Belt of the Four WindsBelt of the Four Winds
 Lore Equipped, No Trade
 Slot: WAIST
 AC: 5
-STR: +12 DEX: +6 STA: +12 AGI: +6
+STR: +12 STA: +12 AGI: +6 DEX: +6
 SV MAGIC: +5
 Haste: +41%
 Size: MEDIUM WT: 2.0
@@ -2292,7 +2292,7 @@ Amulet of the VoidAmulet of the Void
 Lore Equipped, No Trade
 Slot: NECK
 AC: 4
-DEX: +5 CHA: +5 INT: +5 AGI: +5 MANA: +50
+INT: +5 AGI: +5 DEX: +5 CHA: +5 MANA: +50
 Effect: Alter Plane: Sky (Clicky, Must Equip, Casting Time: Instant, Cooldown: 120 seconds) at Level 45
 Size: TINY WT: 0.1
 Class: WIZ
@@ -3579,7 +3579,7 @@ Amulet of the VoidAmulet of the Void
 Lore Equipped, No Trade
 Slot: NECK
 AC: 4
-DEX: +5 CHA: +5 INT: +5 AGI: +5 MANA: +50
+INT: +5 AGI: +5 DEX: +5 CHA: +5 MANA: +50
 Effect: Alter Plane: Sky (Clicky, Must Equip, Casting Time: Instant, Cooldown: 120 seconds) at Level 45
 Size: TINY WT: 0.1
 Class: WIZ
@@ -3587,7 +3587,7 @@ Race: ALL
 |
 None? |
 Neck |
-AC: 4 DEX: +5 CHA: +5 INT: +5 AGI: +5 MANA: +50 Effect: Alter Plane: Sky (Clicky, Must Equip, Casting Time: Instant, Cooldown: 120 seconds) at Level 45 Size: TINY WT: 0.1 Class: WIZ Race: ALL |
+AC: 4 INT: +5 AGI: +5 DEX: +5 CHA: +5 MANA: +50 Effect: Alter Plane: Sky (Clicky, Must Equip, Casting Time: Instant, Cooldown: 120 seconds) at Level 45 Size: TINY WT: 0.1 Class: WIZ Race: ALL |
 Animal FigurineAnimal Figurine
 LORE ITEM NO DROP
 WT: 0.1 Size: TINY
@@ -3885,7 +3885,7 @@ Atk Delay: 39 DMG: 20 Dmg Bon: 19 STR: +7 INT: +3 WT: 7.5 Size: MEDIUM Class: SH
 Blood-Drawn RunesBlood-Drawn Runes
 Lore Equipped, No Trade, Quest
 Slot: CHEST
-STR: +10 DEX: +10 STA: +10 AGI: +5 HP: +55 End: +25
+STR: +10 STA: +10 AGI: +5 DEX: +10 HP: +55 End: +25
 HP Regen: +10
 Size: LARGE
 Class: BER
@@ -3893,7 +3893,7 @@ Race: ALL
 |
 None? |
 Chest |
-STR: +10 DEX: +10 STA: +10 AGI: +5 HP: +55 End: +25 HP Regen: +10 Size: LARGE Class: BER Race: ALL |
+STR: +10 STA: +10 AGI: +5 DEX: +10 HP: +55 End: +25 HP Regen: +10 Size: LARGE Class: BER Race: ALL |
 Blood Sky AmethystBlood Sky Amethyst
 LORE ITEM
 WT: 6.0 Size: MEDIUM

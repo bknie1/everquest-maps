@@ -1,5 +1,5 @@
 # Kaladim (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-10
 
 Kaladim - EverQuest Legends Wiki
 Jump to content
@@ -479,12 +479,12 @@ Size: LARGE WT: 1.0
 Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
 Race: ALL
 , Bloodstone EyepatchBloodstone Eyepatch
-MAGIC ITEM
+Attunable
 Slot: FACE
 AC: 4
 WIS: +3 AGI: +3
-WT: 0.1 Size: SMALL
-Class: ALL except NEC WIZ MAG ENC
+Size: SMALL WT: 0.1
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BER
 Race: ALL
 , Bronze GauntletsBronze Gauntlets
 Slot: HANDS

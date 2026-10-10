@@ -1,5 +1,5 @@
 # Qeynos_Hills (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-10
 
 Qeynos Hills - EverQuest Legends Wiki
 Jump to content
@@ -101,11 +101,11 @@ Class: WAR CLR PAL RNG DRU BRD
 Race: ALL
 Deity: KaranaDMG Bonus: 22 @ lvl 50
 , Fishbone EarringFishbone Earring
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable
 Slot: EAR
 DEX: +3
 Effect: Enduring Breath (Worn)
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Glowing Black StoneGlowing Black Stone
@@ -809,11 +809,11 @@ NPC |
 28 |
 (3797, 985) |
 Fishbone EarringFishbone Earring
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable
 Slot: EAR
 DEX: +3
 Effect: Enduring Breath (Worn)
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Fishing PoleFishing Pole
@@ -1112,17 +1112,17 @@ a rabid wolf |
 (None) |
 NO DROP CHA: -3 SV DISEASE: -10 WT: 3.5 Size: LARGE Class: ALL Race: ALL |
 Fishbone EarringFishbone Earring
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable
 Slot: EAR
 DEX: +3
 Effect: Enduring Breath (Worn)
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 Hadden |
 Ear |
-DEX: +3 Effect: Enduring Breath (Worn) WT: 0.1 Size: TINY Class: ALL Race: ALL |
+DEX: +3 Effect: Enduring Breath (Worn) Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Fleshy OrbFleshy Orb
 LORE ITEM NODROP
 CHA: -3

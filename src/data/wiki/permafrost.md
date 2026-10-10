@@ -1,5 +1,5 @@
 # Permafrost_Keep (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-10
 
 Permafrost - EverQuest Legends Wiki
 Jump to content
@@ -811,8 +811,8 @@ Warrior |
 48-50 |
 50% @ (993, -70), 50% @ (1137, -246), 50% @ (1014, -166) |
 Prickly PearPrickly Pear
-QUEST
-WT: 0.6 Size: SMALL
+Quest
+Size: SMALL WT: 0.6
 Class: ALL
 Race: ALL
 , Permafrost CrystalsPermafrost Crystals
@@ -1236,14 +1236,14 @@ a goblin wizard |
 (None) |
 MAGIC ITEM LORE ITEM NO DROP WT: 0.8 Size: SMALL Class: ALL Race: ALL |
 Prickly PearPrickly Pear
-QUEST
-WT: 0.6 Size: SMALL
+Quest
+Size: SMALL WT: 0.6
 Class: ALL
 Race: ALL
 |
 an icy terror |
 (None) |
-QUEST WT: 0.6 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.6 Class: ALL Race: ALL |
 Runed CircletRuned Circlet
 Slot: HEAD
 AC: 4

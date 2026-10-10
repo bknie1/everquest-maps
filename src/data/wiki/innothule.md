@@ -1,5 +1,5 @@
 # Innothule_Swamp (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-10
 
 Innothule Swamp - EverQuest Legends Wiki
 Jump to content
@@ -155,22 +155,22 @@ WT: 11.0 Size: GIANT
 Class: CLR SHM BST BER
 Race: ALLDMG Bonus: 30 @ lvl 50
 (Rare), BrutechopperBrutechopper
-Attunable
+Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 50
-DMG: 16
-WT: 11.0 Size: GIANT
+DMG: 16 DMG Bonus: 34
+Size: GIANT WT: 11.0
 Class: WAR PAL SHD ROG BER
-Race: ALLDMG Bonus: 34 @ lvl 50
+Race: ALL
 (Common), Ivandyr's HoopIvandyr's Hoop
 Lore Equipped, Attunable
 Slot: EAR
-Charges: 6
 AC: 6
-WIS: +6 INT: +6 HP: +6
-Effect: Spirit Tap (Any Slot, Casting Time: 0.3 seconds, Cooldown: 1 seconds, Cooldown Group: 3)
-WT: 0.1 Size: TINY
-Class: ALL except DRU MNK BRD BST
+INT: +6 WIS: +6 HP: +6
+Effect: Spirit Tap (Charge Clicky, Casting Time: 0.3, Cooldown: 1 seconds, Cooldown Group: 3)
+Charges: 6
+Size: TINY WT: 0.1
+Class: WAR CLR PAL RNG SHD ROG SHM NEC WIZ MAG ENC BER
 Race: ALL
 (Ultra-Rare) |
 Lynuga |

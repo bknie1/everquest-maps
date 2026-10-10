@@ -1,5 +1,5 @@
 # Plane_of_Hate (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-10
 
 Plane of Hate - EverQuest Legends Wiki
 Jump to content
@@ -2118,14 +2118,14 @@ Engineer's RingEngineer's Ring
 Lore Equipped, No Trade
 Slot: FINGER
 AC: 20
-STR: +5 DEX: +5 STA: +5 CHA: +5 WIS: +5 INT: +5 AGI: +5 HP: +5 MANA: +20 END: +20
+STR: +5 STA: +5 INT: +5 WIS: +5 AGI: +5 DEX: +5 CHA: +5 HP: +5 MANA: +20 END: +20
 Size: TINY WT: 0.1
 Class: WAR CLR PAL SHD ROG NEC WIZ MAG ENC
 Race: ALL
 |
 Innoruuk |
 Fingers |
-AC: 20 STR: +5 DEX: +5 STA: +5 CHA: +5 WIS: +5 INT: +5 AGI: +5 HP: +5 MANA: +20 END: +20 Size: TINY WT: 0.1 Class: WAR CLR PAL SHD ROG NEC WIZ MAG ENC Race: ALL |
+AC: 20 STR: +5 STA: +5 INT: +5 WIS: +5 AGI: +5 DEX: +5 CHA: +5 HP: +5 MANA: +20 END: +20 Size: TINY WT: 0.1 Class: WAR CLR PAL SHD ROG NEC WIZ MAG ENC Race: ALL |
 Essence of a VampireEssence of a Vampire
 No Trade, Quest
 Size: TINY WT: 0.1
@@ -3147,14 +3147,14 @@ Ring of PurebloodRing of Pureblood
 Lore Equipped, No Trade
 Slot: FINGER
 AC: 3
-STR: +5 CHA: +5 WIS: +5 INT: +5 HP: +30 MANA: +30
+STR: +5 INT: +5 WIS: +5 CHA: +5 HP: +30 MANA: +30
 Size: TINY WT: 0.1
 Class: CLR PAL WIZ MAG ENC
 Race: ALL
 |
 Innoruuk |
 Fingers |
-AC: 3 STR: +5 CHA: +5 WIS: +5 INT: +5 HP: +30 MANA: +30 Size: TINY WT: 0.1 Class: CLR PAL WIZ MAG ENC Race: ALL |
+AC: 3 STR: +5 INT: +5 WIS: +5 CHA: +5 HP: +30 MANA: +30 Size: TINY WT: 0.1 Class: CLR PAL WIZ MAG ENC Race: ALL |
 Rod of Infinite ThoughtRod of Infinite Thought
 Lore Equipped, No Trade, Placeable
 Slot: PRIMARY
@@ -4537,7 +4537,7 @@ Race: ALL
 Lore Equipped, No Trade
 Slot: FINGER
 AC: 20
-STR: +5 DEX: +5 STA: +5 CHA: +5 WIS: +5 INT: +5 AGI: +5 HP: +5 MANA: +20 END: +20
+STR: +5 STA: +5 INT: +5 WIS: +5 AGI: +5 DEX: +5 CHA: +5 HP: +5 MANA: +20 END: +20
 Size: TINY WT: 0.1
 Class: WAR CLR PAL SHD ROG NEC WIZ MAG ENC
 Race: ALL
@@ -4590,7 +4590,7 @@ Race: ALL
 Lore Equipped, No Trade
 Slot: FINGER
 AC: 3
-STR: +5 CHA: +5 WIS: +5 INT: +5 HP: +30 MANA: +30
+STR: +5 INT: +5 WIS: +5 CHA: +5 HP: +30 MANA: +30
 Size: TINY WT: 0.1
 Class: CLR PAL WIZ MAG ENC
 Race: ALL
