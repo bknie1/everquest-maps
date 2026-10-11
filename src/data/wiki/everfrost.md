@@ -1,5 +1,5 @@
 # Everfrost_Peaks (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-11
 
 Everfrost Peaks - EverQuest Legends Wiki
 Jump to content
@@ -1045,13 +1045,13 @@ Part of the Holiday 2025 event The Cracking of the Icestar. |
 Items - Found 49 items that drop in Everfrost Peaks:
 Item Name | Drops From | Slot | Stats |
 Barbarian MeatBarbarian Meat
-WT: 1.0 Size: SMALL
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 |
 a giant wooly spider, a wooly mammoth |
 (None) |
-WT: 1.0 Size: SMALL Class: ALL Race: ALL |
+Size: SMALL WT: 1.0 Class: ALL Race: ALL |
 Barbarian RibBarbarian Rib
 LORE ITEM
 WT: 0.3 Size: SMALL
@@ -1151,14 +1151,13 @@ vengeful soloist |
 (None) |
 LORE ITEM NO DROP TEMPORARY WT: 0.0 Size: TINY |
 Diamond DustDiamond Dust
-LORE ITEM
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 an ice giant |
 (None) |
-LORE ITEM WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Dusty Old JawboneDusty Old Jawbone
 No Trade
 WT: 0.1 Size: TINY

@@ -1,5 +1,5 @@
 # Qeynos (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-11
 
 Qeynos - EverQuest Legends Wiki
 Jump to content
@@ -240,7 +240,7 @@ newbie mobs, Drawna Opimsor |
 Blackburrow Stout Shipment
 |
 Black Burrow StoutBlack Burrow Stout
-WT: 0.4 Size: SMALL
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 |
@@ -650,7 +650,7 @@ None |
 Moonstones Quest
 |
 Experience, Faction, Coin, Black Burrow StoutBlack Burrow Stout
-WT: 0.4 Size: SMALL
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 (optional) |

@@ -1,5 +1,5 @@
 # North_Ro (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-11
 
 The Northern Desert of Ro - EverQuest Legends Wiki
 Jump to content
@@ -319,7 +319,7 @@ WT: 0.3 Size: SMALL
 Class: ALL
 Race: ALL
 , Giant Scarab EyeGiant Scarab Eye
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Pristine Giant Scarab CarapacePristine Giant Scarab Carapace
@@ -451,15 +451,15 @@ Warrior |
 14-16 |
 100% @ (1311, -391) |
 Dragoon DirkDragoon Dirk
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable, Quest, Placeable
 Slot: RANGE PRIMARY SECONDARY
-Skill: Piercing Atk Delay: 23
-DMG: 6BACKSTAB: 6
+Skill: 1H Piercing Atk Delay: 23
+DMG: 6 DMG Bonus: 11 BACKSTAB: 6
 DEX: +2
 SV MAGIC: +3
-WT: 2.5 Size: SMALL
-Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC
-Race: ALLDMG Bonus: 11 @ lvl 50
+Size: SMALL WT: 2.5
+Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
+Race: ALL
 |
 Source of one of the earliest available magic weapons on Antonica. Socials with nearby dervishes. Two of the surrounding... |
 Dunedigger

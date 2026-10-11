@@ -1,5 +1,5 @@
 # Rivervale (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-11
 
 Rivervale - EverQuest Legends Wiki
 Jump to content
@@ -550,8 +550,7 @@ Warrior |
 6 |
 100% @ (134, -314), (161, -407) |
 Fresh FishFresh Fish
-This is a meal!
-WT: 1.0 Size: SMALL
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Chunk of MeatChunk of Meat

@@ -1,5 +1,5 @@
 # Greater_Faydark (eqlwiki.com)
-fetched: 2026-10-10
+fetched: 2026-10-11
 
 Greater Faydark - EverQuest Legends Wiki
 Jump to content
@@ -482,10 +482,12 @@ Orc Pawn (Crushbone), orc hatchetman |
 Orc Runner (Kelethin)
 |
 LongbowLongbow
+Attunable, Placeable
 Slot: RANGE
 Skill: Archery Atk Delay: 51
 DMG: 8
-WT: 5.0 Range: 100 Size: LARGE
+Size: LARGE WT: 5.0
+Range: 100
 Class: WAR PAL RNG SHD ROG
 Race: ALL
 , Rusty Short SwordRusty Short Sword

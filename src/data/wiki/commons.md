@@ -1,5 +1,5 @@
 # West_Commonlands (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-11
 
 West Commonlands - EverQuest Legends Wiki
 Jump to content
@@ -551,15 +551,15 @@ WT: 14.0 Size: GIANT
 Class: WAR PAL RNG SHD
 Race: ALLDMG Bonus: 34 @ lvl 50
 , Dragoon DirkDragoon Dirk
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable, Quest, Placeable
 Slot: RANGE PRIMARY SECONDARY
-Skill: Piercing Atk Delay: 23
-DMG: 6BACKSTAB: 6
+Skill: 1H Piercing Atk Delay: 23
+DMG: 6 DMG Bonus: 11 BACKSTAB: 6
 DEX: +2
 SV MAGIC: +3
-WT: 2.5 Size: SMALL
-Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC
-Race: ALLDMG Bonus: 11 @ lvl 50
+Size: SMALL WT: 2.5
+Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
+Race: ALL
 |
 Spawns in front of Befallen after Kizdean Gix is killed. After he spawns, he immediately runs to -635, 1452, where h... |
 Duggin Scumber

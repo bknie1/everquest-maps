@@ -1,5 +1,5 @@
 # Innothule_Swamp (eqlwiki.com)
-fetched: 2026-10-10
+fetched: 2026-10-11
 
 Innothule Swamp - EverQuest Legends Wiki
 Jump to content
@@ -1030,16 +1030,18 @@ Lynuga |
 Head |
 INT: +1 WT: 0.1 Size: TINY Class: ALL Race: ALL |
 LongbowLongbow
+Attunable, Placeable
 Slot: RANGE
 Skill: Archery Atk Delay: 51
 DMG: 8
-WT: 5.0 Range: 100 Size: LARGE
+Size: LARGE WT: 5.0
+Range: 100
 Class: WAR PAL RNG SHD ROG
 Race: ALL
 |
 Tann Cellus |
 Archery |
-Atk Delay: 51 DMG: 8 WT: 5.0 Range: 100 Size: LARGE Class: WAR PAL RNG SHD ROG Race: ALL |
+Atk Delay: 51 DMG: 8 Size: LARGE WT: 5.0 Range: 100 Class: WAR PAL RNG SHD ROG Race: ALL |
 Netted CapNetted Cap
 MAGIC ITEM
 Slot: HEAD

@@ -1,5 +1,5 @@
 # Steamfont_Mountains (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-11
 
 Steamfont Mountains - EverQuest Legends Wiki
 Jump to content
@@ -516,8 +516,9 @@ WT: 8.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALLDMG Bonus: 18 @ lvl 50
 , Minotaur HornMinotaur Horn
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALLFocus Effect: Wind Resonance 10
 |
@@ -964,8 +965,9 @@ WT: 8.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALLDMG Bonus: 18 @ lvl 50
 , Minotaur HornMinotaur Horn
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALLFocus Effect: Wind Resonance 10
 |
@@ -994,8 +996,9 @@ Size: SMALL WT: 2.7
 Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
 Race: ALL
 , Minotaur HornMinotaur Horn
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALLFocus Effect: Wind Resonance 10
 |
@@ -1015,8 +1018,9 @@ WT: 8.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALLDMG Bonus: 18 @ lvl 50
 , Minotaur HornMinotaur Horn
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALLFocus Effect: Wind Resonance 10
 , Broken Minotaur Lord's HornBroken Minotaur Lord's Horn
@@ -1043,8 +1047,9 @@ WT: 8.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALLDMG Bonus: 18 @ lvl 50
 , Minotaur HornMinotaur Horn
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALLFocus Effect: Wind Resonance 10
 , Icon of the DevoutIcon of the Devout

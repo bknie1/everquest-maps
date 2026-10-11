@@ -1,5 +1,5 @@
 # Kithicor_Forest (eqlwiki.com)
-fetched: 2026-10-10
+fetched: 2026-10-11
 
 Kithicor Forest - EverQuest Legends Wiki
 Jump to content
@@ -2067,16 +2067,18 @@ Ground Spawn, (-90, +3300) |
 (None) |
 MAGIC ITEM LORE ITEM NO DROP WT: 1.0 Size: SMALL Class: ALL Race: ALL |
 LongbowLongbow
+Attunable, Placeable
 Slot: RANGE
 Skill: Archery Atk Delay: 51
 DMG: 8
-WT: 5.0 Range: 100 Size: LARGE
+Size: LARGE WT: 5.0
+Range: 100
 Class: WAR PAL RNG SHD ROG
 Race: ALL
 |
 Kithicor |
 Archery |
-Atk Delay: 51 DMG: 8 WT: 5.0 Range: 100 Size: LARGE Class: WAR PAL RNG SHD ROG Race: ALL |
+Atk Delay: 51 DMG: 8 Size: LARGE WT: 5.0 Range: 100 Class: WAR PAL RNG SHD ROG Race: ALL |
 Peculiar Tiger PeltPeculiar Tiger Pelt
 LORE ITEM NO DROP QUEST ITEM
 WT: 3.5 Size: LARGE

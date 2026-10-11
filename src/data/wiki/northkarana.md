@@ -1,5 +1,5 @@
 # Northern_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-11
 
 Northern Plains of Karana - EverQuest Legends Wiki
 Jump to content
@@ -307,7 +307,7 @@ Guard McCluskey |
 Guard Shilster's Stout
 |
 Black Burrow StoutBlack Burrow Stout
-WT: 0.4 Size: SMALL
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 , Faction (Evil) |

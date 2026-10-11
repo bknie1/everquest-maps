@@ -1,5 +1,5 @@
 # East_Commonlands (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-11
 
 East Commonlands - EverQuest Legends Wiki
 Jump to content
@@ -704,10 +704,12 @@ Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALLDMG Bonus: 11 @ lvl 50
 , LongbowLongbow
+Attunable, Placeable
 Slot: RANGE
 Skill: Archery Atk Delay: 51
 DMG: 8
-WT: 5.0 Range: 100 Size: LARGE
+Size: LARGE WT: 5.0
+Range: 100
 Class: WAR PAL RNG SHD ROG
 Race: ALL
 , ArrowArrow

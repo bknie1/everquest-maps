@@ -1,5 +1,5 @@
 # Permafrost_Keep (eqlwiki.com)
-fetched: 2026-10-10
+fetched: 2026-10-11
 
 Permafrost - EverQuest Legends Wiki
 Jump to content
@@ -845,8 +845,7 @@ Warrior |
 30 |
 100% @ (743, -26) |
 Diamond DustDiamond Dust
-LORE ITEM
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Essence of WinterEssence of Winter
@@ -991,13 +990,13 @@ Piercing |
 Atk Delay: 33 DMG: 10 WIS: +5 MANA: +10 WT: 7.0 Size: LARGE Class: SHM Race: ALL |
 Block of PermafrostBlock of Permafrost
 Quest
-WT: 15.0 Size: MEDIUM
+Size: MEDIUM WT: 15.0
 Class: ALL
 Race: ALL
 |
 An Ice Giant (Permafrost), An Ice Giant Magus |
 (None) |
-Quest WT: 15.0 Size: MEDIUM Class: ALL Race: ALL |
+Quest Size: MEDIUM WT: 15.0 Class: ALL Race: ALL |
 Book of FrostBook of Frost
 MAGIC ITEM LORE ITEM NO DROP
 WT: 1.5 Size: MEDIUM
@@ -1056,14 +1055,13 @@ a goblin archeologist |
 Face |
 AC: 4 STR: +3 WT: 0.8 Size: SMALL Class: ALL except DRU NEC WIZ MAG ENC Race: ALL |
 Diamond DustDiamond Dust
-LORE ITEM
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 Various |
 (None) |
-LORE ITEM WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Essence of WinterEssence of Winter
 WT: 0.1 Size: TINY
 Class: ALL
@@ -1512,7 +1510,7 @@ Lady Vox Drops
 |
 Block of PermafrostBlock of Permafrost
 Quest
-WT: 15.0 Size: MEDIUM
+Size: MEDIUM WT: 15.0
 Class: ALL
 Race: ALL
 , Crystalline SpearCrystalline Spear

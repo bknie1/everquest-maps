@@ -1,5 +1,5 @@
 # North_Freeport (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-11
 
 Freeport - EverQuest Legends Wiki
 Jump to content
@@ -4833,8 +4833,7 @@ Rogue |
 25 |
 (-171, 208) |
 Fresh FishFresh Fish
-This is a meal!
-WT: 1.0 Size: SMALL
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Gnome MeatGnome Meat

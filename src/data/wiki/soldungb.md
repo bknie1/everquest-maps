@@ -1,5 +1,5 @@
 # Nagafen's_Lair (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-11
 
 Nagafen's Lair - EverQuest Legends Wiki
 Jump to content
@@ -623,8 +623,7 @@ WT: 1.5 Size: SMALL
 Class: ALL
 Race: ALL
 (Common), Diamond DustDiamond Dust
-LORE ITEM
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 (Ultra Rare?), Lava RockLava Rock
@@ -1287,14 +1286,13 @@ death beetle |
 (None) |
 MAGIC ITEM LORE ITEM Charges: 1 Effect: Burrowing Scarab WT: 0.1 Size: SMALL Class: ALL Race: ALL |
 Diamond DustDiamond Dust
-LORE ITEM
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 fire giant warrior, fire giant wizard |
 (None) |
-LORE ITEM WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Djarns Amethyst RingDjarns Amethyst Ring
 MAGIC ITEM LORE ITEM
 Slot: FINGER
@@ -1415,13 +1413,14 @@ Lord Nagafen |
 2H Blunt |
 Atk Delay: 44 DMG: 20 STR: +9 DEX: +9 WIS: +9 Effect: Earthquake (Combat, Casting Time: Instant) at Level 30 WT: 7.5 Size: LARGE Class: DRU Race: ALL |
 Imp BloodImp Blood
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
 imp protector |
 (None) |
-WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.1 Class: ALL Race: ALL |
 Large Soiled BagLarge Soiled Bag
 Size: LARGE
 WT: 1.0 Weight Reduction: 100%

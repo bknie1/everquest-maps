@@ -1,5 +1,5 @@
 # Oggok (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-11
 
 Oggok - EverQuest Legends Wiki
 Jump to content
@@ -623,15 +623,15 @@ Warrior |
 24-26 |
 100% @ (352, 1139) |
 Dragoon DirkDragoon Dirk
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable, Quest, Placeable
 Slot: RANGE PRIMARY SECONDARY
-Skill: Piercing Atk Delay: 23
-DMG: 6BACKSTAB: 6
+Skill: 1H Piercing Atk Delay: 23
+DMG: 6 DMG Bonus: 11 BACKSTAB: 6
 DEX: +2
 SV MAGIC: +3
-WT: 2.5 Size: SMALL
-Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC
-Race: ALLDMG Bonus: 11 @ lvl 50
+Size: SMALL WT: 2.5
+Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
+Race: ALL
 , Black HeartBlack Heart
 LORE ITEM NO DROP
 WT: 0.3 Size: SMALL

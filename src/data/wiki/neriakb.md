@@ -1,5 +1,5 @@
 # Neriak_Commons (eqlwiki.com)
-fetched: 2026-10-10
+fetched: 2026-10-11
 
 Neriak - EverQuest Legends Wiki
 Jump to content
@@ -2245,12 +2245,13 @@ Shadow Knight |
 38 |
 (1352, -1323) |
 ScytheScythe
+Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 45
-DMG: 11
-WT: 12.0 Size: LARGE
-Class: WAR PAL RNG SHD
-Race: ALLDMG Bonus: 30 @ lvl 50
+DMG: 11 DMG Bonus: 27
+Size: LARGE WT: 12.0
+Class: WAR PAL RNG SHD BER
+Race: ALL
 , Fine Steel Weapons |
 6m40sec spawn time. Quads. Harm Touches for 381. Casts Shadowknight spells such as Disease Cloud, 45hp Lifetap, Heat Blo... |
 Dizra To`Biath

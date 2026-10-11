@@ -1,5 +1,5 @@
 # South_Ro (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-11
 
 Southern Desert of Ro - EverQuest Legends Wiki
 Jump to content
@@ -369,7 +369,7 @@ WT: 0.3 Size: SMALL
 Class: ALL
 Race: ALL
 , Giant Scarab EyeGiant Scarab Eye
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Pristine Giant Scarab CarapacePristine Giant Scarab Carapace
@@ -765,16 +765,17 @@ a ghoul |
 1H Slashing |
 Atk Delay: 33 DMG: 5 WT: 7.5 Size: MEDIUM Class: WAR PAL RNG SHD BRD ROG SHM Race: ALL |
 Bronze ScytheBronze Scythe
+Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 48
-DMG: 8
-WT: 13.0 Size: LARGE
-Class: WAR PAL RNG SHD
-Race: ALLDMG Bonus: 33 @ lvl 50
+DMG: 8 DMG Bonus: 29
+Size: LARGE WT: 13.0
+Class: WAR PAL RNG SHD BER
+Race: ALL
 |
 a ghoul |
 2H Slashing |
-Atk Delay: 48 DMG: 8 WT: 13.0 Size: LARGE Class: WAR PAL RNG SHD Race: ALL |
+Atk Delay: 48 DMG: 8 DMG Bonus: 29 Size: LARGE WT: 13.0 Class: WAR PAL RNG SHD BER Race: ALL |
 Charred Bone ChipsCharred Bone Chips
 LORE ITEM NO DROP
 WT: 0.1 Size: TINY
@@ -866,15 +867,15 @@ Terrorantula |
 (None) |
 LORE ITEM WT: 7.5 Size: LARGE Class: ALL Race: ALL |
 Globe of FearGlobe of Fear
-MAGIC ITEM
+Quest, Placeable
 Slot: PRIMARY SECONDARY
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 None? |
 Primary, Secondary |
-WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Halfling PartsHalfling Parts
 WT: 1.0 Size: SMALL
 Class: ALL
@@ -1043,16 +1044,17 @@ Scrounge |
 (None) |
 WT: 3.5 Size: LARGE Class: ALL Race: ALL |
 ScytheScythe
+Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 45
-DMG: 11
-WT: 12.0 Size: LARGE
-Class: WAR PAL RNG SHD
-Race: ALLDMG Bonus: 30 @ lvl 50
+DMG: 11 DMG Bonus: 27
+Size: LARGE WT: 12.0
+Class: WAR PAL RNG SHD BER
+Race: ALL
 |
 None? |
 2H Slashing |
-Atk Delay: 45 DMG: 11 WT: 12.0 Size: LARGE Class: WAR PAL RNG SHD Race: ALL |
+Atk Delay: 45 DMG: 11 DMG Bonus: 27 Size: LARGE WT: 12.0 Class: WAR PAL RNG SHD BER Race: ALL |
 SpoonSpoon
 MAGIC ITEM LORE ITEM
 WT: 0.1 Size: TINY

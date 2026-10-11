@@ -1,5 +1,5 @@
 # Qeynos_Catacombs (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-11
 
 Qeynos Aqueducts - EverQuest Legends Wiki
 Jump to content
@@ -612,8 +612,7 @@ Warrior |
 4 |
 Various |
 Fresh FishFresh Fish
-This is a meal!
-WT: 1.0 Size: SMALL
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Chunk of MeatChunk of Meat

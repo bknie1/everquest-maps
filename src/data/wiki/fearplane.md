@@ -1,5 +1,5 @@
 # Plane_of_Fear (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-11
 
 Plane of Fear - EverQuest Legends Wiki
 Jump to content
@@ -1857,14 +1857,14 @@ Imbrued Platemail BracerImbrued Platemail Bracer
 No Trade, Quest
 Slot: WRIST
 AC: 11
-DEX: +3 INT: +3 HP: +10
-WT: 3.0 Size: SMALL
+INT: +3 DEX: +3 HP: +10
+Size: SMALL WT: 3.0
 Class: BRD
 Race: ALL
 |
 a fetid fiend, a spinechiller spider, phoboplasm |
 Wrist |
-AC: 11 DEX: +3 INT: +3 HP: +10 WT: 3.0 Size: SMALL Class: BRD Race: ALL |
+AC: 11 INT: +3 DEX: +3 HP: +10 Size: SMALL WT: 3.0 Class: BRD Race: ALL |
 Imbrued Platemail BreastplateImbrued Platemail Breastplate
 Lore Equipped, No Trade, Quest
 Slot: CHEST
@@ -1882,14 +1882,14 @@ Imbrued Platemail GauntletsImbrued Platemail Gauntlets
 Lore Equipped, No Trade, Quest
 Slot: HANDS
 AC: 14
-DEX: +5 WIS: +5 HP: +10
-WT: 3.8 Size: SMALL
+WIS: +5 DEX: +5 HP: +10
+Size: SMALL WT: 3.8
 Class: BRD
 Race: ALL
 |
 Various |
 Hands |
-AC: 14 DEX: +5 WIS: +5 HP: +10 WT: 3.8 Size: SMALL Class: BRD Race: ALL |
+AC: 14 WIS: +5 DEX: +5 HP: +10 Size: SMALL WT: 3.8 Class: BRD Race: ALL |
 Imbrued Platemail GreavesImbrued Platemail Greaves
 Lore Equipped, No Trade, Quest
 Slot: LEGS
@@ -2032,27 +2032,27 @@ Insidious HaloInsidious Halo
 Lore Equipped, No Trade, Quest
 Slot: HEAD
 AC: 5
-CHA: +20 INT: +7 HP: +10 MANA: +10
+INT: +7 CHA: +20 HP: +10 MANA: +10
 SV MAGIC: +10
-WT: 0.3 Size: SMALL
+Size: SMALL WT: 0.3
 Class: ENC
 Race: ALL
 |
 phoboplasm |
 Head |
-AC: 5 CHA: +20 INT: +7 HP: +10 MANA: +10 SV MAGIC: +10 WT: 0.3 Size: SMALL Class: ENC Race: ALL |
+AC: 5 INT: +7 CHA: +20 HP: +10 MANA: +10 SV MAGIC: +10 Size: SMALL WT: 0.3 Class: ENC Race: ALL |
 Insidious ManacleInsidious Manacle
 No Trade, Quest
 Slot: WRIST
 AC: 3
 STR: +3 DEX: +3 CHA: +2 MANA: +15
-WT: 0.3 Size: SMALL
+Size: SMALL WT: 0.3
 Class: ENC
 Race: ALL
 |
 a fetid fiend, a spinechiller spider, phoboplasm |
 Wrist |
-AC: 3 STR: +3 DEX: +3 CHA: +2 MANA: +15 WT: 0.3 Size: SMALL Class: ENC Race: ALL |
+AC: 3 STR: +3 DEX: +3 CHA: +2 MANA: +15 Size: SMALL WT: 0.3 Class: ENC Race: ALL |
 Insidious PantaloonsInsidious Pantaloons
 Lore Equipped, No Trade, Quest
 Slot: LEGS

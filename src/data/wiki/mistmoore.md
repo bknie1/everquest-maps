@@ -1,5 +1,5 @@
 # Castle_Mistmoore (eqlwiki.com)
-fetched: 2026-10-10
+fetched: 2026-10-11
 
 Mistmoore Castle - EverQuest Legends Wiki
 Jump to content
@@ -756,10 +756,11 @@ Quest Name | Reward | Quest Giver | Minimum Level | Classes | Related Zones | Re
 Solusek's Flower
 |
 ScepterScepter
-MAGIC ITEM LORE ITEM NO DROP
-WT: 0.1 Size: SMALL
+No Trade, Quest
 Class: NEC
 Race: ALL
+Size: SMALL
+WT: 0.1
 (of Sorrow) |
 Ssynthi |
 1 |
@@ -890,8 +891,8 @@ Warrior |
 33 |
 34% @ (-147, -55), 34% @ (-117, -126), 50% @ (-255, 8), 34% @ (-166, 44), 66% @ (-255, 120) |
 Gargoyle EyeGargoyle Eye
-QUEST ITEM
-WT: 0.2 Size: TINY
+Quest
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 , Mistmoore GraniteMistmoore Granite
@@ -1044,8 +1045,8 @@ Warrior |
 27-32 |
 34% @ (76, -120), 34% @ (-105, -93), 34% @ (-40, 16) , 75% @ (-180, 65) |
 Gargoyle EyeGargoyle Eye
-QUEST ITEM
-WT: 0.2 Size: TINY
+Quest
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 , Mistmoore GraniteMistmoore Granite
@@ -1062,8 +1063,8 @@ Warrior |
 34 |
 See Discussion |
 Gargoyle EyeGargoyle Eye
-QUEST ITEM
-WT: 0.2 Size: TINY
+Quest
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 , Rune of ArrestRune of Arrest
@@ -1170,8 +1171,8 @@ Warrior |
 25 |
 34% @ (75, -107), 34% @ (76, -120) |
 Gargoyle EyeGargoyle Eye
-QUEST ITEM
-WT: 0.2 Size: TINY
+Quest
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 , Mistmoore GraniteMistmoore Granite
@@ -1873,7 +1874,7 @@ Class: ALL
 Race: ALL
 |
 PH is a Mistmoore guard, 22-minute respawn. |
-Items - Found 56 items that drop in Mistmoore Castle:
+Items - Found 57 items that drop in Mistmoore Castle:
 Item Name | Drops From | Slot | Stats |
 A Dark CauldronA Dark Cauldron
 NO DROP
@@ -2354,6 +2355,16 @@ Race: ALLDMG Bonus: 10 @ lvl 50
 an imp familiar |
 Piercing |
 Atk Delay: 21 DMG: 5 INT: +5 WT: 2.5 Size: MEDIUM Class: ALL except CLR PAL DRU MNK SHM Race: ALL |
+ScepterScepter
+No Trade, Quest
+Class: NEC
+Race: ALL
+Size: SMALL
+WT: 0.1
+|
+None? |
+(None) |
+No Trade, Quest Class: NEC Race: ALL Size: SMALL WT: 0.1 |
 Stone MarkerStone Marker
 MAGIC ITEM LORE ITEM NO DROP
 WT: 0.3 Size: TINY

@@ -1,5 +1,5 @@
 # Lavastorm_Mountains (eqlwiki.com)
-fetched: 2026-10-10
+fetched: 2026-10-11
 
 Lavastorm Mountains - EverQuest Legends Wiki
 Jump to content
@@ -275,7 +275,8 @@ Warrior |
 11-12 |
 ? |
 Imp BloodImp Blood
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , 0 - 2 Gold, 0 - 3 Silver, 1 - 4 Copper |
@@ -667,13 +668,14 @@ goblin runner |
 (None) |
 LORE ITEM NO DROP WT: 5.0 Size: MEDIUM Class: ALL Race: ALL |
 Imp BloodImp Blood
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
 a fire imp |
 (None) |
-WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.1 Class: ALL Race: ALL |
 Large Bone ShieldLarge Bone Shield
 MAGIC ITEM
 Slot: SECONDARY

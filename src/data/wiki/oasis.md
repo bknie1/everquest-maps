@@ -1,5 +1,5 @@
 # Oasis_of_Marr (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-11
 
 Oasis of Marr - EverQuest Legends Wiki
 Jump to content
@@ -524,14 +524,13 @@ Gypsy merchant. Does not provide experience when killed. |
 Items - Found 3 items that drop in Oasis of Marr:
 Item Name | Drops From | Slot | Stats |
 Bag of Sea SaltBag of Sea Salt
-This is a meal
-WT: 0.6 Size: SMALL
+Size: SMALL WT: 0.6
 Class: ALL
 Race: ALL
 |
 None? |
 (None) |
-This is a meal WT: 0.6 Size: SMALL Class: ALL Race: ALL |
+Size: SMALL WT: 0.6 Class: ALL Race: ALL |
 Glowing Wooden CrookGlowing Wooden Crook
 MAGIC ITEM
 Slot: PRIMARY

@@ -1,5 +1,5 @@
 # Plane_of_Hate (eqlwiki.com)
-fetched: 2026-10-10
+fetched: 2026-10-11
 
 Plane of Hate - EverQuest Legends Wiki
 Jump to content
@@ -1057,13 +1057,13 @@ WT: 1.0 Size: SMALL
 Class: NEC
 Race: ALL
 , Eye of InnoruukEye of Innoruuk
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 AC: 5
 INT: +5 MANA: +55
 SV MAGIC: +10
-Effect: Chill Sight (Any Slot/Can Equip, Casting Time: Instant)
-WT: 1.5 Size: SMALL
+Effect: Chill Sight (Clicky, Can Equip, Casting Time: Instant)
+Size: SMALL WT: 1.5
 Class: WIZ
 Race: ALL
 , Shattered Emerald of CorruptionShattered Emerald of Corruption
@@ -2225,31 +2225,32 @@ Various |
 Arms |
 AC: 15 STR: +9 SV MAGIC: +7 WT: 4.9 Size: SMALL Class: CLR Race: ALL |
 EvensongEvensong
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade, Placeable
 Slot: RANGE PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 25
-DMG: 11
-WT: 3.0 Range: 50 Size: MEDIUM
+DMG: 11 DMG Bonus: 11
+Size: MEDIUM WT: 3.0
+Range: 50
 Class: BRD
-Race: ALLDMG Bonus: 12 @ lvl 50
+Race: ALL
 |
 Maestro of Rancor |
 1H Blunt |
-Atk Delay: 25 DMG: 11 WT: 3.0 Range: 50 Size: MEDIUM Class: BRD Race: ALL |
+Atk Delay: 25 DMG: 11 DMG Bonus: 11 Size: MEDIUM WT: 3.0 Range: 50 Class: BRD Race: ALL |
 Eye of InnoruukEye of Innoruuk
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 AC: 5
 INT: +5 MANA: +55
 SV MAGIC: +10
-Effect: Chill Sight (Any Slot/Can Equip, Casting Time: Instant)
-WT: 1.5 Size: SMALL
+Effect: Chill Sight (Clicky, Can Equip, Casting Time: Instant)
+Size: SMALL WT: 1.5
 Class: WIZ
 Race: ALL
 |
 Various |
 Primary, Secondary |
-AC: 5 INT: +5 MANA: +55 SV MAGIC: +10 Effect: Chill Sight (Casting Time: Instant) WT: 1.5 Size: SMALL Class: WIZ Race: ALL |
+AC: 5 INT: +5 MANA: +55 SV MAGIC: +10 Effect: Chill Sight (Clicky, Can Equip, Casting Time: Instant) Size: SMALL WT: 1.5 Class: WIZ Race: ALL |
 Fleshless SkullFleshless Skull
 No Trade, Quest
 WT: 1.0 Size: MEDIUM
@@ -2426,18 +2427,18 @@ An Agent of Innoruuk |
 Head |
 AC: 16 STR: +4 DEX: +5 WIS: +4 HP: +35 SV COLD: +4 SV MAGIC: +4 WT: 5.0 Size: SMALL Class: RNG Race: ALL |
 Hotof's BracerHotof's Bracer
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade
 Slot: WRIST
 AC: 10
-STR: +10 CHA: +10 WIS: +10
+STR: +10 WIS: +10 CHA: +10
 SV FIRE: +15 SV COLD: +15
-WT: 1.0 Size: SMALL
+Size: SMALL WT: 1.0
 Class: WAR RNG DRU BRD ROG
 Race: ALL
 |
 Innoruuk |
 Wrist |
-AC: 10 STR: +10 CHA: +10 WIS: +10 SV FIRE: +15 SV COLD: +15 WT: 1.0 Size: SMALL Class: WAR RNG DRU BRD ROG Race: ALL |
+AC: 10 STR: +10 WIS: +10 CHA: +10 SV FIRE: +15 SV COLD: +15 Size: SMALL WT: 1.0 Class: WAR RNG DRU BRD ROG Race: ALL |
 IcebeltIcebelt
 Lore Equipped, No Trade
 Slot: WAIST
@@ -2468,14 +2469,14 @@ Imbrued Platemail BracerImbrued Platemail Bracer
 No Trade, Quest
 Slot: WRIST
 AC: 11
-DEX: +3 INT: +3 HP: +10
-WT: 3.0 Size: SMALL
+INT: +3 DEX: +3 HP: +10
+Size: SMALL WT: 3.0
 Class: BRD
 Race: ALL
 |
 Various |
 Wrist |
-AC: 11 DEX: +3 INT: +3 HP: +10 WT: 3.0 Size: SMALL Class: BRD Race: ALL |
+AC: 11 INT: +3 DEX: +3 HP: +10 Size: SMALL WT: 3.0 Class: BRD Race: ALL |
 Imbrued Platemail BreastplateImbrued Platemail Breastplate
 Lore Equipped, No Trade, Quest
 Slot: CHEST
@@ -2493,14 +2494,14 @@ Imbrued Platemail GauntletsImbrued Platemail Gauntlets
 Lore Equipped, No Trade, Quest
 Slot: HANDS
 AC: 14
-DEX: +5 WIS: +5 HP: +10
-WT: 3.8 Size: SMALL
+WIS: +5 DEX: +5 HP: +10
+Size: SMALL WT: 3.8
 Class: BRD
 Race: ALL
 |
 a haunted chest |
 Hands |
-AC: 14 DEX: +5 WIS: +5 HP: +10 WT: 3.8 Size: SMALL Class: BRD Race: ALL |
+AC: 14 WIS: +5 DEX: +5 HP: +10 Size: SMALL WT: 3.8 Class: BRD Race: ALL |
 Imbrued Platemail GreavesImbrued Platemail Greaves
 Lore Equipped, No Trade, Quest
 Slot: LEGS
@@ -2643,27 +2644,27 @@ Insidious HaloInsidious Halo
 Lore Equipped, No Trade, Quest
 Slot: HEAD
 AC: 5
-CHA: +20 INT: +7 HP: +10 MANA: +10
+INT: +7 CHA: +20 HP: +10 MANA: +10
 SV MAGIC: +10
-WT: 0.3 Size: SMALL
+Size: SMALL WT: 0.3
 Class: ENC
 Race: ALL
 |
 a spite golem, a haunted chest |
 Head |
-AC: 5 CHA: +20 INT: +7 HP: +10 MANA: +10 SV MAGIC: +10 WT: 0.3 Size: SMALL Class: ENC Race: ALL |
+AC: 5 INT: +7 CHA: +20 HP: +10 MANA: +10 SV MAGIC: +10 Size: SMALL WT: 0.3 Class: ENC Race: ALL |
 Insidious ManacleInsidious Manacle
 No Trade, Quest
 Slot: WRIST
 AC: 3
 STR: +3 DEX: +3 CHA: +2 MANA: +15
-WT: 0.3 Size: SMALL
+Size: SMALL WT: 0.3
 Class: ENC
 Race: ALL
 |
 Various |
 Wrist |
-AC: 3 STR: +3 DEX: +3 CHA: +2 MANA: +15 WT: 0.3 Size: SMALL Class: ENC Race: ALL |
+AC: 3 STR: +3 DEX: +3 CHA: +2 MANA: +15 Size: SMALL WT: 0.3 Class: ENC Race: ALL |
 Insidious PantaloonsInsidious Pantaloons
 Lore Equipped, No Trade, Quest
 Slot: LEGS
@@ -4439,13 +4440,14 @@ Maestro of Rancor, Innoruuk
 Maestro of Rancor Drops
 |
 EvensongEvensong
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade, Placeable
 Slot: RANGE PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 25
-DMG: 11
-WT: 3.0 Range: 50 Size: MEDIUM
+DMG: 11 DMG Bonus: 11
+Size: MEDIUM WT: 3.0
+Range: 50
 Class: BRD
-Race: ALLDMG Bonus: 12 @ lvl 50
+Race: ALL
 , Hand of the MaestroHand of the Maestro
 MAGIC ITEM LORE ITEM NO DROP
 Slot: PRIMARY SECONDARY
@@ -4542,22 +4544,22 @@ Size: TINY WT: 0.1
 Class: WAR CLR PAL SHD ROG NEC WIZ MAG ENC
 Race: ALL
 , Eye of InnoruukEye of Innoruuk
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 AC: 5
 INT: +5 MANA: +55
 SV MAGIC: +10
-Effect: Chill Sight (Any Slot/Can Equip, Casting Time: Instant)
-WT: 1.5 Size: SMALL
+Effect: Chill Sight (Clicky, Can Equip, Casting Time: Instant)
+Size: SMALL WT: 1.5
 Class: WIZ
 Race: ALL
 , Hotof's BracerHotof's Bracer
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade
 Slot: WRIST
 AC: 10
-STR: +10 CHA: +10 WIS: +10
+STR: +10 WIS: +10 CHA: +10
 SV FIRE: +15 SV COLD: +15
-WT: 1.0 Size: SMALL
+Size: SMALL WT: 1.0
 Class: WAR RNG DRU BRD ROG
 Race: ALL
 , IcebeltIcebelt

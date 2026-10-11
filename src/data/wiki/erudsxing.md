@@ -1,5 +1,5 @@
 # Erud's_Crossing (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-11
 
 Erud's Crossing - EverQuest Legends Wiki
 Jump to content
@@ -317,7 +317,7 @@ Class: ALL
 Race: ALL
 , Seahorse ScalesSeahorse Scales
 Quest
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -389,8 +389,7 @@ Need Info |
 14 ~ 17 |
 Need Info |
 Fresh FishFresh Fish
-This is a meal!
-WT: 1.0 Size: SMALL
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 |
@@ -402,8 +401,7 @@ Warrior |
 14 |
 (-1334, 746) |
 Fresh FishFresh Fish
-This is a meal!
-WT: 1.0 Size: SMALL
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 |
@@ -415,8 +413,7 @@ Warrior |
 13 ~ 17 |
 (-1312, 753) |
 Fresh FishFresh Fish
-This is a meal!
-WT: 1.0 Size: SMALL
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 |
@@ -437,8 +434,7 @@ Warrior |
 13-16 |
 (-1771, 797) |
 Fresh FishFresh Fish
-This is a meal!
-WT: 1.0 Size: SMALL
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , AmberAmber
@@ -464,8 +460,7 @@ Need Info |
 17 |
 (-1779, 678) |
 Fresh FishFresh Fish
-This is a meal!
-WT: 1.0 Size: SMALL
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , AmberAmber
@@ -491,8 +486,7 @@ Need Info |
 17 |
 (-1591, 962) |
 Fresh FishFresh Fish
-This is a meal!
-WT: 1.0 Size: SMALL
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , AmberAmber
@@ -542,8 +536,7 @@ Warrior |
 15-16 |
 (-721, 780) |
 Fresh FishFresh Fish
-This is a meal!
-WT: 1.0 Size: SMALL
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , AmberAmber
@@ -711,13 +704,13 @@ Various |
 This is a snack! WT: 0.6 Size: SMALL Class: ALL Race: ALL |
 Seahorse ScalesSeahorse Scales
 Quest
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
 None? |
 (None) |
-Quest WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.1 Class: ALL Race: ALL |
 Shark SkinShark Skin
 WT: 0.1 Size: SMALL
 Class: ALL

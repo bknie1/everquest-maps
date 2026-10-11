@@ -1,5 +1,5 @@
 # Najena (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-11
 
 Najena - EverQuest Legends Wiki
 Jump to content
@@ -841,8 +841,9 @@ Warrior |
 29 |
 Large Goblin Camp by Widowmaker |
 Minotaur HornMinotaur Horn
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALLFocus Effect: Wind Resonance 10
 |

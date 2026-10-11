@@ -1,5 +1,5 @@
 # Solusek's_Eye (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-11
 
 Solusek's Eye - EverQuest Legends Wiki
 Jump to content
@@ -1874,13 +1874,14 @@ inferno goblin wizard |
 (None) |
 MAGIC ITEM LORE ITEM NO DROP WT: 0.5 Size: SMALL Class: ALL Race: ALL |
 Imp BloodImp Blood
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
 Kindle |
 (None) |
-WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.1 Class: ALL Race: ALL |
 Impskin GlovesImpskin Gloves
 MAGIC ITEM
 Slot: HANDS

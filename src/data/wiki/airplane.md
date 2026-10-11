@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-10-10
+fetched: 2026-10-11
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -512,15 +512,15 @@ Glowing Diamond (7-SotS)
 Efreeti War Horn
 |
 Spear of HarmonySpear of Harmony
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade, Placeable
 Slot: PRIMARY
-Skill: Piercing Atk Delay: 21
-DMG: 12
+Skill: 1H Piercing Atk Delay: 21
+DMG: 12 DMG Bonus: 10
 STR: +5 DEX: +5 CHA: +5
-Effect: Chant of Battle (Combat, Casting Time: Instant) at Level 45
-WT: 3.5 Size: MEDIUM
+Effect: Chant of Battle (Combat) at Level 45
+Size: MEDIUM WT: 3.5
 Class: BRD
-Race: ALLDMG Bonus: 10 @ lvl 50
+Race: ALL
 |
 Bard Test of Harmony
 |
@@ -1216,9 +1216,9 @@ Duennan Shielding RingDuennan Shielding Ring
 Lore Equipped, No Trade
 Slot: FINGER
 AC: 4
-WIS: +5 INT: +5 MANA: +30
-Effect: Harmshield (Must Equip, Casting Time: Instant, Cooldown: 900 seconds)
-WT: 0.1 Size: TINY
+INT: +5 WIS: +5 MANA: +30
+Effect: Harmshield (Clicky, Must Equip, Casting Time: Instant, Cooldown: 900 seconds) at Level 45
+Size: TINY WT: 0.1
 Class: MAG
 Race: ALL
 |
@@ -2799,7 +2799,7 @@ Class: ALL
 Race: ALL
 , Gem of InvigorationGem of Invigoration
 Quest
-WT: 1.0 Size: SMALL
+Size: SMALL WT: 1.0
 Class: WAR
 Race: ALL
 |
@@ -4027,15 +4027,15 @@ Brass KnucklesBrass Knuckles
 No Trade, Quest, Placeable
 Slot: Primary Secondary
 Skill: 1H Blunt Atk Delay: 25
-DMG: 10
+DMG: 10 DMG Bonus: 11
+Size: MEDIUM WT: 1.0
 Dmg Bon: 12
-WT: 1.0 Size: MEDIUM
 Class: MNK BST
 Race: ALL
 |
 Noble Dojorn, Overseer of Air, The Hand of Veeshan |
 1H Blunt |
-Atk Delay: 25 DMG: 10 Dmg Bon: 12 WT: 1.0 Size: MEDIUM Class: MNK BST Race: ALL |
+Atk Delay: 25 DMG: 10 DMG Bonus: 11 Size: MEDIUM WT: 1.0 Dmg Bon: 12 Class: MNK BST Race: ALL |
 Breath of GwanBreath of Gwan
 MAGIC ITEM LORE ITEM NO DROP
 WT: 0.1 Size: SMALL
@@ -4498,15 +4498,15 @@ Efreeti StandardEfreeti Standard
 Lore Equipped, Attunable, Quest, Placeable
 Slot: Secondary
 Skill: 1H Blunt Atk Delay: 10
-DMG: 3
+DMG: 3 DMG Bonus: 4
+Size: LARGE WT: 10.0
 Dmg Bon: 5
-WT: 10.0 Size: LARGE
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST
 Race: ALL
 |
 Noble Dojorn, Overseer of Air, the Hand of Veeshan |
 1H Blunt |
-Atk Delay: 10 DMG: 3 Dmg Bon: 5 WT: 10.0 Size: LARGE Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST Race: ALL |
+Atk Delay: 10 DMG: 3 DMG Bonus: 4 Size: LARGE WT: 10.0 Dmg Bon: 5 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST Race: ALL |
 Efreeti StatuetteEfreeti Statuette
 No Trade, Quest
 WT: 1.0 Size: SMALL
@@ -4854,13 +4854,13 @@ a gorgalask, a sprited harpie |
 LORE ITEM WT: 0.5 Size: SMALL Class: ALL Race: ALL |
 Gem of InvigorationGem of Invigoration
 Quest
-WT: 1.0 Size: SMALL
+Size: SMALL WT: 1.0
 Class: WAR
 Race: ALL
 |
 Various |
 (None) |
-Quest WT: 1.0 Size: SMALL Class: WAR Race: ALL |
+Quest Size: SMALL WT: 1.0 Class: WAR Race: ALL |
 Glowing Black PearlGlowing Black Pearl
 LORE ITEM
 WT: 6.0 Size: MEDIUM
@@ -5017,13 +5017,13 @@ Various |
 Quest WT: 1.0 Size: MEDIUM Class: PAL Race: ALL |
 Gorgon HeadGorgon Head
 No Trade, Quest
-WT: 12.0 Size: LARGE
+Size: LARGE WT: 12.0
 Class: NEC
 Race: ALL
 |
 Gorgalosk |
 (None) |
-No Trade, Quest WT: 12.0 Size: LARGE Class: NEC Race: ALL |
+No Trade, Quest Size: LARGE WT: 12.0 Class: NEC Race: ALL |
 Grey Damask CloakGrey Damask Cloak
 MAGIC ITEM LORE ITEM NO DROP
 Slot: BACK
@@ -5224,13 +5224,13 @@ Lore Equipped, No Trade, Quest
 Slot: Face
 AC: 5
 AGI: +2
-WT: 15.0 Size: LARGE
+Size: LARGE WT: 15.0
 Class: ROG BER
 Race: ALL
 |
 Keeper of Souls |
 Face |
-AC: 5 AGI: +2 WT: 15.0 Size: LARGE Class: ROG BER Race: ALL |
+AC: 5 AGI: +2 Size: LARGE WT: 15.0 Class: ROG BER Race: ALL |
 Key of MisfortuneKey of Misfortune
 LORE ITEM NO DROP
 WT: 1.0 Size: SMALL
@@ -5467,13 +5467,13 @@ a gorgalask, a gust of wind, a sprited harpie |
 LORE ITEM WT: 1.0 Size: MEDIUM Class: ALL Race: ALL |
 Nebulous DiamondNebulous Diamond
 No Trade, Quest
-WT: 1.0 Size: MEDIUM
+Size: MEDIUM WT: 1.0
 Class: BRD
 Race: ALL
 |
 Eye of Veeshan |
 (None) |
-No Trade, Quest WT: 1.0 Size: MEDIUM Class: BRD Race: ALL |
+No Trade, Quest Size: MEDIUM WT: 1.0 Class: BRD Race: ALL |
 Nebulous RubyNebulous Ruby
 LORE ITEM
 WT: 10.0 Size: LARGE

@@ -1,5 +1,5 @@
 # Ocean_of_Tears (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-11
 
 Ocean of Tears - EverQuest Legends Wiki
 Jump to content
@@ -1287,16 +1287,17 @@ Capt Surestout |
 Wrist |
 AC: 5 STR: +5 WT: 1.0 Size: SMALL Class: WAR CLR PAL RND DRU MNK BRD ROG SHM Race: ALL |
 Bronze ScytheBronze Scythe
+Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 48
-DMG: 8
-WT: 13.0 Size: LARGE
-Class: WAR PAL RNG SHD
-Race: ALLDMG Bonus: 33 @ lvl 50
+DMG: 8 DMG Bonus: 29
+Size: LARGE WT: 13.0
+Class: WAR PAL RNG SHD BER
+Race: ALL
 |
 a spectre |
 2H Slashing |
-Atk Delay: 48 DMG: 8 WT: 13.0 Size: LARGE Class: WAR PAL RNG SHD Race: ALL |
+Atk Delay: 48 DMG: 8 DMG Bonus: 29 Size: LARGE WT: 13.0 Class: WAR PAL RNG SHD BER Race: ALL |
 Chunk of Ogre FleshChunk of Ogre Flesh
 This is a meal!
 WT: 1.0 Size: SMALL
@@ -1347,15 +1348,15 @@ Gornit |
 (None) |
 WT: 1.5 Size: SMALL Class: ALL Race: ALL |
 Globe of FearGlobe of Fear
-MAGIC ITEM
+Quest, Placeable
 Slot: PRIMARY SECONDARY
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 a spectre |
 Primary, Secondary |
-WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Ice Giant ToesIce Giant Toes
 Quest
 WT: 1.5 Size: SMALL
@@ -1480,16 +1481,17 @@ None? |
 (None) |
 NO DROP WT: 0.3 Size: TINY Class: ALL Race: ALL |
 ScytheScythe
+Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 45
-DMG: 11
-WT: 12.0 Size: LARGE
-Class: WAR PAL RNG SHD
-Race: ALLDMG Bonus: 30 @ lvl 50
+DMG: 11 DMG Bonus: 27
+Size: LARGE WT: 12.0
+Class: WAR PAL RNG SHD BER
+Race: ALL
 |
 a spectre |
 2H Slashing |
-Atk Delay: 45 DMG: 11 WT: 12.0 Size: LARGE Class: WAR PAL RNG SHD Race: ALL |
+Atk Delay: 45 DMG: 11 DMG Bonus: 27 Size: LARGE WT: 12.0 Class: WAR PAL RNG SHD BER Race: ALL |
 Shark SkinShark Skin
 WT: 0.1 Size: SMALL
 Class: ALL

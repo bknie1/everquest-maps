@@ -1,5 +1,5 @@
 # Southern_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-11
 
 Southern Karana - EverQuest Legends Wiki
 Jump to content
@@ -891,10 +891,12 @@ WT: 4.5 Range: 125 Size: LARGE
 Class: WAR PAL RNG SHD ROG
 Race: ALL
 , LongbowLongbow
+Attunable, Placeable
 Slot: RANGE
 Skill: Archery Atk Delay: 51
 DMG: 8
-WT: 5.0 Range: 100 Size: LARGE
+Size: LARGE WT: 5.0
+Range: 100
 Class: WAR PAL RNG SHD ROG
 Race: ALL
 , ArrowArrow
@@ -1145,10 +1147,12 @@ WT: 0.1 Range: 25 Size: SMALL
 Class: WAR PAL RNG SHD ROG
 Race: ALL
 , LongbowLongbow
+Attunable, Placeable
 Slot: RANGE
 Skill: Archery Atk Delay: 51
 DMG: 8
-WT: 5.0 Range: 100 Size: LARGE
+Size: LARGE WT: 5.0
+Range: 100
 Class: WAR PAL RNG SHD ROG
 Race: ALL
 , Thunderhoof QuiverThunderhoof Quiver

@@ -1,5 +1,5 @@
 # Kedge_Keep (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-11
 
 Kedge Keep - EverQuest Legends Wiki
 Jump to content
@@ -622,8 +622,7 @@ Warrior |
 28 ~ 32 |
 ? |
 Fresh FishFresh Fish
-This is a meal!
-WT: 1.0 Size: SMALL
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Lancer Swordfish FinLancer Swordfish Fin
@@ -648,8 +647,7 @@ Warrior |
 35 ~ 37 |
 need info |
 Fresh FishFresh Fish
-This is a meal!
-WT: 1.0 Size: SMALL
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Lancer Swordfish FinLancer Swordfish Fin
@@ -719,8 +717,7 @@ Warrior |
 1 |
 20% @ (127, -329), 20% @ (135, -333), 20% @ (-36, 4), 20% @ (156, -335), 20% @ (-42, 231), 20% @ (-161, -148), 20% @ (-37, 0), 20% @ (-92, -6), 20% @ (-164, -105), 20% @ (36, -212), 20% @ (-232, -152), 20% @ (13, -121), 20% @ (94, -19), 20% @ (-249, -61), 20% @ (-340, -190), 20% @ (-85, 82), 20% @ (-177, -50), 20% @ (-243, -232), 20% @ (-76, -47) |
 Fresh FishFresh Fish
-This is a meal!
-WT: 1.0 Size: SMALL
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Fish ScalesFish Scales
@@ -737,8 +734,7 @@ Warrior |
 1 |
 Various |
 Fresh FishFresh Fish
-This is a meal!
-WT: 1.0 Size: SMALL
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Fish ScalesFish Scales
@@ -755,8 +751,7 @@ Warrior |
 1 |
 Various |
 Fresh FishFresh Fish
-This is a meal!
-WT: 1.0 Size: SMALL
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Fish ScalesFish Scales
@@ -917,8 +912,7 @@ Warrior |
 1 |
 Various |
 Fresh FishFresh Fish
-This is a meal!
-WT: 1.0 Size: SMALL
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Fish ScalesFish Scales
@@ -952,12 +946,11 @@ Wizard |
 100% @ (-133, -46), 100% @ (190, -519) |
 Seahorse ScalesSeahorse Scales
 Quest
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Fresh FishFresh Fish
-This is a meal!
-WT: 1.0 Size: SMALL
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Deepwater InkDeepwater Ink
@@ -974,8 +967,7 @@ Warrior |
 29 - 37 |
 Various |
 Fresh FishFresh Fish
-This is a meal!
-WT: 1.0 Size: SMALL
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Fish ScalesFish Scales
@@ -1000,8 +992,7 @@ Warrior |
 1 |
 Various |
 Fresh FishFresh Fish
-This is a meal!
-WT: 1.0 Size: SMALL
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Fish ScalesFish Scales
@@ -1031,8 +1022,7 @@ WT: 3.5 Size: LARGE
 Class: ALL
 Race: ALL
 , Fresh FishFresh Fish
-This is a meal!
-WT: 1.0 Size: SMALL
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 |
@@ -1221,8 +1211,7 @@ Warrior |
 41 |
 33% @ (17, 79), 33% @ (7, -8) |
 Fresh FishFresh Fish
-This is a meal!
-WT: 1.0 Size: SMALL
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Fish ScalesFish Scales
@@ -1240,8 +1229,7 @@ Warrior |
 40 |
 20% @ (-178, -32), 20% @ (-167, -19), 20% @ (7, -8), 20% @ (-8, 8) |
 Fresh FishFresh Fish
-This is a meal!
-WT: 1.0 Size: SMALL
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Fish ScalesFish Scales
@@ -1267,7 +1255,7 @@ Class: WAR PAL RNG SHD MNK BRD ROG
 Race: ALL
 , Seahorse ScalesSeahorse Scales
 Quest
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -1605,13 +1593,13 @@ Back |
 AC: 8 DEX: +6 SV COLD: +35 WT: 3.5 Size: LARGE Class: WAR PAL RNG SHD MNK BRD ROG Race: ALL |
 Seahorse ScalesSeahorse Scales
 Quest
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
 Various |
 (None) |
-Quest WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.1 Class: ALL Race: ALL |
 Shark ToothShark Tooth
 MAGIC ITEM
 Slot: PRIMARY SECONDARY

@@ -1,5 +1,5 @@
 # Lower_Guk (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-11
 
 Lower Guk - EverQuest Legends Wiki
 Jump to content
@@ -248,13 +248,13 @@ WT: 10.0 Size: LARGE
 Class: WAR CLR PAL SHD BRD
 Race: ALL
 , Enameled Black MaceEnameled Black Mace
-MAGIC ITEM
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 28
-DMG: 8
-WT: 4.5 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC
-Race: ALLDMG Bonus: 14 @ lvl 50
+DMG: 8 DMG Bonus: 13
+Size: MEDIUM WT: 4.5
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
+Race: ALL
 , Executioner's AxeExecutioner's Axe
 Lore, Attunable
 Slot: PRIMARY
@@ -368,10 +368,11 @@ WT: 2.5 Size: MEDIUM
 Class: WAR PAL RNG SHD DRU BRD ROG
 Race: ALLDMG Bonus: 17 @ lvl 50
 , ScepterScepter
-MAGIC ITEM LORE ITEM NO DROP
-WT: 0.1 Size: SMALL
+No Trade, Quest
 Class: NEC
 Race: ALL
+Size: SMALL
+WT: 0.1
 , Serpentine BracerSerpentine Bracer
 MAGIC ITEM
 Slot: WRIST
@@ -660,10 +661,11 @@ Dead Side
 A/B/C. Zone lines to Upper Guk
 D. Underground tunnel to D on Level Three
 1. "Waterfall Room" with ScepterScepter
-MAGIC ITEM LORE ITEM NO DROP
-WT: 0.1 Size: SMALL
+No Trade, Quest
 Class: NEC
 Race: ALL
+Size: SMALL
+WT: 0.1
 on ground
 2. Waterfall
 3. Room with the ghoul lord who drops Skull-shaped BarbuteSkull-shaped Barbute
@@ -814,13 +816,13 @@ Class: ALL
 Race: ALL
 (Rare)
 15. "Savant Room" with a ghoul savant who drops Enameled Black MaceEnameled Black Mace
-MAGIC ITEM
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 28
-DMG: 8
-WT: 4.5 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC
-Race: ALLDMG Bonus: 14 @ lvl 50
+DMG: 8 DMG Bonus: 13
+Size: MEDIUM WT: 4.5
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
+Race: ALL
 (Common) and Enameled Black ChestplateEnameled Black Chestplate
 MAGIC ITEM
 Slot: CHEST
@@ -864,7 +866,9 @@ WT: 0.3 Size: SMALL
 Class: BRD NEC WIZ MAG ENC
 Race: ALLFocus Effect: Reanimation Efficiency II
 (Rare) and a ghoul scribe who drops Parchment of Flayed SkinParchment of Flayed Skin
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
+Class: NONE
+Race: NONE
 (Common) and Gorgon Feather QuillGorgon Feather Quill
 WT: 0.1 Size: TINY
 Class: ALL
@@ -1127,8 +1131,9 @@ WT: 1.0 Size: SMALL
 Class: ALL
 Race: ALLFocus Effect: Affliction Haste II
 , Minotaur HornMinotaur Horn
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALLFocus Effect: Wind Resonance 10
 |
@@ -1201,8 +1206,8 @@ Warrior |
 30-34 |
 Various |
 Gargoyle EyeGargoyle Eye
-QUEST ITEM
-WT: 0.2 Size: TINY
+Quest
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 , Basalt CarapaceBasalt Carapace
@@ -1255,8 +1260,8 @@ Warrior |
 27-31 |
 (771, -546) |
 Gargoyle EyeGargoyle Eye
-QUEST ITEM
-WT: 0.2 Size: TINY
+Quest
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 |
@@ -1605,13 +1610,13 @@ WT: 10.0 Size: LARGE
 Class: WAR CLR PAL SHD BRD
 Race: ALL
 , Enameled Black MaceEnameled Black Mace
-MAGIC ITEM
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 28
-DMG: 8
-WT: 4.5 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC
-Race: ALLDMG Bonus: 14 @ lvl 50
+DMG: 8 DMG Bonus: 13
+Size: MEDIUM WT: 4.5
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
+Race: ALL
 |
 The savant is on the middle level of the Dead Tower and spawns right next to the stairway leading down to the bottom lev... |
 A ghoul scribe
@@ -1625,7 +1630,9 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , Parchment of Flayed SkinParchment of Flayed Skin
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
+Class: NONE
+Race: NONE
 |
 Placeholder has a 28 minute spawn timer. |
 A ghoul sentinel
@@ -1679,8 +1686,8 @@ Warrior |
 38-42 |
 (-16, -178) |
 Gargoyle EyeGargoyle Eye
-QUEST ITEM
-WT: 0.2 Size: TINY
+Quest
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 , Breath of SolusekBreath of Solusek
@@ -1712,8 +1719,9 @@ WT: 8.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALLDMG Bonus: 18 @ lvl 50
 , Minotaur HornMinotaur Horn
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALLFocus Effect: Wind Resonance 10
 |
@@ -2249,17 +2257,17 @@ a ghoul savant |
 Chest |
 AC: 25 WT: 10.0 Size: LARGE Class: WAR CLR PAL SHD BRD Race: ALL |
 Enameled Black MaceEnameled Black Mace
-MAGIC ITEM
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 28
-DMG: 8
-WT: 4.5 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC
-Race: ALLDMG Bonus: 14 @ lvl 50
+DMG: 8 DMG Bonus: 13
+Size: MEDIUM WT: 4.5
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
+Race: ALL
 |
 a ghoul savant |
 1H Blunt |
-Atk Delay: 28 DMG: 8 WT: 4.5 Size: MEDIUM Class: ALL except NEC WIZ MAG ENC Race: ALL |
+Atk Delay: 28 DMG: 8 DMG Bonus: 13 Size: MEDIUM WT: 4.5 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST Race: ALL |
 Executioner's AxeExecutioner's Axe
 Lore, Attunable
 Slot: PRIMARY
@@ -2581,11 +2589,13 @@ a frenzied ghoul |
 Fingers |
 STR: +3 MANA: +30 WT: 0.1 Size: TINY Class: ALL Race: ALL |
 Parchment of Flayed SkinParchment of Flayed Skin
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
+Class: NONE
+Race: NONE
 |
 a ghoul scribe |
 (None) |
-WT: 0.1 Size: TINY |
+Size: TINY WT: 0.1 Class: NONE Race: NONE |
 Platinum TiaraPlatinum Tiara
 MAGIC ITEM LORE ITEM
 Slot: HEAD
@@ -2638,14 +2648,15 @@ the ghoul lord |
 Head |
 AC: 7 Charisma: +4 Size: Tiny WT: 0.4 Class: WAR CLR SHD MNK ROG SHM NEC WIZ MAG ENC BST BER Race: ALL Dieties: Bertoxxulous, Cazic-Thule, Innoruuk, Rallos Zek, Veeshan Worn Effect: Scalp of the Ghoul Lord |
 ScepterScepter
-MAGIC ITEM LORE ITEM NO DROP
-WT: 0.1 Size: SMALL
+No Trade, Quest
 Class: NEC
 Race: ALL
+Size: SMALL
+WT: 0.1
 |
-Ground Spawn (of Tears) pos 1648 neg 475 |
+None? |
 (None) |
-MAGIC ITEM LORE ITEM NO DROP WT: 0.1 Size: SMALL Class: NEC Race: ALL |
+No Trade, Quest Class: NEC Race: ALL Size: SMALL WT: 0.1 |
 Serpentine BracerSerpentine Bracer
 MAGIC ITEM
 Slot: WRIST

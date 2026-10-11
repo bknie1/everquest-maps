@@ -1,5 +1,5 @@
 # Rathe_Mountains (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-11
 
 Rathe Mountains - EverQuest Legends Wiki
 Jump to content
@@ -1818,7 +1818,7 @@ WT: 0.3 Size: SMALL
 Class: ALL
 Race: ALL
 , Giant Scarab EyeGiant Scarab Eye
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
