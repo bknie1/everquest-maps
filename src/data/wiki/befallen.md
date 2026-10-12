@@ -1,5 +1,5 @@
 # Befallen (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-12
 
 Befallen - EverQuest Legends Wiki
 Jump to content
@@ -678,11 +678,12 @@ WT: 1.0 Size: SMALL
 Class: ALL
 Race: ALL
 , DaggerDagger
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
-Skill: Piercing Atk Delay: 20
-DMG: 3BACKSTAB: 3
-WT: 2.5 Size: SMALL
-Class: ALL except CLR PAL DRU MNK SHM
+Skill: 1H Piercing Atk Delay: 20
+DMG: 3 BACKSTAB: 3
+Size: SMALL WT: 2.5
+Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
 Race: ALLDMG Bonus: 10 @ lvl 50
 |
 Hits for 52 max (pet hits for 26, bashes for 8).

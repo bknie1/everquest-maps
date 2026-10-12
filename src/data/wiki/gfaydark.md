@@ -1,5 +1,5 @@
 # Greater_Faydark (eqlwiki.com)
-fetched: 2026-10-11
+fetched: 2026-10-12
 
 Greater Faydark - EverQuest Legends Wiki
 Jump to content
@@ -1012,7 +1012,7 @@ Class: ALL
 Race: ALL
 , Spiderling SilkSpiderling Silk
 Quest
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |

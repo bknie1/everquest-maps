@@ -1,5 +1,5 @@
 # East_Commonlands (eqlwiki.com)
-fetched: 2026-10-11
+fetched: 2026-10-12
 
 East Commonlands - EverQuest Legends Wiki
 Jump to content
@@ -713,10 +713,12 @@ Range: 100
 Class: WAR PAL RNG SHD ROG
 Race: ALL
 , ArrowArrow
-QUEST ITEM
+Attunable, Quest
 Slot: AMMO
+Skill: Archery
 DMG: 1
-WT: 0.1 Range: 25 Size: SMALL
+Size: SMALL WT: 0.1
+Range: 25
 Class: WAR PAL RNG SHD ROG
 Race: ALL
 , MeadMead

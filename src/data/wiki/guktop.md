@@ -1,5 +1,5 @@
 # Upper_Guk (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-12
 
 Upper Guk - EverQuest Legends Wiki
 Jump to content
@@ -716,7 +716,7 @@ Shaman |
 27 |
 17% @ (1269, 627) |
 Various |
-Nokta Shaman spawns at number 3 on the Upper Guk Map. His PH is a Vis Shaman. |
+Nokta Shaman spawns at number 3 on the Upper Guk Map. His PH is a froglok vis shaman on a 8m30s re... |
 A Froglok Novice
 |
 Old Froglok |
@@ -874,7 +874,7 @@ Warrior |
 26 |
 25% @ (1424, 344) |
 Various |
-Drops the Barbarian head for Wizard Tishan's Kilt quest. |
+Drops the Barbarian head for the wizard Tishan's Kilt Quest in the Temple of Solusek Ro. |
 A Froglok Summoner
 |
 Old Froglok |

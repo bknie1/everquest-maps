@@ -1,5 +1,5 @@
 # Dagnor's_Cauldron (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-12
 
 Dagnor's Cauldron - EverQuest Legends Wiki
 Jump to content
@@ -424,10 +424,12 @@ Warrior |
 36 |
 (-558, -463), (-898, -627) |
 ArrowArrow
-QUEST ITEM
+Attunable, Quest
 Slot: AMMO
+Skill: Archery
 DMG: 1
-WT: 0.1 Range: 25 Size: SMALL
+Size: SMALL WT: 0.1
+Range: 25
 Class: WAR PAL RNG SHD ROG
 Race: ALL
 , Hunting BowHunting Bow

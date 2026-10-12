@@ -1,5 +1,5 @@
 # Western_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-12
 
 Western Karana - EverQuest Legends Wiki
 Jump to content
@@ -793,8 +793,8 @@ Warrior |
 5 |
 100% @ (-188, -6953), 100% @ (-1679, -8262), 100% @ (-1604, -3203), 100% @ (-3321, -4471) |
 High Quality Cat PeltHigh Quality Cat Pelt
-QUEST ITEM
-WT: 3.5 Size: LARGE
+Quest
+Size: LARGE WT: 3.5
 Class: ALL
 Race: ALL
 , Chunk of MeatChunk of Meat
@@ -817,8 +817,8 @@ Warrior |
 3 |
 100% @ (-3372, -8249), 100% @ (-1193, -8350), 100% @ (-2034, -6920), 100% @ (-415, -3386) |
 High Quality Cat PeltHigh Quality Cat Pelt
-QUEST ITEM
-WT: 3.5 Size: LARGE
+Quest
+Size: LARGE WT: 3.5
 Class: ALL
 Race: ALL
 , Chunk of MeatChunk of Meat

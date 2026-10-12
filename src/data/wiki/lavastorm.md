@@ -1,5 +1,5 @@
 # Lavastorm_Mountains (eqlwiki.com)
-fetched: 2026-10-11
+fetched: 2026-10-12
 
 Lavastorm Mountains - EverQuest Legends Wiki
 Jump to content
@@ -322,9 +322,9 @@ Warrior |
 Nightmare HideNightmare Hide
 Attunable
 Slot: BACK
-Charges: 5
 AC: 5
-Effect: Restore Sight (Clicky, Casting Time: Instant)
+Effect: Restore Sight (Charge Clicky, Casting Time: Instant)
+Charges: 5
 Size: MEDIUM WT: 2.0
 Class: ALL
 Race: ALL

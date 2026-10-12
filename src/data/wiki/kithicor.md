@@ -1,5 +1,5 @@
 # Kithicor_Forest (eqlwiki.com)
-fetched: 2026-10-11
+fetched: 2026-10-12
 
 Kithicor Forest - EverQuest Legends Wiki
 Jump to content
@@ -1849,7 +1849,8 @@ Warrior |
 15 |
 |
 BandagesBandages
-WT: 0.5 Size: SMALL
+Quest
+Size: SMALL WT: 0.5
 Class: ALL
 Race: ALL
 |

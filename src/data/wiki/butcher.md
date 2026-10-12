@@ -1,5 +1,5 @@
 # Butcherblock_Mountains (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-12
 
 Butcherblock Mountains - EverQuest Legends Wiki
 Jump to content
@@ -393,7 +393,7 @@ Warrior |
 Various |
 Spiderling SilkSpiderling Silk
 Quest
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Spiderling EyeSpiderling Eye
@@ -1809,14 +1809,14 @@ Delin Ironblend |
 1H Slashing |
 Atk Delay: 35 DMG: 7 Size: MEDIUM WT: 8.5 Class: WAR PAL RNG SHD BRD ROG Race: ALL |
 Blade of NobilityBlade of Nobility
-LORE ITEM NO DROP
-WT: 0.2 Size: MEDIUM
+No Trade
+Size: MEDIUM WT: 0.2
 Class: NONE
 Race: NONE
 |
 a crazed goblin, a goblin |
 (None) |
-LORE ITEM NO DROP WT: 0.2 Size: MEDIUM Class: NONE Race: NONE |
+No Trade Size: MEDIUM WT: 0.2 Class: NONE Race: NONE |
 Bloodforge HammerBloodforge Hammer
 MAGIC ITEM LORE ITEM
 Slot: PRIMARY

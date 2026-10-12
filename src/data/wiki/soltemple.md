@@ -1,5 +1,5 @@
 # Temple_of_Solusek_Ro (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-12
 
 The Temple of Solusek Ro - EverQuest Legends Wiki
 Jump to content
@@ -283,7 +283,7 @@ Class: ALL
 Race: ALL
 , Fire OpalFire Opal
 Quest
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |

@@ -1,5 +1,5 @@
 # Oggok (eqlwiki.com)
-fetched: 2026-10-11
+fetched: 2026-10-12
 
 Oggok - EverQuest Legends Wiki
 Jump to content
@@ -435,8 +435,11 @@ Start Zone: |
 Lizard Dolls
 |
 BackpackBackpack
-WT: 3.0 Weight Reduction: 0%
-Capacity: 8 Size Capacity: LARGE
+Quest
+Size: LARGE WT: 3.0
+Weight Reduction: 0% Capacity: 8 Size Capacity: LARGE
+Class: ALL
+Race: ALL
 , Spell: Leering Corpse |
 Grevak |
 1 |

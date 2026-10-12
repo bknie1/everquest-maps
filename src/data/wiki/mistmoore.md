@@ -1,5 +1,5 @@
 # Castle_Mistmoore (eqlwiki.com)
-fetched: 2026-10-11
+fetched: 2026-10-12
 
 Mistmoore Castle - EverQuest Legends Wiki
 Jump to content
@@ -134,12 +134,12 @@ WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
 , Cape of Midnight MistCape of Midnight Mist
-MAGIC ITEM
+Attunable
 Slot: NECK
 AC: 2
 STR: +5
 SV MAGIC: +7
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: CLR DRU BRD SHM NEC WIZ MAG ENC
 Race: ALLFocus Effect: Enhancement Haste I
 , Cherista's FangsCherista's Fangs
@@ -225,7 +225,7 @@ Slot: FACE
 AC: 7
 STR: +5
 SV Fire: +10
-WT: 2.0 Size: SMALL
+Size: SMALL WT: 2.0
 Class: WAR CLR PAL SHD BRD
 Race: ALL
 , Glowing Iron PikeGlowing Iron Pike
@@ -297,11 +297,11 @@ Class: ALL
 Race: ALL
 Effect: Heritage of Mistmoore (Worn)
 , Nightshade WreathNightshade Wreath
-MAGIC ITEM
+Attunable
 Slot: HEAD
 AC: 1
-WIS: +5 INT: +5
-WT: 0.1 Size: SMALL
+INT: +5 WIS: +5
+Size: SMALL WT: 0.1
 Class: CLR DRU BRD SHM NEC WIZ MAG ENC
 Race: ALLFocus Effect: Reanimation Haste I
 , Noble's RobesNoble's Robes
@@ -380,7 +380,7 @@ Attunable
 Slot: FACE
 AC: 7
 CHA: -10 HP: +25
-WT: 2.5 Size: SMALL
+Size: SMALL WT: 2.4
 Class: WAR CLR PAL SHD BRD
 Race: ALL
 , Wine ThiefWine Thief
@@ -459,7 +459,7 @@ Slot: FACE
 AC: 7
 STR: +5
 SV Fire: +10
-WT: 2.0 Size: SMALL
+Size: SMALL WT: 2.0
 Class: WAR CLR PAL SHD BRD
 Race: ALL
 2. Tomb with Coffin; behind it is Ssynthi who drops Robe of the KeeperRobe of the Keeper
@@ -491,7 +491,7 @@ Attunable
 Slot: FACE
 AC: 7
 CHA: -10 HP: +25
-WT: 2.5 Size: SMALL
+Size: SMALL WT: 2.4
 Class: WAR CLR PAL SHD BRD
 Race: ALL
 5. "Jail" where a deathly usher spawns, who drops Black Silk GlovesBlack Silk Gloves
@@ -627,11 +627,11 @@ WT: 0.7 Size: SMALL
 Class: NEC WIZ MAG ENC
 Race: ALL
 , Nightshade WreathNightshade Wreath
-MAGIC ITEM
+Attunable
 Slot: HEAD
 AC: 1
-WIS: +5 INT: +5
-WT: 0.1 Size: SMALL
+INT: +5 WIS: +5
+Size: SMALL WT: 0.1
 Class: CLR DRU BRD SHM NEC WIZ MAG ENC
 Race: ALLFocus Effect: Reanimation Haste I
 and Maid Issis FangMaid Issis Fang
@@ -640,12 +640,12 @@ WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
 18. Servant Room where Butler Syncall spawns, drops Cape of Midnight MistCape of Midnight Mist
-MAGIC ITEM
+Attunable
 Slot: NECK
 AC: 2
 STR: +5
 SV MAGIC: +7
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: CLR DRU BRD SHM NEC WIZ MAG ENC
 Race: ALLFocus Effect: Enhancement Haste I
 (Common) and Butler Syncalls FangButler Syncalls Fang
@@ -1432,7 +1432,7 @@ Slot: FACE
 AC: 7
 STR: +5
 SV Fire: +10
-WT: 2.0 Size: SMALL
+Size: SMALL WT: 2.0
 Class: WAR CLR PAL SHD BRD
 Race: ALL
 , Vial of Vampire BloodVial of Vampire Blood
@@ -1634,12 +1634,12 @@ Shadow Knight |
 35 |
 100% @ (-318, -110) Level 2 |
 Cape of Midnight MistCape of Midnight Mist
-MAGIC ITEM
+Attunable
 Slot: NECK
 AC: 2
 STR: +5
 SV MAGIC: +7
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: CLR DRU BRD SHM NEC WIZ MAG ENC
 Race: ALLFocus Effect: Enhancement Haste I
 , Butler Syncalls FangButler Syncalls Fang
@@ -1682,7 +1682,7 @@ Attunable
 Slot: FACE
 AC: 7
 CHA: -10 HP: +25
-WT: 2.5 Size: SMALL
+Size: SMALL WT: 2.4
 Class: WAR CLR PAL SHD BRD
 Race: ALL
 |
@@ -1756,11 +1756,11 @@ WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
 , Nightshade WreathNightshade Wreath
-MAGIC ITEM
+Attunable
 Slot: HEAD
 AC: 1
-WIS: +5 INT: +5
-WT: 0.1 Size: SMALL
+INT: +5 WIS: +5
+Size: SMALL WT: 0.1
 Class: CLR DRU BRD SHM NEC WIZ MAG ENC
 Race: ALLFocus Effect: Reanimation Haste I
 |
@@ -1970,18 +1970,18 @@ Butler Syncall |
 (None) |
 LORE ITEM WT: 0.1 Size: SMALL Class: ALL Race: ALL |
 Cape of Midnight MistCape of Midnight Mist
-MAGIC ITEM
+Attunable
 Slot: NECK
 AC: 2
 STR: +5
 SV MAGIC: +7
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: CLR DRU BRD SHM NEC WIZ MAG ENC
 Race: ALLFocus Effect: Enhancement Haste I
 |
 Butler Syncall |
 Neck |
-AC: 2 STR: +5 SV MAGIC: +7 WT: 0.1 Size: SMALL Class: CLR DRU BRD SHM NEC WIZ MAG ENC Race: ALL |
+AC: 2 STR: +5 SV MAGIC: +7 Size: SMALL WT: 0.1 Class: CLR DRU BRD SHM NEC WIZ MAG ENC Race: ALL |
 Cherista's FangsCherista's Fangs
 Attunable
 Slot: PRIMARY SECONDARY
@@ -2128,13 +2128,13 @@ Slot: FACE
 AC: 7
 STR: +5
 SV Fire: +10
-WT: 2.0 Size: SMALL
+Size: SMALL WT: 2.0
 Class: WAR CLR PAL SHD BRD
 Race: ALL
 |
 a glyphed ghoul |
 Face |
-AC: 7 STR: +5 SV Fire: +10 WT: 2.0 Size: SMALL Class: WAR CLR PAL SHD BRD Race: ALL |
+AC: 7 STR: +5 SV Fire: +10 Size: SMALL WT: 2.0 Class: WAR CLR PAL SHD BRD Race: ALL |
 Glowing Iron PikeGlowing Iron Pike
 MAGIC ITEM
 Slot: PRIMARY
@@ -2262,17 +2262,17 @@ a fallen noble |
 Fingers |
 AC: 1 INT: +3 HP: +10 Size: TINY WT: 0.1 Class: ALL Race: ALL Effect: Heritage of Mistmoore (Worn) |
 Nightshade WreathNightshade Wreath
-MAGIC ITEM
+Attunable
 Slot: HEAD
 AC: 1
-WIS: +5 INT: +5
-WT: 0.1 Size: SMALL
+INT: +5 WIS: +5
+Size: SMALL WT: 0.1
 Class: CLR DRU BRD SHM NEC WIZ MAG ENC
 Race: ALLFocus Effect: Reanimation Haste I
 |
 Maid Issis |
 Head |
-AC: 1 WIS: +5 INT: +5 WT: 0.1 Size: SMALL Class: CLR DRU BRD SHM NEC WIZ MAG ENC Race: ALL |
+AC: 1 INT: +5 WIS: +5 Size: SMALL WT: 0.1 Class: CLR DRU BRD SHM NEC WIZ MAG ENC Race: ALL |
 Noble's RobesNoble's Robes
 MAGIC ITEM LORE ITEM
 Slot: CHEST
@@ -2449,13 +2449,13 @@ Attunable
 Slot: FACE
 AC: 7
 CHA: -10 HP: +25
-WT: 2.5 Size: SMALL
+Size: SMALL WT: 2.4
 Class: WAR CLR PAL SHD BRD
 Race: ALL
 |
 Enynti |
 Face |
-AC: 7 CHA: -10 HP: +25 WT: 2.5 Size: SMALL Class: WAR CLR PAL SHD BRD Race: ALL |
+AC: 7 CHA: -10 HP: +25 Size: SMALL WT: 2.4 Class: WAR CLR PAL SHD BRD Race: ALL |
 Werewolf ClawsWerewolf Claws
 MAGIC ITEM
 WT: 3.5 Size: LARGE

@@ -1,5 +1,5 @@
 # Stonebrunt_Mountains (eqlwiki.com)
-fetched: 2026-10-11
+fetched: 2026-10-12
 
 Stonebrunt Mountains - EverQuest Legends Wiki
 Jump to content
@@ -1622,8 +1622,8 @@ Warrior |
 21 |
 50% @ (1249, -373) |
 High Quality Cat PeltHigh Quality Cat Pelt
-QUEST ITEM
-WT: 3.5 Size: LARGE
+Quest
+Size: LARGE WT: 3.5
 Class: ALL
 Race: ALL
 , Tiger SkinTiger Skin
@@ -1849,8 +1849,8 @@ WT: 3.5 Size: LARGE
 Class: ALL
 Race: ALL
 , High Quality Cat PeltHigh Quality Cat Pelt
-QUEST ITEM
-WT: 3.5 Size: LARGE
+Quest
+Size: LARGE WT: 3.5
 Class: ALL
 Race: ALL
 |

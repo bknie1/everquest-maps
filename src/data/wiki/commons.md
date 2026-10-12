@@ -1,5 +1,5 @@
 # West_Commonlands (eqlwiki.com)
-fetched: 2026-10-11
+fetched: 2026-10-12
 
 West Commonlands - EverQuest Legends Wiki
 Jump to content
@@ -677,12 +677,13 @@ Sits along the lake shore by the inn. Give Mojax a Bottle of Milk. Then, Duggin 
 [[Dugg... |
 Nightfall Giant
 |
-Giant/Cyclops |
+Giant |
 Warrior |
 34-37 |
-~(-1035, -1535) confirmed approx. loc, +more |
+~(1160, 500) (likely varies) |
 Various |
-This elusive giant is confirmed to spawn near the southeast corner at (-1035, -1535) at 11PM and 7AM. He has more than o... |
+An otherwise fairly normal hill giant possessed of a very important head.
+After testing the archived info as well as se... |
 Noresa Sparkle
 |
 Qeynos Citizen |

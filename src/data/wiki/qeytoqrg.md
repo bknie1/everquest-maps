@@ -1,5 +1,5 @@
 # Qeynos_Hills (eqlwiki.com)
-fetched: 2026-10-10
+fetched: 2026-10-12
 
 Qeynos Hills - EverQuest Legends Wiki
 Jump to content
@@ -614,11 +614,12 @@ NPC |
 20 |
 15% @ (1432, -2239) |
 DaggerDagger
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
-Skill: Piercing Atk Delay: 20
-DMG: 3BACKSTAB: 3
-WT: 2.5 Size: SMALL
-Class: ALL except CLR PAL DRU MNK SHM
+Skill: 1H Piercing Atk Delay: 20
+DMG: 3 BACKSTAB: 3
+Size: SMALL WT: 2.5
+Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
 Race: ALLDMG Bonus: 10 @ lvl 50
 |
 When hailed, he speaks of the Golden Rooster bar and Blackburrow Stout. One of the possibly 24 minute spawns in Qeyn... |

@@ -1,5 +1,5 @@
 # Qeynos (eqlwiki.com)
-fetched: 2026-10-11
+fetched: 2026-10-12
 
 Qeynos - EverQuest Legends Wiki
 Jump to content
@@ -2815,11 +2815,12 @@ Guard Stald, Hanns Krieghor, Jracol Brestiage, Prak, Zannsin Resdinet |
 Sneed's Rat Infestation
 |
 Faction, Experience, Small Coin, Minor Items, DaggerDagger
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
-Skill: Piercing Atk Delay: 20
-DMG: 3BACKSTAB: 3
-WT: 2.5 Size: SMALL
-Class: ALL except CLR PAL DRU MNK SHM
+Skill: 1H Piercing Atk Delay: 20
+DMG: 3 BACKSTAB: 3
+Size: SMALL WT: 2.5
+Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
 Race: ALLDMG Bonus: 10 @ lvl 50
 , Water FlaskWater Flask
 Quest

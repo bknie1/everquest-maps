@@ -1,5 +1,5 @@
 # Nektulos_Forest (eqlwiki.com)
-fetched: 2026-10-11
+fetched: 2026-10-12
 
 Nektulos Forest - EverQuest Legends Wiki
 Jump to content
@@ -332,7 +332,7 @@ Warrior |
 Various |
 Spiderling SilkSpiderling Silk
 Quest
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Spiderling EyeSpiderling Eye
@@ -585,7 +585,7 @@ Warrior |
 Many |
 Spiderling SilkSpiderling Silk
 Quest
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Spiderling LegsSpiderling Legs

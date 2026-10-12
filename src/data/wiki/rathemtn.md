@@ -1,5 +1,5 @@
 # Rathe_Mountains (eqlwiki.com)
-fetched: 2026-10-11
+fetched: 2026-10-12
 
 Rathe Mountains - EverQuest Legends Wiki
 Jump to content
@@ -393,9 +393,9 @@ White Dragonscale CloakWhite Dragonscale Cloak
 Attunable
 Slot: BACK
 AC: 10
-WIS: +9 INT: +9 MANA: +75
+INT: +9 WIS: +9 MANA: +75
 SV COLD: +25
-WT: 1.0 Size: MEDIUM
+Size: MEDIUM WT: 1.0
 Class: ALL
 Race: ALLFocus Effect: Improved Damage III
 |

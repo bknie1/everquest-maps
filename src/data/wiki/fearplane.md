@@ -1,5 +1,5 @@
 # Plane_of_Fear (eqlwiki.com)
-fetched: 2026-10-11
+fetched: 2026-10-12
 
 Plane of Fear - EverQuest Legends Wiki
 Jump to content
@@ -240,11 +240,11 @@ Magician |
 AoE Recant Magic, Magician spells |
 Chest Group 1 |
 Wand of LavaWand of Lava
-LORE ITEM
+Lore Equipped, Attunable, Placeable
 Slot: PRIMARY SECONDARY
-Charges: 4
 Effect: Shield of Lava (Any Slot/Can Equip, Casting Time: Instant) at Level 45
-WT: 1.0 Size: SMALL
+Charges: 4
+Size: SMALL WT: 1.0
 Class: MAG
 Race: ALL
 |
@@ -271,9 +271,9 @@ Feet Group 2 |
 Nightmare HideNightmare Hide
 Attunable
 Slot: BACK
-Charges: 5
 AC: 5
-Effect: Restore Sight (Clicky, Casting Time: Instant)
+Effect: Restore Sight (Charge Clicky, Casting Time: Instant)
+Charges: 5
 Size: MEDIUM WT: 2.0
 Class: ALL
 Race: ALL
@@ -340,11 +340,11 @@ EyerazziaEyerazzia
 Lore Equipped, No Trade, Quest, Placeable
 Slot: PRIMARY
 Skill: 1H Piercing Atk Delay: 24
-DMG: 10 DMG Bonus: 11 @ lvl 50 BACKSTAB: 10
-DEX: +5 STA: +4
+DMG: 10 BACKSTAB: 10
+STA: +4 DEX: +5
 Size: MEDIUM WT: 2.5
 Class: ROG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 a shiverback |
 YES |
@@ -390,20 +390,21 @@ Warrior |
 Ghoul Root, Panic |
 Wrist Group 2 |
 Flayed Turmoilskin BeltFlayed Turmoilskin Belt
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable
 Slot: WAIST
 AC: 9
-DEX: +6 WIS: +5
-WT: 0.5 Size: SMALL
+WIS: +5 DEX: +6
+Size: SMALL WT: 0.5
 Class: SHM
 Race: ALL
 Turmoil WartsTurmoil Warts
-MAGIC ITEM
+Attunable, Quest, Placeable
 Slot: RANGE AMMO
 Skill: Throwing Atk Delay: 24
 DMG: 9
-WT: 0.3 Range: 125 Size: SMALL
-Class: ALL except CLR PAL DRU SHM
+Range: 125
+Size: SMALL WT: 0.3
+Class: WAR RNG SHD MNK BRD ROG NEC WIZ MAG ENC BST BER
 Race: ALL
 |
 a worry wraith |
@@ -413,11 +414,11 @@ Enchanter |
 Various Enchanter spells (see page) |
 Hands Group 2 |
 Wand of AllureWand of Allure
-LORE ITEM
+Lore Equipped, Attunable, Placeable
 Slot: PRIMARY SECONDARY
-Charges: 3
 Effect: Allure (Any Slot/Can Equip, Casting Time: Instant) at Level 45
-WT: 1.0 Size: SMALL
+Charges: 3
+Size: SMALL WT: 1.0
 Class: ENC
 Race: ALL
 WraithstoneWraithstone
@@ -584,8 +585,8 @@ Rune Etched BracerRune Etched Bracer
 No Trade, Quest
 Slot: WRIST
 AC: 9
-CHA: +5 WIS: +5 INT: +5
-WT: 3.0 Size: SMALL
+INT: +5 WIS: +5 CHA: +5
+Size: SMALL WT: 3.0
 Class: SHM
 Race: ALL
 Shadow Rage WristguardShadow Rage Wristguard
@@ -597,14 +598,13 @@ SV FIRE: +5 SV COLD: +5
 WT: 2.0 Size: SMALL
 Class: BER
 Race: ALL
-Shiverback-hide WristbandsShiverback-hide Wristbands
+Shiverback-Hide WristbandsShiverback-Hide Wristbands
 No Trade, Quest
 Slot: WRIST
 AC: 4
-END: 10
-DEX: +5 STA: +5 AGI: +5
+STA: +5 AGI: +5 DEX: +5 END: +10
 SV DISEASE: +5 SV POISON: +5
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: MNK
 Race: ALL
 Thorny Vine BracerThorny Vine Bracer
@@ -842,27 +842,27 @@ Anthemion GlovesAnthemion Gloves
 Lore Equipped, No Trade, Quest
 Slot: HANDS
 AC: 5
-STR: 5 DEX: 6 MANA: 20
-SV Magic: 7
-WT: 0.3 Size: SMALL
+STR: +5 DEX: +6 MANA: +20
+SV Magic: +7
+Size: SMALL WT: 0.2
 Class: BST
 Race: ALL
 |
 a scareling, a shiverback, phoboplasm |
 Hands |
-AC: 5 STR: 5 DEX: 6 MANA: 20 SV Magic: 7 WT: 0.3 Size: SMALL Class: BST Race: ALL |
+AC: 5 STR: +5 DEX: +6 MANA: +20 SV Magic: +7 Size: SMALL WT: 0.2 Class: BST Race: ALL |
 Anthemion JerkinAnthemion Jerkin
 Lore Equipped, No Trade, Quest
 Slot: CHEST
 AC: 11
-STR: 7 STA: 8 WIS: 10 AGI: 8
-WT: 0.3 Size: SMALL
+STR: +7 STA: +8 WIS: +10 AGI: +8
+Size: SMALL WT: 0.2
 Class: BST
 Race: ALL
 |
 a glare lord, a tentacle tormentor, phoboplasm |
 Chest |
-AC: 11 STR: 7 STA: 8 WIS: 10 AGI: 8 WT: 0.3 Size: SMALL Class: BST Race: ALL |
+AC: 11 STR: +7 STA: +8 WIS: +10 AGI: +8 Size: SMALL WT: 0.2 Class: BST Race: ALL |
 Anthemion LeggingsAnthemion Leggings
 Lore Equipped, No Trade, Quest
 Slot: LEGS
@@ -958,14 +958,14 @@ Apothic RobeApothic Robe
 Lore Equipped, No Trade, Quest
 Slot: CHEST
 AC: 11
-DEX: +5 STA: +12 INT: +14 MANA: +40
-WT: 1.0 Size: MEDIUM
+STA: +12 INT: +14 DEX: +5 MANA: +40
+Size: MEDIUM WT: 1.0
 Class: MAG
 Race: ALL
 |
 Amygdalan warrior, Amygdalan knight, phoboplasm |
 Chest |
-AC: 11 DEX: +5 STA: +12 INT: +14 MANA: +40 WT: 1.0 Size: MEDIUM Class: MAG Race: ALL |
+AC: 11 STA: +12 INT: +14 DEX: +5 MANA: +40 Size: MEDIUM WT: 1.0 Class: MAG Race: ALL |
 Apothic SleevesApothic Sleeves
 Lore Equipped, No Trade, Quest
 Slot: ARMS
@@ -1061,13 +1061,13 @@ No Trade, Quest
 Slot: WRIST
 AC: 3
 STR: +4 DEX: +5 MANA: +15
-WT: 0.3 Size: SMALL
+Size: SMALL WT: 0.3
 Class: NEC
 Race: ALL
 |
 a fetid fiend, a spinechiller spider, phoboplasm |
 Wrist |
-AC: 3 STR: +4 DEX: +5 MANA: +15 WT: 0.3 Size: SMALL Class: NEC Race: ALL |
+AC: 3 STR: +4 DEX: +5 MANA: +15 Size: SMALL WT: 0.3 Class: NEC Race: ALL |
 Blighted BootsBlighted Boots
 Lore Equipped, No Trade, Quest
 Slot: FEET
@@ -1213,15 +1213,15 @@ Carmine GlovesCarmine Gloves
 Lore Equipped, No Trade, Quest
 Slot: HANDS
 AC: 4
-DEX: +12 INT: +7 MANA: +15
+INT: +7 DEX: +12 MANA: +15
 SV DISEASE: +10
-WT: 0.4 Size: SMALL
+Size: SMALL WT: 0.4
 Class: WIZ
 Race: ALL
 |
 Various |
 Hands |
-AC: 4 DEX: +12 INT: +7 MANA: +15 SV DISEASE: +10 WT: 0.4 Size: SMALL Class: WIZ Race: ALL |
+AC: 4 INT: +7 DEX: +12 MANA: +15 SV DISEASE: +10 Size: SMALL WT: 0.4 Class: WIZ Race: ALL |
 Carmine PantsCarmine Pants
 Lore Equipped, No Trade, Quest
 Slot: LEGS
@@ -1265,13 +1265,13 @@ No Trade, Quest
 Slot: WRIST
 AC: 3
 STR: +2 DEX: +6 MANA: +15
-WT: 0.3 Size: SMALL
+Size: SMALL WT: 0.3
 Class: WIZ
 Race: ALL
 |
 a fetid fiend, a spinechiller spider, phoboplasm |
 Wrist |
-AC: 3 STR: +2 DEX: +6 MANA: +15 WT: 0.3 Size: SMALL Class: WIZ Race: ALL |
+AC: 3 STR: +2 DEX: +6 MANA: +15 Size: SMALL WT: 0.3 Class: WIZ Race: ALL |
 Carmine TurbanCarmine Turban
 Lore Equipped, No Trade, Quest
 Slot: HEAD
@@ -1379,18 +1379,18 @@ a spinechiller spider |
 Neck |
 AC: 4 DEX: +2 INT: +1 MANA: +10 SV DISEASE: +10 WT: 0.2 Size: SMALL Class: NEC WIZ MAG ENC Race: ALL |
 Cryosilk CloakCryosilk Cloak
-MAGIC ITEM NO DROP
+No Trade
 Slot: BACK
 AC: 5
 INT: +1 AGI: +2 MANA: +10
 SV FIRE: +10
-WT: 0.5 Size: MEDIUM
+Size: MEDIUM WT: 0.5
 Class: NEC WIZ MAG ENC
 Race: ALL
 |
 a spinechiller spider |
 Back |
-AC: 5 INT: +1 AGI: +2 MANA: +10 SV FIRE: +10 WT: 0.5 Size: MEDIUM Class: NEC WIZ MAG ENC Race: ALL |
+AC: 5 INT: +1 AGI: +2 MANA: +10 SV FIRE: +10 Size: MEDIUM WT: 0.5 Class: NEC WIZ MAG ENC Race: ALL |
 Cryosilk GlovesCryosilk Gloves
 MAGIC ITEM NO DROP
 Slot: HANDS
@@ -1443,18 +1443,18 @@ a spinechiller spider |
 Chest |
 AC: 11 DEX: +9 STA: +13 INT: +13 MANA: +35 WT: 1.0 Size: MEDIUM Class: NEC WIZ MAG ENC Race: ALL |
 Cryosilk SashCryosilk Sash
-MAGIC ITEM NO DROP
+No Trade
 Slot: WAIST
 AC: 4
 STR: +2 INT: +1 MANA: +10
 SV MAGIC: +10
-WT: 0.2 Size: SMALL
+Size: SMALL WT: 0.2
 Class: NEC WIZ MAG ENC
 Race: ALLFocus Effect: Extended Range III
 |
 a spinechiller spider |
 Waist |
-AC: 4 STR: +2 INT: +1 MANA: +10 SV MAGIC: +10 WT: 0.2 Size: SMALL Class: NEC WIZ MAG ENC Race: ALL |
+AC: 4 STR: +2 INT: +1 MANA: +10 SV MAGIC: +10 Size: SMALL WT: 0.2 Class: NEC WIZ MAG ENC Race: ALL |
 Cryosilk SleevesCryosilk Sleeves
 MAGIC ITEM NO DROP
 Slot: ARMS
@@ -1570,15 +1570,15 @@ Ethereal Mist GauntletsEthereal Mist Gauntlets
 Lore Equipped, No Trade, Quest
 Slot: HANDS
 AC: 12
-DEX: +5 INT: +5
+INT: +5 DEX: +5
 SV FIRE: +7
-WT: 3.8 Size: SMALL
+Size: SMALL WT: 3.8
 Class: CLR
 Race: ALL
 |
 a scareling, a shiverback, phoboplasm |
 Hands |
-AC: 12 DEX: +5 INT: +5 SV FIRE: +7 WT: 3.8 Size: SMALL Class: CLR Race: ALL |
+AC: 12 INT: +5 DEX: +5 SV FIRE: +7 Size: SMALL WT: 3.8 Class: CLR Race: ALL |
 Ethereal Mist GreavesEthereal Mist Greaves
 Lore Equipped, No Trade, Quest
 Slot: LEGS
@@ -1646,15 +1646,15 @@ EyerazziaEyerazzia
 Lore Equipped, No Trade, Quest, Placeable
 Slot: PRIMARY
 Skill: 1H Piercing Atk Delay: 24
-DMG: 10 DMG Bonus: 11 @ lvl 50 BACKSTAB: 10
-DEX: +5 STA: +4
+DMG: 10 BACKSTAB: 10
+STA: +4 DEX: +5
 Size: MEDIUM WT: 2.5
 Class: ROG
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 a scareling |
 Primary |
-Skill: 1H Piercing Atk Delay: 24 DMG: 10 DMG Bonus: 11 @ lvl 50 BACKSTAB: 10 DEX: +5 STA: +4 Size: MEDIUM WT: 2.5 Class: ROG Race: ALL |
+Skill: 1H Piercing Atk Delay: 24 DMG: 10 BACKSTAB: 10 STA: +4 DEX: +5 Size: MEDIUM WT: 2.5 Class: ROG Race: ALL |
 Fearsome ShieldFearsome Shield
 MAGIC ITEM LORE ITEM NO DROP
 Slot: SECONDARY
@@ -1670,17 +1670,17 @@ a dracoliche |
 Secondary |
 AC: 40 STR: +15 STA: +15 SV DISEASE: +15 SV POISON: +15 Effect: Aura of Battle (Must Equip, Casting Time: Instant) WT: 0.1 Size: LARGE Class: WAR CLR PAL SHD Race: ALL |
 Flayed Turmoilskin BeltFlayed Turmoilskin Belt
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable
 Slot: WAIST
 AC: 9
-DEX: +6 WIS: +5
-WT: 0.5 Size: SMALL
+WIS: +5 DEX: +6
+Size: SMALL WT: 0.5
 Class: SHM
 Race: ALL
 |
 a turmoil toad |
 Waist |
-AC: 9 DEX: +6 WIS: +5 WT: 0.5 Size: SMALL Class: SHM Race: ALL |
+AC: 9 WIS: +5 DEX: +6 Size: SMALL WT: 0.5 Class: SHM Race: ALL |
 Fluxbladed AxeFluxbladed Axe
 MAGIC ITEM LORE ITEM NO DROP
 Slot: PRIMARY SECONDARY
@@ -1871,13 +1871,13 @@ Slot: CHEST
 AC: 29
 STR: +9 DEX: +13 CHA: +9
 SV DISEASE: +10
-WT: 7.5 Size: LARGE
+Size: LARGE WT: 7.5
 Class: BRD
 Race: ALL
 |
 Amygdalan warrior, Amygdalan knight, phoboplasm |
 Chest |
-AC: 29 STR: +9 DEX: +13 CHA: +9 SV DISEASE: +10 WT: 7.5 Size: LARGE Class: BRD Race: ALL |
+AC: 29 STR: +9 DEX: +13 CHA: +9 SV DISEASE: +10 Size: LARGE WT: 7.5 Class: BRD Race: ALL |
 Imbrued Platemail GauntletsImbrued Platemail Gauntlets
 Lore Equipped, No Trade, Quest
 Slot: HANDS
@@ -1933,40 +1933,40 @@ Indicolite BootsIndicolite Boots
 Lore Equipped, No Trade, Quest
 Slot: FEET
 AC: 20
-WIS: +5 INT: +5 AGI: +5
+INT: +5 WIS: +5 AGI: +5
 SV DISEASE: +15 SV POISON: +15
-WT: 4.9 Size: MEDIUM
+Size: MEDIUM WT: 4.9
 Class: WAR
 Race: ALL
 |
 a gorgon, a nightmare, phoboplasm |
 Feet |
-AC: 20 WIS: +5 INT: +5 AGI: +5 SV DISEASE: +15 SV POISON: +15 WT: 4.9 Size: MEDIUM Class: WAR Race: ALL |
+AC: 20 INT: +5 WIS: +5 AGI: +5 SV DISEASE: +15 SV POISON: +15 Size: MEDIUM WT: 4.9 Class: WAR Race: ALL |
 Indicolite BracerIndicolite Bracer
 No Trade, Quest
 Slot: WRIST
 AC: 12
 STR: +3 DEX: +3
 SV FIRE: +7 SV COLD: +7 SV MAGIC: +7
-WT: 3.0 Size: SMALL
+Size: SMALL WT: 3.0
 Class: WAR
 Race: ALL
 |
 a fetid fiend, a spinechiller spider, phoboplasm |
 Wrist |
-AC: 12 STR: +3 DEX: +3 SV FIRE: +7 SV COLD: +7 SV MAGIC: +7 WT: 3.0 Size: SMALL Class: WAR Race: ALL |
+AC: 12 STR: +3 DEX: +3 SV FIRE: +7 SV COLD: +7 SV MAGIC: +7 Size: SMALL WT: 3.0 Class: WAR Race: ALL |
 Indicolite BreastplateIndicolite Breastplate
 Lore Equipped, No Trade, Quest
 Slot: CHEST
 AC: 35
-STR: +15 DEX: +15 STA: +15
-WT: 7.5 Size: LARGE
+STR: +15 STA: +15 DEX: +15
+Size: LARGE WT: 7.5
 Class: WAR
 Race: ALL
 |
 Amygdalan warrior, Amygdalan knight, phoboplasm |
 Chest |
-AC: 35 STR: +15 DEX: +15 STA: +15 WT: 7.5 Size: LARGE Class: WAR Race: ALL |
+AC: 35 STR: +15 STA: +15 DEX: +15 Size: LARGE WT: 7.5 Class: WAR Race: ALL |
 Indicolite GauntletsIndicolite Gauntlets
 Lore Equipped, No Trade, Quest
 Slot: HANDS
@@ -2115,16 +2115,16 @@ Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Lustrous Russet BootsLustrous Russet Boots
 Lore Equipped, No Trade
 Slot: FEET
-AC: 15
-WIS: +5 INT: +5 AGI: +5
+AC: 14
+INT: +5 WIS: +5 AGI: +5
 SV DISEASE: +15 SV POISON: +15
-WT: 4.9 Size: MEDIUM
+Size: MEDIUM WT: 4.9
 Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
 Race: ALL
 |
 a boogeyman, a phantasm, phoboplasm |
 Feet |
-AC: 15 WIS: +5 INT: +5 AGI: +5 SV DISEASE: +15 SV POISON: +15 WT: 4.9 Size: MEDIUM Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
+AC: 14 INT: +5 WIS: +5 AGI: +5 SV DISEASE: +15 SV POISON: +15 Size: MEDIUM WT: 4.9 Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
 Lustrous Russet BracerLustrous Russet Bracer
 No Trade
 Slot: WRIST
@@ -2142,26 +2142,26 @@ Lustrous Russet BreastplateLustrous Russet Breastplate
 Lore Equipped, No Trade
 Slot: CHEST
 AC: 26
-STR: +15 DEX: +15 STA: +15
-WT: 7.5 Size: LARGE
+STR: +15 STA: +15 DEX: +15
+Size: LARGE WT: 7.5
 Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
 Race: ALL
 |
 a glare lord, a tentacle tormentor, phoboplasm |
 Chest |
-AC: 26 STR: +15 DEX: +15 STA: +15 WT: 7.5 Size: LARGE Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
+AC: 26 STR: +15 STA: +15 DEX: +15 Size: LARGE WT: 7.5 Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
 Lustrous Russet GauntletsLustrous Russet Gauntlets
 Lore Equipped, No Trade
 Slot: HANDS
-AC: 12
-DEX: +5 STA: +5 HP: +50
-WT: 3.8 Size: SMALL
+AC: 11
+STA: +5 DEX: +5 HP: +50
+Size: SMALL WT: 3.8
 Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
 Race: ALL
 |
 a scareling, a shiverback, phoboplasm |
 Hands |
-AC: 12 DEX: +5 STA: +5 HP: +50 WT: 3.8 Size: SMALL Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
+AC: 11 STA: +5 DEX: +5 HP: +50 Size: SMALL WT: 3.8 Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
 Lustrous Russet GreavesLustrous Russet Greaves
 Lore Equipped, No Trade
 Slot: LEGS
@@ -2264,26 +2264,26 @@ Lore Equipped, No Trade
 Slot: LEGS
 AC: 5
 STA: +9 INT: +5 WIS: +5
-SV.Fire: +8
-WT: 0.1 Size: MEDIUM
+SV Fire: +7
+Size: MEDIUM WT: 0.1
 Class: DRU MNK ROG NEC WIZ MAG ENC BST
 Race: ALL
 |
 phoboplasm |
 Legs |
-AC: 5 STA: +9 INT: +5 WIS: +5 SV.Fire: +8 WT: 0.1 Size: MEDIUM Class: DRU MNK ROG NEC WIZ MAG ENC BST Race: ALL |
+AC: 5 STA: +9 INT: +5 WIS: +5 SV Fire: +7 Size: MEDIUM WT: 0.1 Class: DRU MNK ROG NEC WIZ MAG ENC BST Race: ALL |
 Midnight Clad StrapsMidnight Clad Straps
 Lore Equipped, No Trade
 Slot: CHEST
 AC: 10
 STR: +13 STA: +13 INT: +13 WIS: +13
-WT: 0.5 Size: MEDIUM
+Size: MEDIUM WT: 0.5
 Class: DRU MNK ROG NEC WIZ MAG ENC BST
 Race: ALL
 |
 Amygdalan warrior, Amygdalan knight, phoboplasm |
 Chest |
-AC: 10 STR: +13 STA: +13 INT: +13 WIS: +13 WT: 0.5 Size: MEDIUM Class: DRU MNK ROG NEC WIZ MAG ENC BST Race: ALL |
+AC: 10 STR: +13 STA: +13 INT: +13 WIS: +13 Size: MEDIUM WT: 0.5 Class: DRU MNK ROG NEC WIZ MAG ENC BST Race: ALL |
 Midnight Clad WristbandsMidnight Clad Wristbands
 No Trade
 Slot: WRIST
@@ -2325,16 +2325,16 @@ AC: 20 STR: +5 DEX: +5 STA: +5 Size: MEDIUM WT: 7.0 Class: WAR Race: ALL |
 Nightmare HideNightmare Hide
 Attunable
 Slot: BACK
-Charges: 5
 AC: 5
-Effect: Restore Sight (Clicky, Casting Time: Instant)
+Effect: Restore Sight (Charge Clicky, Casting Time: Instant)
+Charges: 5
 Size: MEDIUM WT: 2.0
 Class: ALL
 Race: ALL
 |
 a nightmare |
 Back |
-Charges: 5 AC: 5 Effect: Restore Sight (Clicky, Casting Time: Instant) Size: MEDIUM WT: 2.0 Class: ALL Race: ALL |
+AC: 5 Effect: Restore Sight (Charge Clicky, Casting Time: Instant) Charges: 5 Size: MEDIUM WT: 2.0 Class: ALL Race: ALL |
 Pauldrons of FerocityPauldrons of Ferocity
 MAGIC ITEM LORE ITEM NO DROP
 Slot: SHOULDERS
@@ -2390,14 +2390,14 @@ Rune Etched BracerRune Etched Bracer
 No Trade, Quest
 Slot: WRIST
 AC: 9
-CHA: +5 WIS: +5 INT: +5
-WT: 3.0 Size: SMALL
+INT: +5 WIS: +5 CHA: +5
+Size: SMALL WT: 3.0
 Class: SHM
 Race: ALL
 |
 a decrepit warder, a samhain, phoboplasm |
 Wrist |
-AC: 9 CHA: +5 WIS: +5 INT: +5 WT: 3.0 Size: SMALL Class: SHM Race: ALL |
+AC: 9 INT: +5 WIS: +5 CHA: +5 Size: SMALL WT: 3.0 Class: SHM Race: ALL |
 Rune Etched ChestplateRune Etched Chestplate
 Lore Equipped, No Trade, Quest
 Slot: CHEST
@@ -2411,18 +2411,18 @@ a glare lord, a tentacle tormentor, phoboplasm |
 Chest |
 AC: 26 STA: +9 WIS: +13 MANA: +25 WT: 7.5 Size: LARGE Class: SHM Race: ALL |
 Rune Etched GauntletsRune Etched Gauntlets
-MAGIC ITEM NO TRADE
+Lore Equipped, No Trade, Quest
 Slot: HANDS
 AC: 11
 STR: +5 DEX: +5 MANA: +20
 SV FIRE: +7
-WT: 3.8 Size: SMALL
+Size: SMALL WT: 3.8
 Class: SHM
 Race: ALL
 |
 a scareling, a shiverback, phoboplasm |
 Hands |
-AC: 11 STR: +5 DEX: +5 MANA: +20 SV FIRE: +7 WT: 3.8 Size: SMALL Class: SHM Race: ALL |
+AC: 11 STR: +5 DEX: +5 MANA: +20 SV FIRE: +7 Size: SMALL WT: 3.8 Class: SHM Race: ALL |
 Rune Etched GreavesRune Etched Greaves
 Lore Equipped, No Trade, Quest
 Slot: LEGS
@@ -2500,15 +2500,15 @@ Shadow Rage GlovesShadow Rage Gloves
 Lore Equipped, No Trade, Quest
 Slot: HANDS
 AC: 10
-STR: 6 DEX: 5 AGI: 2 END: 10
-SV Magic: 8
-WT: 2.7 Size: SMALL
+STR: +6 AGI: +2 DEX: +5 END: +10
+SV Magic: +8
+Size: SMALL WT: 2.8
 Class: BER
 Race: ALL
 |
 a scareling, a shiverback, phoboplasm |
 Hands |
-AC: 10 STR: 6 DEX: 5 AGI: 2 END: 10 SV Magic: 8 WT: 2.7 Size: SMALL Class: BER Race: ALL |
+AC: 10 STR: +6 AGI: +2 DEX: +5 END: +10 SV Magic: +8 Size: SMALL WT: 2.8 Class: BER Race: ALL |
 Shadow Rage HelmShadow Rage Helm
 Lore Equipped, No Trade, Quest
 Slot: HEAD
@@ -2551,14 +2551,14 @@ Shadow Rage TunicShadow Rage Tunic
 Lore Equipped, No Trade, Quest
 Slot: CHEST
 AC: 23
-STR: 14 AGI: 14 DEX: 14
-WT: 6.5 Size: LARGE
+STR: +14 AGI: +14 DEX: +14
+Size: LARGE WT: 6.5
 Class: BER
 Race: ALL
 |
 a glare lord, a tentacle tormentor, phoboplasm |
 Chest |
-AC: 23 STR: 14 AGI: 14 DEX: 14 WT: 6.5 Size: LARGE Class: BER Race: ALL |
+AC: 23 STR: +14 AGI: +14 DEX: +14 Size: LARGE WT: 6.5 Class: BER Race: ALL |
 Shadow Rage WristguardShadow Rage Wristguard
 No Trade, Quest
 Slot: WRIST
@@ -2596,7 +2596,7 @@ Race: ALL
 Various |
 Secondary |
 AC: 18 SV FIRE: +20 SV DISEASE: +20 SV COLD: +20 SV MAGIC: +20 SV POISON: +20 Size: MEDIUM WT: 0.5 Class: WAR PAL RNG SHD MNK ROG Race: ALL |
-Shiverback-hide ArmbandsShiverback-hide Armbands
+Shiverback-Hide ArmbandsShiverback-Hide Armbands
 Lore Equipped, No Trade, Quest
 Slot: ARMS
 AC: 5
@@ -2609,7 +2609,7 @@ Race: ALL
 phoboplasm |
 Arms |
 AC: 5 STR: +5 STA: +9 CHA: +5 SV COLD: +7 WT: 0.1 Size: SMALL Class: MNK Race: ALL |
-Shiverback-hide BootsShiverback-hide Boots
+Shiverback-Hide BootsShiverback-Hide Boots
 Lore Equipped, No Trade, Quest
 Slot: FEET
 AC: 6
@@ -2621,21 +2621,21 @@ Race: ALL
 a boogeyman, a phantasm, phoboplasm |
 Feet |
 AC: 6 STR: +5 STA: +9 AGI: +9 WT: 0.1 Size: SMALL Class: MNK Race: ALL |
-Shiverback-hide GlovesShiverback-hide Gloves
+Shiverback-Hide GlovesShiverback-Hide Gloves
 Lore Equipped, No Trade, Quest
 Slot: HANDS
 AC: 5
-STR: +5 DEX: +9 INT: +5
+STR: +5 INT: +5 DEX: +9 END: +15
 SV MAGIC: +7
-Effect: Serpent Sight (Worn, Casting Time: Instant)
-WT: 0.1 Size: SMALL
+Effect: Serpent Sight (Worn)
+Size: SMALL WT: 0.1
 Class: MNK
 Race: ALL
 |
 a scareling, a shiverback, phoboplasm |
 Hands |
-AC: 5 STR: +5 DEX: +9 INT: +5 SV MAGIC: +7 Effect: Serpent Sight (Worn, Casting Time: Instant) WT: 0.1 Size: SMALL Class: MNK Race: ALL |
-Shiverback-hide JerkinShiverback-hide Jerkin
+AC: 5 STR: +5 INT: +5 DEX: +9 END: +15 SV MAGIC: +7 Effect: Serpent Sight (Worn) Size: SMALL WT: 0.1 Class: MNK Race: ALL |
+Shiverback-Hide JerkinShiverback-Hide Jerkin
 Lore Equipped, No Trade, Quest
 Slot: CHEST
 AC: 11
@@ -2647,7 +2647,7 @@ Race: ALL
 a glare lord, a tentacle tormentor, phoboplasm |
 Chest |
 AC: 11 STR: +13 DEX: +9 AGI: +9 WT: 0.5 Size: MEDIUM Class: MNK Race: ALL |
-Shiverback-hide LeggingsShiverback-hide Leggings
+Shiverback-Hide LeggingsShiverback-Hide Leggings
 Lore Equipped, No Trade, Quest
 Slot: LEGS
 AC: 5
@@ -2660,20 +2660,19 @@ Race: ALL
 phoboplasm |
 Legs |
 AC: 5 WIS: +5 AGI: +5 SV FIRE: +7 WT: 0.1 Size: MEDIUM Class: MNK Race: ALL |
-Shiverback-hide WristbandsShiverback-hide Wristbands
+Shiverback-Hide WristbandsShiverback-Hide Wristbands
 No Trade, Quest
 Slot: WRIST
 AC: 4
-END: 10
-DEX: +5 STA: +5 AGI: +5
+STA: +5 AGI: +5 DEX: +5 END: +10
 SV DISEASE: +5 SV POISON: +5
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: MNK
 Race: ALL
 |
 a decrepit warder, a samhain, phoboplasm |
 Wrist |
-AC: 4 END: 10 DEX: +5 STA: +5 AGI: +5 SV DISEASE: +5 SV POISON: +5 WT: 0.1 Size: SMALL Class: MNK Race: ALL |
+AC: 4 STA: +5 AGI: +5 DEX: +5 END: +10 SV DISEASE: +5 SV POISON: +5 Size: SMALL WT: 0.1 Class: MNK Race: ALL |
 Slime Blood of Cazic-ThuleSlime Blood of Cazic-Thule
 Lore Equipped, Attunable, Quest
 Slot: HANDS
@@ -2748,18 +2747,18 @@ a spinechiller spider |
 (None) |
 WT: 0.5 Size: SMALL Class: ALL Race: ALL |
 Thorny Vine BootsThorny Vine Boots
-MAGIC ITEM NO TRADE
+Lore Equipped, No Trade, Quest
 Slot: FEET
 AC: 14
 STR: +5 STA: +5 AGI: +9
 SV POISON: +7
-WT: 4.9 Size: MEDIUM
+Size: MEDIUM WT: 4.9
 Class: RNG
 Race: ALL
 |
 Various |
 Feet |
-AC: 14 STR: +5 STA: +5 AGI: +9 SV POISON: +7 WT: 4.9 Size: MEDIUM Class: RNG Race: ALL |
+AC: 14 STR: +5 STA: +5 AGI: +9 SV POISON: +7 Size: MEDIUM WT: 4.9 Class: RNG Race: ALL |
 Thorny Vine BracerThorny Vine Bracer
 No Trade, Quest
 Slot: WRIST
@@ -2785,18 +2784,18 @@ a glare lord, a tentacle tormentor, phoboplasm |
 Chest |
 AC: 26 STR: +9 WIS: +13 HP: +50 WT: 7.5 Size: LARGE Class: RNG Race: ALL |
 Thorny Vine GauntletsThorny Vine Gauntlets
-MAGIC ITEM NO TRADE
+Lore Equipped, No Trade, Quest
 Slot: HANDS
 AC: 11
 STR: +9 DEX: +9
 SV FIRE: +7
-WT: 3.8 Size: SMALL
+Size: SMALL WT: 3.8
 Class: RNG
 Race: ALL
 |
 a scareling, a shiverback, phoboplasm |
 Hands |
-AC: 11 STR: +9 DEX: +9 SV FIRE: +7 WT: 3.8 Size: SMALL Class: RNG Race: ALL |
+AC: 11 STR: +9 DEX: +9 SV FIRE: +7 Size: SMALL WT: 3.8 Class: RNG Race: ALL |
 Thorny Vine GreavesThorny Vine Greaves
 Lore Equipped, No Trade, Quest
 Slot: LEGS
@@ -2849,17 +2848,18 @@ a phantasm |
 Primary, Secondary |
 Charges: 1 Effect: Cazic Portal (Casting Time: Instant) at Level 45 WT: 1.0 Size: SMALL Class: WIZ Race: ALL |
 Turmoil WartsTurmoil Warts
-MAGIC ITEM
+Attunable, Quest, Placeable
 Slot: RANGE AMMO
 Skill: Throwing Atk Delay: 24
 DMG: 9
-WT: 0.3 Range: 125 Size: SMALL
-Class: ALL except CLR PAL DRU SHM
+Range: 125
+Size: SMALL WT: 0.3
+Class: WAR RNG SHD MNK BRD ROG NEC WIZ MAG ENC BST BER
 Race: ALL
 |
 a turmoil toad |
 Range, Ammo |
-Skill: Throwing Atk Delay: 24 DMG: 9 WT: 0.3 Range: 125 Size: SMALL Class: ALL except CLR PAL DRU SHM Race: ALL |
+Skill: Throwing Atk Delay: 24 DMG: 9 Range: 125 Size: SMALL WT: 0.3 Class: WAR RNG SHD MNK BRD ROG NEC WIZ MAG ENC BST BER Race: ALL |
 Umbral Platemail BootsUmbral Platemail Boots
 Lore Equipped, No Trade, Quest
 Slot: FEET
@@ -2903,13 +2903,13 @@ Slot: HANDS
 AC: 13
 STR: +5 INT: +5 MANA: +35
 SV COLD: +10
-WT: 3.8 Size: SMALL
+Size: SMALL WT: 3.8
 Class: SHD
 Race: ALL
 |
 Various |
 Hands |
-AC: 13 STR: +5 INT: +5 MANA: +35 SV COLD: +10 WT: 3.8 Size: SMALL Class: SHD Race: ALL |
+AC: 13 STR: +5 INT: +5 MANA: +35 SV COLD: +10 Size: SMALL WT: 3.8 Class: SHD Race: ALL |
 Umbral Platemail GreavesUmbral Platemail Greaves
 Lore Equipped, No Trade, Quest
 Slot: LEGS
@@ -3100,15 +3100,15 @@ Vermiculated GlovesVermiculated Gloves
 Lore Equipped, No Trade, Quest
 Slot: HANDS
 AC: 6
-DEX: +13 INT: +5
+INT: +5 DEX: +13
 SV DISEASE: +7
-WT: 5.5 Size: SMALL
+Size: SMALL WT: 5.5
 Class: DRU
 Race: ALL
 |
 a scareling, a shiverback, phoboplasm |
 Hands |
-AC: 6 DEX: +13 INT: +5 SV DISEASE: +7 WT: 5.5 Size: SMALL Class: DRU Race: ALL |
+AC: 6 INT: +5 DEX: +13 SV DISEASE: +7 Size: SMALL WT: 5.5 Class: DRU Race: ALL |
 Vermiculated LeggingsVermiculated Leggings
 Lore Equipped, No Trade, Quest
 Slot: LEGS
@@ -3135,17 +3135,17 @@ a glare lord, a tentacle tormentor, phoboplasm |
 Chest |
 AC: 15 STR: +9 STA: +9 WIS: +13 HP: +35 WT: 9.0 Size: MEDIUM Class: DRU Race: ALL |
 Wand of AllureWand of Allure
-LORE ITEM
+Lore Equipped, Attunable, Placeable
 Slot: PRIMARY SECONDARY
-Charges: 3
 Effect: Allure (Any Slot/Can Equip, Casting Time: Instant) at Level 45
-WT: 1.0 Size: SMALL
+Charges: 3
+Size: SMALL WT: 1.0
 Class: ENC
 Race: ALL
 |
 a worry wraith |
 Primary, Secondary |
-Charges: 3 Effect: Allure (Casting Time: Instant) at Level 45 WT: 1.0 Size: SMALL Class: ENC Race: ALL |
+Effect: Allure (Casting Time: Instant) at Level 45 Charges: 3 Size: SMALL WT: 1.0 Class: ENC Race: ALL |
 Wand of DarknessWand of Darkness
 LORE ITEM
 Slot: PRIMARY SECONDARY
@@ -3159,17 +3159,17 @@ a nightmare |
 Primary, Secondary |
 Charges: 4 Effect: Cascading Darkness (Casting Time: Instant) at Level 45 WT: 1.0 Size: SMALL Class: NEC Race: ALL |
 Wand of LavaWand of Lava
-LORE ITEM
+Lore Equipped, Attunable, Placeable
 Slot: PRIMARY SECONDARY
-Charges: 4
 Effect: Shield of Lava (Any Slot/Can Equip, Casting Time: Instant) at Level 45
-WT: 1.0 Size: SMALL
+Charges: 4
+Size: SMALL WT: 1.0
 Class: MAG
 Race: ALL
 |
 a glare lord |
 Primary, Secondary |
-Charges: 4 Effect: Shield of Lava (Casting Time: Instant) at Level 45 WT: 1.0 Size: SMALL Class: MAG Race: ALL |
+Effect: Shield of Lava (Casting Time: Instant) at Level 45 Charges: 4 Size: SMALL WT: 1.0 Class: MAG Race: ALL |
 Withered Totem of WiddershinsWithered Totem of Widdershins
 MAGIC ITEM
 Slot: PRIMARY
@@ -3225,15 +3225,15 @@ Woven Shadow GauntletsWoven Shadow Gauntlets
 Lore Equipped, No Trade, Quest
 Slot: HANDS
 AC: 11
-STR: +5 DEX: +5
+STR: +5 DEX: +5 END: +10
 SV MAGIC: +10
-WT: 3.8 Size: SMALL
+Size: SMALL WT: 3.8
 Class: ROG
 Race: ALL
 |
 Various |
 Hands |
-AC: 11 STR: +5 DEX: +5 SV MAGIC: +10 WT: 3.8 Size: SMALL Class: ROG Race: ALL |
+AC: 11 STR: +5 DEX: +5 END: +10 SV MAGIC: +10 Size: SMALL WT: 3.8 Class: ROG Race: ALL |
 Woven Shadow GreavesWoven Shadow Greaves
 Lore Equipped, No Trade, Quest
 Slot: LEGS

@@ -1,5 +1,5 @@
 # Ak'Anon (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-12
 
 Ak'Anon - EverQuest Legends Wiki
 Jump to content
@@ -915,7 +915,7 @@ Warrior |
 ? |
 Spiderling SilkSpiderling Silk
 Quest
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -1364,7 +1364,8 @@ Warrior |
 6 |
 (336, 21), (1290, -735), (1456, -197) |
 BandagesBandages
-WT: 0.5 Size: SMALL
+Quest
+Size: SMALL WT: 0.5
 Class: ALL
 Race: ALL
 |

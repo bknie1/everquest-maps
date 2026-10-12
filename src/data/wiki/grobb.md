@@ -1,5 +1,5 @@
 # Grobb (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-12
 
 Grobb - EverQuest Legends Wiki
 Jump to content
@@ -941,12 +941,13 @@ Warrior |
 40 |
 100% @ (618, -220) |
 AxeAxe
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 31
-DMG: 6
-WT: 6.5 Size: MEDIUM
-Class: WAR PAL RNG SHD BRD ROG SHM
-Race: ALLDMG Bonus: 15 @ lvl 50
+DMG: 6 DMG Bonus: 13
+Size: MEDIUM WT: 6.5
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
 |
 Description needed. |
 Garklog
@@ -1288,16 +1289,17 @@ Near Carver Cagrek and the entrance to the Shaman guild. |
 Items - Found 1 items that drop in Grobb:
 Item Name | Drops From | Slot | Stats |
 AxeAxe
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 31
-DMG: 6
-WT: 6.5 Size: MEDIUM
-Class: WAR PAL RNG SHD BRD ROG SHM
-Race: ALLDMG Bonus: 15 @ lvl 50
+DMG: 6 DMG Bonus: 13
+Size: MEDIUM WT: 6.5
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
 |
 Exterminator Filrog |
 1H Slashing |
-Atk Delay: 31 DMG: 6 WT: 6.5 Size: MEDIUM Class: WAR PAL RNG SHD BRD ROG SHM Race: ALL |
+Atk Delay: 31 DMG: 6 DMG Bonus: 13 Size: MEDIUM WT: 6.5 Class: WAR PAL RNG SHD BRD ROG Race: ALL |
 Retrieved from "https://eqlwiki.com/index.php?title=Grobb&oldid=158514"
 Categories: Zones
 Loc Mapped

@@ -1,5 +1,5 @@
 # Steamfont_Mountains (eqlwiki.com)
-fetched: 2026-10-11
+fetched: 2026-10-12
 
 Steamfont Mountains - EverQuest Legends Wiki
 Jump to content
@@ -357,8 +357,8 @@ WT: 3.5 Size: LARGE
 Class: ALL
 Race: ALL
 , High Quality Cat PeltHigh Quality Cat Pelt
-QUEST ITEM
-WT: 3.5 Size: LARGE
+Quest
+Size: LARGE WT: 3.5
 Class: ALL
 Race: ALL
 |
@@ -404,7 +404,7 @@ Warrior |
 Various |
 Spiderling SilkSpiderling Silk
 Quest
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Spiderling EyeSpiderling Eye
@@ -578,8 +578,8 @@ WT: 3.5 Size: LARGE
 Class: ALL
 Race: ALL
 , High Quality Cat PeltHigh Quality Cat Pelt
-QUEST ITEM
-WT: 3.5 Size: LARGE
+Quest
+Size: LARGE WT: 3.5
 Class: ALL
 Race: ALL
 |

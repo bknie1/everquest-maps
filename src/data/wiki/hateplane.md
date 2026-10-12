@@ -1,5 +1,5 @@
 # Plane_of_Hate (eqlwiki.com)
-fetched: 2026-10-11
+fetched: 2026-10-12
 
 Plane of Hate - EverQuest Legends Wiki
 Jump to content
@@ -779,8 +779,8 @@ Rune Etched BracerRune Etched Bracer
 No Trade, Quest
 Slot: WRIST
 AC: 9
-CHA: +5 WIS: +5 INT: +5
-WT: 3.0 Size: SMALL
+INT: +5 WIS: +5 CHA: +5
+Size: SMALL WT: 3.0
 Class: SHM
 Race: ALL
 Shadow Rage WristguardShadow Rage Wristguard
@@ -792,14 +792,13 @@ SV FIRE: +5 SV COLD: +5
 WT: 2.0 Size: SMALL
 Class: BER
 Race: ALL
-Shiverback-hide WristbandsShiverback-hide Wristbands
+Shiverback-Hide WristbandsShiverback-Hide Wristbands
 No Trade, Quest
 Slot: WRIST
 AC: 4
-END: 10
-DEX: +5 STA: +5 AGI: +5
+STA: +5 AGI: +5 DEX: +5 END: +10
 SV DISEASE: +5 SV POISON: +5
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: MNK
 Race: ALL
 Thorny Vine BracerThorny Vine Bracer
@@ -947,8 +946,8 @@ Lore Equipped, No Trade
 Slot: LEGS
 AC: 5
 STA: +9 INT: +5 WIS: +5
-SV.Fire: +8
-WT: 0.1 Size: MEDIUM
+SV Fire: +7
+Size: MEDIUM WT: 0.1
 Class: DRU MNK ROG NEC WIZ MAG ENC BST
 Race: ALL
 Umbral Platemail GreavesUmbral Platemail Greaves
@@ -1244,11 +1243,13 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , Fire EmeraldFire Emerald
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , SapphireSapphire
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -1325,7 +1326,7 @@ Slot: CHEST
 AC: 29
 STR: +9 DEX: +13 CHA: +9
 SV DISEASE: +10
-WT: 7.5 Size: LARGE
+Size: LARGE WT: 7.5
 Class: BRD
 Race: ALL
 , Martune RapierMartune Rapier
@@ -1360,7 +1361,7 @@ Slot: CHEST
 AC: 29
 STR: +9 DEX: +13 CHA: +9
 SV DISEASE: +10
-WT: 7.5 Size: LARGE
+Size: LARGE WT: 7.5
 Class: BRD
 Race: ALL
 , Martune RapierMartune Rapier
@@ -1422,27 +1423,27 @@ Anthemion GlovesAnthemion Gloves
 Lore Equipped, No Trade, Quest
 Slot: HANDS
 AC: 5
-STR: 5 DEX: 6 MANA: 20
-SV Magic: 7
-WT: 0.3 Size: SMALL
+STR: +5 DEX: +6 MANA: +20
+SV Magic: +7
+Size: SMALL WT: 0.2
 Class: BST
 Race: ALL
 |
 a haunted chest |
 Hands |
-AC: 5 STR: 5 DEX: 6 MANA: 20 SV Magic: 7 WT: 0.3 Size: SMALL Class: BST Race: ALL |
+AC: 5 STR: +5 DEX: +6 MANA: +20 SV Magic: +7 Size: SMALL WT: 0.2 Class: BST Race: ALL |
 Anthemion JerkinAnthemion Jerkin
 Lore Equipped, No Trade, Quest
 Slot: CHEST
 AC: 11
-STR: 7 STA: 8 WIS: 10 AGI: 8
-WT: 0.3 Size: SMALL
+STR: +7 STA: +8 WIS: +10 AGI: +8
+Size: SMALL WT: 0.2
 Class: BST
 Race: ALL
 |
 a haunted chest |
 Chest |
-AC: 11 STR: 7 STA: 8 WIS: 10 AGI: 8 WT: 0.3 Size: SMALL Class: BST Race: ALL |
+AC: 11 STR: +7 STA: +8 WIS: +10 AGI: +8 Size: SMALL WT: 0.2 Class: BST Race: ALL |
 Anthemion LeggingsAnthemion Leggings
 Lore Equipped, No Trade, Quest
 Slot: LEGS
@@ -1538,14 +1539,14 @@ Apothic RobeApothic Robe
 Lore Equipped, No Trade, Quest
 Slot: CHEST
 AC: 11
-DEX: +5 STA: +12 INT: +14 MANA: +40
-WT: 1.0 Size: MEDIUM
+STA: +12 INT: +14 DEX: +5 MANA: +40
+Size: MEDIUM WT: 1.0
 Class: MAG
 Race: ALL
 |
 a haunted chest |
 Chest |
-AC: 11 DEX: +5 STA: +12 INT: +14 MANA: +40 WT: 1.0 Size: MEDIUM Class: MAG Race: ALL |
+AC: 11 STA: +12 INT: +14 DEX: +5 MANA: +40 Size: MEDIUM WT: 1.0 Class: MAG Race: ALL |
 Apothic SleevesApothic Sleeves
 Lore Equipped, No Trade, Quest
 Slot: ARMS
@@ -1663,13 +1664,13 @@ No Trade, Quest
 Slot: WRIST
 AC: 3
 STR: +4 DEX: +5 MANA: +15
-WT: 0.3 Size: SMALL
+Size: SMALL WT: 0.3
 Class: NEC
 Race: ALL
 |
 Various |
 Wrist |
-AC: 3 STR: +4 DEX: +5 MANA: +15 WT: 0.3 Size: SMALL Class: NEC Race: ALL |
+AC: 3 STR: +4 DEX: +5 MANA: +15 Size: SMALL WT: 0.3 Class: NEC Race: ALL |
 Blighted BootsBlighted Boots
 Lore Equipped, No Trade, Quest
 Slot: FEET
@@ -1751,15 +1752,15 @@ BloodmoonBloodmoon
 Lore Equipped, No Trade, Placeable
 Slot: PRIMARY
 Skill: 1H Slashing Atk Delay: 28
-DMG: 18 DMG Bonus: 13 @ lvl 50
+DMG: 18
 STR: +10
 Size: MEDIUM WT: 3.0
 Class: SHD
-Race: ALLFocus Effect: Improved Vampirism III
+Race: ALLDMG Bonus: 14 @ lvl 50Focus Effect: Improved Vampirism III
 |
 Lord of Ire |
 1H Slashing |
-Atk Delay: 28 DMG: 18 DMG Bonus: 13 @ lvl 50 STR: +10 Size: MEDIUM WT: 3.0 Class: SHD Race: ALL |
+Atk Delay: 28 DMG: 18 STR: +10 Size: MEDIUM WT: 3.0 Class: SHD Race: ALL |
 Boots of the RighteousBoots of the Righteous
 MAGIC ITEM LORE ITEM NO DROP
 Slot: FEET
@@ -1879,15 +1880,15 @@ Carmine GlovesCarmine Gloves
 Lore Equipped, No Trade, Quest
 Slot: HANDS
 AC: 4
-DEX: +12 INT: +7 MANA: +15
+INT: +7 DEX: +12 MANA: +15
 SV DISEASE: +10
-WT: 0.4 Size: SMALL
+Size: SMALL WT: 0.4
 Class: WIZ
 Race: ALL
 |
 a haunted chest |
 Hands |
-AC: 4 DEX: +12 INT: +7 MANA: +15 SV DISEASE: +10 WT: 0.4 Size: SMALL Class: WIZ Race: ALL |
+AC: 4 INT: +7 DEX: +12 MANA: +15 SV DISEASE: +10 Size: SMALL WT: 0.4 Class: WIZ Race: ALL |
 Carmine PantsCarmine Pants
 Lore Equipped, No Trade, Quest
 Slot: LEGS
@@ -1931,13 +1932,13 @@ No Trade, Quest
 Slot: WRIST
 AC: 3
 STR: +2 DEX: +6 MANA: +15
-WT: 0.3 Size: SMALL
+Size: SMALL WT: 0.3
 Class: WIZ
 Race: ALL
 |
 Various |
 Wrist |
-AC: 3 STR: +2 DEX: +6 MANA: +15 WT: 0.3 Size: SMALL Class: WIZ Race: ALL |
+AC: 3 STR: +2 DEX: +6 MANA: +15 Size: SMALL WT: 0.3 Class: WIZ Race: ALL |
 Carmine TurbanCarmine Turban
 Lore Equipped, No Trade, Quest
 Slot: HEAD
@@ -2176,15 +2177,15 @@ Ethereal Mist GauntletsEthereal Mist Gauntlets
 Lore Equipped, No Trade, Quest
 Slot: HANDS
 AC: 12
-DEX: +5 INT: +5
+INT: +5 DEX: +5
 SV FIRE: +7
-WT: 3.8 Size: SMALL
+Size: SMALL WT: 3.8
 Class: CLR
 Race: ALL
 |
 a haunted chest, An Evangelist of Hate |
 Hands |
-AC: 12 DEX: +5 INT: +5 SV FIRE: +7 WT: 3.8 Size: SMALL Class: CLR Race: ALL |
+AC: 12 INT: +5 DEX: +5 SV FIRE: +7 Size: SMALL WT: 3.8 Class: CLR Race: ALL |
 Ethereal Mist GreavesEthereal Mist Greaves
 Lore Equipped, No Trade, Quest
 Slot: LEGS
@@ -2483,13 +2484,13 @@ Slot: CHEST
 AC: 29
 STR: +9 DEX: +13 CHA: +9
 SV DISEASE: +10
-WT: 7.5 Size: LARGE
+Size: LARGE WT: 7.5
 Class: BRD
 Race: ALL
 |
 a haunted chest |
 Chest |
-AC: 29 STR: +9 DEX: +13 CHA: +9 SV DISEASE: +10 WT: 7.5 Size: LARGE Class: BRD Race: ALL |
+AC: 29 STR: +9 DEX: +13 CHA: +9 SV DISEASE: +10 Size: LARGE WT: 7.5 Class: BRD Race: ALL |
 Imbrued Platemail GauntletsImbrued Platemail Gauntlets
 Lore Equipped, No Trade, Quest
 Slot: HANDS
@@ -2545,40 +2546,40 @@ Indicolite BootsIndicolite Boots
 Lore Equipped, No Trade, Quest
 Slot: FEET
 AC: 20
-WIS: +5 INT: +5 AGI: +5
+INT: +5 WIS: +5 AGI: +5
 SV DISEASE: +15 SV POISON: +15
-WT: 4.9 Size: MEDIUM
+Size: MEDIUM WT: 4.9
 Class: WAR
 Race: ALL
 |
 a haunted chest, Innoruuk's Chosen (Raid Only), Grandmaster R`Tal |
 Feet |
-AC: 20 WIS: +5 INT: +5 AGI: +5 SV DISEASE: +15 SV POISON: +15 WT: 4.9 Size: MEDIUM Class: WAR Race: ALL |
+AC: 20 INT: +5 WIS: +5 AGI: +5 SV DISEASE: +15 SV POISON: +15 Size: MEDIUM WT: 4.9 Class: WAR Race: ALL |
 Indicolite BracerIndicolite Bracer
 No Trade, Quest
 Slot: WRIST
 AC: 12
 STR: +3 DEX: +3
 SV FIRE: +7 SV COLD: +7 SV MAGIC: +7
-WT: 3.0 Size: SMALL
+Size: SMALL WT: 3.0
 Class: WAR
 Race: ALL
 |
 Various |
 Wrist |
-AC: 12 STR: +3 DEX: +3 SV FIRE: +7 SV COLD: +7 SV MAGIC: +7 WT: 3.0 Size: SMALL Class: WAR Race: ALL |
+AC: 12 STR: +3 DEX: +3 SV FIRE: +7 SV COLD: +7 SV MAGIC: +7 Size: SMALL WT: 3.0 Class: WAR Race: ALL |
 Indicolite BreastplateIndicolite Breastplate
 Lore Equipped, No Trade, Quest
 Slot: CHEST
 AC: 35
-STR: +15 DEX: +15 STA: +15
-WT: 7.5 Size: LARGE
+STR: +15 STA: +15 DEX: +15
+Size: LARGE WT: 7.5
 Class: WAR
 Race: ALL
 |
 a haunted chest, Innoruuk's Chosen (male) - Raid version only?, Grandmaster R`Tal |
 Chest |
-AC: 35 STR: +15 DEX: +15 STA: +15 WT: 7.5 Size: LARGE Class: WAR Race: ALL |
+AC: 35 STR: +15 STA: +15 DEX: +15 Size: LARGE WT: 7.5 Class: WAR Race: ALL |
 Indicolite GauntletsIndicolite Gauntlets
 Lore Equipped, No Trade, Quest
 Slot: HANDS
@@ -2848,16 +2849,16 @@ AC: 18 STR: +5 DEX: +5 HP: +15 SV DISEASE: +5 SV POISON: +5 WT: 3.0 Size: SMALL 
 Lustrous Russet BootsLustrous Russet Boots
 Lore Equipped, No Trade
 Slot: FEET
-AC: 15
-WIS: +5 INT: +5 AGI: +5
+AC: 14
+INT: +5 WIS: +5 AGI: +5
 SV DISEASE: +15 SV POISON: +15
-WT: 4.9 Size: MEDIUM
+Size: MEDIUM WT: 4.9
 Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
 Race: ALL
 |
 a haunted chest |
 Feet |
-AC: 15 WIS: +5 INT: +5 AGI: +5 SV DISEASE: +15 SV POISON: +15 WT: 4.9 Size: MEDIUM Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
+AC: 14 INT: +5 WIS: +5 AGI: +5 SV DISEASE: +15 SV POISON: +15 Size: MEDIUM WT: 4.9 Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
 Lustrous Russet BracerLustrous Russet Bracer
 No Trade
 Slot: WRIST
@@ -2875,26 +2876,26 @@ Lustrous Russet BreastplateLustrous Russet Breastplate
 Lore Equipped, No Trade
 Slot: CHEST
 AC: 26
-STR: +15 DEX: +15 STA: +15
-WT: 7.5 Size: LARGE
+STR: +15 STA: +15 DEX: +15
+Size: LARGE WT: 7.5
 Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
 Race: ALL
 |
 a haunted chest |
 Chest |
-AC: 26 STR: +15 DEX: +15 STA: +15 WT: 7.5 Size: LARGE Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
+AC: 26 STR: +15 STA: +15 DEX: +15 Size: LARGE WT: 7.5 Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
 Lustrous Russet GauntletsLustrous Russet Gauntlets
 Lore Equipped, No Trade
 Slot: HANDS
-AC: 12
-DEX: +5 STA: +5 HP: +50
-WT: 3.8 Size: SMALL
+AC: 11
+STA: +5 DEX: +5 HP: +50
+Size: SMALL WT: 3.8
 Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
 Race: ALL
 |
 a haunted chest |
 Hands |
-AC: 12 DEX: +5 STA: +5 HP: +50 WT: 3.8 Size: SMALL Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
+AC: 11 STA: +5 DEX: +5 HP: +50 Size: SMALL WT: 3.8 Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
 Lustrous Russet GreavesLustrous Russet Greaves
 Lore Equipped, No Trade
 Slot: LEGS
@@ -3024,26 +3025,26 @@ Lore Equipped, No Trade
 Slot: LEGS
 AC: 5
 STA: +9 INT: +5 WIS: +5
-SV.Fire: +8
-WT: 0.1 Size: MEDIUM
+SV Fire: +7
+Size: MEDIUM WT: 0.1
 Class: DRU MNK ROG NEC WIZ MAG ENC BST
 Race: ALL
 |
 Various |
 Legs |
-AC: 5 STA: +9 INT: +5 WIS: +5 SV.Fire: +8 WT: 0.1 Size: MEDIUM Class: DRU MNK ROG NEC WIZ MAG ENC BST Race: ALL |
+AC: 5 STA: +9 INT: +5 WIS: +5 SV Fire: +7 Size: MEDIUM WT: 0.1 Class: DRU MNK ROG NEC WIZ MAG ENC BST Race: ALL |
 Midnight Clad StrapsMidnight Clad Straps
 Lore Equipped, No Trade
 Slot: CHEST
 AC: 10
 STR: +13 STA: +13 INT: +13 WIS: +13
-WT: 0.5 Size: MEDIUM
+Size: MEDIUM WT: 0.5
 Class: DRU MNK ROG NEC WIZ MAG ENC BST
 Race: ALL
 |
 a haunted chest |
 Chest |
-AC: 10 STR: +13 STA: +13 INT: +13 WIS: +13 WT: 0.5 Size: MEDIUM Class: DRU MNK ROG NEC WIZ MAG ENC BST Race: ALL |
+AC: 10 STR: +13 STA: +13 INT: +13 WIS: +13 Size: MEDIUM WT: 0.5 Class: DRU MNK ROG NEC WIZ MAG ENC BST Race: ALL |
 Midnight Clad WristbandsMidnight Clad Wristbands
 No Trade
 Slot: WRIST
@@ -3201,14 +3202,14 @@ Rune Etched BracerRune Etched Bracer
 No Trade, Quest
 Slot: WRIST
 AC: 9
-CHA: +5 WIS: +5 INT: +5
-WT: 3.0 Size: SMALL
+INT: +5 WIS: +5 CHA: +5
+Size: SMALL WT: 3.0
 Class: SHM
 Race: ALL
 |
 a scorn banshee, an abhorrent, a haunted chest |
 Wrist |
-AC: 9 CHA: +5 WIS: +5 INT: +5 WT: 3.0 Size: SMALL Class: SHM Race: ALL |
+AC: 9 INT: +5 WIS: +5 CHA: +5 Size: SMALL WT: 3.0 Class: SHM Race: ALL |
 Rune Etched ChestplateRune Etched Chestplate
 Lore Equipped, No Trade, Quest
 Slot: CHEST
@@ -3222,18 +3223,18 @@ a haunted chest |
 Chest |
 AC: 26 STA: +9 WIS: +13 MANA: +25 WT: 7.5 Size: LARGE Class: SHM Race: ALL |
 Rune Etched GauntletsRune Etched Gauntlets
-MAGIC ITEM NO TRADE
+Lore Equipped, No Trade, Quest
 Slot: HANDS
 AC: 11
 STR: +5 DEX: +5 MANA: +20
 SV FIRE: +7
-WT: 3.8 Size: SMALL
+Size: SMALL WT: 3.8
 Class: SHM
 Race: ALL
 |
 a haunted chest |
 Hands |
-AC: 11 STR: +5 DEX: +5 MANA: +20 SV FIRE: +7 WT: 3.8 Size: SMALL Class: SHM Race: ALL |
+AC: 11 STR: +5 DEX: +5 MANA: +20 SV FIRE: +7 Size: SMALL WT: 3.8 Class: SHM Race: ALL |
 Rune Etched GreavesRune Etched Greaves
 Lore Equipped, No Trade, Quest
 Slot: LEGS
@@ -3406,15 +3407,15 @@ Shadow Rage GlovesShadow Rage Gloves
 Lore Equipped, No Trade, Quest
 Slot: HANDS
 AC: 10
-STR: 6 DEX: 5 AGI: 2 END: 10
-SV Magic: 8
-WT: 2.7 Size: SMALL
+STR: +6 AGI: +2 DEX: +5 END: +10
+SV Magic: +8
+Size: SMALL WT: 2.8
 Class: BER
 Race: ALL
 |
 a haunted chest |
 Hands |
-AC: 10 STR: 6 DEX: 5 AGI: 2 END: 10 SV Magic: 8 WT: 2.7 Size: SMALL Class: BER Race: ALL |
+AC: 10 STR: +6 AGI: +2 DEX: +5 END: +10 SV Magic: +8 Size: SMALL WT: 2.8 Class: BER Race: ALL |
 Shadow Rage HelmShadow Rage Helm
 Lore Equipped, No Trade, Quest
 Slot: HEAD
@@ -3457,14 +3458,14 @@ Shadow Rage TunicShadow Rage Tunic
 Lore Equipped, No Trade, Quest
 Slot: CHEST
 AC: 23
-STR: 14 AGI: 14 DEX: 14
-WT: 6.5 Size: LARGE
+STR: +14 AGI: +14 DEX: +14
+Size: LARGE WT: 6.5
 Class: BER
 Race: ALL
 |
 a haunted chest |
 Chest |
-AC: 23 STR: 14 AGI: 14 DEX: 14 WT: 6.5 Size: LARGE Class: BER Race: ALL |
+AC: 23 STR: +14 AGI: +14 DEX: +14 Size: LARGE WT: 6.5 Class: BER Race: ALL |
 Shadow Rage WristguardShadow Rage Wristguard
 No Trade, Quest
 Slot: WRIST
@@ -3514,7 +3515,7 @@ Race: ALL
 an eerie chest (unconfirmed for EQL), Lord of Ire, Maestro of Rancor |
 Secondary, [[:Category:|]], Type:, Shield |
 AC: 35 STR: +20 STA: +20 Effect: Ultravision (Worn) Size: MEDIUM WT: 7.3 Class: PAL Race: ALL |
-Shiverback-hide ArmbandsShiverback-hide Armbands
+Shiverback-Hide ArmbandsShiverback-Hide Armbands
 Lore Equipped, No Trade, Quest
 Slot: ARMS
 AC: 5
@@ -3527,7 +3528,7 @@ Race: ALL
 a forsaken revenant (female), an ire ghast, a haunted chest |
 Arms |
 AC: 5 STR: +5 STA: +9 CHA: +5 SV COLD: +7 WT: 0.1 Size: SMALL Class: MNK Race: ALL |
-Shiverback-hide BootsShiverback-hide Boots
+Shiverback-Hide BootsShiverback-Hide Boots
 Lore Equipped, No Trade, Quest
 Slot: FEET
 AC: 6
@@ -3539,21 +3540,21 @@ Race: ALL
 a haunted chest |
 Feet |
 AC: 6 STR: +5 STA: +9 AGI: +9 WT: 0.1 Size: SMALL Class: MNK Race: ALL |
-Shiverback-hide GlovesShiverback-hide Gloves
+Shiverback-Hide GlovesShiverback-Hide Gloves
 Lore Equipped, No Trade, Quest
 Slot: HANDS
 AC: 5
-STR: +5 DEX: +9 INT: +5
+STR: +5 INT: +5 DEX: +9 END: +15
 SV MAGIC: +7
-Effect: Serpent Sight (Worn, Casting Time: Instant)
-WT: 0.1 Size: SMALL
+Effect: Serpent Sight (Worn)
+Size: SMALL WT: 0.1
 Class: MNK
 Race: ALL
 |
 a haunted chest |
 Hands |
-AC: 5 STR: +5 DEX: +9 INT: +5 SV MAGIC: +7 Effect: Serpent Sight (Worn, Casting Time: Instant) WT: 0.1 Size: SMALL Class: MNK Race: ALL |
-Shiverback-hide JerkinShiverback-hide Jerkin
+AC: 5 STR: +5 INT: +5 DEX: +9 END: +15 SV MAGIC: +7 Effect: Serpent Sight (Worn) Size: SMALL WT: 0.1 Class: MNK Race: ALL |
+Shiverback-Hide JerkinShiverback-Hide Jerkin
 Lore Equipped, No Trade, Quest
 Slot: CHEST
 AC: 11
@@ -3565,7 +3566,7 @@ Race: ALL
 a haunted chest |
 Chest |
 AC: 11 STR: +13 DEX: +9 AGI: +9 WT: 0.5 Size: MEDIUM Class: MNK Race: ALL |
-Shiverback-hide LeggingsShiverback-hide Leggings
+Shiverback-Hide LeggingsShiverback-Hide Leggings
 Lore Equipped, No Trade, Quest
 Slot: LEGS
 AC: 5
@@ -3578,20 +3579,19 @@ Race: ALL
 Various |
 Legs |
 AC: 5 WIS: +5 AGI: +5 SV FIRE: +7 WT: 0.1 Size: MEDIUM Class: MNK Race: ALL |
-Shiverback-hide WristbandsShiverback-hide Wristbands
+Shiverback-Hide WristbandsShiverback-Hide Wristbands
 No Trade, Quest
 Slot: WRIST
 AC: 4
-END: 10
-DEX: +5 STA: +5 AGI: +5
+STA: +5 AGI: +5 DEX: +5 END: +10
 SV DISEASE: +5 SV POISON: +5
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: MNK
 Race: ALL
 |
 a scorn banshee, an abhorrent, a haunted chest |
 Wrist |
-AC: 4 END: 10 DEX: +5 STA: +5 AGI: +5 SV DISEASE: +5 SV POISON: +5 WT: 0.1 Size: SMALL Class: MNK Race: ALL |
+AC: 4 STA: +5 AGI: +5 DEX: +5 END: +10 SV DISEASE: +5 SV POISON: +5 Size: SMALL WT: 0.1 Class: MNK Race: ALL |
 Shrieking AhlspiessShrieking Ahlspiess
 Lore Equipped, No Trade, Quest, Placeable
 Slot: RANGE PRIMARY SECONDARY
@@ -3802,18 +3802,18 @@ an ire ghast, Lord of Ire |
 2H Slashing |
 Atk Delay: 36 DMG: 20 STR: +5 INT: +4 WT: 6.5 Size: LARGE Class: PAL Race: ALL |
 Thorny Vine BootsThorny Vine Boots
-MAGIC ITEM NO TRADE
+Lore Equipped, No Trade, Quest
 Slot: FEET
 AC: 14
 STR: +5 STA: +5 AGI: +9
 SV POISON: +7
-WT: 4.9 Size: MEDIUM
+Size: MEDIUM WT: 4.9
 Class: RNG
 Race: ALL
 |
 a haunted chest |
 Feet |
-AC: 14 STR: +5 STA: +5 AGI: +9 SV POISON: +7 WT: 4.9 Size: MEDIUM Class: RNG Race: ALL |
+AC: 14 STR: +5 STA: +5 AGI: +9 SV POISON: +7 Size: MEDIUM WT: 4.9 Class: RNG Race: ALL |
 Thorny Vine BracerThorny Vine Bracer
 No Trade, Quest
 Slot: WRIST
@@ -3839,18 +3839,18 @@ a haunted chest |
 Chest |
 AC: 26 STR: +9 WIS: +13 HP: +50 WT: 7.5 Size: LARGE Class: RNG Race: ALL |
 Thorny Vine GauntletsThorny Vine Gauntlets
-MAGIC ITEM NO TRADE
+Lore Equipped, No Trade, Quest
 Slot: HANDS
 AC: 11
 STR: +9 DEX: +9
 SV FIRE: +7
-WT: 3.8 Size: SMALL
+Size: SMALL WT: 3.8
 Class: RNG
 Race: ALL
 |
 a haunted chest |
 Hands |
-AC: 11 STR: +9 DEX: +9 SV FIRE: +7 WT: 3.8 Size: SMALL Class: RNG Race: ALL |
+AC: 11 STR: +9 DEX: +9 SV FIRE: +7 Size: SMALL WT: 3.8 Class: RNG Race: ALL |
 Thorny Vine GreavesThorny Vine Greaves
 Lore Equipped, No Trade, Quest
 Slot: LEGS
@@ -3995,13 +3995,13 @@ Slot: HANDS
 AC: 13
 STR: +5 INT: +5 MANA: +35
 SV COLD: +10
-WT: 3.8 Size: SMALL
+Size: SMALL WT: 3.8
 Class: SHD
 Race: ALL
 |
 a haunted chest |
 Hands |
-AC: 13 STR: +5 INT: +5 MANA: +35 SV COLD: +10 WT: 3.8 Size: SMALL Class: SHD Race: ALL |
+AC: 13 STR: +5 INT: +5 MANA: +35 SV COLD: +10 Size: SMALL WT: 3.8 Class: SHD Race: ALL |
 Umbral Platemail GreavesUmbral Platemail Greaves
 Lore Equipped, No Trade, Quest
 Slot: LEGS
@@ -4222,15 +4222,15 @@ Vermiculated GlovesVermiculated Gloves
 Lore Equipped, No Trade, Quest
 Slot: HANDS
 AC: 6
-DEX: +13 INT: +5
+INT: +5 DEX: +13
 SV DISEASE: +7
-WT: 5.5 Size: SMALL
+Size: SMALL WT: 5.5
 Class: DRU
 Race: ALL
 |
 a haunted chest |
 Hands |
-AC: 6 DEX: +13 INT: +5 SV DISEASE: +7 WT: 5.5 Size: SMALL Class: DRU Race: ALL |
+AC: 6 INT: +5 DEX: +13 SV DISEASE: +7 Size: SMALL WT: 5.5 Class: DRU Race: ALL |
 Vermiculated LeggingsVermiculated Leggings
 Lore Equipped, No Trade, Quest
 Slot: LEGS
@@ -4357,15 +4357,15 @@ Woven Shadow GauntletsWoven Shadow Gauntlets
 Lore Equipped, No Trade, Quest
 Slot: HANDS
 AC: 11
-STR: +5 DEX: +5
+STR: +5 DEX: +5 END: +10
 SV MAGIC: +10
-WT: 3.8 Size: SMALL
+Size: SMALL WT: 3.8
 Class: ROG
 Race: ALL
 |
 a haunted chest |
 Hands |
-AC: 11 STR: +5 DEX: +5 SV MAGIC: +10 WT: 3.8 Size: SMALL Class: ROG Race: ALL |
+AC: 11 STR: +5 DEX: +5 END: +10 SV MAGIC: +10 Size: SMALL WT: 3.8 Class: ROG Race: ALL |
 Woven Shadow GreavesWoven Shadow Greaves
 Lore Equipped, No Trade, Quest
 Slot: LEGS

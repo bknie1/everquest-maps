@@ -1,5 +1,5 @@
 # The_Feerrott (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-12
 
 The Feerrott - EverQuest Legends Wiki
 Jump to content
@@ -335,7 +335,7 @@ Class: ALL
 Race: ALL
 , Spiderling SilkSpiderling Silk
 Quest
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -348,7 +348,7 @@ Warrior |
 ? |
 Spiderling SilkSpiderling Silk
 Quest
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Spiderling LegsSpiderling Legs
@@ -693,7 +693,7 @@ Warrior |
 100% @ (-1444, 1055) |
 |
 Description needed. |
-Items - Found 19 items that drop in The Feerrott:
+Items - Found 20 items that drop in The Feerrott:
 Item Name | Drops From | Slot | Stats |
 A Crude SteinA Crude Stein
 MAGIC ITEM LORE ITEM
@@ -811,6 +811,14 @@ Race: ALLDMG Bonus: 17 @ lvl 50
 Cyndreela |
 1H Blunt |
 Atk Delay: 35 DMG: 5 WT: 6.0 Size: MEDIUM Class: ALL except NEC WIZ MAG ENC Race: ALL |
+Grizzly Bear SkullGrizzly Bear Skull
+Size: SMALL WT: 0.7
+Class: ALL
+Race: ALL
+|
+None? |
+(None) |
+Size: SMALL WT: 0.7 Class: ALL Race: ALL |
 Lizard MeatLizard Meat
 Quest
 Size: SMALL WT: 1.0

@@ -1,5 +1,5 @@
 # Solusek's_Eye (eqlwiki.com)
-fetched: 2026-10-11
+fetched: 2026-10-12
 
 Solusek's Eye - EverQuest Legends Wiki
 Jump to content
@@ -250,11 +250,11 @@ LORE ITEM
 WT: 2.0 Weight Reduction: 75%
 Capacity: 6 Size Capacity: SMALL
 , Obsidian Bead HoopObsidian Bead Hoop
-MAGIC ITEM
+Attunable
 Slot: EAR
 AC: 2
 INT: +3 AGI: +3
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Obsidian FlambergeObsidian Flamberge
@@ -293,10 +293,10 @@ WT: 2.5 Size: MEDIUM
 Class: ALL except CLR PAL DRU MNK SHM
 Race: ALLDMG Bonus: 12 @ lvl 50
 , Platinum ArmbandPlatinum Armband
-MAGIC ITEM
+Attunable
 Slot: ARMS
 STR: +3 WIS: +3
-WT: 0.3 Size: SMALL
+Size: SMALL WT: 0.3
 Class: ALL
 Race: ALLFocus Effect: Mana Preservation I
 , Platinum Dragon TotemPlatinum Dragon Totem
@@ -414,10 +414,10 @@ Class: ALL
 Race: ALLFocus Effect: Affliction Efficiency I
 (Rare)
 Efreeti Pits with Blazing Elementals and Reckless Efreeti who drops Platinum ArmbandPlatinum Armband
-MAGIC ITEM
+Attunable
 Slot: ARMS
 STR: +3 WIS: +3
-WT: 0.3 Size: SMALL
+Size: SMALL WT: 0.3
 Class: ALL
 Race: ALLFocus Effect: Mana Preservation I
 (Common) and Obsidian FlambergeObsidian Flamberge
@@ -461,11 +461,11 @@ Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 (Rare)
 Room that spawns the roaming Singe who drops Obsidian Bead HoopObsidian Bead Hoop
-MAGIC ITEM
+Attunable
 Slot: EAR
 AC: 2
 INT: +3 AGI: +3
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 (Common) and Drakescale BeltDrakescale Belt
@@ -1360,10 +1360,10 @@ WT: 9.0 Size: MEDIUM
 Class: WAR PAL SHD
 Race: ALLDMG Bonus: 34 @ lvl 50
 , Platinum ArmbandPlatinum Armband
-MAGIC ITEM
+Attunable
 Slot: ARMS
 STR: +3 WIS: +3
-WT: 0.3 Size: SMALL
+Size: SMALL WT: 0.3
 Class: ALL
 Race: ALLFocus Effect: Mana Preservation I
 |
@@ -1391,11 +1391,11 @@ WT: 1.0 Size: SMALL
 Class: ALL
 Race: ALLFocus Effect: Extended Enhancement II
 , Obsidian Bead HoopObsidian Bead Hoop
-MAGIC ITEM
+Attunable
 Slot: EAR
 AC: 2
 INT: +3 AGI: +3
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Fire Drake ScaleFire Drake Scale
@@ -1994,17 +1994,17 @@ Gabbie Mardoddle |
 Back |
 AC: 4 WIS: +4 INT: +4 WT: 2.5 Size: MEDIUM Class: ALL Race: ALL |
 Obsidian Bead HoopObsidian Bead Hoop
-MAGIC ITEM
+Attunable
 Slot: EAR
 AC: 2
 INT: +3 AGI: +3
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 Singe |
 Ear |
-AC: 2 INT: +3 AGI: +3 WT: 0.1 Size: TINY Class: ALL Race: ALL |
+AC: 2 INT: +3 AGI: +3 Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Obsidian FlambergeObsidian Flamberge
 MAGIC ITEM LORE ITEM NO DROP
 Slot: PRIMARY
@@ -2057,16 +2057,16 @@ kobold predator |
 Piercing |
 Atk Delay: 25 DMG: 6 Effect: Obsidian Shatter (Combat, Casting Time: Instant) at Level 16 WT: 2.5 Size: MEDIUM Class: ALL except CLR PAL DRU MNK SHM Race: ALL |
 Platinum ArmbandPlatinum Armband
-MAGIC ITEM
+Attunable
 Slot: ARMS
 STR: +3 WIS: +3
-WT: 0.3 Size: SMALL
+Size: SMALL WT: 0.3
 Class: ALL
 Race: ALLFocus Effect: Mana Preservation I
 |
 reckless efreeti |
 Arms |
-STR: +3 WIS: +3 WT: 0.3 Size: SMALL Class: ALL Race: ALL |
+STR: +3 WIS: +3 Size: SMALL WT: 0.3 Class: ALL Race: ALL |
 Platinum Dragon TotemPlatinum Dragon Totem
 MAGIC ITEM
 Slot: PRIMARY SECONDARY

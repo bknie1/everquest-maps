@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-10-11
+fetched: 2026-10-12
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -1670,13 +1670,13 @@ Wind Rune Azia
 White Gold Earring (6-BZ)
 |
 ArydryidriyornArydryidriyorn
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 21
 DMG: 12
 STR: +8 WIS: +8 HP: +50
-Effect: Shield of Brambles (Combat, Casting Time: Instant) at Level 45
-WT: 1.0 Size: MEDIUM
+Effect: Shield of Brambles (Combat) at Level 45
+Size: MEDIUM WT: 1.0
 Class: RNG
 Race: ALLDMG Bonus: 10 @ lvl 50
 |
@@ -1694,9 +1694,10 @@ Lore Equipped, No Trade, Placeable
 Slot: RANGE
 Skill: Archery Atk Delay: 60
 DMG: 45
-STR: +5 DEX: +5 AGI: +5 HP: +50
-Effect: Whirlwind (Combat, Casting Time: Instant) at Level 50
-WT: 4.0 Range: 200 Size: MEDIUM
+Range: 200
+STR: +5 AGI: +5 DEX: +5 HP: +50
+Effect: Whirlwind (Combat) at Level 50
+Size: MEDIUM WT: 4.0
 Class: RNG
 Race: ALL
 |

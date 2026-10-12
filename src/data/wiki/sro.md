@@ -1,5 +1,5 @@
 # South_Ro (eqlwiki.com)
-fetched: 2026-10-11
+fetched: 2026-10-12
 
 Southern Desert of Ro - EverQuest Legends Wiki
 Jump to content
@@ -688,10 +688,10 @@ Various |
 A named Sand Giant who spawns in Southern Desert of Ro. His placeholder is "Dry Bones Skeleton" (all of the others are ... |
 Scrounge
 |
-Wolf |
+Jackal |
 Warrior |
 8 |
-50% @ (-2475, 641) |
+Wanders |
 Scrounge's ClawScrounge's Claw
 Slot: PRIMARY
 Skill: 1H Slashing Atk Delay: 30
@@ -704,7 +704,7 @@ WT: 3.5 Size: LARGE
 Class: ALL
 Race: ALL
 |
-A rare wolf that spawns in Southern Desert of Ro. |
+A rare jackal that spawns in Southern Desert of Ro. |
 Smith Tv`ysa
 |
 Dark Elf |

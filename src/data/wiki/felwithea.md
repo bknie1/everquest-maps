@@ -1,5 +1,5 @@
 # Felwithe (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-12
 
 Felwithe - EverQuest Legends Wiki
 Jump to content
@@ -172,7 +172,8 @@ a bat |
 Black Wolf Skin Quest
 |
 BandagesBandages
-WT: 0.5 Size: SMALL
+Quest
+Size: SMALL WT: 0.5
 Class: ALL
 Race: ALL
 , Copper BandCopper Band
@@ -683,7 +684,8 @@ Orc Oracle (Crushbone) |
 Orc Runner (Felwithe)
 |
 BandagesBandages
-WT: 0.5 Size: SMALL
+Quest
+Size: SMALL WT: 0.5
 Class: ALL
 Race: ALL
 , Iron RationIron Ration

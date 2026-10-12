@@ -1,5 +1,5 @@
 # Eastern_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-12
 
 Eastern Plains of Karana - EverQuest Legends Wiki
 Jump to content
@@ -350,8 +350,8 @@ Warrior |
 12-14 |
 ? |
 High Quality Cat PeltHigh Quality Cat Pelt
-QUEST ITEM
-WT: 3.5 Size: LARGE
+Quest
+Size: LARGE WT: 3.5
 Class: ALL
 Race: ALL
 |
@@ -1093,7 +1093,7 @@ Class: ALL
 Race: ALL
 , Fire OpalFire Opal
 Quest
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |

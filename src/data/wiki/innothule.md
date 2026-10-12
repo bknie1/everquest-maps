@@ -1,5 +1,5 @@
 # Innothule_Swamp (eqlwiki.com)
-fetched: 2026-10-11
+fetched: 2026-10-12
 
 Innothule Swamp - EverQuest Legends Wiki
 Jump to content
@@ -158,10 +158,10 @@ Race: ALLDMG Bonus: 30 @ lvl 50
 Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 50
-DMG: 16 DMG Bonus: 34
+DMG: 16
 Size: GIANT WT: 11.0
 Class: WAR PAL SHD ROG BER
-Race: ALL
+Race: ALLDMG Bonus: 34 @ lvl 50
 (Common), Ivandyr's HoopIvandyr's Hoop
 Lore Equipped, Attunable
 Slot: EAR

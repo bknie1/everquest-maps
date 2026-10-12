@@ -1,5 +1,5 @@
 # Erudin (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-12
 
 Erudin - EverQuest Legends Wiki
 Jump to content
@@ -642,8 +642,11 @@ High Shaman Drogik, a kobold missionary |
 Skeleton Killing
 |
 BackpackBackpack
-WT: 3.0 Weight Reduction: 0%
-Capacity: 8 Size Capacity: LARGE
+Quest
+Size: LARGE WT: 3.0
+Weight Reduction: 0% Capacity: 8 Size Capacity: LARGE
+Class: ALL
+Race: ALL
 , Belt PouchBelt Pouch
 WT: 0.4 Weight Reduction: 0%
 Capacity: 4 Size Capacity: SMALL
@@ -781,8 +784,11 @@ Flynn Merrington, Geoard Bluehawk, Illithi Nollith, Lanken Rjarn, Moodoro Finhar
 Zombie Flesh Quest
 |
 BackpackBackpack
-WT: 3.0 Weight Reduction: 0%
-Capacity: 8 Size Capacity: LARGE
+Quest
+Size: LARGE WT: 3.0
+Weight Reduction: 0% Capacity: 8 Size Capacity: LARGE
+Class: ALL
+Race: ALL
 , Belt PouchBelt Pouch
 WT: 0.4 Weight Reduction: 0%
 Capacity: 4 Size Capacity: SMALL
