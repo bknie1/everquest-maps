@@ -1,5 +1,5 @@
 # Runnyeye_Citadel (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-13
 
 Runnyeye - EverQuest Legends Wiki
 Jump to content
@@ -623,11 +623,12 @@ Please add comments or information below, as to whether this page applies to Eve
 Feel free to edit the article, but please do not blank it or remove this notice.
 |
 no longer relevent, Rusty SpearRusty Spear
+Attunable, Quest, Placeable
 Slot: PRIMARY
-Skill: Piercing Atk Delay: 38
-DMG: 5BACKSTAB: 5
-WT: 7.0 Size: LARGE
-Class: WAR RNG SHD BRD ROG SHM
+Skill: 1H Piercing Atk Delay: 38
+DMG: 5 BACKSTAB: 5
+Size: LARGE WT: 7.0
+Class: WAR RNG SHD BRD ROG SHM BST
 Race: ALLDMG Bonus: 19 @ lvl 50
 |
 A Clan RunnyEye goblin found mostly on the first floor. |

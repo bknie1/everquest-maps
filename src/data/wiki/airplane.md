@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-10-12
+fetched: 2026-10-13
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -2360,7 +2360,7 @@ AC: 8
 STR: +5 INT: +5
 SV MAGIC: +5
 Haste: 16%
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: SHD
 Race: ALL
 (Shadow Knight)
@@ -3704,13 +3704,13 @@ AC: 8
 STR: +5 INT: +5
 SV MAGIC: +5
 Haste: 16%
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: SHD
 Race: ALL
 |
 Various |
 Waist |
-AC: 8 STR: +5 INT: +5 SV MAGIC: +5 Haste: 16% WT: 0.1 Size: SMALL Class: SHD Race: ALL |
+AC: 8 STR: +5 INT: +5 SV MAGIC: +5 Haste: 16% Size: SMALL WT: 0.1 Class: SHD Race: ALL |
 Belt of TranquilityBelt of Tranquility
 Lore Equipped, No Trade
 Slot: Waist
@@ -3799,15 +3799,14 @@ Lore Equipped, Attunable, Quest, Placeable
 Slot: Primary Secondary
 Skill: Piercing Atk Delay: 22
 DMG: 7BACKSTAB: 7
-DMG Bonus: 10
-Effect: Weak Poison (Combat, Casting Time: Instant) at Level 46
-WT: 2.0 Size: MEDIUM
+Effect: Weak Poison (Combat) at Level 46
+Size: MEDIUM WT: 2.0
 Class: ROG
-Race: ALL
+Race: ALLDMG Bonus: 11 @ lvl 50
 |
 Bazzt Zzzt |
 Piercing |
-Atk Delay: 22 DMG: 7 DMG Bonus: 10 Effect: Weak Poison (Combat, Casting Time: Instant) at Level 46 WT: 2.0 Size: MEDIUM Class: ROG Race: ALL |
+Atk Delay: 22 DMG: 7 Effect: Weak Poison (Combat) at Level 46 Size: MEDIUM WT: 2.0 Class: ROG Race: ALL |
 Bixie Sword BladeBixie Sword Blade
 Lore Equipped, No Trade, Quest, Placeable
 Slot: Primary

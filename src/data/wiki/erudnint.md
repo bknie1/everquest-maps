@@ -1,5 +1,5 @@
 # Erudin_Palace (eqlwiki.com)
-fetched: 2026-10-12
+fetched: 2026-10-13
 
 Erudin - EverQuest Legends Wiki
 Jump to content
@@ -94,7 +94,7 @@ Brew Barrel, Forge, Kiln, Loom, Oven, Pottery Wheel
 |
 Related Quests:
 |
-Barnacle Breastplate, Erud's Tonic, Ice Goblin Beads, Skeleton Killing, Teatament of Vanear, Peacekeeper Staff, The Bridge, The Power of the Gatecallers, Quellious Symbol Quests
+Barnacle Breastplate, Erud's Tonic, Ice Goblin Beads, Skeleton Killing, Testament of Vanear, Peacekeeper Staff, The Bridge, The Power of the Gatecallers, Quellious Symbol Quests
 |
 Adjacent Zones:
 |
@@ -2134,11 +2134,12 @@ Paladin |
 30 |
 100% @ (635, 850) |
 Rusty SpearRusty Spear
+Attunable, Quest, Placeable
 Slot: PRIMARY
-Skill: Piercing Atk Delay: 38
-DMG: 5BACKSTAB: 5
-WT: 7.0 Size: LARGE
-Class: WAR RNG SHD BRD ROG SHM
+Skill: 1H Piercing Atk Delay: 38
+DMG: 5 BACKSTAB: 5
+Size: LARGE WT: 7.0
+Class: WAR RNG SHD BRD ROG SHM BST
 Race: ALLDMG Bonus: 19 @ lvl 50
 |
 Description needed. |
@@ -2149,11 +2150,12 @@ Paladin |
 30 |
 Basement 100% @ (696, 795) |
 Rusty SpearRusty Spear
+Attunable, Quest, Placeable
 Slot: PRIMARY
-Skill: Piercing Atk Delay: 38
-DMG: 5BACKSTAB: 5
-WT: 7.0 Size: LARGE
-Class: WAR RNG SHD BRD ROG SHM
+Skill: 1H Piercing Atk Delay: 38
+DMG: 5 BACKSTAB: 5
+Size: LARGE WT: 7.0
+Class: WAR RNG SHD BRD ROG SHM BST
 Race: ALLDMG Bonus: 19 @ lvl 50
 |
 Description needed. |
@@ -2690,13 +2692,13 @@ Race: ALL
 None? |
 (None) |
 Quest Charges: 1 Effect: Weakening Poison I (Combat) at Level 5 WT: 0.2 Size: SMALL Class: ALL Race: ALL |
-Retrieved from "https://eqlwiki.com/index.php?title=Erudin&oldid=131382"
+Retrieved from "https://eqlwiki.com/index.php?title=Erudin&oldid=193438"
 Categories: Classic Era
 Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 19 May 2026, at 12:23.
+This page was last edited on 13 October 2026, at 10:07.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

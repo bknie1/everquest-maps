@@ -1,5 +1,5 @@
 # The_Hole (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-13
 
 The Hole - EverQuest Legends Wiki
 Jump to content
@@ -310,11 +310,11 @@ Race: ALL
 Lore Equipped, Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Piercing Atk Delay: 27
-DMG: 13 DMG Bonus: 13 @ lvl 50 BACKSTAB: 13
+DMG: 13 BACKSTAB: 13
 STR: +3
 Size: MEDIUM WT: 2.3
 Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 . Nortlav the Scalekeeper is also here who drops Red Dragon ScalesRed Dragon Scales
 Attunable, Quest
 Size: MEDIUM WT: 2.5
@@ -1716,15 +1716,15 @@ Serpent's ToothSerpent's Tooth
 Lore Equipped, Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Piercing Atk Delay: 27
-DMG: 13 DMG Bonus: 13 @ lvl 50 BACKSTAB: 13
+DMG: 13 BACKSTAB: 13
 STR: +3
 Size: MEDIUM WT: 2.3
 Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Master Yael |
 Primary, Secondary |
-Skill: 1H Piercing Atk Delay: 27 DMG: 13 DMG Bonus: 13 @ lvl 50 BACKSTAB: 13 STR: +3 Size: MEDIUM WT: 2.3 Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST Race: ALL |
+Skill: 1H Piercing Atk Delay: 27 DMG: 13 BACKSTAB: 13 STR: +3 Size: MEDIUM WT: 2.3 Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST Race: ALL |
 Smoldering BrandSmoldering Brand
 MAGIC ITEM LORE ITEM
 Slot: PRIMARY SECONDARY
@@ -2001,11 +2001,11 @@ Race: ALL
 Lore Equipped, Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Piercing Atk Delay: 27
-DMG: 13 DMG Bonus: 13 @ lvl 50 BACKSTAB: 13
+DMG: 13 BACKSTAB: 13
 STR: +3
 Size: MEDIUM WT: 2.3
 Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 |
 Raid Map

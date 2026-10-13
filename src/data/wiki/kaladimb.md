@@ -1,5 +1,5 @@
 # Kaladim (eqlwiki.com)
-fetched: 2026-10-10
+fetched: 2026-10-13
 
 Kaladim - EverQuest Legends Wiki
 Jump to content
@@ -2012,11 +2012,12 @@ WT: 5.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG SHM
 Race: ALLDMG Bonus: 16 @ lvl 50
 , Rusty SpearRusty Spear
+Attunable, Quest, Placeable
 Slot: PRIMARY
-Skill: Piercing Atk Delay: 38
-DMG: 5BACKSTAB: 5
-WT: 7.0 Size: LARGE
-Class: WAR RNG SHD BRD ROG SHM
+Skill: 1H Piercing Atk Delay: 38
+DMG: 5 BACKSTAB: 5
+Size: LARGE WT: 7.0
+Class: WAR RNG SHD BRD ROG SHM BST
 Race: ALLDMG Bonus: 19 @ lvl 50
 |
 Diggins |
@@ -2471,7 +2472,7 @@ Gunlok Jure
 |
 Dwarf |
 GM Paladin |
-61 |
+70 |
 (1315, 158) |
 None |
 Paladin guildmaster in North Kaladim. |
@@ -2607,7 +2608,7 @@ Priestess Ghalea
 |
 Dwarf |
 GM Cleric |
-61 |
+70 |
 (788, 134) |
 None |
 Priestess Ghalea is the guild master of the cleric's guild in Kaladim (the Church of Underfoot). She is involved in seve... |

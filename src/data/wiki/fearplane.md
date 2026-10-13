@@ -1,5 +1,5 @@
 # Plane_of_Fear (eqlwiki.com)
-fetched: 2026-10-12
+fetched: 2026-10-13
 
 Plane of Fear - EverQuest Legends Wiki
 Jump to content
@@ -2586,7 +2586,7 @@ Shoulders |
 AC: 10 SV FIRE: +35 SV DISEASE: +35 SV COLD: +35 SV MAGIC: +35 SV POISON: +35 WT: 0.0 Size: SMALL Class: ALL Race: ALL |
 Shield of Rainbow HuesShield of Rainbow Hues
 Attunable, Placeable
-Slot: SECONDARY
+Slot: SECONDARY Type: Shield
 AC: 18
 SV FIRE: +20 SV DISEASE: +20 SV COLD: +20 SV MAGIC: +20 SV POISON: +20
 Size: MEDIUM WT: 0.5
@@ -2594,7 +2594,7 @@ Class: WAR PAL RNG SHD MNK ROG
 Race: ALL
 |
 Various |
-Secondary |
+Secondary, [[:Category:|]], Type:, Shield |
 AC: 18 SV FIRE: +20 SV DISEASE: +20 SV COLD: +20 SV MAGIC: +20 SV POISON: +20 Size: MEDIUM WT: 0.5 Class: WAR PAL RNG SHD MNK ROG Race: ALL |
 Shiverback-Hide ArmbandsShiverback-Hide Armbands
 Lore Equipped, No Trade, Quest
@@ -3416,7 +3416,7 @@ Class: ALL
 Race: ALL
 , Shield of Rainbow HuesShield of Rainbow Hues
 Attunable, Placeable
-Slot: SECONDARY
+Slot: SECONDARY Type: Shield
 AC: 18
 SV FIRE: +20 SV DISEASE: +20 SV COLD: +20 SV MAGIC: +20 SV POISON: +20
 Size: MEDIUM WT: 0.5
@@ -3604,7 +3604,7 @@ Class: ALL
 Race: ALL
 , Shield of Rainbow HuesShield of Rainbow Hues
 Attunable, Placeable
-Slot: SECONDARY
+Slot: SECONDARY Type: Shield
 AC: 18
 SV FIRE: +20 SV DISEASE: +20 SV COLD: +20 SV MAGIC: +20 SV POISON: +20
 Size: MEDIUM WT: 0.5
