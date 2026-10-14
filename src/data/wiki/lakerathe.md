@@ -1,5 +1,5 @@
 # Lake_Rathetear (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-14
 
 Lake Rathetear - EverQuest Legends Wiki
 Jump to content
@@ -932,11 +932,11 @@ Spawns in the nearby cabin instead of directly on top of Shmendrik Lavawalker. T
 Prince Kyrmt Keroppi
 |
 Froglok |
-Shadow Knight |
-35 |
-? |
+Ranger |
+30 |
+Wanders |
 None |
-This named Froglok wanders the shores of Lake Rathe.
+This named Froglok wanders the center of Lake Rathe.
 In 2022, designer Brian Canary confirmed that this character was ... |
 Princess Lenya Thex
 |

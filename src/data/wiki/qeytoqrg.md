@@ -1,5 +1,5 @@
 # Qeynos_Hills (eqlwiki.com)
-fetched: 2026-10-12
+fetched: 2026-10-14
 
 Qeynos Hills - EverQuest Legends Wiki
 Jump to content
@@ -109,11 +109,11 @@ Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Glowing Black StoneGlowing Black Stone
-LORE ITEM
+Lore Equipped, Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 INT: +9
 SV MAGIC: +10
-WT: 0.4 Size: TINY
+Size: TINY WT: 0.4
 Class: ALL
 Race: ALL
 , Gnoll SlayerGnoll Slayer
@@ -1136,17 +1136,17 @@ a rabid wolf |
 (None) |
 LORE ITEM NODROP CHA: -3 SV DISEASE: -10 WT: 0.2 Size: TINY Class: ALL Race: ALL |
 Glowing Black StoneGlowing Black Stone
-LORE ITEM
+Lore Equipped, Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 INT: +9
 SV MAGIC: +10
-WT: 0.4 Size: TINY
+Size: TINY WT: 0.4
 Class: ALL
 Race: ALL
 |
 Pyzjn |
 Primary, Secondary |
-INT: +9 SV MAGIC: +10 WT: 0.4 Size: TINY Class: ALL Race: ALL |
+INT: +9 SV MAGIC: +10 Size: TINY WT: 0.4 Class: ALL Race: ALL |
 Gnoll FangGnoll Fang
 No Trade, Quest
 WT: 0.1 Size: SMALL

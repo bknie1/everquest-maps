@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-10-13
+fetched: 2026-10-14
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -835,13 +835,13 @@ Wind Rune Caza
 Shiny Pauldrons (5-SL)
 |
 Necklace of ResolutionNecklace of Resolution
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade
 Slot: NECK
-Charges: Unlimited
 AC: 4
 STR: +5 WIS: +7 HP: +30 MANA: +15
-Effect: Promised Renewal (Must Equip, Casting Time: Instant) at Level 45
-WT: 0.1 Size: TINY
+Effect: Promised Renewal (Clicky, Must Equip, Casting Time: Instant, Cooldown: 300 seconds) at Level 45
+Charges: Unlimited
+Size: TINY WT: 0.1
 Class: CLR
 Race: ALL
 |

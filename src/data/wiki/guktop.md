@@ -1,5 +1,5 @@
 # Upper_Guk (eqlwiki.com)
-fetched: 2026-10-12
+fetched: 2026-10-14
 
 Upper Guk - EverQuest Legends Wiki
 Jump to content
@@ -1234,8 +1234,8 @@ WT: 1.0 Size: SMALL
 Class: ALL
 Race: ALL
 |
-They spawn around loc (1600, 550). Respawn timer (16min 30sec).
-The ancient croc will always spawn alone. His aggro rad... |
+They spawn around loc (1600, 550). Respawn timer (8min 30sec).
+The ancient croc will always spawn alone. His aggro radi... |
 Froglok ton shaman
 |
 Old Froglok |

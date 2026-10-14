@@ -1,5 +1,5 @@
 # Temple_of_Solusek_Ro (eqlwiki.com)
-fetched: 2026-10-12
+fetched: 2026-10-14
 
 The Temple of Solusek Ro - EverQuest Legends Wiki
 Jump to content
@@ -579,13 +579,13 @@ Various |
 Staff of Temperate Flux Quest
 |
 Staff of Temperate FluxStaff of Temperate Flux
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade, Quest, Placeable
 Slot: PRIMARY
 Skill: 1H Blunt Atk Delay: 30
 DMG: 6
-Effect: LowerElement I (Any Slot/Can Equip, Casting Time: Instant) at Level 20
-SV FIRE +5 SV COLD +5
-WT: 4.0 Size: LARGE
+SV Fire: +5 SV Cold: +5
+Effect: Lower Element I (Clicky, Can Equip, Casting Time: Instant) at Level 20
+Size: LARGE WT: 4.0
 Class: WIZ
 Race: ALLDMG Bonus: 15 @ lvl 50
 |

@@ -1,5 +1,5 @@
 # Rathe_Mountains (eqlwiki.com)
-fetched: 2026-10-12
+fetched: 2026-10-14
 
 Rathe Mountains - EverQuest Legends Wiki
 Jump to content
@@ -404,7 +404,7 @@ Karam Dragonforge (4109, 918) |
 All |
 Permafrost |
 Lady Vox |
-NPCs - Found 118 NPCs that spawn in Rathe Mountains:
+NPCs - Found 119 NPCs that spawn in Rathe Mountains:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Basalt Drake
 |
@@ -1551,6 +1551,14 @@ Warrior |
 (x, y, z) |
 Recovered Loot |
 KoS to anyone friendly with Frogloks. Originally for the Guktan quests for the Dar Initiate Sword. |
+Sethena
+|
+|
+Warrior |
+7 |
+Wanders |
+* Muddy Trinket (100%) |
+Wanders around hill at 148, 1552 |
 Shardwing
 |
 Drake |

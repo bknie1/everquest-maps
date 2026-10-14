@@ -1,5 +1,5 @@
 # Plane_of_Hate (eqlwiki.com)
-fetched: 2026-10-12
+fetched: 2026-10-14
 
 Plane of Hate - EverQuest Legends Wiki
 Jump to content
@@ -1000,7 +1000,7 @@ Shadowed BookShadowed Book
 Lore Equipped, Temporary, Quest, Placeable
 Slot: Primary Secondary
 AC: 5
-WT: 1.5 Size: MEDIUM
+Size: MEDIUM WT: 1.5
 Class: None
 Race: ALL
 , Ethereal Mist Armor |
@@ -3082,17 +3082,17 @@ An Agent of Innoruuk, Innoruuk's Chosen |
 1H Slashing |
 Atk Delay: 23 DMG: 12 STR: +8 WIS: +8 WT: 5.5 Size: SMALL Class: RNG Race: ALL |
 Pauldrons of PowerPauldrons of Power
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade
 Slot: SHOULDERS
 AC: 10
-STR: +9 CHA: +9 WIS: +9 INT: +9 HP: +30 MANA: +30
-WT: 2.0 Size: SMALL
+STR: +9 INT: +9 WIS: +9 CHA: +9 HP: +30 MANA: +30
+Size: SMALL WT: 2.0
 Class: CLR PAL SHD NEC WIZ MAG ENC
 Race: ALL
 |
 Innoruuk |
 Shoulders |
-AC: 10 STR: +9 CHA: +9 WIS: +9 INT: +9 HP: +30 MANA: +30 WT: 2.0 Size: SMALL Class: CLR PAL SHD NEC WIZ MAG ENC Race: ALL |
+AC: 10 STR: +9 INT: +9 WIS: +9 CHA: +9 HP: +30 MANA: +30 Size: SMALL WT: 2.0 Class: CLR PAL SHD NEC WIZ MAG ENC Race: ALL |
 Prismatic ShieldPrismatic Shield
 Lore Equipped, No Trade, Placeable
 Slot: SECONDARY
@@ -4493,13 +4493,13 @@ Race: ALLDMG Bonus: 12 @ lvl 50
 Innoruuk Drops
 |
 Bloodstar PendantBloodstar Pendant
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade
 Slot: NECK
 AC: 5
-STR: +9 CHA: +9 WIS: +9 INT: +9
+STR: +9 INT: +9 WIS: +9 CHA: +9
 SV FIRE: +5 SV DISEASE: +5 SV COLD: +5 SV MAGIC: +5 SV POISON: +5
-WT: 0.1 Size: TINY
-Class: ALL except SHM
+Size: TINY WT: 0.1
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG NEC WIZ MAG ENC
 Race: ALL
 , Brewer's Mesh CloakBrewer's Mesh Cloak
 MAGIC ITEM LORE ITEM NO DROP
@@ -4510,12 +4510,12 @@ WT: 1.0 Size: SMALL
 Class: WAR CLR PAL ROG
 Race: ALL
 , Cloak of ScalesCloak of Scales
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade
 Slot: BACK
 AC: 15
-STR: +10 WIS: +10 INT: +10 HP: +50 MANA: +50
-WT: 1.0 Size: SMALL
-Class: WAR SHD SHM MNK NEC
+STR: +10 INT: +10 WIS: +10 HP: +50 MANA: +50 END: +50
+Size: SMALL WT: 1.0
+Class: WAR SHD MNK SHM NEC BST
 Race: ALL
 , Darkbrood MaskDarkbrood Mask
 MAGIC ITEM LORE ITEM NO DROP
@@ -4581,11 +4581,11 @@ Size: SMALL WT: 0.5
 Class: WAR CLR PAL RNG DRU ROG
 Race: ALL
 , Pauldrons of PowerPauldrons of Power
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade
 Slot: SHOULDERS
 AC: 10
-STR: +9 CHA: +9 WIS: +9 INT: +9 HP: +30 MANA: +30
-WT: 2.0 Size: SMALL
+STR: +9 INT: +9 WIS: +9 CHA: +9 HP: +30 MANA: +30
+Size: SMALL WT: 2.0
 Class: CLR PAL SHD NEC WIZ MAG ENC
 Race: ALL
 , Ring of PurebloodRing of Pureblood
