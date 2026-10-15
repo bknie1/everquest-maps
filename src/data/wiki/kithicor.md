@@ -1,5 +1,5 @@
 # Kithicor_Forest (eqlwiki.com)
-fetched: 2026-10-12
+fetched: 2026-10-15
 
 Kithicor Forest - EverQuest Legends Wiki
 Jump to content
@@ -1686,8 +1686,8 @@ WT: 4.0 Size: LARGE
 Class: ALL
 Race: ALL
 , Thick Grizzly Bear SkinThick Grizzly Bear Skin
-QUEST ITEM
-WT: 5.0 Size: LARGE
+Quest
+Size: LARGE WT: 5.0
 Class: ALL
 Race: ALL
 , Ruined Bear PeltRuined Bear Pelt

@@ -1,5 +1,5 @@
 # Solusek's_Eye (eqlwiki.com)
-fetched: 2026-10-12
+fetched: 2026-10-15
 
 Solusek's Eye - EverQuest Legends Wiki
 Jump to content
@@ -1068,7 +1068,7 @@ WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
 |
-Spawns in room 16 placeholders are fire goblin, inferno goblin shaman. Static mob doesn't roam. |
+Spawns in a room adjacent to the bartender, at #16 on the map. |
 Goblin High Shaman
 |
 Goblin |

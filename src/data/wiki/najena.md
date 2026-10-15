@@ -1,5 +1,5 @@
 # Najena (eqlwiki.com)
-fetched: 2026-10-11
+fetched: 2026-10-15
 
 Najena - EverQuest Legends Wiki
 Jump to content
@@ -140,15 +140,15 @@ WT: 0.1 Size: TINY
 Class: CLR SHD DRU NEC WIZ MAG ENC
 Race: ALL
 , Blued Two-Handed HammerBlued Two-Handed Hammer
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 44
 DMG: 21
-DEX: +3 STA: +3 MANA: +30
+STA: +3 DEX: +3 MANA: +30
 SV FIRE: +10
-Effect: Project Lightning (Combat, Casting Time: Instant) at Level 30
-WT: 11.0 Size: LARGE
-Class: ALL except BRD ROG NEC WIZ MAG ENC
+Effect: Project Lightning (Combat) at Level 30
+Size: LARGE WT: 11.0
+Class: WAR CLR PAL RNG SHD DRU MNK SHM BST BER
 Race: ALLDMG Bonus: 30 @ lvl 50
 , Clawed Knuckle-RingClawed Knuckle-Ring
 MAGIC ITEM
@@ -763,15 +763,15 @@ Quest Name | Reward | Quest Giver | Minimum Level | Classes | Related Zones | Re
 The Visiting Priestess
 |
 Blued Two-Handed HammerBlued Two-Handed Hammer
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 44
 DMG: 21
-DEX: +3 STA: +3 MANA: +30
+STA: +3 DEX: +3 MANA: +30
 SV FIRE: +10
-Effect: Project Lightning (Combat, Casting Time: Instant) at Level 30
-WT: 11.0 Size: LARGE
-Class: ALL except BRD ROG NEC WIZ MAG ENC
+Effect: Project Lightning (Combat) at Level 30
+Size: LARGE WT: 11.0
+Class: WAR CLR PAL RNG SHD DRU MNK SHM BST BER
 Race: ALLDMG Bonus: 30 @ lvl 50
 |
 A Visiting Priestess |

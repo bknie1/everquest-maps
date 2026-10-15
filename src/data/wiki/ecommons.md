@@ -1,5 +1,5 @@
 # East_Commonlands (eqlwiki.com)
-fetched: 2026-10-12
+fetched: 2026-10-15
 
 East Commonlands - EverQuest Legends Wiki
 Jump to content
@@ -756,7 +756,8 @@ WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
 , Deathfist Slashed BeltDeathfist Slashed Belt
-WT: 1.3 Size: SMALL
+Quest
+Size: SMALL WT: 1.3
 Class: ALL
 Race: ALL
 |
@@ -934,13 +935,14 @@ a ghoul |
 2H Blunt |
 Atk Delay: 45 DMG: 8 WT: 14.0 Size: LARGE Class: ALL except BRD ROG NEC WIZ MAG ENC Race: ALL |
 Deathfist Slashed BeltDeathfist Slashed Belt
-WT: 1.3 Size: SMALL
+Quest
+Size: SMALL WT: 1.3
 Class: ALL
 Race: ALL
 |
 Various |
 (None) |
-WT: 1.3 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 1.3 Class: ALL Race: ALL |
 Embalming DustEmbalming Dust
 WT: 0.1 Size: TINY
 Class: ALL

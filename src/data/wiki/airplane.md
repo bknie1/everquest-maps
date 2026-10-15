@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-10-14
+fetched: 2026-10-15
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -963,12 +963,12 @@ Spiroc Battle Staff (5-SL)
 Efreeti Statuette
 |
 Honeycomb BeltHoneycomb Belt
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade
 Slot: WAIST
 AC: 6
-CHA: +2 WIS: +8 MANA: +75
+WIS: +8 CHA: +2 MANA: +75
 Haste: +26%
-WT: 2.0 Size: SMALL
+Size: SMALL WT: 2.0
 Class: DRU
 Race: ALL
 |

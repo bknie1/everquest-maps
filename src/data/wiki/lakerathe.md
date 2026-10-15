@@ -1,5 +1,5 @@
 # Lake_Rathetear (eqlwiki.com)
-fetched: 2026-10-14
+fetched: 2026-10-15
 
 Lake Rathetear - EverQuest Legends Wiki
 Jump to content
@@ -1189,7 +1189,7 @@ WT: 2.0 Size: MEDIUM
 Class: ALL except MNK NEC WIZ MAG ENC
 Race: ALL
 |
-Lord Bergurgle, a Deepwater Goblin |
+Lord Bergurgle, a Deepwater Goblin , an aqua goblin |
 Head |
 AC: 2 SV FIRE: +4 WT: 2.0 Size: MEDIUM Class: ALL except MNK NEC WIZ MAG ENC Race: ALL |
 Opoline HelmOpoline Helm

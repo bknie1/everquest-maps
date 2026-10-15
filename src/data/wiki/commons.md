@@ -1,5 +1,5 @@
 # West_Commonlands (eqlwiki.com)
-fetched: 2026-10-12
+fetched: 2026-10-15
 
 West Commonlands - EverQuest Legends Wiki
 Jump to content
@@ -736,7 +736,8 @@ WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
 , Deathfist Slashed BeltDeathfist Slashed Belt
-WT: 1.3 Size: SMALL
+Quest
+Size: SMALL WT: 1.3
 Class: ALL
 Race: ALL
 |
@@ -918,23 +919,25 @@ a Dervish Cutthroat |
 Fingers |
 AC: 1 DEX: +2 WT: 0.1 Size: TINY Class: ALL Race: ALL |
 Deathfist ShoulderpadsDeathfist Shoulderpads
+Attunable, Quest
 Slot: SHOULDERS
 AC: 1
-WT: 1.9 Size: SMALL
-Class: ALL except NEC WIZ MAG ENC
+Size: SMALL WT: 1.9
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BER
 Race: ALL
 |
 an orc legionnaire, orc legionnaire |
 Shoulders |
-AC: 1 WT: 1.9 Size: SMALL Class: ALL except NEC WIZ MAG ENC Race: ALL |
+AC: 1 Size: SMALL WT: 1.9 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BER Race: ALL |
 Deathfist Slashed BeltDeathfist Slashed Belt
-WT: 1.3 Size: SMALL
+Quest
+Size: SMALL WT: 1.3
 Class: ALL
 Race: ALL
 |
 Various |
 (None) |
-WT: 1.3 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 1.3 Class: ALL Race: ALL |
 HoneycombHoneycomb
 Quest
 Size: TINY WT: 0.
@@ -1000,17 +1003,17 @@ a darkweed snake |
 (None) |
 QUEST ITEM WT: 0.2 Size: SMALL Class: ALL Race: ALL |
 Raw Short Sword 4Raw Short Sword 4
-LORE ITEM NO DROP
+Lore Equipped, No Trade, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 40
 DMG: 2
-WT: 10.0 Size: MEDIUM
+Size: MEDIUM WT: 10.0
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALLDMG Bonus: 20 @ lvl 50
 |
 orc weaponsmith |
 1H Slashing |
-Atk Delay: 40 DMG: 2 WT: 10.0 Size: MEDIUM Class: WAR PAL RNG SHD BRD ROG Race: ALL |
+Atk Delay: 40 DMG: 2 Size: MEDIUM WT: 10.0 Class: WAR PAL RNG SHD BRD ROG Race: ALL |
 Revenant AshRevenant Ash
 No Trade, Quest
 WT: 0.1 Size: TINY

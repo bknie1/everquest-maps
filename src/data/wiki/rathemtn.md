@@ -1,5 +1,5 @@
 # Rathe_Mountains (eqlwiki.com)
-fetched: 2026-10-14
+fetched: 2026-10-15
 
 Rathe Mountains - EverQuest Legends Wiki
 Jump to content
@@ -671,8 +671,8 @@ Class: ALL
 Race: ALL
 (Ultra Rare)
 Thick Grizzly Bear SkinThick Grizzly Bear Skin
-QUEST ITEM
-WT: 5.0 Size: LARGE
+Quest
+Size: LARGE WT: 5.0
 Class: ALL
 Race: ALL
 (Uncommon)

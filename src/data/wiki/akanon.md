@@ -1,5 +1,5 @@
 # Ak'Anon (eqlwiki.com)
-fetched: 2026-10-12
+fetched: 2026-10-15
 
 Ak'Anon - EverQuest Legends Wiki
 Jump to content
@@ -277,6 +277,12 @@ Race: ALLDMG Bonus: 16 @ lvl 50
 Slot: WRIST
 AC: 3
 WT: 0.8 Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+, Small Leather BootsSmall Leather Boots
+Slot: FEET
+AC: 4
+WT: 1.9 Size: SMALL
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 |

@@ -1,5 +1,5 @@
 # Misty_Thicket (eqlwiki.com)
-fetched: 2026-10-12
+fetched: 2026-10-15
 
 Misty Thicket - EverQuest Legends Wiki
 Jump to content
@@ -1020,7 +1020,8 @@ Warrior |
 10 |
 West side of the wall. |
 Deathfist Slashed BeltDeathfist Slashed Belt
-WT: 1.3 Size: SMALL
+Quest
+Size: SMALL WT: 1.3
 Class: ALL
 Race: ALL
 |
@@ -1479,13 +1480,14 @@ Mooto, a goblin shaman |
 Primary, Secondary |
 HP: +5 WIS: +7 WT: 0.8 Size: SMALL Class: CLR DRU BRD SHM Race: ALL |
 Deathfist Slashed BeltDeathfist Slashed Belt
-WT: 1.3 Size: SMALL
+Quest
+Size: SMALL WT: 1.3
 Class: ALL
 Race: ALL
 |
 Orc Centurion |
 (None) |
-WT: 1.3 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 1.3 Class: ALL Race: ALL |
 Elven Charm NecklaceElven Charm Necklace
 Lore Equipped, Attunable, Quest
 Slot: NECK

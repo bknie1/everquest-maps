@@ -1,5 +1,5 @@
 # North_Ro (eqlwiki.com)
-fetched: 2026-10-11
+fetched: 2026-10-15
 
 The Northern Desert of Ro - EverQuest Legends Wiki
 Jump to content
@@ -755,13 +755,14 @@ a deathfist pawn, Deathfist Pawn |
 (None) |
 WT: 0.1 Size: SMALL Class: ALL Race: ALL |
 Deathfist Slashed BeltDeathfist Slashed Belt
-WT: 1.3 Size: SMALL
+Quest
+Size: SMALL WT: 1.3
 Class: ALL
 Race: ALL
 |
 None? |
 (None) |
-WT: 1.3 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 1.3 Class: ALL Race: ALL |
 Desert Tarantula ChitinDesert Tarantula Chitin
 QUEST ITEM
 STR: -2 DEX: -2

@@ -1,5 +1,5 @@
 # The_Hole (eqlwiki.com)
-fetched: 2026-10-13
+fetched: 2026-10-15
 
 The Hole - EverQuest Legends Wiki
 Jump to content
@@ -481,33 +481,7 @@ Erudite Ghost |
 Warrior |
 49-54 |
 Various |
-Imbued Granite SpauldersImbued Granite Spaulders
-LORE ITEM
-Slot: SHOULDERS
-AC: 20
-SV FIRE: +10 SV DISEASE: +10 SV COLD: +10 SV MAGIC: +10 SV POISON: +10
-WT: 45.0 Size: SMALL
-Class: WAR CLR PAL RNG SHD MNK BRD ROG SHM
-Race: ALL
-, Withered Leather SleevesWithered Leather Sleeves
-MAGIC ITEM LORE ITEM
-Slot: ARMS
-AC: 5
-WIS: +4 MANA: +10
-SV FIRE: +10
-WT: 1.5 Size: SMALL
-Class: CLR DRU SHM BST
-Race: ALL
-, Withered Leather ShoulderpadsWithered Leather Shoulderpads
-MAGIC ITEM LORE ITEM
-Slot: SHOULDERS
-AC: 4
-STR: +5 STA: +5 MANA: +15
-SV FIRE: +3 SV DISEASE: +3 SV COLD: +3 SV MAGIC: +3 SV POISON: +3
-WT: 1.5 Size: SMALL
-Class: CLR DRU SHM BST
-Race: ALL
-, Paineel Steel Armor Set pieces |
+Various |
 Appears in both male and female form, extremely magic resistant. The max level are unmezzable / uncharmable due to Old W... |
 A rock golem
 |
@@ -1925,7 +1899,7 @@ WT: 3.5 Size: MEDIUM
 Class: CLR DRU SHM BST
 Race: ALL
 |
-Dartain the Lost |
+Dartain the Lost, A revenant |
 Chest |
 AC: 11 WIS: +4 MANA: +90 SV MAGIC: +10 WT: 3.5 Size: MEDIUM Class: CLR DRU SHM BST Race: ALL |
 Withered Leather WristbandsWithered Leather Wristbands

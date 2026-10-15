@@ -1,5 +1,5 @@
 # Felwithe (eqlwiki.com)
-fetched: 2026-10-12
+fetched: 2026-10-15
 
 Felwithe - EverQuest Legends Wiki
 Jump to content
@@ -1161,8 +1161,8 @@ High Elf |
 Paladin |
 41 |
 100% @ (172, -140) |
-* Two Handed Sword |
-Head of the Felwithe Rampart Guard. Often casts cancel magic, and root. An undercon compared to the other guards in zon... |
+|
+|
 Merchant Dantree
 |
 High Elf |

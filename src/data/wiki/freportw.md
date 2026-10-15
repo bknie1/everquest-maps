@@ -1,5 +1,5 @@
 # West_Freeport (eqlwiki.com)
-fetched: 2026-10-11
+fetched: 2026-10-15
 
 Freeport - EverQuest Legends Wiki
 Jump to content
@@ -2227,7 +2227,8 @@ An orc centurion
 |
 |
 Deathfist Slashed BeltDeathfist Slashed Belt
-WT: 1.3 Size: SMALL
+Quest
+Size: SMALL WT: 1.3
 Class: ALL
 Race: ALL
 |

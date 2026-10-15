@@ -1,5 +1,5 @@
 # Lesser_Faydark (eqlwiki.com)
-fetched: 2026-10-10
+fetched: 2026-10-15
 
 Lesser Faydark - EverQuest Legends Wiki
 Jump to content
@@ -658,11 +658,10 @@ Unicorn HornUnicorn Horn
 Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Charges: 10
-Wind Resonance: 12
 Effect: Purge (Any Slot, Casting Time: Instant)
 WT: 0.1 Size: SMALL
 Class: ALL
-Race: ALL
+Race: ALLFocus Effect: Wind Resonance 12
 , Equestrielle's EyeEquestrielle's Eye
 MAGIC ITEM LORE ITEM NO DROP
 WT: 0.1 Size: TINY
@@ -686,11 +685,10 @@ Unicorn HornUnicorn Horn
 Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Charges: 10
-Wind Resonance: 12
 Effect: Purge (Any Slot, Casting Time: Instant)
 WT: 0.1 Size: SMALL
 Class: ALL
-Race: ALL
+Race: ALLFocus Effect: Wind Resonance 12
 (Rare), Equestrielle's EyeEquestrielle's Eye
 MAGIC ITEM LORE ITEM NO DROP
 WT: 0.1 Size: TINY
@@ -1350,15 +1348,16 @@ Crookstinger |
 (None) |
 Effect: Feeble Mind I (Combat) at Level 20 Size: SMALL WT: 0.4 Class: ALL Race: ALL |
 Deathfist ShoulderpadsDeathfist Shoulderpads
+Attunable, Quest
 Slot: SHOULDERS
 AC: 1
-WT: 1.9 Size: SMALL
-Class: ALL except NEC WIZ MAG ENC
+Size: SMALL WT: 1.9
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BER
 Race: ALL
 |
 orc chief, orc legionnaire |
 Shoulders |
-AC: 1 WT: 1.9 Size: SMALL Class: ALL except NEC WIZ MAG ENC Race: ALL |
+AC: 1 Size: SMALL WT: 1.9 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BER Race: ALL |
 Dull Pearl NecklaceDull Pearl Necklace
 LORE ITEM NODROP
 Slot: NECK
@@ -1989,15 +1988,14 @@ Unicorn HornUnicorn Horn
 Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Charges: 10
-Wind Resonance: 12
 Effect: Purge (Any Slot, Casting Time: Instant)
 WT: 0.1 Size: SMALL
 Class: ALL
-Race: ALL
+Race: ALLFocus Effect: Wind Resonance 12
 |
 Equestrielle, Equestrielle the Corrupted |
 Primary, Secondary |
-Charges: 10 Wind Resonance: 12 Effect: Purge WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+Charges: 10 Effect: Purge WT: 0.1 Size: SMALL Class: ALL Race: ALL |
 Unicorn Horn FragmentsUnicorn Horn Fragments
 Charges: 2
 Effect: Purge (Clicky, Casting Time: Instant)
