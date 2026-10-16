@@ -1,5 +1,5 @@
 # Kedge_Keep (eqlwiki.com)
-fetched: 2026-10-11
+fetched: 2026-10-16
 
 Kedge Keep - EverQuest Legends Wiki
 Jump to content
@@ -222,7 +222,8 @@ WT: 3.5 Size: LARGE
 Class: WAR PAL RNG SHD MNK BRD ROG
 Race: ALL
 , Shark SkinShark Skin
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Shark ToothShark Tooth
@@ -688,7 +689,8 @@ WT: 1.5 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
 Race: ALLDMG Bonus: 9 @ lvl 50
 , Shark SkinShark Skin
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Shark MeatShark Meat
@@ -1491,13 +1493,14 @@ a golden haired mermaid |
 (None) |
 LORE ITEM NO DROP WT: 1.0 Size: SMALL Class: ALL Race: ALL |
 Mermaid ScaleMermaid Scale
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
 a gloomstalker mermaid, a gloomwater mermaid, Coralyn Kelpmaiden |
 (None) |
-WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.1 Class: ALL Race: ALL |
 Pearlescent MaskPearlescent Mask
 No Trade
 Slot: FACE

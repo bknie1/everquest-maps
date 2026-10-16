@@ -1,5 +1,5 @@
 # Lower_Guk (eqlwiki.com)
-fetched: 2026-10-11
+fetched: 2026-10-16
 
 Lower Guk - EverQuest Legends Wiki
 Jump to content
@@ -954,12 +954,13 @@ Warrior |
 30-32 |
 3% @ (759, -412), 3% @ (922, -402), 3% @ (933, -423), 3% @ (911, -419) |
 2-4x Spider SilkSpider Silk
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 (Common), Spider LegsSpider Legs
-QUEST ITEM
-WT: 0.5 Size: SMALL
+Quest
+Size: SMALL WT: 0.5
 Class: ALL
 Race: ALL
 (Common), Spider Venom SacSpider Venom Sac

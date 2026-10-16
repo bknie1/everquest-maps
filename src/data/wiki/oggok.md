@@ -1,5 +1,5 @@
 # Oggok (eqlwiki.com)
-fetched: 2026-10-12
+fetched: 2026-10-16
 
 Oggok - EverQuest Legends Wiki
 Jump to content
@@ -598,11 +598,12 @@ WT: 5.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG SHM
 Race: ALLDMG Bonus: 15 @ lvl 50
 , Rusty HalberdRusty Halberd
+Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 56
 DMG: 10
-WT: 14.0 Size: GIANT
-Class: WAR PAL RNG SHD
+Size: GIANT WT: 14.0
+Class: WAR PAL RNG SHD BER
 Race: ALLDMG Bonus: 34 @ lvl 50
 , Short SwordShort Sword
 Slot: PRIMARY SECONDARY
@@ -649,9 +650,8 @@ Warrior |
 2 |
 North Ro: 34% @ (2750, 644), 34% @ (2802, 471), 34% @ (3297, 595) |
 Chunk of MeatChunk of Meat
-QUEST ITEM
-This is a meal!
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Armadillo HuskArmadillo Husk

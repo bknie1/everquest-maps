@@ -1,5 +1,5 @@
 # Crushbone (eqlwiki.com)
-fetched: 2026-10-13
+fetched: 2026-10-16
 
 Crushbone - EverQuest Legends Wiki
 Jump to content
@@ -820,12 +820,12 @@ Warrior |
 12-13 |
 Various |
 Legionnaire's BracerLegionnaire's Bracer
-QUEST ITEM
+Attunable, Quest
 Slot: WRIST
-AC: 3 HP: +2
-STR: +1
-WT: 2.0 Size: SMALL
-Class: WAR PAL RNG SHD BRD ROG
+AC: 3
+STR: +1 HP: +2
+Size: SMALL WT: 2.0
+Class: WAR PAL RNG SHD BRD ROG BER
 Race: ALL
 , Crushbone ShoulderpadsCrushbone Shoulderpads
 Slot: SHOULDERS
@@ -1336,26 +1336,26 @@ Bonefire |
 2H Slashing |
 Atk Delay: 43 DMG: 11 END: +15 STR: +4 Class: WAR PAL RNG SHD BER Race: ALL WT: 10.0 Size: LARGE |
 Illegible ScrollIllegible Scroll
-LORE ITEM
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
 orc oracle ("Oracle Scroll") |
 (None) |
-LORE ITEM WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.1 Class: ALL Race: ALL |
 Legionnaire's BracerLegionnaire's Bracer
-QUEST ITEM
+Attunable, Quest
 Slot: WRIST
-AC: 3 HP: +2
-STR: +1
-WT: 2.0 Size: SMALL
-Class: WAR PAL RNG SHD BRD ROG
+AC: 3
+STR: +1 HP: +2
+Size: SMALL WT: 2.0
+Class: WAR PAL RNG SHD BRD ROG BER
 Race: ALL
 |
 orc legionnaire |
 Wrist |
-AC: 3 HP: +2 STR: +1 WT: 2.0 Size: SMALL Class: WAR PAL RNG SHD BRD ROG Race: ALL |
+AC: 3 STR: +1 HP: +2 Size: SMALL WT: 2.0 Class: WAR PAL RNG SHD BRD ROG BER Race: ALL |
 Master Crushbone Cell KeyMaster Crushbone Cell Key
 NO DROP
 WT: 0.0 Size: TINY

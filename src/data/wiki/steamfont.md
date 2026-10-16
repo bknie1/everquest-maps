@@ -1,5 +1,5 @@
 # Steamfont_Mountains (eqlwiki.com)
-fetched: 2026-10-12
+fetched: 2026-10-16
 
 Steamfont Mountains - EverQuest Legends Wiki
 Jump to content
@@ -242,7 +242,8 @@ Warrior |
 7 - 9 |
 Various |
 Spider SilkSpider Silk
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Spider Venom SacSpider Venom Sac
@@ -251,8 +252,8 @@ WT: 0.2 Size: SMALL
 Class: ALL
 Race: ALL
 , Spider LegsSpider Legs
-QUEST ITEM
-WT: 0.5 Size: SMALL
+Quest
+Size: SMALL WT: 0.5
 Class: ALL
 Race: ALL
 |
@@ -342,8 +343,8 @@ Warrior |
 7 |
 ? |
 Ruined Cat PeltRuined Cat Pelt
-QUEST ITEM
-WT: 3.5 Size: LARGE
+Quest
+Size: LARGE WT: 3.5
 Class: ALL
 Race: ALL
 , Low Quality Cat PeltLow Quality Cat Pelt
@@ -352,8 +353,8 @@ Size: LARGE WT: 3.5
 Class: ALL
 Race: ALL
 , Medium Quality Cat PeltMedium Quality Cat Pelt
-QUEST ITEM
-WT: 3.5 Size: LARGE
+Quest
+Size: LARGE WT: 3.5
 Class: ALL
 Race: ALL
 , High Quality Cat PeltHigh Quality Cat Pelt
@@ -413,8 +414,8 @@ Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Spider LegsSpider Legs
-QUEST ITEM
-WT: 0.5 Size: SMALL
+Quest
+Size: SMALL WT: 0.5
 Class: ALL
 Race: ALL
 , Spiderling LegsSpiderling Legs
@@ -543,9 +544,8 @@ Warrior |
 3 |
 100% @ (-1014, 1697), 100% @ (-1700, 1680) |
 Chunk of MeatChunk of Meat
-QUEST ITEM
-This is a meal!
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Wolf MeatWolf Meat
@@ -563,8 +563,8 @@ Warrior |
 3-6 |
 ? |
 Ruined Cat PeltRuined Cat Pelt
-QUEST ITEM
-WT: 3.5 Size: LARGE
+Quest
+Size: LARGE WT: 3.5
 Class: ALL
 Race: ALL
 , Low Quality Cat PeltLow Quality Cat Pelt
@@ -573,8 +573,8 @@ Size: LARGE WT: 3.5
 Class: ALL
 Race: ALL
 , Medium Quality Cat PeltMedium Quality Cat Pelt
-QUEST ITEM
-WT: 3.5 Size: LARGE
+Quest
+Size: LARGE WT: 3.5
 Class: ALL
 Race: ALL
 , High Quality Cat PeltHigh Quality Cat Pelt

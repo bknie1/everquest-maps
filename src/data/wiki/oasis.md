@@ -1,5 +1,5 @@
 # Oasis_of_Marr (eqlwiki.com)
-fetched: 2026-10-11
+fetched: 2026-10-16
 
 Oasis of Marr - EverQuest Legends Wiki
 Jump to content
@@ -245,9 +245,8 @@ Warrior |
 11 - 13 |
 Various |
 Chunk of MeatChunk of Meat
-QUEST ITEM
-This is a meal!
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Gator MeatGator Meat
@@ -269,9 +268,8 @@ Warrior |
 13 - 15 |
 Various |
 Chunk of MeatChunk of Meat
-QUEST ITEM
-This is a meal!
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Gator MeatGator Meat
@@ -293,9 +291,8 @@ WT: 0.1 Size: TINY
 Class: DRU WIZ
 Race: ALL
 , Chunk of MeatChunk of Meat
-QUEST ITEM
-This is a meal!
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Gator MeatGator Meat
@@ -318,9 +315,8 @@ WT: 0.1 Size: TINY
 Class: DRU WIZ
 Race: ALL
 , Chunk of MeatChunk of Meat
-QUEST ITEM
-This is a meal!
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Gator MeatGator Meat
@@ -361,14 +357,13 @@ Warrior |
 10 |
 Various |
 Giant Snake RattleGiant Snake Rattle
-QUEST ITEM
-WT: 1.2 Size: MEDIUM
+Quest
+Size: MEDIUM WT: 1.2
 Class: ALL
 Race: ALL
 , Snake EggSnake Egg
-QUEST ITEM
-This is a snack!
-WT: 0.2 Size: TINY
+Quest
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 , Snake Venom SacSnake Venom Sac
@@ -507,8 +502,9 @@ Warrior |
 61 |
 100% @ (-1788, 1347) |
 Fishing PoleFishing Pole
+Attunable, Placeable
 Slot: PRIMARY
-WT: 1.0 Size: TINY
+Size: TINY WT: 1.0
 Class: ALL
 Race: ALL
 |

@@ -1,5 +1,5 @@
 # Innothule_Swamp (eqlwiki.com)
-fetched: 2026-10-13
+fetched: 2026-10-16
 
 Innothule Swamp - EverQuest Legends Wiki
 Jump to content
@@ -397,9 +397,8 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , Snake EggSnake Egg
-QUEST ITEM
-This is a snack!
-WT: 0.2 Size: TINY
+Quest
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 |
@@ -411,9 +410,8 @@ Warrior |
 4 |
 Various |
 Chunk of MeatChunk of Meat
-QUEST ITEM
-This is a meal!
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Gator MeatGator Meat
@@ -451,9 +449,8 @@ WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
 , Snake EggSnake Egg
-QUEST ITEM
-This is a snack!
-WT: 0.2 Size: TINY
+Quest
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 |
@@ -697,10 +694,12 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , Hunting BowHunting Bow
+Attunable, Quest, Placeable
 Slot: RANGE
 Skill: Archery Atk Delay: 43
 DMG: 5
-WT: 3.5 Range: 50 Size: MEDIUM
+Range: 50
+Size: MEDIUM WT: 3.5
 Class: WAR PAL RNG SHD ROG
 Race: ALL
 , Human Parts |
@@ -792,10 +791,12 @@ Ranger |
 14 |
 75% @ (-1470, 47) |
 Hunting BowHunting Bow
+Attunable, Quest, Placeable
 Slot: RANGE
 Skill: Archery Atk Delay: 43
 DMG: 5
-WT: 3.5 Range: 50 Size: MEDIUM
+Range: 50
+Size: MEDIUM WT: 3.5
 Class: WAR PAL RNG SHD ROG
 Race: ALL
 , Human BloodHuman Blood

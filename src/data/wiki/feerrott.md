@@ -1,5 +1,5 @@
 # The_Feerrott (eqlwiki.com)
-fetched: 2026-10-12
+fetched: 2026-10-16
 
 The Feerrott - EverQuest Legends Wiki
 Jump to content
@@ -306,9 +306,8 @@ WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
 , Snake EggSnake Egg
-QUEST ITEM
-This is a snack!
-WT: 0.2 Size: TINY
+Quest
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 |
@@ -320,12 +319,13 @@ Warrior |
 3 - 5 |
 Various |
 Spider SilkSpider Silk
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Spider LegsSpider Legs
-QUEST ITEM
-WT: 0.5 Size: SMALL
+Quest
+Size: SMALL WT: 0.5
 Class: ALL
 Race: ALL
 , Black Spider SilkBlack Spider Silk
@@ -476,9 +476,8 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , Snake EggSnake Egg
-QUEST ITEM
-This is a snack!
-WT: 0.2 Size: TINY
+Quest
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 |

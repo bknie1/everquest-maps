@@ -1,5 +1,5 @@
 # The_Hole (eqlwiki.com)
-fetched: 2026-10-15
+fetched: 2026-10-16
 
 The Hole - EverQuest Legends Wiki
 Jump to content
@@ -170,12 +170,12 @@ WT: 2.5 Size: TINY
 Class: ALL
 Race: ALLFocus Effect: Improved Healing III
 , Imbued Granite SpauldersImbued Granite Spaulders
-LORE ITEM
+Lore Equipped, No Trade
 Slot: SHOULDERS
 AC: 20
 SV FIRE: +10 SV DISEASE: +10 SV COLD: +10 SV MAGIC: +10 SV POISON: +10
 WT: 45.0 Size: SMALL
-Class: WAR CLR PAL RNG SHD MNK BRD ROG SHM
+Class: WAR CLR PAL RNG SHD MNK BRD ROG SHM BER
 Race: ALL
 , Imbued Shield of PaineelImbued Shield of Paineel
 MAGIC ITEM LORE ITEM
@@ -406,12 +406,12 @@ Warrior |
 45-50 |
 Past the first castle, can be found wandering around. |
 Imbued Granite SpauldersImbued Granite Spaulders
-LORE ITEM
+Lore Equipped, No Trade
 Slot: SHOULDERS
 AC: 20
 SV FIRE: +10 SV DISEASE: +10 SV COLD: +10 SV MAGIC: +10 SV POISON: +10
 WT: 45.0 Size: SMALL
-Class: WAR CLR PAL RNG SHD MNK BRD ROG SHM
+Class: WAR CLR PAL RNG SHD MNK BRD ROG SHM BER
 Race: ALL
 , Smoldering BrandSmoldering Brand
 MAGIC ITEM LORE ITEM
@@ -490,12 +490,12 @@ Warrior |
 48-54 |
 Various |
 Imbued Granite SpauldersImbued Granite Spaulders
-LORE ITEM
+Lore Equipped, No Trade
 Slot: SHOULDERS
 AC: 20
 SV FIRE: +10 SV DISEASE: +10 SV COLD: +10 SV MAGIC: +10 SV POISON: +10
 WT: 45.0 Size: SMALL
-Class: WAR CLR PAL RNG SHD MNK BRD ROG SHM
+Class: WAR CLR PAL RNG SHD MNK BRD ROG SHM BER
 Race: ALL
 (Rare), Mudman EnforcerMudman Enforcer
 MAGIC ITEM LORE ITEM
@@ -525,12 +525,12 @@ Shadow Knight |
 51-54 |
 Various |
 Imbued Granite SpauldersImbued Granite Spaulders
-LORE ITEM
+Lore Equipped, No Trade
 Slot: SHOULDERS
 AC: 20
 SV FIRE: +10 SV DISEASE: +10 SV COLD: +10 SV MAGIC: +10 SV POISON: +10
 WT: 45.0 Size: SMALL
-Class: WAR CLR PAL RNG SHD MNK BRD ROG SHM
+Class: WAR CLR PAL RNG SHD MNK BRD ROG SHM BER
 Race: ALL
 , Withered Leather SleevesWithered Leather Sleeves
 MAGIC ITEM LORE ITEM
@@ -1011,12 +1011,12 @@ Warrior |
 54 |
 (372, -88. -213) |
 Imbued Granite SpauldersImbued Granite Spaulders
-LORE ITEM
+Lore Equipped, No Trade
 Slot: SHOULDERS
 AC: 20
 SV FIRE: +10 SV DISEASE: +10 SV COLD: +10 SV MAGIC: +10 SV POISON: +10
 WT: 45.0 Size: SMALL
-Class: WAR CLR PAL RNG SHD MNK BRD ROG SHM
+Class: WAR CLR PAL RNG SHD MNK BRD ROG SHM BER
 Race: ALL
 , Idol of the UnderkingIdol of the Underking
 MAGIC ITEM LORE ITEM
@@ -1354,17 +1354,17 @@ Slizik the Mighty, Retseth Tretse |
 Range, Primary, Secondary |
 STR: +3 HP: +20 MANA: +20 WT: 2.5 Size: TINY Class: ALL Race: ALL |
 Imbued Granite SpauldersImbued Granite Spaulders
-LORE ITEM
+Lore Equipped, No Trade
 Slot: SHOULDERS
 AC: 20
 SV FIRE: +10 SV DISEASE: +10 SV COLD: +10 SV MAGIC: +10 SV POISON: +10
 WT: 45.0 Size: SMALL
-Class: WAR CLR PAL RNG SHD MNK BRD ROG SHM
+Class: WAR CLR PAL RNG SHD MNK BRD ROG SHM BER
 Race: ALL
 |
 Various |
 Shoulders |
-AC: 20 SV FIRE: +10 SV DISEASE: +10 SV COLD: +10 SV MAGIC: +10 SV POISON: +10 WT: 45.0 Size: SMALL Class: WAR CLR PAL RNG SHD MNK BRD ROG SHM Race: ALL |
+AC: 20 SV FIRE: +10 SV DISEASE: +10 SV COLD: +10 SV MAGIC: +10 SV POISON: +10 WT: 45.0 Size: SMALL Class: WAR CLR PAL RNG SHD MNK BRD ROG SHM BER Race: ALL |
 Imbued Shield of PaineelImbued Shield of Paineel
 MAGIC ITEM LORE ITEM
 Slot: SECONDARY
@@ -1955,12 +1955,12 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , Imbued Granite SpauldersImbued Granite Spaulders
-LORE ITEM
+Lore Equipped, No Trade
 Slot: SHOULDERS
 AC: 20
 SV FIRE: +10 SV DISEASE: +10 SV COLD: +10 SV MAGIC: +10 SV POISON: +10
 WT: 45.0 Size: SMALL
-Class: WAR CLR PAL RNG SHD MNK BRD ROG SHM
+Class: WAR CLR PAL RNG SHD MNK BRD ROG SHM BER
 Race: ALL
 , Loam Encrusted RobeLoam Encrusted Robe
 Lore Equipped, Attunable

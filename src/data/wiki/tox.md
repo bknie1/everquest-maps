@@ -1,5 +1,5 @@
 # Toxxulia_Forest (eqlwiki.com)
-fetched: 2026-10-12
+fetched: 2026-10-16
 
 Toxxulia Forest - EverQuest Legends Wiki
 Jump to content
@@ -395,8 +395,8 @@ Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Spider LegsSpider Legs
-QUEST ITEM
-WT: 0.5 Size: SMALL
+Quest
+Size: SMALL WT: 0.5
 Class: ALL
 Race: ALL
 , Spiderling LegsSpiderling Legs
@@ -413,8 +413,8 @@ Warrior |
 2 |
 Various |
 Spider LegsSpider Legs
-QUEST ITEM
-WT: 0.5 Size: SMALL
+Quest
+Size: SMALL WT: 0.5
 Class: ALL
 Race: ALL
 Spiderling EyeSpiderling Eye
@@ -459,9 +459,8 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , Snake EggSnake Egg
-QUEST ITEM
-This is a snack!
-WT: 0.2 Size: TINY
+Quest
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 |
@@ -486,9 +485,8 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , Snake EggSnake Egg
-QUEST ITEM
-This is a snack!
-WT: 0.2 Size: TINY
+Quest
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 , Snake Venom SacSnake Venom Sac
@@ -514,9 +512,8 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , Snake EggSnake Egg
-QUEST ITEM
-This is a snack!
-WT: 0.2 Size: TINY
+Quest
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 , Snake Venom SacSnake Venom Sac
@@ -558,9 +555,8 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , Snake EggSnake Egg
-QUEST ITEM
-This is a snack!
-WT: 0.2 Size: TINY
+Quest
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 , Snake Venom SacSnake Venom Sac
@@ -581,9 +577,8 @@ Warrior |
 3 - 5 |
 Various |
 Snake EggSnake Egg
-QUEST ITEM
-This is a snack!
-WT: 0.2 Size: TINY
+Quest
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 , Snake FangSnake Fang
@@ -606,9 +601,8 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , Snake EggSnake Egg
-QUEST ITEM
-This is a snack!
-WT: 0.2 Size: TINY
+Quest
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 , Snake Venom SacSnake Venom Sac
@@ -695,9 +689,8 @@ WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
 , Snake EggSnake Egg
-QUEST ITEM
-This is a snack!
-WT: 0.2 Size: TINY
+Quest
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 |
@@ -1122,14 +1115,14 @@ a giant briar snake, a giant thistle snake |
 (None) |
 QUEST ITEM WT: 0.4 Size: MEDIUM Class: ALL Race: ALL |
 Giant Fire Beetle LegGiant Fire Beetle Leg
-QUEST ITEM
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
 None? |
 (None) |
-QUEST ITEM WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.1 Class: ALL Race: ALL |
 Half of a SpellHalf of a Spell
 LORE ITEM NO DROP
 WT: 0.1 Size: TINY

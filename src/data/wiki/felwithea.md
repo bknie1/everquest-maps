@@ -1,5 +1,5 @@
 # Felwithe (eqlwiki.com)
-fetched: 2026-10-15
+fetched: 2026-10-16
 
 Felwithe - EverQuest Legends Wiki
 Jump to content
@@ -191,11 +191,12 @@ WT: 2.5 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
 Race: ALLDMG Bonus: 12 @ lvl 50
 , Spell: Numbing Cold, Worn Great StaffWorn Great Staff
+Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 40
 DMG: 6
-WT: 10.0 Size: LARGE
-Class: ALL except BRD ROG
+Size: LARGE WT: 10.0
+Class: WAR CLR PAL RNG SHD DRU MNK SHM NEC WIZ MAG ENC BST BER
 Race: ALLDMG Bonus: 27 @ lvl 50
 |
 Tarker Blazetoss |

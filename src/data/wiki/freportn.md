@@ -1,5 +1,5 @@
 # North_Freeport (eqlwiki.com)
-fetched: 2026-10-15
+fetched: 2026-10-16
 
 Freeport - EverQuest Legends Wiki
 Jump to content
@@ -590,9 +590,8 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , Snake EggSnake Egg
-QUEST ITEM
-This is a snack!
-WT: 0.2 Size: TINY
+Quest
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 |
@@ -701,11 +700,11 @@ GM Warrior |
 61 |
 (-317, 44) |
 Rusty Short SwordRusty Short Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 28
 DMG: 4
-WT: 5.0 Size: MEDIUM
+Size: MEDIUM WT: 5.0
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALLDMG Bonus: 14 @ lvl 50
 , Fine Steel Short SwordFine Steel Short Sword
@@ -1698,13 +1697,14 @@ Hollish Tnoops |
 (None) |
 LORE ITEM NO DROP WT: 0.5 Size: SMALL Class: ALL Race: ALL |
 Deathfist Pawn ScalpDeathfist Pawn Scalp
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
 a deathfist pawn, Deathfist Pawn |
 (None) |
-WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.1 Class: ALL Race: ALL |
 Fresh PiranhaFresh Piranha
 This is a meal!
 WT: 1.0 Size: SMALL
@@ -2205,9 +2205,8 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , Snake EggSnake Egg
-QUEST ITEM
-This is a snack!
-WT: 0.2 Size: TINY
+Quest
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 |
@@ -2242,8 +2241,9 @@ Warrior |
 25 |
 100% @ (-361, -1100) |
 Fishing PoleFishing Pole
+Attunable, Placeable
 Slot: PRIMARY
-WT: 1.0 Size: TINY
+Size: TINY WT: 1.0
 Class: ALL
 Race: ALL
 |
@@ -2318,8 +2318,9 @@ Rogue |
 10 |
 50% @ (-190, -962) |
 Fishing PoleFishing Pole
+Attunable, Placeable
 Slot: PRIMARY
-WT: 1.0 Size: TINY
+Size: TINY WT: 1.0
 Class: ALL
 Race: ALL
 |
@@ -3020,8 +3021,9 @@ Warrior |
 8 |
 100% @ (-3, -1027) |
 Fishing PoleFishing Pole
+Attunable, Placeable
 Slot: PRIMARY
-WT: 1.0 Size: TINY
+Size: TINY WT: 1.0
 Class: ALL
 Race: ALL
 |
@@ -3563,13 +3565,14 @@ Various |
 Secondary |
 String Resonance: 10 WT: 0.0 Size: TINY Class: ALL Race: ALL |
 Shark SkinShark Skin
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
 a shark |
 (None) |
-WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.1 Class: ALL Race: ALL |
 Slashed Militia TunicSlashed Militia Tunic
 LORE ITEM NO DROP
 WT: 2.0 Size: MEDIUM

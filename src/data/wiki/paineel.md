@@ -1,5 +1,5 @@
 # Paineel (eqlwiki.com)
-fetched: 2026-10-12
+fetched: 2026-10-16
 
 Paineel - EverQuest Legends Wiki
 Jump to content
@@ -949,11 +949,11 @@ Warrior |
 10 |
 33% @ (946, -93) |
 Rusty Short SwordRusty Short Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 28
 DMG: 4
-WT: 5.0 Size: MEDIUM
+Size: MEDIUM WT: 5.0
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALLDMG Bonus: 14 @ lvl 50
 , Bronze Bastard SwordBronze Bastard Sword
@@ -1189,11 +1189,11 @@ Warrior |
 10 |
 33% @ (946, -93) |
 Rusty Short SwordRusty Short Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 28
 DMG: 4
-WT: 5.0 Size: MEDIUM
+Size: MEDIUM WT: 5.0
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALLDMG Bonus: 14 @ lvl 50
 , Bronze Bastard SwordBronze Bastard Sword

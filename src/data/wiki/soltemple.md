@@ -1,5 +1,5 @@
 # Temple_of_Solusek_Ro (eqlwiki.com)
-fetched: 2026-10-14
+fetched: 2026-10-16
 
 The Temple of Solusek Ro - EverQuest Legends Wiki
 Jump to content
@@ -909,11 +909,12 @@ Rogue |
 45 |
 33% @ (553, -17) |
 Rusty Shortened SpearRusty Shortened Spear
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
-Skill: Piercing Atk Delay: 32
-DMG: 4BACKSTAB: 4
-WT: 5.0 Size: MEDIUM
-Class: WAR RNG SHD BRD ROG SHM
+Skill: 1H Piercing Atk Delay: 32
+DMG: 4 BACKSTAB: 4
+Size: MEDIUM WT: 5.0
+Class: WAR RNG SHD BRD ROG SHM BST
 Race: ALLDMG Bonus: 16 @ lvl 50
 (Always), Fine Steel SpearFine Steel Spear
 Slot: PRIMARY

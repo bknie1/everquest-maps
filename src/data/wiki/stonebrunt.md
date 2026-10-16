@@ -1,5 +1,5 @@
 # Stonebrunt_Mountains (eqlwiki.com)
-fetched: 2026-10-12
+fetched: 2026-10-16
 
 Stonebrunt Mountains - EverQuest Legends Wiki
 Jump to content
@@ -931,8 +931,9 @@ Warrior |
 17-19 |
 (-3966,-1515),(-4057,-1585),(-4104,-1580),(-4128,-1570) |
 Fishing PoleFishing Pole
+Attunable, Placeable
 Slot: PRIMARY
-WT: 1.0 Size: TINY
+Size: TINY WT: 1.0
 Class: ALL
 Race: ALL
 |
@@ -1441,8 +1442,9 @@ Monk |
 21 |
 (-4050,-1584 |
 Fishing PoleFishing Pole
+Attunable, Placeable
 Slot: PRIMARY
-WT: 1.0 Size: TINY
+Size: TINY WT: 1.0
 Class: ALL
 Race: ALL
 , Fine Steel TantoFine Steel Tanto
@@ -1669,9 +1671,8 @@ Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Chunk of MeatChunk of Meat
-QUEST ITEM
-This is a meal!
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Bottle of MilkBottle of Milk
@@ -1815,8 +1816,8 @@ WT: 1.2 Size: SMALL
 Class: ALL
 Race: ALL
 , Ruined Cat PeltRuined Cat Pelt
-QUEST ITEM
-WT: 3.5 Size: LARGE
+Quest
+Size: LARGE WT: 3.5
 Class: ALL
 Race: ALL
 , Giant White Sabertooth HideGiant White Sabertooth Hide
@@ -1834,8 +1835,8 @@ Warrior |
 18 |
 (1245,-428) |
 Ruined Cat PeltRuined Cat Pelt
-QUEST ITEM
-WT: 3.5 Size: LARGE
+Quest
+Size: LARGE WT: 3.5
 Class: ALL
 Race: ALL
 , Low Quality Cat PeltLow Quality Cat Pelt
@@ -1844,8 +1845,8 @@ Size: LARGE WT: 3.5
 Class: ALL
 Race: ALL
 , Medium Quality Cat PeltMedium Quality Cat Pelt
-QUEST ITEM
-WT: 3.5 Size: LARGE
+Quest
+Size: LARGE WT: 3.5
 Class: ALL
 Race: ALL
 , High Quality Cat PeltHigh Quality Cat Pelt

@@ -1,5 +1,5 @@
 # North_Ro (eqlwiki.com)
-fetched: 2026-10-15
+fetched: 2026-10-16
 
 The Northern Desert of Ro - EverQuest Legends Wiki
 Jump to content
@@ -367,9 +367,8 @@ Warrior |
 3-4 |
 Various |
 Chunk of MeatChunk of Meat
-QUEST ITEM
-This is a meal!
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Wolf MeatWolf Meat
@@ -386,9 +385,8 @@ Warrior |
 3-7 |
 100% @ (-683, 1053) |
 Snake EggSnake Egg
-QUEST ITEM
-This is a snack!
-WT: 0.2 Size: TINY
+Quest
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 , Snake FangSnake Fang
@@ -423,9 +421,8 @@ Warrior |
 2 |
 North Ro: 34% @ (2750, 644), 34% @ (2802, 471), 34% @ (3297, 595) |
 Chunk of MeatChunk of Meat
-QUEST ITEM
-This is a meal!
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Armadillo HuskArmadillo Husk
@@ -747,13 +744,14 @@ Various |
 (None) |
 NO DROP WT: 6.0 Size: SMALL Class: ALL Race: ALL |
 Deathfist Pawn ScalpDeathfist Pawn Scalp
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
 a deathfist pawn, Deathfist Pawn |
 (None) |
-WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.1 Class: ALL Race: ALL |
 Deathfist Slashed BeltDeathfist Slashed Belt
 Quest
 Size: SMALL WT: 1.3

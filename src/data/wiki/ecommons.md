@@ -1,5 +1,5 @@
 # East_Commonlands (eqlwiki.com)
-fetched: 2026-10-15
+fetched: 2026-10-16
 
 East Commonlands - EverQuest Legends Wiki
 Jump to content
@@ -204,9 +204,8 @@ Class: ALL
 Race: ALL
 (Rare)
 Chunk of MeatChunk of Meat
-QUEST ITEM
-This is a meal!
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 (Uncommon)
@@ -293,7 +292,8 @@ Warrior |
 7 - 9 |
 Various |
 Spider SilkSpider Silk
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Spider Venom SacSpider Venom Sac
@@ -302,8 +302,8 @@ WT: 0.2 Size: SMALL
 Class: ALL
 Race: ALL
 , Spider LegsSpider Legs
-QUEST ITEM
-WT: 0.5 Size: SMALL
+Quest
+Size: SMALL WT: 0.5
 Class: ALL
 Race: ALL
 |
@@ -315,11 +315,13 @@ Warrior |
 36 |
 Various |
 Griffon FeathersGriffon Feathers
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Griffenne BloodGriffenne Blood
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -359,9 +361,8 @@ Class: ALL
 Race: ALL
 (Common)
 Snake EggSnake Egg
-QUEST ITEM
-This is a snack!
-WT: 0.2 Size: TINY
+Quest
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 (Common)
@@ -374,14 +375,13 @@ Warrior |
 6 |
 ? |
 Chunk of MeatChunk of Meat
-QUEST ITEM
-This is a meal!
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Ruined Cat PeltRuined Cat Pelt
-QUEST ITEM
-WT: 3.5 Size: LARGE
+Quest
+Size: LARGE WT: 3.5
 Class: ALL
 Race: ALL
 , Low Quality Cat PeltLow Quality Cat Pelt
@@ -446,9 +446,8 @@ Warrior |
 3-7 |
 100% @ (-683, 1053) |
 Snake EggSnake Egg
-QUEST ITEM
-This is a snack!
-WT: 0.2 Size: TINY
+Quest
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 , Snake FangSnake Fang
@@ -499,14 +498,13 @@ Warrior |
 10 |
 Various |
 Giant Snake RattleGiant Snake Rattle
-QUEST ITEM
-WT: 1.2 Size: MEDIUM
+Quest
+Size: MEDIUM WT: 1.2
 Class: ALL
 Race: ALL
 , Snake EggSnake Egg
-QUEST ITEM
-This is a snack!
-WT: 0.2 Size: TINY
+Quest
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 , Snake Venom SacSnake Venom Sac
@@ -717,8 +715,8 @@ Attunable, Quest
 Slot: AMMO
 Skill: Archery
 DMG: 1
-Size: SMALL WT: 0.1
 Range: 25
+Size: SMALL WT: 0.1
 Class: WAR PAL RNG SHD ROG
 Race: ALL
 , MeadMead
@@ -751,8 +749,8 @@ Shaman |
 9 |
 Various |
 Rusty Weapons, Illegible ScrollIllegible Scroll
-LORE ITEM
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Deathfist Slashed BeltDeathfist Slashed Belt
@@ -769,7 +767,8 @@ Warrior |
 1 - 2 |
 Various |
 Cloth Armor, Deathfist Pawn ScalpDeathfist Pawn Scalp
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Iron Ration, Orc Pawn PickOrc Pawn Pick
@@ -899,7 +898,7 @@ Druid |
 34% @ (421, 3808) |
 Various |
 Description needed. |
-Items - Found 13 items that drop in East Commonlands:
+Items - Found 17 items that drop in East Commonlands:
 Item Name | Drops From | Slot | Stats |
 Bronze FlailBronze Flail
 Slot: PRIMARY SECONDARY
@@ -952,22 +951,32 @@ a lesser mummy |
 (None) |
 WT: 0.1 Size: TINY Class: ALL Race: ALL |
 Giant Fire Beetle LegGiant Fire Beetle Leg
-QUEST ITEM
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
 None? |
 (None) |
-QUEST ITEM WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.1 Class: ALL Race: ALL |
+Giant Scarab Egg SacGiant Scarab Egg Sac
+Quest
+Size: SMALL WT: 0.3
+Class: ALL
+Race: ALL
+|
+a giant leaf scarab |
+(None) |
+Quest Size: SMALL WT: 0.3 Class: ALL Race: ALL |
 Griffon FeathersGriffon Feathers
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
 a griffin |
 (None) |
-WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.1 Class: ALL Race: ALL |
 Human HeadHuman Head
 LORE ITEM NO DROP
 WT: 0.4 Size: SMALL
@@ -1005,14 +1014,50 @@ Race: ALL
 a plains cat, a puma, a young plains cat |
 (None) |
 QUEST ITEM WT: 3.5 Size: LARGE Class: ALL Race: ALL |
+Raw Short Sword 1Raw Short Sword 1
+Lore Equipped, No Trade, Quest, Placeable
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing Atk Delay: 40
+DMG: 2
+Size: MEDIUM WT: 10.0
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALLDMG Bonus: 20 @ lvl 50
+|
+None? |
+1H Slashing |
+Atk Delay: 40 DMG: 2 Size: MEDIUM WT: 10.0 Class: WAR PAL RNG SHD BRD ROG Race: ALL |
+Raw Short Sword 2Raw Short Sword 2
+Lore Equipped, No Trade, Quest, Placeable
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing Atk Delay: 40
+DMG: 2
+Size: MEDIUM WT: 10.0
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALLDMG Bonus: 20 @ lvl 50
+|
+None? |
+1H Slashing |
+Atk Delay: 40 DMG: 2 Size: MEDIUM WT: 10.0 Class: WAR PAL RNG SHD BRD ROG Race: ALL |
+Raw Short Sword 3Raw Short Sword 3
+Lore Equipped, No Trade, Quest, Placeable
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing Atk Delay: 40
+DMG: 2
+Size: MEDIUM WT: 10.0
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALLDMG Bonus: 20 @ lvl 50
+|
+None? |
+1H Slashing |
+Atk Delay: 40 DMG: 2 Size: MEDIUM WT: 10.0 Class: WAR PAL RNG SHD BRD ROG Race: ALL |
 Shadow Wolf PeltShadow Wolf Pelt
-WT: 3.5 Size: LARGE
+Size: LARGE WT: 3.5
 Class: ALL
 Race: ALL
 |
 a shadow wolf |
 (None) |
-WT: 3.5 Size: LARGE Class: ALL Race: ALL |
+Size: LARGE WT: 3.5 Class: ALL Race: ALL |
 Warped Great StaffWarped Great Staff
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 40

@@ -1,5 +1,5 @@
 # Rivervale (eqlwiki.com)
-fetched: 2026-10-11
+fetched: 2026-10-16
 
 Rivervale - EverQuest Legends Wiki
 Jump to content
@@ -174,8 +174,9 @@ WT: 1.0 Size: SMALL
 Class: ALL
 Race: ALL
 , Fishing PoleFishing Pole
+Attunable, Placeable
 Slot: PRIMARY
-WT: 1.0 Size: TINY
+Size: TINY WT: 1.0
 Class: ALL
 Race: ALL
 , Pine NeedlesPine Needles
@@ -554,9 +555,8 @@ Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Chunk of MeatChunk of Meat
-QUEST ITEM
-This is a meal!
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Fish ScalesFish Scales
@@ -774,8 +774,10 @@ WT: 3.7 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 , Silver RingSilver Ring
+Attunable
 Slot: FINGER
-WT: 0.1 Size: TINY
+AC: 1
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Squad RingSquad Ring
@@ -808,8 +810,10 @@ WT: 3.7 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 , Silver RingSilver Ring
+Attunable
 Slot: FINGER
-WT: 0.1 Size: TINY
+AC: 1
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Squad RingSquad Ring
@@ -842,8 +846,10 @@ WT: 3.7 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 , Silver RingSilver Ring
+Attunable
 Slot: FINGER
-WT: 0.1 Size: TINY
+AC: 1
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Squad RingSquad Ring
@@ -876,8 +882,10 @@ WT: 3.7 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 , Silver RingSilver Ring
+Attunable
 Slot: FINGER
-WT: 0.1 Size: TINY
+AC: 1
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Squad RingSquad Ring
@@ -910,8 +918,10 @@ WT: 3.7 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 , Silver RingSilver Ring
+Attunable
 Slot: FINGER
-WT: 0.1 Size: TINY
+AC: 1
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Squad RingSquad Ring
@@ -952,8 +962,10 @@ WT: 3.7 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 , Silver RingSilver Ring
+Attunable
 Slot: FINGER
-WT: 0.1 Size: TINY
+AC: 1
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Squad RingSquad Ring
@@ -986,8 +998,10 @@ WT: 3.7 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 , Silver RingSilver Ring
+Attunable
 Slot: FINGER
-WT: 0.1 Size: TINY
+AC: 1
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Squad RingSquad Ring
@@ -1020,8 +1034,10 @@ WT: 3.7 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 , Silver RingSilver Ring
+Attunable
 Slot: FINGER
-WT: 0.1 Size: TINY
+AC: 1
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Squad RingSquad Ring
@@ -1054,8 +1070,10 @@ WT: 3.7 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 , Silver RingSilver Ring
+Attunable
 Slot: FINGER
-WT: 0.1 Size: TINY
+AC: 1
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Squad RingSquad Ring
@@ -1088,8 +1106,10 @@ WT: 3.7 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 , Silver RingSilver Ring
+Attunable
 Slot: FINGER
-WT: 0.1 Size: TINY
+AC: 1
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Squad RingSquad Ring
@@ -1122,8 +1142,10 @@ WT: 3.7 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 , Silver RingSilver Ring
+Attunable
 Slot: FINGER
-WT: 0.1 Size: TINY
+AC: 1
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Squad RingSquad Ring
@@ -1156,8 +1178,10 @@ WT: 3.7 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 , Silver RingSilver Ring
+Attunable
 Slot: FINGER
-WT: 0.1 Size: TINY
+AC: 1
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Squad RingSquad Ring
@@ -1190,8 +1214,10 @@ WT: 3.7 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 , Silver RingSilver Ring
+Attunable
 Slot: FINGER
-WT: 0.1 Size: TINY
+AC: 1
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Squad RingSquad Ring
@@ -1224,8 +1250,10 @@ WT: 3.7 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 , Silver RingSilver Ring
+Attunable
 Slot: FINGER
-WT: 0.1 Size: TINY
+AC: 1
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Squad RingSquad Ring
@@ -1258,8 +1286,10 @@ WT: 3.7 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 , Silver RingSilver Ring
+Attunable
 Slot: FINGER
-WT: 0.1 Size: TINY
+AC: 1
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Squad RingSquad Ring
@@ -1292,8 +1322,10 @@ WT: 3.7 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 , Silver RingSilver Ring
+Attunable
 Slot: FINGER
-WT: 0.1 Size: TINY
+AC: 1
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Squad RingSquad Ring
@@ -1326,8 +1358,10 @@ WT: 3.7 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 , Silver RingSilver Ring
+Attunable
 Slot: FINGER
-WT: 0.1 Size: TINY
+AC: 1
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Squad RingSquad Ring
@@ -1368,8 +1402,10 @@ WT: 3.7 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 , Silver RingSilver Ring
+Attunable
 Slot: FINGER
-WT: 0.1 Size: TINY
+AC: 1
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Squad RingSquad Ring
@@ -1402,8 +1438,10 @@ WT: 3.7 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 , Silver RingSilver Ring
+Attunable
 Slot: FINGER
-WT: 0.1 Size: TINY
+AC: 1
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Squad RingSquad Ring
@@ -1436,8 +1474,10 @@ WT: 3.7 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 , Silver RingSilver Ring
+Attunable
 Slot: FINGER
-WT: 0.1 Size: TINY
+AC: 1
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Squad RingSquad Ring
@@ -1470,8 +1510,10 @@ WT: 3.7 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 , Silver RingSilver Ring
+Attunable
 Slot: FINGER
-WT: 0.1 Size: TINY
+AC: 1
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Squad RingSquad Ring
@@ -1504,8 +1546,10 @@ WT: 3.7 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 , Silver RingSilver Ring
+Attunable
 Slot: FINGER
-WT: 0.1 Size: TINY
+AC: 1
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Squad RingSquad Ring
@@ -1538,8 +1582,10 @@ WT: 3.7 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 , Silver RingSilver Ring
+Attunable
 Slot: FINGER
-WT: 0.1 Size: TINY
+AC: 1
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Squad RingSquad Ring
@@ -1572,8 +1618,10 @@ WT: 3.7 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 , Silver RingSilver Ring
+Attunable
 Slot: FINGER
-WT: 0.1 Size: TINY
+AC: 1
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Squad RingSquad Ring
@@ -1606,8 +1654,10 @@ WT: 3.7 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 , Silver RingSilver Ring
+Attunable
 Slot: FINGER
-WT: 0.1 Size: TINY
+AC: 1
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Squad RingSquad Ring
@@ -1640,8 +1690,10 @@ WT: 3.7 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 , Silver RingSilver Ring
+Attunable
 Slot: FINGER
-WT: 0.1 Size: TINY
+AC: 1
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Squad RingSquad Ring

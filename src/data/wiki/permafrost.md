@@ -1,5 +1,5 @@
 # Permafrost_Keep (eqlwiki.com)
-fetched: 2026-10-11
+fetched: 2026-10-16
 
 Permafrost - EverQuest Legends Wiki
 Jump to content
@@ -221,11 +221,11 @@ WT: 2.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALLDMG Bonus: 11 @ lvl 50
 , Symbol of Loyalty to VoxSymbol of Loyalty to Vox
-MAGIC ITEM
+Attunable
 Slot: WRIST
 AC: 7
 SV COLD: +7
-WT: 0.3 Size: SMALL
+Size: SMALL WT: 0.3
 Class: ALL
 Race: ALL
 , Throwing BoulderThrowing Boulder
@@ -318,11 +318,11 @@ Race: ALLDMG Bonus: 19 @ lvl 50
 .
 King's Room
 King Thex'Ka IV who drops Symbol of Loyalty to VoxSymbol of Loyalty to Vox
-MAGIC ITEM
+Attunable
 Slot: WRIST
 AC: 7
 SV COLD: +7
-WT: 0.3 Size: SMALL
+Size: SMALL WT: 0.3
 Class: ALL
 Race: ALL
 (Common) and White Wolf-hide CloakWhite Wolf-hide Cloak
@@ -910,8 +910,8 @@ Warrior |
 43-47 |
 |
 Spider LegsSpider Legs
-QUEST ITEM
-WT: 0.5 Size: SMALL
+Quest
+Size: SMALL WT: 0.5
 Class: ALL
 Race: ALL
 , Spider Venom SacSpider Venom Sac
@@ -920,7 +920,8 @@ WT: 0.2 Size: SMALL
 Class: ALL
 Race: ALL
 , Spider SilkSpider Silk
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -1318,17 +1319,17 @@ None? |
 (None) |
 WT: 0.1 Size: TINY Class: ALL Race: ALL |
 Symbol of Loyalty to VoxSymbol of Loyalty to Vox
-MAGIC ITEM
+Attunable
 Slot: WRIST
 AC: 7
 SV COLD: +7
-WT: 0.3 Size: SMALL
+Size: SMALL WT: 0.3
 Class: ALL
 Race: ALL
 |
 King Thex`Ka IV |
 Wrist |
-AC: 7 SV COLD: +7 WT: 0.3 Size: SMALL Class: ALL Race: ALL |
+AC: 7 SV COLD: +7 Size: SMALL WT: 0.3 Class: ALL Race: ALL |
 Tares LichenTares Lichen
 QUEST ITEM
 WT: 0.1 Size: TINY

@@ -1,5 +1,5 @@
 # Qeynos_Hills (eqlwiki.com)
-fetched: 2026-10-14
+fetched: 2026-10-16
 
 Qeynos Hills - EverQuest Legends Wiki
 Jump to content
@@ -533,9 +533,8 @@ Warrior |
 3 - 5 |
 Various |
 Snake EggSnake Egg
-QUEST ITEM
-This is a snack!
-WT: 0.2 Size: TINY
+Quest
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 , Snake FangSnake Fang
@@ -576,9 +575,8 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , Snake EggSnake Egg
-QUEST ITEM
-This is a snack!
-WT: 0.2 Size: TINY
+Quest
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 |
@@ -672,11 +670,19 @@ Dispel him. |
 Gnasher Furgutt
 |
 Gnoll |
-Quest NPC |
+Warrior |
 10-11 |
 (1091, 518), Wanders |
-Various |
-The hunt for this NPC continues. See the 'Hunt for Gnasher' section below. Is either on [[Merchants_of_Qeynos | Merchant... |
+Gnoll HeadGnoll Head
+LORE ITEM NO DROP
+WT: 1.5 Size: MEDIUM
+Class: ALL
+Race: ALL
+, A Tattered NoteA Tattered Note
+Quest
+WT: 0.1 Size: TINY
+|
+Is often spawned with a fresh instance in the middle of the zone. |
 Guard Beris
 |
 Human |
@@ -688,7 +694,7 @@ Description needed. |
 Guard Bixby
 |
 Human |
-Guard |
+Warrior |
 22 |
 100% @ (5059, 216) |
 Fine Steel Short SwordFine Steel Short Sword
@@ -767,7 +773,7 @@ He is maybe the strongest guard in Qeynos hill. High magic resistance and hp aro
 Guard Philbin
 |
 Human |
-Guard |
+Warrior |
 25 |
 50% @ (5057, 188) |
 Fine Steel Short SwordFine Steel Short Sword
@@ -818,8 +824,9 @@ Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Fishing PoleFishing Pole
+Attunable, Placeable
 Slot: PRIMARY
-WT: 1.0 Size: TINY
+Size: TINY WT: 1.0
 Class: ALL
 Race: ALL
 , Flame of VoxFlame of Vox
@@ -839,7 +846,7 @@ Description needed. |
 Holly Windstalker
 |
 Human |
-NPC |
+Ranger |
 27 |
 100% @ (2726, -16) |
 Bronze Short SwordBronze Short Sword

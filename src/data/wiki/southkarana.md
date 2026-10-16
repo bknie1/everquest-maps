@@ -1,5 +1,5 @@
 # Southern_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-10-12
+fetched: 2026-10-16
 
 Southern Karana - EverQuest Legends Wiki
 Jump to content
@@ -453,9 +453,8 @@ Warrior |
 3 |
 See Discussion |
 Chunk of MeatChunk of Meat
-QUEST ITEM
-This is a meal!
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Wolf MeatWolf Meat
@@ -591,11 +590,12 @@ Warrior |
 4 |
 100% @ (-4954, -2771) |
 Rusty Shortened SpearRusty Shortened Spear
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
-Skill: Piercing Atk Delay: 32
-DMG: 4BACKSTAB: 4
-WT: 5.0 Size: MEDIUM
-Class: WAR RNG SHD BRD ROG SHM
+Skill: 1H Piercing Atk Delay: 32
+DMG: 4 BACKSTAB: 4
+Size: MEDIUM WT: 5.0
+Class: WAR RNG SHD BRD ROG SHM BST
 Race: ALLDMG Bonus: 16 @ lvl 50
 , Rain WaterRain Water
 QUEST ITEM
@@ -712,11 +712,11 @@ Warrior |
 13-15 |
 Various |
 Rusty Short SwordRusty Short Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 28
 DMG: 4
-WT: 5.0 Size: MEDIUM
+Size: MEDIUM WT: 5.0
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALLDMG Bonus: 14 @ lvl 50
 , Rusty Long SwordRusty Long Sword
@@ -904,8 +904,8 @@ Attunable, Quest
 Slot: AMMO
 Skill: Archery
 DMG: 1
-Size: SMALL WT: 0.1
 Range: 25
+Size: SMALL WT: 0.1
 Class: WAR PAL RNG SHD ROG
 Race: ALL
 |
@@ -1146,8 +1146,8 @@ Attunable, Quest
 Slot: AMMO
 Skill: Archery
 DMG: 1
-Size: SMALL WT: 0.1
 Range: 25
+Size: SMALL WT: 0.1
 Class: WAR PAL RNG SHD ROG
 Race: ALL
 , LongbowLongbow
@@ -1383,11 +1383,13 @@ Shaman |
 16 |
 (-5607, 151) |
 Rusty WarhammerRusty Warhammer
+Attunable, Placeable
 Slot: RANGE PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 30
 DMG: 4
-WT: 7.5 Range: 40 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC
+Range: 40
+Size: MEDIUM WT: 7.5
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
 Race: ALLDMG Bonus: 15 @ lvl 50
 , Runed Totem StaffRuned Totem Staff
 Lore Equipped, Attunable, Quest, Placeable
@@ -1414,11 +1416,12 @@ WT: 7.3 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
 Race: ALLDMG Bonus: 15 @ lvl 50
 , Fine Steel Great StaffFine Steel Great Staff
+Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 36
 DMG: 9
-WT: 10.0 Size: LARGE
-Class: ALL except BRD ROG
+Size: LARGE WT: 10.0
+Class: WAR CLR PAL RNG SHD DRU MNK SHM NEC WIZ MAG ENC BST BER
 Race: ALLDMG Bonus: 24 @ lvl 50
 , Runed Totem StaffRuned Totem Staff
 Lore Equipped, Attunable, Quest, Placeable

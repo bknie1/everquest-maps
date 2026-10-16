@@ -1,5 +1,5 @@
 # Dagnor's_Cauldron (eqlwiki.com)
-fetched: 2026-10-12
+fetched: 2026-10-16
 
 Dagnor's Cauldron - EverQuest Legends Wiki
 Jump to content
@@ -247,8 +247,10 @@ Warrior |
 8 |
 50% @ (827, -778) |
 Silver RingSilver Ring
+Attunable
 Slot: FINGER
-WT: 0.1 Size: TINY
+AC: 1
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Rat WhiskersRat Whiskers
@@ -279,9 +281,8 @@ WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
 , Snake EggSnake Egg
-QUEST ITEM
-This is a snack!
-WT: 0.2 Size: TINY
+Quest
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 , Large Snake SkinLarge Snake Skin
@@ -428,15 +429,17 @@ Attunable, Quest
 Slot: AMMO
 Skill: Archery
 DMG: 1
-Size: SMALL WT: 0.1
 Range: 25
+Size: SMALL WT: 0.1
 Class: WAR PAL RNG SHD ROG
 Race: ALL
 , Hunting BowHunting Bow
+Attunable, Quest, Placeable
 Slot: RANGE
 Skill: Archery Atk Delay: 43
 DMG: 5
-WT: 3.5 Range: 50 Size: MEDIUM
+Range: 50
+Size: MEDIUM WT: 3.5
 Class: WAR PAL RNG SHD ROG
 Race: ALL
 , Cauldron PrawnCauldron Prawn

@@ -1,5 +1,5 @@
 # Rathe_Mountains (eqlwiki.com)
-fetched: 2026-10-15
+fetched: 2026-10-16
 
 Rathe Mountains - EverQuest Legends Wiki
 Jump to content
@@ -616,9 +616,8 @@ Warrior |
 13-17 |
 some near (-282,-1578) (5070,724) (-1739,302) |
 Chunk of MeatChunk of Meat
-QUEST ITEM
-This is a meal!
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Pearl ShardPearl Shard
@@ -653,9 +652,8 @@ Warrior |
 13+?-16 (highest cons even at 16, lowest are high dark blue) |
 50% @ (3549, 1962) [Rathe Mountains], Roams near Befallen (WC) |
 Chunk of MeatChunk of Meat
-QUEST ITEM
-This is a meal!
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 (Rare)
@@ -677,14 +675,14 @@ Class: ALL
 Race: ALL
 (Uncommon)
 Ruined Bear PeltRuined Bear Pelt
-QUEST ITEM
-WT: 3.5 Size: LARGE
+Quest
+Size: LARGE WT: 3.5
 Class: ALL
 Race: ALL
 (Rare)
 Low Quality Bear SkinLow Quality Bear Skin
-QUEST ITEM
-WT: 4.0 Size: LARGE
+Quest
+Size: LARGE WT: 4.0
 Class: ALL
 Race: ALL
 (Rare)
@@ -1332,10 +1330,11 @@ WT: 0.5 Size: SMALL
 Class: ALL
 Race: ALL
 , Raw-hide GlovesRaw-hide Gloves
+Attunable
 Slot: HANDS
 AC: 4
-WT: 2.2 Size: SMALL
-Class: ALL except NEC WIZ MAG ENC
+Size: SMALL WT: 2.2
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST BER
 Race: ALL
 , Human BloodHuman Blood
 MAGIC ITEM QUEST ITEM
@@ -1449,11 +1448,12 @@ Druid |
 15 |
 100% @ (5296, 1775) |
 Splintering ClubSplintering Club
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 28
 DMG: 4
-WT: 6.0 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC
+Size: MEDIUM WT: 6.0
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
 Race: ALLDMG Bonus: 14 @ lvl 50
 |
 Description needed. |

@@ -1,5 +1,5 @@
 # Kithicor_Forest (eqlwiki.com)
-fetched: 2026-10-15
+fetched: 2026-10-16
 
 Kithicor Forest - EverQuest Legends Wiki
 Jump to content
@@ -531,7 +531,8 @@ Warrior |
 7 - 9 |
 Various |
 Spider SilkSpider Silk
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Spider Venom SacSpider Venom Sac
@@ -540,8 +541,8 @@ WT: 0.2 Size: SMALL
 Class: ALL
 Race: ALL
 , Spider LegsSpider Legs
-QUEST ITEM
-WT: 0.5 Size: SMALL
+Quest
+Size: SMALL WT: 0.5
 Class: ALL
 Race: ALL
 |
@@ -608,9 +609,8 @@ Class: ALL
 Race: ALL
 (Common)
 Snake EggSnake Egg
-QUEST ITEM
-This is a snack!
-WT: 0.2 Size: TINY
+Quest
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 (Common)
@@ -692,7 +692,8 @@ Warrior |
 8 |
 16% @ (-679, 4529), 16% @ (103, 4248) |
 Spider SilkSpider Silk
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -766,9 +767,8 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , Snake EggSnake Egg
-QUEST ITEM
-This is a snack!
-WT: 0.2 Size: TINY
+Quest
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 |
@@ -971,11 +971,13 @@ WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
 , Rusty WarhammerRusty Warhammer
+Attunable, Placeable
 Slot: RANGE PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 30
 DMG: 4
-WT: 7.5 Range: 40 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC
+Range: 40
+Size: MEDIUM WT: 7.5
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
 Race: ALLDMG Bonus: 15 @ lvl 50
 |
 One of many orcs in the SouthWest corner of Kithicor Forest. |
@@ -1166,11 +1168,12 @@ WT: 10.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
 Race: ALLDMG Bonus: 19 @ lvl 50
 , Fine Steel Great StaffFine Steel Great Staff
+Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 36
 DMG: 9
-WT: 10.0 Size: LARGE
-Class: ALL except BRD ROG
+Size: LARGE WT: 10.0
+Class: WAR CLR PAL RNG SHD DRU MNK SHM NEC WIZ MAG ENC BST BER
 Race: ALLDMG Bonus: 24 @ lvl 50
 |
 Description needed. |
@@ -1247,9 +1250,10 @@ Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 , Cloth CapeCloth Cape
+Attunable
 Slot: BACK
 AC: 2
-WT: 0.4 Size: MEDIUM
+Size: MEDIUM WT: 0.4
 Class: ALL
 Race: ALL
 , Cloth GlovesCloth Gloves
@@ -1323,11 +1327,11 @@ Ranger |
 25 |
 50% @ (669, 87) |
 Rusty Short SwordRusty Short Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 28
 DMG: 4
-WT: 5.0 Size: MEDIUM
+Size: MEDIUM WT: 5.0
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALLDMG Bonus: 14 @ lvl 50
 , Fine Steel Short SwordFine Steel Short Sword
@@ -1691,8 +1695,8 @@ Size: LARGE WT: 5.0
 Class: ALL
 Race: ALL
 , Ruined Bear PeltRuined Bear Pelt
-QUEST ITEM
-WT: 3.5 Size: LARGE
+Quest
+Size: LARGE WT: 3.5
 Class: ALL
 Race: ALL
 , Bear MeatBear Meat
@@ -1828,17 +1832,19 @@ Race: ALL
 WT: 2.0 Weight Reduction: 0%
 Capacity: 8 Size Capacity: MEDIUM
 , Cloth WristbandCloth Wristband
+Attunable
 Slot: WRIST
 AC: 1
-WT: 0.3 Size: SMALL
+Size: SMALL WT: 0.3
 Class: ALL
 Race: ALL
 , Rusty Shortened SpearRusty Shortened Spear
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
-Skill: Piercing Atk Delay: 32
-DMG: 4BACKSTAB: 4
-WT: 5.0 Size: MEDIUM
-Class: WAR RNG SHD BRD ROG SHM
+Skill: 1H Piercing Atk Delay: 32
+DMG: 4 BACKSTAB: 4
+Size: MEDIUM WT: 5.0
+Class: WAR RNG SHD BRD ROG SHM BST
 Race: ALLDMG Bonus: 16 @ lvl 50
 |
 One of many Shralok orcs found in the Southwest corner of Kithicor Forest. Despite his name, he is quite inferior to oth... |
@@ -2039,14 +2045,14 @@ General V`ghera |
 (None) |
 MAGIC ITEM LORE ITEM NODROP WT: 0.0 Size: SMALL Class: NONE Race: NONE |
 Giant Fire Beetle LegGiant Fire Beetle Leg
-QUEST ITEM
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
 Queen Klaknak |
 (None) |
-QUEST ITEM WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.1 Class: ALL Race: ALL |
 Indigo SabreIndigo Sabre
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 24

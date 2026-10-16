@@ -1,5 +1,5 @@
 # Everfrost_Peaks (eqlwiki.com)
-fetched: 2026-10-12
+fetched: 2026-10-16
 
 Everfrost Peaks - EverQuest Legends Wiki
 Jump to content
@@ -422,12 +422,13 @@ Warrior |
 4 |
 Various |
 Spider SilkSpider Silk
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Spider LegsSpider Legs
-QUEST ITEM
-WT: 0.5 Size: SMALL
+Quest
+Size: SMALL WT: 0.5
 Class: ALL
 Race: ALL
 , Wooly FungusWooly Fungus
@@ -479,9 +480,8 @@ Warrior |
 7 |
 100% @ (2364, -5061), 100% @ (1765, -5050), 100% @ (-1043, -3066), 100% @ (-56, -2156), 100% @ (2560, -4699), 100% @ (2424, -5345), 100% @ (-789, -4738), 100% @ (213, -3952), 100% @ (-602, -5636), 100% @ (-811, -6066), 100% @ (2491, -6051), 100% @ (1060, -5716), 100% @ (-1005, -2983) |
 Chunk of MeatChunk of Meat
-QUEST ITEM
-This is a meal!
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Puma SkinPuma Skin
@@ -490,8 +490,8 @@ WT: 3.5 Size: LARGE
 Class: ALL
 Race: ALL
 , Ruined Cat PeltRuined Cat Pelt
-QUEST ITEM
-WT: 3.5 Size: LARGE
+Quest
+Size: LARGE WT: 3.5
 Class: ALL
 Race: ALL
 |
@@ -811,8 +811,8 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , Low Quality Bear SkinLow Quality Bear Skin
-QUEST ITEM
-WT: 4.0 Size: LARGE
+Quest
+Size: LARGE WT: 4.0
 Class: ALL
 Race: ALL
 |

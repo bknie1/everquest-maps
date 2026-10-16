@@ -1,5 +1,5 @@
 # Blackburrow (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-16
 
 Blackburrow - EverQuest Legends Wiki
 Jump to content
@@ -132,8 +132,11 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , Blackburrow CaskBlackburrow Cask
-WT: 2.0 Weight Reduction: 0%
-Capacity: 8 Size Capacity: LARGE
+Quest
+Size: LARGE WT: 2.0
+Weight Reduction: 0% Capacity: 8 Size Capacity: LARGE
+Class: ALL
+Race: ALL
 , Gnoll Hide LariatGnoll Hide Lariat
 MAGIC ITEM
 Slot: PRIMARY SECONDARY
@@ -283,8 +286,11 @@ WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
 , Blackburrow CaskBlackburrow Cask
-WT: 2.0 Weight Reduction: 0%
-Capacity: 8 Size Capacity: LARGE
+Quest
+Size: LARGE WT: 2.0
+Weight Reduction: 0% Capacity: 8 Size Capacity: LARGE
+Class: ALL
+Race: ALL
 |
 A gnoll brewer now spawns next to the Master Brewer (landmark #4 in Blackburrow floor three). |
 A Gnoll Commander
@@ -472,8 +478,11 @@ Warrior |
 @ (53, 386)
 Level 3 |
 Blackburrow CaskBlackburrow Cask
-WT: 2.0 Weight Reduction: 0%
-Capacity: 8 Size Capacity: LARGE
+Quest
+Size: LARGE WT: 2.0
+Weight Reduction: 0% Capacity: 8 Size Capacity: LARGE
+Class: ALL
+Race: ALL
 , Blackburrow Gnoll PeltBlackburrow Gnoll Pelt
 WT: 3.5 Size: LARGE
 Class: ALL
@@ -755,12 +764,15 @@ Splitpaw Commander |
 Shoulders |
 AC: 10 STA: +4 SV Disease: +3 SV Poison: +3 WT: 2.5 Size: TINY Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST BER Race: ALL |
 Blackburrow CaskBlackburrow Cask
-WT: 2.0 Weight Reduction: 0%
-Capacity: 8 Size Capacity: LARGE
+Quest
+Size: LARGE WT: 2.0
+Weight Reduction: 0% Capacity: 8 Size Capacity: LARGE
+Class: ALL
+Race: ALL
 |
 a gnoll brewer (Rare drop), Master Brewer (Guaranteed Drop) |
 (None) |
-WT: 2.0 Weight Reduction: 0% Capacity: 8 Size Capacity: LARGE |
+Quest Size: LARGE WT: 2.0 Weight Reduction: 0% Capacity: 8 Size Capacity: LARGE Class: ALL Race: ALL |
 Blackburrow Gnoll PeltBlackburrow Gnoll Pelt
 WT: 3.5 Size: LARGE
 Class: ALL

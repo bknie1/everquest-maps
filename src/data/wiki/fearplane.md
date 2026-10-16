@@ -1,5 +1,5 @@
 # Plane_of_Fear (eqlwiki.com)
-fetched: 2026-10-13
+fetched: 2026-10-16
 
 Plane of Fear - EverQuest Legends Wiki
 Jump to content
@@ -1162,14 +1162,14 @@ Bone-Clasped GirdleBone-Clasped Girdle
 Attunable
 Slot: WAIST
 AC: 4
-STR: +7 DEX: +7 STA: +7 HP: +75 MANA: +75
+STR: +7 STA: +7 DEX: +7 HP: +75 MANA: +75
 Size: SMALL WT: 0.1
 Class: CLR DRU BRD SHM NEC WIZ MAG ENC
 Race: ALLFocus Effect: Burning Affliction III
 |
 a dracoliche, Fright, Dread |
 Waist |
-AC: 4 STR: +7 DEX: +7 STA: +7 HP: +75 MANA: +75 Size: SMALL WT: 0.1 Class: CLR DRU BRD SHM NEC WIZ MAG ENC Race: ALL |
+AC: 4 STR: +7 STA: +7 DEX: +7 HP: +75 MANA: +75 Size: SMALL WT: 0.1 Class: CLR DRU BRD SHM NEC WIZ MAG ENC Race: ALL |
 Bone RazorBone Razor
 Lore Equipped, Attunable, Placeable
 Slot: PRIMARY SECONDARY
@@ -3364,7 +3364,7 @@ Race: ALLDMG Bonus: 11 @ lvl 50
 Attunable
 Slot: WAIST
 AC: 4
-STR: +7 DEX: +7 STA: +7 HP: +75 MANA: +75
+STR: +7 STA: +7 DEX: +7 HP: +75 MANA: +75
 Size: SMALL WT: 0.1
 Class: CLR DRU BRD SHM NEC WIZ MAG ENC
 Race: ALLFocus Effect: Burning Affliction III

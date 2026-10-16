@@ -1,5 +1,5 @@
 # West_Commonlands (eqlwiki.com)
-fetched: 2026-10-15
+fetched: 2026-10-16
 
 West Commonlands - EverQuest Legends Wiki
 Jump to content
@@ -215,9 +215,8 @@ Class: ALL
 Race: ALL
 (Rare)
 Chunk of MeatChunk of Meat
-QUEST ITEM
-This is a meal!
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 (Uncommon)
@@ -302,11 +301,13 @@ Warrior |
 36 |
 Various |
 Griffon FeathersGriffon Feathers
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Griffenne BloodGriffenne Blood
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -334,14 +335,13 @@ Warrior |
 6 |
 ? |
 Chunk of MeatChunk of Meat
-QUEST ITEM
-This is a meal!
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Ruined Cat PeltRuined Cat Pelt
-QUEST ITEM
-WT: 3.5 Size: LARGE
+Quest
+Size: LARGE WT: 3.5
 Class: ALL
 Race: ALL
 , Low Quality Cat PeltLow Quality Cat Pelt
@@ -437,9 +437,8 @@ Warrior |
 5 |
 100% @ (-683, 1053) |
 Snake EggSnake Egg
-QUEST ITEM
-This is a snack!
-WT: 0.2 Size: TINY
+Quest
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 , Large Snake RattleLarge Snake Rattle
@@ -459,9 +458,8 @@ Warrior |
 3-7 |
 100% @ (-683, 1053) |
 Snake EggSnake Egg
-QUEST ITEM
-This is a snack!
-WT: 0.2 Size: TINY
+Quest
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 , Snake FangSnake Fang
@@ -505,14 +503,13 @@ Warrior |
 10 |
 Various |
 Giant Snake RattleGiant Snake Rattle
-QUEST ITEM
-WT: 1.2 Size: MEDIUM
+Quest
+Size: MEDIUM WT: 1.2
 Class: ALL
 Race: ALL
 , Snake EggSnake Egg
-QUEST ITEM
-This is a snack!
-WT: 0.2 Size: TINY
+Quest
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 , Snake Venom SacSnake Venom Sac
@@ -544,11 +541,12 @@ Shadow Knight |
 29 |
 (-1000, 550), (-635, 1452) |
 Rusty HalberdRusty Halberd
+Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 56
 DMG: 10
-WT: 14.0 Size: GIANT
-Class: WAR PAL RNG SHD
+Size: GIANT WT: 14.0
+Class: WAR PAL RNG SHD BER
 Race: ALLDMG Bonus: 34 @ lvl 50
 , Dragoon DirkDragoon Dirk
 Lore Equipped, Attunable, Quest, Placeable
@@ -731,8 +729,8 @@ Shaman |
 9 |
 Various |
 Rusty Weapons, Illegible ScrollIllegible Scroll
-LORE ITEM
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Deathfist Slashed BeltDeathfist Slashed Belt
@@ -749,7 +747,8 @@ Warrior |
 1 - 2 |
 Various |
 Cloth Armor, Deathfist Pawn ScalpDeathfist Pawn Scalp
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Iron Ration, Orc Pawn PickOrc Pawn Pick
@@ -964,17 +963,17 @@ a large rattlesnake |
 (None) |
 WT: 0.4 Size: MEDIUM Class: ALL Race: ALL |
 Legionnaire's BracerLegionnaire's Bracer
-QUEST ITEM
+Attunable, Quest
 Slot: WRIST
-AC: 3 HP: +2
-STR: +1
-WT: 2.0 Size: SMALL
-Class: WAR PAL RNG SHD BRD ROG
+AC: 3
+STR: +1 HP: +2
+Size: SMALL WT: 2.0
+Class: WAR PAL RNG SHD BRD ROG BER
 Race: ALL
 |
 an orc legionnaire, orc legionnaire |
 Wrist |
-AC: 3 HP: +2 STR: +1 WT: 2.0 Size: SMALL Class: WAR PAL RNG SHD BRD ROG Race: ALL |
+AC: 3 STR: +1 HP: +2 Size: SMALL WT: 2.0 Class: WAR PAL RNG SHD BRD ROG BER Race: ALL |
 Nightfall Giant's HeadNightfall Giant's Head
 LORE ITEM
 WT: 20.0 Size: GIANT

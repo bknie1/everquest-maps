@@ -1,5 +1,5 @@
 # Nagafen's_Lair (eqlwiki.com)
-fetched: 2026-10-12
+fetched: 2026-10-16
 
 Nagafen's Lair - EverQuest Legends Wiki
 Jump to content
@@ -814,12 +814,13 @@ Warrior |
 43-45 |
 Various |
 Spider SilkSpider Silk
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Spider LegsSpider Legs
-QUEST ITEM
-WT: 0.5 Size: SMALL
+Quest
+Size: SMALL WT: 0.5
 Class: ALL
 Race: ALL
 |
@@ -1200,19 +1201,19 @@ kobold priest |
 Shoulders |
 AC: 9 DEX: +7 MANA: +15 WT: 4.5 Size: SMALL Class: WAR CLR PAL SHD BRD Race: ALL |
 Cloak of FlamesCloak of Flames
-MAGIC ITEM
+Attunable
 Slot: BACK
 AC: 10
-DEX: +9 AGI: +9 HP: +50
+AGI: +9 DEX: +9 HP: +50
 SV FIRE: +15
 Haste: +36%
-WT: 0.1 Size: MEDIUM
+Size: MEDIUM WT: 0.1
 Class: ALL
 Race: ALL
 |
 Lord Nagafen |
 Back |
-AC: 10 DEX: +9 AGI: +9 HP: +50 SV FIRE: +15 Haste: +36% WT: 0.1 Size: MEDIUM Class: ALL Race: ALL |
+AC: 10 AGI: +9 DEX: +9 HP: +50 SV FIRE: +15 Haste: +36% Size: MEDIUM WT: 0.1 Class: ALL Race: ALL |
 Cloak of ShadowsCloak of Shadows
 MAGIC ITEM LORE ITEM
 Slot: BACK
@@ -1323,18 +1324,18 @@ Solusek kobold king |
 2H Slashing |
 Atk Delay: 42 DMG: 20 Effect: Word of Shadow (Combat, Casting Time: Instant) at Level 35 WT: 11.0 Size: LARGE Class: WAR SHD BER Race: ALL |
 Gauntlets of Fiery MightGauntlets of Fiery Might
-MAGIC ITEM
+Attunable
 Slot: HANDS
 AC: 10
-STR: +7 DEX: +7 STA: +7
+STR: +7 STA: +7 DEX: +7
 SV DISEASE: +7 SV POISON: +7
-WT: 0.3 Size: SMALL
-Class: WAR PAL RNG SHD MNK BRD ROG
+Size: SMALL WT: 0.3
+Class: WAR PAL RNG SHD MNK BRD ROG BST BER
 Race: ALL
 |
 Lord Nagafen, Zordakalicus Ragefire |
 Hands |
-AC: 10 STR: +7 DEX: +7 STA: +7 SV DISEASE: +7 SV POISON: +7 WT: 0.3 Size: SMALL Class: WAR PAL RNG SHD MNK BRD ROG Race: ALL |
+AC: 10 STR: +7 STA: +7 DEX: +7 SV DISEASE: +7 SV POISON: +7 Size: SMALL WT: 0.3 Class: WAR PAL RNG SHD MNK BRD ROG BST BER Race: ALL |
 Gold Plated KoshigatanaGold Plated Koshigatana
 MAGIC ITEM
 Slot: PRIMARY SECONDARY
@@ -1768,23 +1769,23 @@ WT: 10.0 Size: LARGE
 Class: SHM
 Race: ALLDMG Bonus: 32 @ lvl 50
 , Cloak of FlamesCloak of Flames
-MAGIC ITEM
+Attunable
 Slot: BACK
 AC: 10
-DEX: +9 AGI: +9 HP: +50
+AGI: +9 DEX: +9 HP: +50
 SV FIRE: +15
 Haste: +36%
-WT: 0.1 Size: MEDIUM
+Size: MEDIUM WT: 0.1
 Class: ALL
 Race: ALL
 , Gauntlets of Fiery MightGauntlets of Fiery Might
-MAGIC ITEM
+Attunable
 Slot: HANDS
 AC: 10
-STR: +7 DEX: +7 STA: +7
+STR: +7 STA: +7 DEX: +7
 SV DISEASE: +7 SV POISON: +7
-WT: 0.3 Size: SMALL
-Class: WAR PAL RNG SHD MNK BRD ROG
+Size: SMALL WT: 0.3
+Class: WAR PAL RNG SHD MNK BRD ROG BST BER
 Race: ALL
 , Gold Plated KoshigatanaGold Plated Koshigatana
 MAGIC ITEM

@@ -1,5 +1,5 @@
 # Lesser_Faydark (eqlwiki.com)
-fetched: 2026-10-15
+fetched: 2026-10-16
 
 Lesser Faydark - EverQuest Legends Wiki
 Jump to content
@@ -286,7 +286,8 @@ Warrior |
 7 - 9 |
 Various |
 Spider SilkSpider Silk
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Spider Venom SacSpider Venom Sac
@@ -295,8 +296,8 @@ WT: 0.2 Size: SMALL
 Class: ALL
 Race: ALL
 , Spider LegsSpider Legs
-QUEST ITEM
-WT: 0.5 Size: SMALL
+Quest
+Size: SMALL WT: 0.5
 Class: ALL
 Race: ALL
 |
@@ -942,12 +943,12 @@ Warrior |
 12-13 |
 Various |
 Legionnaire's BracerLegionnaire's Bracer
-QUEST ITEM
+Attunable, Quest
 Slot: WRIST
-AC: 3 HP: +2
-STR: +1
-WT: 2.0 Size: SMALL
-Class: WAR PAL RNG SHD BRD ROG
+AC: 3
+STR: +1 HP: +2
+Size: SMALL WT: 2.0
+Class: WAR PAL RNG SHD BRD ROG BER
 Race: ALL
 , Crushbone ShoulderpadsCrushbone Shoulderpads
 Slot: SHOULDERS
@@ -1556,17 +1557,17 @@ Whimsy Larktwitter |
 Ammo |
 DMG: 6 WT: 0.1 Range: 150 Size: SMALL Class: WAR PAL RNG SHD ROG Race: ALL |
 Legionnaire's BracerLegionnaire's Bracer
-QUEST ITEM
+Attunable, Quest
 Slot: WRIST
-AC: 3 HP: +2
-STR: +1
-WT: 2.0 Size: SMALL
-Class: WAR PAL RNG SHD BRD ROG
+AC: 3
+STR: +1 HP: +2
+Size: SMALL WT: 2.0
+Class: WAR PAL RNG SHD BRD ROG BER
 Race: ALL
 |
 orc legionnaire |
 Wrist |
-AC: 3 HP: +2 STR: +1 WT: 2.0 Size: SMALL Class: WAR PAL RNG SHD BRD ROG Race: ALL |
+AC: 3 STR: +1 HP: +2 Size: SMALL WT: 2.0 Class: WAR PAL RNG SHD BRD ROG BER Race: ALL |
 Pixie DustPixie Dust
 QUEST ITEM
 WT: 0.1 Size: TINY

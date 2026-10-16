@@ -1,5 +1,5 @@
 # Halas (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-16
 
 Halas - EverQuest Legends Wiki
 Jump to content
@@ -493,11 +493,12 @@ WT: 2.5 Size: SMALL
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 , Rusty AxeRusty Axe
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 36
 DMG: 5
-WT: 6.5 Size: MEDIUM
-Class: WAR PAL RNG SHD BRD ROG SHM
+Size: MEDIUM WT: 6.5
+Class: WAR PAL RNG SHD BRD ROG
 Race: ALLDMG Bonus: 18 @ lvl 50
 |
 Dargon McPherson |

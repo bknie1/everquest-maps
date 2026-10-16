@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-10-15
+fetched: 2026-10-16
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -5008,13 +5008,13 @@ Arms |
 AC: 12 DEX: +6 STA: +10 End: +20 WT: 4.9 Size: SMALL Class: ALL Race: ALL |
 Golden HiltGolden Hilt
 Quest
-WT: 1.0 Size: MEDIUM
+Size: MEDIUM WT: 1.0
 Class: PAL
 Race: ALL
 |
 Various |
 (None) |
-Quest WT: 1.0 Size: MEDIUM Class: PAL Race: ALL |
+Quest Size: MEDIUM WT: 1.0 Class: PAL Race: ALL |
 Gorgon HeadGorgon Head
 No Trade, Quest
 Size: LARGE WT: 12.0

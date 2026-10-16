@@ -1,5 +1,5 @@
 # Northern_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-10-11
+fetched: 2026-10-16
 
 Northern Plains of Karana - EverQuest Legends Wiki
 Jump to content
@@ -494,11 +494,13 @@ Warrior |
 13-17 |
 ? |
 Vendor Trash, Gems, Griffon FeathersGriffon Feathers
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Griffenne BloodGriffenne Blood
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -574,9 +576,8 @@ Class: ALL
 Race: ALL
 (Common)
 Chunk of MeatChunk of Meat
-QUEST ITEM
-This is a meal!
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 (Common)
@@ -635,9 +636,8 @@ WT: 3.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 , Chunk of MeatChunk of Meat
-QUEST ITEM
-This is a meal!
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Bear MeatBear Meat
@@ -691,7 +691,8 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , Griffon FeathersGriffon Feathers
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -1325,13 +1326,14 @@ a griffon, GrimFeather |
 Primary, Secondary |
 WT: 0.2 Size: TINY Class: ALL Race: ALL |
 Griffon FeathersGriffon Feathers
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
 Various |
 (None) |
-WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.1 Class: ALL Race: ALL |
 Griffon Talon GlovesGriffon Talon Gloves
 MAGIC ITEM
 Slot: HANDS

@@ -1,5 +1,5 @@
 # Neriak_Foreign_Quarter (eqlwiki.com)
-fetched: 2026-10-11
+fetched: 2026-10-16
 
 Neriak - EverQuest Legends Wiki
 Jump to content
@@ -431,11 +431,11 @@ Warrior |
 35 |
 (203, -178), (-188, -120) |
 Fine Steel ScimitarFine Steel Scimitar
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 24
 DMG: 5
-WT: 5.0 Size: MEDIUM
+Size: MEDIUM WT: 5.0
 Class: WAR PAL RNG SHD DRU BRD ROG
 Race: ALLDMG Bonus: 12 @ lvl 50
 , Round ShieldRound Shield
@@ -940,8 +940,17 @@ Merchant |
 (242, -265) |
 |
 Description needed. |
-Items - Found 2 items that drop in Neriak Foreign Quarter:
+Items - Found 3 items that drop in Neriak Foreign Quarter:
 Item Name | Drops From | Slot | Stats |
+Grub LockerGrub Locker
+No Trade, Quest
+Size: SMALL WT: 0.3
+Class: ALL
+Race: ALL
+|
+None? |
+(None) |
+No Trade, Quest Size: SMALL WT: 0.3 Class: ALL Race: ALL |
 Robe of EnshroudmentRobe of Enshroudment
 MAGIC ITEM LORE ITEM
 Slot: CHEST
@@ -2248,10 +2257,10 @@ ScytheScythe
 Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 45
-DMG: 11 DMG Bonus: 27
+DMG: 11
 Size: LARGE WT: 12.0
 Class: WAR PAL RNG SHD BER
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 , Fine Steel Weapons |
 6m40sec spawn time. Quads. Harm Touches for 381. Casts Shadowknight spells such as Disease Cloud, 45hp Lifetap, Heat Blo... |
 Dizra To`Biath
@@ -2361,10 +2370,11 @@ Warrior |
 50 |
 (1282, -1628, -67) and (1282, -1659, -67) |
 Rusty Bastard SwordRusty Bastard Sword
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 42
 DMG: 6
-WT: 9.0 Size: MEDIUM
+Size: MEDIUM WT: 9.0
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALLDMG Bonus: 21 @ lvl 50
 x2 |

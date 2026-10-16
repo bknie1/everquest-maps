@@ -1,5 +1,5 @@
 # Highpass_Hold (eqlwiki.com)
-fetched: 2026-10-12
+fetched: 2026-10-16
 
 Highpass Hold - EverQuest Legends Wiki
 Jump to content
@@ -225,11 +225,11 @@ Class: ALL
 Race: ALL
 (Uncommon)
 Rusty Short SwordRusty Short Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 28
 DMG: 4
-WT: 5.0 Size: MEDIUM
+Size: MEDIUM WT: 5.0
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALLDMG Bonus: 14 @ lvl 50
 (Ultra Rare)
@@ -341,11 +341,12 @@ Class: ALL
 Race: ALL
 (Rare)
 Splintering ClubSplintering Club
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 28
 DMG: 4
-WT: 6.0 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC
+Size: MEDIUM WT: 6.0
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
 Race: ALLDMG Bonus: 14 @ lvl 50
 (Rare)
 Words of EradicationWords of Eradication
@@ -354,11 +355,12 @@ Class: ALL
 Race: ALL
 (Rare)
 Worn Great StaffWorn Great Staff
+Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 40
 DMG: 6
-WT: 10.0 Size: LARGE
-Class: ALL except BRD ROG
+Size: LARGE WT: 10.0
+Class: WAR CLR PAL RNG SHD DRU MNK SHM NEC WIZ MAG ENC BST BER
 Race: ALLDMG Bonus: 27 @ lvl 50
 (Rare)
 |
@@ -370,11 +372,12 @@ Shaman |
 7 - 11 |
 Spawns near the west gate. |
 Large Raw-Hide Armor, Splintering ClubSplintering Club
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 28
 DMG: 4
-WT: 6.0 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC
+Size: MEDIUM WT: 6.0
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
 Race: ALLDMG Bonus: 14 @ lvl 50
 , Gnoll ScalpGnoll Scalp
 WT: 0.1 Size: SMALL
@@ -463,11 +466,12 @@ WT: 2.0 Weight Reduction: 0%
 Capacity: 8 Size Capacity: MEDIUM
 (Ultra Rare)
 Worn Great StaffWorn Great Staff
+Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 40
 DMG: 6
-WT: 10.0 Size: LARGE
-Class: ALL except BRD ROG
+Size: LARGE WT: 10.0
+Class: WAR CLR PAL RNG SHD DRU MNK SHM NEC WIZ MAG ENC BST BER
 Race: ALLDMG Bonus: 27 @ lvl 50
 (Ultra Rare)
 |
@@ -567,11 +571,12 @@ Class: ALL
 Race: ALL
 (Ultra Rare)
 Worn Great StaffWorn Great Staff
+Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 40
 DMG: 6
-WT: 10.0 Size: LARGE
-Class: ALL except BRD ROG
+Size: LARGE WT: 10.0
+Class: WAR CLR PAL RNG SHD DRU MNK SHM NEC WIZ MAG ENC BST BER
 Race: ALLDMG Bonus: 27 @ lvl 50
 (Ultra Rare)
 |

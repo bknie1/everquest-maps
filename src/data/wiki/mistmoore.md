@@ -1,5 +1,5 @@
 # Castle_Mistmoore (eqlwiki.com)
-fetched: 2026-10-12
+fetched: 2026-10-16
 
 Mistmoore Castle - EverQuest Legends Wiki
 Jump to content
@@ -731,8 +731,8 @@ Class: ALL
 Race: ALL
 22. Bedroom
 23. a dark ass`t librarian spawns who drops Illegible ScrollIllegible Scroll
-LORE ITEM
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 ("Vok Na Zov XI")
@@ -788,8 +788,8 @@ Warrior |
 31 |
 (-67, 96) |
 Illegible ScrollIllegible Scroll
-LORE ITEM
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 ("Vok Na Zov V"), Rod of UnderstandingRod of Understanding
@@ -1372,8 +1372,8 @@ Warrior |
 33 |
 33% @ (-86, -106) Level 2 |
 Illegible ScrollIllegible Scroll
-LORE ITEM
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 ("Vok Na Zov VI") |
@@ -2189,14 +2189,14 @@ None? |
 (None) |
 No Trade, Quest Size: SMALL WT: 1.0 Class: ALL Race: ALL |
 Illegible ScrollIllegible Scroll
-LORE ITEM
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
 a dark librarian ("Vok Na Zov V"), a dark ass`t librarian ("Vok Na Zov VI") |
 (None) |
-LORE ITEM WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.1 Class: ALL Race: ALL |
 Lute of the Gypsy PrincessLute of the Gypsy Princess
 Attunable Placeable
 Slot: Primary Secondary

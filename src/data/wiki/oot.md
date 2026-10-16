@@ -1,5 +1,5 @@
 # Ocean_of_Tears (eqlwiki.com)
-fetched: 2026-10-11
+fetched: 2026-10-16
 
 Ocean of Tears - EverQuest Legends Wiki
 Jump to content
@@ -136,10 +136,9 @@ Race: ALL
 , Alluring HornAlluring Horn
 Lore Equipped, No Trade, Quest, Placeable
 Slot: PRIMARY SECONDARY
-Brass Resonance: 9
 WT: 1.0 Size: MEDIUM
 Class: ALL
-Race: ALL
+Race: ALLFocus Effect: Brass Resonance 9
 , Bracers of ErollisiBracers of Erollisi
 Lore Equipped, Attunable, Quest
 Slot: WRIST
@@ -149,12 +148,12 @@ WT: 1.0 Size: SMALL
 Class: WAR CLR PAL RND DRU MNK BRD ROG SHM
 Race: ALL
 , Robe of the GroveRobe of the Grove
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable
 Slot: CHEST
 AC: 10
-WIS: +5 INT: +5
-WT: 2.0 Size: SMALL
-Class: CLR DRU NEC WIZ MAG ENC
+INT: +5 WIS: +5
+Size: SMALL WT: 2.0
+Class: CLR NEC WIZ MAG ENC
 Race: ALL
 |
 Related Quests:
@@ -479,7 +478,8 @@ Bard |
 12-13 |
 3x ~(200, 9400) and 3x ~(-1052, 1914) |
 Mermaid ScaleMermaid Scale
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 (Uncommon) |
@@ -573,11 +573,11 @@ Warrior |
 22 |
 100% @ (-1171, -8801) |
 Rusty Short SwordRusty Short Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 28
 DMG: 4
-WT: 5.0 Size: MEDIUM
+Size: MEDIUM WT: 5.0
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALLDMG Bonus: 14 @ lvl 50
 , BucklerBuckler
@@ -629,11 +629,12 @@ WT: 1.2 Size: SMALL
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 , Rusty HalberdRusty Halberd
+Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 56
 DMG: 10
-WT: 14.0 Size: GIANT
-Class: WAR PAL RNG SHD
+Size: GIANT WT: 14.0
+Class: WAR PAL RNG SHD BER
 Race: ALLDMG Bonus: 34 @ lvl 50
 |
 Description needed. |
@@ -865,7 +866,7 @@ WT: 2.0 Size: MEDIUM
 Class: ALL
 Race: ALL
 , A Tattered NoteA Tattered Note
-MAGIC ITEM LORE ITEM NO DROP
+Quest
 WT: 0.1 Size: TINY
 , Chunk of Ogre FleshChunk of Ogre Flesh
 This is a meal!
@@ -897,8 +898,8 @@ Warrior |
 35 |
 100% @ (1785, 4071) |
 Ingot of the FerventIngot of the Fervent
-MAGIC ITEM LORE ITEM NO DROP
-WT: 1.0 Size: SMALL
+No Trade, Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 |
@@ -957,11 +958,12 @@ WT: 1.2 Size: SMALL
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 , Rusty HalberdRusty Halberd
+Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 56
 DMG: 10
-WT: 14.0 Size: GIANT
-Class: WAR PAL RNG SHD
+Size: GIANT WT: 14.0
+Class: WAR PAL RNG SHD BER
 Race: ALLDMG Bonus: 34 @ lvl 50
 , Wood Elf PartsWood Elf Parts
 WT: 1.0 Size: SMALL
@@ -1072,19 +1074,20 @@ Druid |
 60 |
 100% @ (-2906, 8576) |
 Robe of the GroveRobe of the Grove
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable
 Slot: CHEST
 AC: 10
-WIS: +5 INT: +5
-WT: 2.0 Size: SMALL
-Class: CLR DRU NEC WIZ MAG ENC
+INT: +5 WIS: +5
+Size: SMALL WT: 2.0
+Class: CLR NEC WIZ MAG ENC
 Race: ALL
 , Fine Steel Great StaffFine Steel Great Staff
+Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 36
 DMG: 9
-WT: 10.0 Size: LARGE
-Class: ALL except BRD ROG
+Size: LARGE WT: 10.0
+Class: WAR CLR PAL RNG SHD DRU MNK SHM NEC WIZ MAG ENC BST BER
 Race: ALLDMG Bonus: 24 @ lvl 50
 |
 The only known Gnome Druid. Interestingly, the robe he drops is not usable by druids. May be a reference to the [[Guise ... |
@@ -1102,11 +1105,12 @@ WT: 1.2 Size: SMALL
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 , Rusty HalberdRusty Halberd
+Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 56
 DMG: 10
-WT: 14.0 Size: GIANT
-Class: WAR PAL RNG SHD
+Size: GIANT WT: 14.0
+Class: WAR PAL RNG SHD BER
 Race: ALLDMG Bonus: 34 @ lvl 50
 , Wood Elf PartsWood Elf Parts
 WT: 1.0 Size: SMALL
@@ -1216,7 +1220,7 @@ WT: 0.5 Weight Reduction: 0%
 Capacity: 4 Size Capacity: MEDIUM
 |
 Pirate connected to Pirate Camp on other island in OOT. Spawns about every 6 minutes up hill from rune stone on NE corne... |
-Items - Found 34 items that drop in Ocean of Tears:
+Items - Found 35 items that drop in Ocean of Tears:
 Item Name | Drops From | Slot | Stats |
 A DollA Doll
 WT: 1.0 Size: TINY
@@ -1243,14 +1247,13 @@ Atk Delay: 20 DMG: 3 INT: +2 SV COLD: +2 WT: 2.5 Size: SMALL Class: SHD NEC Race
 Alluring HornAlluring Horn
 Lore Equipped, No Trade, Quest, Placeable
 Slot: PRIMARY SECONDARY
-Brass Resonance: 9
 WT: 1.0 Size: MEDIUM
 Class: ALL
-Race: ALL
+Race: ALLFocus Effect: Brass Resonance 9
 |
 Quag Maelstrom |
 Primary, Secondary |
-Brass Resonance: 9 WT: 1.0 Size: MEDIUM Class: ALL Race: ALL |
+WT: 1.0 Size: MEDIUM Class: ALL Race: ALL |
 Blackened Mithril ChainBlackened Mithril Chain
 No Trade, Quest
 Slot: NECK
@@ -1307,6 +1310,15 @@ Race: ALL
 Boog Mudtoe |
 (None) |
 This is a meal! WT: 1.0 Size: SMALL Class: ALL Race: ALL |
+Cryptic PageCryptic Page
+No Trade
+Size: SMALL WT: 0.4
+Class: ALL
+Race: ALL
+|
+None? |
+(None) |
+No Trade Size: SMALL WT: 0.4 Class: ALL Race: ALL |
 Driftwood PipeDriftwood Pipe
 MAGIC ITEM LORE ITEM NO DROP
 WT: 0.6 Size: SMALL
@@ -1367,14 +1379,14 @@ Gornit |
 (None) |
 Quest WT: 1.5 Size: SMALL Class: ALL Race: ALL |
 Ingot of the FerventIngot of the Fervent
-MAGIC ITEM LORE ITEM NO DROP
-WT: 1.0 Size: SMALL
+No Trade, Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 |
 Gull Skytalon |
 (None) |
-MAGIC ITEM LORE ITEM NO DROP WT: 1.0 Size: SMALL Class: ALL Race: ALL |
+No Trade, Quest Size: SMALL WT: 1.0 Class: ALL Race: ALL |
 Large Locked CrateLarge Locked Crate
 LORE ITEM NO DROP
 WT: 20.0 Size: GIANT
@@ -1385,13 +1397,14 @@ Brawn |
 (None) |
 LORE ITEM NO DROP WT: 20.0 Size: GIANT Class: ALL Race: ALL |
 Mermaid ScaleMermaid Scale
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
 an alluring siren |
 (None) |
-WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.1 Class: ALL Race: ALL |
 Mug of Sea FoamMug of Sea Foam
 MAGIC ITEM
 WT: 0.1 Size: SMALL
@@ -1402,14 +1415,14 @@ Various |
 (None) |
 MAGIC ITEM WT: 0.1 Size: SMALL Class: ALL Race: ALL |
 Ocean of Tears SeavinesOcean of Tears Seavines
-MAGIC ITEM LORE ITEM NO DROP
-WT: 0.1 Size: TINY
+No Trade, Quest
+Size: TINY WT: 0.1
 Class: NONE
 Race: NONE
 |
 corrupted seafury cyclops |
 (None) |
-MAGIC ITEM LORE ITEM NO DROP WT: 0.1 Size: TINY Class: NONE Race: NONE |
+No Trade, Quest Size: TINY WT: 0.1 Class: NONE Race: NONE |
 Ogre HeadOgre Head
 Quest
 WT: 2.0 Size: MEDIUM
@@ -1484,22 +1497,23 @@ ScytheScythe
 Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 45
-DMG: 11 DMG Bonus: 27
+DMG: 11
 Size: LARGE WT: 12.0
 Class: WAR PAL RNG SHD BER
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 |
 a spectre |
 2H Slashing |
-Atk Delay: 45 DMG: 11 DMG Bonus: 27 Size: LARGE WT: 12.0 Class: WAR PAL RNG SHD BER Race: ALL |
+Atk Delay: 45 DMG: 11 Size: LARGE WT: 12.0 Class: WAR PAL RNG SHD BER Race: ALL |
 Shark SkinShark Skin
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
 a shark, a reef shark, a buccaneer |
 (None) |
-WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.1 Class: ALL Race: ALL |
 Size 4 GizmoSize 4 Gizmo
 WT: 0.2 Size: SMALL
 Class: ALL

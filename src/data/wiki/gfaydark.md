@@ -1,5 +1,5 @@
 # Greater_Faydark (eqlwiki.com)
-fetched: 2026-10-13
+fetched: 2026-10-16
 
 Greater Faydark - EverQuest Legends Wiki
 Jump to content
@@ -167,11 +167,12 @@ WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD DRU BRD ROG
 Race: ALLDMG Bonus: 16 @ lvl 50
 , Worn Great StaffWorn Great Staff
+Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 40
 DMG: 6
-WT: 10.0 Size: LARGE
-Class: ALL except BRD ROG
+Size: LARGE WT: 10.0
+Class: WAR CLR PAL RNG SHD DRU MNK SHM NEC WIZ MAG ENC BST BER
 Race: ALLDMG Bonus: 27 @ lvl 50
 |
 Heartwood Master |
@@ -190,11 +191,12 @@ Call of Flame Quest
 Emerald Warriors' Items
 |
 Rusty AxeRusty Axe
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 36
 DMG: 5
-WT: 6.5 Size: MEDIUM
-Class: WAR PAL RNG SHD BRD ROG SHM
+Size: MEDIUM WT: 6.5
+Class: WAR PAL RNG SHD BRD ROG
 Race: ALLDMG Bonus: 18 @ lvl 50
 , Rusty FlailRusty Flail
 Slot: PRIMARY SECONDARY
@@ -227,11 +229,12 @@ WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD DRU BRD ROG
 Race: ALLDMG Bonus: 17 @ lvl 50
 , Rusty Shortened SpearRusty Shortened Spear
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
-Skill: Piercing Atk Delay: 32
-DMG: 4BACKSTAB: 4
-WT: 5.0 Size: MEDIUM
-Class: WAR RNG SHD BRD ROG SHM
+Skill: 1H Piercing Atk Delay: 32
+DMG: 4 BACKSTAB: 4
+Size: MEDIUM WT: 5.0
+Class: WAR RNG SHD BRD ROG SHM BST
 Race: ALLDMG Bonus: 16 @ lvl 50
 , Rusty SpearRusty Spear
 Attunable, Quest, Placeable
@@ -439,11 +442,11 @@ Sandgiant Husam |
 Orc Hatchets
 |
 Rusty Short SwordRusty Short Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 28
 DMG: 4
-WT: 5.0 Size: MEDIUM
+Size: MEDIUM WT: 5.0
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALLDMG Bonus: 14 @ lvl 50
 , Rusty SpearRusty Spear
@@ -493,11 +496,11 @@ Range: 100
 Class: WAR PAL RNG SHD ROG
 Race: ALL
 , Rusty Short SwordRusty Short Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 28
 DMG: 4
-WT: 5.0 Size: MEDIUM
+Size: MEDIUM WT: 5.0
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALLDMG Bonus: 14 @ lvl 50
 , Rusty SpearRusty Spear
@@ -771,9 +774,8 @@ Class: ALL
 Race: ALL
 (Rare)
 Chunk of MeatChunk of Meat
-QUEST ITEM
-This is a meal!
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 (Uncommon)
@@ -999,8 +1001,8 @@ Warrior |
 2 |
 (1800, 280), (1634, 460), (-1690, -2155), (500, -300), (300, 0), (-2035, -1170), (-1770, -2210) |
 Spider LegsSpider Legs
-QUEST ITEM
-WT: 0.5 Size: SMALL
+Quest
+Size: SMALL WT: 0.5
 Class: ALL
 Race: ALL
 , Spiderling EyeSpiderling Eye
@@ -1317,11 +1319,11 @@ Size: MEDIUM WT: 5.0
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALLDMG Bonus: 14 @ lvl 50
 , Fine Steel ScimitarFine Steel Scimitar
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 24
 DMG: 5
-WT: 5.0 Size: MEDIUM
+Size: MEDIUM WT: 5.0
 Class: WAR PAL RNG SHD DRU BRD ROG
 Race: ALLDMG Bonus: 12 @ lvl 50
 |
@@ -1333,10 +1335,11 @@ Warrior |
 10 |
 9% @ (-2212, 2319) |
 Ringmail Armor, Rusty Battle AxeRusty Battle Axe
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 42
 DMG: 6
-WT: 8.5 Size: MEDIUM
+Size: MEDIUM WT: 8.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALLDMG Bonus: 21 @ lvl 50
 , Centurion Relgle's HeadCenturion Relgle's Head

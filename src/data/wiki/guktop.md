@@ -1,5 +1,5 @@
 # Upper_Guk (eqlwiki.com)
-fetched: 2026-10-14
+fetched: 2026-10-16
 
 Upper Guk - EverQuest Legends Wiki
 Jump to content
@@ -1072,7 +1072,8 @@ Class: ALL
 Race: ALL
 (Rare)
 Spider SilkSpider Silk
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 (Always)
@@ -1100,9 +1101,8 @@ WT: 0.1 Size: TINY
 Class: DRU WIZ
 Race: ALL
 , Chunk of MeatChunk of Meat
-QUEST ITEM
-This is a meal!
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Gator MeatGator Meat

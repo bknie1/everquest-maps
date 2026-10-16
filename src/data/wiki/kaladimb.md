@@ -1,5 +1,5 @@
 # Kaladim (eqlwiki.com)
-fetched: 2026-10-13
+fetched: 2026-10-16
 
 Kaladim - EverQuest Legends Wiki
 Jump to content
@@ -313,18 +313,21 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , Rusty HalberdRusty Halberd
+Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 56
 DMG: 10
-WT: 14.0 Size: GIANT
-Class: WAR PAL RNG SHD
+Size: GIANT WT: 14.0
+Class: WAR PAL RNG SHD BER
 Race: ALLDMG Bonus: 34 @ lvl 50
 , Rusty WarhammerRusty Warhammer
+Attunable, Placeable
 Slot: RANGE PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 30
 DMG: 4
-WT: 7.5 Range: 40 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC
+Range: 40
+Size: MEDIUM WT: 7.5
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
 Race: ALLDMG Bonus: 15 @ lvl 50
 , Small Patchwork BootsSmall Patchwork Boots
 Slot: FEET
@@ -611,15 +614,17 @@ WT: 0.3 Size: SMALL
 Class: ALL
 Race: ALL
 , Large Cloth PantsLarge Cloth Pants
+Attunable
 Slot: LEGS
 AC: 3
-WT: 0.9 Size: MEDIUM
+Size: MEDIUM WT: 0.9
 Class: ALL
 Race: ALL
 , Large Cloth ShirtLarge Cloth Shirt
+Attunable
 Slot: CHEST
 AC: 4
-WT: 1.3 Size: MEDIUM
+Size: MEDIUM WT: 1.3
 Class: ALL
 Race: ALL
 , Large Cloth SleevesLarge Cloth Sleeves
@@ -1723,17 +1728,19 @@ a krag elder |
 Bone Chips (Kaladim)
 |
 Rusty AxeRusty Axe
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 36
 DMG: 5
-WT: 6.5 Size: MEDIUM
-Class: WAR PAL RNG SHD BRD ROG SHM
+Size: MEDIUM WT: 6.5
+Class: WAR PAL RNG SHD BRD ROG
 Race: ALLDMG Bonus: 18 @ lvl 50
 , Rusty Broad SwordRusty Broad Sword
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 36
 DMG: 5
-WT: 7.5 Size: MEDIUM
+Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALLDMG Bonus: 18 @ lvl 50
 , Rusty MaceRusty Mace
@@ -2005,11 +2012,12 @@ WT: 5.0 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG
 Race: ALLDMG Bonus: 15 @ lvl 50
 , Rusty Shortened SpearRusty Shortened Spear
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
-Skill: Piercing Atk Delay: 32
-DMG: 4BACKSTAB: 4
-WT: 5.0 Size: MEDIUM
-Class: WAR RNG SHD BRD ROG SHM
+Skill: 1H Piercing Atk Delay: 32
+DMG: 4 BACKSTAB: 4
+Size: MEDIUM WT: 5.0
+Class: WAR RNG SHD BRD ROG SHM BST
 Race: ALLDMG Bonus: 16 @ lvl 50
 , Rusty SpearRusty Spear
 Attunable, Quest, Placeable
@@ -2142,8 +2150,10 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , Silver RingSilver Ring
+Attunable
 Slot: FINGER
-WT: 0.1 Size: TINY
+AC: 1
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Small Piece of OreSmall Piece of Ore

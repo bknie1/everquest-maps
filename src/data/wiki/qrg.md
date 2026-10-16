@@ -1,5 +1,5 @@
 # Surefall_Glade (eqlwiki.com)
-fetched: 2026-10-12
+fetched: 2026-10-16
 
 Surefall Glade - EverQuest Legends Wiki
 Jump to content
@@ -164,11 +164,11 @@ Qaelin Hailstorm |
 Blackburrow Brewers
 |
 Faction, Cloak of JaggedpineCloak of Jaggedpine
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade
 Slot: BACK
 AC: 6
 DEX: +3
-WT: 1.5 Size: MEDIUM
+Size: MEDIUM WT: 1.5
 Class: RNG DRU
 Race: ALL
 |
@@ -180,10 +180,10 @@ a gnoll brewer, Master Brewer |
 Gnasher's Head
 |
 Medal of MeritMedal of Merit
-LORE ITEM NO DROP
+Lore Equipped, No Trade
 Slot: NECK
 CHA: +5
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Raw-hide TunicRaw-hide Tunic
@@ -474,11 +474,12 @@ Druid |
 6 |
 50% @ (67, -192) |
 Worn Great StaffWorn Great Staff
+Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 40
 DMG: 6
-WT: 10.0 Size: LARGE
-Class: ALL except BRD ROG
+Size: LARGE WT: 10.0
+Class: WAR CLR PAL RNG SHD DRU MNK SHM NEC WIZ MAG ENC BST BER
 Race: ALLDMG Bonus: 27 @ lvl 50
 (Always) |
 ”Heed the wishes of Tunare and leave the bears of Surefall Glade undisturbed!" |
@@ -617,8 +618,8 @@ Attunable, Quest
 Slot: AMMO
 Skill: Archery
 DMG: 1
-Size: SMALL WT: 0.1
 Range: 25
+Size: SMALL WT: 0.1
 Class: WAR PAL RNG SHD ROG
 Race: ALL
 , Ringmail armor |
@@ -630,7 +631,7 @@ GM Ranger |
 70 |
 (244, -18) |
 None |
-A Ranger Guildmaster in Surefall Glade. This mob spawns at /waypoint +245, -18, +1 at the waterfall in Surefall Glad... |
+A Ranger Guildmaster in Surefall Glade. This mob spawns at /waypoint +245, -18, +1 behind the Ranger building in... |
 Livam T`Lant
 |
 Qeynos Citizen |
@@ -738,11 +739,12 @@ Druid |
 30 |
 50% @ (-37, 147) |
 Fine Steel Great StaffFine Steel Great Staff
+Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 36
 DMG: 9
-WT: 10.0 Size: LARGE
-Class: ALL except BRD ROG
+Size: LARGE WT: 10.0
+Class: WAR CLR PAL RNG SHD DRU MNK SHM NEC WIZ MAG ENC BST BER
 Race: ALLDMG Bonus: 24 @ lvl 50
 |
 |

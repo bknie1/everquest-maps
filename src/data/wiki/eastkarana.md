@@ -1,5 +1,5 @@
 # Eastern_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-10-12
+fetched: 2026-10-16
 
 Eastern Plains of Karana - EverQuest Legends Wiki
 Jump to content
@@ -237,9 +237,8 @@ Class: ALL
 Race: ALL
 (Rare)
 Chunk of MeatChunk of Meat
-QUEST ITEM
-This is a meal!
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 (Uncommon)
@@ -379,9 +378,8 @@ Warrior |
 11-15 |
 50% @ (-2667, 45), 50% @ (-3311, -442) |
 Chunk of MeatChunk of Meat
-QUEST ITEM
-This is a meal!
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Mist Wolf PeltMist Wolf Pelt
@@ -428,9 +426,8 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , Snake EggSnake Egg
-QUEST ITEM
-This is a snack!
-WT: 0.2 Size: TINY
+Quest
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 , Snake Venom SacSnake Venom Sac
@@ -450,8 +447,8 @@ WT: 1.0 Size: SMALL
 Class: ALL
 Race: ALL
 , Spider LegsSpider Legs
-QUEST ITEM
-WT: 0.5 Size: SMALL
+Quest
+Size: SMALL WT: 0.5
 Class: ALL
 Race: ALL
 , Spider Venom SacSpider Venom Sac
@@ -460,7 +457,8 @@ WT: 0.2 Size: SMALL
 Class: ALL
 Race: ALL
 , Spider SilkSpider Silk
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -481,13 +479,14 @@ Warrior |
 -300, -3000 |
 Research (Rare)
 Spider LegsSpider Legs
-QUEST ITEM
-WT: 0.5 Size: SMALL
+Quest
+Size: SMALL WT: 0.5
 Class: ALL
 Race: ALL
 (Common)
 Spider SilkSpider Silk
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 (Common)
@@ -522,9 +521,8 @@ Warrior |
 15-17 |
 Various |
 Chunk of MeatChunk of Meat
-QUEST ITEM
-This is a meal!
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Wolf MeatWolf Meat
@@ -541,9 +539,8 @@ Warrior |
 10-12 |
 Various |
 Chunk of MeatChunk of Meat
-QUEST ITEM
-This is a meal!
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 |
@@ -1148,11 +1145,11 @@ Race: ALL
 (Rare)
 Patchwork Armor (Rare)
 Rusty Short SwordRusty Short Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 28
 DMG: 4
-WT: 5.0 Size: MEDIUM
+Size: MEDIUM WT: 5.0
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALLDMG Bonus: 14 @ lvl 50
 (Rare)
@@ -1228,11 +1225,11 @@ Warrior |
 48 |
 (728, -2347), (-2300,-790) |
 Fine Steel ScimitarFine Steel Scimitar
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 24
 DMG: 5
-WT: 5.0 Size: MEDIUM
+Size: MEDIUM WT: 5.0
 Class: WAR PAL RNG SHD DRU BRD ROG
 Race: ALLDMG Bonus: 12 @ lvl 50
 , Rain of Karana |

@@ -1,5 +1,5 @@
 # Erudin_Palace (eqlwiki.com)
-fetched: 2026-10-13
+fetched: 2026-10-16
 
 Erudin - EverQuest Legends Wiki
 Jump to content
@@ -656,10 +656,11 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , Raw-hide GlovesRaw-hide Gloves
+Attunable
 Slot: HANDS
 AC: 4
-WT: 2.2 Size: SMALL
-Class: ALL except NEC WIZ MAG ENC
+Size: SMALL WT: 2.2
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST BER
 Race: ALL
 , Raw-hide SleevesRaw-hide Sleeves
 Attunable
@@ -690,11 +691,12 @@ WT: 10.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
 Race: ALLDMG Bonus: 22 @ lvl 50
 , Spell: Cure Poison, Spell: Divine Aura, Spell: Flash of Light, Spell: Lull, Spell: Spook the Dead, Spell: Strike, Spell: True North, Spell: Yaulp, Worn Great StaffWorn Great Staff
+Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 40
 DMG: 6
-WT: 10.0 Size: LARGE
-Class: ALL except BRD ROG
+Size: LARGE WT: 10.0
+Class: WAR CLR PAL RNG SHD DRU MNK SHM NEC WIZ MAG ENC BST BER
 Race: ALLDMG Bonus: 27 @ lvl 50
 |
 Lumi Stergnon |
@@ -770,11 +772,12 @@ Size: MEDIUM WT: 7.5
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALLDMG Bonus: 17 @ lvl 50
 , Splintering ClubSplintering Club
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 28
 DMG: 4
-WT: 6.0 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC
+Size: MEDIUM WT: 6.0
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
 Race: ALLDMG Bonus: 14 @ lvl 50
 |
 Rarnan Lapice |
@@ -836,7 +839,8 @@ Warrior |
 |
 |
 Shark SkinShark Skin
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Shark MeatShark Meat
@@ -1644,13 +1648,14 @@ None? |
 (None) |
 NO DROP WT: 0.1 Size: TINY Class: ALL Race: ALL |
 Shark SkinShark Skin
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
 a sand shark, a shark, a young shark |
 (None) |
-WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.1 Class: ALL Race: ALL |
 Quests - Found 11 quests that start in Erudin Palace:
 Quest Name | Reward | Quest Giver | Minimum Level | Classes | Related Zones | Related NPCs |
 Clear Water Quest

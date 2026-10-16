@@ -1,5 +1,5 @@
 # Western_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-10-12
+fetched: 2026-10-16
 
 Western Karana - EverQuest Legends Wiki
 Jump to content
@@ -389,9 +389,8 @@ Class: ALL
 Race: ALL
 (Rare)
 Chunk of MeatChunk of Meat
-QUEST ITEM
-This is a meal!
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 (Uncommon)
@@ -470,7 +469,8 @@ Warrior |
 7 - 9 |
 Various |
 Spider SilkSpider Silk
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Spider Venom SacSpider Venom Sac
@@ -479,8 +479,8 @@ WT: 0.2 Size: SMALL
 Class: ALL
 Race: ALL
 , Spider LegsSpider Legs
-QUEST ITEM
-WT: 0.5 Size: SMALL
+Quest
+Size: SMALL WT: 0.5
 Class: ALL
 Race: ALL
 |
@@ -516,9 +516,8 @@ Warrior |
 3 |
 See Discussion |
 Chunk of MeatChunk of Meat
-QUEST ITEM
-This is a meal!
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Wolf MeatWolf Meat
@@ -632,12 +631,13 @@ Warrior |
 6-8 |
 Various |
 Giant Fire Beetle EyeGiant Fire Beetle Eye
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Giant Fire Beetle LegGiant Fire Beetle Leg
-QUEST ITEM
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Fire Beetle EyeFire Beetle Eye
@@ -798,9 +798,8 @@ Size: LARGE WT: 3.5
 Class: ALL
 Race: ALL
 , Chunk of MeatChunk of Meat
-QUEST ITEM
-This is a meal!
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Lion MeatLion Meat
@@ -822,9 +821,8 @@ Size: LARGE WT: 3.5
 Class: ALL
 Race: ALL
 , Chunk of MeatChunk of Meat
-QUEST ITEM
-This is a meal!
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Lion MeatLion Meat
@@ -833,8 +831,8 @@ Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Ruined Cat PeltRuined Cat Pelt
-QUEST ITEM
-WT: 3.5 Size: LARGE
+Quest
+Size: LARGE WT: 3.5
 Class: ALL
 Race: ALL
 |
@@ -1054,11 +1052,12 @@ Druid |
 8 |
 near -3745, -7655 |
 Rusty AxeRusty Axe
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 36
 DMG: 5
-WT: 6.5 Size: MEDIUM
-Class: WAR PAL RNG SHD BRD ROG SHM
+Size: MEDIUM WT: 6.5
+Class: WAR PAL RNG SHD BRD ROG
 Race: ALLDMG Bonus: 18 @ lvl 50
 , Tarnished Battle AxeTarnished Battle Axe
 Slot: PRIMARY SECONDARY
@@ -1232,11 +1231,11 @@ Warrior |
 27-30 |
 100% @ (-2913, -2043) |
 Rusty Short SwordRusty Short Sword
-QUEST ITEM
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 28
 DMG: 4
-WT: 5.0 Size: MEDIUM
+Size: MEDIUM WT: 5.0
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALLDMG Bonus: 14 @ lvl 50
 , Guard BraceletGuard Bracelet
@@ -1976,22 +1975,23 @@ Lempeck Hargrin |
 (None) |
 LORE ITEM NODROP CHA: -3 SV DISEASE: -10 WT: 0.2 Size: TINY Class: ALL Race: ALL |
 Giant Fire Beetle EyeGiant Fire Beetle Eye
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
 None? |
 (None) |
-WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.1 Class: ALL Race: ALL |
 Giant Fire Beetle LegGiant Fire Beetle Leg
-QUEST ITEM
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
 a giant beetle (confirmed 10/8/25) |
 (None) |
-QUEST ITEM WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.1 Class: ALL Race: ALL |
 Giant Snakespine BeltGiant Snakespine Belt
 MAGIC ITEM
 Slot: WAIST
@@ -2203,13 +2203,13 @@ a shadow wolf |
 (None) |
 WT: 0.2 Size: SMALL Class: ALL Race: ALL |
 Shadow Wolf PeltShadow Wolf Pelt
-WT: 3.5 Size: LARGE
+Size: LARGE WT: 3.5
 Class: ALL
 Race: ALL
 |
 a black wolf, a shadow wolf |
 (None) |
-WT: 3.5 Size: LARGE Class: ALL Race: ALL |
+Size: LARGE WT: 3.5 Class: ALL Race: ALL |
 Sheer Bone MaskSheer Bone Mask
 MAGIC ITEM
 Slot: FACE

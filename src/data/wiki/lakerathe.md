@@ -1,5 +1,5 @@
 # Lake_Rathetear (eqlwiki.com)
-fetched: 2026-10-15
+fetched: 2026-10-16
 
 Lake Rathetear - EverQuest Legends Wiki
 Jump to content
@@ -379,9 +379,8 @@ Warrior |
 16 |
 Various |
 Chunk of MeatChunk of Meat
-QUEST ITEM
-This is a meal!
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Gator MeatGator Meat
@@ -556,9 +555,8 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , Snake EggSnake Egg
-QUEST ITEM
-This is a snack!
-WT: 0.2 Size: TINY
+Quest
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 |
@@ -707,9 +705,10 @@ Shaman |
 35 |
 100% @ (2423, -1435) |
 Large Cloth ShirtLarge Cloth Shirt
+Attunable
 Slot: CHEST
 AC: 4
-WT: 1.3 Size: MEDIUM
+Size: MEDIUM WT: 1.3
 Class: ALL
 Race: ALL
 |
@@ -1075,10 +1074,12 @@ WT: 6.5 Size: LARGE
 Class: BRD NEC WIZ MAG ENC
 Race: ALLDMG Bonus: 14 @ lvl 50
 , Hunting BowHunting Bow
+Attunable, Quest, Placeable
 Slot: RANGE
 Skill: Archery Atk Delay: 43
 DMG: 5
-WT: 3.5 Range: 50 Size: MEDIUM
+Range: 50
+Size: MEDIUM WT: 3.5
 Class: WAR PAL RNG SHD ROG
 Race: ALL
 |
@@ -1251,13 +1252,14 @@ a gnoll high shaman |
 2H Blunt |
 Atk Delay: 37 DMG: 9 HP: +5 MANA: +5 END: +5 Size: LARGE WT: 11.0 Class: CLR DRU SHM NEC WIZ MAG ENC BST BER Race: ALL |
 Shark SkinShark Skin
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
 a freshwater shark |
 (None) |
-WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.1 Class: ALL Race: ALL |
 Skull of Jhen`TraSkull of Jhen`Tra
 MAGIC ITEM LORE ITEM
 Slot: PRIMARY SECONDARY

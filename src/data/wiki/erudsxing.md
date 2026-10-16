@@ -1,5 +1,5 @@
 # Erud's_Crossing (eqlwiki.com)
-fetched: 2026-10-11
+fetched: 2026-10-16
 
 Erud's Crossing - EverQuest Legends Wiki
 Jump to content
@@ -152,9 +152,8 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , Snake EggSnake Egg
-QUEST ITEM
-This is a snack!
-WT: 0.2 Size: TINY
+Quest
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 , Seahorse RoeSeahorse Roe
@@ -263,8 +262,8 @@ WT: 0.6 Size: SMALL
 Class: ALL
 Race: ALL
 , Spider LegsSpider Legs
-QUEST ITEM
-WT: 0.5 Size: SMALL
+Quest
+Size: SMALL WT: 0.5
 Class: ALL
 Race: ALL
 , Spider Venom SacSpider Venom Sac
@@ -273,7 +272,8 @@ WT: 0.2 Size: SMALL
 Class: ALL
 Race: ALL
 , Spider SilkSpider Silk
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -669,13 +669,14 @@ A ground spawn at -600, +2000 |
 (None) |
 LORE ITEM NO DROP WT: 0.5 Size: SMALL Class: ALL Race: ALL |
 Mermaid ScaleMermaid Scale
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
 Hastashi |
 (None) |
-WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.1 Class: ALL Race: ALL |
 Pen Key No. 7Pen Key No. 7
 No Trade, Quest
 Size: TINY WT: 0.1
@@ -712,13 +713,14 @@ None? |
 (None) |
 Quest Size: SMALL WT: 0.1 Class: ALL Race: ALL |
 Shark SkinShark Skin
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
 a shark |
 (None) |
-WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.1 Class: ALL Race: ALL |
 Ship ManifestoShip Manifesto
 LORE ITEM NO DROP
 WT: 0.1 Size: TINY

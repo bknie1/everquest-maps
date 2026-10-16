@@ -1,5 +1,5 @@
 # Nektulos_Forest (eqlwiki.com)
-fetched: 2026-10-12
+fetched: 2026-10-16
 
 Nektulos Forest - EverQuest Legends Wiki
 Jump to content
@@ -195,9 +195,8 @@ Class: ALL
 Race: ALL
 (Rare)
 Chunk of MeatChunk of Meat
-QUEST ITEM
-This is a meal!
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 (Uncommon)
@@ -242,10 +241,11 @@ Warrior |
 7-9 |
 See Discussion |
 Cloth Armor, Rusty Weapons, Wooden ShieldWooden Shield
-Slot: SECONDARY
+Attunable, Placeable
+Slot: SECONDARY Type: Shield
 AC: 5
-WT: 5.0 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC
+Size: MEDIUM WT: 5.0
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
 Race: ALL
 , Large Wooden ShieldLarge Wooden Shield
 Slot: SECONDARY
@@ -341,8 +341,8 @@ Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Spider LegsSpider Legs
-QUEST ITEM
-WT: 0.5 Size: SMALL
+Quest
+Size: SMALL WT: 0.5
 Class: ALL
 Race: ALL
 , Spiderling LegsSpiderling Legs
@@ -391,9 +391,8 @@ Warrior |
 7 |
 |
 Snake EggSnake Egg
-QUEST ITEM
-This is a snack!
-WT: 0.2 Size: TINY
+Quest
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 , Giant Snake FangGiant Snake Fang
@@ -431,9 +430,8 @@ WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
 , Snake EggSnake Egg
-QUEST ITEM
-This is a snack!
-WT: 0.2 Size: TINY
+Quest
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 |
@@ -445,7 +443,8 @@ Warrior |
 10-14 |
 Various |
 Spider SilkSpider Silk
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -465,12 +464,13 @@ Warrior |
 2 - 4 |
 Various |
 Spider SilkSpider Silk
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Spider LegsSpider Legs
-QUEST ITEM
-WT: 0.5 Size: SMALL
+Quest
+Size: SMALL WT: 0.5
 Class: ALL
 Race: ALL
 , Spider Venom SacSpider Venom Sac
@@ -555,8 +555,10 @@ Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Silver RingSilver Ring
+Attunable
 Slot: FINGER
-WT: 0.1 Size: TINY
+AC: 1
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -599,8 +601,8 @@ Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Spider LegsSpider Legs
-QUEST ITEM
-WT: 0.5 Size: SMALL
+Quest
+Size: SMALL WT: 0.5
 Class: ALL
 Race: ALL
 |
@@ -1095,11 +1097,12 @@ Cleric |
 20 |
 100% @ (58, 1141)(1140, 40) |
 Splintering ClubSplintering Club
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 28
 DMG: 4
-WT: 6.0 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC
+Size: MEDIUM WT: 6.0
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
 Race: ALLDMG Bonus: 14 @ lvl 50
 , Leatherfoot Raider Skullcap (drop)Leatherfoot Raider Skullcap (drop)
 Slot: HEAD
@@ -1261,11 +1264,12 @@ Rogue |
 9 |
 See Discussion |
 Rusty Shortened SpearRusty Shortened Spear
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
-Skill: Piercing Atk Delay: 32
-DMG: 4BACKSTAB: 4
-WT: 5.0 Size: MEDIUM
-Class: WAR RNG SHD BRD ROG SHM
+Skill: 1H Piercing Atk Delay: 32
+DMG: 4 BACKSTAB: 4
+Size: MEDIUM WT: 5.0
+Class: WAR RNG SHD BRD ROG SHM BST
 Race: ALLDMG Bonus: 16 @ lvl 50
 , Leatherfoot Short BowLeatherfoot Short Bow
 Slot: RANGE
@@ -1445,13 +1449,13 @@ a shadow wolf |
 (None) |
 WT: 0.2 Size: SMALL Class: ALL Race: ALL |
 Shadow Wolf PeltShadow Wolf Pelt
-WT: 3.5 Size: LARGE
+Size: LARGE WT: 3.5
 Class: ALL
 Race: ALL
 |
 a shadow wolf |
 (None) |
-WT: 3.5 Size: LARGE Class: ALL Race: ALL |
+Size: LARGE WT: 3.5 Class: ALL Race: ALL |
 Shadowed BallShadowed Ball
 Lore Equipped, Temporary, Quest, Placeable
 Slot: PRIMARY SECONDARY

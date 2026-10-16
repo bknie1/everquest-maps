@@ -1,5 +1,5 @@
 # South_Ro (eqlwiki.com)
-fetched: 2026-10-12
+fetched: 2026-10-16
 
 Southern Desert of Ro - EverQuest Legends Wiki
 Jump to content
@@ -333,9 +333,8 @@ Class: ALL
 Race: ALL
 (Common)
 Snake EggSnake Egg
-QUEST ITEM
-This is a snack!
-WT: 0.2 Size: TINY
+Quest
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 (Common)
@@ -405,9 +404,8 @@ Warrior |
 3-4 |
 Various |
 Chunk of MeatChunk of Meat
-QUEST ITEM
-This is a meal!
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Wolf MeatWolf Meat
@@ -432,9 +430,8 @@ Warrior |
 3-7 |
 100% @ (-683, 1053) |
 Snake EggSnake Egg
-QUEST ITEM
-This is a snack!
-WT: 0.2 Size: TINY
+Quest
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 , Snake FangSnake Fang
@@ -486,9 +483,8 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , Snake EggSnake Egg
-QUEST ITEM
-This is a snack!
-WT: 0.2 Size: TINY
+Quest
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 |
@@ -500,14 +496,13 @@ Warrior |
 10 |
 Various |
 Giant Snake RattleGiant Snake Rattle
-QUEST ITEM
-WT: 1.2 Size: MEDIUM
+Quest
+Size: MEDIUM WT: 1.2
 Class: ALL
 Race: ALL
 , Snake EggSnake Egg
-QUEST ITEM
-This is a snack!
-WT: 0.2 Size: TINY
+Quest
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 , Snake Venom SacSnake Venom Sac
@@ -828,14 +823,15 @@ None? |
 Head |
 AC: 10 SV FIRE: +10 WT: 0.3 Size: SMALL Class: ALL Race: ALL |
 Fishing PoleFishing Pole
+Attunable, Placeable
 Slot: PRIMARY
-WT: 1.0 Size: TINY
+Size: TINY WT: 1.0
 Class: ALL
 Race: ALL
 |
 Taldrik Stumpystout |
 Primary |
-WT: 1.0 Size: TINY Class: ALL Race: ALL |
+Size: TINY WT: 1.0 Class: ALL Race: ALL |
 Forged DaggerForged Dagger
 QUEST ITEM
 Slot: PRIMARY SECONDARY
@@ -1047,14 +1043,14 @@ ScytheScythe
 Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 45
-DMG: 11 DMG Bonus: 27
+DMG: 11
 Size: LARGE WT: 12.0
 Class: WAR PAL RNG SHD BER
-Race: ALL
+Race: ALLDMG Bonus: 30 @ lvl 50
 |
 None? |
 2H Slashing |
-Atk Delay: 45 DMG: 11 DMG Bonus: 27 Size: LARGE WT: 12.0 Class: WAR PAL RNG SHD BER Race: ALL |
+Atk Delay: 45 DMG: 11 Size: LARGE WT: 12.0 Class: WAR PAL RNG SHD BER Race: ALL |
 SpoonSpoon
 MAGIC ITEM LORE ITEM
 WT: 0.1 Size: TINY
