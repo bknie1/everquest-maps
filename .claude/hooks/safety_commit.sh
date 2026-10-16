@@ -43,7 +43,6 @@ ts="$(date '+%Y-%m-%d %H:%M:%S')"
 git add -A >/dev/null 2>&1
 
 body="Uncommitted worktree changes captured automatically by the Stop hook so nothing is lost. Reword/squash when finalizing; NOT pushed."
-trailer="Co-Authored-By: Claude Code safety-commit <noreply@anthropic.com>"
 
 head_msg="$(git log -1 --pretty=%s 2>/dev/null || echo '')"
 on_remote="$(git branch -r --contains HEAD 2>/dev/null || echo '')"
@@ -51,13 +50,13 @@ on_remote="$(git branch -r --contains HEAD 2>/dev/null || echo '')"
 case "$head_msg" in
   "WIP: auto-commit safety net"*)
     if [ -z "$on_remote" ]; then
-      git commit --amend -m "WIP: auto-commit safety net ($ts)" -m "$body" -m "$trailer" >/dev/null 2>&1
+      git commit --amend -m "WIP: auto-commit safety net ($ts)" -m "$body" >/dev/null 2>&1
       emit "\"[safety-commit] Rolled changes into the WIP safety commit on $branch (not pushed). Finalize with 'git commit --amend -m ...' and push when ready.\""
       exit 0
     fi
     ;;
 esac
 
-git commit -m "WIP: auto-commit safety net ($ts)" -m "$body" -m "$trailer" >/dev/null 2>&1
+git commit -m "WIP: auto-commit safety net ($ts)" -m "$body" >/dev/null 2>&1
 emit "\"[safety-commit] Captured a WIP safety commit on $branch (not pushed). Reword/squash and push when ready.\""
 exit 0
