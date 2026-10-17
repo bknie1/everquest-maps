@@ -1,5 +1,5 @@
 # Lavastorm_Mountains (eqlwiki.com)
-fetched: 2026-10-16
+fetched: 2026-10-17
 
 Lavastorm Mountains - EverQuest Legends Wiki
 Jump to content
@@ -704,14 +704,14 @@ a lava basilisk |
 (None) |
 Size: TINY WT: 0.1 Class: NONE Race: ALL |
 Lava RockLava Rock
-MAGIC ITEM QUEST ITEM
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 a fire elemental |
 (None) |
-MAGIC ITEM QUEST ITEM WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Quest Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Pouch of Red DustPouch of Red Dust
 LORE ITEM NO DROP
 WT: 0.3 Size: SMALL

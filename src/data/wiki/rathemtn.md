@@ -1,5 +1,5 @@
 # Rathe_Mountains (eqlwiki.com)
-fetched: 2026-10-16
+fetched: 2026-10-17
 
 Rathe Mountains - EverQuest Legends Wiki
 Jump to content
@@ -536,45 +536,45 @@ A Tier'Dal Priest
 Dark Elf |
 Wizard |
 11 |
-Insignia camp at +1187, +2479 (own spawn point beside the shared one) |
+(1208, 2483) |
 Tier'Dal Priest InsigniaTier'Dal Priest Insignia
 NO TRADE QUEST ITEM
 WT: 0.1 Size: TINY
 , Crude Binding Powder, Coarse Silk, Silvril Ore |
-One of the rogue troll/dark-elf scouting groups that Gaz Commander Faltip asks you to dispatch for the [[Soldier's Brooc... |
+One of the rogue troll/dark-elf scouting groups that Gaz Commander Faltip asks you to dispatch for the [[Soldier's B... |
 A Tier'Dal Spellbinder
 |
 Dark Elf |
 Cleric |
 11 |
-Insignia camp at +1187, +2479 |
+(1188, 2478) |
 Tier'Dal Arcane InsigniaTier'Dal Arcane Insignia
 NO TRADE QUEST ITEM
 WT: 0.1 Size: TINY
 , Silvril Ore, Crude Binding Powder |
-One of the rogue troll/dark-elf scouting groups that Gaz Commander Faltip asks you to dispatch for the [[Soldier's Brooc... |
+One of the rogue troll/dark-elf scouting groups that Gaz Commander Faltip asks you to dispatch for the [[Soldier's B... |
 A Troll Greenblood
 |
 Troll |
 Warrior |
-9 |
-Insignia camp at +1187, +2479 |
+11 |
+1178, 2448 |
 Troll Greenblood InsigniaTroll Greenblood Insignia
 NO TRADE QUEST ITEM
 WT: 0.1 Size: TINY
 |
-One of the rogue troll/dark-elf scouting groups that Gaz Commander Faltip asks you to dispatch for the [[Soldier's Brooc... |
+One of the rogue troll/dark-elf scouting groups that Gaz Commander Faltip asks you to dispatch for the [[Soldier's B... |
 A Troll Marauder
 |
 Troll |
 Shadow Knight |
-10 |
-Insignia camp at +1187, +2479 |
+9-11 |
+(1170, 2483) |
 Troll Basher InsigniaTroll Basher Insignia
 NO TRADE QUEST ITEM
 WT: 0.1 Size: TINY
 |
-One of the rogue troll/dark-elf scouting groups that Gaz Commander Faltip asks you to dispatch for the [[Soldier's Brooc... |
+One of the rogue troll/dark-elf scouting groups that Gaz Commander Faltip asks you to dispatch for the [[Soldier's B... |
 A Zombie
 |
 Zombie |

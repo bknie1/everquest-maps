@@ -1,5 +1,5 @@
 # Nagafen's_Lair (eqlwiki.com)
-fetched: 2026-10-16
+fetched: 2026-10-17
 
 Nagafen's Lair - EverQuest Legends Wiki
 Jump to content
@@ -625,8 +625,8 @@ Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 (Ultra Rare?), Lava RockLava Rock
-MAGIC ITEM QUEST ITEM
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 (Uncommon) |
@@ -1429,14 +1429,14 @@ guano harvester |
 (None) |
 Size: LARGE WT: 1.0 Weight Reduction: 100% Capacity: 10 Size Capacity: SMALL Class: ALL Race: ALL |
 Lava RockLava Rock
-MAGIC ITEM QUEST ITEM
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 Various |
 (None) |
-MAGIC ITEM QUEST ITEM WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Quest Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Mithril BreastplateMithril Breastplate
 MAGIC ITEM LORE ITEM
 Slot: CHEST
