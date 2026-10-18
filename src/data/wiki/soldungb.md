@@ -1,5 +1,5 @@
 # Nagafen's_Lair (eqlwiki.com)
-fetched: 2026-10-17
+fetched: 2026-10-18
 
 Nagafen's Lair - EverQuest Legends Wiki
 Jump to content
@@ -140,11 +140,11 @@ WT: 1.0 Size: TINY
 Class: ALL
 Race: ALL
 , Crystalline OrbCrystalline Orb
-MAGIC ITEM LORE ITEM
+Lore Equipped, No Trade, Quest, Placeable
 Slot: PRIMARY SECONDARY
+Effect: Eye of Zomm (Charge Clicky, Casting Time: Instant)
 Charges: 5
-Effect: Eye of Zomm (Any Slot, Casting Time: Instant)
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Death Scarab GlandDeath Scarab Gland
@@ -402,11 +402,11 @@ Class: ALL
 Race: ALL
 (Rare)
 13. "Stone Spider Room" with stone spider who drops Crystalline OrbCrystalline Orb
-MAGIC ITEM LORE ITEM
+Lore Equipped, No Trade, Quest, Placeable
 Slot: PRIMARY SECONDARY
+Effect: Eye of Zomm (Charge Clicky, Casting Time: Instant)
 Charges: 5
-Effect: Eye of Zomm (Any Slot, Casting Time: Instant)
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 (Common) and Brown Chitin ProtectorBrown Chitin Protector
@@ -454,13 +454,13 @@ Class: ALL
 Race: ALL
 (Rare) (Raid Instance Only)
 17. "Skarlon Room" with Warlord Skarlon who drops Mithril VambracesMithril Vambraces
-MAGIC ITEM
+Attunable
 Slot: ARMS
 AC: 14
 STR: +7
 SV MAGIC: +5
-WT: 3.7 Size: SMALL
-Class: WAR PAL RNG SHD BRD ROG
+Size: SMALL WT: 3.7
+Class: WAR PAL RNG SHD BRD ROG BER
 Race: ALL
 (Common), Mithril GreavesMithril Greaves
 MAGIC ITEM
@@ -945,11 +945,11 @@ WT: 10.0 Size: LARGE
 Class: DRU
 Race: ALL
 , Crystalline OrbCrystalline Orb
-MAGIC ITEM LORE ITEM
+Lore Equipped, No Trade, Quest, Placeable
 Slot: PRIMARY SECONDARY
+Effect: Eye of Zomm (Charge Clicky, Casting Time: Instant)
 Charges: 5
-Effect: Eye of Zomm (Any Slot, Casting Time: Instant)
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Stone Silk |
@@ -1253,17 +1253,17 @@ King Tranix |
 Head |
 AC: 13 CHA: +15 SV MAGIC: +20 Effect: Serpent Sight (Worn) WT: 1.0 Size: SMALL Class: ALL Race: ALL |
 Crystalline OrbCrystalline Orb
-MAGIC ITEM LORE ITEM
+Lore Equipped, No Trade, Quest, Placeable
 Slot: PRIMARY SECONDARY
+Effect: Eye of Zomm (Charge Clicky, Casting Time: Instant)
 Charges: 5
-Effect: Eye of Zomm (Any Slot, Casting Time: Instant)
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 stone spider |
 Primary, Secondary |
-Charges: 5 Effect: Eye of Zomm WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Effect: Eye of Zomm (Charge Clicky, Casting Time: Instant) Charges: 5 Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Death CapDeath Cap
 WT: 0.1 Size: TINY
 Class: ALL
@@ -1463,18 +1463,18 @@ Warlord Skarlon |
 Legs |
 AC: 14 STR: +7 SV MAGIC: +5 WT: 3.7 Size: SMALL Class: WAR PAL RNG SHD BRD ROG Race: ALL |
 Mithril VambracesMithril Vambraces
-MAGIC ITEM
+Attunable
 Slot: ARMS
 AC: 14
 STR: +7
 SV MAGIC: +5
-WT: 3.7 Size: SMALL
-Class: WAR PAL RNG SHD BRD ROG
+Size: SMALL WT: 3.7
+Class: WAR PAL RNG SHD BRD ROG BER
 Race: ALL
 |
 Warlord Skarlon |
 Arms |
-AC: 14 STR: +7 SV MAGIC: +5 WT: 3.7 Size: SMALL Class: WAR PAL RNG SHD BRD ROG Race: ALL |
+AC: 14 STR: +7 SV MAGIC: +5 Size: SMALL WT: 3.7 Class: WAR PAL RNG SHD BRD ROG BER Race: ALL |
 PainbringerPainbringer
 MAGIC ITEM LORE ITEM NO DROP
 Slot: PRIMARY SECONDARY
@@ -1703,13 +1703,13 @@ WT: 3.7 Size: SMALL
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , Mithril VambracesMithril Vambraces
-MAGIC ITEM
+Attunable
 Slot: ARMS
 AC: 14
 STR: +7
 SV MAGIC: +5
-WT: 3.7 Size: SMALL
-Class: WAR PAL RNG SHD BRD ROG
+Size: SMALL WT: 3.7
+Class: WAR PAL RNG SHD BRD ROG BER
 Race: ALL
 , Polished Mithril MaskPolished Mithril Mask
 MAGIC ITEM LORE ITEM NO DROP

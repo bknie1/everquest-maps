@@ -1,5 +1,5 @@
 # Kaladim (eqlwiki.com)
-fetched: 2026-10-16
+fetched: 2026-10-18
 
 Kaladim - EverQuest Legends Wiki
 Jump to content
@@ -884,7 +884,7 @@ WT: 0.5 Size: SMALL
 Class: ALL
 Race: ALL
 , MalachiteMalachite
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -2121,7 +2121,7 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , MalachiteMalachite
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , MoonstoneMoonstone

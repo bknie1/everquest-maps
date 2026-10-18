@@ -1,5 +1,5 @@
 # Toxxulia_Forest (eqlwiki.com)
-fetched: 2026-10-16
+fetched: 2026-10-18
 
 Toxxulia Forest - EverQuest Legends Wiki
 Jump to content
@@ -716,7 +716,7 @@ WT: 1.0 Size: TINY
 Class: ALL
 Race: ALL
 , MalachiteMalachite
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , AleAle

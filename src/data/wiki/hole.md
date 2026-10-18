@@ -1,5 +1,5 @@
 # The_Hole (eqlwiki.com)
-fetched: 2026-10-16
+fetched: 2026-10-18
 
 The Hole - EverQuest Legends Wiki
 Jump to content
@@ -107,9 +107,10 @@ Lore Equipped, No Trade, Placeable
 Slot: RANGE
 Skill: Archery Atk Delay: 60
 DMG: 33
+Range: 150
 STR: +4 DEX: +4
 SV COLD: +10
-WT: 4.0 Range: 150 Size: MEDIUM
+Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD ROG
 Race: ALL
 , Cracked Paineel ShieldCracked Paineel Shield
@@ -163,10 +164,10 @@ WT: 0.1 Size: TINY
 Class: None
 Race: None
 , Idol of the UnderkingIdol of the Underking
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable, Placeable
 Slot: RANGE PRIMARY SECONDARY
 STR: +3 HP: +20 MANA: +20
-WT: 2.5 Size: TINY
+Size: TINY WT: 2.5
 Class: ALL
 Race: ALLFocus Effect: Improved Healing III
 , Imbued Granite SpauldersImbued Granite Spaulders
@@ -188,13 +189,13 @@ WT: 6.5 Size: MEDIUM
 Class: WAR CLR PAL SHD BRD
 Race: ALL
 , Loam Encrusted Armor, Mudman EnforcerMudman Enforcer
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 20
 DMG: 8
 STR: +3
-WT: 1.9 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC
+Size: MEDIUM WT: 1.9
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
 Race: ALLDMG Bonus: 10 @ lvl 50
 , Paineel Splinted CloakPaineel Splinted Cloak
 Slot: BACK
@@ -326,10 +327,10 @@ Observation Room (not sure why it's on the map, nothing of significance)
 Secret Vault with Mimics
 Mushroom Cellar with Polzin Mrid
 Jail Cell with Slizik the Mighty who drops Idol of the UnderkingIdol of the Underking
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable, Placeable
 Slot: RANGE PRIMARY SECONDARY
 STR: +3 HP: +20 MANA: +20
-WT: 2.5 Size: TINY
+Size: TINY WT: 2.5
 Class: ALL
 Race: ALLFocus Effect: Improved Healing III
 Jail Cell with Caradon
@@ -498,22 +499,23 @@ WT: 45.0 Size: SMALL
 Class: WAR CLR PAL RNG SHD MNK BRD ROG SHM BER
 Race: ALL
 (Rare), Mudman EnforcerMudman Enforcer
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 20
 DMG: 8
 STR: +3
-WT: 1.9 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC
+Size: MEDIUM WT: 1.9
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
 Race: ALLDMG Bonus: 10 @ lvl 50
 (Rare), Bow of the UnderfootBow of the Underfoot
 Lore Equipped, No Trade, Placeable
 Slot: RANGE
 Skill: Archery Atk Delay: 60
 DMG: 33
+Range: 150
 STR: +4 DEX: +4
 SV COLD: +10
-WT: 4.0 Range: 150 Size: MEDIUM
+Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD ROG
 Race: ALL
 (Ultra Rare) |
@@ -1019,10 +1021,10 @@ WT: 45.0 Size: SMALL
 Class: WAR CLR PAL RNG SHD MNK BRD ROG SHM BER
 Race: ALL
 , Idol of the UnderkingIdol of the Underking
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable, Placeable
 Slot: RANGE PRIMARY SECONDARY
 STR: +3 HP: +20 MANA: +20
-WT: 2.5 Size: TINY
+Size: TINY WT: 2.5
 Class: ALL
 Race: ALLFocus Effect: Improved Healing III
 , Smoldering BrandSmoldering Brand
@@ -1135,15 +1137,16 @@ Lore Equipped, No Trade, Placeable
 Slot: RANGE
 Skill: Archery Atk Delay: 60
 DMG: 33
+Range: 150
 STR: +4 DEX: +4
 SV COLD: +10
-WT: 4.0 Range: 150 Size: MEDIUM
+Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD ROG
 Race: ALL
 |
 a rock golem |
 Archery |
-Atk Delay: 60 DMG: 33 STR: +4 DEX: +4 SV COLD: +10 WT: 4.0 Range: 150 Size: MEDIUM Class: WAR PAL RNG SHD ROG Race: ALL |
+Atk Delay: 60 DMG: 33 Range: 150 STR: +4 DEX: +4 SV COLD: +10 Size: MEDIUM WT: 4.0 Class: WAR PAL RNG SHD ROG Race: ALL |
 Brell's GirdleBrell's Girdle
 Attunable, Lore Equipped
 Slot: WAIST
@@ -1236,16 +1239,15 @@ Empyran JerkinEmpyran Jerkin
 Lore Equipped, Attunable
 Slot: CHEST
 AC: 5
-STR: +10
-HP: +30
+STR: +10 HP: +30
 SV Magic: +10
-WT: 0.5 Size: MEDIUM
+Size: MEDIUM WT: 0.5
 Class: MNK
 Race: ALL
 |
 Retseth Tretse |
 Chest |
-AC: 5 STR: +10 HP: +30 SV Magic: +10 WT: 0.5 Size: MEDIUM Class: MNK Race: ALL |
+AC: 5 STR: +10 HP: +30 SV Magic: +10 Size: MEDIUM WT: 0.5 Class: MNK Race: ALL |
 Engraved RingEngraved Ring
 MAGIC ITEM LORE ITEM NO DROP
 Slot: FINGER
@@ -1260,17 +1262,18 @@ CHA: +5 WT: 0.2 Size: SMALL Class: ALL Race: ALL |
 Essence of EarthEssence of Earth
 Lore Equipped, Attunable
 Slot: NECK
-AC 4 STR: +5 STA: +5
+AC: 4
+STR: +5 STA: +5 DEX: -2
 SV Fire: +2
 Effect: Illusion: Earth Elemental (Can Equip, Cast Time: Instant) at Level 30
 Charges: 2
-WT: 1.1 Size: MEDIUM
+Size: MEDIUM WT: 1.0
 Class: ALL
 Race: ALL
 |
 Retseth Tretse |
 Neck |
-AC 4 STR: +5 STA: +5 SV Fire: +2 Effect: Illusion: Earth Elemental (Can Equip, Cast Time: Instant) at Level 30 Charges: 2 WT: 1.1 Size: MEDIUM Class: ALL Race: ALL |
+AC: 4 STR: +5 STA: +5 DEX: -2 SV Fire: +2 Effect: Illusion: Earth Elemental (Can Equip, Cast Time: Instant) at Level 30 Charges: 2 Size: MEDIUM WT: 1.0 Class: ALL Race: ALL |
 Essence of a GhostEssence of a Ghost
 MAGIC ITEM LORE ITEM NO DROP
 WT: 1.0 Size: SMALL
@@ -1343,16 +1346,16 @@ Various |
 (None) |
 No Trade WT: 0.1 Size: TINY Class: None Race: None |
 Idol of the UnderkingIdol of the Underking
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable, Placeable
 Slot: RANGE PRIMARY SECONDARY
 STR: +3 HP: +20 MANA: +20
-WT: 2.5 Size: TINY
+Size: TINY WT: 2.5
 Class: ALL
 Race: ALLFocus Effect: Improved Healing III
 |
 Slizik the Mighty, Retseth Tretse |
 Range, Primary, Secondary |
-STR: +3 HP: +20 MANA: +20 WT: 2.5 Size: TINY Class: ALL Race: ALL |
+STR: +3 HP: +20 MANA: +20 Size: TINY WT: 2.5 Class: ALL Race: ALL |
 Imbued Granite SpauldersImbued Granite Spaulders
 Lore Equipped, No Trade
 Slot: SHOULDERS
@@ -1541,18 +1544,18 @@ Bejeweled Elemental |
 Face |
 AC: 3 CHA: +3 INT: +1 HP: +20 MANA: +5 WT: 0.2 Size: SMALL Class: NEC WIZ MAG ENC Race: ALL |
 Mudman EnforcerMudman Enforcer
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 20
 DMG: 8
 STR: +3
-WT: 1.9 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC
+Size: MEDIUM WT: 1.9
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
 Race: ALLDMG Bonus: 10 @ lvl 50
 |
 a rock golem, Retseth Tretse |
 1H Blunt |
-Atk Delay: 20 DMG: 8 STR: +3 WT: 1.9 Size: MEDIUM Class: ALL except NEC WIZ MAG ENC Race: ALL |
+Atk Delay: 20 DMG: 8 STR: +3 Size: MEDIUM WT: 1.9 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST Race: ALL |
 Paineel Splinted CloakPaineel Splinted Cloak
 Slot: BACK
 AC: 8

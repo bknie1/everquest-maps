@@ -1,5 +1,5 @@
 # South_Ro (eqlwiki.com)
-fetched: 2026-10-16
+fetched: 2026-10-18
 
 Southern Desert of Ro - EverQuest Legends Wiki
 Jump to content
@@ -362,9 +362,9 @@ Beetle |
 Warrior |
 9-11 |
 Various |
-Giant Scarab Egg SackGiant Scarab Egg Sack
-QUEST ITEM
-WT: 0.3 Size: SMALL
+Giant Scarab Egg SacGiant Scarab Egg Sac
+Quest
+Size: SMALL WT: 0.3
 Class: ALL
 Race: ALL
 , Giant Scarab EyeGiant Scarab Eye

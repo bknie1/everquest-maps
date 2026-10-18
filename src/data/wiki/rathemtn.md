@@ -1,5 +1,5 @@
 # Rathe_Mountains (eqlwiki.com)
-fetched: 2026-10-17
+fetched: 2026-10-18
 
 Rathe Mountains - EverQuest Legends Wiki
 Jump to content
@@ -903,9 +903,9 @@ Beetle |
 Warrior |
 9 |
 100% @ (1729, 383) |
-Giant Scarab Egg SackGiant Scarab Egg Sack
-QUEST ITEM
-WT: 0.3 Size: SMALL
+Giant Scarab Egg SacGiant Scarab Egg Sac
+Quest
+Size: SMALL WT: 0.3
 Class: ALL
 Race: ALL
 , Cracked Giant Scarab CarapaceCracked Giant Scarab Carapace
@@ -1820,9 +1820,9 @@ Quest
 Size: MEDIUM WT: 5.0
 Class: ALL
 Race: ALL
-, Giant Scarab Egg SackGiant Scarab Egg Sack
-QUEST ITEM
-WT: 0.3 Size: SMALL
+, Giant Scarab Egg SacGiant Scarab Egg Sac
+Quest
+Size: SMALL WT: 0.3
 Class: ALL
 Race: ALL
 , Giant Scarab EyeGiant Scarab Eye

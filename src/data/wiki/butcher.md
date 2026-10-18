@@ -1,5 +1,5 @@
 # Butcherblock_Mountains (eqlwiki.com)
-fetched: 2026-10-16
+fetched: 2026-10-18
 
 Butcherblock Mountains - EverQuest Legends Wiki
 Jump to content
@@ -230,9 +230,9 @@ Giant Scarab LegsGiant Scarab Legs
 WT: 0.5 Size: MEDIUM
 Class: ALL
 Race: ALL
-, Giant Scarab Egg SackGiant Scarab Egg Sack
-QUEST ITEM
-WT: 0.3 Size: SMALL
+, Giant Scarab Egg SacGiant Scarab Egg Sac
+Quest
+Size: SMALL WT: 0.3
 Class: ALL
 Race: ALL
 , Pristine Giant Scarab CarapacePristine Giant Scarab Carapace

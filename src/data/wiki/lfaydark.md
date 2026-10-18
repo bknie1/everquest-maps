@@ -1,5 +1,5 @@
 # Lesser_Faydark (eqlwiki.com)
-fetched: 2026-10-16
+fetched: 2026-10-18
 
 Lesser Faydark - EverQuest Legends Wiki
 Jump to content
@@ -981,7 +981,8 @@ Cleric |
 45 |
 100% @ (-899, 1101) |
 Various |
-Complete Heals... |
+Complete Heals...
+Long respawn (1 hour?) |
 Princess Joleena
 |
 Fairy |
