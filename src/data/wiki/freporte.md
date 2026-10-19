@@ -1,5 +1,5 @@
 # East_Freeport (eqlwiki.com)
-fetched: 2026-10-16
+fetched: 2026-10-19
 
 Freeport - EverQuest Legends Wiki
 Jump to content
@@ -3494,7 +3494,7 @@ Class: ALL except NEC WIZ MAG ENC
 Race: ALLDMG Bonus: 18 @ lvl 50
 |
 If you are thinking about taking the quest he offers for Dismal Rage clerics - don't. This looks to be the beginning of... |
-Items - Found 12 items that drop in East Freeport:
+Items - Found 13 items that drop in East Freeport:
 Item Name | Drops From | Slot | Stats |
 A DollA Doll
 WT: 1.0 Size: TINY
@@ -3504,6 +3504,15 @@ Race: ALL
 a shark |
 (None) |
 WT: 1.0 Size: TINY Class: ALL Race: ALL |
+Barbarian Head (Talym's Head)Barbarian Head (Talym's Head)
+LORE ITEM NO DROP
+WT: 0.7 Size: SMALL
+Class: ALL
+Race: ALL
+|
+Talym Shoontar |
+(None) |
+LORE ITEM NO DROP WT: 0.7 Size: SMALL Class: ALL Race: ALL |
 Boots of BrawnBoots of Brawn
 MAGIC ITEM LORE ITEM
 Slot: FEET

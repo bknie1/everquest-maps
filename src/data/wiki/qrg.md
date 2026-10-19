@@ -1,5 +1,5 @@
 # Surefall_Glade (eqlwiki.com)
-fetched: 2026-10-16
+fetched: 2026-10-19
 
 Surefall Glade - EverQuest Legends Wiki
 Jump to content
@@ -794,7 +794,7 @@ Warrior |
 15 |
 100% @ (144, -415)
 Occasionally in Seafarer's Roost, East Freeport (-211,-885) |
-Barbarian HeadBarbarian Head
+Barbarian Head (Talym's Head)Barbarian Head (Talym's Head)
 LORE ITEM NO DROP
 WT: 0.7 Size: SMALL
 Class: ALL
@@ -825,7 +825,7 @@ GM Druid |
 (-122, -302) |
 None |
 A druid guildmaster in Surefall Glade. |
-Items - Found 5 items that drop in Surefall Glade:
+Items - Found 6 items that drop in Surefall Glade:
 Item Name | Drops From | Slot | Stats |
 Barbarian HeadBarbarian Head
 LORE ITEM NO DROP
@@ -836,6 +836,15 @@ Race: ALL
 Talym Shoontar |
 (None) |
 LORE ITEM NO DROP WT: 2.0 Size: TINY Class: ALL Race: ALL |
+Barbarian Head (Talym's Head)Barbarian Head (Talym's Head)
+LORE ITEM NO DROP
+WT: 0.7 Size: SMALL
+Class: ALL
+Race: ALL
+|
+Talym Shoontar |
+(None) |
+LORE ITEM NO DROP WT: 0.7 Size: SMALL Class: ALL Race: ALL |
 Bayle List IIBayle List II
 LORE ITEM NO DROP
 WT: 0.0 Size: TINY

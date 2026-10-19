@@ -1,5 +1,5 @@
 # Lower_Guk (eqlwiki.com)
-fetched: 2026-10-16
+fetched: 2026-10-19
 
 Lower Guk - EverQuest Legends Wiki
 Jump to content
@@ -965,7 +965,7 @@ Class: ALL
 Race: ALL
 (Common), Spider Venom SacSpider Venom Sac
 Quest
-WT: 0.2 Size: SMALL
+Size: SMALL WT: 0.2
 Class: ALL
 Race: ALL
 (Common), Classic Mid-Tier Treasures (Uncommon) |
@@ -1025,13 +1025,13 @@ Warrior |
 2-4 |
 (1042, -1102), (592, -874), (907, -763), (593, -903), (947, -670), (906, -732), (932, -621) |
 Froglok MeatFroglok Meat
-QUEST ITEM
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Froglok BloodFroglok Blood
-MAGIC ITEM
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -1043,13 +1043,13 @@ Shaman |
 33-37 |
 50% @ (465, -514), 50% @ (302, -363), 50% @ (350, -73), 50% @ (216, -466) |
 Froglok MeatFroglok Meat
-QUEST ITEM
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Froglok BloodFroglok Blood
-MAGIC ITEM
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -1061,13 +1061,13 @@ Warrior |
 33-37 |
 50% @ (294, -62), 50% @ (256, -432), 50% @ (206, -448) |
 Froglok MeatFroglok Meat
-QUEST ITEM
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Froglok BloodFroglok Blood
-MAGIC ITEM
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -1338,13 +1338,13 @@ Warrior |
 47-49 |
 20% @ (-105, 22), 20% @ (-126, 8) |
 Froglok MeatFroglok Meat
-QUEST ITEM
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Froglok BloodFroglok Blood
-MAGIC ITEM
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -1388,13 +1388,13 @@ Shaman |
 42-46 |
 (17, -259) |
 Froglok MeatFroglok Meat
-QUEST ITEM
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Froglok BloodFroglok Blood
-MAGIC ITEM
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -1453,13 +1453,13 @@ Shaman |
 36-40 |
 Various (Live side) |
 Froglok MeatFroglok Meat
-QUEST ITEM
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Froglok BloodFroglok Blood
-MAGIC ITEM
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -2345,32 +2345,32 @@ a froglok shin knight |
 (None) |
 QUEST ITEM WT: 0.1 Size: SMALL Class: ALL Race: ALL |
 Froglok LegFroglok Leg
-LORE ITEM NO DROP
-WT: 1.0 Size: MEDIUM
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
 a froglok shin knight |
 (None) |
-LORE ITEM NO DROP WT: 1.0 Size: MEDIUM Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.1 Class: ALL Race: ALL |
 Froglok MeatFroglok Meat
-QUEST ITEM
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 |
 A Froglok Bok Knight |
 (None) |
-QUEST ITEM WT: 1.0 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 1.0 Class: ALL Race: ALL |
 Froglok Poison GlandFroglok Poison Gland
-QUEST ITEM
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
 a froglok shin knight |
 (None) |
-QUEST ITEM WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.1 Class: ALL Race: ALL |
 Gilded ClothGilded Cloth
 MAGIC ITEM
 Slot: SHOULDERS

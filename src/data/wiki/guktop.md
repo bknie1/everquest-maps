@@ -1,5 +1,5 @@
 # Upper_Guk (eqlwiki.com)
-fetched: 2026-10-16
+fetched: 2026-10-19
 
 Upper Guk - EverQuest Legends Wiki
 Jump to content
@@ -148,9 +148,9 @@ WT: 1.0 Size: SMALL
 Class: BRD ROG
 Race: ALL
 , Fungus SporesFungus Spores
-EXPENDABLE Charges: 1
-Effect: Fungus Spores (Any Slot, Casting Time: Instant) as Level 20
-WT: 0.2 Size: SMALL
+Effect: Fungus Spores (Consumable Clicky, Casting Time: Instant)
+Charges: 1
+Size: SMALL WT: 0.2
 Class: ALL
 Race: ALL
 , Gatorscale LeggingsGatorscale Leggings
@@ -195,10 +195,10 @@ WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
 , Pouch of Ghoul AshPouch of Ghoul Ash
-MAGIC ITEM
-EXPENDABLE Charges: 1
-Effect: See Invisible (Any Slot, Casting Time: Instant) as Level 20
-WT: 0.4 Size: SMALL
+Quest
+Effect: See Invisible (Consumable Clicky, Casting Time: Instant)
+Charges: 1
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 , Reed RingReed Ring
@@ -249,9 +249,9 @@ WT: 1.0 Size: SMALL
 Class: BRD ROG
 Race: ALL
 , Vial of Egg WhitesVial of Egg Whites
-EXPENDABLE Charges: 1
-Effect: Enduring Breath (Any Slot, Casting Time: Instant) as Level 20
-WT: 0.4 Size: SMALL
+Effect: Enduring Breath (Consumable Clicky, Casting Time: Instant)
+Charges: 1
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 , Guk Bracket MildewGuk Bracket Mildew
@@ -339,9 +339,9 @@ Race: ALLDMG Bonus: 14 @ lvl 50
 (rare)
 11. Mushroom Farm with Fungus Men, also A Fungus Mutant who drops Guk Bracket Mildew (common) and Degenerated Guk Weed (rare)
 12. Room with a froglok idealist, who drops Vial of Egg WhitesVial of Egg Whites
-EXPENDABLE Charges: 1
-Effect: Enduring Breath (Any Slot, Casting Time: Instant) as Level 20
-WT: 0.4 Size: SMALL
+Effect: Enduring Breath (Consumable Clicky, Casting Time: Instant)
+Charges: 1
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 (common) and Moss MaskMoss Mask
@@ -379,10 +379,10 @@ Class: BRD ROG
 Race: ALL
 (rare), room to north is safe underwater cove
 14. Room with a froglok realist who drops Pouch of Ghoul AshPouch of Ghoul Ash
-MAGIC ITEM
-EXPENDABLE Charges: 1
-Effect: See Invisible (Any Slot, Casting Time: Instant) as Level 20
-WT: 0.4 Size: SMALL
+Quest
+Effect: See Invisible (Consumable Clicky, Casting Time: Instant)
+Charges: 1
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 (common) and Reed RingReed Ring
@@ -456,9 +456,9 @@ Alternate Map
 Upper Guk (Entrance)
 11. a froglok necromancer - One of the low level mobs here, the froglok necromancer drops the Pouch of Ghoul Ashes, which has See Invis clickie.
 12. a froglok idealist - Another low level spawn, the idealist drops a Vial of Egg WhitesVial of Egg Whites
-EXPENDABLE Charges: 1
-Effect: Enduring Breath (Any Slot, Casting Time: Instant) as Level 20
-WT: 0.4 Size: SMALL
+Effect: Enduring Breath (Consumable Clicky, Casting Time: Instant)
+Charges: 1
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 (common), and a Moss MaskMoss Mask
@@ -601,14 +601,14 @@ Class: ALL
 Race: ALL
 (Rare)
 Froglok MeatFroglok Meat
-QUEST ITEM
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 (Rare)
 Froglok BloodFroglok Blood
-MAGIC ITEM
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 (Rare)
@@ -669,14 +669,14 @@ Class: ALL
 Race: ALL
 (Rare)
 Froglok BloodFroglok Blood
-MAGIC ITEM
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 (Uncommon)
 Froglok MeatFroglok Meat
-QUEST ITEM
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 (Uncommon)
@@ -749,10 +749,10 @@ Shaman |
 20% @ (267, -146) |
 ;Unique loot
 Pouch of Ghoul AshPouch of Ghoul Ash
-MAGIC ITEM
-EXPENDABLE Charges: 1
-Effect: See Invisible (Any Slot, Casting Time: Instant) as Level 20
-WT: 0.4 Size: SMALL
+Quest
+Effect: See Invisible (Consumable Clicky, Casting Time: Instant)
+Charges: 1
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 (Rare) (5%)
@@ -772,14 +772,14 @@ Class: ALL
 Race: ALL
 (Rare) (17%)
 Froglok BloodFroglok Blood
-MAGIC ITEM
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 (Uncommon) (16%)
 Froglok MeatFroglok Meat
-QUEST ITEM
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 (Uncommon) (16%)
@@ -983,8 +983,8 @@ WT: 0.1 Size: TINY
 Class: NONE
 Race: NONE
 , Faerix SporesFaerix Spores
-LORE ITEM NO DROP
-WT: 0.1 Size: TINY
+No Trade, Quest
+Size: TINY WT: 0.1
 Class: NONE
 Race: NONE
 , Degenerated Guk WeedDegenerated Guk Weed
@@ -1106,8 +1106,8 @@ Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Gator MeatGator Meat
-QUEST ITEM
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 |
@@ -1229,8 +1229,8 @@ WT: 0.4 Size: MEDIUM
 Class: ALL
 Race: ALL
 , Gator MeatGator Meat
-QUEST ITEM
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 |
@@ -1268,7 +1268,7 @@ Paladin |
 (-5, 288) |
 Various |
 The Shin Lord is a Paladin (a fact which many Paladins after Ghoulbane find a bit odd), he can lay hands and casts [[hea... |
-Items - Found 72 items that drop in Upper Guk:
+Items - Found 73 items that drop in Upper Guk:
 Item Name | Drops From | Slot | Stats |
 A Shimmering OrbA Shimmering Orb
 MAGIC ITEM LORE ITEM
@@ -1282,6 +1282,15 @@ Race: ALLFocus Effect: Summoning Haste I
 a froglok scryer |
 Secondary |
 AC: 15 HP: +20 WT: 0.2 Size: TINY Class: BRD NEC WIZ MAG ENC Race: ALL |
+Barbarian Head (Head of Wulfthan)Barbarian Head (Head of Wulfthan)
+No Trade, Quest
+Size: TINY WT: 2.0
+Class: ALL
+Race: ALL
+|
+A Froglok Shinta Warrior |
+(None) |
+No Trade, Quest Size: TINY WT: 2.0 Class: ALL Race: ALL |
 Bracelet of Woven GrassBracelet of Woven Grass
 MAGIC ITEM
 Slot: WRIST
@@ -1362,14 +1371,14 @@ the froglok warden |
 Hands |
 AC: 4 DEX: +5 AGI: +5 WT: 1.0 Size: SMALL Class: BRD ROG Race: ALL |
 Faerix SporesFaerix Spores
-LORE ITEM NO DROP
-WT: 0.1 Size: TINY
+No Trade, Quest
+Size: TINY WT: 0.1
 Class: NONE
 Race: NONE
 |
 a fungus mutant |
 (None) |
-LORE ITEM NO DROP WT: 0.1 Size: TINY Class: NONE Race: NONE |
+No Trade, Quest Size: TINY WT: 0.1 Class: NONE Race: NONE |
 Froglok EyeFroglok Eye
 QUEST ITEM
 WT: 0.1 Size: SMALL
@@ -1380,23 +1389,23 @@ Various |
 (None) |
 QUEST ITEM WT: 0.1 Size: SMALL Class: ALL Race: ALL |
 Froglok MeatFroglok Meat
-QUEST ITEM
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 |
 Various |
 (None) |
-QUEST ITEM WT: 1.0 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 1.0 Class: ALL Race: ALL |
 Froglok Poison GlandFroglok Poison Gland
-QUEST ITEM
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
 Various |
 (None) |
-QUEST ITEM WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.1 Class: ALL Race: ALL |
 Froglok Tad TongueFroglok Tad Tongue
 NO DROP
 WT: 0.5 Size: SMALL
@@ -1424,15 +1433,15 @@ a froglok tad |
 (None) |
 QUEST ITEM WT: 0.3 Size: SMALL Class: ALL Race: ALL |
 Fungus SporesFungus Spores
-EXPENDABLE Charges: 1
-Effect: Fungus Spores (Any Slot, Casting Time: Instant) as Level 20
-WT: 0.2 Size: SMALL
+Effect: Fungus Spores (Consumable Clicky, Casting Time: Instant)
+Charges: 1
+Size: SMALL WT: 0.2
 Class: ALL
 Race: ALL
 |
 a fungus ancient |
 (None) |
-EXPENDABLE Charges: 1 Effect: Fungus Spores as Level 20 WT: 0.2 Size: SMALL Class: ALL Race: ALL |
+Effect: Fungus Spores (Consumable Clicky, Casting Time: Instant) Charges: 1 Size: SMALL WT: 0.2 Class: ALL Race: ALL |
 Gatorscale LeggingsGatorscale Leggings
 MAGIC ITEM
 Slot: LEGS
@@ -1521,14 +1530,13 @@ Ground Spawn, (200, -500) |
 (None) |
 MAGIC ITEM LORE ITEM NO DROP WT: 1.0 Size: SMALL Class: ALL Race: ALL |
 Lens of Glowing AmberLens of Glowing Amber
-MAGIC ITEM
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 a froglok summoner |
 (None) |
-MAGIC ITEM WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Mesh ArmbandsMesh Armbands
 MAGIC ITEM
 Slot: ARMS
@@ -1793,16 +1801,16 @@ a froglok outlander |
 (None) |
 LORE ITEM NO DROP WT: 5.0 Weight Reduction: 0% Capacity: 4 Size Capacity: SMALL |
 Pouch of Ghoul AshPouch of Ghoul Ash
-MAGIC ITEM
-EXPENDABLE Charges: 1
-Effect: See Invisible (Any Slot, Casting Time: Instant) as Level 20
-WT: 0.4 Size: SMALL
+Quest
+Effect: See Invisible (Consumable Clicky, Casting Time: Instant)
+Charges: 1
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 |
 a froglok idealist, a froglok realist |
 (None) |
-MAGIC ITEM EXPENDABLE Charges: 1 Effect: See Invisible as Level 20 WT: 0.4 Size: SMALL Class: ALL Race: ALL |
+Quest Effect: See Invisible (Consumable Clicky, Casting Time: Instant) Charges: 1 Size: SMALL WT: 0.4 Class: ALL Race: ALL |
 Reed RingReed Ring
 MAGIC ITEM
 Slot: FINGER
@@ -1916,15 +1924,15 @@ the froglok warden |
 Waist |
 AC: 5 STR: +5 STA: +5 WT: 1.0 Size: SMALL Class: BRD ROG Race: ALL |
 Vial of Egg WhitesVial of Egg Whites
-EXPENDABLE Charges: 1
-Effect: Enduring Breath (Any Slot, Casting Time: Instant) as Level 20
-WT: 0.4 Size: SMALL
+Effect: Enduring Breath (Consumable Clicky, Casting Time: Instant)
+Charges: 1
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 |
 a froglok idealist |
 (None) |
-EXPENDABLE Charges: 1 Effect: Enduring Breath as Level 20 WT: 0.4 Size: SMALL Class: ALL Race: ALL |
+Effect: Enduring Breath (Consumable Clicky, Casting Time: Instant) Charges: 1 Size: SMALL WT: 0.4 Class: ALL Race: ALL |
 Woven CapWoven Cap
 MAGIC ITEM
 Slot: HEAD

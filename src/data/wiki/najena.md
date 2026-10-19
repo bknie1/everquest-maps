@@ -1,5 +1,5 @@
 # Najena (eqlwiki.com)
-fetched: 2026-10-15
+fetched: 2026-10-19
 
 Najena - EverQuest Legends Wiki
 Jump to content
@@ -911,13 +911,13 @@ Warrior |
 20 |
 (245, 109) |
 Froglok BloodFroglok Blood
-MAGIC ITEM
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Froglok MeatFroglok Meat
-QUEST ITEM
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 |

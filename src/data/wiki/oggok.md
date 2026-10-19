@@ -1,5 +1,5 @@
 # Oggok (eqlwiki.com)
-fetched: 2026-10-16
+fetched: 2026-10-19
 
 Oggok - EverQuest Legends Wiki
 Jump to content
@@ -618,7 +618,7 @@ Marda |
 All |
 Innothule Swamp |
 Slayer Captain, a troll slayer |
-NPCs - Found 77 NPCs that spawn in Oggok:
+NPCs - Found 79 NPCs that spawn in Oggok:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 Ambassador K`Ryn
 |
@@ -1111,6 +1111,14 @@ Merchant |
 (238, 756) |
 |
 Pottery Supplies merchant. |
+Kizrak the Tyrant
+|
+OGRE |
+WARRIOR |
+61 |
+|
+|
+|
 Kogna
 |
 Ogre |
@@ -1232,6 +1240,14 @@ GM Shadow Knight |
 (335, -42) |
 None |
 Shadow knight guildmaster in Oggok. |
+Soulbinder Trurg
+|
+Ogre |
+|
+1 |
+100% @ (500, 655) |
+|
+|
 Squeea
 |
 Oggok Citizen |

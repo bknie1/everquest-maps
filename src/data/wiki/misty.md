@@ -1,5 +1,5 @@
 # Misty_Thicket (eqlwiki.com)
-fetched: 2026-10-18
+fetched: 2026-10-19
 
 Misty Thicket - EverQuest Legends Wiki
 Jump to content
@@ -427,7 +427,7 @@ Class: ALL
 Race: ALL
 , Spider Venom SacSpider Venom Sac
 Quest
-WT: 0.2 Size: SMALL
+Size: SMALL WT: 0.2
 Class: ALL
 Race: ALL
 , Spider LegsSpider Legs
@@ -1394,8 +1394,8 @@ Shaman |
 20 |
 +1020, +80 |
 Froglok LegFroglok Leg
-LORE ITEM NO DROP
-WT: 1.0 Size: MEDIUM
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , BloodstoneBloodstone
@@ -1502,14 +1502,14 @@ Mooto |
 Neck |
 INT: +3 WIS: +3 CHA: +3 WT: 0.2 Size: TINY Class: ALL Race: ALL |
 Froglok LegFroglok Leg
-LORE ITEM NO DROP
-WT: 1.0 Size: MEDIUM
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
 Slaythe |
 (None) |
-LORE ITEM NO DROP WT: 1.0 Size: MEDIUM Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.1 Class: ALL Race: ALL |
 Giant Wasp EyeGiant Wasp Eye
 WT: 0.1 Size: SMALL
 Class: ALL

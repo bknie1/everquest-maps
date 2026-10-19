@@ -1,5 +1,5 @@
 # Kedge_Keep (eqlwiki.com)
-fetched: 2026-10-16
+fetched: 2026-10-19
 
 Kedge Keep - EverQuest Legends Wiki
 Jump to content
@@ -957,7 +957,7 @@ Class: ALL
 Race: ALL
 , Deepwater InkDeepwater Ink
 Quest
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -1270,7 +1270,7 @@ Cleric |
 8% @ (179, -456), 8% @ (111, -393), 8% @ (150, -405) |
 Deepwater InkDeepwater Ink
 Quest
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -1363,13 +1363,13 @@ Piercing |
 Atk Delay: 28 DMG: 10 STR: +5 WIS: +5 MANA: +20 SV DISEASE: +5 WT: 7.0 Size: LARGE Class: SHM Race: ALL |
 Deepwater InkDeepwater Ink
 Quest
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 Various |
 (None) |
-Quest WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Quest Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Driftwood Treasure ChestDriftwood Treasure Chest
 WT: 10.0 Weight Reduction: 100%
 Capacity: 10 Size Capacity: GIANT

@@ -1,5 +1,5 @@
 # Lake_Rathetear (eqlwiki.com)
-fetched: 2026-10-16
+fetched: 2026-10-19
 
 Lake Rathetear - EverQuest Legends Wiki
 Jump to content
@@ -384,8 +384,8 @@ Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Gator MeatGator Meat
-QUEST ITEM
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 |
@@ -428,8 +428,8 @@ Warrior |
 6 |
 Various |
 Froglok MeatFroglok Meat
-QUEST ITEM
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Undead Froglok TongueUndead Froglok Tongue
@@ -438,8 +438,8 @@ Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Froglok BloodFroglok Blood
-MAGIC ITEM
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |

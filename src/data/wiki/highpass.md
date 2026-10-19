@@ -1,5 +1,5 @@
 # Highpass_Hold (eqlwiki.com)
-fetched: 2026-10-16
+fetched: 2026-10-19
 
 Highpass Hold - EverQuest Legends Wiki
 Jump to content
@@ -866,7 +866,7 @@ Grenix Mucktail
 Gnoll |
 Warrior |
 20 |
-100% @ (625, 90) |
+100% @ (625, 90), (665, 83) |
 Polished Granite TomahawkPolished Granite Tomahawk
 MAGIC ITEM LORE ITEM
 Slot: PRIMARY SECONDARY

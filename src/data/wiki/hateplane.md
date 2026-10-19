@@ -1,5 +1,5 @@
 # Plane_of_Hate (eqlwiki.com)
-fetched: 2026-10-14
+fetched: 2026-10-19
 
 Plane of Hate - EverQuest Legends Wiki
 Jump to content
@@ -612,7 +612,7 @@ Shadow Knight |
 54 |
 100% @ (104, 255) level 2 |
 None |
-These emissaries are KOS to ALL, even ogre shadowknights. |
+|
 A Greenmist Diplomat
 |
 Iksar |

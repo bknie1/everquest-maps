@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-10-16
+fetched: 2026-10-19
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -1927,11 +1927,11 @@ Wind Rune Heda
 Efreeti War Shield
 |
 Pearlescent PauldronsPearlescent Pauldrons
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade
 Slot: SHOULDERS
 AC: 10
-STR: +10 DEX: +15 INT: +15 MANA: +50
-WT: 4.5 Size: MEDIUM
+STR: +10 INT: +15 DEX: +15 MANA: +50
+Size: MEDIUM WT: 4.5
 Class: SHD
 Race: ALL
 |
@@ -4270,14 +4270,14 @@ Bazzt Zzzt |
 (None) |
 LORE ITEM NO DROP WT: 1.0 Size: MEDIUM Class: ALL Race: ALL |
 Djinni AuraDjinni Aura
-LORE ITEM NO DROP
-WT: 5.0 Size: MEDIUM
-Class: ALL
+No Trade, Quest
+Size: MEDIUM WT: 5.0
+Class: CLR
 Race: ALL
 |
 Sister of the Spire |
 (None) |
-LORE ITEM NO DROP WT: 5.0 Size: MEDIUM Class: ALL Race: ALL |
+No Trade, Quest Size: MEDIUM WT: 5.0 Class: CLR Race: ALL |
 Djinni StatuetteDjinni Statuette
 LORE ITEM
 WT: 2.0 Size: MEDIUM
@@ -4396,14 +4396,13 @@ Lore Equipped, Attunable, Quest, Placeable
 Slot: Primary
 Skill: 2H Slashing Atk Delay: 28
 DMG: 15
-Dmg Bon: 19
-WT: 0.5 Size: SMALL
+Size: SMALL WT: 0.5
 Class: WAR PAL RNG SHD BER
-Race: ALL
+Race: ALLDMG Bonus: 19 @ lvl 50
 |
 Noble Dojorn, Overseer of Air, the Hand of Veeshan |
 2H Slashing |
-Atk Delay: 28 DMG: 15 Dmg Bon: 19 WT: 0.5 Size: SMALL Class: WAR PAL RNG SHD BER Race: ALL |
+Atk Delay: 28 DMG: 15 Size: SMALL WT: 0.5 Class: WAR PAL RNG SHD BER Race: ALL |
 Efreeti BeltEfreeti Belt
 MAGIC ITEM LORE ITEM
 Slot: WAIST
@@ -4447,27 +4446,26 @@ Efreeti Long SwordEfreeti Long Sword
 Lore Equipped, Attunable, Quest, Placeable
 Slot: Primary Secondary
 Skill: 1H Slashing Atk Delay: 28
-DMG: 11 DMG Bonus: 13 @ lvl 50
+DMG: 11
 Size: SMALL WT: 0.1
 Class: WAR PAL RNG SHD BRD ROG
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 Noble Dojorn, Overseer of Air, the Hand of Veeshan |
 1H Slashing |
-Atk Delay: 28 DMG: 11 DMG Bonus: 13 @ lvl 50 Size: SMALL WT: 0.1 Class: WAR PAL RNG SHD BRD ROG Race: ALL |
+Atk Delay: 28 DMG: 11 Size: SMALL WT: 0.1 Class: WAR PAL RNG SHD BRD ROG Race: ALL |
 Efreeti MaceEfreeti Mace
 Lore Equipped, Attunable, Quest, Placeable
 Slot: Primary
 Skill: 1H Blunt Atk Delay: 30
 DMG: 10
-Dmg Bon: 15
-WT: 1.0 Size: MEDIUM
+Size: MEDIUM WT: 1.0
 Class: WAR CLR PAL RNG SHD MNK BRD ROG SHM BST
-Race: ALL
+Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Noble Dojorn, Overseer of Air, the Hand of Veeshan |
 1H Blunt |
-Atk Delay: 30 DMG: 10 Dmg Bon: 15 WT: 1.0 Size: MEDIUM Class: WAR CLR PAL RNG SHD MNK BRD ROG SHM BST Race: ALL |
+Atk Delay: 30 DMG: 10 Size: MEDIUM WT: 1.0 Class: WAR CLR PAL RNG SHD MNK BRD ROG SHM BST Race: ALL |
 Efreeti Magi StaffEfreeti Magi Staff
 Lore Equipped, Attunable, Quest, Placeable
 Slot: PRIMARY
@@ -4547,14 +4545,13 @@ Lore Equipped, Attunable, Quest, Placeable
 Slot: Primary
 Skill: 1H Blunt Atk Delay: 26
 DMG: 11
-Dmg Bon: 12
-WT: 1.0 Size: MEDIUM
+Size: MEDIUM WT: 1.0
 Class: WAR CLR PAL RNG SHD DRU MNK ROG SHM BST
-Race: ALL
+Race: ALLDMG Bonus: 13 @ lvl 50
 |
 Noble Dojorn, Overseer of Air, the Hand of Veeshan |
 1H Blunt |
-Atk Delay: 26 DMG: 11 Dmg Bon: 12 WT: 1.0 Size: MEDIUM Class: WAR CLR PAL RNG SHD DRU MNK ROG SHM BST Race: ALL |
+Atk Delay: 26 DMG: 11 Size: MEDIUM WT: 1.0 Class: WAR CLR PAL RNG SHD DRU MNK ROG SHM BST Race: ALL |
 Efreeti War HornEfreeti War Horn
 Lore Equipped, Attunable, Quest, Placeable
 Slot: Primary Secondary
@@ -4609,15 +4606,14 @@ Lore Equipped, Attunable, Quest, Placeable
 Slot: Primary
 Skill: 2H Blunt Atk Delay: 30
 DMG: 10
-Dmg Bon: 20
 End: +10
-WT: 1.0 Size: MEDIUM
+Size: MEDIUM WT: 1.0
 Class: ALL
-Race: ALL
+Race: ALLDMG Bonus: 20 @ lvl 50
 |
 Noble Dojorn, Overseer of Air, the Hand of Veeshan |
 2H Blunt |
-Atk Delay: 30 DMG: 10 Dmg Bon: 20 End: +10 WT: 1.0 Size: MEDIUM Class: ALL Race: ALL |
+Atk Delay: 30 DMG: 10 End: +10 Size: MEDIUM WT: 1.0 Class: ALL Race: ALL |
 Efreeti Wind StaffEfreeti Wind Staff
 Lore Equipped, Attunable, Quest, Placeable
 Slot: Primary
@@ -4784,13 +4780,13 @@ Back |
 AC: 5 INT: 2 MANA: 10 WT: 8.0 Size: LARGE Class: RNG Race: ALL |
 Finely Crafted AmuletFinely Crafted Amulet
 No Trade, Quest
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: SHD
 Race: ALL
 |
 Gorgalosk |
 (None) |
-No Trade, Quest WT: 0.1 Size: TINY Class: SHD Race: ALL |
+No Trade, Quest Size: TINY WT: 0.1 Class: SHD Race: ALL |
 Finely Woven Cloth AmiceFinely Woven Cloth Amice
 LORE ITEM
 Slot: SHOULDERS
@@ -5232,14 +5228,14 @@ Keeper of Souls |
 Face |
 AC: 5 AGI: +2 Size: LARGE WT: 15.0 Class: ROG BER Race: ALL |
 Key of MisfortuneKey of Misfortune
-LORE ITEM NO DROP
-WT: 1.0 Size: SMALL
+No Trade
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 |
 None? |
 (None) |
-LORE ITEM NO DROP WT: 1.0 Size: SMALL Class: ALL Race: ALL |
+No Trade Size: SMALL WT: 1.0 Class: ALL Race: ALL |
 Large DiamondLarge Diamond
 LORE ITEM NO DROP
 WT: 12.0 Size: LARGE
@@ -5251,13 +5247,13 @@ Bazzt Zzzt |
 LORE ITEM NO DROP WT: 12.0 Size: LARGE Class: ALL Race: ALL |
 Large OpalLarge Opal
 No Trade, Quest
-WT: 8.0 Size: LARGE
+Size: LARGE WT: 8.0
 Class: MAG
 Race: ALL
 |
 Eye of Veeshan |
 (None) |
-No Trade, Quest WT: 8.0 Size: LARGE Class: MAG Race: ALL |
+No Trade, Quest Size: LARGE WT: 8.0 Class: MAG Race: ALL |
 Large Sky DiamondLarge Sky Diamond
 No Trade, Quest
 WT: 0.1 Size: SMALL
@@ -6130,14 +6126,14 @@ Keeper of Souls |
 Neck |
 STR: 4 DEX: 4 WT: 1.0 Size: MEDIUM Class: WAR Race: ALL |
 Storm Sky OpalStorm Sky Opal
-LORE ITEM NO DROP
-WT: 1.0 Size: MEDIUM
-Class: ALL
+No Trade, Quest
+Size: MEDIUM WT: 1.0
+Class: DRU
 Race: ALL
 |
 Eye of Veeshan |
 (None) |
-LORE ITEM NO DROP WT: 1.0 Size: MEDIUM Class: ALL Race: ALL |
+No Trade, Quest Size: MEDIUM WT: 1.0 Class: DRU Race: ALL |
 Sweet NectarSweet Nectar
 LORE ITEM
 WT: 0.1 Size: SMALL

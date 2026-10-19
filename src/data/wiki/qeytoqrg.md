@@ -1,5 +1,5 @@
 # Qeynos_Hills (eqlwiki.com)
-fetched: 2026-10-16
+fetched: 2026-10-19
 
 Qeynos Hills - EverQuest Legends Wiki
 Jump to content
@@ -1044,8 +1044,17 @@ Warrior |
 |
 |
 Spawns in Qeynos Hills a bit south of Surefall Glade and runs south on the road. No faction hits on kill. |
-Items - Found 30 items that drop in Qeynos Hills:
+Items - Found 31 items that drop in Qeynos Hills:
 Item Name | Drops From | Slot | Stats |
+Barbarian Head (Talym's Head)Barbarian Head (Talym's Head)
+LORE ITEM NO DROP
+WT: 0.7 Size: SMALL
+Class: ALL
+Race: ALL
+|
+Talym Shoontar |
+(None) |
+LORE ITEM NO DROP WT: 0.7 Size: SMALL Class: ALL Race: ALL |
 Blackburrow Gnoll PeltBlackburrow Gnoll Pelt
 WT: 3.5 Size: LARGE
 Class: ALL

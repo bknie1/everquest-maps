@@ -1,5 +1,5 @@
 # Innothule_Swamp (eqlwiki.com)
-fetched: 2026-10-16
+fetched: 2026-10-19
 
 Innothule Swamp - EverQuest Legends Wiki
 Jump to content
@@ -290,8 +290,8 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , Gator MeatGator Meat
-QUEST ITEM
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 |
@@ -415,8 +415,8 @@ Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Gator MeatGator Meat
-QUEST ITEM
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 ,
@@ -633,13 +633,13 @@ WT: 0.2 Size: SMALL
 Class: ALL
 Race: ALL
 , Froglok BloodFroglok Blood
-MAGIC ITEM
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Froglok MeatFroglok Meat
-QUEST ITEM
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Rusty SpearRusty Spear

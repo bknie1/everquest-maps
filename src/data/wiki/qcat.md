@@ -1,5 +1,5 @@
 # Qeynos_Catacombs (eqlwiki.com)
-fetched: 2026-10-16
+fetched: 2026-10-19
 
 Qeynos Aqueducts - EverQuest Legends Wiki
 Jump to content
@@ -668,7 +668,7 @@ Class: ALL
 Race: ALL
 , Spider Venom SacSpider Venom Sac
 Quest
-WT: 0.2 Size: SMALL
+Size: SMALL WT: 0.2
 Class: ALL
 Race: ALL
 |
@@ -777,8 +777,8 @@ Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Gator MeatGator Meat
-QUEST ITEM
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 |
