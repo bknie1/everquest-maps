@@ -1,5 +1,5 @@
 # East_Freeport (eqlwiki.com)
-fetched: 2026-10-19
+fetched: 2026-10-20
 
 Freeport - EverQuest Legends Wiki
 Jump to content
@@ -515,7 +515,8 @@ WT: 0.2 Size: SMALL
 Class: ALL
 Race: ALL
 , Cat's Eye AgateCat's Eye Agate
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -559,8 +560,8 @@ WT: 1.0 Size: SMALL
 Class: ALL
 Race: ALL
 , Fish ScalesFish Scales
-QUEST ITEM
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -4846,6 +4847,7 @@ Rogue |
 25 |
 (-171, 208) |
 Fresh FishFresh Fish
+Quest
 Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL

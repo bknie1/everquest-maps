@@ -1,5 +1,5 @@
 # Rathe_Mountains (eqlwiki.com)
-fetched: 2026-10-18
+fetched: 2026-10-20
 
 Rathe Mountains - EverQuest Legends Wiki
 Jump to content
@@ -476,7 +476,8 @@ WT: 0.2 Size: SMALL
 Class: ALL
 Race: ALL
 , Cat's Eye AgateCat's Eye Agate
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -2299,14 +2300,14 @@ Quid Rilstone |
 Head |
 AC: 5 CHA: +13 SV FIRE: +10 WT: 0.2 Size: SMALL Class: ALL Race: ALL |
 Small Brick of OreSmall Brick of Ore
-QUEST ITEM
-WT: 15.0 Size: SMALL
+Quest
+Size: SMALL WT: 15.0
 Class: ALL
 Race: ALL
 |
 None? |
 (None) |
-QUEST ITEM WT: 15.0 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 15.0 Class: ALL Race: ALL |
 Stem of CandlestickStem of Candlestick
 LORE ITEM NO DROP
 WT: 0.1 Size: TINY

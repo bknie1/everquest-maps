@@ -1,5 +1,5 @@
 # Kedge_Keep (eqlwiki.com)
-fetched: 2026-10-19
+fetched: 2026-10-20
 
 Kedge Keep - EverQuest Legends Wiki
 Jump to content
@@ -623,6 +623,7 @@ Warrior |
 28 ~ 32 |
 ? |
 Fresh FishFresh Fish
+Quest
 Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
@@ -648,6 +649,7 @@ Warrior |
 35 ~ 37 |
 need info |
 Fresh FishFresh Fish
+Quest
 Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
@@ -698,8 +700,8 @@ WT: 1.0 Size: SMALL
 Class: ALL
 Race: ALL
 , Shark BonesShark Bones
-QUEST ITEM
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -719,12 +721,13 @@ Warrior |
 1 |
 20% @ (127, -329), 20% @ (135, -333), 20% @ (-36, 4), 20% @ (156, -335), 20% @ (-42, 231), 20% @ (-161, -148), 20% @ (-37, 0), 20% @ (-92, -6), 20% @ (-164, -105), 20% @ (36, -212), 20% @ (-232, -152), 20% @ (13, -121), 20% @ (94, -19), 20% @ (-249, -61), 20% @ (-340, -190), 20% @ (-85, 82), 20% @ (-177, -50), 20% @ (-243, -232), 20% @ (-76, -47) |
 Fresh FishFresh Fish
+Quest
 Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Fish ScalesFish Scales
-QUEST ITEM
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -736,12 +739,13 @@ Warrior |
 1 |
 Various |
 Fresh FishFresh Fish
+Quest
 Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Fish ScalesFish Scales
-QUEST ITEM
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -753,12 +757,13 @@ Warrior |
 1 |
 Various |
 Fresh FishFresh Fish
+Quest
 Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Fish ScalesFish Scales
-QUEST ITEM
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -914,12 +919,13 @@ Warrior |
 1 |
 Various |
 Fresh FishFresh Fish
+Quest
 Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Fish ScalesFish Scales
-QUEST ITEM
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -952,6 +958,7 @@ Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Fresh FishFresh Fish
+Quest
 Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
@@ -969,12 +976,13 @@ Warrior |
 29 - 37 |
 Various |
 Fresh FishFresh Fish
+Quest
 Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Fish ScalesFish Scales
-QUEST ITEM
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -994,12 +1002,13 @@ Warrior |
 1 |
 Various |
 Fresh FishFresh Fish
+Quest
 Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Fish ScalesFish Scales
-QUEST ITEM
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -1024,6 +1033,7 @@ WT: 3.5 Size: LARGE
 Class: ALL
 Race: ALL
 , Fresh FishFresh Fish
+Quest
 Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
@@ -1213,12 +1223,13 @@ Warrior |
 41 |
 33% @ (17, 79), 33% @ (7, -8) |
 Fresh FishFresh Fish
+Quest
 Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Fish ScalesFish Scales
-QUEST ITEM
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -1231,12 +1242,13 @@ Warrior |
 40 |
 20% @ (-178, -32), 20% @ (-167, -19), 20% @ (7, -8), 20% @ (-8, 8) |
 Fresh FishFresh Fish
+Quest
 Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Fish ScalesFish Scales
-QUEST ITEM
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |

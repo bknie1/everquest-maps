@@ -1,5 +1,5 @@
 # Qeynos_Catacombs (eqlwiki.com)
-fetched: 2026-10-19
+fetched: 2026-10-20
 
 Qeynos Aqueducts - EverQuest Legends Wiki
 Jump to content
@@ -401,7 +401,8 @@ WT: 0.2 Size: SMALL
 Class: ALL
 Race: ALL
 , Cat's Eye AgateCat's Eye Agate
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -423,6 +424,11 @@ Various |
 Piece of Rat FurPiece of Rat Fur
 QUEST ITEM
 WT: 0.1 Size: SMALL
+Class: ALL
+Race: ALL
+, Rat MeatRat Meat
+QUEST ITEM
+WT: 1.0 Size: SMALL
 Class: ALL
 Race: ALL
 |
@@ -447,9 +453,9 @@ Basic newbie mob found in many zones. |
 A Nesting Rat
 |
 Giant Rat |
-Need Info |
+Warrior |
 5 ~ 6 |
-Need Info |
+(355, 333) |
 Golden LocketGolden Locket
 MAGIC ITEM
 Slot: NECK
@@ -473,7 +479,7 @@ WT: 1.0 Size: SMALL
 Class: ALL
 Race: ALL
 |
-Spawns in the "Drosco" room. |
+Spawns in the "Drosco" room, #7 on the Qeynos Aqueducts. Placeholder is a large rat. |
 A Rotting Sentry
 |
 Zombie |
@@ -611,6 +617,7 @@ Warrior |
 4 |
 Various |
 Fresh FishFresh Fish
+Quest
 Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
@@ -620,8 +627,8 @@ Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Fish ScalesFish Scales
-QUEST ITEM
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Piranha ToothPiranha Tooth
@@ -706,8 +713,8 @@ WT: 1.0 Size: SMALL
 Class: ALL
 Race: ALL
 , Fish ScalesFish Scales
-QUEST ITEM
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -737,7 +744,7 @@ A shady mercenary
 |
 Dwarf, Human |
 Rogue |
-5-7 |
+4-7 |
 10% @ (456, 342), 10% @ (469, 340) |
 Thick Black CapeThick Black Cape
 Slot: SHOULDERS
@@ -751,7 +758,7 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 |
-Spawns as different races. |
+Located at #6 on the Qeynos Aqueducts map. Spawns as different races. |
 A skeleton
 |
 Undead |
@@ -866,7 +873,7 @@ An injured rat
 |
 Giant Rat |
 Warrior |
-3 |
+2-3 |
 (570, 200) |
 Alligator Tooth EarringAlligator Tooth Earring
 MAGIC ITEM
@@ -876,7 +883,7 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 |
-A higher level rat found within the Qeynos Aqueducts that spawns infrequently. It has "a large rat" as a placeholder. Ca... |
+A larger, higher level rat found just south of #4 on the Qeynos Aqueducts map. It's a rare spaw... |
 An investigator (Qeynos Aqueducts)
 |
 Human |
@@ -889,7 +896,7 @@ An undead knight (Qeynos Aqueducts)
 |
 Skeleton |
 Warrior |
-4 |
+3-4 |
 100% @ (667, 146, -51.59) |
 Limestone RingLimestone Ring
 MAGIC ITEM
@@ -899,7 +906,7 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 |
-Placeholder is a fish that spawns in the same underwater alcove as the knight. It has a respawn time of ~1 hour. |
+Spawns at #3 on the Qeynos Aqueducts map. Placeholder is a fish that spawns in the same und... |
 Azibelle Spavin
 |
 Human |

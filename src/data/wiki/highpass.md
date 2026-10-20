@@ -1,5 +1,5 @@
 # Highpass_Hold (eqlwiki.com)
-fetched: 2026-10-19
+fetched: 2026-10-20
 
 Highpass Hold - EverQuest Legends Wiki
 Jump to content
@@ -462,8 +462,11 @@ Race: ALL
 (Ultra Rare)
 Raw-hide Armor (Rare)
 Small BoxSmall Box
-WT: 2.0 Weight Reduction: 0%
-Capacity: 8 Size Capacity: MEDIUM
+Quest
+Size: MEDIUM WT: 2.0
+Weight Reduction: 0% Capacity: 8 Size Capacity: MEDIUM
+Class: ALL
+Race: ALL
 (Ultra Rare)
 Worn Great StaffWorn Great Staff
 Attunable, Placeable

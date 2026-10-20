@@ -1,5 +1,5 @@
 # Stonebrunt_Mountains (eqlwiki.com)
-fetched: 2026-10-16
+fetched: 2026-10-20
 
 Stonebrunt Mountains - EverQuest Legends Wiki
 Jump to content
@@ -1667,6 +1667,7 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , Fresh FishFresh Fish
+Quest
 Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL

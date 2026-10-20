@@ -1,5 +1,5 @@
 # Nagafen's_Lair (eqlwiki.com)
-fetched: 2026-10-18
+fetched: 2026-10-20
 
 Nagafen's Lair - EverQuest Legends Wiki
 Jump to content
@@ -924,10 +924,10 @@ WT: 0.3 Size: SMALL
 Class: ALL
 Race: ALL
 , Bat BloodBat Blood
-NO TRADE, QUEST ITEM
-WT: 0.1 Size: TINY
-Class: ALL
-Race: ALL
+No Trade, Quest
+Size: TINY WT: 0.1
+Class: NONE
+Race: NONE
 |
 These bats proc a long duration single target stun on their melee attacks (Sonic Scream). This is dangerous to group... |
 Stone spider
@@ -1027,13 +1027,13 @@ death beetle |
 Legs |
 AC: 7 HP: +10 MANA: +10 WT: 7.5 Size: LARGE Class: ALL Race: ALL |
 Black HenbaneBlack Henbane
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 Various |
 (None) |
-WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Blackened Mithril BootsBlackened Mithril Boots
 MAGIC ITEM NO DROP
 Slot: FEET
@@ -1180,14 +1180,14 @@ stone spider |
 Chest |
 AC: 12 DEX: +9 STA: +9 AGI: +9 WT: 10.0 Size: LARGE Class: DRU Race: ALL |
 Burnt SashBurnt Sash
-LORE ITEM NO DROP
-WT: 0.5 Size: TINY
+No Trade, Quest
+Size: TINY WT: 0.5
 Class: NONE
 Race: NONE
 |
 imp protector |
 (None) |
-LORE ITEM NO DROP WT: 0.5 Size: TINY Class: NONE Race: NONE |
+No Trade, Quest Size: TINY WT: 0.5 Class: NONE Race: NONE |
 Carnal PauldronsCarnal Pauldrons
 MAGIC ITEM NO DROP
 Slot: SHOULDERS
@@ -1265,13 +1265,13 @@ stone spider |
 Primary, Secondary |
 Effect: Eye of Zomm (Charge Clicky, Casting Time: Instant) Charges: 5 Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Death CapDeath Cap
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 Various |
 (None) |
-WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Death Scarab GlandDeath Scarab Gland
 MAGIC ITEM LORE ITEM
 Charges: 1

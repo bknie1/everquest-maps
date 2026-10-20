@@ -1,5 +1,5 @@
 # Lavastorm_Mountains (eqlwiki.com)
-fetched: 2026-10-17
+fetched: 2026-10-20
 
 Lavastorm Mountains - EverQuest Legends Wiki
 Jump to content
@@ -608,21 +608,23 @@ Eejag |
 (None) |
 MAGIC ITEM LORE ITEM NODROP WT: 0.2 Size: SMALL Class: ALL Race: ALL |
 Essence of FireEssence of Fire
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
 a fire elemental |
 (None) |
-WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.1 Class: ALL Race: ALL |
 Fire Drake ScaleFire Drake Scale
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
 a fire drake |
 (None) |
-WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.1 Class: ALL Race: ALL |
 Glowing GlovesGlowing Gloves
 MAGIC ITEM LORE ITEM NO DROP
 Slot: HANDS
@@ -688,13 +690,13 @@ A warbone spearman |
 Secondary |
 AC: 8 SV DISEASE: +1 WT: 9.5 Size: LARGE Class: WAR CLR PAL RNG SHD DRU BRD ROG SHM Race: ALL |
 Large Brick of OreLarge Brick of Ore
-WT: 25.5 Size: SMALL
+Size: SMALL WT: 25.5
 Class: ALL
 Race: ALL
 |
 a rock dervish |
 (None) |
-WT: 25.5 Size: SMALL Class: ALL Race: ALL |
+Size: SMALL WT: 25.5 Class: ALL Race: ALL |
 Lava PearsLava Pears
 Size: TINY WT: 0.1
 Class: NONE
@@ -713,14 +715,14 @@ a fire elemental |
 (None) |
 Quest Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Pouch of Red DustPouch of Red Dust
-LORE ITEM NO DROP
-WT: 0.3 Size: SMALL
+No Trade, Quest
+Size: SMALL WT: 0.3
 Class: ALL
 Race: ALL
 |
 a fire goblin, a fire goblin scout, a fire goblin wizard |
 (None) |
-LORE ITEM NO DROP WT: 0.3 Size: SMALL Class: ALL Race: ALL |
+No Trade, Quest Size: SMALL WT: 0.3 Class: ALL Race: ALL |
 Putrid BilePutrid Bile
 QUEST ITEM
 WT: 0.1 Size: TINY
@@ -755,23 +757,23 @@ a shadowed man (Lavastorm Mountains) |
 (None) |
 Quest Size: MEDIUM WT: 0.5 Class: ALL Race: ALL |
 Small Brick of OreSmall Brick of Ore
-QUEST ITEM
-WT: 15.0 Size: SMALL
+Quest
+Size: SMALL WT: 15.0
 Class: ALL
 Race: ALL
 |
 a rock dervish |
 (None) |
-QUEST ITEM WT: 15.0 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 15.0 Class: ALL Race: ALL |
 Soot HemlockSoot Hemlock
-QUEST ITEM
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 Various |
 (None) |
-QUEST ITEM WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Quest Size: TINY WT: 0.1 Class: ALL Race: ALL |
 StonefruitStonefruit
 Size: TINY WT: 0
 Class: NONE

@@ -1,5 +1,5 @@
 # Kaladim (eqlwiki.com)
-fetched: 2026-10-18
+fetched: 2026-10-20
 
 Kaladim - EverQuest Legends Wiki
 Jump to content
@@ -2157,8 +2157,8 @@ Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Small Piece of OreSmall Piece of Ore
-QUEST ITEM
-WT: 0.5 Size: SMALL
+Quest
+Size: SMALL WT: 0.5
 Class: ALL
 Race: ALL
 , TurquoiseTurquoise

@@ -1,5 +1,5 @@
 # The_Feerrott (eqlwiki.com)
-fetched: 2026-10-16
+fetched: 2026-10-20
 
 The Feerrott - EverQuest Legends Wiki
 Jump to content
@@ -169,7 +169,7 @@ Innkeep Morpa |
 All |
 Southern Karana |
 Jarlen Meadowgreen |
-NPCs - Found 47 NPCs that spawn in The Feerrott:
+NPCs - Found 48 NPCs that spawn in The Feerrott:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Decaying Skeleton
 |
@@ -284,7 +284,7 @@ Warrior |
 33% @ (-1376, -78) |
 Clump of Gorilla HairClump of Gorilla Hair
 No Trade, Quest
-WT: 0.5 Size: TINY
+Size: TINY WT: 0.5
 Class: ALL
 Race: ALL
 |
@@ -446,6 +446,14 @@ Class: ALL
 Race: ALL
 |
 Description needed. |
+A scout from zanivar
+|
+|
+|
+11-13 |
+(-1227, 27), (-791, 173) |
+|
+|
 A skeleton
 |
 Undead |

@@ -1,5 +1,5 @@
 # Erudin (eqlwiki.com)
-fetched: 2026-10-18
+fetched: 2026-10-20
 
 Erudin - EverQuest Legends Wiki
 Jump to content
@@ -2072,7 +2072,7 @@ GM Wizard |
 Tattered Gnomish CloakTattered Gnomish Cloak
 Slot: CHEST
 AC: 2
-WT: 0.7 Size: MEDIUM
+Size: MEDIUM WT: 0.7
 Class: NONE
 Race: ALL
 |
@@ -2642,7 +2642,7 @@ GM Wizard |
 Tattered Gnomish CloakTattered Gnomish Cloak
 Slot: CHEST
 AC: 2
-WT: 0.7 Size: MEDIUM
+Size: MEDIUM WT: 0.7
 Class: NONE
 Race: ALL
 |

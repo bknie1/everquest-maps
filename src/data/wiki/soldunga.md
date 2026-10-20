@@ -1,5 +1,5 @@
 # Solusek's_Eye (eqlwiki.com)
-fetched: 2026-10-15
+fetched: 2026-10-20
 
 Solusek's Eye - EverQuest Legends Wiki
 Jump to content
@@ -91,7 +91,7 @@ Notable NPCs:
 Unique Items:
 |
 Brick of Blue OreBrick of Blue Ore
-WT: 22.5 Size: SMALL
+Size: SMALL WT: 22.5
 Class: ALL
 Race: ALL
 , Charred BootsCharred Boots
@@ -169,10 +169,9 @@ WT: 0.0 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 , Frothy Goblin TonicFrothy Goblin Tonic
-MAGIC ITEM
-EXPENDABLE Charges: 1
-Effect: Aura of Marr (Any Slot, Casting Time: Instant) as Level 25
-WT: 0.4 Size: SMALL
+Effect: Aura of Marr (Consumable Clicky, Casting Time: Instant)
+Charges: 1
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 , Glowing Stone BandGlowing Stone Band
@@ -216,10 +215,9 @@ WT: 2.5 Size: SMALL
 Class: ALL
 Race: ALLFocus Effect: Burning Affliction II
 , Lava PotionLava Potion
-MAGIC ITEM
-EXPENDABLE Charges: 1
-Effect: Inferno Shield (Any Slot, Casting Time: Instant) as Level 50
-WT: 0.4 Size: SMALL
+Effect: Inferno Shield (Consumable Clicky, Casting Time: Instant)
+Charges: 1
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 , Lord Gimblox's Signet RingLord Gimblox's Signet Ring
@@ -333,10 +331,12 @@ SV FIRE: +5 SV MAGIC: +5
 WT: 4.5 Size: MEDIUM
 Class: ALL except NEC WIZ MAG ENC
 Race: ALLDMG Bonus: 14 @ lvl 50
-, A 'Sparkle' PurseA 'Sparkle' Purse
-LORE ITEM NO DROP
-WT: 0.2 Weight Reduction: 0%
-Capacity: 4 Size Capacity: SMALL
+, SparkleSparkle
+No Trade, Quest
+Size: SMALL WT: 0.2
+Weight Reduction: 0% Capacity: 4 Size Capacity: SMALL
+Class: ALL
+Race: ALL
 , Bag of the TinkerersBag of the Tinkerers
 WT: 1.0 Weight Reduction: 100%
 Capacity: 10 Size Capacity: GIANT
@@ -349,8 +349,8 @@ WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
 , Pouch of Red DustPouch of Red Dust
-LORE ITEM NO DROP
-WT: 0.3 Size: SMALL
+No Trade, Quest
+Size: SMALL WT: 0.3
 Class: ALL
 Race: ALL
 |
@@ -431,10 +431,9 @@ Class: WAR PAL SHD
 Race: ALLDMG Bonus: 34 @ lvl 50
 (Rare)
 Lava Elemental Room with lava elemental who drops Lava PotionLava Potion
-MAGIC ITEM
-EXPENDABLE Charges: 1
-Effect: Inferno Shield (Any Slot, Casting Time: Instant) as Level 50
-WT: 0.4 Size: SMALL
+Effect: Inferno Shield (Consumable Clicky, Casting Time: Instant)
+Charges: 1
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 (Common) and Runed Lava PendantRuned Lava Pendant
@@ -448,7 +447,7 @@ Class: ALL
 Race: ALL
 (Rare)
 Doorway to gnome fort's upper level (not shown) with Captain Bipnubble who drop Brick of Blue OreBrick of Blue Ore
-WT: 22.5 Size: SMALL
+Size: SMALL WT: 22.5
 Class: ALL
 Race: ALL
 (Common) and Gnomish Environment SuitGnomish Environment Suit
@@ -499,7 +498,7 @@ Class: ALL
 Race: ALL
 (Rare)
 CWG Model CX who drops Clockwork Oil StoutClockwork Oil Stout
-WT: 0.4 Size: SMALL
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 Courtyard that spawns the roaming CWG Model EXG who drops Charred Guardian ShieldCharred Guardian Shield
@@ -576,10 +575,9 @@ Class: ALL
 Race: ALLFocus Effect: Extended Range I
 (Rare)
 Drunkard Room with Fire Goblin Drunkard who drops Frothy Goblin TonicFrothy Goblin Tonic
-MAGIC ITEM
-EXPENDABLE Charges: 1
-Effect: Aura of Marr (Any Slot, Casting Time: Instant) as Level 25
-WT: 0.4 Size: SMALL
+Effect: Aura of Marr (Consumable Clicky, Casting Time: Instant)
+Charges: 1
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 (Common) and Fire Crystal StaffFire Crystal Staff
@@ -634,10 +632,12 @@ Class: ALL except NEC WIZ MAG ENC
 Race: ALL
 (Rare)
 Lynada's Room with:
-Lynada the Exiled who drops A 'Sparkle' PurseA 'Sparkle' Purse
-LORE ITEM NO DROP
-WT: 0.2 Weight Reduction: 0%
-Capacity: 4 Size Capacity: SMALL
+Lynada the Exiled who drops SparkleSparkle
+No Trade, Quest
+Size: SMALL WT: 0.2
+Weight Reduction: 0% Capacity: 4 Size Capacity: SMALL
+Class: ALL
+Race: ALL
 Goblin High Shaman who drops Glowing Stone BandGlowing Stone Band
 MAGIC ITEM LORE ITEM
 Slot: FINGER
@@ -752,7 +752,7 @@ WT: 1.0 Size: SMALL
 Class: ALL
 Race: ALL
 , Large Power SourceLarge Power Source
-WT: 1.0 Size: SMALL
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Small Power SourceSmall Power Source
@@ -760,7 +760,8 @@ WT: 1.0 Size: SMALL
 Class: ALL
 Race: ALL
 , MelatiteMelatite
-WT: 5.0 Size: TINY
+Quest
+Size: TINY WT: 5.0
 Class: ALL
 Race: ALL
 |
@@ -833,7 +834,7 @@ Race: ALL
 WT: 0.4 Weight Reduction: 0%
 Capacity: 4 Size Capacity: SMALL
 , Brick of Blue OreBrick of Blue Ore
-WT: 22.5 Size: SMALL
+Size: SMALL WT: 22.5
 Class: ALL
 Race: ALL
 , Fine Steel Short SwordFine Steel Short Sword
@@ -903,7 +904,7 @@ Race: ALLFocus Effect: Extended Range I
 , Tattered Gnomish CloakTattered Gnomish Cloak
 Slot: CHEST
 AC: 2
-WT: 0.7 Size: MEDIUM
+Size: MEDIUM WT: 0.7
 Class: NONE
 Race: ALL
 |
@@ -915,8 +916,8 @@ Shaman |
 24 |
 33% @ (47, -666), (-29, -672) |
 Pouch of Red DustPouch of Red Dust
-LORE ITEM NO DROP
-WT: 0.3 Size: SMALL
+No Trade, Quest
+Size: SMALL WT: 0.3
 Class: ALL
 Race: ALL
 , Goblin Fire TotemGoblin Fire Totem
@@ -1050,16 +1051,15 @@ WT: 6.5 Size: LARGE
 Class: BRD NEC WIZ MAG ENC
 Race: ALLDMG Bonus: 14 @ lvl 50
 , Frothy Goblin TonicFrothy Goblin Tonic
-MAGIC ITEM
-EXPENDABLE Charges: 1
-Effect: Aura of Marr (Any Slot, Casting Time: Instant) as Level 25
-WT: 0.4 Size: SMALL
+Effect: Aura of Marr (Consumable Clicky, Casting Time: Instant)
+Charges: 1
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 , Tattered Gnomish CloakTattered Gnomish Cloak
 Slot: CHEST
 AC: 2
-WT: 0.7 Size: MEDIUM
+Size: MEDIUM WT: 0.7
 Class: NONE
 Race: ALL
 , Snake ScalesSnake Scales
@@ -1086,7 +1086,7 @@ Race: ALL
 , Tattered Gnomish CloakTattered Gnomish Cloak
 Slot: CHEST
 AC: 2
-WT: 0.7 Size: MEDIUM
+Size: MEDIUM WT: 0.7
 Class: NONE
 Race: ALL
 , Platinum Dragon TotemPlatinum Dragon Totem
@@ -1140,7 +1140,7 @@ Race: ALL
 (Rare), Tattered Gnomish CloakTattered Gnomish Cloak
 Slot: CHEST
 AC: 2
-WT: 0.7 Size: MEDIUM
+Size: MEDIUM WT: 0.7
 Class: NONE
 Race: ALL
 (Ultra Rare) |
@@ -1162,12 +1162,12 @@ Race: ALL
 , Tattered Gnomish CloakTattered Gnomish Cloak
 Slot: CHEST
 AC: 2
-WT: 0.7 Size: MEDIUM
+Size: MEDIUM WT: 0.7
 Class: NONE
 Race: ALL
 , Fiery OreFiery Ore
-MAGIC ITEM QUEST ITEM
-WT: 0.5 Size: MEDIUM
+Quest
+Size: MEDIUM WT: 0.5
 Class: ALL
 Race: ALL
 , Memento BoxMemento Box
@@ -1191,8 +1191,8 @@ Wizard |
 27-28 |
 100% @ (-743, -614), (-752, -492), (83, -697) |
 Heart of FireHeart of Fire
-MAGIC ITEM LORE ITEM NO DROP
-WT: 0.5 Size: SMALL
+No Trade, Quest
+Size: SMALL WT: 0.5
 Class: ALL
 Race: ALL
 |
@@ -1276,10 +1276,9 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , Lava PotionLava Potion
-MAGIC ITEM
-EXPENDABLE Charges: 1
-Effect: Inferno Shield (Any Slot, Casting Time: Instant) as Level 50
-WT: 0.4 Size: SMALL
+Effect: Inferno Shield (Consumable Clicky, Casting Time: Instant)
+Charges: 1
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 , Power of FirePower of Fire
@@ -1310,10 +1309,12 @@ Dark Elf |
 Magician |
 29 |
 100% @ (-1002, -658) |
-A 'Sparkle' PurseA 'Sparkle' Purse
-LORE ITEM NO DROP
-WT: 0.2 Weight Reduction: 0%
-Capacity: 4 Size Capacity: SMALL
+SparkleSparkle
+No Trade, Quest
+Size: SMALL WT: 0.2
+Weight Reduction: 0% Capacity: 4 Size Capacity: SMALL
+Class: ALL
+Race: ALL
 , Damask AmiceDamask Amice
 MAGIC ITEM
 Slot: SHOULDERS
@@ -1399,7 +1400,8 @@ Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Fire Drake ScaleFire Drake Scale
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -1419,8 +1421,8 @@ WT: 6.5 Size: SMALL
 Class: WAR CLR PAL SHD BRD
 Race: ALL
 (Rare), Possibly (Ultra Rare), Goblin BloodGoblin Blood
-MAGIC ITEM NO DROP
-WT: 0.1 Size: TINY
+No Trade, Quest
+Size: TINY WT: 0.1
 Class: NONE
 Race: NONE
 , Goblin MeatGoblin Meat
@@ -1444,8 +1446,8 @@ Rogue |
 29-30 |
 Need Info |
 Goblin BloodGoblin Blood
-MAGIC ITEM NO DROP
-WT: 0.1 Size: TINY
+No Trade, Quest
+Size: TINY WT: 0.1
 Class: NONE
 Race: NONE
 , Goblin MeatGoblin Meat
@@ -1482,12 +1484,12 @@ Race: ALLFocus Effect: Affliction Haste I
 , Tattered Gnomish CloakTattered Gnomish Cloak
 Slot: CHEST
 AC: 2
-WT: 0.7 Size: MEDIUM
+Size: MEDIUM WT: 0.7
 Class: NONE
 Race: ALL
 , Pouch of Red DustPouch of Red Dust
-LORE ITEM NO DROP
-WT: 0.3 Size: SMALL
+No Trade, Quest
+Size: SMALL WT: 0.3
 Class: ALL
 Race: ALL
 |
@@ -1519,8 +1521,8 @@ Shaman |
 28-29 |
 Need Info |
 Goblin BloodGoblin Blood
-MAGIC ITEM NO DROP
-WT: 0.1 Size: TINY
+No Trade, Quest
+Size: TINY WT: 0.1
 Class: NONE
 Race: NONE
 , Goblin MeatGoblin Meat
@@ -1560,14 +1562,6 @@ Various |
 Description needed. |
 Items - Found 62 items that drop in Solusek's Eye:
 Item Name | Drops From | Slot | Stats |
-A 'Sparkle' PurseA 'Sparkle' Purse
-LORE ITEM NO DROP
-WT: 0.2 Weight Reduction: 0%
-Capacity: 4 Size Capacity: SMALL
-|
-Lynada the exiled |
-(None) |
-LORE ITEM NO DROP WT: 0.2 Weight Reduction: 0% Capacity: 4 Size Capacity: SMALL |
 Asmag WeedAsmag Weed
 Quest
 Size: TINY WT: 0.1
@@ -1578,21 +1572,22 @@ Various |
 (None) |
 Quest Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Brick of Blue OreBrick of Blue Ore
-WT: 22.5 Size: SMALL
+Size: SMALL WT: 22.5
 Class: ALL
 Race: ALL
 |
 Captain Bipnubble |
 (None) |
-WT: 22.5 Size: SMALL Class: ALL Race: ALL |
+Size: SMALL WT: 22.5 Class: ALL Race: ALL |
 Broken Frost ModuleBroken Frost Module
-WT: 1.0 Size: SMALL
+Quest
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 |
 CWG Model CC |
 (None) |
-WT: 1.0 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 1.0 Class: ALL Race: ALL |
 Charred BootsCharred Boots
 MAGIC ITEM
 Slot: FEET
@@ -1643,13 +1638,13 @@ CWG Model EXG |
 Secondary |
 AC: 10 WIS: +9 WT: 8.0 Size: MEDIUM Class: WAR CLR PAL RNG SHD DRU BRD ROG SHM Race: ALL |
 Clockwork Oil StoutClockwork Oil Stout
-WT: 0.4 Size: SMALL
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 |
 CWG Model CX |
 (None) |
-WT: 0.4 Size: SMALL Class: ALL Race: ALL |
+Size: SMALL WT: 0.4 Class: ALL Race: ALL |
 Damask AmiceDamask Amice
 MAGIC ITEM
 Slot: SHOULDERS
@@ -1707,13 +1702,14 @@ Various |
 (None) |
 MAGIC ITEM WT: 0.1 Size: TINY Class: ALL Race: ALL |
 Essence of FireEssence of Fire
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
 blazing elemental |
 (None) |
-WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.1 Class: ALL Race: ALL |
 Fiery VambracesFiery Vambraces
 MAGIC ITEM LORE ITEM NO DROP
 Slot: ARMS
@@ -1740,13 +1736,14 @@ goblin drunkard |
 1H Blunt |
 Atk Delay: 28 DMG: 5 Effect: Shock of Fire (Combat, Casting Time: Instant) WT: 6.5 Size: LARGE Class: BRD NEC WIZ MAG ENC Race: ALL |
 Fire Drake ScaleFire Drake Scale
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
 Singe |
 (None) |
-WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.1 Class: ALL Race: ALL |
 Fire Goblin SkinFire Goblin Skin
 MAGIC ITEM LORE ITEM NO DROP
 Slot: CHEST
@@ -1784,16 +1781,15 @@ flame goblin foreman |
 Chest |
 AC: 10 STR: +3 WIS: +3 WT: 0.0 Size: MEDIUM Class: ALL except NEC WIZ MAG ENC Race: ALL |
 Frothy Goblin TonicFrothy Goblin Tonic
-MAGIC ITEM
-EXPENDABLE Charges: 1
-Effect: Aura of Marr (Any Slot, Casting Time: Instant) as Level 25
-WT: 0.4 Size: SMALL
+Effect: Aura of Marr (Consumable Clicky, Casting Time: Instant)
+Charges: 1
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 |
 goblin drunkard |
 (None) |
-MAGIC ITEM EXPENDABLE Charges: 1 Effect: Aura of Marr as Level 25 WT: 0.4 Size: SMALL Class: ALL Race: ALL |
+Effect: Aura of Marr (Consumable Clicky, Casting Time: Instant) Charges: 1 Size: SMALL WT: 0.4 Class: ALL Race: ALL |
 Functional Force ModuleFunctional Force Module
 WT: 1.0 Size: SMALL
 Class: ALL
@@ -1835,14 +1831,14 @@ Captain Bipnubble |
 Chest |
 AC: 9 SV FIRE: +10 SV COLD: +10 SV POISON: +10 WT: 3.5 Size: MEDIUM Class: ALL except NEC WIZ MAG ENC Race: ALL |
 Goblin BloodGoblin Blood
-MAGIC ITEM NO DROP
-WT: 0.1 Size: TINY
+No Trade, Quest
+Size: TINY WT: 0.1
 Class: NONE
 Race: NONE
 |
 Various |
 (None) |
-MAGIC ITEM NO DROP WT: 0.1 Size: TINY Class: NONE Race: NONE |
+No Trade, Quest Size: TINY WT: 0.1 Class: NONE Race: NONE |
 Goblin Fire TotemGoblin Fire Totem
 MAGIC ITEM LORE ITEM NO DROP
 Slot: PRIMARY SECONDARY
@@ -1865,14 +1861,14 @@ Various |
 (None) |
 MAGIC ITEM NO DROP WT: 1.0 Size: SMALL Class: NONE Race: NONE |
 Heart of FireHeart of Fire
-MAGIC ITEM LORE ITEM NO DROP
-WT: 0.5 Size: SMALL
+No Trade, Quest
+Size: SMALL WT: 0.5
 Class: ALL
 Race: ALL
 |
 inferno goblin wizard |
 (None) |
-MAGIC ITEM LORE ITEM NO DROP WT: 0.5 Size: SMALL Class: ALL Race: ALL |
+No Trade, Quest Size: SMALL WT: 0.5 Class: ALL Race: ALL |
 Imp BloodImp Blood
 Quest
 Size: SMALL WT: 0.1
@@ -1907,13 +1903,14 @@ kobold predator |
 Feet |
 AC: 5 AGI: +3 HP: +10 WT: 2.5 Size: SMALL Class: ALL Race: ALL |
 Large Brick of High Quality OreLarge Brick of High Quality Ore
-WT: 14.0 Size: SMALL
+Quest
+Size: SMALL WT: 14.0
 Class: ALL
 Race: ALL
 |
 Various |
 (None) |
-WT: 14.0 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 14.0 Class: ALL Race: ALL |
 Large Brick of Unrefined OreLarge Brick of Unrefined Ore
 Quest
 Size: SMALL WT: 10.0
@@ -1924,24 +1921,23 @@ fire goblin, inferno goblin |
 (None) |
 Quest Size: SMALL WT: 10.0 Class: ALL Race: ALL |
 Large Power SourceLarge Power Source
-WT: 1.0 Size: SMALL
+Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 |
 Various |
 (None) |
-WT: 1.0 Size: SMALL Class: ALL Race: ALL |
+Size: SMALL WT: 1.0 Class: ALL Race: ALL |
 Lava PotionLava Potion
-MAGIC ITEM
-EXPENDABLE Charges: 1
-Effect: Inferno Shield (Any Slot, Casting Time: Instant) as Level 50
-WT: 0.4 Size: SMALL
+Effect: Inferno Shield (Consumable Clicky, Casting Time: Instant)
+Charges: 1
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 |
 lava elemental |
 (None) |
-MAGIC ITEM EXPENDABLE Charges: 1 Effect: Inferno Shield as Level 50 WT: 0.4 Size: SMALL Class: ALL Race: ALL |
+Effect: Inferno Shield (Consumable Clicky, Casting Time: Instant) Charges: 1 Size: SMALL WT: 0.4 Class: ALL Race: ALL |
 Lord Gimblox's Signet RingLord Gimblox's Signet Ring
 Lore Equipped, No Trade, Quest
 Slot: FINGER
@@ -1954,13 +1950,14 @@ Lord Gimblox |
 Fingers |
 SV FIRE: +4 WT: 0.1 Size: SMALL Class: ALL Race: ALL |
 MelatiteMelatite
-WT: 5.0 Size: TINY
+Quest
+Size: TINY WT: 5.0
 Class: ALL
 Race: ALL
 |
 Various |
 (None) |
-WT: 5.0 Size: TINY Class: ALL Race: ALL |
+Quest Size: TINY WT: 5.0 Class: ALL Race: ALL |
 Memento BoxMemento Box
 LORE ITEM
 WT: 2.0 Weight Reduction: 75%
@@ -2079,14 +2076,14 @@ goblin high shaman |
 Primary, Secondary |
 HP: +30 MANA: +50 WT: 0.8 Size: SMALL Class: CLR DRU BRD SHM Race: ALL |
 Pouch of Red DustPouch of Red Dust
-LORE ITEM NO DROP
-WT: 0.3 Size: SMALL
+No Trade, Quest
+Size: SMALL WT: 0.3
 Class: ALL
 Race: ALL
 |
 Various |
 (None) |
-LORE ITEM NO DROP WT: 0.3 Size: SMALL Class: ALL Race: ALL |
+No Trade, Quest Size: SMALL WT: 0.3 Class: ALL Race: ALL |
 Power of FirePower of Fire
 LORE ITEM NO DROP
 WT: 0.0 Size: TINY
@@ -2162,14 +2159,24 @@ CWG Model CA |
 (None) |
 WT: 1.0 Size: SMALL Class: ALL Race: ALL |
 Soot HemlockSoot Hemlock
-QUEST ITEM
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 Various |
 (None) |
-QUEST ITEM WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Quest Size: TINY WT: 0.1 Class: ALL Race: ALL |
+SparkleSparkle
+No Trade, Quest
+Size: SMALL WT: 0.2
+Weight Reduction: 0% Capacity: 4 Size Capacity: SMALL
+Class: ALL
+Race: ALL
+|
+Lynada the exiled |
+(None) |
+No Trade, Quest Size: SMALL WT: 0.2 Weight Reduction: 0% Capacity: 4 Size Capacity: SMALL Class: ALL Race: ALL |
 Staff of FireStaff of Fire
 MAGIC ITEM
 Slot: PRIMARY
@@ -2188,13 +2195,13 @@ Charges: 5 Atk Delay: 25 DMG: 5 SV FIRE: +5 Effect: Burst of Flame WT: 6.5 Size:
 Tattered Gnomish CloakTattered Gnomish Cloak
 Slot: CHEST
 AC: 2
-WT: 0.7 Size: MEDIUM
+Size: MEDIUM WT: 0.7
 Class: NONE
 Race: ALL
 |
 Various |
 Chest |
-AC: 2 WT: 0.7 Size: MEDIUM Class: NONE Race: ALL |
+AC: 2 Size: MEDIUM WT: 0.7 Class: NONE Race: ALL |
 Turquoise EyepatchTurquoise Eyepatch
 MAGIC ITEM
 Slot: FACE

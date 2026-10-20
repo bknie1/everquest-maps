@@ -1,5 +1,5 @@
 # Halas (eqlwiki.com)
-fetched: 2026-10-16
+fetched: 2026-10-20
 
 Halas - EverQuest Legends Wiki
 Jump to content
@@ -469,9 +469,10 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , Tattered Cloth SandalTattered Cloth Sandal
+Attunable
 Slot: FEET
 AC: 1
-WT: 0.3 Size: SMALL
+Size: SMALL WT: 0.3
 Class: ALL
 Race: ALL
 , TurquoiseTurquoise

@@ -1,5 +1,5 @@
 # Befallen (eqlwiki.com)
-fetched: 2026-10-12
+fetched: 2026-10-20
 
 Befallen - EverQuest Legends Wiki
 Jump to content
@@ -301,6 +301,11 @@ Various |
 Piece of Rat FurPiece of Rat Fur
 QUEST ITEM
 WT: 0.1 Size: SMALL
+Class: ALL
+Race: ALL
+, Rat MeatRat Meat
+QUEST ITEM
+WT: 1.0 Size: SMALL
 Class: ALL
 Race: ALL
 |

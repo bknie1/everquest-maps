@@ -1,5 +1,5 @@
 # Felwithe (eqlwiki.com)
-fetched: 2026-10-16
+fetched: 2026-10-20
 
 Felwithe - EverQuest Legends Wiki
 Jump to content
@@ -673,7 +673,7 @@ Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 , LockpicksLockpicks
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: BRD ROG
 Race: ALL
 |

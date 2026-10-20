@@ -1,5 +1,5 @@
 # Innothule_Swamp (eqlwiki.com)
-fetched: 2026-10-19
+fetched: 2026-10-20
 
 Innothule Swamp - EverQuest Legends Wiki
 Jump to content
@@ -178,7 +178,7 @@ Lynuga |
 All |
 None |
 None |
-NPCs - Found 50 NPCs that spawn in Innothule Swamp:
+NPCs - Found 53 NPCs that spawn in Innothule Swamp:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Decaying Skeleton
 |
@@ -231,6 +231,11 @@ QUEST ITEM
 WT: 0.1 Size: SMALL
 Class: ALL
 Race: ALL
+, Rat MeatRat Meat
+QUEST ITEM
+WT: 1.0 Size: SMALL
+Class: ALL
+Race: ALL
 |
 A basic newbie mob found in various zones.
 Giant Rats are a reasonable target for the level 4 to 6 player. Their pelts ... |
@@ -248,7 +253,7 @@ Kobold |
 Warrior |
 2 |
 See Discussion |
-None |
+Various |
 Commonly found around Innothule. |
 A Troll Slayer
 |
@@ -256,24 +261,7 @@ Troll |
 Warrior |
 7-11 |
 (110, 100) |
-Bronze Short SwordBronze Short Sword
-Slot: PRIMARY SECONDARY
-Skill: 1H Slashing Atk Delay: 27
-DMG: 4
-WT: 6.0 Size: MEDIUM
-Class: WAR PAL RNG SHD BRD ROG
-Race: ALLDMG Bonus: 13 @ lvl 50
-, Frog Eye NecklaceFrog Eye Necklace
-Slot: NECK
-WT: 0.2 Size: SMALL
-Class: ALL
-Race: ALL
-, Troll PartsTroll Parts
-QUEST ITEM
-WT: 1.0 Size: SMALL
-Class: ALL
-Race: ALL
-|
+Various |
 After spawning it has a limited wander path around the south-eastern part of the swamp. This is the placeholder for [[Sl... |
 A bull alligator
 |
@@ -281,20 +269,7 @@ Alligator |
 Warrior |
 8 -10 |
 100% @ (1798, 528), 100% @ (582, 586), 100% @ (453, 776), 100% @ (1551, 1475), 100% @ (1708, 895), 100% @ (1644, 894), 100% @ (1349, 320), 100% @ (918, 1211), 100% @ (390, 756) |
-Alligator SkinAlligator Skin
-WT: 3.5 Size: LARGE
-Class: ALL
-Race: ALL
-, An Alligator ToothAn Alligator Tooth
-WT: 0.1 Size: TINY
-Class: ALL
-Race: ALL
-, Gator MeatGator Meat
-Quest
-Size: SMALL WT: 1.0
-Class: ALL
-Race: ALL
-|
+Various |
 Bull alligators are found throughout the northern half of Innothule. The placeholders are a kobold hunter, [[giant ... |
 A fat alligator
 |
@@ -336,7 +311,11 @@ Fungusman |
 Ranger |
 1 |
 Various |
-* A Spore Mushroom |
+A Spore Mushroom, Sarcoscypha FungusSarcoscypha Fungus
+Size: TINY WT: 0.1
+Class: ALL
+Race: ALL
+|
 Commonly found throughout Innothule, especially near Grobb. |
 A giant moccasin
 |
@@ -354,6 +333,20 @@ Warrior |
 100% @ (2007, 633), 100% @ (965, 708), 100% @ (1351, 706), 100% @ (1054, 673), 100% @ (924, 706), 100% @ (723, 729), 100% @ (1119, 1336), 100% @ (1761, 491) |
 AleAle
 WT: 0.4 Size: SMALL
+Class: ALL
+Race: ALL
+, Copper BandCopper Band
+Attunable
+Slot: FINGER
+AC: 1
+Size: TINY WT: 0.1
+Class: ALL
+Race: ALL
+, Woven CapWoven Cap
+MAGIC ITEM
+Slot: HEAD
+AC: 3
+WT: 0.2 Size: SMALL
 Class: ALL
 Race: ALL
 |
@@ -419,18 +412,38 @@ Quest
 Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
-,
-An Alligator Tooth
-Alligator Tooth Earring
+, Alligator ToothAlligator Tooth
+Quest
+WT: 0.1 Size: TINY
+Class: ALL
+Race: ALL
 (common) |
 Not aggressive. |
+A troll raider
+|
+|
+|
+14 |
+(314, -390) |
+|
+Three of them spawn near the city of Guk. Killing them drops nothing, no coin, and no faction change. |
 A water moccasin
 |
 Giant Snake |
 Warrior |
 6 |
 Various |
-None |
+Snake EggSnake Egg
+Quest
+Size: TINY WT: 0.2
+Class: ALL
+Race: ALL
+, Snake FangSnake Fang
+Quest
+WT: 0.1 Size: TINY
+Class: ALL
+Race: ALL
+|
 Found throughout Innothule. Not aggressive. Procs Weak Poison, so best avoided for EXPing. |
 A young water moccasin
 |
@@ -455,6 +468,26 @@ Class: ALL
 Race: ALL
 |
 Commonly found in Innothule near Grobb. Not aggressive or poisonous. |
+Basher Dreg
+|
+Ogre |
+WARRIOR |
+50 |
+(-2615, -501) |
+Classic Mid-Tier Treasures, Fine Steel Weapons, Intestine NecklaceIntestine Necklace
+Slot: NECK
+HP: +5
+WT: 0.2 Size: SMALL
+Class: ALL
+Race: ALL
+, Round ShieldRound Shield
+Slot: SECONDARY
+AC: 6
+WT: 5.0 Size: MEDIUM
+Class: ALL except MNK NEC WIZ MAG ENC
+Race: ALL
+|
+|
 Basher Nkekta
 |
 Grobb Citizen |
@@ -625,32 +658,7 @@ Old Froglok |
 Warrior |
 3 |
 100% @ (74, -299) |
-Netted MantleNetted Mantle
-MAGIC ITEM
-Slot: SHOULDERS
-AC: 1
-WT: 0.2 Size: SMALL
-Class: ALL
-Race: ALL
-, Froglok BloodFroglok Blood
-Quest
-Size: TINY WT: 0.1
-Class: ALL
-Race: ALL
-, Froglok MeatFroglok Meat
-Quest
-Size: SMALL WT: 1.0
-Class: ALL
-Race: ALL
-, Rusty SpearRusty Spear
-Attunable, Quest, Placeable
-Slot: PRIMARY
-Skill: 1H Piercing Atk Delay: 38
-DMG: 5 BACKSTAB: 5
-Size: LARGE WT: 7.0
-Class: WAR RNG SHD BRD ROG SHM BST
-Race: ALLDMG Bonus: 19 @ lvl 50
-|
+Various |
 When hailed asks to be left alone. His people are starving. |
 Fungus man tracker
 |
@@ -658,11 +666,7 @@ Fungusman |
 Ranger |
 4-6 |
 Various |
-Rusty Weapons, Sarcoscypha FungusSarcoscypha Fungus
-Size: TINY WT: 0.1
-Class: ALL
-Race: ALL
-|
+Various |
 Commonly found around Innothule. Comes in varieties with and without an A in front.
 Unlike the mushroom creatures in Gu... |
 Giant water moccasin
@@ -679,6 +683,20 @@ DMG: 5BACKSTAB: 5
 WT: 5.0 Size: MEDIUM
 Class: ALL except CLR PAL DRU MNK SHM
 Race: ALLDMG Bonus: 13 @ lvl 50
+, Snake EggSnake Egg
+Quest
+Size: TINY WT: 0.2
+Class: ALL
+Race: ALL
+, Giant Snake RattleGiant Snake Rattle
+Quest
+Size: MEDIUM WT: 1.2
+Class: ALL
+Race: ALL
+, Snake MeatSnake Meat
+WT: 1.0 Size: SMALL
+Class: ALL
+Race: ALL
 |
 Large snake found in Innothule Swamp.Not aggressive. They proc Poison |
 Gwynn Marthank
@@ -733,7 +751,17 @@ High Elf |
 Warrior |
 11 |
 50% @ (110, -499) |
-* A Noble's Crest |
+High Elf FleshHigh Elf Flesh
+This is a meal!
+WT: 1.0 Size: SMALL
+Class: ALL
+Race: ALL
+, Tattered ParchmentTattered Parchment
+MAGIC ITEM LORE ITEM NO DROP QUEST ITEM
+WT: 0.1 Size: TINY
+Class: NONE
+Race: NONE
+|
 Description needed. |
 Jojongua
 |
@@ -749,10 +777,7 @@ High Elf |
 Warrior |
 8 |
 50% @ (-991, -610) in IS |
-* High Elf Parts
-High Elf Flesh
-Noble's Crest
-|
+Various |
 Description needed. |
 Lynuga
 |
@@ -784,6 +809,14 @@ Merchant |
 (1177, 523) |
 |
 Troll merchant offering alchemy supplies. |
+Peltin Funter
+|
+|
+|
+13 |
+(145, -437) |
+Various |
+|
 Rell Ostodl
 |
 Human |
@@ -843,12 +876,20 @@ Spore Guardian
 Fungusman |
 Ranger |
 10 |
-(85,-385) |
+(85,-385), (238, -567), (340, -92) |
 Huge Mushroom HeadHuge Mushroom Head
 LORE ITEM NO DROP
 WT: 3.0 Size: LARGE
 Class: ALL
 Race: ALL
+, Rusty Weapons, Splintering ClubSplintering Club
+Attunable, Placeable
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt Atk Delay: 28
+DMG: 4
+Size: MEDIUM WT: 6.0
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 Placeholder is a fungus man tracker. Spawns near Forager Grikk outside Upper Guk, patrols a small area.
 Starts at 85,-3... |
@@ -874,7 +915,7 @@ Human |
 Ranger |
 13 |
 50% @ (362, -436) |
-* Noble's Crest |
+Various |
 Description needed. |
 Zepin Winsle
 |
@@ -882,37 +923,18 @@ Human |
 Ranger |
 9 |
 100% @ (-1470, 47) |
-A Noble's CrestA Noble's Crest
-NO DROP
-Slot: NECK
-WT: 0.1 Size: TINY
-Class: ALL
-Race: ALL
-, Giant Snake FangGiant Snake Fang
-QUEST ITEM
-Slot: PRIMARY SECONDARY
-Skill: Piercing Atk Delay: 27
-DMG: 5BACKSTAB: 5
-WT: 5.0 Size: MEDIUM
-Class: ALL except CLR PAL DRU MNK SHM
-Race: ALLDMG Bonus: 13 @ lvl 50
-, Human FleshHuman Flesh
-This is a meal!
-WT: 1.0 Size: SMALL
-Class: ALL
-Race: ALL
-|
+Various |
 This NPC spawns in Innothule Swamp, and also in Rathe Mountains on a bugged cycle with several other NPCS who spawn and ... |
 Zimbittle
 |
 Troll |
 Warrior |
 10 |
-? |
+(-2644, -520) |
 * Zimbittle's Pouch |
 Zimbittle is a female Troll that wanders around the zone in to city of Grobb.
 She is fairly low level so if yo... |
-Items - Found 41 items that drop in Innothule Swamp:
+Items - Found 42 items that drop in Innothule Swamp:
 Item Name | Drops From | Slot | Stats |
 A Noble's CrestA Noble's Crest
 NO DROP
@@ -932,14 +954,24 @@ Race: ALL
 a bull alligator, a fat alligator |
 (None) |
 WT: 3.5 Size: LARGE Class: ALL Race: ALL |
-An Alligator ToothAn Alligator Tooth
+Alligator ToothAlligator Tooth
+Quest
 WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 |
 a bull alligator, a swamp alligator |
 (None) |
-WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Quest WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Bull Alligator ToothBull Alligator Tooth
+WT: 2.0
+Size: MEDIUM
+Class: None
+Race: None
+|
+a bull alligator |
+(None) |
+WT: 2.0 Size: MEDIUM Class: None Race: None |
 Frog Eye NecklaceFrog Eye Necklace
 Slot: NECK
 WT: 0.2 Size: SMALL

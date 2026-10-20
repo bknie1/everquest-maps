@@ -1,5 +1,5 @@
 # Lower_Guk (eqlwiki.com)
-fetched: 2026-10-19
+fetched: 2026-10-20
 
 Lower Guk - EverQuest Legends Wiki
 Jump to content
@@ -369,10 +369,9 @@ Class: WAR PAL RNG SHD DRU BRD ROG
 Race: ALLDMG Bonus: 17 @ lvl 50
 , ScepterScepter
 No Trade, Quest
+Size: SMALL WT: 0.1
 Class: NEC
 Race: ALL
-Size: SMALL
-WT: 0.1
 , Serpentine BracerSerpentine Bracer
 MAGIC ITEM
 Slot: WRIST
@@ -662,10 +661,9 @@ A/B/C. Zone lines to Upper Guk
 D. Underground tunnel to D on Level Three
 1. "Waterfall Room" with ScepterScepter
 No Trade, Quest
+Size: SMALL WT: 0.1
 Class: NEC
 Race: ALL
-Size: SMALL
-WT: 0.1
 on ground
 2. Waterfall
 3. Room with the ghoul lord who drops Skull-shaped BarbuteSkull-shaped Barbute
@@ -2650,14 +2648,13 @@ Head |
 AC: 7 Charisma: +4 Size: Tiny WT: 0.4 Class: WAR CLR SHD MNK ROG SHM NEC WIZ MAG ENC BST BER Race: ALL Dieties: Bertoxxulous, Cazic-Thule, Innoruuk, Rallos Zek, Veeshan Worn Effect: Scalp of the Ghoul Lord |
 ScepterScepter
 No Trade, Quest
+Size: SMALL WT: 0.1
 Class: NEC
 Race: ALL
-Size: SMALL
-WT: 0.1
 |
 None? |
 (None) |
-No Trade, Quest Class: NEC Race: ALL Size: SMALL WT: 0.1 |
+No Trade, Quest Size: SMALL WT: 0.1 Class: NEC Race: ALL |
 Serpentine BracerSerpentine Bracer
 MAGIC ITEM
 Slot: WRIST

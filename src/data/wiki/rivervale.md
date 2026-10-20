@@ -1,5 +1,5 @@
 # Rivervale (eqlwiki.com)
-fetched: 2026-10-16
+fetched: 2026-10-20
 
 Rivervale - EverQuest Legends Wiki
 Jump to content
@@ -551,6 +551,7 @@ Warrior |
 6 |
 100% @ (134, -314), (161, -407) |
 Fresh FishFresh Fish
+Quest
 Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
@@ -560,8 +561,8 @@ Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
 , Fish ScalesFish Scales
-QUEST ITEM
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Piranha ToothPiranha Tooth
@@ -591,8 +592,8 @@ WT: 1.0 Size: SMALL
 Class: ALL
 Race: ALL
 , Fish ScalesFish Scales
-QUEST ITEM
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |

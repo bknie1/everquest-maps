@@ -1,5 +1,5 @@
 # Dagnor's_Cauldron (eqlwiki.com)
-fetched: 2026-10-16
+fetched: 2026-10-20
 
 Dagnor's Cauldron - EverQuest Legends Wiki
 Jump to content
@@ -765,16 +765,16 @@ Flotsam |
 Primary, Secondary |
 CHA: +5 HP: +10 MANA: +10 WT: 0.1 Size: TINY Class: ALL Race: ALL |
 Water RingWater Ring
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade, Quest
 Slot: FINGER
 AC: 2
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: MAG
 Race: ALL
 |
 aqua goblin tidal lord |
 Fingers |
-AC: 2 WT: 0.1 Size: TINY Class: MAG Race: ALL |
+AC: 2 Size: TINY WT: 0.1 Class: MAG Race: ALL |
 Retrieved from "https://eqlwiki.com/index.php?title=Dagnor%27s_Cauldron&oldid=131522"
 Categories: Classic Era
 Zones

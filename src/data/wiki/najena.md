@@ -1,5 +1,5 @@
 # Najena (eqlwiki.com)
-fetched: 2026-10-19
+fetched: 2026-10-20
 
 Najena - EverQuest Legends Wiki
 Jump to content
@@ -2139,13 +2139,13 @@ Various |
 No Trade, Quest WT: 0.0 Size: TINY Class: NONE Race: NONE |
 Torn Page of Mastery WaterTorn Page of Mastery Water
 No Trade, Quest
-WT: 0.0 Size: TINY
+Size: TINY WT: 0.0
 Class: NONE
 Race: NONE
 |
 Various |
 (None) |
-No Trade, Quest WT: 0.0 Size: TINY Class: NONE Race: NONE |
+No Trade, Quest Size: TINY WT: 0.0 Class: NONE Race: NONE |
 Torn Page of Mastery WindTorn Page of Mastery Wind
 No Trade, Quest
 WT: 0.0 Size: TINY

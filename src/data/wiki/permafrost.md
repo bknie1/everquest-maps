@@ -1,5 +1,5 @@
 # Permafrost_Keep (eqlwiki.com)
-fetched: 2026-10-19
+fetched: 2026-10-20
 
 Permafrost - EverQuest Legends Wiki
 Jump to content
@@ -1175,13 +1175,14 @@ an elite goblin guard |
 Legs |
 AC: 8 SV COLD: +5 WT: 7.5 Size: LARGE Class: WAR CLR PAL SHD BRD Race: ALL |
 Large Brick of High Quality OreLarge Brick of High Quality Ore
-WT: 14.0 Size: SMALL
+Quest
+Size: SMALL WT: 14.0
 Class: ALL
 Race: ALL
 |
 an elite goblin guard |
 (None) |
-WT: 14.0 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 14.0 Class: ALL Race: ALL |
 Large Brick of Unrefined OreLarge Brick of Unrefined Ore
 Quest
 Size: SMALL WT: 10.0

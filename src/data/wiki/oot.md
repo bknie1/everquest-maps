@@ -1,5 +1,5 @@
 # Ocean_of_Tears (eqlwiki.com)
-fetched: 2026-10-16
+fetched: 2026-10-20
 
 Ocean of Tears - EverQuest Legends Wiki
 Jump to content
@@ -1485,14 +1485,13 @@ Oracle of K`Arnon |
 Chest |
 AC: 9 WIS: +5 INT: +5 MANA: +25 WT: 2.0 Size: MEDIUM Class: MNK NEC WIZ MAG ENC Race: ALL |
 Saltwater SeaweedSaltwater Seaweed
-NO DROP
 WT: 0.3 Size: TINY
 Class: ALL
 Race: ALL
 |
 None? |
 (None) |
-NO DROP WT: 0.3 Size: TINY Class: ALL Race: ALL |
+WT: 0.3 Size: TINY Class: ALL Race: ALL |
 ScytheScythe
 Attunable, Placeable
 Slot: PRIMARY

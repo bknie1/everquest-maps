@@ -1,5 +1,5 @@
 # Erud's_Crossing (eqlwiki.com)
-fetched: 2026-10-19
+fetched: 2026-10-20
 
 Erud's Crossing - EverQuest Legends Wiki
 Jump to content
@@ -290,8 +290,8 @@ WT: 1.0 Size: SMALL
 Class: ALL
 Race: ALL
 , Fish ScalesFish Scales
-QUEST ITEM
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -389,6 +389,7 @@ Need Info |
 14 ~ 17 |
 Need Info |
 Fresh FishFresh Fish
+Quest
 Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
@@ -401,6 +402,7 @@ Warrior |
 14 |
 (-1334, 746) |
 Fresh FishFresh Fish
+Quest
 Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
@@ -413,6 +415,7 @@ Warrior |
 13 ~ 17 |
 (-1312, 753) |
 Fresh FishFresh Fish
+Quest
 Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
@@ -434,6 +437,7 @@ Warrior |
 13-16 |
 (-1771, 797) |
 Fresh FishFresh Fish
+Quest
 Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
@@ -460,6 +464,7 @@ Need Info |
 17 |
 (-1779, 678) |
 Fresh FishFresh Fish
+Quest
 Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
@@ -486,6 +491,7 @@ Need Info |
 17 |
 (-1591, 962) |
 Fresh FishFresh Fish
+Quest
 Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL
@@ -536,6 +542,7 @@ Warrior |
 15-16 |
 (-721, 780) |
 Fresh FishFresh Fish
+Quest
 Size: SMALL WT: 1.0
 Class: ALL
 Race: ALL

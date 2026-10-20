@@ -1,5 +1,5 @@
 # Castle_Mistmoore (eqlwiki.com)
-fetched: 2026-10-16
+fetched: 2026-10-20
 
 Mistmoore Castle - EverQuest Legends Wiki
 Jump to content
@@ -116,8 +116,8 @@ WT: 0.4 Size: SMALL
 Class: ALL
 Race: ALL
 , Blood SpiritBlood Spirit
-NO DROP
-WT: 0.4 Size: SMALL
+No Trade
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 , Bloodstone EyepatchBloodstone Eyepatch
@@ -283,8 +283,8 @@ Size: SMALL WT: 0.5
 Class: ALL
 Race: ALLFocus Effect: Percussion Resonance 11
 , Mistmoore GraniteMistmoore Granite
-NO DROP
-WT: 2.0 Size: TINY
+No Trade, Quest
+Size: TINY WT: 2.0
 Class: ALL
 Race: ALL
 , Mistmoore Heirloom RingMistmoore Heirloom Ring
@@ -340,8 +340,8 @@ WT: 6.5 Size: MEDIUM
 Class: NEC WIZ MAG ENC
 Race: ALL
 , Rune of FortuneRune of Fortune
-MAGIC ITEM LORE ITEM NO DROP
-WT: 0.1 Size: TINY
+No Trade, Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Sacrificial DaggerSacrificial Dagger
@@ -370,9 +370,9 @@ WT: 0.5 Size: SMALL
 Class: ALL
 Race: ALL
 , Vial of Vampire BloodVial of Vampire Blood
+Effect: Resistance to Magic (Consumable Clicky, Casting Time: Instant)
 Charges: 1
-Effect: Resistance to Magic (Clicky, Casting Time: Instant) as Level 50
-WT: 0.4 Size: SMALL
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 , Visage of the GargoyleVisage of the Gargoyle
@@ -439,9 +439,9 @@ Size: SMALL WT: 0.1
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BER
 Race: ALL
 (Rare), and a glyphed ghoul, who drops Vial of Vampire BloodVial of Vampire Blood
+Effect: Resistance to Magic (Consumable Clicky, Casting Time: Instant)
 Charges: 1
-Effect: Resistance to Magic (Clicky, Casting Time: Instant) as Level 50
-WT: 0.4 Size: SMALL
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 (Common) and Crested Mistmoore ShieldCrested Mistmoore Shield
@@ -482,8 +482,8 @@ WT: 6.0 Size: SMALL
 Class: WAR CLR PAL SHD BRD
 Race: ALL
 , Rune of FortuneRune of Fortune
-MAGIC ITEM LORE ITEM NO DROP
-WT: 0.1 Size: TINY
+No Trade, Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 and Visage of the GargoyleVisage of the Gargoyle
@@ -520,8 +520,8 @@ Class: WAR CLR PAL RNG SHD BRD ROG
 Race: ALL
 (Rare). A ground spawn for Cleric quest Caduceus of Sacrament is here
 6. "Courtyard" (CY) where A Hemo Enologist spawns, drops Blood SpiritBlood Spirit
-NO DROP
-WT: 0.4 Size: SMALL
+No Trade
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 and Wine ThiefWine Thief
@@ -576,8 +576,8 @@ WT: 5.2 Size: MEDIUM
 Class: CLR NEC WIZ MAG ENC
 Race: ALL
 and Vial of Noble's BloodVial of Noble's Blood
-MAGIC ITEM NO DROP
-WT: 0.2 Size: TINY
+No Trade, Quest
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 8. Entry Hall
@@ -757,10 +757,9 @@ Solusek's Flower
 |
 ScepterScepter
 No Trade, Quest
+Size: SMALL WT: 0.1
 Class: NEC
 Race: ALL
-Size: SMALL
-WT: 0.1
 (of Sorrow) |
 Ssynthi |
 1 |
@@ -878,8 +877,8 @@ WT: 5.2 Size: MEDIUM
 Class: CLR NEC WIZ MAG ENC
 Race: ALL
 , (common) Vial of Noble's BloodVial of Noble's Blood
-MAGIC ITEM NO DROP
-WT: 0.2 Size: TINY
+No Trade, Quest
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 |
@@ -896,8 +895,8 @@ Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 , Mistmoore GraniteMistmoore Granite
-NO DROP
-WT: 2.0 Size: TINY
+No Trade, Quest
+Size: TINY WT: 2.0
 Class: ALL
 Race: ALL
 |
@@ -1050,8 +1049,8 @@ Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 , Mistmoore GraniteMistmoore Granite
-NO DROP
-WT: 2.0 Size: TINY
+No Trade, Quest
+Size: TINY WT: 2.0
 Class: ALL
 Race: ALL
 |
@@ -1072,8 +1071,8 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , Mistmoore GraniteMistmoore Granite
-NO DROP
-WT: 2.0 Size: TINY
+No Trade, Quest
+Size: TINY WT: 2.0
 Class: ALL
 Race: ALL
 |
@@ -1176,8 +1175,8 @@ Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 , Mistmoore GraniteMistmoore Granite
-NO DROP
-WT: 2.0 Size: TINY
+No Trade, Quest
+Size: TINY WT: 2.0
 Class: ALL
 Race: ALL
 |
@@ -1436,9 +1435,9 @@ Size: SMALL WT: 2.0
 Class: WAR CLR PAL SHD BRD
 Race: ALL
 , Vial of Vampire BloodVial of Vampire Blood
+Effect: Resistance to Magic (Consumable Clicky, Casting Time: Instant)
 Charges: 1
-Effect: Resistance to Magic (Clicky, Casting Time: Instant) as Level 50
-WT: 0.4 Size: SMALL
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 |
@@ -1521,9 +1520,9 @@ Dark Elf |
 Shadowknight |
 35 |
 100% @ (-246, -103), (-271, -103) |
-A Dark CauldronA Dark Cauldron
-NO DROP
-WT: 2.5 Size: SMALL
+Dark CauldronDark Cauldron
+No Trade, Quest
+Size: SMALL WT: 2.5
 Class: ALL
 Race: ALL
 |
@@ -1673,8 +1672,8 @@ WT: 6.0 Size: SMALL
 Class: WAR CLR PAL SHD BRD
 Race: ALL
 , Rune of FortuneRune of Fortune
-MAGIC ITEM LORE ITEM NO DROP
-WT: 0.1 Size: TINY
+No Trade, Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Visage of the GargoyleVisage of the Gargoyle
@@ -1874,17 +1873,8 @@ Class: ALL
 Race: ALL
 |
 PH is a Mistmoore guard, 22-minute respawn. |
-Items - Found 57 items that drop in Mistmoore Castle:
+Items - Found 60 items that drop in Mistmoore Castle:
 Item Name | Drops From | Slot | Stats |
-A Dark CauldronA Dark Cauldron
-NO DROP
-WT: 2.5 Size: SMALL
-Class: ALL
-Race: ALL
-|
-an ancille cook |
-(None) |
-NO DROP WT: 2.5 Size: SMALL Class: ALL Race: ALL |
 Advisor RobeAdvisor Robe
 MAGIC ITEM LORE ITEM
 Slot: CHEST
@@ -1920,14 +1910,14 @@ a deathly usher, a glyphed aegis, a will sapper |
 Hands |
 AC: 4 DEX: +3 WT: 1.5 Size: SMALL Class: WAR PAL RNG SHD MNK BRD ROG Race: ALL |
 Blood SpiritBlood Spirit
-NO DROP
-WT: 0.4 Size: SMALL
+No Trade
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 |
 a hemo enologist |
 (None) |
-NO DROP WT: 0.4 Size: SMALL Class: ALL Race: ALL |
+No Trade Size: SMALL WT: 0.4 Class: ALL Race: ALL |
 Blood WineBlood Wine
 CHA: 2 Mana: 5
 Size: TINY WT: 0.1
@@ -2045,6 +2035,15 @@ Race: ALL
 an avenging caitiff |
 Shoulders |
 AC: 11 STA: +6 Size: SMALL WT: 4.5 Class: WAR CLR PAL RNG SHD BRD ROG BER Race: ALL |
+Dark CauldronDark Cauldron
+No Trade, Quest
+Size: SMALL WT: 2.5
+Class: ALL
+Race: ALL
+|
+an ancille cook |
+(None) |
+No Trade, Quest Size: SMALL WT: 2.5 Class: ALL Race: ALL |
 Diamondine EarringDiamondine Earring
 Attunable
 Slot: EAR
@@ -2096,6 +2095,15 @@ Race: ALL
 a cloaked dhampyre |
 Archery |
 DMG: 8 Cold DMG: 1 Range: 200 WT: 0.1 Size: SMALL Class: WAR PAL RNG SHD ROG Race: ALL |
+FlowerFlower
+Temporary, Quest
+Size: SMALL WT: 0.2
+Class: ALL
+Race: ALL
+|
+None? |
+(None) |
+Temporary, Quest Size: SMALL WT: 0.2 Class: ALL Race: ALL |
 Gargoyle GripsGargoyle Grips
 Attunable
 Slot: HANDS
@@ -2197,6 +2205,14 @@ Race: ALL
 a dark librarian ("Vok Na Zov V"), a dark ass`t librarian ("Vok Na Zov VI") |
 (None) |
 Quest Size: SMALL WT: 0.1 Class: ALL Race: ALL |
+Leatherbound JournalLeatherbound Journal
+Size: SMALL WT: 0.1
+Class: NONE
+Race: NONE
+|
+None? |
+(None) |
+Size: SMALL WT: 0.1 Class: NONE Race: NONE |
 Lute of the Gypsy PrincessLute of the Gypsy Princess
 Attunable Placeable
 Slot: Primary Secondary
@@ -2240,14 +2256,14 @@ a werewolf gypsy, Mynthi Davissi |
 Primary, Secondary |
 Size: SMALL WT: 0.5 Class: ALL Race: ALL |
 Mistmoore GraniteMistmoore Granite
-NO DROP
-WT: 2.0 Size: TINY
+No Trade, Quest
+Size: TINY WT: 2.0
 Class: ALL
 Race: ALL
 |
 a flouting gargoyle, a jeering gargoyle, a leering gargoyle |
 (None) |
-NO DROP WT: 2.0 Size: TINY Class: ALL Race: ALL |
+No Trade, Quest Size: TINY WT: 2.0 Class: ALL Race: ALL |
 Mistmoore Heirloom RingMistmoore Heirloom Ring
 Attuneable
 Slot: FINGER
@@ -2342,6 +2358,15 @@ Race: ALL
 a deathly usher (Top) |
 (None) |
 No Trade, Quest Size: TINY WT: 0.1 Class: ALL Race: ALL |
+Rune of YirnoRune of Yirno
+No Trade, Quest
+Size: TINY WT: 1.0
+Class: NONE
+Race: NONE
+|
+None? |
+(None) |
+No Trade, Quest Size: TINY WT: 1.0 Class: NONE Race: NONE |
 Sacrificial DaggerSacrificial Dagger
 MAGIC ITEM
 Slot: PRIMARY SECONDARY
@@ -2357,14 +2382,13 @@ Piercing |
 Atk Delay: 21 DMG: 5 INT: +5 WT: 2.5 Size: MEDIUM Class: ALL except CLR PAL DRU MNK SHM Race: ALL |
 ScepterScepter
 No Trade, Quest
+Size: SMALL WT: 0.1
 Class: NEC
 Race: ALL
-Size: SMALL
-WT: 0.1
 |
 None? |
 (None) |
-No Trade, Quest Class: NEC Race: ALL Size: SMALL WT: 0.1 |
+No Trade, Quest Size: SMALL WT: 0.1 Class: NEC Race: ALL |
 Stone MarkerStone Marker
 MAGIC ITEM LORE ITEM NO DROP
 WT: 0.3 Size: TINY
@@ -2426,24 +2450,24 @@ a dark librarian |
 Face |
 AC: 4 STR: +6 MANA: -40 WT: 0.5 Size: SMALL Class: ALL Race: ALL |
 Vial of Noble's BloodVial of Noble's Blood
-MAGIC ITEM NO DROP
-WT: 0.2 Size: TINY
+No Trade, Quest
+Size: TINY WT: 0.2
 Class: ALL
 Race: ALL
 |
 a fallen noble |
 (None) |
-MAGIC ITEM NO DROP WT: 0.2 Size: TINY Class: ALL Race: ALL |
+No Trade, Quest Size: TINY WT: 0.2 Class: ALL Race: ALL |
 Vial of Vampire BloodVial of Vampire Blood
+Effect: Resistance to Magic (Consumable Clicky, Casting Time: Instant)
 Charges: 1
-Effect: Resistance to Magic (Clicky, Casting Time: Instant) as Level 50
-WT: 0.4 Size: SMALL
+Size: SMALL WT: 0.4
 Class: ALL
 Race: ALL
 |
 a glyphed ghoul |
 (None) |
-Charges: 1 Effect: Resistance to Magic (Clicky, Casting Time: Instant) as Level 50 WT: 0.4 Size: SMALL Class: ALL Race: ALL |
+Effect: Resistance to Magic (Consumable Clicky, Casting Time: Instant) Charges: 1 Size: SMALL WT: 0.4 Class: ALL Race: ALL |
 Visage of the GargoyleVisage of the Gargoyle
 Attunable
 Slot: FACE

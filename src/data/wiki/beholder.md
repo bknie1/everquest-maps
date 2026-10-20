@@ -1,5 +1,5 @@
 # Gorge_of_King_Xorbb (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-20
 
 Gorge of King Xorbb - EverQuest Legends Wiki
 Jump to content
@@ -510,13 +510,13 @@ Brahhm |
 Neck |
 AC: 5 STA: +3 WIS: +3 WT: 0.2 Size: SMALL Class: ALL Race: ALL |
 Large Brick of OreLarge Brick of Ore
-WT: 25.5 Size: SMALL
+Size: SMALL WT: 25.5
 Class: ALL
 Race: ALL
 |
 a muddite elder, a muddite minor |
 (None) |
-WT: 25.5 Size: SMALL Class: ALL Race: ALL |
+Size: SMALL WT: 25.5 Class: ALL Race: ALL |
 Lens of Lord SoptyvrLens of Lord Soptyvr
 LORE ITEM NODROP
 WT: 0.1 Size: TINY
@@ -603,7 +603,7 @@ King Xorbb |
 1H Blunt |
 Atk Delay: 28 DMG: 5 Effect: Sicken (Combat, Casting Time: Instant) WT: 6.5 Size: LARGE Class: BRD NEC WIZ MAG ENC Race: ALL |
 Small Block of ClaySmall Block of Clay
-QUEST ITEM
+Quest
 WT: 0.5 Size: TINY
 Class: ALL
 Race: ALL
@@ -611,16 +611,16 @@ Value: 1 silver 5 copper
 |
 a muddite elder, a muddite recordkeeper |
 (None) |
-QUEST ITEM WT: 0.5 Size: TINY Class: ALL Race: ALL Value: 1 silver 5 copper |
+Quest WT: 0.5 Size: TINY Class: ALL Race: ALL Value: 1 silver 5 copper |
 Small Brick of OreSmall Brick of Ore
-QUEST ITEM
-WT: 15.0 Size: SMALL
+Quest
+Size: SMALL WT: 15.0
 Class: ALL
 Race: ALL
 |
 a muddite elder, a muddite minor |
 (None) |
-QUEST ITEM WT: 15.0 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 15.0 Class: ALL Race: ALL |
 Small BucklerSmall Buckler
 Slot: SECONDARY
 AC: 4
@@ -632,14 +632,14 @@ a goblin lookout, a goblin sentry |
 Secondary |
 AC: 4 WT: 2.2 Size: SMALL Class: WAR CLR PAL RNG SHD DRU BRD ROG SHM Race: ALL |
 Small Piece of OreSmall Piece of Ore
-QUEST ITEM
-WT: 0.5 Size: SMALL
+Quest
+Size: SMALL WT: 0.5
 Class: ALL
 Race: ALL
 |
 a muddite elder, a muddite minor, a muddite recordkeeper |
 (None) |
-QUEST ITEM WT: 0.5 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.5 Class: ALL Race: ALL |
 Whirling AgateWhirling Agate
 Slot: HEAD
 SV MAGIC: +10

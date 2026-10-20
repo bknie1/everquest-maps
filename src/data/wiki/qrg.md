@@ -1,5 +1,5 @@
 # Surefall_Glade (eqlwiki.com)
-fetched: 2026-10-19
+fetched: 2026-10-20
 
 Surefall Glade - EverQuest Legends Wiki
 Jump to content
@@ -416,8 +416,8 @@ WT: 1.0 Size: SMALL
 Class: ALL
 Race: ALL
 , Fish ScalesFish Scales
-QUEST ITEM
-WT: 0.1 Size: SMALL
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |

@@ -1,5 +1,5 @@
 # Grobb (eqlwiki.com)
-fetched: 2026-10-12
+fetched: 2026-10-20
 
 Grobb - EverQuest Legends Wiki
 Jump to content
@@ -166,7 +166,8 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , Cat's Eye AgateCat's Eye Agate
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Chunk of Metal OreChunk of Metal Ore

@@ -1,5 +1,5 @@
 # Western_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-10-19
+fetched: 2026-10-20
 
 Western Karana - EverQuest Legends Wiki
 Jump to content
@@ -457,7 +457,8 @@ WT: 0.2 Size: SMALL
 Class: ALL
 Race: ALL
 , Cat's Eye AgateCat's Eye Agate
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
