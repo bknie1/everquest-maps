@@ -1,5 +1,5 @@
 # South_Ro (eqlwiki.com)
-fetched: 2026-10-20
+fetched: 2026-10-21
 
 Southern Desert of Ro - EverQuest Legends Wiki
 Jump to content
@@ -234,7 +234,7 @@ Rathmana Allin |
 All |
 None |
 None |
-NPCs - Found 35 NPCs that spawn in Southern Desert of Ro:
+NPCs - Found 36 NPCs that spawn in Southern Desert of Ro:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Cistern Asp
 |
@@ -638,6 +638,21 @@ Merchant |
 (128, 495) |
 |
 Dark Elf vendor that sells pottery supplies. |
+Moldrak Drin
+|
+|
+|
+22 |
+|
+Cracked StaffCracked Staff
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt Atk Delay: 32
+DMG: 5
+WT: 8.5 Size: LARGE
+Class: ALL
+Race: ALLDMG Bonus: 16 @ lvl 50
+|
+|
 Obretl
 |
 Skeleton New |

@@ -1,5 +1,5 @@
 # Upper_Guk (eqlwiki.com)
-fetched: 2026-10-19
+fetched: 2026-10-21
 
 Upper Guk - EverQuest Legends Wiki
 Jump to content
@@ -645,7 +645,7 @@ A Froglok Guard
 Old Froglok |
 Warrior |
 4-6, ~12 |
-See Discussion |
+(500, 165), See Discussion |
 Various |
 There are two kinds of Froglok Guards: the lower-level variety can be found just outside Guk, while the higher-level var... |
 A Froglok Idealist

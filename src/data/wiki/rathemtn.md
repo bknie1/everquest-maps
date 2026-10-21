@@ -1,5 +1,5 @@
 # Rathe_Mountains (eqlwiki.com)
-fetched: 2026-10-20
+fetched: 2026-10-21
 
 Rathe Mountains - EverQuest Legends Wiki
 Jump to content
@@ -404,7 +404,7 @@ Karam Dragonforge (4109, 918) |
 All |
 Permafrost |
 Lady Vox |
-NPCs - Found 119 NPCs that spawn in Rathe Mountains:
+NPCs - Found 120 NPCs that spawn in Rathe Mountains:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Basalt Drake
 |
@@ -818,6 +818,28 @@ Class: ALL
 Race: ALL
 |
 These are found in various low-level zones and are a step up from decaying skeletons that haunt ... |
+A water moccasin
+|
+Giant Snake |
+Warrior |
+6 |
+Various |
+Moccasin EggsMoccasin Eggs
+Size: SMALL WT: 1.0
+Class: NONE
+Race: NONE
+, Snake EggSnake Egg
+Quest
+Size: TINY WT: 0.2
+Class: ALL
+Race: ALL
+, Snake FangSnake Fang
+Quest
+WT: 0.1 Size: TINY
+Class: ALL
+Race: ALL
+|
+Found throughout Innothule and Rathe Mountains. Not aggressive. Procs Weak Poison, so best a... |
 Abigail
 |
 High Elf |
@@ -1874,7 +1896,7 @@ Merchant |
 |
 This NPC has a quest to accept Phosphorous Powder for money and improvement to several Gukta factions.
 Quest tur... |
-Items - Found 47 items that drop in Rathe Mountains:
+Items - Found 48 items that drop in Rathe Mountains:
 Item Name | Drops From | Slot | Stats |
 A skeletal fingerA skeletal finger
 MAGIC ITEM LORE ITEM NO DROP
@@ -2164,6 +2186,14 @@ Race: ALL
 Grazhak the Berzerker |
 Waist |
 AC: 9 STR: +9 STA: +9 WT: 2.0 Size: SMALL Class: WAR Race: ALL |
+Moccasin EggsMoccasin Eggs
+Size: SMALL WT: 1.0
+Class: NONE
+Race: NONE
+|
+a water moccasin |
+(None) |
+Size: SMALL WT: 1.0 Class: NONE Race: NONE |
 Monstrous Zombie HeartMonstrous Zombie Heart
 LORE ITEM NO DROP
 WT: 0.3 Size: SMALL

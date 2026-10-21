@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-10-19
+fetched: 2026-10-21
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -4027,15 +4027,14 @@ Brass KnucklesBrass Knuckles
 No Trade, Quest, Placeable
 Slot: Primary Secondary
 Skill: 1H Blunt Atk Delay: 25
-DMG: 10 DMG Bonus: 11
+DMG: 10
 Size: MEDIUM WT: 1.0
-Dmg Bon: 12
 Class: MNK BST
-Race: ALL
+Race: ALLDMG Bonus: 12 @ lvl 50
 |
 Noble Dojorn, Overseer of Air, The Hand of Veeshan |
 1H Blunt |
-Atk Delay: 25 DMG: 10 DMG Bonus: 11 Size: MEDIUM WT: 1.0 Dmg Bon: 12 Class: MNK BST Race: ALL |
+Atk Delay: 25 DMG: 10 Size: MEDIUM WT: 1.0 Class: MNK BST Race: ALL |
 Breath of GwanBreath of Gwan
 MAGIC ITEM LORE ITEM NO DROP
 WT: 0.1 Size: SMALL
@@ -4955,14 +4954,14 @@ Golden Efreeti GreavesGolden Efreeti Greaves
 Lore Equipped, No Trade
 Slot: LEGS
 AC: 15
-DEX: +10 AGI: +9
-WT: 5.6 Size: LARGE
+AGI: +9 DEX: +10
+Size: LARGE WT: 5.6
 Class: ALL
 Race: ALL
 |
 Noble Dojorn, Overseer of Air, the Hand of Veeshan |
 Legs |
-AC: 15 DEX: +10 AGI: +9 WT: 5.6 Size: LARGE Class: ALL Race: ALL |
+AC: 15 AGI: +9 DEX: +10 Size: LARGE WT: 5.6 Class: ALL Race: ALL |
 Golden Efreeti RingGolden Efreeti Ring
 Lore Equipped, No Trade, Quest
 Slot: Fingers
@@ -4993,15 +4992,14 @@ Golden Efreeti VambracesGolden Efreeti Vambraces
 Lore Equipped, No Trade
 Slot: Arms
 AC: 12
-DEX: +6 STA: +10
-End: +20
-WT: 4.9 Size: SMALL
+STA: +10 DEX: +6 End: +20
+Size: SMALL WT: 4.9
 Class: ALL
 Race: ALL
 |
 Noble Dojorn, Overseer of Air, the Hand of Veeshan |
 Arms |
-AC: 12 DEX: +6 STA: +10 End: +20 WT: 4.9 Size: SMALL Class: ALL Race: ALL |
+AC: 12 STA: +10 DEX: +6 End: +20 Size: SMALL WT: 4.9 Class: ALL Race: ALL |
 Golden HiltGolden Hilt
 Quest
 Size: MEDIUM WT: 1.0

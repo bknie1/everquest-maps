@@ -1,5 +1,5 @@
 # The_Feerrott (eqlwiki.com)
-fetched: 2026-10-20
+fetched: 2026-10-21
 
 The Feerrott - EverQuest Legends Wiki
 Jump to content
@@ -504,7 +504,16 @@ Erudite |
 Warrior |
 25 |
 50% @ (-1460, 1046) |
-None |
+Ruined RobeRuined Robe
+LORE ITEM NO DROP TEMPORARY
+Slot: CHEST
+AC: 1
+CHA: -20
+SV MAGIC: -15 SV FIRE: -15 SV COLD: -15 SV DISEASE: -15 SV POISON: -15
+WT: 2.0 Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: ALL
+|
 Description needed. |
 Bouncer Flerb
 |
@@ -570,13 +579,22 @@ Warrior |
 5 |
 100% @ (1131, 569) |
 None |
-Description needed. |
+Respawn: 4:30 |
 Eleann Morkul
 |
 Human |
 Warrior |
 25 |
 100% @ (-1461, 1063) |
+Ruined RobeRuined Robe
+LORE ITEM NO DROP TEMPORARY
+Slot: CHEST
+AC: 1
+CHA: -20
+SV MAGIC: -15 SV FIRE: -15 SV COLD: -15 SV DISEASE: -15 SV POISON: -15
+WT: 2.0 Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: ALL
 |
 Description needed. |
 Fugla
@@ -595,7 +613,7 @@ Warrior |
 5 |
 100% @ (1116, 637) |
 None |
-Description needed. |
+Respawn: 4:30 |
 Innkeep Gub
 |
 Oggok Citizen |
@@ -700,7 +718,7 @@ Warrior |
 100% @ (-1444, 1055) |
 |
 Description needed. |
-Items - Found 20 items that drop in The Feerrott:
+Items - Found 27 items that drop in The Feerrott:
 Item Name | Drops From | Slot | Stats |
 A Crude SteinA Crude Stein
 MAGIC ITEM LORE ITEM
@@ -743,6 +761,16 @@ Race: ALLFocus Effect: Burning Affliction I
 a lizardman mystic |
 Neck |
 SV DISEASE: +1 SV POISON: +1 WT: 0.2 Size: TINY Class: ALL Race: ALL |
+Black Lizard ScaleBlack Lizard Scale
+Quest
+Size: MEDIUM
+WT: 2.0
+Class: None
+Race: None
+|
+Various |
+(None) |
+Quest Size: MEDIUM WT: 2.0 Class: None Race: None |
 Black Spider SilkBlack Spider Silk
 Quest
 WT: 0.1 Size: SMALL
@@ -764,6 +792,15 @@ Race: ALL
 Dark Assassin |
 Shoulders |
 AC: -3 STR: +5 DEX: +5 CHA: -3 WT: 0.0 Size: SMALL Class: ALL Race: ALL |
+Broken Lizard TalonBroken Lizard Talon
+Size: MEDIUM
+WT: 2.0
+Class: None
+Race: None
+|
+a lizardman broodling, a lizardman scout, a lizardman watcher |
+(None) |
+Size: MEDIUM WT: 2.0 Class: None Race: None |
 Bronze AxeBronze Axe
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 33
@@ -818,6 +855,24 @@ Race: ALLDMG Bonus: 17 @ lvl 50
 Cyndreela |
 1H Blunt |
 Atk Delay: 35 DMG: 5 WT: 6.0 Size: MEDIUM Class: ALL except NEC WIZ MAG ENC Race: ALL |
+Brown Lizard TalonBrown Lizard Talon
+Size: MEDIUM
+WT: 2.0
+Class: None
+Race: None
+|
+a lizardman broodling, a lizardman watcher |
+(None) |
+Size: MEDIUM WT: 2.0 Class: None Race: None |
+Green Lizard TalonGreen Lizard Talon
+Size: MEDIUM
+WT: 2.0
+Class: None
+Race: None
+|
+a lizardman broodling, a lizardman scout |
+(None) |
+Size: MEDIUM WT: 2.0 Class: None Race: None |
 Grizzly Bear SkullGrizzly Bear Skull
 Size: SMALL WT: 0.7
 Class: ALL
@@ -826,6 +881,16 @@ Race: ALL
 None? |
 (None) |
 Size: SMALL WT: 0.7 Class: ALL Race: ALL |
+Light Colored FungusLight Colored Fungus
+Quest
+Size: SMALL
+WT: 1.0
+Class: None
+Race: None
+|
+Various |
+(None) |
+Quest Size: SMALL WT: 1.0 Class: None Race: None |
 Lizard MeatLizard Meat
 Quest
 Size: SMALL WT: 1.0
@@ -885,6 +950,29 @@ Race: ALL
 None? |
 (None) |
 MAGIC ITEM LORE ITEM NO DROP WT: 1.0 Size: MEDIUM Class: ALL Race: ALL |
+Pristine Lizard TalonPristine Lizard Talon
+Quest
+Size: MEDIUM
+WT: 2.0
+Class: None
+Race: None
+|
+Various |
+(None) |
+Quest Size: MEDIUM WT: 2.0 Class: None Race: None |
+Ruined RobeRuined Robe
+LORE ITEM NO DROP TEMPORARY
+Slot: CHEST
+AC: 1
+CHA: -20
+SV MAGIC: -15 SV FIRE: -15 SV COLD: -15 SV DISEASE: -15 SV POISON: -15
+WT: 2.0 Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: ALL
+|
+Aqaar Aluram, Eleann Morkul |
+Chest |
+AC: 1 CHA: -20 SV MAGIC: -15 SV FIRE: -15 SV COLD: -15 SV DISEASE: -15 SV POISON: -15 WT: 2.0 Size: MEDIUM Class: NEC WIZ MAG ENC Race: ALL |
 Swollen FleshSwollen Flesh
 QUEST ITEM
 WT: 7.1 Size: SMALL

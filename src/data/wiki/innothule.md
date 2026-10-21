@@ -1,5 +1,5 @@
 # Innothule_Swamp (eqlwiki.com)
-fetched: 2026-10-20
+fetched: 2026-10-21
 
 Innothule Swamp - EverQuest Legends Wiki
 Jump to content
@@ -217,7 +217,7 @@ A Froglok Guard
 Old Froglok |
 Warrior |
 4-6, ~12 |
-See Discussion |
+(500, 165), See Discussion |
 Various |
 There are two kinds of Froglok Guards: the lower-level variety can be found just outside Guk, while the higher-level var... |
 A Giant Rat
@@ -433,7 +433,11 @@ Giant Snake |
 Warrior |
 6 |
 Various |
-Snake EggSnake Egg
+Moccasin EggsMoccasin Eggs
+Size: SMALL WT: 1.0
+Class: NONE
+Race: NONE
+, Snake EggSnake Egg
 Quest
 Size: TINY WT: 0.2
 Class: ALL
@@ -444,7 +448,7 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 |
-Found throughout Innothule. Not aggressive. Procs Weak Poison, so best avoided for EXPing. |
+Found throughout Innothule and Rathe Mountains. Not aggressive. Procs Weak Poison, so best a... |
 A young water moccasin
 |
 Giant Snake |
@@ -934,7 +938,7 @@ Warrior |
 * Zimbittle's Pouch |
 Zimbittle is a female Troll that wanders around the zone in to city of Grobb.
 She is fairly low level so if yo... |
-Items - Found 42 items that drop in Innothule Swamp:
+Items - Found 43 items that drop in Innothule Swamp:
 Item Name | Drops From | Slot | Stats |
 A Noble's CrestA Noble's Crest
 NO DROP
@@ -1077,6 +1081,14 @@ Race: ALL
 Tann Cellus |
 Archery |
 Atk Delay: 51 DMG: 8 Size: LARGE WT: 5.0 Range: 100 Class: WAR PAL RNG SHD ROG Race: ALL |
+Moccasin EggsMoccasin Eggs
+Size: SMALL WT: 1.0
+Class: NONE
+Race: NONE
+|
+a water moccasin |
+(None) |
+Size: SMALL WT: 1.0 Class: NONE Race: NONE |
 Netted CapNetted Cap
 MAGIC ITEM
 Slot: HEAD
