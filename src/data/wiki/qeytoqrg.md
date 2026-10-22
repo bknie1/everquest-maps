@@ -1,5 +1,5 @@
 # Qeynos_Hills (eqlwiki.com)
-fetched: 2026-10-20
+fetched: 2026-10-22
 
 Qeynos Hills - EverQuest Legends Wiki
 Jump to content
@@ -1017,7 +1017,8 @@ Necromancer |
 25 |
 34% @ (4677, -923) |
 Human Blood |
-Human necromancer that is seen pathing around the Undead Ruins in Qeynos. If he is hailed, he becomes angry and attacks.... |
+Darkness and decay shall claim your flesh!
+An ill-tempered necromancer that may be found wandering the northeast qu... |
 Varsoon the Undying
 |
 Undead |

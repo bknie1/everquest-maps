@@ -1,5 +1,5 @@
 # Southern_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-10-16
+fetched: 2026-10-22
 
 Southern Karana - EverQuest Legends Wiki
 Jump to content
@@ -1811,16 +1811,17 @@ None? |
 Primary |
 STR: -10 WIS: +5 INT: +10 HP: +15 SV POISON: +10 WT: 1.0 Size: TINY Class: NEC WIZ MAG ENC Race: ALL |
 Great StaffGreat Staff
+Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 38
 DMG: 9
-WT: 10.0 Size: LARGE
-Class: ALL except BRD ROG
+Size: LARGE WT: 10.0
+Class: WAR CLR PAL RNG SHD DRU MNK SHM NEC WIZ MAG ENC BST BER
 Race: ALLDMG Bonus: 26 @ lvl 50
 |
 a treant |
 2H Blunt |
-Atk Delay: 38 DMG: 9 WT: 10.0 Size: LARGE Class: ALL except BRD ROG Race: ALL |
+Atk Delay: 38 DMG: 9 Size: LARGE WT: 10.0 Class: WAR CLR PAL RNG SHD DRU MNK SHM NEC WIZ MAG ENC BST BER Race: ALL |
 Grizzleknot BarkGrizzleknot Bark
 No Trade, Quest
 WT: 5.5 Size: LARGE

@@ -1,5 +1,5 @@
 # Kaladim (eqlwiki.com)
-fetched: 2026-10-20
+fetched: 2026-10-22
 
 Kaladim - EverQuest Legends Wiki
 Jump to content
@@ -490,9 +490,10 @@ Size: SMALL WT: 0.1
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BER
 Race: ALL
 , Bronze GauntletsBronze Gauntlets
+Attunable
 Slot: HANDS
 AC: 9
-WT: 6.2 Size: SMALL
+Size: SMALL WT: 6.2
 Class: WAR CLR PAL SHD BRD
 Race: ALL
 , Bronze BracersBronze Bracers
@@ -785,10 +786,11 @@ WT: 4.7 Size: SMALL
 Class: WAR CLR PAL RNG SHD BRD ROG SHM
 Race: ALL
 , Ringmail PantsRingmail Pants
+Attunable
 Slot: LEGS
 AC: 7
-WT: 7.3 Size: MEDIUM
-Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Size: MEDIUM WT: 7.3
+Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
 Race: ALL
 , Serpentskin EyepatchSerpentskin Eyepatch
 MAGIC ITEM

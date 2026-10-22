@@ -1,5 +1,5 @@
 # East_Freeport (eqlwiki.com)
-fetched: 2026-10-20
+fetched: 2026-10-22
 
 Freeport - EverQuest Legends Wiki
 Jump to content
@@ -1798,16 +1798,17 @@ Various |
 Chest |
 AC: 6 MANA: +1 WT: 0.7 Size: MEDIUM Class: WIZ MAG ENC Race: ALL |
 WarhammerWarhammer
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 32
 DMG: 6
-WT: 7.5 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC
+Size: MEDIUM WT: 7.5
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
 Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Various |
 1H Blunt |
-Atk Delay: 32 DMG: 6 WT: 7.5 Size: MEDIUM Class: ALL except NEC WIZ MAG ENC Race: ALL |
+Atk Delay: 32 DMG: 6 Size: MEDIUM WT: 7.5 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST Race: ALL |
 Warped Great StaffWarped Great Staff
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 40
@@ -2922,7 +2923,8 @@ WT: 0.4 Size: SMALL
 Class: ALL
 Race: ALL
 |
-Shares a spawn with Lunce Nasin. |
+Shares a spawn with Lunce Nasin.
+Respawn: 2 min |
 Lydl the Great
 |
 Human |
@@ -4022,11 +4024,12 @@ GM Paladin |
 61 |
 (139, 339) |
 WarhammerWarhammer
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 32
 DMG: 6
-WT: 7.5 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC
+Size: MEDIUM WT: 7.5
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
 Race: ALLDMG Bonus: 16 @ lvl 50
 , Bronze WarhammerBronze Warhammer
 Slot: PRIMARY SECONDARY
@@ -4257,11 +4260,12 @@ GM Cleric |
 61 |
 (92, 305) |
 WarhammerWarhammer
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 32
 DMG: 6
-WT: 7.5 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC
+Size: MEDIUM WT: 7.5
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
 Race: ALLDMG Bonus: 16 @ lvl 50
 , Bronze WarhammerBronze Warhammer
 Slot: PRIMARY SECONDARY
@@ -4318,11 +4322,12 @@ Paladin |
 35 |
 3% @ (-91, 337) |
 WarhammerWarhammer
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 32
 DMG: 6
-WT: 7.5 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC
+Size: MEDIUM WT: 7.5
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
 Race: ALLDMG Bonus: 16 @ lvl 50
 , Bronze WarhammerBronze Warhammer
 Slot: PRIMARY SECONDARY
@@ -4347,11 +4352,12 @@ Paladin |
 33 |
 3% @ (147, 335) |
 WarhammerWarhammer
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 32
 DMG: 6
-WT: 7.5 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC
+Size: MEDIUM WT: 7.5
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
 Race: ALLDMG Bonus: 16 @ lvl 50
 , Bronze WarhammerBronze Warhammer
 Slot: PRIMARY SECONDARY
@@ -4376,11 +4382,12 @@ Paladin |
 35 |
 3% @ (38, 340) |
 WarhammerWarhammer
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 32
 DMG: 6
-WT: 7.5 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC
+Size: MEDIUM WT: 7.5
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
 Race: ALLDMG Bonus: 16 @ lvl 50
 , Bronze WarhammerBronze Warhammer
 Slot: PRIMARY SECONDARY
@@ -4405,11 +4412,12 @@ Paladin |
 30 |
 3% @ (147, 364) |
 WarhammerWarhammer
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 32
 DMG: 6
-WT: 7.5 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC
+Size: MEDIUM WT: 7.5
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
 Race: ALLDMG Bonus: 16 @ lvl 50
 , Bronze WarhammerBronze Warhammer
 Slot: PRIMARY SECONDARY
@@ -4434,11 +4442,12 @@ Paladin |
 34 |
 3% @ (37, 359) |
 WarhammerWarhammer
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 32
 DMG: 6
-WT: 7.5 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC
+Size: MEDIUM WT: 7.5
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
 Race: ALLDMG Bonus: 16 @ lvl 50
 , Bronze WarhammerBronze Warhammer
 Slot: PRIMARY SECONDARY
@@ -4463,11 +4472,12 @@ Paladin |
 37 |
 3% @ (76, 371) |
 WarhammerWarhammer
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 32
 DMG: 6
-WT: 7.5 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC
+Size: MEDIUM WT: 7.5
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
 Race: ALLDMG Bonus: 16 @ lvl 50
 , Bronze WarhammerBronze Warhammer
 Slot: PRIMARY SECONDARY
@@ -4492,11 +4502,12 @@ Paladin |
 35 |
 3% @ (86, 414) |
 WarhammerWarhammer
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 32
 DMG: 6
-WT: 7.5 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC
+Size: MEDIUM WT: 7.5
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
 Race: ALLDMG Bonus: 16 @ lvl 50
 , Bronze WarhammerBronze Warhammer
 Slot: PRIMARY SECONDARY
@@ -4737,11 +4748,12 @@ GM Cleric |
 61 |
 (140, 351) |
 WarhammerWarhammer
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 32
 DMG: 6
-WT: 7.5 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC
+Size: MEDIUM WT: 7.5
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
 Race: ALLDMG Bonus: 16 @ lvl 50
 , Bronze WarhammerBronze Warhammer
 Slot: PRIMARY SECONDARY
@@ -4861,16 +4873,17 @@ Hail at both indifferent and amiable con - "You need to prove your dedication to
 Items - Found 1 items that drop in North Freeport:
 Item Name | Drops From | Slot | Stats |
 WarhammerWarhammer
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 32
 DMG: 6
-WT: 7.5 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC
+Size: MEDIUM WT: 7.5
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
 Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Sentry Andlin, Sentry Theo, Sentry Warren |
 1H Blunt |
-Atk Delay: 32 DMG: 6 WT: 7.5 Size: MEDIUM Class: ALL except NEC WIZ MAG ENC Race: ALL |
+Atk Delay: 32 DMG: 6 Size: MEDIUM WT: 7.5 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST Race: ALL |
 Retrieved from "https://eqlwiki.com/index.php?title=Freeport&oldid=172731"
 Categories: Classic Era
 Non-P99 Content

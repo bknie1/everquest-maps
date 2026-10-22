@@ -1,5 +1,5 @@
 # Nagafen's_Lair (eqlwiki.com)
-fetched: 2026-10-20
+fetched: 2026-10-22
 
 Nagafen's Lair - EverQuest Legends Wiki
 Jump to content
@@ -617,7 +617,8 @@ Range: 200
 Class: WAR SHD ROG BST BER
 Race: ALL
 (Common), Fire Giant ToesFire Giant Toes
-WT: 1.5 Size: SMALL
+Quest
+Size: SMALL WT: 1.5
 Class: ALL
 Race: ALL
 (Common), Diamond DustDiamond Dust
@@ -719,7 +720,8 @@ Range: 200
 Class: WAR SHD ROG BST BER
 Race: ALL
 , Fire Giant ToesFire Giant Toes
-WT: 1.5 Size: SMALL
+Quest
+Size: SMALL WT: 1.5
 Class: ALL
 Race: ALL
 |
@@ -915,12 +917,12 @@ Warrior |
 50% @ (-677, -218), (-655, -144), (-698, -237), (-751, -208), (-688, -30), (-652, -62) |
 Giant Bat FurGiant Bat Fur
 Quest
-WT: 0.5 Size: MEDIUM
+Size: MEDIUM WT: 0.5
 Class: ALL
 Race: ALL
 , Giant Bat WingGiant Bat Wing
 Quest
-WT: 0.3 Size: SMALL
+Size: SMALL WT: 0.3
 Class: ALL
 Race: ALL
 , Bat BloodBat Blood
@@ -1303,13 +1305,14 @@ Efreeti Lord Djarn |
 Fingers |
 AGI: +9 HP: +80 WT: 0.1 Size: TINY Class: ALL Race: ALL |
 Fire Giant ToesFire Giant Toes
-WT: 1.5 Size: SMALL
+Quest
+Size: SMALL WT: 1.5
 Class: ALL
 Race: ALL
 |
 fire giant warrior, fire giant wizard |
 (None) |
-WT: 1.5 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 1.5 Class: ALL Race: ALL |
 FleshripperFleshripper
 Lore Equipped, No Trade, Quest
 Slot: PRIMARY
@@ -1397,19 +1400,19 @@ Zordakalicus Ragefire |
 (None) |
 MAGIC ITEM LORE ITEM NO DROP WT: 1.0 Size: MEDIUM Class: ALL Race: ALL |
 Hierophant`s CrookHierophant`s Crook
-MAGIC ITEM
+Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 44
 DMG: 20
-STR: +9 DEX: +9 WIS: +9
-Effect: Earthquake (Combat, Casting Time: Instant) at Level 30
-WT: 7.5 Size: LARGE
+STR: +9 WIS: +9 DEX: +9
+Effect: Earthquake (Combat) at Level 30
+Size: LARGE WT: 7.5
 Class: DRU
 Race: ALLDMG Bonus: 30 @ lvl 50
 |
 Lord Nagafen |
 2H Blunt |
-Atk Delay: 44 DMG: 20 STR: +9 DEX: +9 WIS: +9 Effect: Earthquake (Combat, Casting Time: Instant) at Level 30 WT: 7.5 Size: LARGE Class: DRU Race: ALL |
+Atk Delay: 44 DMG: 20 STR: +9 WIS: +9 DEX: +9 Effect: Earthquake (Combat) at Level 30 Size: LARGE WT: 7.5 Class: DRU Race: ALL |
 Imp BloodImp Blood
 Quest
 Size: SMALL WT: 0.1
@@ -1798,23 +1801,23 @@ WT: 2.5 Size: MEDIUM
 Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC
 Race: ALLDMG Bonus: 12 @ lvl 50
 , Hierophant`s CrookHierophant`s Crook
-MAGIC ITEM
+Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 44
 DMG: 20
-STR: +9 DEX: +9 WIS: +9
-Effect: Earthquake (Combat, Casting Time: Instant) at Level 30
-WT: 7.5 Size: LARGE
+STR: +9 WIS: +9 DEX: +9
+Effect: Earthquake (Combat) at Level 30
+Size: LARGE WT: 7.5
 Class: DRU
 Race: ALLDMG Bonus: 30 @ lvl 50
 , Orb of TishanOrb of Tishan
-MAGIC ITEM
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 25
 DMG: 7
 STR: +9 STA: +9 MANA: +35
-Effect: Tashania (Combat, Casting Time: Instant) at Level 40
-WT: 1.5 Size: SMALL
+Effect: Tashania (Combat) at Level 40
+Size: SMALL WT: 1.5
 Class: BRD NEC WIZ MAG ENC
 Race: ALLDMG Bonus: 12 @ lvl 50
 , Prayers of LifePrayers of Life

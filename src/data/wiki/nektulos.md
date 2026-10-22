@@ -1,5 +1,5 @@
 # Nektulos_Forest (eqlwiki.com)
-fetched: 2026-10-20
+fetched: 2026-10-22
 
 Nektulos Forest - EverQuest Legends Wiki
 Jump to content
@@ -173,7 +173,7 @@ Start Zone: |
 Necromancer |
 Various |
 Various |
-NPCs - Found 84 NPCs that spawn in Nektulos Forest:
+NPCs - Found 86 NPCs that spawn in Nektulos Forest:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Black Bear
 |
@@ -608,6 +608,14 @@ Class: ALL
 Race: ALL
 |
 Added with Mar2002 revamp of Nektulos[https://web.archive.org/web/20020612014439/http://eqbeastiary.allakhazam.com:80/se... |
+An arcane incantator
+|
+|
+|
+2-4 |
+(658, -911), (591, -526) |
+Various |
+|
 Bink
 |
 Halfling |
@@ -1299,6 +1307,14 @@ Necromancer |
 100% @ (-1073.54, -685.43) |
 None |
 Starts the Necromancer Epic questline. She is located on the northern bank of the river, east of the bridge. Seems to be... |
+Vol T`Vke
+|
+|
+|
+60 |
+(2338, -803) |
+|
+|
 Items - Found 34 items that drop in Nektulos Forest:
 Item Name | Drops From | Slot | Stats |
 Basilisk EggBasilisk Egg

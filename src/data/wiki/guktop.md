@@ -1,5 +1,5 @@
 # Upper_Guk (eqlwiki.com)
-fetched: 2026-10-21
+fetched: 2026-10-22
 
 Upper Guk - EverQuest Legends Wiki
 Jump to content
@@ -1038,8 +1038,10 @@ Class: WAR CLR PAL RNG SHD DRU BRD ROG SHM
 Race: ALL
 (Common)
 Gold RingGold Ring
+Attunable
 Slot: FINGER
-WT: 0.1 Size: TINY
+AC: 1
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 (Uncommon)

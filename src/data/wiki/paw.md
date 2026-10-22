@@ -1,5 +1,5 @@
 # Splitpaw_Lair (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-22
 
 Splitpaw Lair - EverQuest Legends Wiki
 Jump to content
@@ -237,11 +237,11 @@ DEX: +5 INT: +5
 WT: 1.0 Size: SMALL
 Class: NEC WIZ MAG ENC
 Race: ALL
-, A Split PawA Split Paw
-MAGIC ITEM QUEST ITEM
+, Split PawSplit Paw
+Quest
+Effect: Dance of the Fireflies (Charge Clicky, Casting Time: Instant)
 Charges: 5
-Effect: Dance of the Fireflies (Any Slot, Casting Time: Instant)
-WT: 0.0 Size: TINY
+Size: TINY WT: 0.0
 Class: ALL
 Race: ALL
 , Split Paw Hide GlovesSplit Paw Hide Gloves
@@ -828,17 +828,6 @@ Split Paw Hide Belt
 These guys surround the Executioner. They path through him on pull. Best to kill at their spawn points. |
 Items - Found 33 items that drop in Splitpaw Lair:
 Item Name | Drops From | Slot | Stats |
-A Split PawA Split Paw
-MAGIC ITEM QUEST ITEM
-Charges: 5
-Effect: Dance of the Fireflies (Any Slot, Casting Time: Instant)
-WT: 0.0 Size: TINY
-Class: ALL
-Race: ALL
-|
-a Rosch Val Gnoll, Nisch Val Torash Mashk |
-(None) |
-MAGIC ITEM QUEST ITEM Charges: 5 Effect: Dance of the Fireflies WT: 0.0 Size: TINY Class: ALL Race: ALL |
 Ancient Earthen VambracesAncient Earthen Vambraces
 Attunable Lore Equipped
 Slot: ARMS
@@ -1047,6 +1036,17 @@ Race: ALL
 The Ishva Mal |
 Feet |
 AC: 2 MANA: +10 DEX: +5 INT: +5 WT: 1.0 Size: SMALL Class: NEC WIZ MAG ENC Race: ALL |
+Split PawSplit Paw
+Quest
+Effect: Dance of the Fireflies (Charge Clicky, Casting Time: Instant)
+Charges: 5
+Size: TINY WT: 0.0
+Class: ALL
+Race: ALL
+|
+a Rosch Val Gnoll, Nisch Val Torash Mashk |
+(None) |
+Quest Effect: Dance of the Fireflies (Charge Clicky, Casting Time: Instant) Charges: 5 Size: TINY WT: 0.0 Class: ALL Race: ALL |
 Split Paw Hide BeltSplit Paw Hide Belt
 Attunable, Quest
 Slot: WAIST

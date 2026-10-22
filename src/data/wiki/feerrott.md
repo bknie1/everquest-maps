@@ -1,5 +1,5 @@
 # The_Feerrott (eqlwiki.com)
-fetched: 2026-10-21
+fetched: 2026-10-22
 
 The Feerrott - EverQuest Legends Wiki
 Jump to content
@@ -260,7 +260,7 @@ Warrior |
 Various |
 Giant Bat WingGiant Bat Wing
 Quest
-WT: 0.3 Size: SMALL
+Size: SMALL WT: 0.3
 Class: ALL
 Race: ALL
 , Bat WingBat Wing
@@ -270,7 +270,7 @@ Class: ALL
 Race: ALL
 , Giant Bat FurGiant Bat Fur
 Quest
-WT: 0.5 Size: MEDIUM
+Size: MEDIUM WT: 0.5
 Class: ALL
 Race: ALL
 |
@@ -379,14 +379,14 @@ Shaman |
 Various |
 Various |
 There are various kinds of lizard man mystics. In The Feerrott, there is a low level version of this monster in the ... |
-A lizard man scout
+A lizardman broodling
 |
-Lizard Man |
-Warrior |
-3 |
-100% @ (984, 2323), 100% @ (-956, -2626), 100% @ (-537, 2638), 100% @ (205, 2395), 100% @ (1261, 2286), 100% @ (-376, -2564), 100% @ (-844, -1276), 100% @ (-201, 1412), 100% @ (117, 2768), 100% @ (-362, -664), 100% @ (-209, 2635), 100% @ (-894, 1979), 100% @ (-730, 2267), 100% @ (-825, 2074), 100% @ (-930, 1531), 100% @ (-854, -1300), 100% @ (-842, -1300), 100% @ (-351, -638), 100% @ (368, 460), 100% @ (382, 469), 100% @ (894, -872), 100% @ (899, -854), 100% @ (877, -847), 100% @ (-380, -644) |
+|
+|
+1 |
+(565, 258), (667, 134), (1020, -2514) |
 Various |
-Description needed. |
+|
 A lizardman forager
 |
 Lizard Man |
@@ -400,17 +400,8 @@ A lizardman scout
 Lizard Man |
 Warrior |
 3 |
+100% @ (984, 2323), 100% @ (-956, -2626), 100% @ (-537, 2638), 100% @ (205, 2395), 100% @ (1261, 2286), 100% @ (-376, -2564), 100% @ (-844, -1276), 100% @ (-201, 1412), 100% @ (117, 2768), 100% @ (-362, -664), 100% @ (-209, 2635), 100% @ (-894, 1979), 100% @ (-730, 2267), 100% @ (-825, 2074), 100% @ (-930, 1531), 100% @ (-854, -1300), 100% @ (-842, -1300), 100% @ (-351, -638), 100% @ (368, 460), 100% @ (382, 469), 100% @ (894, -872), 100% @ (899, -854), 100% @ (877, -847), 100% @ (-380, -644) |
 Various |
-Lizard MeatLizard Meat
-Quest
-Size: SMALL WT: 1.0
-Class: ALL
-Race: ALL
-, Large Cloth Armor, Rusty Weapons, Lizardman Scout FifeLizardman Scout Fife
-WT: 0.1 Size: SMALL
-Class: ALL
-Race: ALL
-|
 Description needed. |
 A lizardman watcher
 |
@@ -718,7 +709,7 @@ Warrior |
 100% @ (-1444, 1055) |
 |
 Description needed. |
-Items - Found 27 items that drop in The Feerrott:
+Items - Found 38 items that drop in The Feerrott:
 Item Name | Drops From | Slot | Stats |
 A Crude SteinA Crude Stein
 MAGIC ITEM LORE ITEM
@@ -855,6 +846,15 @@ Race: ALLDMG Bonus: 17 @ lvl 50
 Cyndreela |
 1H Blunt |
 Atk Delay: 35 DMG: 5 WT: 6.0 Size: MEDIUM Class: ALL except NEC WIZ MAG ENC Race: ALL |
+Brown Lizard ScaleBrown Lizard Scale
+QUEST ITEM
+WT: 2.0 Size: MEDIUM
+Class: NONE
+Race: NONE
+|
+Various |
+(None) |
+QUEST ITEM WT: 2.0 Size: MEDIUM Class: NONE Race: NONE |
 Brown Lizard TalonBrown Lizard Talon
 Size: MEDIUM
 WT: 2.0
@@ -864,6 +864,24 @@ Race: None
 a lizardman broodling, a lizardman watcher |
 (None) |
 Size: MEDIUM WT: 2.0 Class: None Race: None |
+Dark Colored FungusDark Colored Fungus
+QUEST ITEM
+WT: 1.0 Size: SMALL
+Class: NONE
+Race: NONE
+|
+Various |
+(None) |
+QUEST ITEM WT: 1.0 Size: SMALL Class: NONE Race: NONE |
+Green Lizard ScaleGreen Lizard Scale
+QUEST ITEM
+WT: 2.0 Size: MEDIUM
+Class: NONE
+Race: NONE
+|
+Various |
+(None) |
+QUEST ITEM WT: 2.0 Size: MEDIUM Class: NONE Race: NONE |
 Green Lizard TalonGreen Lizard Talon
 Size: MEDIUM
 WT: 2.0
@@ -881,6 +899,15 @@ Race: ALL
 None? |
 (None) |
 Size: SMALL WT: 0.7 Class: ALL Race: ALL |
+Jungle Spider Poison SacJungle Spider Poison Sac
+NO DROP QUEST ITEM
+WT: 0.1 Size: SMALL
+Class: ALL
+Race: ALL
+|
+a jungle spider |
+(None) |
+NO DROP QUEST ITEM WT: 0.1 Size: SMALL Class: ALL Race: ALL |
 Light Colored FungusLight Colored Fungus
 Quest
 Size: SMALL
@@ -930,6 +957,23 @@ Race: ALLFocus Effect: Reanimation Efficiency I
 None? |
 Face |
 AC: 3 AGI: +5 SV MAGIC: +5 WT: 0.2 Size: SMALL Class: ALL Race: ALL |
+Long Lizard TailLong Lizard Tail
+WT: 2.0 Size: MEDIUM
+Class: NONE
+Race: NONE
+|
+a lizardman broodling, a lizardman scout, a lizardman warrior |
+(None) |
+WT: 2.0 Size: MEDIUM Class: NONE Race: NONE |
+Multi-Colored FungusMulti-Colored Fungus
+QUEST ITEM
+WT: 1.0 Size: SMALL
+Class: NONE
+Race: NONE
+|
+Various |
+(None) |
+QUEST ITEM WT: 1.0 Size: SMALL Class: NONE Race: NONE |
 Mystic DollMystic Doll
 NO DROP
 Slot: SECONDARY
@@ -950,6 +994,15 @@ Race: ALL
 None? |
 (None) |
 MAGIC ITEM LORE ITEM NO DROP WT: 1.0 Size: MEDIUM Class: ALL Race: ALL |
+Orange Lizard ScaleOrange Lizard Scale
+QUEST ITEM
+WT: 2.0 Size: MEDIUM
+Class: NONE
+Race: NONE
+|
+Various |
+(None) |
+QUEST ITEM WT: 2.0 Size: MEDIUM Class: NONE Race: NONE |
 Pristine Lizard TalonPristine Lizard Talon
 Quest
 Size: MEDIUM
@@ -973,6 +1026,23 @@ Race: ALL
 Aqaar Aluram, Eleann Morkul |
 Chest |
 AC: 1 CHA: -20 SV MAGIC: -15 SV FIRE: -15 SV COLD: -15 SV DISEASE: -15 SV POISON: -15 WT: 2.0 Size: MEDIUM Class: NEC WIZ MAG ENC Race: ALL |
+Short Lizard TailShort Lizard Tail
+WT: 2.0 Size: MEDIUM
+Class: NONE
+Race: NONE
+|
+a lizardman broodling, a lizardman watcher |
+(None) |
+WT: 2.0 Size: MEDIUM Class: NONE Race: NONE |
+Spider FangSpider Fang
+NO DROP QUEST ITEM
+WT: 0.1 Size: TINY
+Class: ALL
+Race: ALL
+|
+a jungle spider |
+(None) |
+NO DROP QUEST ITEM WT: 0.1 Size: TINY Class: ALL Race: ALL |
 Swollen FleshSwollen Flesh
 QUEST ITEM
 WT: 7.1 Size: SMALL
@@ -991,6 +1061,24 @@ Race: NONE
 an alligator |
 (None) |
 No Trade, Quest WT: 0.0 Size: TINY Class: NONE Race: NONE |
+White Lizard ScaleWhite Lizard Scale
+QUEST ITEM
+WT: 2.0 Size: MEDIUM
+Class: NONE
+Race: NONE
+|
+Various |
+(None) |
+QUEST ITEM WT: 2.0 Size: MEDIUM Class: NONE Race: NONE |
+Yellow Lizard ScaleYellow Lizard Scale
+QUEST ITEM
+WT: 2.0 Size: MEDIUM
+Class: NONE
+Race: NONE
+|
+Various |
+(None) |
+QUEST ITEM WT: 2.0 Size: MEDIUM Class: NONE Race: NONE |
 Retrieved from "https://eqlwiki.com/index.php?title=The_Feerrott&oldid=137974"
 Categories: Classic Era
 Zones

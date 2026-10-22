@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-10-21
+fetched: 2026-10-22
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -998,13 +998,13 @@ Ethereal Ruby (7-SotS)
 Spiroc Elder's Totem (5-SL)
 |
 EspriEspri
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade, Placeable
 Slot: PRIMARY
 Skill: 1H Slashing Atk Delay: 23
 DMG: 10
-DEX: +9 WIS: +9 MANA: +50
-Effect: Combust (Combat, Casting Time: Instant) at Level 45
-WT: 2.0 Size: MEDIUM
+WIS: +9 DEX: +9 MANA: +50
+Effect: Combust (Combat) at Level 45
+Size: MEDIUM WT: 2.0
 Class: DRU
 Race: ALLDMG Bonus: 11 @ lvl 50
 |
@@ -1950,7 +1950,7 @@ Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 43
 DMG: 36
 STR: +10 INT: +7
-Effect: Siphon (Combat, Casting Time: Instant) at Level 50
+Effect: Siphon (Combat) at Level 50
 Size: GIANT WT: 8.0
 Class: SHD
 Race: ALLDMG Bonus: 29 @ lvl 50
@@ -2660,13 +2660,13 @@ Shaman Plane of Sky Tests
 The Fiery Avenger
 |
 Fiery AvengerFiery Avenger
-MAGIC ITEM LORE ITEM NO DROP
+Lore Equipped, No Trade, Quest, QuestReward, Placeable
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 44
 DMG: 33
 STR: +15 CHA: +10 WIS: +15 HP: +25 MANA: +25
 SV FIRE: +5 SV DISEASE: +5 SV COLD: +5 SV MAGIC: +5 SV POISON: +5
-Effect: Flame Shock (Combat, Casting Time: Instant) at Level 45
+Effect: Flame Shock (Combat) at Level 45
 Effect: Virtuous Bash (Worn)
 WT: 0.1 Size: LARGE
 Class: PAL
@@ -4591,15 +4591,15 @@ AC: 15 STR: +5 SV FIRE: +10 WT: 2.0 Size: MEDIUM Skill: Shield Class: WAR CLR PA
 Efreeti War SpearEfreeti War Spear
 Lore Equipped, Attunable, Quest, Placeable
 Slot: PRIMARY
-Skill: Piercing Atk Delay: 40
-DMG: 15BACKSTAB: 15
-WT: 5.0 Size: MEDIUM
+Skill: 1H Piercing Atk Delay: 40
+DMG: 15 BACKSTAB: 15
+Size: MEDIUM WT: 5.0
 Class: WAR BRD ROG SHM BST
 Race: ALLDMG Bonus: 20 @ lvl 50
 |
 Noble Dojorn, Overseer of Air |
-Piercing |
-Atk Delay: 40 DMG: 15 WT: 5.0 Size: MEDIUM Class: WAR BRD ROG SHM BST Race: ALL |
+Primary |
+Skill: 1H Piercing Atk Delay: 40 DMG: 15 BACKSTAB: 15 Size: MEDIUM WT: 5.0 Class: WAR BRD ROG SHM BST Race: ALL |
 Efreeti War StaffEfreeti War Staff
 Lore Equipped, Attunable, Quest, Placeable
 Slot: Primary

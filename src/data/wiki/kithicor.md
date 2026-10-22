@@ -1,5 +1,5 @@
 # Kithicor_Forest (eqlwiki.com)
-fetched: 2026-10-20
+fetched: 2026-10-22
 
 Kithicor Forest - EverQuest Legends Wiki
 Jump to content
@@ -707,7 +707,7 @@ Warrior |
 Various |
 Giant Bat WingGiant Bat Wing
 Quest
-WT: 0.3 Size: SMALL
+Size: SMALL WT: 0.3
 Class: ALL
 Race: ALL
 , Bat WingBat Wing
@@ -717,7 +717,7 @@ Class: ALL
 Race: ALL
 , Giant Bat FurGiant Bat Fur
 Quest
-WT: 0.5 Size: MEDIUM
+Size: MEDIUM WT: 0.5
 Class: ALL
 Race: ALL
 |

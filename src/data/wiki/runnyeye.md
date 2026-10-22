@@ -1,5 +1,5 @@
 # Runnyeye_Citadel (eqlwiki.com)
-fetched: 2026-10-13
+fetched: 2026-10-22
 
 Runnyeye - EverQuest Legends Wiki
 Jump to content
@@ -1031,23 +1031,23 @@ Race: ALL
 Primary, Secondary |
 CHA: -9 HP: +15 MANA: +5 WT: 0.8 Size: SMALL Class: CLR DRU BRD SHM Race: ALL |
 Bottom of a Fractured RuneBottom of a Fractured Rune
-LORE ITEM
-WT: 0.1 Size: TINY
+Quest
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 an Evil Eye prisoner, An Evil Eye (Runnyeye) |
 (None) |
-LORE ITEM WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Quest Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Bunch of Optic NervesBunch of Optic Nerves
-MAGIC ITEM
-WT: 0.2 Size: SMALL
+Quest
+Size: SMALL WT: 0.2
 Class: ALL
 Race: ALL
 |
 an Evil Eye prisoner, an Evil Eye (Runnyeye) |
 (None) |
-MAGIC ITEM WT: 0.2 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.2 Class: ALL Race: ALL |
 Cat Skull CapCat Skull Cap
 MAGIC ITEM LORE ITEM NO DROP
 Slot: HEAD

@@ -1,5 +1,5 @@
 # Gorge_of_King_Xorbb (eqlwiki.com)
-fetched: 2026-10-20
+fetched: 2026-10-22
 
 Gorge of King Xorbb - EverQuest Legends Wiki
 Jump to content
@@ -345,8 +345,8 @@ WT: 0.4 Size: TINY
 Class: ALL
 Race: ALLFocus Effect: Affliction Efficiency I
 , Bunch of Optic NervesBunch of Optic Nerves
-MAGIC ITEM
-WT: 0.2 Size: SMALL
+Quest
+Size: SMALL WT: 0.2
 Class: ALL
 Race: ALL
 , Lens of Lord SoptyvrLens of Lord Soptyvr
@@ -447,14 +447,14 @@ Brahhm |
 Secondary |
 WT: 0.1 Size: SMALL Class: BRD Race: ALL |
 Bunch of Optic NervesBunch of Optic Nerves
-MAGIC ITEM
-WT: 0.2 Size: SMALL
+Quest
+Size: SMALL WT: 0.2
 Class: ALL
 Race: ALL
 |
 Various |
 (None) |
-MAGIC ITEM WT: 0.2 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.2 Class: ALL Race: ALL |
 Damaged AnnalsDamaged Annals
 MAGIC ITEM LORE ITEM NO DROP
 WT: 0.5 Size: TINY

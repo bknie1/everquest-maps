@@ -1,5 +1,5 @@
 # Oggok (eqlwiki.com)
-fetched: 2026-10-19
+fetched: 2026-10-22
 
 Oggok - EverQuest Legends Wiki
 Jump to content
@@ -299,11 +299,12 @@ Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , WarhammerWarhammer
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 32
 DMG: 6
-WT: 7.5 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC
+Size: MEDIUM WT: 7.5
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
 Race: ALLDMG Bonus: 16 @ lvl 50
 , Ringmail Armor |
 Clurg |

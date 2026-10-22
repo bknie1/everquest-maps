@@ -1,5 +1,5 @@
 # The_Warrens (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-22
 
 The Warrens - EverQuest Legends Wiki
 Jump to content
@@ -581,7 +581,7 @@ Class: ALL
 Race: ALL
 , Giant Bat FurGiant Bat Fur
 Quest
-WT: 0.5 Size: MEDIUM
+Size: MEDIUM WT: 0.5
 Class: ALL
 Race: ALL
 , Words of the ElementWords of the Element
@@ -590,7 +590,7 @@ Class: ALL
 Race: ALL
 , Giant Bat WingGiant Bat Wing
 Quest
-WT: 0.3 Size: SMALL
+Size: SMALL WT: 0.3
 Class: ALL
 Race: ALL
 |
@@ -637,7 +637,7 @@ Class: ALL
 Race: ALL
 , Giant Bat FurGiant Bat Fur
 Quest
-WT: 0.5 Size: MEDIUM
+Size: MEDIUM WT: 0.5
 Class: ALL
 Race: ALL
 , Words of the ElementWords of the Element
@@ -646,7 +646,7 @@ Class: ALL
 Race: ALL
 , Giant Bat WingGiant Bat Wing
 Quest
-WT: 0.3 Size: SMALL
+Size: SMALL WT: 0.3
 Class: ALL
 Race: ALL
 |
@@ -1675,20 +1675,20 @@ a greater shaman, High Shaman Drogik |
 Neck |
 Size: TINY Class: ALL Race: ALL |
 Packmaster's LashPackmaster's Lash
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 24
 DMG: 4 AC: 2
-Effect: Choke (Combat, Casting Time: Instant) at Level 20
 CHA: -4
 SV DISEASE: -3
-WT: 2.5 Size: SMALL
+Effect: Choking (Combat) at Level 20
+Size: SMALL WT: 2.5
 Class: WAR RNG SHD BRD ROG
 Race: ALLDMG Bonus: 12 @ lvl 50
 |
 Packmaster Dledsh |
 1H Slashing |
-Atk Delay: 24 DMG: 4 AC: 2 Effect: Choke (Combat, Casting Time: Instant) at Level 20 CHA: -4 SV DISEASE: -3 WT: 2.5 Size: SMALL Class: WAR RNG SHD BRD ROG Race: ALL |
+Atk Delay: 24 DMG: 4 AC: 2 CHA: -4 SV DISEASE: -3 Effect: Choking (Combat) at Level 20 Size: SMALL WT: 2.5 Class: WAR RNG SHD BRD ROG Race: ALL |
 Pit Fighter AnklewrapsPit Fighter Anklewraps
 Attunable
 Slot: FEET

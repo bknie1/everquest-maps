@@ -1,5 +1,5 @@
 # Temple_of_Solusek_Ro (eqlwiki.com)
-fetched: 2026-10-16
+fetched: 2026-10-22
 
 The Temple of Solusek Ro - EverQuest Legends Wiki
 Jump to content
@@ -793,7 +793,7 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , AshrootAshroot
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |

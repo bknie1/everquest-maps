@@ -1,5 +1,5 @@
 # Lower_Guk (eqlwiki.com)
-fetched: 2026-10-20
+fetched: 2026-10-22
 
 Lower Guk - EverQuest Legends Wiki
 Jump to content
@@ -110,11 +110,11 @@ Size: TINY WT: 0.1
 Class: ALL
 Race: ALLFocus Effect: Summoning Haste I
 , Adamantite EpauletsAdamantite Epaulets
-MAGIC ITEM
+Attunable
 Slot: SHOULDERS
 AC: 9
 WIS: +7
-WT: 4.5 Size: SMALL
+Size: SMALL WT: 4.5
 Class: WAR CLR PAL SHD BRD
 Race: ALL
 , Amethyst BraceletAmethyst Bracelet
@@ -251,10 +251,10 @@ Race: ALL
 Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 28
-DMG: 8 DMG Bonus: 13
+DMG: 8
 Size: MEDIUM WT: 4.5
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 , Executioner's AxeExecutioner's Axe
 Lore, Attunable
 Slot: PRIMARY
@@ -817,10 +817,10 @@ Race: ALL
 Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 28
-DMG: 8 DMG Bonus: 13
+DMG: 8
 Size: MEDIUM WT: 4.5
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 (Common) and Enameled Black ChestplateEnameled Black Chestplate
 MAGIC ITEM
 Slot: CHEST
@@ -830,11 +830,11 @@ Class: WAR CLR PAL SHD BRD
 Race: ALL
 (Rare)
 16. "Cavalier Room" with a ghoul cavalier who drops Adamantite EpauletsAdamantite Epaulets
-MAGIC ITEM
+Attunable
 Slot: SHOULDERS
 AC: 9
 WIS: +7
-WT: 4.5 Size: SMALL
+Size: SMALL WT: 4.5
 Class: WAR CLR PAL SHD BRD
 Race: ALL
 (Common) and Dark ReaverDark Reaver
@@ -1504,11 +1504,11 @@ Shadow Knight |
 36 |
 75% @ (578, -609, -192) |
 Adamantite EpauletsAdamantite Epaulets
-MAGIC ITEM
+Attunable
 Slot: SHOULDERS
 AC: 9
 WIS: +7
-WT: 4.5 Size: SMALL
+Size: SMALL WT: 4.5
 Class: WAR CLR PAL SHD BRD
 Race: ALL
 , Dark ReaverDark Reaver
@@ -1612,10 +1612,10 @@ Race: ALL
 Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 28
-DMG: 8 DMG Bonus: 13
+DMG: 8
 Size: MEDIUM WT: 4.5
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 The savant is on the middle level of the Dead Tower and spawns right next to the stairway leading down to the bottom lev... |
 A ghoul scribe
@@ -2015,7 +2015,7 @@ Class: CLR DRU BRD SHM NEC WIZ MAG ENC
 Race: ALL
 |
 The arch mage is an excellent hunt for high level casters in LGuk. PH is a jin ghoul wizard or [[a kor ghoul wizard]... |
-Items - Found 75 items that drop in Lower Guk:
+Items - Found 76 items that drop in Lower Guk:
 Item Name | Drops From | Slot | Stats |
 Adamantite BandAdamantite Band
 Attunable, Quest
@@ -2030,17 +2030,17 @@ a reanimated hand (Lower Guk) |
 Fingers |
 HP: +75 SV MAGIC: -10 Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Adamantite EpauletsAdamantite Epaulets
-MAGIC ITEM
+Attunable
 Slot: SHOULDERS
 AC: 9
 WIS: +7
-WT: 4.5 Size: SMALL
+Size: SMALL WT: 4.5
 Class: WAR CLR PAL SHD BRD
 Race: ALL
 |
 a ghoul cavalier |
 Shoulders |
-AC: 9 WIS: +7 WT: 4.5 Size: SMALL Class: WAR CLR PAL SHD BRD Race: ALL |
+AC: 9 WIS: +7 Size: SMALL WT: 4.5 Class: WAR CLR PAL SHD BRD Race: ALL |
 Amethyst BraceletAmethyst Bracelet
 MAGIC ITEM
 Slot: WRIST
@@ -2138,14 +2138,14 @@ Slaythe the Slayer |
 (None) |
 LORE ITEM NO DROP WT: 0.6 Size: SMALL Class: ALL Race: ALL |
 Bunch of Optic NervesBunch of Optic Nerves
-MAGIC ITEM
-WT: 0.2 Size: SMALL
+Quest
+Size: SMALL WT: 0.2
 Class: ALL
 Race: ALL
 |
 An Evil Eye (Lower Guk) |
 (None) |
-MAGIC ITEM WT: 0.2 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 0.2 Class: ALL Race: ALL |
 Carved Ivory MaskCarved Ivory Mask
 MAGIC ITEM
 Slot: FACE
@@ -2259,14 +2259,14 @@ Enameled Black MaceEnameled Black Mace
 Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 28
-DMG: 8 DMG Bonus: 13
+DMG: 8
 Size: MEDIUM WT: 4.5
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
-Race: ALL
+Race: ALLDMG Bonus: 14 @ lvl 50
 |
 a ghoul savant |
 1H Blunt |
-Atk Delay: 28 DMG: 8 DMG Bonus: 13 Size: MEDIUM WT: 4.5 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST Race: ALL |
+Atk Delay: 28 DMG: 8 Size: MEDIUM WT: 4.5 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST Race: ALL |
 Executioner's AxeExecutioner's Axe
 Lore, Attunable
 Slot: PRIMARY
@@ -2540,6 +2540,14 @@ Race: ALL
 a froglok shin warrior |
 Chest |
 AC: 8 WT: 0.5 Size: MEDIUM Class: ALL except NEC WIZ MAG ENC Race: ALL |
+Minotaur BloodMinotaur Blood
+Size: TINY
+Class: ALL
+Race: ALL
+|
+a minotaur elder |
+(None) |
+Size: TINY Class: ALL Race: ALL |
 Mithril-Runed TunicMithril-Runed Tunic
 MAGIC ITEM
 Slot: CHEST

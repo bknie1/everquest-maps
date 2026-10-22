@@ -1,5 +1,5 @@
 # Ocean_of_Tears (eqlwiki.com)
-fetched: 2026-10-20
+fetched: 2026-10-22
 
 Ocean of Tears - EverQuest Legends Wiki
 Jump to content
@@ -1352,13 +1352,14 @@ Antinime, Sister of Erollisi |
 (None) |
 MAGIC ITEM WT: 0.1 Size: TINY Class: ALL Race: ALL |
 Fire Giant ToesFire Giant Toes
-WT: 1.5 Size: SMALL
+Quest
+Size: SMALL WT: 1.5
 Class: ALL
 Race: ALL
 |
 Gornit |
 (None) |
-WT: 1.5 Size: SMALL Class: ALL Race: ALL |
+Quest Size: SMALL WT: 1.5 Class: ALL Race: ALL |
 Globe of FearGlobe of Fear
 Quest, Placeable
 Slot: PRIMARY SECONDARY

@@ -1,5 +1,5 @@
 # Rathe_Mountains (eqlwiki.com)
-fetched: 2026-10-21
+fetched: 2026-10-22
 
 Rathe Mountains - EverQuest Legends Wiki
 Jump to content
@@ -1896,7 +1896,7 @@ Merchant |
 |
 This NPC has a quest to accept Phosphorous Powder for money and improvement to several Gukta factions.
 Quest tur... |
-Items - Found 48 items that drop in Rathe Mountains:
+Items - Found 49 items that drop in Rathe Mountains:
 Item Name | Drops From | Slot | Stats |
 A skeletal fingerA skeletal finger
 MAGIC ITEM LORE ITEM NO DROP
@@ -2316,6 +2316,15 @@ Race: ALL
 Rharzar, Shardwing |
 Ammo |
 DMG: 12 WT: 0.5 Range: 100 Size: SMALL Class: WAR PAL RNG SHD ROG Race: ALL |
+Sickly Maiden's HairSickly Maiden's Hair
+NO DROP QUEST ITEM
+WT: 0.2 Size: TINY
+Class: ALL
+Race: ALL
+|
+None? |
+(None) |
+NO DROP QUEST ITEM WT: 0.2 Size: TINY Class: ALL Race: ALL |
 Siryn Hair HoodSiryn Hair Hood
 MAGIC ITEM
 Slot: HEAD

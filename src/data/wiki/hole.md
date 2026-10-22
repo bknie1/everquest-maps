@@ -1,5 +1,5 @@
 # The_Hole (eqlwiki.com)
-fetched: 2026-10-19
+fetched: 2026-10-22
 
 The Hole - EverQuest Legends Wiki
 Jump to content
@@ -114,10 +114,10 @@ Size: MEDIUM WT: 4.0
 Class: WAR PAL RNG SHD ROG
 Race: ALL
 , Cracked Paineel ShieldCracked Paineel Shield
-MAGIC ITEM
-Slot: SECONDARY
+Attunable, Placeable
+Slot: SECONDARY Type: Shield
 AC: 2
-WT: 2.5 Size: MEDIUM
+Size: MEDIUM WT: 2.5
 Class: WAR CLR PAL RNG SHD MNK BRD ROG SHM
 Race: ALL
 , Dirt of UnderfootDirt of Underfoot
@@ -156,7 +156,7 @@ WT: 0.2 Size: SMALL
 Class: ALL
 Race: ALL
 , Fiery Jewel of the UnderfootFiery Jewel of the Underfoot
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: NONE
 Race: NONE
 , Living Heart of a Brell MinionLiving Heart of a Brell Minion
@@ -204,11 +204,11 @@ WT: 5.5 Size: LARGE
 Class: WAR CLR PAL RNG SHD BRD SHM
 Race: ALL
 , Paineel Steel Armor, Ruined Heretic LongswordRuined Heretic Longsword
-Lore
+Lore Equipped, Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 30
 DMG: 2
-WT: 3.0 Size: MEDIUM
+Size: MEDIUM WT: 3.0
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST
 Race: ALLDMG Bonus: 15 @ lvl 50
 , Smoldering BrandSmoldering Brand
@@ -625,12 +625,12 @@ Wizard |
 49 |
 Various |
 Loam Encrusted SleevesLoam Encrusted Sleeves
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable
 Slot: ARMS
 AC: 4
 INT: +5 MANA: +5
 SV FIRE: +10
-WT: 0.4 Size: SMALL
+Size: SMALL WT: 0.4
 Class: NEC WIZ MAG ENC
 Race: ALL
 , Loam Encrusted VeilLoam Encrusted Veil
@@ -659,11 +659,11 @@ Shadow Knight |
 53 |
 50% @ (641, 535), (703, 556) |
 Withered Leather SkullcapWithered Leather Skullcap
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable
 Slot: HEAD
 AC: 6
 STR: +3 WIS: +2 MANA: +20
-WT: 0.6 Size: SMALL
+Size: SMALL WT: 0.6
 Class: CLR DRU SHM BST
 Race: ALL
 |
@@ -886,11 +886,11 @@ Rogue |
 49-50 |
 Various |
 Loam Encrusted BraceletLoam Encrusted Bracelet
-MAGIC ITEM
+Attunable
 Slot: WRIST
 AC: 3
-CHA: +3 INT: +3 MANA: +15
-WT: 0.3 Size: SMALL
+INT: +3 CHA: +3 MANA: +15
+Size: SMALL WT: 0.3
 Class: NEC WIZ MAG ENC
 Race: ALL
 |
@@ -1169,16 +1169,16 @@ a mimic |
 (None) |
 MAGIC ITEM LORE ITEM NO DROP WT: 0.0 Size: SMALL Class: NONE Race: NONE |
 Cracked Paineel ShieldCracked Paineel Shield
-MAGIC ITEM
-Slot: SECONDARY
+Attunable, Placeable
+Slot: SECONDARY Type: Shield
 AC: 2
-WT: 2.5 Size: MEDIUM
+Size: MEDIUM WT: 2.5
 Class: WAR CLR PAL RNG SHD MNK BRD ROG SHM
 Race: ALL
 |
 a revenant, a wanderer |
-Secondary |
-AC: 2 WT: 2.5 Size: MEDIUM Class: WAR CLR PAL RNG SHD MNK BRD ROG SHM Race: ALL |
+Secondary, [[:Category:|]], Type:, Shield |
+AC: 2 Size: MEDIUM WT: 2.5 Class: WAR CLR PAL RNG SHD MNK BRD ROG SHM Race: ALL |
 Drop of MercuryDrop of Mercury
 Quest
 Size: TINY WT: 0.1
@@ -1265,7 +1265,7 @@ Slot: NECK
 AC: 4
 STR: +5 STA: +5 DEX: -2
 SV Fire: +2
-Effect: Illusion: Earth Elemental (Can Equip, Cast Time: Instant) at Level 30
+Effect: Illusion: Earth Elemental (Charge Clicky, Can Equip, Casting Time: Instant) at Level 30
 Charges: 2
 Size: MEDIUM WT: 1.0
 Class: ALL
@@ -1273,7 +1273,7 @@ Race: ALL
 |
 Retseth Tretse |
 Neck |
-AC: 4 STR: +5 STA: +5 DEX: -2 SV Fire: +2 Effect: Illusion: Earth Elemental (Can Equip, Cast Time: Instant) at Level 30 Charges: 2 Size: MEDIUM WT: 1.0 Class: ALL Race: ALL |
+AC: 4 STR: +5 STA: +5 DEX: -2 SV Fire: +2 Effect: Illusion: Earth Elemental (Charge Clicky, Can Equip, Casting Time: Instant) at Level 30 Charges: 2 Size: MEDIUM WT: 1.0 Class: ALL Race: ALL |
 Essence of a GhostEssence of a Ghost
 MAGIC ITEM LORE ITEM NO DROP
 WT: 1.0 Size: SMALL
@@ -1309,15 +1309,15 @@ Race: NONE
 Mummy of Glohnor |
 (None) |
 MAGIC ITEM LORE ITEM NO DROP WT: 0.2 Size: MEDIUM Class: NONE Race: NONE |
-Gold lined heretic cloakGold lined heretic cloak
-MAGIC ITEM LORE ITEM NO DROP
-WT: 0.1 Size: SMALL
+Gold Lined Heretic CloakGold Lined Heretic Cloak
+No Trade
+Size: SMALL WT: 0.1
 Class: NONE
 Race: NONE
 |
 a revenant, a wanderer |
 (None) |
-MAGIC ITEM LORE ITEM NO DROP WT: 0.1 Size: SMALL Class: NONE Race: NONE |
+No Trade Size: SMALL WT: 0.1 Class: NONE Race: NONE |
 Head of GlohnorHead of Glohnor
 MAGIC ITEM LORE ITEM NO DROP
 WT: 0.1 Size: SMALL
@@ -1404,17 +1404,17 @@ Various |
 Shoulders |
 AC: 4 INT: +3 AGI: +8 MANA: +10 SV FIRE: +2 SV DISEASE: +2 SV COLD: +2 SV MAGIC: +2 SV POISON: +2 WT: 0.3 Size: SMALL Class: NEC WIZ MAG ENC Race: ALL |
 Loam Encrusted BraceletLoam Encrusted Bracelet
-MAGIC ITEM
+Attunable
 Slot: WRIST
 AC: 3
-CHA: +3 INT: +3 MANA: +15
-WT: 0.3 Size: SMALL
+INT: +3 CHA: +3 MANA: +15
+Size: SMALL WT: 0.3
 Class: NEC WIZ MAG ENC
 Race: ALL
 |
 muck covered elemental |
 Wrist |
-AC: 3 CHA: +3 INT: +3 MANA: +15 WT: 0.3 Size: SMALL Class: NEC WIZ MAG ENC Race: ALL |
+AC: 3 INT: +3 CHA: +3 MANA: +15 Size: SMALL WT: 0.3 Class: NEC WIZ MAG ENC Race: ALL |
 Loam Encrusted CapLoam Encrusted Cap
 MAGIC ITEM LORE ITEM
 Slot: HEAD
@@ -1519,18 +1519,18 @@ Gibartik |
 Waist |
 AC: 4 STR: +8 MANA: +10 SV FIRE: +5 SV MAGIC: +5 WT: 0.2 Size: SMALL Class: NEC WIZ MAG ENC Race: ALL |
 Loam Encrusted SleevesLoam Encrusted Sleeves
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable
 Slot: ARMS
 AC: 4
 INT: +5 MANA: +5
 SV FIRE: +10
-WT: 0.4 Size: SMALL
+Size: SMALL WT: 0.4
 Class: NEC WIZ MAG ENC
 Race: ALL
 |
 Bejeweled Elemental |
 Arms |
-AC: 4 INT: +5 MANA: +5 SV FIRE: +10 WT: 0.4 Size: SMALL Class: NEC WIZ MAG ENC Race: ALL |
+AC: 4 INT: +5 MANA: +5 SV FIRE: +10 Size: SMALL WT: 0.4 Class: NEC WIZ MAG ENC Race: ALL |
 Loam Encrusted VeilLoam Encrusted Veil
 MAGIC ITEM LORE ITEM
 Slot: FACE
@@ -1656,17 +1656,17 @@ Nortlav the Scalekeeper (Fear/Hate 2.0 Era) |
 (None) |
 Attunable, Quest Size: MEDIUM WT: 2.5 Class: ALL Race: ALL |
 Ruined Heretic LongswordRuined Heretic Longsword
-Lore
+Lore Equipped, Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 30
 DMG: 2
-WT: 3.0 Size: MEDIUM
+Size: MEDIUM WT: 3.0
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST
 Race: ALLDMG Bonus: 15 @ lvl 50
 |
 a revenant, a wanderer |
 1H Slashing |
-Atk Delay: 30 DMG: 2 WT: 3.0 Size: MEDIUM Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST Race: ALL |
+Atk Delay: 30 DMG: 2 Size: MEDIUM WT: 3.0 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST Race: ALL |
 Ruined Sword HiltRuined Sword Hilt
 MAGIC ITEM NO DROP
 WT: 0.0 Size: SMALL
@@ -1868,17 +1868,17 @@ a revenant, a wanderer |
 Shoulders |
 AC: 4 STR: +5 STA: +5 MANA: +15 SV FIRE: +3 SV DISEASE: +3 SV COLD: +3 SV MAGIC: +3 SV POISON: +3 WT: 1.5 Size: SMALL Class: CLR DRU SHM BST Race: ALL |
 Withered Leather SkullcapWithered Leather Skullcap
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable
 Slot: HEAD
 AC: 6
 STR: +3 WIS: +2 MANA: +20
-WT: 0.6 Size: SMALL
+Size: SMALL WT: 0.6
 Class: CLR DRU SHM BST
 Race: ALL
 |
 Commander Yarik |
 Head |
-AC: 6 STR: +3 WIS: +2 MANA: +20 WT: 0.6 Size: SMALL Class: CLR DRU SHM BST Race: ALL |
+AC: 6 STR: +3 WIS: +2 MANA: +20 Size: SMALL WT: 0.6 Class: CLR DRU SHM BST Race: ALL |
 Withered Leather SleevesWithered Leather Sleeves
 MAGIC ITEM LORE ITEM
 Slot: ARMS

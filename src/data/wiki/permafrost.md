@@ -1,5 +1,5 @@
 # Permafrost_Keep (eqlwiki.com)
-fetched: 2026-10-20
+fetched: 2026-10-22
 
 Permafrost - EverQuest Legends Wiki
 Jump to content
@@ -1539,7 +1539,7 @@ Race: ALL
 , McVaxius` Horn of WarMcVaxius` Horn of War
 Lore Equipped, Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
-DEX: +9 CHA: +15 INT: +9
+INT: +9 DEX: +9 CHA: +15
 Size: SMALL WT: 0.6
 Class: ALL
 Race: ALLFocus Effect: Brass Resonance 14
@@ -1547,7 +1547,7 @@ Race: ALLFocus Effect: Brass Resonance 14
 Attunable
 Slot: WAIST
 AC: 5
-STR: +10 DEX: +10 STA: +10
+STR: +10 STA: +10 DEX: +10
 Haste: +31%
 Size: SMALL WT: 0.1
 Class: ALL

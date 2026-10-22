@@ -1,5 +1,5 @@
 # Steamfont_Mountains (eqlwiki.com)
-fetched: 2026-10-19
+fetched: 2026-10-22
 
 Steamfont Mountains - EverQuest Legends Wiki
 Jump to content
@@ -1249,7 +1249,7 @@ Wizard |
 (-1788, 723) |
 * Gnome Meat |
 This guy stands rather close to the spawn point of the Cargo Clockwork and often gives it a minimal DS. He's a wizard, o... |
-Items - Found 61 items that drop in Steamfont Mountains:
+Items - Found 62 items that drop in Steamfont Mountains:
 Item Name | Drops From | Slot | Stats |
 Berinsans ShirtBerinsans Shirt
 MAGIC ITEM LORE ITEM NO DROP
@@ -1543,6 +1543,14 @@ Race: ALL
 rogue clockwork, runaway clockwork |
 (None) |
 No Trade WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Minotaur BloodMinotaur Blood
+Size: TINY
+Class: ALL
+Race: ALL
+|
+a minotaur slaver, Minotaur Guard |
+(None) |
+Size: TINY Class: ALL Race: ALL |
 Minotaur Hero ShacklesMinotaur Hero Shackles
 Lore Equipped, No Trade, Quest
 Slot: WRIST

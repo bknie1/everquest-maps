@@ -1,5 +1,5 @@
 # Castle_Mistmoore (eqlwiki.com)
-fetched: 2026-10-20
+fetched: 2026-10-22
 
 Mistmoore Castle - EverQuest Legends Wiki
 Jump to content
@@ -916,8 +916,10 @@ Wizard |
 34 |
 100% @ (41, -9) |
 Gold RingGold Ring
+Attunable
 Slot: FINGER
-WT: 0.1 Size: TINY
+AC: 1
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -1152,8 +1154,10 @@ Size: LARGE WT: 6.8
 Class: WAR RNG SHD BRD ROG SHM BST
 Race: ALLDMG Bonus: 13 @ lvl 50
 , Gold RingGold Ring
+Attunable
 Slot: FINGER
-WT: 0.1 Size: TINY
+AC: 1
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , JadeJade
@@ -2076,13 +2080,13 @@ Various |
 MAGIC ITEM QUEST ITEM WT: 0.1 Size: TINY Class: ALL Race: ALL |
 Familiar RingFamiliar Ring
 Quest
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: None
 Race: None
 |
 an initiate familiar |
 (None) |
-Quest WT: 0.1 Size: SMALL Class: None Race: None |
+Quest Size: SMALL WT: 0.1 Class: None Race: None |
 Fleeting MemoryFleeting Memory
 Attunable
 Slot: AMMO

@@ -1,5 +1,5 @@
 # Neriak_Foreign_Quarter (eqlwiki.com)
-fetched: 2026-10-16
+fetched: 2026-10-22
 
 Neriak - EverQuest Legends Wiki
 Jump to content
@@ -2678,11 +2678,12 @@ GM Cleric |
 61 |
 (408, -789) |
 Great StaffGreat Staff
+Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 38
 DMG: 9
-WT: 10.0 Size: LARGE
-Class: ALL except BRD ROG
+Size: LARGE WT: 10.0
+Class: WAR CLR PAL RNG SHD DRU MNK SHM NEC WIZ MAG ENC BST BER
 Race: ALLDMG Bonus: 26 @ lvl 50
 |
 Leader of the Priests of Innoruuk and Cleric GM. Loyal to the Dark Elf King Naythox Thex. |
@@ -2814,11 +2815,12 @@ GM Cleric |
 61 |
 (414, -810) |
 Great StaffGreat Staff
+Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 38
 DMG: 9
-WT: 10.0 Size: LARGE
-Class: ALL except BRD ROG
+Size: LARGE WT: 10.0
+Class: WAR CLR PAL RNG SHD DRU MNK SHM NEC WIZ MAG ENC BST BER
 Race: ALLDMG Bonus: 26 @ lvl 50
 |
 Description needed. |
@@ -2905,16 +2907,17 @@ Lokar To`Biath |
 (None) |
 Quest Size: MEDIUM WT: 2.0 Class: ALL Race: ALL |
 Great StaffGreat Staff
+Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 38
 DMG: 9
-WT: 10.0 Size: LARGE
-Class: ALL except BRD ROG
+Size: LARGE WT: 10.0
+Class: WAR CLR PAL RNG SHD DRU MNK SHM NEC WIZ MAG ENC BST BER
 Race: ALLDMG Bonus: 26 @ lvl 50
 |
 Perrir Zexus |
 2H Blunt |
-Atk Delay: 38 DMG: 9 WT: 10.0 Size: LARGE Class: ALL except BRD ROG Race: ALL |
+Atk Delay: 38 DMG: 9 Size: LARGE WT: 10.0 Class: WAR CLR PAL RNG SHD DRU MNK SHM NEC WIZ MAG ENC BST BER Race: ALL |
 Happy Love BracersHappy Love Bracers
 LORE ITEM NO DROP
 Slot: WRIST

@@ -1,5 +1,5 @@
 # Grobb (eqlwiki.com)
-fetched: 2026-10-20
+fetched: 2026-10-22
 
 Grobb - EverQuest Legends Wiki
 Jump to content
@@ -1167,11 +1167,12 @@ Cleric |
 40 |
 100% @ (-58, -428) |
 Great StaffGreat Staff
+Attunable, Placeable
 Slot: PRIMARY
 Skill: 2H Blunt Atk Delay: 38
 DMG: 9
-WT: 10.0 Size: LARGE
-Class: ALL except BRD ROG
+Size: LARGE WT: 10.0
+Class: WAR CLR PAL RNG SHD DRU MNK SHM NEC WIZ MAG ENC BST BER
 Race: ALLDMG Bonus: 26 @ lvl 50
 |
 Sister of Perrir Zexus, leader of the Priests of Innoruuk. |
