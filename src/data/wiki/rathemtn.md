@@ -1,5 +1,5 @@
 # Rathe_Mountains (eqlwiki.com)
-fetched: 2026-10-22
+fetched: 2026-10-23
 
 Rathe Mountains - EverQuest Legends Wiki
 Jump to content
@@ -1896,7 +1896,7 @@ Merchant |
 |
 This NPC has a quest to accept Phosphorous Powder for money and improvement to several Gukta factions.
 Quest tur... |
-Items - Found 49 items that drop in Rathe Mountains:
+Items - Found 50 items that drop in Rathe Mountains:
 Item Name | Drops From | Slot | Stats |
 A skeletal fingerA skeletal finger
 MAGIC ITEM LORE ITEM NO DROP
@@ -2368,6 +2368,14 @@ Race: ALL
 Mortificator Syythrak |
 Chest |
 AC: 10 STR: +5 DEX: +5 STA: +5 WT: 0.0 Size: SMALL Class: MNK Race: ALL |
+Tuft of Black Bear FurTuft of Black Bear Fur
+Size: TINY WT: 0.1
+Class: ALL
+Race: ALL
+|
+None? |
+(None) |
+Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Warbone ChipsWarbone Chips
 Quest
 Size: SMALL WT: 0.1

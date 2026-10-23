@@ -1,5 +1,5 @@
 # Runnyeye_Citadel (eqlwiki.com)
-fetched: 2026-10-22
+fetched: 2026-10-23
 
 Runnyeye - EverQuest Legends Wiki
 Jump to content
@@ -616,13 +616,14 @@ This is a meal.
 WT: 1.0 Size: SMALL
 Class: ALL
 Race: ALL
-,
-|
-Notice: This article is being considered for deletion.
-Please add comments or information below, as to whether this page applies to EverQuest Legends and should be kept or not.
-Feel free to edit the article, but please do not blank it or remove this notice.
-|
-no longer relevent, Rusty SpearRusty Spear
+, Small Cloth ChokerSmall Cloth Choker
+Attunable
+Slot: NECK
+AC: 1
+Size: SMALL WT: 0.2
+Class: ALL
+Race: ALL
+, Rusty SpearRusty Spear
 Attunable, Quest, Placeable
 Slot: PRIMARY
 Skill: 1H Piercing Atk Delay: 38

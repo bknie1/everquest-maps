@@ -1,5 +1,5 @@
 # Temple_of_Solusek_Ro (eqlwiki.com)
-fetched: 2026-10-22
+fetched: 2026-10-23
 
 The Temple of Solusek Ro - EverQuest Legends Wiki
 Jump to content
@@ -1139,7 +1139,7 @@ Class: BRD
 Race: ALLFocus Effect: Wind Resonance 11
 |
 Description needed. |
-Items - Found 8 items that drop in Temple of Solusek Ro:
+Items - Found 9 items that drop in Temple of Solusek Ro:
 Item Name | Drops From | Slot | Stats |
 Blood Soaked Plasmatic Priest RobeBlood Soaked Plasmatic Priest Robe
 MAGIC ITEM LORE ITEM
@@ -1201,6 +1201,15 @@ Race: ALL
 None? |
 (None) |
 MAGIC ITEM Charges: 4 Effect: Flame Arc WT: 1.0 Size: SMALL Class: ALL Race: ALL |
+Ordination of MightOrdination of Might
+No Trade, Quest
+Size: TINY WT: 0.1
+Class: None
+Race: None
+|
+None? |
+(None) |
+No Trade, Quest Size: TINY WT: 0.1 Class: None Race: None |
 Robe of the KeeperRobe of the Keeper
 MAGIC ITEM QUEST ITEM
 Slot: CHEST

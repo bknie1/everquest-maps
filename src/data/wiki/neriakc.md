@@ -1,5 +1,5 @@
 # Neriak_Third_Gate (eqlwiki.com)
-fetched: 2026-10-22
+fetched: 2026-10-23
 
 Neriak - EverQuest Legends Wiki
 Jump to content
@@ -1888,7 +1888,7 @@ Merchant |
 (82, -901)Upstairs of Forge House |
 |
 Dark elf merchant specializing in jewelcraft supplies. Located upstairs in the Forge House. As ... |
-Items - Found 3 items that drop in Neriak Commons:
+Items - Found 4 items that drop in Neriak Commons:
 Item Name | Drops From | Slot | Stats |
 Dabner's Staff of RecallDabner's Staff of Recall
 MAGIC ITEM LORE ITEM NO DROP
@@ -1904,6 +1904,15 @@ Race: ALLDMG Bonus: 11 @ lvl 50
 Vorshar the Despised |
 1H Blunt |
 Atk Delay: 22 DMG: 7 WIS: +8 MANA: +50 Effect: Gate (Casting Time: 20.0) at Level 5 WT: 1.0 Size: MEDIUM Class: CLR DRU SHM Race: ALL |
+Exorbitant CommissionExorbitant Commission
+No Trade, Quest
+Size: TINY WT: 0.1
+Class: None
+Race: None
+|
+None? |
+(None) |
+No Trade, Quest Size: TINY WT: 0.1 Class: None Race: None |
 Head of a Halfling SpyHead of a Halfling Spy
 LORE ITEM NO DROP
 WT: 0.8 Size: SMALL

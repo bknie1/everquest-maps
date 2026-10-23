@@ -1,5 +1,5 @@
 # Nektulos_Forest (eqlwiki.com)
-fetched: 2026-10-22
+fetched: 2026-10-23
 
 Nektulos Forest - EverQuest Legends Wiki
 Jump to content
@@ -173,7 +173,7 @@ Start Zone: |
 Necromancer |
 Various |
 Various |
-NPCs - Found 86 NPCs that spawn in Nektulos Forest:
+NPCs - Found 92 NPCs that spawn in Nektulos Forest:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Black Bear
 |
@@ -255,6 +255,14 @@ Class: ALL except MNK NEC WIZ MAG ENC
 Race: ALL
 |
 Description needed. |
+A Deathfist Templar
+|
+|
+|
+8-9 |
+(-73, -1), (-538, 746) |
+Various |
+|
 A Decaying Skeleton
 |
 Undead |
@@ -443,9 +451,19 @@ A giant widow
 Warrior |
 10-14 |
 Various |
-Spider SilkSpider Silk
+Spider LegsSpider Legs
+Quest
+Size: SMALL WT: 0.5
+Class: ALL
+Race: ALL
+, Spider SilkSpider Silk
 Quest
 Size: SMALL WT: 0.1
+Class: ALL
+Race: ALL
+, Spider Venom SacSpider Venom Sac
+Quest
+Size: SMALL WT: 0.2
 Class: ALL
 Race: ALL
 |
@@ -483,26 +501,12 @@ Race: ALL
 Found wandering Butcherblock Mountains between the crossroads and the Greater Faydark zoneline - has a guarantee... |
 A pyre beetle
 |
-Beetle |
-Warrior |
-2 |
-Various |
-Fire Beetle EyeFire Beetle Eye
-Quest, Placeable
-Slot: PRIMARY SECONDARY
-WT: 0.2 Size: TINY
-Class: ALL
-Race: ALL
-, Fire Beetle LegFire Beetle Leg
-WT: 0.1 Size: SMALL
-Class: ALL
-Race: ALL
-, Fire Beetle CarapaceFire Beetle Carapace
-WT: 0.2 Size: SMALL
-Class: ALL
-Race: ALL
 |
-Added in Mar2002 update to Nektulos[https://web.archive.org/web/20020421200608/http://eqbeastiary.allakhazam.com:80/sear... |
+|
+|
+|
+|
+|
 A shadow wolf
 |
 Animal |
@@ -608,12 +612,28 @@ Class: ALL
 Race: ALL
 |
 Added with Mar2002 revamp of Nektulos[https://web.archive.org/web/20020612014439/http://eqbeastiary.allakhazam.com:80/se... |
+An arcane elementalist
+|
+|
+|
+5-7 |
+(679, -671), (459, -991) |
+Various |
+|
 An arcane incantator
 |
 |
 |
 2-4 |
 (658, -911), (591, -526) |
+Various |
+|
+An arcane shapeshifter
+|
+|
+|
+5-10 |
+(412, -508), (277, -930) |
 Various |
 |
 Bink
@@ -970,6 +990,30 @@ Warrior |
 See Discussion |
 None |
 Description needed. |
+High Chief Deroslan
+|
+|
+|
+12 |
+(-476, 756) |
+Various |
+|
+High Chief Ferilsars
+|
+|
+|
+12 |
+(-167, -471) |
+Various |
+|
+High Chief Wasolors
+|
+|
+|
+12 |
+(-1782, 1216) |
+Various |
+a rare spawn at the southern orc camp in Nektulos Forest. |
 Himmel
 |
 Halfling |
@@ -1075,7 +1119,7 @@ Halfling |
 Rogue |
 10 |
 11% @ (1016, 560) |
-? |
+Various |
 One of the group of halflings in Nek Forest. |
 Leatherfoot Corporal
 |
@@ -1083,9 +1127,7 @@ Halfling |
 Druid |
 3 |
 ~(1000, 500) |
-* Woven Grass Amulet
-Rusty Two Handed Hammer
-|
+Various |
 One of the group of halflings in Nek Forest. |
 Leatherfoot Deputy
 |
@@ -1315,7 +1357,7 @@ Vol T`Vke
 (2338, -803) |
 |
 |
-Items - Found 34 items that drop in Nektulos Forest:
+Items - Found 40 items that drop in Nektulos Forest:
 Item Name | Drops From | Slot | Stats |
 Basilisk EggBasilisk Egg
 QUEST ITEM
@@ -1335,6 +1377,33 @@ Race: ALL
 None? |
 (None) |
 QUEST ITEM WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Chief Deroslan's Prayer BeadsChief Deroslan's Prayer Beads
+No Trade, Quest
+Size: TINY WT: 0.4
+Class: NONE
+Race: NONE
+|
+High Chief Deroslan |
+(None) |
+No Trade, Quest Size: TINY WT: 0.4 Class: NONE Race: NONE |
+Chief Ferilsars' Prayer BeadsChief Ferilsars' Prayer Beads
+No Trade, Quest
+Size: TINY WT: 0.4
+Class: NONE
+Race: NONE
+|
+High Chief Ferilsars |
+(None) |
+No Trade, Quest Size: TINY WT: 0.4 Class: NONE Race: NONE |
+Chief Wasolors' Prayer BeadsChief Wasolors' Prayer Beads
+No Trade, Quest
+Size: TINY WT: 0.4
+Class: NONE
+Race: NONE
+|
+High Chief Wasolors |
+(None) |
+No Trade, Quest Size: TINY WT: 0.4 Class: NONE Race: NONE |
 Eye of ShadowEye of Shadow
 MAGIC ITEM LORE ITEM TEMPORARY
 EXPENDABLE Charges: 1
@@ -1352,6 +1421,15 @@ WT: 0.1 Size: TINY
 Various |
 (None) |
 WT: 0.1 Size: TINY |
+Halfling BloodHalfling Blood
+No Trade
+Size: TINY WT: 0.1
+Class: ALL
+Race: ALL
+|
+Various |
+(None) |
+No Trade Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Halfling Druid Master's HeadHalfling Druid Master's Head
 No Trade, Quest
 Size: SMALL WT: 0.7
@@ -1448,6 +1526,15 @@ Race: ALL
 orc runner |
 (None) |
 LORE ITEM NO DROP WT: 2.5 Size: MEDIUM Class: ALL Race: ALL |
+Sample of Halfling MeatSample of Halfling Meat
+No Trade, Quest
+Size: SMALL WT: 1.0
+Class: NONE
+Race: NONE
+|
+Leatherfoot Captain, Leatherfoot Corporal |
+(None) |
+No Trade, Quest Size: SMALL WT: 1.0 Class: NONE Race: NONE |
 Sealed LetterSealed Letter
 MAGIC ITEM LORE ITEM NO DROP
 WT: 0.0 Size: TINY
@@ -1627,15 +1714,23 @@ Race: None
 An Undead Steward |
 (None) |
 No Trade WT: 0.3 Size: TINY Class: None Race: None |
+Tuft of Black Bear FurTuft of Black Bear Fur
+Size: TINY WT: 0.1
+Class: ALL
+Race: ALL
+|
+None? |
+(None) |
+Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Vial of Halfling BloodVial of Halfling Blood
-MAGIC ITEM NO DROP
-WT: 0.1 Size: TINY
+No Trade, Quest
+Size: TINY WT: 0.1
 Class: NONE
 Race: NONE
 |
 Various |
 (None) |
-MAGIC ITEM NO DROP WT: 0.1 Size: TINY Class: NONE Race: NONE |
+No Trade, Quest Size: TINY WT: 0.1 Class: NONE Race: NONE |
 Woven Grass AmuletWoven Grass Amulet
 NO DROP
 Slot: NECK

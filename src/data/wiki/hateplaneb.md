@@ -1,5 +1,5 @@
 # Plane_of_Hate (eqlwiki.com)
-fetched: 2026-10-19
+fetched: 2026-10-23
 
 Plane of Hate - EverQuest Legends Wiki
 Jump to content
@@ -544,7 +544,7 @@ Various, Imbrued Platemail Armor
 |
 Alternate Maps
 What's in this zone?
-NPCs - Found 50 NPCs that spawn in Plane of Hate:
+NPCs - Found 51 NPCs that spawn in Plane of Hate:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Champion of Innoruuk
 |
@@ -1214,6 +1214,14 @@ Race: ALL
 A bigger, meaner Cleric of Innoruuk.
 Lore
 Ministers of Hate are Teir'Dal clerics who have proven themselves ... |
+High Priestess of Ulkorruuk
+|
+|
+|
+65 |
+(-103, 294) |
+|
+|
 Innoruuk's Chosen
 |
 Dark Elf |
@@ -1392,7 +1400,7 @@ Cleric |
 5% @ (409, 31) |
 Various |
 Description needed. |
-Items - Found 240 items that drop in Plane of Hate:
+Items - Found 241 items that drop in Plane of Hate:
 Item Name | Drops From | Slot | Stats |
 Anthemion ArmbandsAnthemion Armbands
 Lore Equipped, No Trade, Quest
@@ -1659,6 +1667,15 @@ Race: ALLDMG Bonus: 28 @ lvl 50
 Lord of Loathing, Innoruuk (God) |
 2H Slashing |
 Atk Delay: 42 DMG: 30 INT: +10 WT: 9.5 Size: LARGE Class: SHD Race: ALL |
+Blessing of the BetrayerBlessing of the Betrayer
+No Trade, Quest
+Size: TINY WT: 0.1
+Class: ALL
+Race: ALL
+|
+None? |
+(None) |
+No Trade, Quest Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Blighted ArmbandBlighted Armband
 No Trade, Quest
 Slot: WRIST

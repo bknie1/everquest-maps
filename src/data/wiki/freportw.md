@@ -1,5 +1,5 @@
 # West_Freeport (eqlwiki.com)
-fetched: 2026-10-22
+fetched: 2026-10-23
 
 Freeport - EverQuest Legends Wiki
 Jump to content
@@ -1677,7 +1677,7 @@ Merchant |
 3rd Floor Building #5 |
 |
 Located on the top floors of the casters guild in WFP.Can be found on the same floor as Opal Darkbriar. |
-Items - Found 14 items that drop in West Freeport:
+Items - Found 15 items that drop in West Freeport:
 Item Name | Drops From | Slot | Stats |
 Damaged Militia HelmDamaged Militia Helm
 NO DROP
@@ -1706,6 +1706,15 @@ Race: ALL
 a deathfist pawn, Deathfist Pawn |
 (None) |
 Quest Size: SMALL WT: 0.1 Class: ALL Race: ALL |
+Dusty Scroll CaseDusty Scroll Case
+No Trade, Quest
+Size: MEDIUM WT: 0.5
+Class: NONE
+Race: NONE
+|
+None? |
+(None) |
+No Trade, Quest Size: MEDIUM WT: 0.5 Class: NONE Race: NONE |
 Fresh PiranhaFresh Piranha
 This is a meal!
 WT: 1.0 Size: SMALL
@@ -4870,8 +4879,17 @@ Class: ALL
 Race: ALL
 |
 Hail at both indifferent and amiable con - "You need to prove your dedication to the cause before I can trust such matte... |
-Items - Found 1 items that drop in North Freeport:
+Items - Found 2 items that drop in North Freeport:
 Item Name | Drops From | Slot | Stats |
+A Curt DismissalA Curt Dismissal
+No Trade, Quest
+Size: TINY WT: 0.1
+Class: None
+Race: None
+|
+None? |
+(None) |
+No Trade, Quest Size: TINY WT: 0.1 Class: None Race: None |
 WarhammerWarhammer
 Attunable, Placeable
 Slot: PRIMARY SECONDARY

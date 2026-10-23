@@ -1,5 +1,5 @@
 # Lavastorm_Mountains (eqlwiki.com)
-fetched: 2026-10-20
+fetched: 2026-10-23
 
 Lavastorm Mountains - EverQuest Legends Wiki
 Jump to content
@@ -511,7 +511,7 @@ Enchanter |
 (-333, 937) |
 None |
 Nestled in a camp of otherwise indifferent & dubious merchants, Tizina cons threatening to Rallos Zek Ogres and Cazic Th... |
-Items - Found 30 items that drop in Lavastorm Mountains:
+Items - Found 31 items that drop in Lavastorm Mountains:
 Item Name | Drops From | Slot | Stats |
 AshweedAshweed
 Size: SMALL WT: 0.6
@@ -607,6 +607,15 @@ Race: ALL
 Eejag |
 (None) |
 MAGIC ITEM LORE ITEM NODROP WT: 0.2 Size: SMALL Class: ALL Race: ALL |
+Drake Lava PowderDrake Lava Powder
+No Trade, Quest
+Size: SMALL
+Class: NONE
+Race: NONE
+|
+a fire drake |
+(None) |
+No Trade, Quest Size: SMALL Class: NONE Race: NONE |
 Essence of FireEssence of Fire
 Quest
 Size: SMALL WT: 0.1
