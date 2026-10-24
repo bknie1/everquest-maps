@@ -1,5 +1,5 @@
 # Northern_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-10-16
+fetched: 2026-10-24
 
 Northern Plains of Karana - EverQuest Legends Wiki
 Jump to content
@@ -29,6 +29,7 @@ Printable version
 Permanent link
 Page information
 ◷
+☑
 Appearance
 Appearance
 move to sidebar
@@ -1538,8 +1539,3 @@ This page was last edited on 28 May 2026, at 08:55.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers
-Search
-Search
-Toggle the table of contents
-Northern Plains of Karana
-Add topic

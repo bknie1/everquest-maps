@@ -1,5 +1,5 @@
 # Ocean_of_Tears (eqlwiki.com)
-fetched: 2026-10-22
+fetched: 2026-10-24
 
 Ocean of Tears - EverQuest Legends Wiki
 Jump to content
@@ -29,6 +29,7 @@ Printable version
 Permanent link
 Page information
 ◷
+☑
 Appearance
 Appearance
 move to sidebar
@@ -1575,8 +1576,3 @@ This page was last edited on 21 July 2026, at 10:55.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers
-Search
-Search
-Toggle the table of contents
-Ocean of Tears
-Add topic

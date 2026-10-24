@@ -1,5 +1,5 @@
 # High_Keep (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-24
 
 High Keep - EverQuest Legends Wiki
 Jump to content
@@ -29,6 +29,7 @@ Printable version
 Permanent link
 Page information
 ◷
+☑
 Appearance
 Appearance
 move to sidebar
@@ -212,8 +213,3 @@ This page was last edited on 24 May 2026, at 14:10.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers
-Search
-Search
-Toggle the table of contents
-High Keep
-Add topic

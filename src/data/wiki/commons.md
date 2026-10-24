@@ -1,5 +1,5 @@
 # West_Commonlands (eqlwiki.com)
-fetched: 2026-10-16
+fetched: 2026-10-24
 
 West Commonlands - EverQuest Legends Wiki
 Jump to content
@@ -29,6 +29,7 @@ Printable version
 Permanent link
 Page information
 ◷
+☑
 Appearance
 Appearance
 move to sidebar
@@ -1123,8 +1124,3 @@ This page was last edited on 2 June 2026, at 18:04.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers
-Search
-Search
-Toggle the table of contents
-West Commonlands
-Add topic

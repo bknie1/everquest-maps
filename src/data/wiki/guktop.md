@@ -1,5 +1,5 @@
 # Upper_Guk (eqlwiki.com)
-fetched: 2026-10-22
+fetched: 2026-10-24
 
 Upper Guk - EverQuest Legends Wiki
 Jump to content
@@ -29,6 +29,7 @@ Printable version
 Permanent link
 Page information
 ◷
+☑
 Appearance
 Appearance
 move to sidebar
@@ -2065,8 +2066,3 @@ This page was last edited on 4 August 2026, at 14:29.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers
-Search
-Search
-Toggle the table of contents
-Upper Guk
-Add topic

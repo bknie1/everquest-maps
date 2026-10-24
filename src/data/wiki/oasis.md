@@ -1,5 +1,5 @@
 # Oasis_of_Marr (eqlwiki.com)
-fetched: 2026-10-19
+fetched: 2026-10-24
 
 Oasis of Marr - EverQuest Legends Wiki
 Jump to content
@@ -29,6 +29,7 @@ Printable version
 Permanent link
 Page information
 ◷
+☑
 Appearance
 Appearance
 move to sidebar
@@ -560,8 +561,3 @@ This page was last edited on 1 June 2026, at 20:59.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers
-Search
-Search
-Toggle the table of contents
-Oasis of Marr
-Add topic

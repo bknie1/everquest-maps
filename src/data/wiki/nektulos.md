@@ -1,5 +1,5 @@
 # Nektulos_Forest (eqlwiki.com)
-fetched: 2026-10-23
+fetched: 2026-10-24
 
 Nektulos Forest - EverQuest Legends Wiki
 Jump to content
@@ -29,6 +29,7 @@ Printable version
 Permanent link
 Page information
 ◷
+☑
 Appearance
 Appearance
 move to sidebar
@@ -173,7 +174,7 @@ Start Zone: |
 Necromancer |
 Various |
 Various |
-NPCs - Found 92 NPCs that spawn in Nektulos Forest:
+NPCs - Found 91 NPCs that spawn in Nektulos Forest:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Black Bear
 |
@@ -626,14 +627,6 @@ An arcane incantator
 |
 2-4 |
 (658, -911), (591, -526) |
-Various |
-|
-An arcane shapeshifter
-|
-|
-|
-5-10 |
-(412, -508), (277, -930) |
 Various |
 |
 Bink
@@ -1751,8 +1744,3 @@ This page was last edited on 15 June 2026, at 11:42.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers
-Search
-Search
-Toggle the table of contents
-Nektulos Forest
-Add topic

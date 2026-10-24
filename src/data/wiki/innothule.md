@@ -1,5 +1,5 @@
 # Innothule_Swamp (eqlwiki.com)
-fetched: 2026-10-21
+fetched: 2026-10-24
 
 Innothule Swamp - EverQuest Legends Wiki
 Jump to content
@@ -29,6 +29,7 @@ Printable version
 Permanent link
 Page information
 ◷
+☑
 Appearance
 Appearance
 move to sidebar
@@ -1385,8 +1386,3 @@ This page was last edited on 29 June 2026, at 09:50.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers
-Search
-Search
-Toggle the table of contents
-Innothule Swamp
-Add topic

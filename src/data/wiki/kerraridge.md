@@ -1,5 +1,5 @@
 # Kerra_Isle (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-24
 
 Kerra Isle - EverQuest Legends Wiki
 Jump to content
@@ -29,6 +29,7 @@ Printable version
 Permanent link
 Page information
 ◷
+☑
 Appearance
 Appearance
 move to sidebar
@@ -142,7 +143,3 @@ This page was last edited on 2 October 2026, at 12:18.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers
-Search
-Search
-Kerra Isle
-Add topic

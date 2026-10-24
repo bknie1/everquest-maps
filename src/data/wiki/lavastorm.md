@@ -1,5 +1,5 @@
 # Lavastorm_Mountains (eqlwiki.com)
-fetched: 2026-10-23
+fetched: 2026-10-24
 
 Lavastorm Mountains - EverQuest Legends Wiki
 Jump to content
@@ -29,6 +29,7 @@ Printable version
 Permanent link
 Page information
 ◷
+☑
 Appearance
 Appearance
 move to sidebar
@@ -809,8 +810,3 @@ This page was last edited on 19 May 2026, at 12:54.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers
-Search
-Search
-Toggle the table of contents
-Lavastorm Mountains
-Add topic

@@ -1,5 +1,5 @@
 # Erud's_Crossing (eqlwiki.com)
-fetched: 2026-10-22
+fetched: 2026-10-24
 
 Erud's Crossing - EverQuest Legends Wiki
 Jump to content
@@ -29,6 +29,7 @@ Printable version
 Permanent link
 Page information
 ◷
+☑
 Appearance
 Appearance
 move to sidebar
@@ -767,8 +768,3 @@ This page was last edited on 19 May 2026, at 12:25.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers
-Search
-Search
-Toggle the table of contents
-Erud's Crossing
-Add topic

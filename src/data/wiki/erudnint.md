@@ -1,5 +1,5 @@
 # Erudin_Palace (eqlwiki.com)
-fetched: 2026-10-20
+fetched: 2026-10-24
 
 Erudin - EverQuest Legends Wiki
 Jump to content
@@ -29,6 +29,7 @@ Printable version
 Permanent link
 Page information
 ◷
+☑
 Appearance
 Appearance
 move to sidebar
@@ -2707,8 +2708,3 @@ This page was last edited on 13 October 2026, at 10:07.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers
-Search
-Search
-Toggle the table of contents
-Erudin
-Add topic

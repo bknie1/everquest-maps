@@ -1,5 +1,5 @@
 # Permafrost_Keep (eqlwiki.com)
-fetched: 2026-10-22
+fetched: 2026-10-24
 
 Permafrost - EverQuest Legends Wiki
 Jump to content
@@ -29,6 +29,7 @@ Printable version
 Permanent link
 Page information
 ◷
+☑
 Appearance
 Appearance
 move to sidebar
@@ -1631,8 +1632,3 @@ This page was last edited on 10 August 2026, at 11:21.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers
-Search
-Search
-Toggle the table of contents
-Permafrost
-Add topic

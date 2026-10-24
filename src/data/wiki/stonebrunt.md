@@ -1,5 +1,5 @@
 # Stonebrunt_Mountains (eqlwiki.com)
-fetched: 2026-10-20
+fetched: 2026-10-24
 
 Stonebrunt Mountains - EverQuest Legends Wiki
 Jump to content
@@ -29,6 +29,7 @@ Printable version
 Permanent link
 Page information
 ◷
+☑
 Appearance
 Appearance
 move to sidebar
@@ -2936,8 +2937,3 @@ This page was last edited on 5 August 2026, at 14:29.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers
-Search
-Search
-Toggle the table of contents
-Stonebrunt Mountains
-Add topic

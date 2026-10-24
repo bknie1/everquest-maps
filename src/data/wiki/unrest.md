@@ -1,5 +1,5 @@
 # Estate_of_Unrest (eqlwiki.com)
-fetched: 2026-10-09
+fetched: 2026-10-24
 
 The Estate of Unrest - EverQuest Legends Wiki
 Jump to content
@@ -29,6 +29,7 @@ Printable version
 Permanent link
 Page information
 ◷
+☑
 Appearance
 Appearance
 move to sidebar
@@ -2113,8 +2114,3 @@ This page was last edited on 3 September 2026, at 19:44.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers
-Search
-Search
-Toggle the table of contents
-The Estate of Unrest
-Add topic

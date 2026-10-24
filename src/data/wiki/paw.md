@@ -1,5 +1,5 @@
 # Splitpaw_Lair (eqlwiki.com)
-fetched: 2026-10-22
+fetched: 2026-10-24
 
 Splitpaw Lair - EverQuest Legends Wiki
 Jump to content
@@ -29,6 +29,7 @@ Printable version
 Permanent link
 Page information
 ◷
+☑
 Appearance
 Appearance
 move to sidebar
@@ -1230,8 +1231,3 @@ This page was last edited on 21 September 2026, at 01:05.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers
-Search
-Search
-Toggle the table of contents
-Splitpaw Lair
-Add topic

@@ -1,5 +1,5 @@
 # Blackburrow (eqlwiki.com)
-fetched: 2026-10-16
+fetched: 2026-10-24
 
 Blackburrow - EverQuest Legends Wiki
 Jump to content
@@ -29,6 +29,7 @@ Printable version
 Permanent link
 Page information
 ◷
+☑
 Appearance
 Appearance
 move to sidebar
@@ -1209,8 +1210,3 @@ This page was last edited on 19 September 2026, at 21:11.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers
-Search
-Search
-Toggle the table of contents
-Blackburrow
-Add topic

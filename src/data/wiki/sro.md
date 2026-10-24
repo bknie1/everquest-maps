@@ -1,5 +1,5 @@
 # South_Ro (eqlwiki.com)
-fetched: 2026-10-21
+fetched: 2026-10-24
 
 Southern Desert of Ro - EverQuest Legends Wiki
 Jump to content
@@ -29,6 +29,7 @@ Printable version
 Permanent link
 Page information
 ◷
+☑
 Appearance
 Appearance
 move to sidebar
@@ -845,7 +846,7 @@ Size: TINY WT: 1.0
 Class: ALL
 Race: ALL
 |
-Taldrik Stumpystout |
+None? |
 Primary |
 Size: TINY WT: 1.0 Class: ALL Race: ALL |
 Forged DaggerForged Dagger
@@ -1114,8 +1115,3 @@ This page was last edited on 1 June 2026, at 20:57.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers
-Search
-Search
-Toggle the table of contents
-Southern Desert of Ro
-Add topic
