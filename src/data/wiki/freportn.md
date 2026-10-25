@@ -1,5 +1,5 @@
 # North_Freeport (eqlwiki.com)
-fetched: 2026-10-24
+fetched: 2026-10-25
 
 Freeport - EverQuest Legends Wiki
 Jump to content
@@ -4660,7 +4660,8 @@ Sir Mollin
 Freeport Guards |
 Paladin |
 26 |
-12% @ (302, 341) |
+12% @ (302, 341)
+Use the Find window to show the path to Gibbon Morfield. Sir Mollin is in the same room. |
 Various |
 Description needed. |
 Sir Noshon
