@@ -1,5 +1,5 @@
 # Misty_Thicket (eqlwiki.com)
-fetched: 2026-10-24
+fetched: 2026-10-26
 
 Misty Thicket - EverQuest Legends Wiki
 Jump to content
@@ -1322,9 +1322,9 @@ Mooto
 Goblin |
 Shaman |
 10-11 |
-5% @ (-885, 1115) |
+5% @ (-1100, 486) |
 Various |
-Mooto spawns near the goblin camps outside of Runnyeye Citadel ( specifically on the left side of the campfire at the go... |
+Mooto spawns near the goblin camp outside of Runnyeye Citadel located at -1100, 486. He can spawn in several spots aroun... |
 Orc Apprentice
 |
 Orc |
