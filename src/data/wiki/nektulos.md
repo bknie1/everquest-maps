@@ -1,5 +1,5 @@
 # Nektulos_Forest (eqlwiki.com)
-fetched: 2026-10-24
+fetched: 2026-10-27
 
 Nektulos Forest - EverQuest Legends Wiki
 Jump to content
@@ -29,7 +29,6 @@ Printable version
 Permanent link
 Page information
 ◷
-☑
 Appearance
 Appearance
 move to sidebar

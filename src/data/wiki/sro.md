@@ -1,5 +1,5 @@
 # South_Ro (eqlwiki.com)
-fetched: 2026-10-24
+fetched: 2026-10-27
 
 Southern Desert of Ro - EverQuest Legends Wiki
 Jump to content
@@ -29,7 +29,6 @@ Printable version
 Permanent link
 Page information
 ◷
-☑
 Appearance
 Appearance
 move to sidebar

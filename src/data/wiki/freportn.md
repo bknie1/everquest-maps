@@ -1,5 +1,5 @@
 # North_Freeport (eqlwiki.com)
-fetched: 2026-10-25
+fetched: 2026-10-27
 
 Freeport - EverQuest Legends Wiki
 Jump to content
@@ -29,7 +29,6 @@ Printable version
 Permanent link
 Page information
 ◷
-☑
 Appearance
 Appearance
 move to sidebar
