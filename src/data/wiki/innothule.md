@@ -1,5 +1,5 @@
 # Innothule_Swamp (eqlwiki.com)
-fetched: 2026-10-27
+fetched: 2026-10-29
 
 Innothule Swamp - EverQuest Legends Wiki
 Jump to content
@@ -358,8 +358,9 @@ Various |
 24-26 |
 -430, 980 |
 Various |
+Not currently spawning in EQ Legends
 The shadowmen come in the classes of Warrior, Monk, Cleric and Necromancer.
-The Necromancers tend to look like books, w... |
+The N... |
 A skeleton
 |
 Undead |
