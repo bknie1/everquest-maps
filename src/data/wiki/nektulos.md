@@ -1,5 +1,5 @@
 # Nektulos_Forest (eqlwiki.com)
-fetched: 2026-10-27
+fetched: 2026-10-30
 
 Nektulos Forest - EverQuest Legends Wiki
 Jump to content
@@ -95,7 +95,7 @@ Moss Snakes, Fire Beetle Eyes, Going Postal, Innoruuk Symbol Quests, Necromancer
 |
 Adjacent Zones:
 |
-Neriak, East Commonlands, Lavastorm Mountains
+Neriak, East Commonlands, Lavastorm Mountains, Lake Nerius
 |
 Name in /who:
 |
@@ -1733,13 +1733,13 @@ Race: ALL
 Various |
 Neck |
 WT: 0.0 Size: TINY Class: ALL Race: ALL |
-Retrieved from "https://eqlwiki.com/index.php?title=Nektulos_Forest&oldid=150577"
+Retrieved from "https://eqlwiki.com/index.php?title=Nektulos_Forest&oldid=200131"
 Categories: Classic Era
 Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 15 June 2026, at 11:42.
+This page was last edited on 29 October 2026, at 19:37.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers
