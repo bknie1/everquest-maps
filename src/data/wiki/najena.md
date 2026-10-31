@@ -1,5 +1,5 @@
 # Najena (eqlwiki.com)
-fetched: 2026-10-27
+fetched: 2026-10-31
 
 Najena - EverQuest Legends Wiki
 Jump to content
@@ -774,7 +774,7 @@ Size: LARGE WT: 11.0
 Class: WAR CLR PAL RNG SHD DRU MNK SHM BST BER
 Race: ALLDMG Bonus: 30 @ lvl 50
 |
-A Visiting Priestess |
+a visiting priestess |
 30 |
 All except BRD ROG NEC WIZ MAG ENC |
 Mistmoore Castle, Neriak Commons, Neriak Third Gate, Solusek's Eye |
