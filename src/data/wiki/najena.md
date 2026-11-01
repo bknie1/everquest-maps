@@ -1,5 +1,5 @@
 # Najena (eqlwiki.com)
-fetched: 2026-10-31
+fetched: 2026-11-01
 
 Najena - EverQuest Legends Wiki
 Jump to content
@@ -2218,7 +2218,7 @@ Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 2 September 2026, at 21:22.
+This page was last edited on 2 September 2026, at 20:22.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

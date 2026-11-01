@@ -1,5 +1,5 @@
 # Highpass_Hold (eqlwiki.com)
-fetched: 2026-10-27
+fetched: 2026-11-01
 
 Highpass Hold - EverQuest Legends Wiki
 Jump to content
@@ -1348,7 +1348,7 @@ Categories: Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 2 June 2026, at 20:42.
+This page was last edited on 2 June 2026, at 19:42.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

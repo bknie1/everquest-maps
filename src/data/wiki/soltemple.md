@@ -1,5 +1,5 @@
 # Temple_of_Solusek_Ro (eqlwiki.com)
-fetched: 2026-10-27
+fetched: 2026-11-01
 
 The Temple of Solusek Ro - EverQuest Legends Wiki
 Jump to content
@@ -1236,7 +1236,7 @@ Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 24 August 2026, at 21:02.
+This page was last edited on 24 August 2026, at 20:02.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

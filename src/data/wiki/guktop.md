@@ -1,5 +1,5 @@
 # Upper_Guk (eqlwiki.com)
-fetched: 2026-10-27
+fetched: 2026-11-01
 
 Upper Guk - EverQuest Legends Wiki
 Jump to content
@@ -2061,7 +2061,7 @@ Categories: Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 4 August 2026, at 14:29.
+This page was last edited on 4 August 2026, at 13:29.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

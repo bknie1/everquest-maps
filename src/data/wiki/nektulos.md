@@ -1,5 +1,5 @@
 # Nektulos_Forest (eqlwiki.com)
-fetched: 2026-10-30
+fetched: 2026-11-01
 
 Nektulos Forest - EverQuest Legends Wiki
 Jump to content
@@ -1739,7 +1739,7 @@ Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 29 October 2026, at 19:37.
+This page was last edited on 29 October 2026, at 18:37.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

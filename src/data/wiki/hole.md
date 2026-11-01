@@ -1,5 +1,5 @@
 # The_Hole (eqlwiki.com)
-fetched: 2026-10-27
+fetched: 2026-11-01
 
 The Hole - EverQuest Legends Wiki
 Jump to content
@@ -1999,7 +1999,7 @@ Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 31 August 2026, at 01:15.
+This page was last edited on 31 August 2026, at 00:15.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

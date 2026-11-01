@@ -1,5 +1,5 @@
 # Grobb (eqlwiki.com)
-fetched: 2026-10-27
+fetched: 2026-11-01
 
 Grobb - EverQuest Legends Wiki
 Jump to content
@@ -1307,7 +1307,7 @@ Categories: Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 16 July 2026, at 17:35.
+This page was last edited on 16 July 2026, at 16:35.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

@@ -1,5 +1,5 @@
 # Everfrost_Peaks (eqlwiki.com)
-fetched: 2026-10-27
+fetched: 2026-11-01
 
 Everfrost Peaks - EverQuest Legends Wiki
 Jump to content
@@ -1532,7 +1532,7 @@ Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 4 June 2026, at 09:51.
+This page was last edited on 4 June 2026, at 08:51.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

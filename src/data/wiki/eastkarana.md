@@ -1,5 +1,5 @@
 # Eastern_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-10-27
+fetched: 2026-11-01
 
 Eastern Plains of Karana - EverQuest Legends Wiki
 Jump to content
@@ -1396,7 +1396,7 @@ Loc Mapped
 Eastern Plains of Karana
 How to Contribute
 Donate
-This page was last edited on 2 June 2026, at 21:03.
+This page was last edited on 2 June 2026, at 20:03.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

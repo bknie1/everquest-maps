@@ -1,5 +1,5 @@
 # Rathe_Mountains (eqlwiki.com)
-fetched: 2026-10-27
+fetched: 2026-11-01
 
 Rathe Mountains - EverQuest Legends Wiki
 Jump to content
@@ -2404,7 +2404,7 @@ Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 7 September 2026, at 08:14.
+This page was last edited on 7 September 2026, at 07:14.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

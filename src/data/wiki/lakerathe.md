@@ -1,5 +1,5 @@
 # Lake_Rathetear (eqlwiki.com)
-fetched: 2026-10-27
+fetched: 2026-11-01
 
 Lake Rathetear - EverQuest Legends Wiki
 Jump to content
@@ -1407,7 +1407,7 @@ Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 17 July 2026, at 08:48.
+This page was last edited on 17 July 2026, at 07:48.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

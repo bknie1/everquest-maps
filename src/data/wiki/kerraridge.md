@@ -1,5 +1,5 @@
 # Kerra_Isle (eqlwiki.com)
-fetched: 2026-10-27
+fetched: 2026-11-01
 
 Kerra Isle - EverQuest Legends Wiki
 Jump to content
@@ -138,7 +138,7 @@ Factions
 Achievement Faction
 How to Contribute
 Donate
-This page was last edited on 2 October 2026, at 12:18.
+This page was last edited on 2 October 2026, at 11:18.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

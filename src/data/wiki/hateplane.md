@@ -1,5 +1,5 @@
 # Plane_of_Hate (eqlwiki.com)
-fetched: 2026-10-27
+fetched: 2026-11-01
 
 Plane of Hate - EverQuest Legends Wiki
 Jump to content
@@ -4659,7 +4659,7 @@ Plane of Hate
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 28 August 2026, at 14:05.
+This page was last edited on 28 August 2026, at 13:05.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

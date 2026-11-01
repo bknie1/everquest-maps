@@ -1,5 +1,5 @@
 # Lower_Guk (eqlwiki.com)
-fetched: 2026-10-27
+fetched: 2026-11-01
 
 Lower Guk - EverQuest Legends Wiki
 Jump to content
@@ -2862,7 +2862,7 @@ Categories: Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 10 September 2026, at 12:47.
+This page was last edited on 10 September 2026, at 11:47.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

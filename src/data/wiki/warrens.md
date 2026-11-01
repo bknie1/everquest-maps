@@ -1,5 +1,5 @@
 # The_Warrens (eqlwiki.com)
-fetched: 2026-10-27
+fetched: 2026-11-01
 
 The Warrens - EverQuest Legends Wiki
 Jump to content
@@ -1984,7 +1984,7 @@ Categories: Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 16 May 2026, at 15:03.
+This page was last edited on 16 May 2026, at 14:03.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

@@ -1,5 +1,5 @@
 # North_Ro (eqlwiki.com)
-fetched: 2026-10-27
+fetched: 2026-11-01
 
 The Northern Desert of Ro - EverQuest Legends Wiki
 Jump to content
@@ -934,7 +934,7 @@ Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 30 July 2026, at 10:50.
+This page was last edited on 30 July 2026, at 09:50.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

@@ -1,5 +1,5 @@
 # Surefall_Glade (eqlwiki.com)
-fetched: 2026-10-27
+fetched: 2026-11-01
 
 Surefall Glade - EverQuest Legends Wiki
 Jump to content
@@ -884,7 +884,7 @@ Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 4 September 2026, at 13:49.
+This page was last edited on 4 September 2026, at 12:49.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

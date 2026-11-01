@@ -1,5 +1,5 @@
 # Southern_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-10-27
+fetched: 2026-11-01
 
 Southern Karana - EverQuest Legends Wiki
 Jump to content
@@ -2277,7 +2277,7 @@ Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 12 July 2026, at 20:23.
+This page was last edited on 12 July 2026, at 19:23.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

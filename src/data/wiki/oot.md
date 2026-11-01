@@ -1,5 +1,5 @@
 # Ocean_of_Tears (eqlwiki.com)
-fetched: 2026-10-27
+fetched: 2026-11-01
 
 Ocean of Tears - EverQuest Legends Wiki
 Jump to content
@@ -1571,7 +1571,7 @@ Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 21 July 2026, at 10:55.
+This page was last edited on 21 July 2026, at 09:55.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

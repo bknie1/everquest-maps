@@ -1,5 +1,5 @@
 # Splitpaw_Lair (eqlwiki.com)
-fetched: 2026-10-27
+fetched: 2026-11-01
 
 Splitpaw Lair - EverQuest Legends Wiki
 Jump to content
@@ -1226,7 +1226,7 @@ Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 21 September 2026, at 01:05.
+This page was last edited on 21 September 2026, at 00:05.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

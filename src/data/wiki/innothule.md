@@ -1,5 +1,5 @@
 # Innothule_Swamp (eqlwiki.com)
-fetched: 2026-10-29
+fetched: 2026-11-01
 
 Innothule Swamp - EverQuest Legends Wiki
 Jump to content
@@ -1382,7 +1382,7 @@ Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 29 June 2026, at 09:50.
+This page was last edited on 29 June 2026, at 08:50.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

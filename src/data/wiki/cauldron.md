@@ -1,5 +1,5 @@
 # Dagnor's_Cauldron (eqlwiki.com)
-fetched: 2026-10-27
+fetched: 2026-11-01
 
 Dagnor's Cauldron - EverQuest Legends Wiki
 Jump to content
@@ -781,7 +781,7 @@ Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 19 May 2026, at 13:58.
+This page was last edited on 19 May 2026, at 12:58.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

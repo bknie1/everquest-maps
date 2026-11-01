@@ -1,5 +1,5 @@
 # Solusek's_Eye (eqlwiki.com)
-fetched: 2026-10-27
+fetched: 2026-11-01
 
 Solusek's Eye - EverQuest Legends Wiki
 Jump to content
@@ -2228,7 +2228,7 @@ Loc Mapped
 Zones
 How to Contribute
 Donate
-This page was last edited on 17 September 2026, at 11:54.
+This page was last edited on 17 September 2026, at 10:54.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

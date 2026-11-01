@@ -1,5 +1,5 @@
 # Stonebrunt_Mountains (eqlwiki.com)
-fetched: 2026-10-27
+fetched: 2026-11-01
 
 Stonebrunt Mountains - EverQuest Legends Wiki
 Jump to content
@@ -2932,7 +2932,7 @@ Categories: Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 5 August 2026, at 14:29.
+This page was last edited on 5 August 2026, at 13:29.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

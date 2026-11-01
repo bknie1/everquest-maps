@@ -1,5 +1,5 @@
 # Misty_Thicket (eqlwiki.com)
-fetched: 2026-10-27
+fetched: 2026-11-01
 
 Misty Thicket - EverQuest Legends Wiki
 Jump to content
@@ -1627,7 +1627,7 @@ Categories: Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 25 August 2026, at 10:57.
+This page was last edited on 25 August 2026, at 09:57.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

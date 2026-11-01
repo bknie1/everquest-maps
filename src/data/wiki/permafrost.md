@@ -1,5 +1,5 @@
 # Permafrost_Keep (eqlwiki.com)
-fetched: 2026-10-27
+fetched: 2026-11-01
 
 Permafrost - EverQuest Legends Wiki
 Jump to content
@@ -1627,7 +1627,7 @@ Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 10 August 2026, at 11:21.
+This page was last edited on 10 August 2026, at 10:21.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

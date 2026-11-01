@@ -1,5 +1,5 @@
 # Crushbone (eqlwiki.com)
-fetched: 2026-10-27
+fetched: 2026-11-01
 
 Crushbone - EverQuest Legends Wiki
 Jump to content
@@ -1617,7 +1617,7 @@ Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 27 September 2026, at 06:59.
+This page was last edited on 27 September 2026, at 05:59.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

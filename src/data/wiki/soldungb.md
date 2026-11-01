@@ -1,5 +1,5 @@
 # Nagafen's_Lair (eqlwiki.com)
-fetched: 2026-10-27
+fetched: 2026-11-01
 
 Nagafen's Lair - EverQuest Legends Wiki
 Jump to content
@@ -1874,7 +1874,7 @@ Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 21 September 2026, at 21:19.
+This page was last edited on 21 September 2026, at 20:19.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

@@ -1,5 +1,5 @@
 # Lesser_Faydark (eqlwiki.com)
-fetched: 2026-10-27
+fetched: 2026-11-01
 
 Lesser Faydark - EverQuest Legends Wiki
 Jump to content
@@ -2047,7 +2047,7 @@ Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 10 June 2026, at 14:12.
+This page was last edited on 10 June 2026, at 13:12.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

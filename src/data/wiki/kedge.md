@@ -1,5 +1,5 @@
 # Kedge_Keep (eqlwiki.com)
-fetched: 2026-10-27
+fetched: 2026-11-01
 
 Kedge Keep - EverQuest Legends Wiki
 Jump to content
@@ -1876,7 +1876,7 @@ Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 18 September 2026, at 22:00.
+This page was last edited on 18 September 2026, at 21:00.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

@@ -1,5 +1,5 @@
 # Erudin (eqlwiki.com)
-fetched: 2026-10-27
+fetched: 2026-11-01
 
 Erudin - EverQuest Legends Wiki
 Jump to content
@@ -2702,7 +2702,7 @@ Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 13 October 2026, at 10:07.
+This page was last edited on 13 October 2026, at 09:07.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

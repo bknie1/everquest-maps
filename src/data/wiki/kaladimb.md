@@ -1,5 +1,5 @@
 # Kaladim (eqlwiki.com)
-fetched: 2026-10-27
+fetched: 2026-11-01
 
 Kaladim - EverQuest Legends Wiki
 Jump to content
@@ -2801,7 +2801,7 @@ Categories: Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 19 June 2026, at 16:53.
+This page was last edited on 19 June 2026, at 15:53.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers
