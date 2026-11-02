@@ -1,5 +1,5 @@
 # Nagafen's_Lair (eqlwiki.com)
-fetched: 2026-11-01
+fetched: 2026-11-02
 
 Nagafen's Lair - EverQuest Legends Wiki
 Jump to content
@@ -148,10 +148,9 @@ Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Death Scarab GlandDeath Scarab Gland
-MAGIC ITEM LORE ITEM
+Effect: Burrowing Scarab (Charge Clicky, Casting Time: Instant)
 Charges: 1
-Effect: Burrowing Scarab (Any Slot, Casting Time: Instant)
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Djarns Amethyst RingDjarns Amethyst Ring
@@ -376,10 +375,9 @@ WT: 7.5 Size: LARGE
 Class: ALL
 Race: ALL
 (Common) and Death Scarab GlandDeath Scarab Gland
-MAGIC ITEM LORE ITEM
+Effect: Burrowing Scarab (Charge Clicky, Casting Time: Instant)
 Charges: 1
-Effect: Burrowing Scarab (Any Slot, Casting Time: Instant)
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 (Rare)
@@ -570,10 +568,9 @@ WT: 7.5 Size: LARGE
 Class: ALL
 Race: ALL
 , Death Scarab GlandDeath Scarab Gland
-MAGIC ITEM LORE ITEM
+Effect: Burrowing Scarab (Charge Clicky, Casting Time: Instant)
 Charges: 1
-Effect: Burrowing Scarab (Any Slot, Casting Time: Instant)
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -1275,16 +1272,15 @@ Various |
 (None) |
 Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Death Scarab GlandDeath Scarab Gland
-MAGIC ITEM LORE ITEM
+Effect: Burrowing Scarab (Charge Clicky, Casting Time: Instant)
 Charges: 1
-Effect: Burrowing Scarab (Any Slot, Casting Time: Instant)
-WT: 0.1 Size: SMALL
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 |
 death beetle |
 (None) |
-MAGIC ITEM LORE ITEM Charges: 1 Effect: Burrowing Scarab WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+Effect: Burrowing Scarab (Charge Clicky, Casting Time: Instant) Charges: 1 Size: SMALL WT: 0.1 Class: ALL Race: ALL |
 Diamond DustDiamond Dust
 Size: TINY WT: 0.1
 Class: ALL

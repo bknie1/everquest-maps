@@ -1,5 +1,5 @@
 # Kedge_Keep (eqlwiki.com)
-fetched: 2026-11-01
+fetched: 2026-11-02
 
 Kedge Keep - EverQuest Legends Wiki
 Jump to content
@@ -244,11 +244,11 @@ WT: 3.0 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
 Race: ALLDMG Bonus: 13 @ lvl 50
 , Sharkjaw CutlassSharkjaw Cutlass
-MAGIC ITEM
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 32
 DMG: 10
-WT: 2.0 Size: MEDIUM
+Size: MEDIUM WT: 2.0
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALLDMG Bonus: 16 @ lvl 50
 , Sharkskin DrumSharkskin Drum
@@ -488,11 +488,11 @@ Class: WAR CLR PAL SHD BRD
 Race: ALL
 (Rare)
 13. "Boil's Lair" with Cauldronboil who drops Sharkjaw CutlassSharkjaw Cutlass
-MAGIC ITEM
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 32
 DMG: 10
-WT: 2.0 Size: MEDIUM
+Size: MEDIUM WT: 2.0
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALLDMG Bonus: 16 @ lvl 50
 (Common) and Kedgemail GauntletsKedgemail Gauntlets
@@ -1064,11 +1064,11 @@ WT: 3.0 Size: SMALL
 Class: PAL RNG SHD BRD ROG SHM
 Race: ALL
 , Sharkjaw CutlassSharkjaw Cutlass
-MAGIC ITEM
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 32
 DMG: 10
-WT: 2.0 Size: MEDIUM
+Size: MEDIUM WT: 2.0
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALLDMG Bonus: 16 @ lvl 50
 |
@@ -1641,17 +1641,17 @@ Cauldronbubble, Coralyn Kelpmaiden |
 1H Blunt |
 Atk Delay: 26 DMG: 8 WIS: +5 WT: 3.0 Size: MEDIUM Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST Race: ALL |
 Sharkjaw CutlassSharkjaw Cutlass
-MAGIC ITEM
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Slashing Atk Delay: 32
 DMG: 10
-WT: 2.0 Size: MEDIUM
+Size: MEDIUM WT: 2.0
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Cauldronboil |
 1H Slashing |
-Atk Delay: 32 DMG: 10 WT: 2.0 Size: MEDIUM Class: WAR PAL RNG SHD BRD ROG Race: ALL |
+Atk Delay: 32 DMG: 10 Size: MEDIUM WT: 2.0 Class: WAR PAL RNG SHD BRD ROG Race: ALL |
 Sharkskin DrumSharkskin Drum
 MAGIC ITEM
 Slot: SECONDARY

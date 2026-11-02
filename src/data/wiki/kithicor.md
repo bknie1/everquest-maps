@@ -1,5 +1,5 @@
 # Kithicor_Forest (eqlwiki.com)
-fetched: 2026-11-01
+fetched: 2026-11-02
 
 Kithicor Forest - EverQuest Legends Wiki
 Jump to content
@@ -1080,9 +1080,10 @@ Necromancer |
 37 |
 Various |
 Fine Steel SpearFine Steel Spear
+Attunable, Placeable
 Slot: PRIMARY
-Skill: Piercing Atk Delay: 27
-DMG: 6BACKSTAB: 6
+Skill: 1H Piercing Atk Delay: 27
+DMG: 6 BACKSTAB: 6
 Size: LARGE WT: 6.8
 Class: WAR RNG SHD BRD ROG SHM BST
 Race: ALLDMG Bonus: 13 @ lvl 50
@@ -1162,11 +1163,12 @@ Necromancer |
 30 |
 Various |
 Fine Steel Morning StarFine Steel Morning Star
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 38
 DMG: 8
-WT: 10.0 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC
+Size: MEDIUM WT: 10.0
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
 Race: ALLDMG Bonus: 19 @ lvl 50
 , Fine Steel Great StaffFine Steel Great Staff
 Attunable, Placeable
@@ -1522,17 +1524,18 @@ WT: 7.5 Size: MEDIUM
 Class: ALL except BRD ROG
 Race: ALLDMG Bonus: 33 @ lvl 50
 , Fine Steel SpearFine Steel Spear
+Attunable, Placeable
 Slot: PRIMARY
-Skill: Piercing Atk Delay: 27
-DMG: 6BACKSTAB: 6
+Skill: 1H Piercing Atk Delay: 27
+DMG: 6 BACKSTAB: 6
 Size: LARGE WT: 6.8
 Class: WAR RNG SHD BRD ROG SHM BST
 Race: ALLDMG Bonus: 13 @ lvl 50
 , Fine Steel RapierFine Steel Rapier
 Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
-Skill: Piercing Atk Delay: 23
-DMG: 5BACKSTAB: 5
+Skill: 1H Piercing Atk Delay: 23
+DMG: 5 BACKSTAB: 5
 Size: MEDIUM WT: 5.0
 Class: WAR RNG SHD BRD ROG
 Race: ALLDMG Bonus: 11 @ lvl 50

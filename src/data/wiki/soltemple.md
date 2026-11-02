@@ -1,5 +1,5 @@
 # Temple_of_Solusek_Ro (eqlwiki.com)
-fetched: 2026-11-01
+fetched: 2026-11-02
 
 The Temple of Solusek Ro - EverQuest Legends Wiki
 Jump to content
@@ -917,9 +917,10 @@ Size: MEDIUM WT: 5.0
 Class: WAR RNG SHD BRD ROG SHM BST
 Race: ALLDMG Bonus: 16 @ lvl 50
 (Always), Fine Steel SpearFine Steel Spear
+Attunable, Placeable
 Slot: PRIMARY
-Skill: Piercing Atk Delay: 27
-DMG: 6BACKSTAB: 6
+Skill: 1H Piercing Atk Delay: 27
+DMG: 6 BACKSTAB: 6
 Size: LARGE WT: 6.8
 Class: WAR RNG SHD BRD ROG SHM BST
 Race: ALLDMG Bonus: 13 @ lvl 50

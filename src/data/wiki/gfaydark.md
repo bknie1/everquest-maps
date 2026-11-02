@@ -1,5 +1,5 @@
 # Greater_Faydark (eqlwiki.com)
-fetched: 2026-11-01
+fetched: 2026-11-02
 
 Greater Faydark - EverQuest Legends Wiki
 Jump to content
@@ -2102,7 +2102,12 @@ Orc |
 Warrior |
 12 |
 Various |
-Sarialiyn's Lute (Common)
+Sarialiyn's LuteSarialiyn's Lute
+[[File:item_{{{lucy_img_ID}}}.png|right|link=]]
+Size: WT:
+Class:
+Race:
+(Common)
 Crushbone ShoulderpadsCrushbone Shoulderpads
 Slot: SHOULDERS
 AC: 1

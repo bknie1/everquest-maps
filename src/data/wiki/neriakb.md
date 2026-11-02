@@ -1,5 +1,5 @@
 # Neriak_Commons (eqlwiki.com)
-fetched: 2026-11-01
+fetched: 2026-11-02
 
 Neriak - EverQuest Legends Wiki
 Jump to content
@@ -453,11 +453,12 @@ Warrior |
 40 |
 (-1,-22) |
 Fine Steel Morning StarFine Steel Morning Star
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 38
 DMG: 8
-WT: 10.0 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC
+Size: MEDIUM WT: 10.0
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
 Race: ALLDMG Bonus: 19 @ lvl 50
 , Round ShieldRound Shield
 Slot: SECONDARY
@@ -738,8 +739,8 @@ Warrior |
 Fine Steel RapierFine Steel Rapier
 Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
-Skill: Piercing Atk Delay: 23
-DMG: 5BACKSTAB: 5
+Skill: 1H Piercing Atk Delay: 23
+DMG: 5 BACKSTAB: 5
 Size: MEDIUM WT: 5.0
 Class: WAR RNG SHD BRD ROG
 Race: ALLDMG Bonus: 11 @ lvl 50
@@ -2201,8 +2202,8 @@ Warrior |
 Fine Steel RapierFine Steel Rapier
 Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
-Skill: Piercing Atk Delay: 23
-DMG: 5BACKSTAB: 5
+Skill: 1H Piercing Atk Delay: 23
+DMG: 5 BACKSTAB: 5
 Size: MEDIUM WT: 5.0
 Class: WAR RNG SHD BRD ROG
 Race: ALLDMG Bonus: 11 @ lvl 50

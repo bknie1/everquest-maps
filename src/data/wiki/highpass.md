@@ -1,5 +1,5 @@
 # Highpass_Hold (eqlwiki.com)
-fetched: 2026-11-01
+fetched: 2026-11-02
 
 Highpass Hold - EverQuest Legends Wiki
 Jump to content
@@ -107,13 +107,13 @@ PENDING LORE
 WT: 0.4 Weight Reduction: 25%
 Capacity: 8 Size Capacity: GIANT
 , Cracked Darkwood ShieldCracked Darkwood Shield
-Lore Item
+Lore Equipped, Attunable, Placeable
+Slot: SECONDARY Type: Shield
+AC: 12
+STR: +9
+Size: MEDIUM WT: 5.0
 Class: WAR CLR PAL RNG SHD DRU BRD ROG SHM
 Race: ALL
-Slot: SECONDARY
-AC: 12
-STR: 9
-WT: 5.0 Size: MEDIUM
 , Shiny Brass HalberdShiny Brass Halberd
 MAGIC ITEM LORE ITEM
 Slot: PRIMARY
@@ -1157,13 +1157,13 @@ Warrior |
 21 (Highpass Hold) |
 (625, 90) (Highpass), (-963,-2390) (EK) |
 Cracked Darkwood ShieldCracked Darkwood Shield
-Lore Item
+Lore Equipped, Attunable, Placeable
+Slot: SECONDARY Type: Shield
+AC: 12
+STR: +9
+Size: MEDIUM WT: 5.0
 Class: WAR CLR PAL RNG SHD DRU BRD ROG SHM
 Race: ALL
-Slot: SECONDARY
-AC: 12
-STR: 9
-WT: 5.0 Size: MEDIUM
 (Uncommon)
 |
 Highpass: Shares a spawn with Grenix Mucktail. Placeholder is a gnoll flamepaw. Spawn timer is 22:00. Placeh... |
@@ -1229,7 +1229,7 @@ Merchant |
 (1432, -2239) |
 |
 Wyle Bimlin is a merchant in Highpass Hold. One of the possibly 24 minute spawns in Qeynos Hills that starts at West... |
-Items - Found 12 items that drop in Highpass Hold:
+Items - Found 13 items that drop in Highpass Hold:
 Item Name | Drops From | Slot | Stats |
 Bayle List IBayle List I
 LORE ITEM NO DROP
@@ -1245,6 +1245,18 @@ WT: 0.0 Size: TINY
 Dyllin Starshine |
 (None) |
 LORE ITEM NO DROP WT: 0.0 Size: TINY |
+Cracked Darkwood ShieldCracked Darkwood Shield
+Lore Equipped, Attunable, Placeable
+Slot: SECONDARY Type: Shield
+AC: 12
+STR: +9
+Size: MEDIUM WT: 5.0
+Class: WAR CLR PAL RNG SHD DRU BRD ROG SHM
+Race: ALL
+|
+Vexven Mucktail |
+Secondary, [[:Category:|]], Type:, Shield |
+AC: 12 STR: +9 Size: MEDIUM WT: 5.0 Class: WAR CLR PAL RNG SHD DRU BRD ROG SHM Race: ALL |
 Gnoll ScalpGnoll Scalp
 WT: 0.1 Size: SMALL
 Class: ALL

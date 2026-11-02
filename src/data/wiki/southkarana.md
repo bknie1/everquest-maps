@@ -1,5 +1,5 @@
 # Southern_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-11-01
+fetched: 2026-11-02
 
 Southern Karana - EverQuest Legends Wiki
 Jump to content
@@ -1062,11 +1062,12 @@ WT: 2.0 Size: MEDIUM
 Class: ALL
 Race: ALL
 , Fine Steel Morning StarFine Steel Morning Star
+Attunable, Placeable
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 38
 DMG: 8
-WT: 10.0 Size: MEDIUM
-Class: ALL except NEC WIZ MAG ENC
+Size: MEDIUM WT: 10.0
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
 Race: ALLDMG Bonus: 19 @ lvl 50
 , Fine Steel WarhammerFine Steel Warhammer
 Slot: PRIMARY SECONDARY

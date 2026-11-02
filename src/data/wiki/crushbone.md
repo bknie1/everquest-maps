@@ -1,5 +1,5 @@
 # Crushbone (eqlwiki.com)
-fetched: 2026-11-01
+fetched: 2026-11-02
 
 Crushbone - EverQuest Legends Wiki
 Jump to content
@@ -975,7 +975,12 @@ Orc |
 Warrior |
 12 |
 Various |
-Sarialiyn's Lute (Common)
+Sarialiyn's LuteSarialiyn's Lute
+[[File:item_{{{lucy_img_ID}}}.png|right|link=]]
+Size: WT:
+Class:
+Race:
+(Common)
 Crushbone ShoulderpadsCrushbone Shoulderpads
 Slot: SHOULDERS
 AC: 1
@@ -1064,7 +1069,7 @@ Hill outside fort @ (-6, 162)
 |
 Various |
 |
-Items - Found 49 items that drop in Crushbone:
+Items - Found 50 items that drop in Crushbone:
 Item Name | Drops From | Slot | Stats |
 Armband of Serrated TeethArmband of Serrated Teeth
 Attunable
@@ -1421,6 +1426,15 @@ Race: ALL
 The Prophet |
 Face |
 AC: 5 HP: +5 MANA: +5 END: +5 STA: +2 SV. Void: 1 WT: 2.0 Size: SMALL Class: ALL Race: ALL |
+Sarialiyn's LuteSarialiyn's Lute
+[[File:item_{{{lucy_img_ID}}}.png|right|link=]]
+Size: WT:
+Class:
+Race:
+|
+orc scoutsman |
+(None) |
+Size: WT: Class: Race: |
 Shackle Key 15Shackle Key 15
 LORE ITEM
 WT: 0.1 Size: TINY

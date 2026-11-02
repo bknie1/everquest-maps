@@ -1,5 +1,5 @@
 # Rathe_Mountains (eqlwiki.com)
-fetched: 2026-11-01
+fetched: 2026-11-02
 
 Rathe Mountains - EverQuest Legends Wiki
 Jump to content
@@ -404,7 +404,7 @@ Karam Dragonforge (4109, 918) |
 All |
 Permafrost |
 Lady Vox |
-NPCs - Found 120 NPCs that spawn in Rathe Mountains:
+NPCs - Found 121 NPCs that spawn in Rathe Mountains:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Basalt Drake
 |
@@ -1278,6 +1278,16 @@ Merchant |
 (4283, 842) |
 |
 Description needed. |
+Jeim
+|
+|
+Merchant |
+50 |
+(1662, -834) |
+|
+Parcels merchant.
+You say, 'Hail Jeim'
+Jeim says, 'Hello, ____. Here to do some [trading], or were you looking for m... |
 Karam Dragonforge
 |
 Dwarf |

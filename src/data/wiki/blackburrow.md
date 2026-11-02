@@ -1,5 +1,5 @@
 # Blackburrow (eqlwiki.com)
-fetched: 2026-11-01
+fetched: 2026-11-02
 
 Blackburrow - EverQuest Legends Wiki
 Jump to content
@@ -447,9 +447,9 @@ Race: ALL
 , Dark Runed LeggingsDark Runed Leggings
 Lore Equipped, Attunable
 Slot: LEGS
-AC: 5 HP: +10
-INT: +5
-WT: 0.7 Size: SMALL
+AC: 5
+INT: +5 HP: +10
+Size: SMALL WT: 0.7
 Class: NEC WIZ MAG ENC
 Race: ALL
 , Wicked SalletWicked Sallet
@@ -817,15 +817,15 @@ HP: +5 WIS: +7 WT: 0.8 Size: SMALL Class: CLR DRU BRD SHM Race: ALL |
 Dark Runed LeggingsDark Runed Leggings
 Lore Equipped, Attunable
 Slot: LEGS
-AC: 5 HP: +10
-INT: +5
-WT: 0.7 Size: SMALL
+AC: 5
+INT: +5 HP: +10
+Size: SMALL WT: 0.7
 Class: NEC WIZ MAG ENC
 Race: ALL
 |
 Lord Elgnub |
 Legs |
-AC: 5 HP: +10 INT: +5 WT: 0.7 Size: SMALL Class: NEC WIZ MAG ENC Race: ALL |
+AC: 5 INT: +5 HP: +10 Size: SMALL WT: 0.7 Class: NEC WIZ MAG ENC Race: ALL |
 Darkpaw SashDarkpaw Sash
 Attunable
 Slot: WAIST

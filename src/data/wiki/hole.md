@@ -1,5 +1,5 @@
 # The_Hole (eqlwiki.com)
-fetched: 2026-11-01
+fetched: 2026-11-02
 
 The Hole - EverQuest Legends Wiki
 Jump to content
@@ -293,9 +293,9 @@ Attunable, Lore Equipped, Placeable
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 70
 DMG: 37
-STR: +6 DEX: -5 STA: +6
-Effect: Earthquake (Combat, Casting Time: Instant) at Level 45
-WT: 16.0 Size: GIANT
+STR: +6 STA: +6 DEX: -5
+Effect: Earthquake (Combat) at Level 45
+Size: GIANT WT: 16.0
 Class: WAR PAL RNG SHD BER
 Race: ALLDMG Bonus: 34 @ lvl 50
 , Loam Encrusted RobeLoam Encrusted Robe
@@ -1947,9 +1947,9 @@ Attunable, Lore Equipped, Placeable
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 70
 DMG: 37
-STR: +6 DEX: -5 STA: +6
-Effect: Earthquake (Combat, Casting Time: Instant) at Level 45
-WT: 16.0 Size: GIANT
+STR: +6 STA: +6 DEX: -5
+Effect: Earthquake (Combat) at Level 45
+Size: GIANT WT: 16.0
 Class: WAR PAL RNG SHD BER
 Race: ALLDMG Bonus: 34 @ lvl 50
 , Fusible Earthen OreFusible Earthen Ore
