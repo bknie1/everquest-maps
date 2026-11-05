@@ -1,5 +1,5 @@
 # Felwithe (eqlwiki.com)
-fetched: 2026-11-01
+fetched: 2026-11-05
 
 Felwithe - EverQuest Legends Wiki
 Jump to content
@@ -184,11 +184,12 @@ Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Rusty DaggerRusty Dagger
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
-Skill: Piercing Atk Delay: 24
-DMG: 3BACKSTAB: 3
-WT: 2.5 Size: SMALL
-Class: ALL except CLR PAL DRU MNK SHM
+Skill: 1H Piercing Atk Delay: 24
+DMG: 3 BACKSTAB: 3
+Size: SMALL WT: 2.5
+Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
 Race: ALLDMG Bonus: 12 @ lvl 50
 , Spell: Numbing Cold, Worn Great StaffWorn Great Staff
 Attunable, Placeable

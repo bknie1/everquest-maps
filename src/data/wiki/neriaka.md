@@ -1,5 +1,5 @@
 # Neriak_Foreign_Quarter (eqlwiki.com)
-fetched: 2026-11-02
+fetched: 2026-11-05
 
 Neriak - EverQuest Legends Wiki
 Jump to content
@@ -1123,7 +1123,7 @@ Yegek B`Larin |
 All (Evil Races) |
 None |
 Teir`Dal Coward |
-NPCs - Found 91 NPCs that spawn in Neriak Commons:
+NPCs - Found 92 NPCs that spawn in Neriak Commons:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Leatherfoot Spy
 |
@@ -1671,6 +1671,15 @@ GM Wizard |
 (174, -884) |
 None |
 Description needed. |
+Pishtian F`Lok
+|
+Dark Elf |
+Warrior |
+60 |
+53, -931, -52
+Use the Find window to show the path to Antian F`Lok. Pishtian F`Lok is in the same room. |
+None |
+Pishtian F`Lok is found in The Burnished Coin bank in Neriak. |
 Pisna H`Rugla
 |
 Dark Elf |

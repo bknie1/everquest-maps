@@ -1,5 +1,5 @@
 # Qeynos (eqlwiki.com)
-fetched: 2026-11-01
+fetched: 2026-11-05
 
 Qeynos - EverQuest Legends Wiki
 Jump to content
@@ -2060,11 +2060,12 @@ Druid |
 10 |
 ? |
 Rusty DaggerRusty Dagger
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
-Skill: Piercing Atk Delay: 24
-DMG: 3BACKSTAB: 3
-WT: 2.5 Size: SMALL
-Class: ALL except CLR PAL DRU MNK SHM
+Skill: 1H Piercing Atk Delay: 24
+DMG: 3 BACKSTAB: 3
+Size: SMALL WT: 2.5
+Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
 Race: ALLDMG Bonus: 12 @ lvl 50
 , Black Wood ChipBlack Wood Chip
 NO DROP
@@ -2292,11 +2293,12 @@ Rogue |
 5 |
 (-309, -261) |
 Rusty DaggerRusty Dagger
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
-Skill: Piercing Atk Delay: 24
-DMG: 3BACKSTAB: 3
-WT: 2.5 Size: SMALL
-Class: ALL except CLR PAL DRU MNK SHM
+Skill: 1H Piercing Atk Delay: 24
+DMG: 3 BACKSTAB: 3
+Size: SMALL WT: 2.5
+Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
 Race: ALLDMG Bonus: 12 @ lvl 50
 , Dwarf MeatDwarf Meat
 WT: 1.0 Size: SMALL

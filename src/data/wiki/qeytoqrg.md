@@ -1,5 +1,5 @@
 # Qeynos_Hills (eqlwiki.com)
-fetched: 2026-11-01
+fetched: 2026-11-05
 
 Qeynos Hills - EverQuest Legends Wiki
 Jump to content
@@ -994,11 +994,12 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 , Rusty DaggerRusty Dagger
+Attunable, Quest, Placeable
 Slot: PRIMARY SECONDARY
-Skill: Piercing Atk Delay: 24
-DMG: 3BACKSTAB: 3
-WT: 2.5 Size: SMALL
-Class: ALL except CLR PAL DRU MNK SHM
+Skill: 1H Piercing Atk Delay: 24
+DMG: 3 BACKSTAB: 3
+Size: SMALL WT: 2.5
+Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
 Race: ALLDMG Bonus: 12 @ lvl 50
 , Tovaxs Necklace |
 Only Spawns at night 9pm and despawns at 7am Norrath time. This guy killed my low lvl ranger, hit for 44 damage max. He ... |

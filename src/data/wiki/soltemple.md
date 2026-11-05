@@ -1,5 +1,5 @@
 # Temple_of_Solusek_Ro (eqlwiki.com)
-fetched: 2026-11-02
+fetched: 2026-11-05
 
 The Temple of Solusek Ro - EverQuest Legends Wiki
 Jump to content
@@ -1204,13 +1204,13 @@ None? |
 MAGIC ITEM Charges: 4 Effect: Flame Arc WT: 1.0 Size: SMALL Class: ALL Race: ALL |
 Ordination of MightOrdination of Might
 No Trade, Quest
-Size: TINY WT: 0.1
+Size: SMALL WT: 0.3
 Class: None
 Race: None
 |
 None? |
 (None) |
-No Trade, Quest Size: TINY WT: 0.1 Class: None Race: None |
+No Trade, Quest Size: SMALL WT: 0.3 Class: None Race: None |
 Robe of the KeeperRobe of the Keeper
 MAGIC ITEM QUEST ITEM
 Slot: CHEST
