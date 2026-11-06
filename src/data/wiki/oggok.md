@@ -1,5 +1,5 @@
 # Oggok (eqlwiki.com)
-fetched: 2026-11-01
+fetched: 2026-11-06
 
 Oggok - EverQuest Legends Wiki
 Jump to content
@@ -650,7 +650,12 @@ Armadillo |
 Warrior |
 2 |
 North Ro: 34% @ (2750, 644), 34% @ (2802, 471), 34% @ (3297, 595) |
-Chunk of MeatChunk of Meat
+Armadillo MeatArmadillo Meat
+This is a meal!
+WT: 1.0 Size: SMALL
+Class: ALL
+Race: ALL
+, Chunk of MeatChunk of Meat
 Quest
 Size: SMALL WT: 1.0
 Class: ALL

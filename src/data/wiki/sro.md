@@ -1,5 +1,5 @@
 # South_Ro (eqlwiki.com)
-fetched: 2026-11-01
+fetched: 2026-11-06
 
 Southern Desert of Ro - EverQuest Legends Wiki
 Jump to content
@@ -313,7 +313,11 @@ Giant Snake |
 Warrior |
 8 |
 ? |
-None |
+Snake MeatSnake Meat
+WT: 1.0 Size: SMALL
+Class: ALL
+Race: ALL
+|
 Description needed. |
 A Moss Snake
 |
@@ -363,24 +367,7 @@ Beetle |
 Warrior |
 9-11 |
 Various |
-Giant Scarab Egg SacGiant Scarab Egg Sac
-Quest
-Size: SMALL WT: 0.3
-Class: ALL
-Race: ALL
-, Giant Scarab EyeGiant Scarab Eye
-Size: SMALL WT: 0.1
-Class: ALL
-Race: ALL
-, Pristine Giant Scarab CarapacePristine Giant Scarab Carapace
-WT: 5.0 Size: MEDIUM
-Class: ALL
-Race: ALL
-, Scarab CarapaceScarab Carapace
-WT: 0.2 Size: SMALL
-Class: ALL
-Race: ALL
-|
+Various |
 Found throughout North and South Ro. Not aggressive. |
 A Zombie
 |
@@ -396,7 +383,16 @@ Wolf |
 Warrior |
 1 |
 Various |
-None |
+Blackrock LichenBlackrock Lichen
+Size: TINY
+Class: WAR
+Race: ALL
+, Chunk of MeatChunk of Meat
+Quest
+Size: SMALL WT: 1.0
+Class: ALL
+Race: ALL
+|
 A common monster in the Desert of Ro. |
 A jackal
 |
@@ -430,22 +426,7 @@ Giant Snake |
 Warrior |
 3-7 |
 100% @ (-683, 1053) |
-Snake EggSnake Egg
-Quest
-Size: TINY WT: 0.2
-Class: ALL
-Race: ALL
-, Snake FangSnake Fang
-Quest
-WT: 0.1 Size: TINY
-Class: ALL
-Race: ALL
-, Rattlesnake SkinRattlesnake Skin
-QUEST ITEM
-WT: 0.4 Size: MEDIUM
-Class: ALL
-Race: ALL
-|
+Various |
 Has a lethal poison bite. |
 A sand mummy
 |

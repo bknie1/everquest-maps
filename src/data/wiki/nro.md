@@ -1,5 +1,5 @@
 # North_Ro (eqlwiki.com)
-fetched: 2026-11-01
+fetched: 2026-11-06
 
 The Northern Desert of Ro - EverQuest Legends Wiki
 Jump to content
@@ -186,7 +186,7 @@ Dorn B`Dynn |
 ? |
 |
 |
-NPCs - Found 34 NPCs that spawn in Northern Desert of Ro:
+NPCs - Found 47 NPCs that spawn in Northern Desert of Ro:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Crypt Mummy
 |
@@ -196,6 +196,14 @@ Warrior |
 Various |
 Various |
 Description needed. |
+A Deathfist warrior
+|
+|
+|
+8-9 |
+(-672, 421) |
+Various |
+|
 A Decaying Skeleton
 |
 Undead |
@@ -314,24 +322,7 @@ Beetle |
 Warrior |
 9-11 |
 Various |
-Giant Scarab Egg SacGiant Scarab Egg Sac
-Quest
-Size: SMALL WT: 0.3
-Class: ALL
-Race: ALL
-, Giant Scarab EyeGiant Scarab Eye
-Size: SMALL WT: 0.1
-Class: ALL
-Race: ALL
-, Pristine Giant Scarab CarapacePristine Giant Scarab Carapace
-WT: 5.0 Size: MEDIUM
-Class: ALL
-Race: ALL
-, Scarab CarapaceScarab Carapace
-WT: 0.2 Size: SMALL
-Class: ALL
-Race: ALL
-|
+Various |
 Found throughout North and South Ro. Not aggressive. |
 A Shriveled Mummy
 |
@@ -345,14 +336,77 @@ Class: ALL
 Race: ALL
 |
 All mummies occasionally afflict their melee target with Rabies. |
+A brown asp
+|
+|
+|
+8 |
+(-38, 270) |
+|
+|
 A coyote
 |
 Wolf |
 Warrior |
 1 |
 Various |
-None |
+Blackrock LichenBlackrock Lichen
+Size: TINY
+Class: WAR
+Race: ALL
+, Chunk of MeatChunk of Meat
+Quest
+Size: SMALL WT: 1.0
+Class: ALL
+Race: ALL
+|
 A common monster in the Desert of Ro. |
+A desert spiderling
+|
+|
+|
+1-3 |
+(3589, 181) |
+Spiderling EyeSpiderling Eye
+Quest
+Size: SMALL WT: 0.1
+Class: ALL
+Race: ALL
+, Spiderling LegsSpiderling Legs
+Quest
+WT: 0.1 Size: SMALL
+Class: ALL
+Race: ALL
+, Spiderling SilkSpiderling Silk
+Quest
+Size: SMALL WT: 0.1
+Class: ALL
+Race: ALL
+|
+|
+A dune spiderling
+|
+|
+|
+4-6 |
+(3520, 808) |
+Spiderling EyeSpiderling Eye
+Quest
+Size: SMALL WT: 0.1
+Class: ALL
+Race: ALL
+, Spiderling LegsSpiderling Legs
+Quest
+WT: 0.1 Size: SMALL
+Class: ALL
+Race: ALL
+, Spiderling SilkSpiderling Silk
+Quest
+Size: SMALL WT: 0.1
+Class: ALL
+Race: ALL
+|
+|
 A ghoul
 |
 Ghoul |
@@ -361,6 +415,27 @@ Warrior |
 Various |
 Various |
 These undead creatures can be quite dangerous to low-level players, as they are always aggressive and proc [[Ghoul Root]... |
+A gila monster
+|
+|
+|
+9 |
+(-1258, -472) |
+Chunk of MeatChunk of Meat
+Quest
+Size: SMALL WT: 1.0
+Class: ALL
+Race: ALL
+|
+|
+A gila monster hatchling
+|
+|
+|
+4-5 |
+(2918, 518) |
+|
+|
 A jackal
 |
 Wolf |
@@ -385,22 +460,7 @@ Giant Snake |
 Warrior |
 3-7 |
 100% @ (-683, 1053) |
-Snake EggSnake Egg
-Quest
-Size: TINY WT: 0.2
-Class: ALL
-Race: ALL
-, Snake FangSnake Fang
-Quest
-WT: 0.1 Size: TINY
-Class: ALL
-Race: ALL
-, Rattlesnake SkinRattlesnake Skin
-QUEST ITEM
-WT: 0.4 Size: MEDIUM
-Class: ALL
-Race: ALL
-|
+Various |
 Has a lethal poison bite. |
 A skeleton
 |
@@ -415,13 +475,59 @@ Class: ALL
 Race: ALL
 |
 These are found in various low-level zones and are a step up from decaying skeletons that haunt ... |
+A young gila monster
+|
+|
+|
+7 |
+(1884, -325) |
+Chunk of MeatChunk of Meat
+Quest
+Size: SMALL WT: 1.0
+Class: ALL
+Race: ALL
+|
+|
+A young puma
+|
+|
+|
+4-5 |
+(3525, 694) |
+Chunk of MeatChunk of Meat
+Quest
+Size: SMALL WT: 1.0
+Class: ALL
+Race: ALL
+, Low Quality Cat PeltLow Quality Cat Pelt
+Quest
+Size: LARGE WT: 3.5
+Class: ALL
+Race: ALL
+, Medium Quality Cat PeltMedium Quality Cat Pelt
+Quest
+Size: LARGE WT: 3.5
+Class: ALL
+Race: ALL
+, Ruined Cat PeltRuined Cat Pelt
+Quest
+Size: LARGE WT: 3.5
+Class: ALL
+Race: ALL
+|
+|
 An Armadillo
 |
 Armadillo |
 Warrior |
 2 |
 North Ro: 34% @ (2750, 644), 34% @ (2802, 471), 34% @ (3297, 595) |
-Chunk of MeatChunk of Meat
+Armadillo MeatArmadillo Meat
+This is a meal!
+WT: 1.0 Size: SMALL
+Class: ALL
+Race: ALL
+, Chunk of MeatChunk of Meat
 Quest
 Size: SMALL WT: 1.0
 Class: ALL
@@ -533,6 +639,14 @@ Merchant |
 (2185, -754) |
 |
 Used to incorrectly sell alchemy supplies. |
+Klok Sasz
+|
+Iksar |
+Merchant |
+50 |
+(2306, -772) |
+|
+|
 Murissa Sandwhisper
 |
 Human |
@@ -557,6 +671,14 @@ Warrior |
 50% @ (2158, -865) |
 *Fishing Pole |
 Slain by the iksars of New Cabilis. |
+Puntar Sandfisher`s corpse
+|
+|
+|
+|
+|
+|
+Dead NPC that you can't target or attack. Unsure of purpose. |
 Rahotep
 |
 Mummy |
@@ -583,6 +705,14 @@ Race: ALL
 Rare named Mummy in North Ro.
 Any a shriveled mummy in the area.
 As of August 1, 2026, there is no single dedicat... |
+Soulbinder Rakahs
+|
+Iksar |
+Warrior |
+1 |
+(2192, -763) |
+|
+Allows you to bind your soul without the bind affinity spell. |
 Spoolie Gee
 |
 Qeynos Citizen |
@@ -599,7 +729,23 @@ Merchant |
 (2294, -790) |
 |
 Description needed. |
-Items - Found 34 items that drop in Northern Desert of Ro:
+Trooper Axlia
+|
+Iksar |
+Warrior |
+50 |
+(2284, -745) |
+|
+|
+Trooper Tygin
+|
+Iksar |
+Warrior |
+50 |
+(2207, -725) |
+|
+|
+Items - Found 35 items that drop in Northern Desert of Ro:
 Item Name | Drops From | Slot | Stats |
 Armadillo CarapaceArmadillo Carapace
 NO DROP
@@ -928,6 +1074,14 @@ Race: ALL
 Dunedigger |
 Secondary |
 AC: 15 STA: +9 WT: 8.0 Size: MEDIUM Class: WAR CLR PAL RNG SHD DRU BRD ROG SHM Race: ALL |
+Snake Rattle PiecesSnake Rattle Pieces
+Size: TINY WT: 0.1
+Class: ALL
+Race: ALL
+|
+A rattlesnake |
+(None) |
+Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Retrieved from "https://eqlwiki.com/index.php?title=The_Northern_Desert_of_Ro&oldid=164220"
 Categories: Classic Era
 Zones

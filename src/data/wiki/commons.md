@@ -1,5 +1,5 @@
 # West_Commonlands (eqlwiki.com)
-fetched: 2026-11-01
+fetched: 2026-11-06
 
 West Commonlands - EverQuest Legends Wiki
 Jump to content
@@ -436,20 +436,7 @@ Giant Snake |
 Warrior |
 5 |
 100% @ (-683, 1053) |
-Snake EggSnake Egg
-Quest
-Size: TINY WT: 0.2
-Class: ALL
-Race: ALL
-, Large Snake RattleLarge Snake Rattle
-WT: 0.5 Size: SMALL
-Class: ALL
-Race: ALL
-, Large Rattlesnake SkinLarge Rattlesnake Skin
-WT: 0.4 Size: MEDIUM
-Class: ALL
-Race: ALL
-|
+Various |
 Description needed. |
 A rattlesnake
 |
@@ -457,22 +444,7 @@ Giant Snake |
 Warrior |
 3-7 |
 100% @ (-683, 1053) |
-Snake EggSnake Egg
-Quest
-Size: TINY WT: 0.2
-Class: ALL
-Race: ALL
-, Snake FangSnake Fang
-Quest
-WT: 0.1 Size: TINY
-Class: ALL
-Race: ALL
-, Rattlesnake SkinRattlesnake Skin
-QUEST ITEM
-WT: 0.4 Size: MEDIUM
-Class: ALL
-Race: ALL
-|
+Various |
 Has a lethal poison bite. |
 A shadowed man (West Commonlands)
 |

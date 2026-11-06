@@ -1,5 +1,5 @@
 # Lower_Guk (eqlwiki.com)
-fetched: 2026-11-01
+fetched: 2026-11-06
 
 Lower Guk - EverQuest Legends Wiki
 Jump to content
@@ -207,12 +207,12 @@ WT: 4.5 Size: SMALL
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALL
 , Dark ReaverDark Reaver
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable, Quest, Placeable
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 42
 DMG: 20
-Effect: Steal Strength (Combat, Casting Time: Instant) at Level 30
-WT: 9.5 Size: LARGE
+Effect: Steal Strength (Combat) at Level 30
+Size: LARGE WT: 9.5
 Class: SHD
 Race: ALLDMG Bonus: 28 @ lvl 50
 , Ebony Bladed SwordEbony Bladed Sword
@@ -241,10 +241,10 @@ WT: 0.4 Size: SMALL
 Class: CLR DRU BRD SHM NEC WIZ MAG ENC
 Race: ALLFocus Effect: Summoning Efficiency II
 , Enameled Black ChestplateEnameled Black Chestplate
-MAGIC ITEM
+Attunable
 Slot: CHEST
 AC: 25
-WT: 10.0 Size: LARGE
+Size: LARGE WT: 10.0
 Class: WAR CLR PAL SHD BRD
 Race: ALL
 , Enameled Black MaceEnameled Black Mace
@@ -822,10 +822,10 @@ Size: MEDIUM WT: 4.5
 Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
 Race: ALLDMG Bonus: 14 @ lvl 50
 (Common) and Enameled Black ChestplateEnameled Black Chestplate
-MAGIC ITEM
+Attunable
 Slot: CHEST
 AC: 25
-WT: 10.0 Size: LARGE
+Size: LARGE WT: 10.0
 Class: WAR CLR PAL SHD BRD
 Race: ALL
 (Rare)
@@ -838,12 +838,12 @@ Size: SMALL WT: 4.5
 Class: WAR CLR PAL SHD BRD
 Race: ALL
 (Common) and Dark ReaverDark Reaver
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable, Quest, Placeable
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 42
 DMG: 20
-Effect: Steal Strength (Combat, Casting Time: Instant) at Level 30
-WT: 9.5 Size: LARGE
+Effect: Steal Strength (Combat) at Level 30
+Size: LARGE WT: 9.5
 Class: SHD
 Race: ALLDMG Bonus: 28 @ lvl 50
 (Rare)
@@ -1512,12 +1512,12 @@ Size: SMALL WT: 4.5
 Class: WAR CLR PAL SHD BRD
 Race: ALL
 , Dark ReaverDark Reaver
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable, Quest, Placeable
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 42
 DMG: 20
-Effect: Steal Strength (Combat, Casting Time: Instant) at Level 30
-WT: 9.5 Size: LARGE
+Effect: Steal Strength (Combat) at Level 30
+Size: LARGE WT: 9.5
 Class: SHD
 Race: ALLDMG Bonus: 28 @ lvl 50
 |
@@ -1602,10 +1602,10 @@ Cleric |
 35 |
 100% @ (581, -603) |
 Enameled Black ChestplateEnameled Black Chestplate
-MAGIC ITEM
+Attunable
 Slot: CHEST
 AC: 25
-WT: 10.0 Size: LARGE
+Size: LARGE WT: 10.0
 Class: WAR CLR PAL SHD BRD
 Race: ALL
 , Enameled Black MaceEnameled Black Mace
@@ -2195,18 +2195,18 @@ a ghoul sentinel |
 Hands |
 AC: 10 DEX: +5 MANA: +50 WT: 4.5 Size: SMALL Class: WAR PAL RNG SHD BRD ROG Race: ALL |
 Dark ReaverDark Reaver
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable, Quest, Placeable
 Slot: PRIMARY
 Skill: 2H Slashing Atk Delay: 42
 DMG: 20
-Effect: Steal Strength (Combat, Casting Time: Instant) at Level 30
-WT: 9.5 Size: LARGE
+Effect: Steal Strength (Combat) at Level 30
+Size: LARGE WT: 9.5
 Class: SHD
 Race: ALLDMG Bonus: 28 @ lvl 50
 |
 a ghoul cavalier |
 2H Slashing |
-Atk Delay: 42 DMG: 20 Effect: Steal Strength (Combat, Casting Time: Instant) at Level 30 WT: 9.5 Size: LARGE Class: SHD Race: ALL |
+Atk Delay: 42 DMG: 20 Effect: Steal Strength (Combat) at Level 30 Size: LARGE WT: 9.5 Class: SHD Race: ALL |
 Ebony Bladed SwordEbony Bladed Sword
 MAGIC ITEM
 Slot: PRIMARY SECONDARY
@@ -2245,16 +2245,16 @@ a ghoul ritualist |
 Arms |
 AC: 4 HP: +10 MANA: +25 WT: 0.4 Size: SMALL Class: CLR DRU BRD SHM NEC WIZ MAG ENC Race: ALL |
 Enameled Black ChestplateEnameled Black Chestplate
-MAGIC ITEM
+Attunable
 Slot: CHEST
 AC: 25
-WT: 10.0 Size: LARGE
+Size: LARGE WT: 10.0
 Class: WAR CLR PAL SHD BRD
 Race: ALL
 |
 a ghoul savant |
 Chest |
-AC: 25 WT: 10.0 Size: LARGE Class: WAR CLR PAL SHD BRD Race: ALL |
+AC: 25 Size: LARGE WT: 10.0 Class: WAR CLR PAL SHD BRD Race: ALL |
 Enameled Black MaceEnameled Black Mace
 Attunable, Placeable
 Slot: PRIMARY SECONDARY
