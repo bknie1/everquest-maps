@@ -1,5 +1,5 @@
 # Permafrost_Keep (eqlwiki.com)
-fetched: 2026-11-01
+fetched: 2026-11-07
 
 Permafrost - EverQuest Legends Wiki
 Jump to content
@@ -101,7 +101,7 @@ Priest of Nagafen, High Priest Zaharn, A goblin alchemist (Permafrost), King The
 |
 Unique Items:
 |
-Archeologist PackArcheologist Pack
+Archaeologist PackArchaeologist Pack
 LORE ITEM
 WT: 0.4 Weight Reduction: 25%
 Capacity: 6 Size Capacity: LARGE
@@ -385,7 +385,7 @@ STR: +3 MANA: +25
 WT: 5.0 Size: SMALL
 Class: CLR DRU SHM
 Race: ALLFocus Effect: Improved Healing I
-A Goblin Archeologist (Level 24-27) who drops Archeologist PackArcheologist Pack
+A Goblin Archeologist (Level 24-27) who drops Archaeologist PackArchaeologist Pack
 LORE ITEM
 WT: 0.4 Weight Reduction: 25%
 Capacity: 6 Size Capacity: LARGE
@@ -968,7 +968,7 @@ Various |
 If you are facing North in King's Room, the spawn location is directly right of the clump of snow with a rock sticking o... |
 Items - Found 50 items that drop in Permafrost:
 Item Name | Drops From | Slot | Stats |
-Archeologist PackArcheologist Pack
+Archaeologist PackArchaeologist Pack
 LORE ITEM
 WT: 0.4 Weight Reduction: 25%
 Capacity: 6 Size Capacity: LARGE
