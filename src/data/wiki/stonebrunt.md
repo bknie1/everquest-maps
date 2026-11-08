@@ -1,5 +1,5 @@
 # Stonebrunt_Mountains (eqlwiki.com)
-fetched: 2026-11-01
+fetched: 2026-11-08
 
 Stonebrunt Mountains - EverQuest Legends Wiki
 Jump to content
@@ -779,7 +779,11 @@ Gorilla |
 Warrior |
 28 - 30 |
 |
-None |
+Damaged Gorilla HideDamaged Gorilla Hide
+WT: 5.0 Size: LARGE
+Class: ALL
+Race: ALL
+|
 Description needed. |
 A highland kobold
 |
