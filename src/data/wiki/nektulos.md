@@ -1,5 +1,5 @@
 # Nektulos_Forest (eqlwiki.com)
-fetched: 2026-11-01
+fetched: 2026-11-09
 
 Nektulos Forest - EverQuest Legends Wiki
 Jump to content
@@ -413,7 +413,7 @@ WT: 5.0 Size: MEDIUM
 Class: ALL except CLR PAL DRU MNK SHM
 Race: ALLDMG Bonus: 13 @ lvl 50
 |
-Added in Mar2002 update to Nektulos[https://web.archive.org/web/20020421200608/http://eqbeastiary.allakhazam.com:80/sear... |
+Added in Lake Nerius 2026. Located in the south-east of the zone. |
 A darkwater piranha
 |
 Piranha |
