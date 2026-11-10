@@ -1,5 +1,5 @@
 # Rathe_Mountains (eqlwiki.com)
-fetched: 2026-11-02
+fetched: 2026-11-10
 
 Rathe Mountains - EverQuest Legends Wiki
 Jump to content
@@ -404,7 +404,7 @@ Karam Dragonforge (4109, 918) |
 All |
 Permafrost |
 Lady Vox |
-NPCs - Found 121 NPCs that spawn in Rathe Mountains:
+NPCs - Found 139 NPCs that spawn in Rathe Mountains:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Basalt Drake
 |
@@ -520,7 +520,7 @@ A Lizardman Robber
 Lizard Man |
 Warrior |
 17 |
-(-47, -716), (-400, -664), (67, -1009) ? |
+(-47, -716), (-400, -664), (67, -1009), (-508, -789) |
 None |
 Added when frogloks were moved from Grobb to Rathe Mountains[https://web.archive.org/web/20051210101321/http://eqbeastia... |
 A Skeletal Monk
@@ -631,6 +631,27 @@ Class: ALL
 Race: ALL
 |
 Found in the Rathe Mountains, this monster procs a stun that lasts several seconds, making it pesky for EXPing. Not ... |
+A bleeder pupa
+|
+|
+|
+1 |
+(-1674, 669), (-1522, 1210) |
+Airborne Spores, Chunk of MeatChunk of Meat
+Quest
+Size: SMALL WT: 1.0
+Class: ALL
+Race: ALL
+|
+|
+A crab spiderling
+|
+|
+|
+1 |
+(-1791, 1003) |
+Various |
+|
 A drake
 |
 Drake |
@@ -645,6 +666,35 @@ Race: ALL
 |
 Not aggressive. Confirmed sighting near location #22 on the Rathe Mountains map.
 There is A Drake that paths cou...
+|
+A feral bleeder
+|
+|
+|
+1 |
+(-1324, 1368), (-1246, 1106) |
+Small Mosquito WingSmall Mosquito Wing
+QUEST ITEM
+WT: 0.1 Size: SMALL
+Class: ALL
+Race: ALL
+|
+|
+A froglok guardsman
+|
+Froglok |
+Warrior |
+10-11 |
+(-1771, -186) |
+|
+|
+A fungus sporeling
+|
+|
+|
+1 |
+(-1649, 1394) |
+Spore Fungus |
 |
 A kodiak bear
 |
@@ -771,6 +821,30 @@ Race: ALL
 NO MONEY DROPS
 |
 These bears are big and black. Bears are the best source of low, medium, and high quality bear skins. |
+A larval bleeder
+|
+|
+|
+2-4 |
+(-1346, 1529) |
+Chunk of Digested Earth, Chunk of MeatChunk of Meat
+Quest
+Size: SMALL WT: 1.0
+Class: ALL
+Race: ALL
+, LightstoneLightstone
+Attunable, Quest, Placeable
+Slot: PRIMARY SECONDARY
+Size: TINY WT: 0.1
+Class: ALL
+Race: ALL
+, Small Brick of OreSmall Brick of Ore
+Quest
+Size: SMALL WT: 15.0
+Class: ALL
+Race: ALL
+|
+|
 A lizard man guard
 |
 Lizard Man |
@@ -805,6 +879,14 @@ Warrior |
 Various |
 Various |
 Not aggressive. |
+A lizardman healer
+|
+|
+|
+16 |
+(-55, -713) |
+Various |
+|
 A skeleton
 |
 Undead |
@@ -904,6 +986,14 @@ Warrior |
 95% @ (1311, 1740), 95% @ (1491, 2340) |
 Various |
 Not aggressive, not social. |
+An obsidian drake
+|
+|
+|
+8-10 |
+|
+Various |
+|
 An onyx drake
 |
 Drake |
@@ -1071,6 +1161,22 @@ Wizard |
 0 - 4 Platinum, 0 - 18 Gold, 0 - 16 Silver, 0 - 19 Copper |
 Take the shining stone from shadow men to her, and she'll enchant it for you.
 The faction change is only granted when y... |
+Dar Guard Fnabble
+|
+Froglok |
+Warrior |
+9-10 |
+(-1063, 472) |
+|
+|
+Dar Guard Gflabbiel
+|
+Froglok |
+Warrior |
+9-11 |
+(-1042, 404) |
+|
+|
 Darfumpel Zirubbel
 |
 Gnome |
@@ -1254,6 +1360,14 @@ Race: ALL
 |
 See bottom of page for spawn details.
 He is a major undercon, with alot of hitpoints and the damage of a mob closer to ... |
+High Seer Flogk
+|
+Froglok |
+Warrior |
+70 |
+(-1146, 218) |
+|
+|
 Ice bone skeleton
 |
 Skeleton |
@@ -1897,6 +2011,74 @@ Class: ALL
 Race: ALL
 |
 Not aggressive. Does not wander. |
+Zok Crikk
+|
+Froglok |
+Merchant |
+50 |
+(-1239, 38) |
+|
+Brewing supplies merchant.
+You say, 'Hail Zok Crikk'
+Zok Crikk says, 'Welcome to my store, ____. Although we are not ... |
+Zok Moic
+|
+Froglok |
+Merchant |
+50 |
+(-1962, -168) |
+|
+Fletching supplies merchant.
+You say, 'Hail Zok Moic'
+Zok Moic says, 'Welcome to my store, ____. Although we are not ... |
+Zok Pirk
+|
+Froglok |
+Merchant |
+50 |
+(-1882, -194) |
+|
+Jewelcraft supplies merchant.
+You say, 'Hail Zok Pirk'
+Zok Pirk says, 'Welcome to my store, ____. Although we are not... |
+Zok Prolo
+|
+Froglok |
+Merchant |
+50 |
+(-1899, -188) |
+|
+Jewelcrafting supplies merchant.
+You say, 'Hail Zok Prolo'
+Zok Prolo says, 'Welcome to my store, ____. Although we ar... |
+Zok Rurpp
+|
+Froglok |
+Merchant |
+50 |
+(-1940, -187) |
+|
+Fletching supplies merchant.
+You say, 'Hail Zok Rurpp'
+Zok Rurpp says, 'Welcome to my store, ____. Although we are no... |
+Zok Seleka
+|
+Frglok |
+Merchant |
+50 |
+(-1215, 59) |
+|
+Bartender merchant.
+You say, 'Hail Zok Seleka'
+Zok Seleka says, 'Welcome to my store, ____. Although we are not of th... |
+Zok Virek
+|
+Froglok |
+Merchant |
+50 |
+|
+|
+|
 Zok Zribb
 |
 Froglok |
@@ -1906,7 +2088,7 @@ Merchant |
 |
 This NPC has a quest to accept Phosphorous Powder for money and improvement to several Gukta factions.
 Quest tur... |
-Items - Found 50 items that drop in Rathe Mountains:
+Items - Found 52 items that drop in Rathe Mountains:
 Item Name | Drops From | Slot | Stats |
 A skeletal fingerA skeletal finger
 MAGIC ITEM LORE ITEM NO DROP
@@ -2295,6 +2477,15 @@ Race: ALL
 None? |
 (None) |
 LORE ITEM NO DROP This item can be used in tradeskills. WT: 1.0 Size: SMALL Class: ALL Race: ALL |
+Recovered LootRecovered Loot
+No Trade, Quest
+Size: TINY
+Class: NONE
+Race: NONE
+|
+Sergeant Herptol |
+(None) |
+No Trade, Quest Size: TINY Class: NONE Race: NONE |
 Robe of the Lost CircleRobe of the Lost Circle
 MAGIC ITEM LORE ITEM NO DROP
 Slot: CHEST
@@ -2378,6 +2569,15 @@ Race: ALL
 Mortificator Syythrak |
 Chest |
 AC: 10 STR: +5 DEX: +5 STA: +5 WT: 0.0 Size: SMALL Class: MNK Race: ALL |
+Tattered CodexTattered Codex
+No Trade, Quest
+Size: TINY
+Class: NONE
+Race: NONE
+|
+Initiate Xabbis |
+(None) |
+No Trade, Quest Size: TINY Class: NONE Race: NONE |
 Tuft of Black Bear FurTuft of Black Bear Fur
 Size: TINY WT: 0.1
 Class: ALL
