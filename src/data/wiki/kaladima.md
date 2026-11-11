@@ -1,5 +1,5 @@
 # Kaladim (eqlwiki.com)
-fetched: 2026-11-10
+fetched: 2026-11-11
 
 Kaladim - EverQuest Legends Wiki
 Jump to content
@@ -117,8 +117,8 @@ ZEM Value:
 |
 Map
 North Kaladim
-1. Merchant selling Gems
-2. Merchant selling Brellium, Ore, Smithy Hammers, Sharpening Stones
+1. Merchant selling Gems and Jewelcrafting Supplies (Banaf Norkhitter)
+2. Merchant selling Brellium, Ore, Smithy Hammers, Sharpening Stones (Bloarn Norkhitter)
 3. Cleric Guild - Merchants selling Blunt Weapons, Food and Goods Merchant outside
 4. Ratsbone Treasure and Assay Office - Bank, Merchants who sell Throwing Weapons (Kafia Ratsbone), Mining Supplies & Boxes (Kadek Norkhitter), and Rogue Guild Members outside
 5. Pottery Wheel and Kiln
@@ -2214,7 +2214,7 @@ WT: 6.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG SHM
 Race: ALL
 |
-Description needed. |
+Atheki Norkhitter is a Dwarf warrior located in the North Kaladim mines. |
 Axa Stormshield
 |
 Kaladim Citizen |
@@ -2238,7 +2238,7 @@ Merchant |
 39 |
 (690, 431) |
 |
-Gem merchant in North Kaladim in mines. |
+Banaf Norkhitter is a gem merchant found in the mines of North Kaladim. He stocks a broad range of cut gems, from inexpe... |
 Bloarn Norkhitter
 |
 Dwarf |
@@ -2307,7 +2307,7 @@ GM Rogue |
 61 |
 (659, 304) |
 None |
-Description needed. |
+Diggins is a Dwarf Rogue Guildmaster found in the mines of North Kaladim. |
 Dindaek Everhot
 |
 Kaladim Citizen |
@@ -2513,7 +2513,7 @@ Paladin |
 50 |
 (705, 215) |
 None |
-|
+Dwarven Worker in the mines of North Kaladim. |
 Jeet
 |
 Dwarf |
@@ -2559,7 +2559,7 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 |
-Description needed. |
+Kalamin Norkhitter is a dwarf miner found in the mines of North Kaladim, where he works with a pickaxe. |
 Kinlo Strongarm
 |
 Dwarf |
@@ -2797,12 +2797,12 @@ Race: ALL
 None? |
 (None) |
 WT: 0.1 Size: TINY Class: ALL Race: ALL |
-Retrieved from "https://eqlwiki.com/index.php?title=Kaladim&oldid=200532"
+Retrieved from "https://eqlwiki.com/index.php?title=Kaladim&oldid=200655"
 Categories: Zones
 Loc Mapped
 How to Contribute
 Donate
-This page was last edited on 9 November 2026, at 16:53.
+This page was last edited on 10 November 2026, at 22:52.
 Privacy policy
 About EverQuest Legends Wiki
 Disclaimers

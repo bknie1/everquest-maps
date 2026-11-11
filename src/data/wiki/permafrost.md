@@ -1,5 +1,5 @@
 # Permafrost_Keep (eqlwiki.com)
-fetched: 2026-11-07
+fetched: 2026-11-11
 
 Permafrost - EverQuest Legends Wiki
 Jump to content
@@ -1032,17 +1032,17 @@ a goblin champion, Ice Goblin Champion |
 1H Slashing |
 Atk Delay: 38 DMG: 11 WT: 3.5 Size: MEDIUM Class: WAR PAL RNG SHD BRD ROG Race: ALL |
 Crystalline SpearCrystalline Spear
-MAGIC ITEM
+Attunable, Placeable
 Slot: PRIMARY
-Skill: Piercing Atk Delay: 30
-DMG: 13BACKSTAB: 13
-WT: 6.8 Size: MEDIUM
-Class: WAR RNG BRD ROG
+Skill: 1H Piercing Atk Delay: 30
+DMG: 13 BACKSTAB: 13
+Size: MEDIUM WT: 6.8
+Class: WAR RNG BRD ROG BST
 Race: ALLDMG Bonus: 15 @ lvl 50
 |
 Lady Vox |
-Piercing |
-Atk Delay: 30 DMG: 13 WT: 6.8 Size: MEDIUM Class: WAR RNG BRD ROG Race: ALL |
+Primary |
+Skill: 1H Piercing Atk Delay: 30 DMG: 13 BACKSTAB: 13 Size: MEDIUM WT: 6.8 Class: WAR RNG BRD ROG BST Race: ALL |
 Dented Brass MaskDented Brass Mask
 MAGIC ITEM
 Slot: FACE
@@ -1516,12 +1516,12 @@ Size: MEDIUM WT: 15.0
 Class: ALL
 Race: ALL
 , Crystalline SpearCrystalline Spear
-MAGIC ITEM
+Attunable, Placeable
 Slot: PRIMARY
-Skill: Piercing Atk Delay: 30
-DMG: 13BACKSTAB: 13
-WT: 6.8 Size: MEDIUM
-Class: WAR RNG BRD ROG
+Skill: 1H Piercing Atk Delay: 30
+DMG: 13 BACKSTAB: 13
+Size: MEDIUM WT: 6.8
+Class: WAR RNG BRD ROG BST
 Race: ALLDMG Bonus: 15 @ lvl 50
 , Dragon Bone BraceletDragon Bone Bracelet
 Attunable

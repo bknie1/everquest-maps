@@ -1,5 +1,5 @@
 # Rathe_Mountains (eqlwiki.com)
-fetched: 2026-11-10
+fetched: 2026-11-11
 
 Rathe Mountains - EverQuest Legends Wiki
 Jump to content
@@ -404,7 +404,7 @@ Karam Dragonforge (4109, 918) |
 All |
 Permafrost |
 Lady Vox |
-NPCs - Found 139 NPCs that spawn in Rathe Mountains:
+NPCs - Found 150 NPCs that spawn in Rathe Mountains:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Basalt Drake
 |
@@ -637,7 +637,11 @@ A bleeder pupa
 |
 1 |
 (-1674, 669), (-1522, 1210) |
-Airborne Spores, Chunk of MeatChunk of Meat
+Airborne SporesAirborne Spores
+Size: SMALL WT: 1.0
+Class: NONE
+Race: NONE
+, Chunk of MeatChunk of Meat
 Quest
 Size: SMALL WT: 1.0
 Class: ALL
@@ -651,6 +655,42 @@ A crab spiderling
 1 |
 (-1791, 1003) |
 Various |
+|
+A domesticated bleeder
+|
+|
+|
+1 |
+(-2250, 952) |
+Small Mosquito WingSmall Mosquito Wing
+QUEST ITEM
+WT: 0.1 Size: SMALL
+Class: ALL
+Race: ALL
+|
+|
+A domesticated hatchling
+|
+|
+|
+1 |
+(-1604, 211) |
+Spiderling EyeSpiderling Eye
+Quest
+Size: SMALL WT: 0.1
+Class: ALL
+Race: ALL
+, Spiderling LegsSpiderling Legs
+Quest
+WT: 0.1 Size: SMALL
+Class: ALL
+Race: ALL
+, Spiderling SilkSpiderling Silk
+Quest
+Size: SMALL WT: 0.1
+Class: ALL
+Race: ALL
+|
 |
 A drake
 |
@@ -694,8 +734,21 @@ A fungus sporeling
 |
 1 |
 (-1649, 1394) |
-Spore Fungus |
+Spore FungusSpore Fungus
+Size: TINY WT: 0.1
+Class: NONE
+Race: NONE
 |
+|
+A kobold (Rathe Mountains)
+|
+|
+|
+2-4 |
+(-1236, 1035), (-1131, 1717), (-1264, 1563) |
+Various |
+:You say, 'Hail a kobold'
+a kobold says, 'Grrrrr. Bark. Bark. Grrrrr.' |
 A kodiak bear
 |
 Bear |
@@ -827,7 +880,12 @@ A larval bleeder
 |
 2-4 |
 (-1346, 1529) |
-Chunk of Digested Earth, Chunk of MeatChunk of Meat
+Chunk of Digested EarthChunk of Digested Earth
+Quest
+Size: LARGE WT: 3.0
+Class: NONE
+Race: NONE
+, Chunk of MeatChunk of Meat
 Quest
 Size: SMALL WT: 1.0
 Class: ALL
@@ -1002,6 +1060,14 @@ Warrior |
 45% @ (1646, 1442) |
 Various |
 Not aggressive, not social. Compared to other drakes in the area, the onyx drakes drop a strangely high amount of money ... |
+An undead servant
+|
+Froglok |
+|
+10 |
+(-1922, 1988), (-1955, 1927), (-1959, 1876) |
+|
+|
 Ankhefenmut
 |
 Sphinx |
@@ -1086,6 +1152,14 @@ Half-Elf |
 3042, 1471 |
 None |
 Blinde the Cutpurse is a spawn at the bandit camp in the cyclops valley (on top of the hill). Upon killing Blinde, [[a l... |
+Bok Master Thragnog
+|
+Froglok |
+GM Shadow Knight |
+70 |
+(-1750, 2146) |
+|
+|
 Brill
 |
 Qeynos Citizen |
@@ -1161,6 +1235,14 @@ Wizard |
 0 - 4 Platinum, 0 - 18 Gold, 0 - 16 Silver, 0 - 19 Copper |
 Take the shining stone from shadow men to her, and she'll enchant it for you.
 The faction change is only granted when y... |
+Dar Guard Broktl
+|
+Froglok |
+Warrior |
+9-11 |
+(-1399, 786) |
+|
+|
 Dar Guard Fnabble
 |
 Froglok |
@@ -1227,6 +1309,14 @@ Class: ALL
 Race: ALL
 (Top) (Uncommon) |
 They assist if you attack the skeletons outside. Their spawn time is extremely short - about a minute or so. |
+Frip Frooply
+|
+Froglok |
+Merchant |
+30 |
+(-2235, 627) |
+|
+|
 Gaz Commander Faltip
 |
 Froglok |
@@ -1235,6 +1325,14 @@ Warrior |
 -1576, -255 |
 None |
 A Guktan army commander posted in the Rathe Mountains, and the quest giver for the Soldier's Brooch Quest. He as... |
+Gaz Master Shargnol
+|
+Froglok |
+Rogue |
+70 |
+(-1748, 2103) |
+|
+Rogue GM |
 Glaron the Wicked
 |
 Human |
@@ -1449,6 +1547,14 @@ Enchanter |
 100% @ (1634, -916) |
 None |
 This mob spawns at +1634, -916 at the gypsy camp in the NE part of the zone. |
+Kor Master Ralg
+|
+Froglok |
+Cleric |
+70 |
+(-1883, 2140) |
+|
+Cleric GM |
 Lianna Ferasa
 |
 Qeynos Citizen |
@@ -1682,6 +1788,16 @@ Merchant |
 (1592, -887) |
 |
 Description needed. |
+Scribe Noglleg
+|
+Froglok |
+Merchant |
+50 |
+(-2059, 1935) |
+|
+Necromancer spells merchant.
+You say, 'Hail Scribe Noglleg'
+Scribe Noglleg says, 'Welcome to my shop, ________. From ... |
 Sentry Joanna
 |
 Wood Elf |
@@ -2088,7 +2204,15 @@ Merchant |
 |
 This NPC has a quest to accept Phosphorous Powder for money and improvement to several Gukta factions.
 Quest tur... |
-Items - Found 52 items that drop in Rathe Mountains:
+Zol Master Malgorn
+|
+Froglok |
+|
+70 |
+(-2060, 1957) |
+|
+|
+Items - Found 72 items that drop in Rathe Mountains:
 Item Name | Drops From | Slot | Stats |
 A skeletal fingerA skeletal finger
 MAGIC ITEM LORE ITEM NO DROP
@@ -2108,6 +2232,14 @@ Race: ALL
 a giant skeleton |
 (None) |
 MAGIC ITEM LORE ITEM NO DROP WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Airborne SporesAirborne Spores
+Size: SMALL WT: 1.0
+Class: NONE
+Race: NONE
+|
+A bleeder pupa |
+(None) |
+Size: SMALL WT: 1.0 Class: NONE Race: NONE |
 Ancient RockAncient Rock
 No Trade, Quest
 WT: 0.1 Size: TINY
@@ -2130,6 +2262,14 @@ Race: ALLDMG Bonus: 33 @ lvl 50
 Grazhak the Berzerker |
 2H Slashing |
 Atk Delay: 48 DMG: 23 Effect: Rampage (Combat, Casting Time: Instant) at Level 30 WT: 15.0 Size: LARGE Class: WAR Race: ALL |
+Ball of Pulpy FungusBall of Pulpy Fungus
+Size: MEDIUM WT: 2.0
+Class: NONE
+Race: NONE
+|
+Fungus man tracker |
+(None) |
+Size: MEDIUM WT: 2.0 Class: NONE Race: NONE |
 Bandit SashBandit Sash
 MAGIC ITEM NO DROP QUEST ITEM
 Slot: WAIST
@@ -2178,6 +2318,14 @@ Race: ALL
 Brother Zephyl |
 Head |
 AC: 2 STR: +2 DEX: +3 STA: +4 CHA: +4 INT: +1 AGI: +3 HP: +4 WT: 0.0 Size: SMALL Class: MNK Race: ALL |
+Blackened FungusBlackened Fungus
+Size: SMALL WT: 1.0
+Class: NONE
+Race: NONE
+|
+A fungus sporeling |
+(None) |
+Size: SMALL WT: 1.0 Class: NONE Race: NONE |
 Bloodblack WandBloodblack Wand
 MAGIC ITEM LORE ITEM NO DROP
 Slot: PRIMARY SECONDARY
@@ -2197,6 +2345,50 @@ Race: ALL
 Maldyn the Unkempt |
 (None) |
 LORE ITEM NO DROP WT: 0.5 Size: SMALL Class: ALL Race: ALL |
+Chunk of Digested EarthChunk of Digested Earth
+Quest
+Size: LARGE WT: 3.0
+Class: NONE
+Race: NONE
+|
+A larval bleeder |
+(None) |
+Quest Size: LARGE WT: 3.0 Class: NONE Race: NONE |
+Crab Spider's CarapaceCrab Spider's Carapace
+Size: MEDIUM WT: 2.0
+Class: NONE
+Race: NONE
+|
+A crab spiderling |
+(None) |
+Size: MEDIUM WT: 2.0 Class: NONE Race: NONE |
+Crab Spiderling EyeCrab Spiderling Eye
+Quest, Placeable
+Slot: PRIMARY SECONDARY
+Size: TINY WT: 0.2
+Class: ALL
+Race: ALL
+|
+A crab spiderling |
+Primary, Secondary |
+Size: TINY WT: 0.2 Class: ALL Race: ALL |
+Cracked AquamarineCracked Aquamarine
+No Trade
+Size: TINY WT: 0.1
+Class: NONE
+Race: NONE
+|
+A fungus spore |
+(None) |
+No Trade Size: TINY WT: 0.1 Class: NONE Race: NONE |
+Cracked Crab Spider LegCracked Crab Spider Leg
+Size: SMALL WT: 1.0
+Class: NONE
+Race: NONE
+|
+A crab spiderling |
+(None) |
+Size: SMALL WT: 1.0 Class: NONE Race: NONE |
 Cyclops CharmCyclops Charm
 MAGIC ITEM LORE ITEM NO DROP
 Slot: NECK
@@ -2257,6 +2449,31 @@ Race: ALL
 Unkempt Preserver (no lore) |
 (None) |
 LORE ITEM NO DROP WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Fungalia RootFungalia Root
+Size: TINY WT: 0.3
+Class: NONE
+Race: NONE
+|
+A fungus spore, Fungus man tracker |
+(None) |
+Size: TINY WT: 0.3 Class: NONE Race: NONE |
+Fungus RemainsFungus Remains
+No Trade
+Size: TINY WT: 0.5
+Class: NONE
+Race: NONE
+|
+A fungus spore, Fungus man tracker |
+(None) |
+No Trade Size: TINY WT: 0.5 Class: NONE Race: NONE |
+Giant Moccasin FangGiant Moccasin Fang
+Size: MEDIUM WT: 2.0
+Class: NONE
+Race: NONE
+|
+A water moccasin |
+(None) |
+Size: MEDIUM WT: 2.0 Class: NONE Race: NONE |
 Giant Mosquito WingsGiant Mosquito Wings
 WT: 0.2 Size: TINY
 Class: ALL
@@ -2312,6 +2529,22 @@ Race: NONE
 a burly kobold |
 (None) |
 WT: 2.0 Size: MEDIUM Class: NONE Race: NONE |
+Kobold TalismanKobold Talisman
+Size: SMALL WT: 1.0
+Class: NONE
+Race: NONE
+|
+a kobold |
+(None) |
+Size: SMALL WT: 1.0 Class: NONE Race: NONE |
+Large Fungal SporeLarge Fungal Spore
+Size: LARGE WT: 3.0
+Class: NONE
+Race: NONE
+|
+Fungus man tracker |
+(None) |
+Size: LARGE WT: 3.0 Class: NONE Race: NONE |
 Leather BeltLeather Belt
 Slot: WAIST
 AC: 3
@@ -2322,6 +2555,14 @@ Race: ALL
 Meridith Tindle |
 Waist |
 AC: 3 WT: 1.0 Size: SMALL Class: ALL except NEC WIZ MAG ENC Race: ALL |
+Liquid FungusLiquid Fungus
+Size: TINY WT: 0.2
+Class: NONE
+Race: NONE
+|
+A fungus spore, A fungus sporeling, Fungus man tracker |
+(None) |
+Size: TINY WT: 0.2 Class: NONE Race: NONE |
 Lizard MeatLizard Meat
 Quest
 Size: SMALL WT: 1.0
@@ -2384,6 +2625,14 @@ Class: NONE
 Race: NONE
 |
 a water moccasin |
+(None) |
+Size: SMALL WT: 1.0 Class: NONE Race: NONE |
+Moccasin ScalesMoccasin Scales
+Size: SMALL WT: 1.0
+Class: NONE
+Race: NONE
+|
+A water moccasin |
 (None) |
 Size: SMALL WT: 1.0 Class: NONE Race: NONE |
 Monstrous Zombie HeartMonstrous Zombie Heart
@@ -2548,6 +2797,40 @@ Race: ALL
 None? |
 (None) |
 Quest Size: SMALL WT: 15.0 Class: ALL Race: ALL |
+Spiderling FleshSpiderling Flesh
+Quest
+Size: TINY WT: 0.5
+Class: NONE
+Race: NONE
+|
+A crab spiderling |
+(None) |
+Quest Size: TINY WT: 0.5 Class: NONE Race: NONE |
+Spiderling MeatSpiderling Meat
+Quest
+Size: TINY WT: 0.5
+Class: NONE
+Race: NONE
+|
+A crab spiderling |
+(None) |
+Quest Size: TINY WT: 0.5 Class: NONE Race: NONE |
+Spore BudsSpore Buds
+Size: SMALL WT: 1.0
+Class: NONE
+Race: NONE
+|
+A fungus spore |
+(None) |
+Size: SMALL WT: 1.0 Class: NONE Race: NONE |
+Spore FungusSpore Fungus
+Size: TINY WT: 0.1
+Class: NONE
+Race: NONE
+|
+A fungus spore, A fungus sporeling, Fungus man tracker |
+(None) |
+Size: TINY WT: 0.1 Class: NONE Race: NONE |
 Stem of CandlestickStem of Candlestick
 LORE ITEM NO DROP
 WT: 0.1 Size: TINY
@@ -2595,6 +2878,14 @@ Race: ALL
 a barbed bone skeleton, a skeletal monk |
 (None) |
 Quest Size: SMALL WT: 0.1 Class: ALL Race: ALL |
+Water Moccasin TailWater Moccasin Tail
+Size: SMALL WT: 1.0
+Class: NONE
+Race: NONE
+|
+A water moccasin |
+(None) |
+Size: SMALL WT: 1.0 Class: NONE Race: NONE |
 WoeWoe
 MAGIC ITEM LORE ITEM
 Slot: PRIMARY SECONDARY
