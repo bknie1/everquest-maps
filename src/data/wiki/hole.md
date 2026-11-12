@@ -1,5 +1,5 @@
 # The_Hole (eqlwiki.com)
-fetched: 2026-11-02
+fetched: 2026-11-12
 
 The Hole - EverQuest Legends Wiki
 Jump to content
@@ -1121,7 +1121,7 @@ Class: CLR DRU SHM BST
 Race: ALL
 |
 Can randomly spawn in place of a revenant or a wanderer. |
-Items - Found 69 items that drop in The Hole:
+Items - Found 70 items that drop in The Hole:
 Item Name | Drops From | Slot | Stats |
 Blood of KyrennaBlood of Kyrenna
 MAGIC ITEM LORE ITEM NO DROP
@@ -1291,6 +1291,15 @@ Race: ALL
 a ratman guard |
 (None) |
 WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+Fragment of Major PotentialFragment of Major Potential
+No Trade
+Size: TINY
+Class: ALL
+Race: ALL
+|
+None? |
+(None) |
+No Trade Size: TINY Class: ALL Race: ALL |
 Fusible Earthen OreFusible Earthen Ore
 MAGIC ITEM LORE ITEM NO DROP
 WT: 0.1 Size: TINY

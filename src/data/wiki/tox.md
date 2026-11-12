@@ -1,5 +1,5 @@
 # Toxxulia_Forest (eqlwiki.com)
-fetched: 2026-11-01
+fetched: 2026-11-12
 
 Toxxulia Forest - EverQuest Legends Wiki
 Jump to content
@@ -221,7 +221,7 @@ a skeleton (miner) |
 All |
 Toxxulia Forest |
 a kobold scout |
-NPCs - Found 61 NPCs that spawn in Toxxulia Forest:
+NPCs - Found 62 NPCs that spawn in Toxxulia Forest:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Boat
 |
@@ -799,6 +799,15 @@ Class: ALL
 Race: ALL
 |
 Named Skeleton in Toxxulia forest. Spawns south of the river and wanders widely in that area. |
+Ilisiv Gantrau
+|
+|
+|
+65 |
+(1150, -296) |
+|
+:You say, 'Hail Ilisiv Gantrau'
+Ilisiv Gantrau says, 'You do not hold the power of the orb. Lest you possess this most... |
 Islan Hetston
 |
 Erudin Citizen |
@@ -1044,7 +1053,7 @@ Merchant |
 (2202, -1128) |
 |
 Description needed. |
-Items - Found 24 items that drop in Toxxulia Forest:
+Items - Found 26 items that drop in Toxxulia Forest:
 Item Name | Drops From | Slot | Stats |
 Aglthin's Fishing PoleAglthin's Fishing Pole
 LORE ITEM NO DROP
@@ -1124,6 +1133,14 @@ Race: ALL
 None? |
 (None) |
 Quest Size: SMALL WT: 0.1 Class: ALL Race: ALL |
+Giant Rat ToothGiant Rat Tooth
+Size: SMALL WT: 0.1
+Class: ALL
+Race: ALL
+|
+an infected rat |
+(None) |
+Size: SMALL WT: 0.1 Class: ALL Race: ALL |
 Half of a SpellHalf of a Spell
 LORE ITEM NO DROP
 WT: 0.1 Size: TINY
@@ -1237,6 +1254,15 @@ Race: ALL
 A Skunk |
 (None) |
 QUEST ITEM WT: 0.5 Size: SMALL Class: ALL Race: ALL |
+Snake BileSnake Bile
+No Trade
+Size: SMALL WT: 0.2
+Class: ALL
+Race: ALL
+|
+A large thistle snake |
+(None) |
+No Trade Size: SMALL WT: 0.2 Class: ALL Race: ALL |
 Tarnished MaceTarnished Mace
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 36

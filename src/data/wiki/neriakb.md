@@ -1,5 +1,5 @@
 # Neriak_Commons (eqlwiki.com)
-fetched: 2026-11-05
+fetched: 2026-11-12
 
 Neriak - EverQuest Legends Wiki
 Jump to content
@@ -2189,7 +2189,7 @@ Race: ALL
 |
 Loveal S`Nez |
 20+ |
-Necromancer, Shadow Knight |
+Shadow Knight |
 Befallen |
 Kizdean Gix, Skeleton Lrodd, Commander Windstream, An Elf Skeleton |
 NPCs - Found 77 NPCs that spawn in Neriak Third Gate:

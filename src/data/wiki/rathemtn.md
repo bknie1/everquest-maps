@@ -1,5 +1,5 @@
 # Rathe_Mountains (eqlwiki.com)
-fetched: 2026-11-11
+fetched: 2026-11-12
 
 Rathe Mountains - EverQuest Legends Wiki
 Jump to content
@@ -404,7 +404,7 @@ Karam Dragonforge (4109, 918) |
 All |
 Permafrost |
 Lady Vox |
-NPCs - Found 150 NPCs that spawn in Rathe Mountains:
+NPCs - Found 151 NPCs that spawn in Rathe Mountains:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Basalt Drake
 |
@@ -1788,6 +1788,16 @@ Merchant |
 (1592, -887) |
 |
 Description needed. |
+Scribe Biddlegorb
+|
+Froglok |
+Merchant |
+50 |
+(-1870, 2091) |
+|
+Cleric spells merchant.
+You say, 'Hail Scribe Biddlegorb'
+Scribe Biddlegorb says, 'Welcome to my shop, ____. From the... |
 Scribe Noglleg
 |
 Froglok |
@@ -2212,7 +2222,7 @@ Froglok |
 (-2060, 1957) |
 |
 |
-Items - Found 72 items that drop in Rathe Mountains:
+Items - Found 74 items that drop in Rathe Mountains:
 Item Name | Drops From | Slot | Stats |
 A skeletal fingerA skeletal finger
 MAGIC ITEM LORE ITEM NO DROP
@@ -2389,6 +2399,14 @@ Race: NONE
 A crab spiderling |
 (None) |
 Size: SMALL WT: 1.0 Class: NONE Race: NONE |
+Cracked Skeleton SkullCracked Skeleton Skull
+Size: SMALL WT: 1.0
+Class: NONE
+Race: NONE
+|
+a skeleton |
+(None) |
+Size: SMALL WT: 1.0 Class: NONE Race: NONE |
 Cyclops CharmCyclops Charm
 MAGIC ITEM LORE ITEM NO DROP
 Slot: NECK
@@ -2535,6 +2553,14 @@ Class: NONE
 Race: NONE
 |
 a kobold |
+(None) |
+Size: SMALL WT: 1.0 Class: NONE Race: NONE |
+Kobold TalonKobold Talon
+Size: SMALL WT: 1.0
+Class: NONE
+Race: NONE
+|
+A kobold (Rathe Mountains) |
 (None) |
 Size: SMALL WT: 1.0 Class: NONE Race: NONE |
 Large Fungal SporeLarge Fungal Spore
