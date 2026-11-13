@@ -1,5 +1,5 @@
 # Butcherblock_Mountains (eqlwiki.com)
-fetched: 2026-11-01
+fetched: 2026-11-13
 
 Butcherblock Mountains - EverQuest Legends Wiki
 Jump to content
@@ -943,7 +943,7 @@ Warrior |
 35 |
 (1098, 2701) |
 Various |
-Description needed. |
+Doran Glosglen is a Dwarven maiden residing at the docks in the Butcherblock Mountains. She has blue eyes and light ... |
 Dru Razbind
 |
 Dwarf |
@@ -1026,7 +1026,7 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 |
-Description needed. |
+Gann Dunbull is a Dwarf residing at the docks in the Butcherblock Mountains. He has green eyes, shaggy red hair, a m... |
 Gibi Bilgum
 |
 Dwarf |
@@ -1273,7 +1273,7 @@ WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALLDMG Bonus: 13 @ lvl 50
 |
-Description needed. |
+A Dwarven guard patrolling the area around the guard house located at (1110, 1452, 0) in the Butcherblock Mountains. |
 Guard Kizzburr
 |
 Kaladim Citizen |
@@ -1352,7 +1352,7 @@ WT: 4.0 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALLDMG Bonus: 13 @ lvl 50
 |
-He is outside the second guard hut from Kaladim to the docks. |
+A Dwarven guard patrolling the area around the guard house located at (1110, 1452, 0) in the Butcherblock Mountains. |
 Guard Rylin
 |
 Kaladim Citizen |
@@ -1450,7 +1450,7 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 |
-Doesn't always summon earth pet as suggested in picture. Casts invisibility on his pet from time to time. Despite having... |
+Doesn't always summon earth pet. Casts invisibility on his pet from time to time. Despite having no faction hits on deat... |
 Iglan Thranon
 |
 Dwarf |

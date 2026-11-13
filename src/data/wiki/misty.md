@@ -1,5 +1,5 @@
 # Misty_Thicket (eqlwiki.com)
-fetched: 2026-11-01
+fetched: 2026-11-13
 
 Misty Thicket - EverQuest Legends Wiki
 Jump to content
@@ -1307,7 +1307,7 @@ Druid |
 10 |
 (-852, -2264) |
 None |
-Involved in many quests revolving around honey jum. Joogl is aligned with the DeepPockets faction. |
+Involved in many quests revolving around honey jum. Joogl is aligned with the DeepPockets faction. Giving Joogl [[B... |
 Lil Honeybugger
 |
 Halfling |
@@ -1399,14 +1399,19 @@ Old Froglok |
 Shaman |
 20 |
 +1020, +80 |
-Froglok LegFroglok Leg
-Quest
-Size: SMALL WT: 0.1
-Class: ALL
-Race: ALL
-, BloodstoneBloodstone
+BloodstoneBloodstone
 QUEST ITEM
 WT: 0.1 Size: TINY
+Class: ALL
+Race: ALL
+, Cat's Eye AgateCat's Eye Agate
+Quest
+Size: TINY WT: 0.1
+Class: ALL
+Race: ALL
+, Froglok LegFroglok Leg
+Quest
+Size: SMALL WT: 0.1
 Class: ALL
 Race: ALL
 , Lapis LazuliLapis Lazuli
@@ -1414,7 +1419,7 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 |
-Not to be confused with Slaythe the Slayer. Spawned by talking to Bronin. Appears west of the Great Wall, just east ... |
+Not to be confused with Slaythe the Slayer. Speak to Bronin Higginsbot during the Eye of Stormhammer quest t... |
 Sonsa Fromp
 |
 Rivervale Citizen |

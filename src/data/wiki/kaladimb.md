@@ -1,5 +1,5 @@
 # Kaladim (eqlwiki.com)
-fetched: 2026-11-12
+fetched: 2026-11-13
 
 Kaladim - EverQuest Legends Wiki
 Jump to content
@@ -381,7 +381,7 @@ Beno Targnarle |
 20 |
 Warrior |
 Dagnor's Cauldron, Greater Faydark, High Keep, Misty Thicket, North Qeynos, Rivervale |
-Bronin Higginsbot, Elmion Hendrys, Faldor Hendrys, Slaythe |
+Assistant Kiolna, Bronin Higginsbot, Elmion Hendrys, Faldor Hendrys, Jail Clerk Maryl, Slaythe |
 Fresh Baked Muffins (Kaladim)
 |
 Coin, Faction |
