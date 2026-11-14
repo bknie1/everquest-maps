@@ -1,5 +1,5 @@
 # Surefall_Glade (eqlwiki.com)
-fetched: 2026-11-01
+fetched: 2026-11-14
 
 Surefall Glade - EverQuest Legends Wiki
 Jump to content
@@ -882,8 +882,16 @@ Retrieved from "https://eqlwiki.com/index.php?title=Surefall_Glade&oldid=176580"
 Categories: Classic Era
 Zones
 Loc Mapped
+Advertisements
+Advertisements
+Advertisement preview
+×
 How to Contribute
 Donate
+Ads
+X
+1
+2
 This page was last edited on 4 September 2026, at 12:49.
 Privacy policy
 About EverQuest Legends Wiki

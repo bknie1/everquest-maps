@@ -1,5 +1,5 @@
 # Butcherblock_Mountains (eqlwiki.com)
-fetched: 2026-11-13
+fetched: 2026-11-14
 
 Butcherblock Mountains - EverQuest Legends Wiki
 Jump to content
@@ -2126,8 +2126,16 @@ Retrieved from "https://eqlwiki.com/index.php?title=Butcherblock_Mountains&oldid
 Categories: Classic Era
 Zones
 Loc Mapped
+Advertisements
+Advertisements
+Advertisement preview
+×
 How to Contribute
 Donate
+Ads
+X
+1
+2
 This page was last edited on 19 May 2026, at 12:56.
 Privacy policy
 About EverQuest Legends Wiki

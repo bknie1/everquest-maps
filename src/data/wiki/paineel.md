@@ -1,5 +1,5 @@
 # Paineel (eqlwiki.com)
-fetched: 2026-11-01
+fetched: 2026-11-14
 
 Paineel - EverQuest Legends Wiki
 Jump to content
@@ -1976,8 +1976,16 @@ Retrieved from "https://eqlwiki.com/index.php?title=Paineel&oldid=131384"
 Categories: Paineel Era
 Zones
 Loc Mapped
+Advertisements
+Advertisements
+Advertisement preview
+×
 How to Contribute
 Donate
+Ads
+X
+1
+2
 This page was last edited on 19 May 2026, at 11:24.
 Privacy policy
 About EverQuest Legends Wiki

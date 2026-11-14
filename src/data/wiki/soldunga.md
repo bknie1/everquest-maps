@@ -1,5 +1,5 @@
 # Solusek's_Eye (eqlwiki.com)
-fetched: 2026-11-01
+fetched: 2026-11-14
 
 Solusek's Eye - EverQuest Legends Wiki
 Jump to content
@@ -2226,8 +2226,16 @@ Retrieved from "https://eqlwiki.com/index.php?title=Solusek%27s_Eye&oldid=178707
 Categories: Classic Era
 Loc Mapped
 Zones
+Advertisements
+Advertisements
+Advertisement preview
+×
 How to Contribute
 Donate
+Ads
+X
+1
+2
 This page was last edited on 17 September 2026, at 10:54.
 Privacy policy
 About EverQuest Legends Wiki

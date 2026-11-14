@@ -1,5 +1,5 @@
 # Kedge_Keep (eqlwiki.com)
-fetched: 2026-11-02
+fetched: 2026-11-14
 
 Kedge Keep - EverQuest Legends Wiki
 Jump to content
@@ -1874,8 +1874,16 @@ Categories: Pages using duplicate arguments in template calls
 Classic Era
 Zones
 Loc Mapped
+Advertisements
+Advertisements
+Advertisement preview
+×
 How to Contribute
 Donate
+Ads
+X
+1
+2
 This page was last edited on 18 September 2026, at 21:00.
 Privacy policy
 About EverQuest Legends Wiki

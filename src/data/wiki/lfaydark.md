@@ -1,5 +1,5 @@
 # Lesser_Faydark (eqlwiki.com)
-fetched: 2026-11-01
+fetched: 2026-11-14
 
 Lesser Faydark - EverQuest Legends Wiki
 Jump to content
@@ -2045,8 +2045,16 @@ Retrieved from "https://eqlwiki.com/index.php?title=Lesser_Faydark&oldid=150106"
 Categories: Classic Era
 Zones
 Loc Mapped
+Advertisements
+Advertisements
+Advertisement preview
+×
 How to Contribute
 Donate
+Ads
+X
+1
+2
 This page was last edited on 10 June 2026, at 13:12.
 Privacy policy
 About EverQuest Legends Wiki

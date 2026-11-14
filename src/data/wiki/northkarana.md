@@ -1,5 +1,5 @@
 # Northern_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-11-01
+fetched: 2026-11-14
 
 Northern Plains of Karana - EverQuest Legends Wiki
 Jump to content
@@ -1532,8 +1532,16 @@ Retrieved from "https://eqlwiki.com/index.php?title=Northern_Plains_of_Karana&ol
 Categories: Classic Era
 Zones
 Loc Mapped
+Advertisements
+Advertisements
+Advertisement preview
+×
 How to Contribute
 Donate
+Ads
+X
+1
+2
 This page was last edited on 28 May 2026, at 07:55.
 Privacy policy
 About EverQuest Legends Wiki

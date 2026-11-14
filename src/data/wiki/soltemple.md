@@ -1,5 +1,5 @@
 # Temple_of_Solusek_Ro (eqlwiki.com)
-fetched: 2026-11-05
+fetched: 2026-11-14
 
 The Temple of Solusek Ro - EverQuest Legends Wiki
 Jump to content
@@ -1109,7 +1109,7 @@ Vira
 Gnome |
 Wizard |
 36 |
-Level 2 balcony (411, 91) |
+Level 2 balcony (411, 90, 18) |
 Bamboo Wakizashi BoBamboo Wakizashi Bo
 Slot: PRIMARY SECONDARY
 Skill: 1H Blunt Atk Delay: 38
@@ -1235,8 +1235,16 @@ Retrieved from "https://eqlwiki.com/index.php?title=The_Temple_of_Solusek_Ro&old
 Categories: Temple Era
 Zones
 Loc Mapped
+Advertisements
+Advertisements
+Advertisement preview
+×
 How to Contribute
 Donate
+Ads
+X
+1
+2
 This page was last edited on 24 August 2026, at 20:02.
 Privacy policy
 About EverQuest Legends Wiki

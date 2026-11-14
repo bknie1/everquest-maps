@@ -1,5 +1,5 @@
 # Stonebrunt_Mountains (eqlwiki.com)
-fetched: 2026-11-08
+fetched: 2026-11-14
 
 Stonebrunt Mountains - EverQuest Legends Wiki
 Jump to content
@@ -2934,8 +2934,16 @@ WT: 1.2 Size: SMALL Class: ALL Race: ALL |
 Retrieved from "https://eqlwiki.com/index.php?title=Stonebrunt_Mountains&oldid=166396"
 Categories: Zones
 Loc Mapped
+Advertisements
+Advertisements
+Advertisement preview
+×
 How to Contribute
 Donate
+Ads
+X
+1
+2
 This page was last edited on 5 August 2026, at 13:29.
 Privacy policy
 About EverQuest Legends Wiki

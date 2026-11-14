@@ -1,5 +1,5 @@
 # Rivervale (eqlwiki.com)
-fetched: 2026-11-01
+fetched: 2026-11-14
 
 Rivervale - EverQuest Legends Wiki
 Jump to content
@@ -2202,8 +2202,16 @@ STA: +2 AGI: +2 WT: 0.1 Size: TINY Class: ALL Race: ALL |
 Retrieved from "https://eqlwiki.com/index.php?title=Rivervale&oldid=131401"
 Categories: Zones
 Loc Mapped
+Advertisements
+Advertisements
+Advertisement preview
+×
 How to Contribute
 Donate
+Ads
+X
+1
+2
 This page was last edited on 19 May 2026, at 11:35.
 Privacy policy
 About EverQuest Legends Wiki

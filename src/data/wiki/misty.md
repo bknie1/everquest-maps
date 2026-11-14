@@ -1,5 +1,5 @@
 # Misty_Thicket (eqlwiki.com)
-fetched: 2026-11-13
+fetched: 2026-11-14
 
 Misty Thicket - EverQuest Legends Wiki
 Jump to content
@@ -1630,8 +1630,16 @@ QUEST ITEM WT: 0.0 Size: SMALL Class: ALL Race: ALL |
 Retrieved from "https://eqlwiki.com/index.php?title=Misty_Thicket&oldid=172435"
 Categories: Zones
 Loc Mapped
+Advertisements
+Advertisements
+Advertisement preview
+×
 How to Contribute
 Donate
+Ads
+X
+1
+2
 This page was last edited on 25 August 2026, at 09:57.
 Privacy policy
 About EverQuest Legends Wiki

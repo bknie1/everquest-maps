@@ -1,5 +1,5 @@
 # Splitpaw_Lair (eqlwiki.com)
-fetched: 2026-11-01
+fetched: 2026-11-14
 
 Splitpaw Lair - EverQuest Legends Wiki
 Jump to content
@@ -1224,8 +1224,16 @@ Retrieved from "https://eqlwiki.com/index.php?title=Splitpaw_Lair&oldid=179064"
 Categories: Classic Era
 Zones
 Loc Mapped
+Advertisements
+Advertisements
+Advertisement preview
+×
 How to Contribute
 Donate
+Ads
+X
+1
+2
 This page was last edited on 21 September 2026, at 00:05.
 Privacy policy
 About EverQuest Legends Wiki

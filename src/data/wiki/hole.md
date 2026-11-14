@@ -1,5 +1,5 @@
 # The_Hole (eqlwiki.com)
-fetched: 2026-11-12
+fetched: 2026-11-14
 
 The Hole - EverQuest Legends Wiki
 Jump to content
@@ -2006,8 +2006,16 @@ Retrieved from "https://eqlwiki.com/index.php?title=The_Hole&oldid=175178"
 Categories: Classic Era
 Zones
 Loc Mapped
+Advertisements
+Advertisements
+Advertisement preview
+×
 How to Contribute
 Donate
+Ads
+X
+1
+2
 This page was last edited on 31 August 2026, at 00:15.
 Privacy policy
 About EverQuest Legends Wiki

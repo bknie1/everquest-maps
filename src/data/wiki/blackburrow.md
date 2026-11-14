@@ -1,5 +1,5 @@
 # Blackburrow (eqlwiki.com)
-fetched: 2026-11-02
+fetched: 2026-11-14
 
 Blackburrow - EverQuest Legends Wiki
 Jump to content
@@ -1203,8 +1203,16 @@ Retrieved from "https://eqlwiki.com/index.php?title=Blackburrow&oldid=178967"
 Categories: Classic Era
 Zones
 Loc Mapped
+Advertisements
+Advertisements
+Advertisement preview
+×
 How to Contribute
 Donate
+Ads
+X
+1
+2
 This page was last edited on 19 September 2026, at 20:11.
 Privacy policy
 About EverQuest Legends Wiki

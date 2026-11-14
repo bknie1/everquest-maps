@@ -1,5 +1,5 @@
 # Oasis_of_Marr (eqlwiki.com)
-fetched: 2026-11-01
+fetched: 2026-11-14
 
 Oasis of Marr - EverQuest Legends Wiki
 Jump to content
@@ -554,8 +554,16 @@ AC: 12 STA: +5 WT: 1.5 Size: MEDIUM Class: ALL except NEC WIZ MAG ENC Race: ALL 
 Retrieved from "https://eqlwiki.com/index.php?title=Oasis_of_Marr&oldid=133993"
 Categories: Zones
 Loc Mapped
+Advertisements
+Advertisements
+Advertisement preview
+×
 How to Contribute
 Donate
+Ads
+X
+1
+2
 This page was last edited on 1 June 2026, at 19:59.
 Privacy policy
 About EverQuest Legends Wiki

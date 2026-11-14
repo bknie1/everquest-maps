@@ -1,5 +1,5 @@
 # Grobb (eqlwiki.com)
-fetched: 2026-11-01
+fetched: 2026-11-14
 
 Grobb - EverQuest Legends Wiki
 Jump to content
@@ -1305,8 +1305,16 @@ Atk Delay: 31 DMG: 6 DMG Bonus: 13 Size: MEDIUM WT: 6.5 Class: WAR PAL RNG SHD B
 Retrieved from "https://eqlwiki.com/index.php?title=Grobb&oldid=158514"
 Categories: Zones
 Loc Mapped
+Advertisements
+Advertisements
+Advertisement preview
+×
 How to Contribute
 Donate
+Ads
+X
+1
+2
 This page was last edited on 16 July 2026, at 16:35.
 Privacy policy
 About EverQuest Legends Wiki

@@ -1,5 +1,5 @@
 # Greater_Faydark (eqlwiki.com)
-fetched: 2026-11-02
+fetched: 2026-11-14
 
 Greater Faydark - EverQuest Legends Wiki
 Jump to content
@@ -1870,7 +1870,7 @@ Merchant Legweien
 Fayguard |
 Merchant |
 40 |
-420, 373 |
+420.65 374.11 77.16 |
 None |
 Between POD lift and Orc lift, standing next to what looks like a grinding wheel. |
 Merchant Linolyen
@@ -2403,8 +2403,16 @@ Retrieved from "https://eqlwiki.com/index.php?title=Greater_Faydark&oldid=131524
 Categories: Classic Era
 Zones
 Loc Mapped
+Advertisements
+Advertisements
+Advertisement preview
+×
 How to Contribute
 Donate
+Ads
+X
+1
+2
 This page was last edited on 19 May 2026, at 13:01.
 Privacy policy
 About EverQuest Legends Wiki

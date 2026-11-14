@@ -1,5 +1,5 @@
 # Lower_Guk (eqlwiki.com)
-fetched: 2026-11-06
+fetched: 2026-11-14
 
 Lower Guk - EverQuest Legends Wiki
 Jump to content
@@ -2860,8 +2860,16 @@ CHA: +5 SV FIRE: +7 SV COLD: +7 SV MAGIC: +7 WT: 0.3 Size: SMALL Class: ALL Race
 Retrieved from "https://eqlwiki.com/index.php?title=Lower_Guk&oldid=177832"
 Categories: Zones
 Loc Mapped
+Advertisements
+Advertisements
+Advertisement preview
+×
 How to Contribute
 Donate
+Ads
+X
+1
+2
 This page was last edited on 10 September 2026, at 11:47.
 Privacy policy
 About EverQuest Legends Wiki

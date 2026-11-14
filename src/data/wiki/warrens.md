@@ -1,5 +1,5 @@
 # The_Warrens (eqlwiki.com)
-fetched: 2026-11-01
+fetched: 2026-11-14
 
 The Warrens - EverQuest Legends Wiki
 Jump to content
@@ -1982,8 +1982,16 @@ Atk Delay: 27 DMG: 4 AC: 1 STR: +2 HP: +4 WT: 4.5 Size: MEDIUM Class: WAR CLR PA
 Retrieved from "https://eqlwiki.com/index.php?title=The_Warrens&oldid=126176"
 Categories: Zones
 Loc Mapped
+Advertisements
+Advertisements
+Advertisement preview
+×
 How to Contribute
 Donate
+Ads
+X
+1
+2
 This page was last edited on 16 May 2026, at 14:03.
 Privacy policy
 About EverQuest Legends Wiki

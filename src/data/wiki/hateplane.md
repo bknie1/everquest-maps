@@ -1,5 +1,5 @@
 # Plane_of_Hate (eqlwiki.com)
-fetched: 2026-11-12
+fetched: 2026-11-14
 
 Plane of Hate - EverQuest Legends Wiki
 Jump to content
@@ -4666,8 +4666,16 @@ Categories: Classic Era
 Zones
 Plane of Hate
 Loc Mapped
+Advertisements
+Advertisements
+Advertisement preview
+×
 How to Contribute
 Donate
+Ads
+X
+1
+2
 This page was last edited on 28 August 2026, at 13:05.
 Privacy policy
 About EverQuest Legends Wiki

@@ -1,5 +1,5 @@
 # Western_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-11-05
+fetched: 2026-11-14
 
 Western Karana - EverQuest Legends Wiki
 Jump to content
@@ -2279,8 +2279,16 @@ Retrieved from "https://eqlwiki.com/index.php?title=Western_Karana&oldid=131418"
 Categories: Classic Era
 Zones
 Loc Mapped
+Advertisements
+Advertisements
+Advertisement preview
+×
 How to Contribute
 Donate
+Ads
+X
+1
+2
 This page was last edited on 19 May 2026, at 11:51.
 Privacy policy
 About EverQuest Legends Wiki

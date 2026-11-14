@@ -1,5 +1,5 @@
 # Ak'Anon (eqlwiki.com)
-fetched: 2026-11-01
+fetched: 2026-11-14
 
 Ak'Anon - EverQuest Legends Wiki
 Jump to content
@@ -2436,8 +2436,16 @@ Retrieved from "https://eqlwiki.com/index.php?title=Ak%27Anon&oldid=131512"
 Categories: Classic Era
 Zones
 Loc Mapped
+Advertisements
+Advertisements
+Advertisement preview
+×
 How to Contribute
 Donate
+Ads
+X
+1
+2
 This page was last edited on 19 May 2026, at 12:51.
 Privacy policy
 About EverQuest Legends Wiki

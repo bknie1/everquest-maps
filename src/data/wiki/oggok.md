@@ -1,5 +1,5 @@
 # Oggok (eqlwiki.com)
-fetched: 2026-11-06
+fetched: 2026-11-14
 
 Oggok - EverQuest Legends Wiki
 Jump to content
@@ -1365,8 +1365,16 @@ Atk Delay: 40 DMG: 6 WT: 3.5 Range: 50 Size: MEDIUM Class: WAR PAL RNG SHD ROG R
 Retrieved from "https://eqlwiki.com/index.php?title=Oggok&oldid=131399"
 Categories: Zones
 Loc Mapped
+Advertisements
+Advertisements
+Advertisement preview
+×
 How to Contribute
 Donate
+Ads
+X
+1
+2
 This page was last edited on 19 May 2026, at 11:34.
 Privacy policy
 About EverQuest Legends Wiki

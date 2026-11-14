@@ -1,5 +1,5 @@
 # Kerra_Isle (eqlwiki.com)
-fetched: 2026-11-01
+fetched: 2026-11-14
 
 Kerra Isle - EverQuest Legends Wiki
 Jump to content
@@ -136,8 +136,16 @@ Retrieved from "https://eqlwiki.com/index.php?title=Kerra_Isle&oldid=180442"
 Categories: Classic Era
 Factions
 Achievement Faction
+Advertisements
+Advertisements
+Advertisement preview
+×
 How to Contribute
 Donate
+Ads
+X
+1
+2
 This page was last edited on 2 October 2026, at 11:18.
 Privacy policy
 About EverQuest Legends Wiki

@@ -1,5 +1,5 @@
 # Halas (eqlwiki.com)
-fetched: 2026-11-01
+fetched: 2026-11-14
 
 Halas - EverQuest Legends Wiki
 Jump to content
@@ -1388,8 +1388,16 @@ WT: 2.0 Size: MEDIUM Class: ALL Race: ALL |
 Retrieved from "https://eqlwiki.com/index.php?title=Halas&oldid=152603"
 Categories: Zones
 Loc Mapped
+Advertisements
+Advertisements
+Advertisement preview
+×
 How to Contribute
 Donate
+Ads
+X
+1
+2
 This page was last edited on 1 July 2026, at 08:31.
 Privacy policy
 About EverQuest Legends Wiki

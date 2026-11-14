@@ -1,5 +1,5 @@
 # Runnyeye_Citadel (eqlwiki.com)
-fetched: 2026-11-01
+fetched: 2026-11-14
 
 Runnyeye - EverQuest Legends Wiki
 Jump to content
@@ -1249,8 +1249,16 @@ Retrieved from "https://eqlwiki.com/index.php?title=Runnyeye&oldid=175063"
 Categories: Classic Era
 Zones
 Loc Mapped
+Advertisements
+Advertisements
+Advertisement preview
+×
 How to Contribute
 Donate
+Ads
+X
+1
+2
 This page was last edited on 30 August 2026, at 18:28.
 Privacy policy
 About EverQuest Legends Wiki

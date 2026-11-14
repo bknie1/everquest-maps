@@ -1,5 +1,5 @@
 # Highpass_Hold (eqlwiki.com)
-fetched: 2026-11-02
+fetched: 2026-11-14
 
 Highpass Hold - EverQuest Legends Wiki
 Jump to content
@@ -1358,8 +1358,16 @@ LORE ITEM WT: 0.1 Size: SMALL Class: ALL Race: ALL |
 Retrieved from "https://eqlwiki.com/index.php?title=Highpass_Hold&oldid=138008"
 Categories: Zones
 Loc Mapped
+Advertisements
+Advertisements
+Advertisement preview
+×
 How to Contribute
 Donate
+Ads
+X
+1
+2
 This page was last edited on 2 June 2026, at 19:42.
 Privacy policy
 About EverQuest Legends Wiki

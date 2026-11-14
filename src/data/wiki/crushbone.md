@@ -1,5 +1,5 @@
 # Crushbone (eqlwiki.com)
-fetched: 2026-11-02
+fetched: 2026-11-14
 
 Crushbone - EverQuest Legends Wiki
 Jump to content
@@ -1629,8 +1629,16 @@ Retrieved from "https://eqlwiki.com/index.php?title=Crushbone&oldid=179637"
 Categories: Classic Era
 Zones
 Loc Mapped
+Advertisements
+Advertisements
+Advertisement preview
+×
 How to Contribute
 Donate
+Ads
+X
+1
+2
 This page was last edited on 27 September 2026, at 05:59.
 Privacy policy
 About EverQuest Legends Wiki

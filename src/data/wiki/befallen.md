@@ -1,5 +1,5 @@
 # Befallen (eqlwiki.com)
-fetched: 2026-11-01
+fetched: 2026-11-14
 
 Befallen - EverQuest Legends Wiki
 Jump to content
@@ -1471,8 +1471,16 @@ Categories: Pages using duplicate arguments in template calls
 Classic Era
 Zones
 Loc Mapped
+Advertisements
+Advertisements
+Advertisement preview
+×
 How to Contribute
 Donate
+Ads
+X
+1
+2
 This page was last edited on 20 September 2026, at 13:17.
 Privacy policy
 About EverQuest Legends Wiki

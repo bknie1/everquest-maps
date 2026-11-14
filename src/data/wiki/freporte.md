@@ -1,5 +1,5 @@
 # East_Freeport (eqlwiki.com)
-fetched: 2026-11-01
+fetched: 2026-11-14
 
 Freeport - EverQuest Legends Wiki
 Jump to content
@@ -4908,8 +4908,16 @@ Categories: Classic Era
 Non-P99 Content
 Zones
 Loc Mapped
+Advertisements
+Advertisements
+Advertisement preview
+×
 How to Contribute
 Donate
+Ads
+X
+1
+2
 This page was last edited on 26 August 2026, at 06:12.
 Privacy policy
 About EverQuest Legends Wiki

@@ -1,5 +1,5 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-11-01
+fetched: 2026-11-14
 
 Plane of Sky - EverQuest Legends Wiki
 Jump to content
@@ -6424,8 +6424,16 @@ LORE ITEM WT: 6.0 Size: MEDIUM Class: ALL Race: ALL |
 Retrieved from "https://eqlwiki.com/index.php?title=Plane_of_Sky&oldid=179754"
 Categories: Classic Era
 Zones
+Advertisements
+Advertisements
+Advertisement preview
+×
 How to Contribute
 Donate
+Ads
+X
+1
+2
 This page was last edited on 29 September 2026, at 13:14.
 Privacy policy
 About EverQuest Legends Wiki

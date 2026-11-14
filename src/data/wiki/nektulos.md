@@ -1,5 +1,5 @@
 # Nektulos_Forest (eqlwiki.com)
-fetched: 2026-11-09
+fetched: 2026-11-14
 
 Nektulos Forest - EverQuest Legends Wiki
 Jump to content
@@ -1737,8 +1737,16 @@ Retrieved from "https://eqlwiki.com/index.php?title=Nektulos_Forest&oldid=200131
 Categories: Classic Era
 Zones
 Loc Mapped
+Advertisements
+Advertisements
+Advertisement preview
+×
 How to Contribute
 Donate
+Ads
+X
+1
+2
 This page was last edited on 29 October 2026, at 18:37.
 Privacy policy
 About EverQuest Legends Wiki

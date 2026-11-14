@@ -1,5 +1,5 @@
 # Erudin (eqlwiki.com)
-fetched: 2026-11-01
+fetched: 2026-11-14
 
 Erudin - EverQuest Legends Wiki
 Jump to content
@@ -2700,8 +2700,16 @@ Retrieved from "https://eqlwiki.com/index.php?title=Erudin&oldid=193438"
 Categories: Classic Era
 Zones
 Loc Mapped
+Advertisements
+Advertisements
+Advertisement preview
+×
 How to Contribute
 Donate
+Ads
+X
+1
+2
 This page was last edited on 13 October 2026, at 09:07.
 Privacy policy
 About EverQuest Legends Wiki

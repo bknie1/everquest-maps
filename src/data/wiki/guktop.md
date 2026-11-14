@@ -1,5 +1,5 @@
 # Upper_Guk (eqlwiki.com)
-fetched: 2026-11-01
+fetched: 2026-11-14
 
 Upper Guk - EverQuest Legends Wiki
 Jump to content
@@ -2059,8 +2059,16 @@ AC: 2 WT: 0.2 Size: SMALL Class: ALL Race: ALL |
 Retrieved from "https://eqlwiki.com/index.php?title=Upper_Guk&oldid=165927"
 Categories: Zones
 Loc Mapped
+Advertisements
+Advertisements
+Advertisement preview
+×
 How to Contribute
 Donate
+Ads
+X
+1
+2
 This page was last edited on 4 August 2026, at 13:29.
 Privacy policy
 About EverQuest Legends Wiki

@@ -1,5 +1,5 @@
 # Rathe_Mountains (eqlwiki.com)
-fetched: 2026-11-12
+fetched: 2026-11-14
 
 Rathe Mountains - EverQuest Legends Wiki
 Jump to content
@@ -2929,8 +2929,16 @@ Retrieved from "https://eqlwiki.com/index.php?title=Rathe_Mountains&oldid=176917
 Categories: Classic Era
 Zones
 Loc Mapped
+Advertisements
+Advertisements
+Advertisement preview
+×
 How to Contribute
 Donate
+Ads
+X
+1
+2
 This page was last edited on 7 September 2026, at 07:14.
 Privacy policy
 About EverQuest Legends Wiki
