@@ -1,5 +1,5 @@
 # Qeynos (eqlwiki.com)
-fetched: 2026-11-14
+fetched: 2026-11-15
 
 Qeynos - EverQuest Legends Wiki
 Jump to content
@@ -803,10 +803,10 @@ Rongol, Tukk, Minya Coldtoes |
 Tesch Val Scrolls
 |
 Karana's TearKarana's Tear
-MAGIC ITEM LORE ITEM
+Lore Equipped, Attunable
 Slot: EAR
 STA: +5
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |

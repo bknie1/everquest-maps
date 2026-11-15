@@ -1,5 +1,5 @@
 # Kaladim (eqlwiki.com)
-fetched: 2026-11-14
+fetched: 2026-11-15
 
 Kaladim - EverQuest Legends Wiki
 Jump to content
@@ -380,8 +380,8 @@ Race: ALLDMG Bonus: 29 @ lvl 50
 Beno Targnarle |
 20 |
 Warrior |
-Dagnor's Cauldron, Greater Faydark, High Keep, Misty Thicket, North Qeynos, Rivervale |
-Assistant Kiolna, Bronin Higginsbot, Elmion Hendrys, Faldor Hendrys, Jail Clerk Maryl, Slaythe |
+Dagnor's Cauldron, Greater Faydark, High Keep, Misty Thicket, North Qeynos |
+Assistant Kiolna, Bronin Higginsbot, Elmion Hendrys, Faldor Hendrys, Jail Clerk Maryl, Slaythe, Tylfon |
 Fresh Baked Muffins (Kaladim)
 |
 Coin, Faction |

@@ -1,5 +1,5 @@
 # Splitpaw_Lair (eqlwiki.com)
-fetched: 2026-11-14
+fetched: 2026-11-15
 
 Splitpaw Lair - EverQuest Legends Wiki
 Jump to content
@@ -489,7 +489,7 @@ Enchanter |
 50% @ (374, -26) |
 Journal of Greater EnchantmentJournal of Greater Enchantment
 No Trade, Quest
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
@@ -653,7 +653,7 @@ Warrior |
 50% @ (602, -12) |
 Gnoll's EyeGnoll's Eye
 No Trade, Quest
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 , Split Paw Hide GlovesSplit Paw Hide Gloves
@@ -917,13 +917,13 @@ Secondary |
 AC: 15 STA: +5 DEX: +5 SV POISON: +7 WT: 7.0 Size: MEDIUM Class: WAR CLR PAL RNG SHD DRU BRD SHM Race: ALL |
 Gnoll's EyeGnoll's Eye
 No Trade, Quest
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 a one-eyed gnoll |
 (None) |
-No Trade, Quest WT: 0.1 Size: TINY Class: ALL Race: ALL |
+No Trade, Quest Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Ishva Mas LeggingsIshva Mas Leggings
 Attunable Lore Equipped
 Slot: LEGS
@@ -939,13 +939,13 @@ Legs |
 AC: 5 INT: +5 CHA: +5 SV POISON: +7 SV FIRE: +7 WT: 0.7 Size:SMALL Class: NEC WIZ MAG ENC Race: ALL |
 Journal of Greater EnchantmentJournal of Greater Enchantment
 No Trade, Quest
-WT: 0.1 Size: TINY
+Size: TINY WT: 0.1
 Class: ALL
 Race: ALL
 |
 a Lteth Val Scribe |
 (None) |
-No Trade, Quest WT: 0.1 Size: TINY Class: ALL Race: ALL |
+No Trade, Quest Size: TINY WT: 0.1 Class: ALL Race: ALL |
 Kicsh Der PavzKicsh Der Pavz
 Lore Equipped, Attunable, Placeable
 Slot: PRIMARY SECONDARY
