@@ -1,5 +1,5 @@
 # Plane_of_Hate (eqlwiki.com)
-fetched: 2026-11-14
+fetched: 2026-11-16
 
 Plane of Hate - EverQuest Legends Wiki
 Jump to content
@@ -2750,7 +2750,7 @@ String Resonance: 14
 DEX: +9 CHA: +15 AGI: +9
 WT: 0.6 Size: SMALL
 Class: BRD
-Race: ALL
+Race: ALLFocus Effect: String Resonance 14
 |
 Maestro of Rancor |
 Secondary |
@@ -4489,7 +4489,7 @@ String Resonance: 14
 DEX: +9 CHA: +15 AGI: +9
 WT: 0.6 Size: SMALL
 Class: BRD
-Race: ALL
+Race: ALLFocus Effect: String Resonance 14
 , Mempo of LikatoMempo of Likato
 Lore Equipped, No Trade
 Slot: FACE
