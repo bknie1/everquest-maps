@@ -1,5 +1,5 @@
 # Butcherblock_Mountains (eqlwiki.com)
-fetched: 2026-11-14
+fetched: 2026-11-18
 
 Butcherblock Mountains - EverQuest Legends Wiki
 Jump to content
@@ -1753,7 +1753,7 @@ Class: ALL except NEC WIZ MAG ENC
 Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Zarchoomi spawns to the NW of 15 on the Butcherblock Mountains map between western wall and rock pillar on the north sid... |
-Items - Found 39 items that drop in Butcherblock Mountains:
+Items - Found 40 items that drop in Butcherblock Mountains:
 Item Name | Drops From | Slot | Stats |
 A Sealed LetterA Sealed Letter
 MAGIC ITEM LORE ITEM NO DROP
@@ -1764,6 +1764,14 @@ Race: ALL
 orc runner |
 (None) |
 MAGIC ITEM LORE ITEM NO DROP WT: 0.0 Size: TINY Class: ALL Race: ALL |
+Aviak BeakAviak Beak
+Size: TINY WT: 0.5
+Class: NONE
+Race: NONE
+|
+A Krag Elder |
+(None) |
+Size: TINY WT: 0.5 Class: NONE Race: NONE |
 Aviak Chick TalonAviak Chick Talon
 WT: 0.1 Size: SMALL
 Class: ALL

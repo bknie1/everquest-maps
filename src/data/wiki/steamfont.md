@@ -1,5 +1,5 @@
 # Steamfont_Mountains (eqlwiki.com)
-fetched: 2026-11-14
+fetched: 2026-11-18
 
 Steamfont Mountains - EverQuest Legends Wiki
 Jump to content
@@ -177,7 +177,7 @@ Brona Frugrin |
 Cleric, Druid, Enchanter, Magician, Shaman, Wizard |
 Clan Runnyeye |
 Borxx |
-NPCs - Found 80 NPCs that spawn in Steamfont Mountains:
+NPCs - Found 91 NPCs that spawn in Steamfont Mountains:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Clockwork Fletcher
 |
@@ -274,6 +274,22 @@ Warrior |
 100% @ (1511, 1664) |
 Rusty Mining Pick |
 Removed in 10/23/24 patch[1]. |
+A Grikbar Kobold
+|
+Kobold |
+|
+3-5 |
+(-364, 1682) |
+Various |
+|
+A Grikbar Shaman
+|
+|
+|
+4-5 |
+(-350, 1685) |
+Various |
+|
 A Harpy
 |
 Harpie |
@@ -465,6 +481,19 @@ Race: ALL
 Description needed.
 Lore
 Diseased giant rats range from 4 to 5 feet in length and are more aggressive even than ... |
+A giant yellow recluse
+|
+|
+|
+8-9 |
+(301, -1463) |
+Spider LegsSpider Legs
+Quest
+Size: SMALL WT: 0.5
+Class: ALL
+Race: ALL
+|
+|
 A kobold runt (Steamfont)
 |
 Kobold |
@@ -481,6 +510,14 @@ Shaman |
 (-306, 1742) |
 Various |
 The Toxxulia kobolds are of Clan Kolbok faction, while the Steamfont kob... |
+A krag warrior
+|
+|
+|
+9-10 |
+(386, 1835) |
+Various |
+|
 A large plague rat
 |
 Giant Rat |
@@ -502,6 +539,14 @@ Race: ALL
 WT: 0.2 Size: SMALL
 |
 Description needed. |
+A large yellow recluse
+|
+|
+|
+7 |
+(969, -251) |
+|
+|
 A minotaur slaver
 |
 Minotaur |
@@ -524,6 +569,25 @@ Class: ALL
 Race: ALLFocus Effect: Wind Resonance 10
 |
 There are two different monsters with almost identical names: "minotaur slavers" and "a minotaur sla... |
+A rebel clockwork
+|
+|
+|
+8 |
+(1476, -1650) |
+Mechanical Light EmitterMechanical Light Emitter
+Attunable, Placeable
+Slot: SECONDARY
+Size: SMALL WT: 0.5
+Class: ALL
+Race: ALL
+, SaltpeterSaltpeter
+Quest
+Size: TINY WT: 0.1
+Class: ALL
+Race: ALL
+|
+|
 A skeleton
 |
 Undead |
@@ -554,8 +618,7 @@ WT: 1.0 Size: SMALL
 Class: ALL
 Race: ALL
 |
-Removed in 10/23/24 patch[2].
-The one that spawns at -1442, -3... |
+The one that spawns at -1442, -390 is the PH for Bugglegupp and follows the same path and stopping points as her. |
 A small mountain lion
 |
 Puma |
@@ -664,7 +727,7 @@ WT: 0.1 Size: TINY
 Class: ALL
 Race: ALL
 |
-Added with May2002 update to Ak'Anon/Steamfont Mountains[https://web.archive.org/web/20020612021611/http://eqbeastiary.a... |
+|
 Berinsan
 |
 Gnome |
@@ -912,6 +975,41 @@ Merchant |
 Windmills, near the center of the zone (43, -618) |
 |
 Gnome merchant who sells various smithing supplies. |
+Gorehorn
+|
+|
+|
+14 |
+(1575, 1708) |
+0 - 0 Platinums, 0 - 0 Golds, 1 - 1 Silvers, 1 - 1 Coppers |
+:You say, 'Hail Gorehorn'
+Gorehorn says, '<Snort!>.. Death to you! Meldrath commands!' |
+Hector the highway bandit
+|
+|
+|
+13 |
+(-726, 102) |
+Fine Steel Weapons, Hector's Severed HeadHector's Severed Head
+No Trade, Quest
+Size: MEDIUM WT: 0.5
+Class: NONE
+Race: NONE
+|
+|
+Jerald the highway bandit
+|
+|
+|
+13 |
+(-693, 124) |
+Fine Steel Weapons, Jerald's Severed HeadJerald's Severed Head
+No Trade, Quest
+Size: MEDIUM WT: 0.5
+Class: NONE
+Race: NONE
+|
+|
 Jogl Doobraugh
 |
 Gnome |
@@ -950,6 +1048,15 @@ Necromancer |
 Various |
 Nasty little guy in the mino caves can be an awful surprise. 22 minute timer.
 Likely faction changes 23 Feb, 2014: Me... |
+Metallurgist Mirakzin
+|
+Gnome |
+|
+61 |
+(-1933, 1394) |
+|
+:You say, 'Hail Metallurgist Mirakzin'
+Metallurgist Mirakzin says, 'Quickly! I need your [help]!' |
 Minotaur Guard
 |
 Minotaur |
@@ -1096,6 +1203,19 @@ Wizard |
 50% @ (-1570, -1821) |
 None |
 Description needed. |
+Renaldo the highway bandit
+|
+|
+|
+13 |
+(-677, 103) |
+Fine Steel Weapons, Renaldo's Severed HeadRenaldo's Severed Head
+No Trade, Quest
+Size: MEDIUM WT: 0.5
+Class: NONE
+Race: NONE
+|
+|
 Rogue Clockwork
 |
 Giant Spider |
@@ -1249,8 +1369,16 @@ Wizard |
 (-1788, 723) |
 * Gnome Meat |
 This guy stands rather close to the spawn point of the Cargo Clockwork and often gives it a minimal DS. He's a wizard, o... |
-Items - Found 62 items that drop in Steamfont Mountains:
+Items - Found 69 items that drop in Steamfont Mountains:
 Item Name | Drops From | Slot | Stats |
+Aviak BeakAviak Beak
+Size: TINY WT: 0.5
+Class: NONE
+Race: NONE
+|
+A Krag Elder |
+(None) |
+Size: TINY WT: 0.5 Class: NONE Race: NONE |
 Berinsans ShirtBerinsans Shirt
 MAGIC ITEM LORE ITEM NO DROP
 WT: 0.6 Size: SMALL
@@ -1280,6 +1408,14 @@ Race: ALLFocus Effect: Wind Resonance 8
 Minotaur Lord |
 Primary, Secondary |
 SV POISON: +10 Size: SMALL WT: 2.7 Class: ALL Race: ALL |
+Brownie BrainBrownie Brain
+Size: TINY WT: 0.3
+Class: NONE
+Race: NONE
+|
+A Mountain Brownie |
+(None) |
+Size: TINY WT: 0.3 Class: NONE Race: NONE |
 Brownie LegBrownie Leg
 Size: TINY WT: 0.8
 Class: NONE
@@ -1468,6 +1604,23 @@ Race: ALL
 an earth elemental |
 (None) |
 WT: 5.0 Size: SMALL Class: ALL Race: ALL |
+Harpy WingHarpy Wing
+Size: SMALL
+Class: ALL
+Race: ALL
+|
+A Harpy |
+(None) |
+Size: SMALL Class: ALL Race: ALL |
+Hector's Severed HeadHector's Severed Head
+No Trade, Quest
+Size: MEDIUM WT: 0.5
+Class: NONE
+Race: NONE
+|
+Hector the highway bandit |
+(None) |
+No Trade, Quest Size: MEDIUM WT: 0.5 Class: NONE Race: NONE |
 Icon of the DevoutIcon of the Devout
 No Trade, Quest
 Size: SMALL WT: 1.0
@@ -1517,6 +1670,15 @@ Race: ALLDMG Bonus: 11 @ lvl 50
 Renux Herkanor |
 Piercing |
 Atk Delay: 22 DMG: 9 DEX: +9 WT: 1.7 Size: SMALL Class: ROG Race: ALL |
+Jerald's Severed HeadJerald's Severed Head
+No Trade, Quest
+Size: MEDIUM WT: 0.5
+Class: NONE
+Race: NONE
+|
+Jerald the highway bandit |
+(None) |
+No Trade, Quest Size: MEDIUM WT: 0.5 Class: NONE Race: NONE |
 Kobold PartsKobold Parts
 QUEST ITEM
 WT: 0.9 Size: SMALL
@@ -1534,6 +1696,16 @@ Race: ALL
 an earth elemental |
 (None) |
 WT: 1.5 Size: SMALL Class: ALL Race: ALL |
+Mechanical Light EmitterMechanical Light Emitter
+Attunable, Placeable
+Slot: SECONDARY
+Size: SMALL WT: 0.5
+Class: ALL
+Race: ALL
+|
+a rebel clockwork, a runaway clockwork, Runaway Clockwork |
+Secondary |
+Size: SMALL WT: 0.5 Class: ALL Race: ALL |
 Micro ServoMicro Servo
 No Trade
 WT: 0.1 Size: TINY
@@ -1654,6 +1826,15 @@ Race: ALL
 Renux Herkanor |
 Shoulders |
 AC: 10 STR: +5 SV MAGIC: +5 WT: 2.5 Size: SMALL Class: ROG Race: ALL |
+Renaldo's Severed HeadRenaldo's Severed Head
+No Trade, Quest
+Size: MEDIUM WT: 0.5
+Class: NONE
+Race: NONE
+|
+Renaldo the highway bandit |
+(None) |
+No Trade, Quest Size: MEDIUM WT: 0.5 Class: NONE Race: NONE |
 Ruined Ebon Drakeling ScalesRuined Ebon Drakeling Scales
 WT: 0.1 Size: SMALL
 Class: ALL
