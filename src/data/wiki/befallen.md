@@ -1,5 +1,5 @@
 # Befallen (eqlwiki.com)
-fetched: 2026-11-14
+fetched: 2026-11-19
 
 Befallen - EverQuest Legends Wiki
 Jump to content
@@ -563,10 +563,17 @@ Race: ALL
 A Troll Shadow Knight who can drop any of the keys to Befallen including Splintered Wooden Key, [[Charred Bo... |
 A skeletal excavator
 |
-|
+Skeleton |
 Warrior |
 |
 See Discussion |
+Rusty Mining PickRusty Mining Pick
+Slot: PRIMARY SECONDARY
+Skill: Piercing Atk Delay: 38
+DMG: 4BACKSTAB: 4
+WT: 6.5 Size: MEDIUM
+Class: ALL except CLR PAL DRU MNK
+Race: ALLDMG Bonus: 19 @ lvl 50
 |
 Description needed. |
 A skeleton
@@ -819,7 +826,8 @@ WT: 7.5 Size: MEDIUM
 Class: WAR PAL RNG SHD BRD ROG
 Race: ALLDMG Bonus: 14 @ lvl 50
 |
-|
+A Dark Elf shadowknight, hits for a max of 56, uses Harm Touch and casts lifetaps.
+When he spawns, his name appears in ... |
 Korven Nisere
 |
 Half Elf |

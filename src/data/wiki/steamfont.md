@@ -1,5 +1,5 @@
 # Steamfont_Mountains (eqlwiki.com)
-fetched: 2026-11-18
+fetched: 2026-11-19
 
 Steamfont Mountains - EverQuest Legends Wiki
 Jump to content
@@ -177,7 +177,7 @@ Brona Frugrin |
 Cleric, Druid, Enchanter, Magician, Shaman, Wizard |
 Clan Runnyeye |
 Borxx |
-NPCs - Found 91 NPCs that spawn in Steamfont Mountains:
+NPCs - Found 95 NPCs that spawn in Steamfont Mountains:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Clockwork Fletcher
 |
@@ -776,6 +776,15 @@ Warrior |
 33% @ (-1152, 1284) |
 Various |
 This outcast troll belongs to the Broken Skull Clan and can be found roaming in the Steamfont Mountains. Killing... |
+Byrola Bendil
+|
+|
+|
+1-3 |
+(-137, -469) |
+|
+:You say, 'Hail Byrola Bendil'
+Byrola Bendil says, 'I really enjoy the evenings in the Steamfont Mountains. The air is... |
 Cargo Clockwork
 |
 Giant Spider |
@@ -1166,6 +1175,14 @@ Class: ALL
 Race: ALL
 |
 Spawns in Meldrath's room in the spot of one of the guards (1718, -2158). |
+Mip Sprocket
+|
+Gnome |
+|
+60 |
+|
+|
+|
 Nilit's contraption
 |
 Giant Spider |
@@ -1247,6 +1264,14 @@ Various |
 Description needed.
 Lore
 The pride of gnome tinkerers, clockwork constructs come in several shapes and sizes sui... |
+Smith Numden
+|
+Gnome |
+|
+60 |
+|
+|
+|
 Thetherthag Wakintrob
 |
 Gnome |
@@ -1361,6 +1386,14 @@ Class: NEC WIZ MAG ENC
 Race: ALLFocus Effect: Spell Haste II
 |
 He hits hard and nukes harder. Don't underestimate him. From his spawn point just north of the druid rings, he paths in ... |
+Yulcabis
+|
+Gnome |
+|
+13 |
+(-851, -1448) |
+Yulcabis' Axe |
+|
 Zondo Hyzill
 |
 Gnome |
@@ -1369,7 +1402,7 @@ Wizard |
 (-1788, 723) |
 * Gnome Meat |
 This guy stands rather close to the spawn point of the Cargo Clockwork and often gives it a minimal DS. He's a wizard, o... |
-Items - Found 69 items that drop in Steamfont Mountains:
+Items - Found 70 items that drop in Steamfont Mountains:
 Item Name | Drops From | Slot | Stats |
 Aviak BeakAviak Beak
 Size: TINY WT: 0.5
@@ -1472,6 +1505,19 @@ Race: ALL
 a brittle skeleton |
 (None) |
 NO DROP WT: 0.0 Size: TINY Class: ALL Race: ALL |
+Donlix's Short SwordDonlix's Short Sword
+Lore Equipped, No Trade, Quest, Placeable
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing Atk Delay: 27
+DMG: 4
+Dmg Bon: 13
+Size: MEDIUM WT: 6.0
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+|
+Donlix Bonkle |
+1H Slashing |
+Atk Delay: 27 DMG: 4 Dmg Bon: 13 Size: MEDIUM WT: 6.0 Class: WAR PAL RNG SHD BRD ROG Race: ALL |
 Drop of GreaseDrop of Grease
 WT: 0.1 Size: TINY
 Class: ALL

@@ -1,5 +1,5 @@
 # Oasis_of_Marr (eqlwiki.com)
-fetched: 2026-11-14
+fetched: 2026-11-19
 
 Oasis of Marr - EverQuest Legends Wiki
 Jump to content
@@ -184,7 +184,7 @@ Emissary of Zebuxoruk |
 All |
 Plane of Fear, Plane of Hate |
 Cazic Thule (God), Innoruuk (God) |
-NPCs - Found 28 NPCs that spawn in Oasis of Marr:
+NPCs - Found 29 NPCs that spawn in Oasis of Marr:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Cistern Asp
 |
@@ -381,6 +381,14 @@ See Discussion |
 Various |
 Spawns in both Oasis and Sro?
 Spawn in Rathe Mountains is a PH for Grazhak the Berzerker. |
+Arthikus
+|
+|
+|
+33 |
+(-1337, 704) |
+Various |
+|
 Cazel
 |
 Giant |

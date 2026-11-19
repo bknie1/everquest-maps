@@ -1,5 +1,5 @@
 # South_Ro (eqlwiki.com)
-fetched: 2026-11-14
+fetched: 2026-11-19
 
 Southern Desert of Ro - EverQuest Legends Wiki
 Jump to content
@@ -234,7 +234,7 @@ Rathmana Allin |
 All |
 None |
 None |
-NPCs - Found 36 NPCs that spawn in Southern Desert of Ro:
+NPCs - Found 37 NPCs that spawn in Southern Desert of Ro:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Cistern Asp
 |
@@ -453,6 +453,23 @@ Class: ALL
 Race: ALL
 |
 These are found in various low-level zones and are a step up from decaying skeletons that haunt ... |
+A terrorantuling
+|
+|
+|
+21 |
+(309, 453) |
+Terrorantula SilkTerrorantula Silk
+WT: 0.1 Size: SMALL
+Class: ALL
+Race: ALL
+, Urticating HairsUrticating Hairs
+QUEST ITEM
+WT: 0.1 Size: TINY
+Class: ALL
+Race: ALL
+|
+|
 A tree snake
 |
 Giant Snake |
