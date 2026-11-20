@@ -1,5 +1,5 @@
 # West_Commonlands (eqlwiki.com)
-fetched: 2026-11-14
+fetched: 2026-11-20
 
 West Commonlands - EverQuest Legends Wiki
 Jump to content
@@ -745,7 +745,7 @@ Peron ThreadSpinner
 Qeynos Citizen |
 Merchant |
 45 |
-(-400, 2666)?? |
+(-400, 2670) |
 |
 Description needed. |
 Ranon Strongarm
