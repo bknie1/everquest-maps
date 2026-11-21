@@ -1,7 +1,7 @@
 # North_Ro (eqlwiki.com)
-fetched: 2026-11-14
+fetched: 2026-11-21
 
-The Northern Desert of Ro - EverQuest Legends Wiki
+The Northern Desert of Ro - EQ Legends Wiki
 Jump to content
 Main menu
 EverQuest Legends Wiki

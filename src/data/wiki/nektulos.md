@@ -1,7 +1,7 @@
 # Nektulos_Forest (eqlwiki.com)
-fetched: 2026-11-14
+fetched: 2026-11-21
 
-Nektulos Forest - EverQuest Legends Wiki
+Nektulos Forest - EQ Legends Wiki
 Jump to content
 Main menu
 EverQuest Legends Wiki

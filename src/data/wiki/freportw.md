@@ -1,7 +1,7 @@
 # West_Freeport (eqlwiki.com)
-fetched: 2026-11-14
+fetched: 2026-11-21
 
-Freeport - EverQuest Legends Wiki
+Freeport - EQ Legends Wiki
 Jump to content
 Main menu
 EverQuest Legends Wiki

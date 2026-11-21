@@ -1,7 +1,7 @@
 # Stonebrunt_Mountains (eqlwiki.com)
-fetched: 2026-11-14
+fetched: 2026-11-21
 
-Stonebrunt Mountains - EverQuest Legends Wiki
+Stonebrunt Mountains - EQ Legends Wiki
 Jump to content
 Main menu
 EverQuest Legends Wiki

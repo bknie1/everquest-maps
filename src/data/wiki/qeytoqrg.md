@@ -1,7 +1,7 @@
 # Qeynos_Hills (eqlwiki.com)
-fetched: 2026-11-14
+fetched: 2026-11-21
 
-Qeynos Hills - EverQuest Legends Wiki
+Qeynos Hills - EQ Legends Wiki
 Jump to content
 Main menu
 EverQuest Legends Wiki

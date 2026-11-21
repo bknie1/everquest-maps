@@ -1,7 +1,7 @@
 # Highpass_Hold (eqlwiki.com)
-fetched: 2026-11-14
+fetched: 2026-11-21
 
-Highpass Hold - EverQuest Legends Wiki
+Highpass Hold - EQ Legends Wiki
 Jump to content
 Main menu
 EverQuest Legends Wiki

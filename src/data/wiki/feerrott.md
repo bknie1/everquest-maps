@@ -1,7 +1,7 @@
 # The_Feerrott (eqlwiki.com)
-fetched: 2026-11-14
+fetched: 2026-11-21
 
-The Feerrott - EverQuest Legends Wiki
+The Feerrott - EQ Legends Wiki
 Jump to content
 Main menu
 EverQuest Legends Wiki

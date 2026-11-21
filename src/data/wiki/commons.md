@@ -1,7 +1,7 @@
 # West_Commonlands (eqlwiki.com)
-fetched: 2026-11-20
+fetched: 2026-11-21
 
-West Commonlands - EverQuest Legends Wiki
+West Commonlands - EQ Legends Wiki
 Jump to content
 Main menu
 EverQuest Legends Wiki

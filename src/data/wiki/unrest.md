@@ -1,7 +1,7 @@
 # Estate_of_Unrest (eqlwiki.com)
-fetched: 2026-11-14
+fetched: 2026-11-21
 
-The Estate of Unrest - EverQuest Legends Wiki
+The Estate of Unrest - EQ Legends Wiki
 Jump to content
 Main menu
 EverQuest Legends Wiki

@@ -1,7 +1,7 @@
 # Steamfont_Mountains (eqlwiki.com)
-fetched: 2026-11-19
+fetched: 2026-11-21
 
-Steamfont Mountains - EverQuest Legends Wiki
+Steamfont Mountains - EQ Legends Wiki
 Jump to content
 Main menu
 EverQuest Legends Wiki

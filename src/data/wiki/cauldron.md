@@ -1,7 +1,7 @@
 # Dagnor's_Cauldron (eqlwiki.com)
-fetched: 2026-11-14
+fetched: 2026-11-21
 
-Dagnor's Cauldron - EverQuest Legends Wiki
+Dagnor's Cauldron - EQ Legends Wiki
 Jump to content
 Main menu
 EverQuest Legends Wiki

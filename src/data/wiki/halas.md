@@ -1,7 +1,7 @@
 # Halas (eqlwiki.com)
-fetched: 2026-11-14
+fetched: 2026-11-21
 
-Halas - EverQuest Legends Wiki
+Halas - EQ Legends Wiki
 Jump to content
 Main menu
 EverQuest Legends Wiki

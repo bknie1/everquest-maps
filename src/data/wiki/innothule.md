@@ -1,7 +1,7 @@
 # Innothule_Swamp (eqlwiki.com)
-fetched: 2026-11-14
+fetched: 2026-11-21
 
-Innothule Swamp - EverQuest Legends Wiki
+Innothule Swamp - EQ Legends Wiki
 Jump to content
 Main menu
 EverQuest Legends Wiki

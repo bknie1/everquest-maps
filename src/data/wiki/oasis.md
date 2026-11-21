@@ -1,7 +1,7 @@
 # Oasis_of_Marr (eqlwiki.com)
-fetched: 2026-11-19
+fetched: 2026-11-21
 
-Oasis of Marr - EverQuest Legends Wiki
+Oasis of Marr - EQ Legends Wiki
 Jump to content
 Main menu
 EverQuest Legends Wiki

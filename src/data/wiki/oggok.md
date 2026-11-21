@@ -1,7 +1,7 @@
 # Oggok (eqlwiki.com)
-fetched: 2026-11-14
+fetched: 2026-11-21
 
-Oggok - EverQuest Legends Wiki
+Oggok - EQ Legends Wiki
 Jump to content
 Main menu
 EverQuest Legends Wiki

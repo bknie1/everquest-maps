@@ -1,7 +1,7 @@
 # Splitpaw_Lair (eqlwiki.com)
-fetched: 2026-11-15
+fetched: 2026-11-21
 
-Splitpaw Lair - EverQuest Legends Wiki
+Splitpaw Lair - EQ Legends Wiki
 Jump to content
 Main menu
 EverQuest Legends Wiki

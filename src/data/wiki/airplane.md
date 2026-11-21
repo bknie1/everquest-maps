@@ -1,7 +1,7 @@
 # Plane_of_Sky (eqlwiki.com)
-fetched: 2026-11-14
+fetched: 2026-11-21
 
-Plane of Sky - EverQuest Legends Wiki
+Plane of Sky - EQ Legends Wiki
 Jump to content
 Main menu
 EverQuest Legends Wiki

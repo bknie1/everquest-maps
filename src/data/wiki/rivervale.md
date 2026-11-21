@@ -1,7 +1,7 @@
 # Rivervale (eqlwiki.com)
-fetched: 2026-11-14
+fetched: 2026-11-21
 
-Rivervale - EverQuest Legends Wiki
+Rivervale - EQ Legends Wiki
 Jump to content
 Main menu
 EverQuest Legends Wiki

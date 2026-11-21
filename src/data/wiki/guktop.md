@@ -1,7 +1,7 @@
 # Upper_Guk (eqlwiki.com)
-fetched: 2026-11-14
+fetched: 2026-11-21
 
-Upper Guk - EverQuest Legends Wiki
+Upper Guk - EQ Legends Wiki
 Jump to content
 Main menu
 EverQuest Legends Wiki

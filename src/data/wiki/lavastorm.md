@@ -1,7 +1,7 @@
 # Lavastorm_Mountains (eqlwiki.com)
-fetched: 2026-11-14
+fetched: 2026-11-21
 
-Lavastorm Mountains - EverQuest Legends Wiki
+Lavastorm Mountains - EQ Legends Wiki
 Jump to content
 Main menu
 EverQuest Legends Wiki

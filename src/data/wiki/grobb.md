@@ -1,7 +1,7 @@
 # Grobb (eqlwiki.com)
-fetched: 2026-11-14
+fetched: 2026-11-21
 
-Grobb - EverQuest Legends Wiki
+Grobb - EQ Legends Wiki
 Jump to content
 Main menu
 EverQuest Legends Wiki

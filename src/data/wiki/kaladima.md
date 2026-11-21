@@ -1,7 +1,7 @@
 # Kaladim (eqlwiki.com)
-fetched: 2026-11-15
+fetched: 2026-11-21
 
-Kaladim - EverQuest Legends Wiki
+Kaladim - EQ Legends Wiki
 Jump to content
 Main menu
 EverQuest Legends Wiki

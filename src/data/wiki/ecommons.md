@@ -1,7 +1,7 @@
 # East_Commonlands (eqlwiki.com)
-fetched: 2026-11-14
+fetched: 2026-11-21
 
-East Commonlands - EverQuest Legends Wiki
+East Commonlands - EQ Legends Wiki
 Jump to content
 Main menu
 EverQuest Legends Wiki

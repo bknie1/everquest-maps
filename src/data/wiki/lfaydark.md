@@ -1,7 +1,7 @@
 # Lesser_Faydark (eqlwiki.com)
-fetched: 2026-11-14
+fetched: 2026-11-21
 
-Lesser Faydark - EverQuest Legends Wiki
+Lesser Faydark - EQ Legends Wiki
 Jump to content
 Main menu
 EverQuest Legends Wiki

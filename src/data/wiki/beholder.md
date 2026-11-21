@@ -1,7 +1,7 @@
 # Gorge_of_King_Xorbb (eqlwiki.com)
-fetched: 2026-11-14
+fetched: 2026-11-21
 
-Gorge of King Xorbb - EverQuest Legends Wiki
+Gorge of King Xorbb - EQ Legends Wiki
 Jump to content
 Main menu
 EverQuest Legends Wiki

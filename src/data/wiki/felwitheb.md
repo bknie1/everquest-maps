@@ -1,5 +1,5 @@
 # Felwithe (eqlwiki.com)
-fetched: 2026-11-14
+fetched: 2026-11-21
 
 Felwithe - EverQuest Legends Wiki
 Jump to content
@@ -452,7 +452,7 @@ GM Magician |
 61 |
 (795, -599) |
 None |
-Description needed. |
+She is not in the main Guild Hall - she is in one of the bedrooms. |
 Osisa Goldenspear
 |
 High Elf |

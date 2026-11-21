@@ -1,7 +1,7 @@
 # Greater_Faydark (eqlwiki.com)
-fetched: 2026-11-14
+fetched: 2026-11-21
 
-Greater Faydark - EverQuest Legends Wiki
+Greater Faydark - EQ Legends Wiki
 Jump to content
 Main menu
 EverQuest Legends Wiki
@@ -693,6 +693,13 @@ DMG: 3BACKSTAB: 3
 WT: 3.0 Size: SMALL
 Class: ALL except CLR PAL DRU MNK SHM
 Race: ALLDMG Bonus: 11 @ lvl 50
+or Fishing SpearFishing Spear
+Slot: PRIMARY
+Skill: Piercing Atk Delay: 32
+DMG: 5BACKSTAB: 5
+WT: 5.0 Size: MEDIUM
+Class: WAR RNG SHD BRD ROG SHM
+Race: ALLDMG Bonus: 16 @ lvl 50
 |
 Gallin Woodwind |
 5 |
@@ -1405,7 +1412,7 @@ GM Warrior |
 61 |
 (326, 274) |
 None |
-Warrior guildmaster in Kelethin. |
+Warrior guildmaster in Kelethin. He is outside the guildhall, around the right side. |
 Geeda
 |
 Wood Elf |

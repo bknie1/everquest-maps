@@ -1,7 +1,7 @@
 # Toxxulia_Forest (eqlwiki.com)
-fetched: 2026-11-14
+fetched: 2026-11-21
 
-Toxxulia Forest - EverQuest Legends Wiki
+Toxxulia Forest - EQ Legends Wiki
 Jump to content
 Main menu
 EverQuest Legends Wiki

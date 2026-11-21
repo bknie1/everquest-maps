@@ -1,7 +1,7 @@
 # Surefall_Glade (eqlwiki.com)
-fetched: 2026-11-14
+fetched: 2026-11-21
 
-Surefall Glade - EverQuest Legends Wiki
+Surefall Glade - EQ Legends Wiki
 Jump to content
 Main menu
 EverQuest Legends Wiki

@@ -1,7 +1,7 @@
 # Neriak_Foreign_Quarter (eqlwiki.com)
-fetched: 2026-11-14
+fetched: 2026-11-21
 
-Neriak - EverQuest Legends Wiki
+Neriak - EQ Legends Wiki
 Jump to content
 Main menu
 EverQuest Legends Wiki

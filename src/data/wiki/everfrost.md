@@ -1,7 +1,7 @@
 # Everfrost_Peaks (eqlwiki.com)
-fetched: 2026-11-14
+fetched: 2026-11-21
 
-Everfrost Peaks - EverQuest Legends Wiki
+Everfrost Peaks - EQ Legends Wiki
 Jump to content
 Main menu
 EverQuest Legends Wiki

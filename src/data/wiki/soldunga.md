@@ -1,7 +1,7 @@
 # Solusek's_Eye (eqlwiki.com)
-fetched: 2026-11-14
+fetched: 2026-11-21
 
-Solusek's Eye - EverQuest Legends Wiki
+Solusek's Eye - EQ Legends Wiki
 Jump to content
 Main menu
 EverQuest Legends Wiki

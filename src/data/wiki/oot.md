@@ -1,7 +1,7 @@
 # Ocean_of_Tears (eqlwiki.com)
-fetched: 2026-11-18
+fetched: 2026-11-21
 
-Ocean of Tears - EverQuest Legends Wiki
+Ocean of Tears - EQ Legends Wiki
 Jump to content
 Main menu
 EverQuest Legends Wiki
