@@ -1,5 +1,5 @@
 # Lower_Guk (eqlwiki.com)
-fetched: 2026-11-14
+fetched: 2026-11-22
 
 Lower Guk - EverQuest Legends Wiki
 Jump to content
@@ -1040,16 +1040,8 @@ Old Froglok |
 Shaman |
 33-37 |
 50% @ (465, -514), 50% @ (302, -363), 50% @ (350, -73), 50% @ (216, -466) |
-Froglok MeatFroglok Meat
-Quest
-Size: SMALL WT: 1.0
-Class: ALL
-Race: ALL
-, Froglok BloodFroglok Blood
-Quest
-Size: TINY WT: 0.1
-Class: ALL
-Race: ALL
+* Froglok Meat (Always)
+Froglok Blood (Always)
 |
 Description needed. |
 A Froglok Wan Knight

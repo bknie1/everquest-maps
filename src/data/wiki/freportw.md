@@ -1,5 +1,5 @@
 # West_Freeport (eqlwiki.com)
-fetched: 2026-11-21
+fetched: 2026-11-22
 
 Freeport - EQ Legends Wiki
 Jump to content
@@ -466,7 +466,7 @@ Larn Brugal |
 All |
 Commonlands |
 orc weaponsmith, Groflah Steadirt |
-NPCs - Found 121 NPCs that spawn in West Freeport:
+NPCs - Found 122 NPCs that spawn in West Freeport:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Decaying Skeleton
 |
@@ -1301,6 +1301,15 @@ Merchant |
 1st Floor Building #5 |
 |
 Found just inside the casters' guild. |
+Malloy the Songbird
+|
+|
+|
+61 |
+(-283, -347) |
+|
+You say, 'Hail, Malloy the Songbird'
+Malloy the Songbird says, 'Hello, ____! I am Malloy the Songbird. I have traveled... |
 Mekoma Buma
 |
 Qeynos Citizen |
@@ -3071,7 +3080,7 @@ Enchanter |
 22 |
 50% @ (-288, -215) |
 None |
-Inside Chops n Hops, located in the slum area of East Freeport. |
+Inside Chops n Hops, located in the slum area of East Freeport.Hand over 4 Capt. Orlin's Spiced Ale, sold ri... |
 Peku Croxe
 |
 Freeport Guards |
@@ -3506,7 +3515,7 @@ Class: ALL except NEC WIZ MAG ENC
 Race: ALLDMG Bonus: 18 @ lvl 50
 |
 If you are thinking about taking the quest he offers for Dismal Rage clerics - don't. This looks to be the beginning of... |
-Items - Found 13 items that drop in East Freeport:
+Items - Found 14 items that drop in East Freeport:
 Item Name | Drops From | Slot | Stats |
 A DollA Doll
 WT: 1.0 Size: TINY
@@ -3603,6 +3612,15 @@ Race: ALL
 None? |
 (None) |
 LORE ITEM NO DROP WT: 2.0 Size: MEDIUM Class: ALL except NEC WIZ MAG ENC Race: ALL |
+Tattered FlierTattered Flier
+No Trade, Quest
+Size: TINY
+Class: NONE
+Race: NONE
+|
+Groflah Steadirt |
+(None) |
+No Trade, Quest Size: TINY Class: NONE Race: NONE |
 Testimony of TruthTestimony of Truth
 No Trade, Quest
 Size: TINY

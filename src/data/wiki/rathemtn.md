@@ -1,5 +1,5 @@
 # Rathe_Mountains (eqlwiki.com)
-fetched: 2026-11-14
+fetched: 2026-11-22
 
 Rathe Mountains - EverQuest Legends Wiki
 Jump to content
@@ -404,7 +404,7 @@ Karam Dragonforge (4109, 918) |
 All |
 Permafrost |
 Lady Vox |
-NPCs - Found 151 NPCs that spawn in Rathe Mountains:
+NPCs - Found 154 NPCs that spawn in Rathe Mountains:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Basalt Drake
 |
@@ -1798,6 +1798,16 @@ Merchant |
 Cleric spells merchant.
 You say, 'Hail Scribe Biddlegorb'
 Scribe Biddlegorb says, 'Welcome to my shop, ____. From the... |
+Scribe Flogglebig
+|
+Froglok |
+Merchant |
+50 |
+(-2056, 1985) |
+|
+General spells merchant.
+You say, 'Hail Scribe Flogglebig'
+Scribe Flogglebig says, 'Welcome to my store, ____. Please... |
 Scribe Noglleg
 |
 Froglok |
@@ -1808,6 +1818,24 @@ Merchant |
 Necromancer spells merchant.
 You say, 'Hail Scribe Noglleg'
 Scribe Noglleg says, 'Welcome to my shop, ________. From ... |
+Scribe Ooglebeg
+|
+Froglok |
+Merchant |
+50 |
+(-1993, 1960) |
+|
+Necromancer supplies merchant. |
+Scribe Vordangl
+|
+Froglok |
+Merchant |
+50 |
+(-1770, 2156) |
+|
+Shadow knight spells merchant.
+You say, 'Hail Scribe Vordangl'
+Scribe Vordangl says, 'Welcome to my shop, ____. From ... |
 Sentry Joanna
 |
 Wood Elf |

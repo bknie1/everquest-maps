@@ -1,5 +1,5 @@
 # Butcherblock_Mountains (eqlwiki.com)
-fetched: 2026-11-18
+fetched: 2026-11-22
 
 Butcherblock Mountains - EverQuest Legends Wiki
 Jump to content
@@ -175,7 +175,7 @@ Kaladim's entrance lies in the middle of the northern edge of the zone. West of 
 To the east lies the zone to Greater Faydark. The tunnel lies in the eastern mountains. The entrance to Dagnor's Cauldron lies in the southern wall of the zone.
 The boat from Butcherblock Mountains to Freeport has a round-trip time of about 30 minutes.
 What's in this zone?
-NPCs - Found 119 NPCs that spawn in Butcherblock Mountains:
+NPCs - Found 120 NPCs that spawn in Butcherblock Mountains:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Boat
 |
@@ -476,6 +476,24 @@ Warrior |
 (1427, 2230), (979, 1186), (2960, 1775) |
 * Rusty Weapons |
 There appear to be just two spawns of this monster, both found wandering in the area between Kaladim and the docks. Howe... |
+A lantern beetle
+|
+|
+|
+2 |
+(1769, -595) |
+Fire Beetle EyeFire Beetle Eye
+Quest, Placeable
+Slot: PRIMARY SECONDARY
+WT: 0.2 Size: TINY
+Class: ALL
+Race: ALL
+, Fire Beetle LegFire Beetle Leg
+WT: 0.1 Size: SMALL
+Class: ALL
+Race: ALL
+|
+|
 A large snake
 |
 Animal |

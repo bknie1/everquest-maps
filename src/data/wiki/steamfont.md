@@ -1,5 +1,5 @@
 # Steamfont_Mountains (eqlwiki.com)
-fetched: 2026-11-21
+fetched: 2026-11-22
 
 Steamfont Mountains - EQ Legends Wiki
 Jump to content
@@ -1402,7 +1402,7 @@ Wizard |
 (-1788, 723) |
 * Gnome Meat |
 This guy stands rather close to the spawn point of the Cargo Clockwork and often gives it a minimal DS. He's a wizard, o... |
-Items - Found 70 items that drop in Steamfont Mountains:
+Items - Found 71 items that drop in Steamfont Mountains:
 Item Name | Drops From | Slot | Stats |
 Aviak BeakAviak Beak
 Size: TINY WT: 0.5
@@ -1725,6 +1725,19 @@ Race: NONE
 Jerald the highway bandit |
 (None) |
 No Trade, Quest Size: MEDIUM WT: 0.5 Class: NONE Race: NONE |
+Jibble's StilettoJibble's Stiletto
+Lore Equipped, No Trade, Quest, Placeable
+Slot: PRIMARY SECONDARY
+Skill: 1H Piercing Atk Delay: 22
+Dmg Bon: 10
+BACKSTAB: 3
+Size: SMALL WT: 3.0
+Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
+Race: ALL
+|
+Jibble Blexnik |
+Primary, Secondary |
+Skill: 1H Piercing Atk Delay: 22 Dmg Bon: 10 BACKSTAB: 3 Size: SMALL WT: 3.0 Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST Race: ALL |
 Kobold PartsKobold Parts
 QUEST ITEM
 WT: 0.9 Size: SMALL

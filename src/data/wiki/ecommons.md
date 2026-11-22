@@ -1,5 +1,5 @@
 # East_Commonlands (eqlwiki.com)
-fetched: 2026-11-21
+fetched: 2026-11-22
 
 East Commonlands - EQ Legends Wiki
 Jump to content
@@ -182,7 +182,7 @@ Scholar Darnath |
 ?? |
 East Commonlands |
 ?? |
-NPCs - Found 59 NPCs that spawn in East Commonlands:
+NPCs - Found 62 NPCs that spawn in East Commonlands:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Black Bear
 |
@@ -440,6 +440,18 @@ Warrior |
 Various |
 Various |
 These undead creatures can be quite dangerous to low-level players, as they are always aggressive and proc [[Ghoul Root]... |
+A leaf scarab
+|
+Scarab |
+|
+4-5 |
+(651, 195) |
+Scarab LegsScarab Legs
+WT: 0.1 Size: SMALL
+Class: ALL
+Race: ALL
+|
+|
 A rattlesnake
 |
 Giant Snake |
@@ -469,6 +481,14 @@ Class: ALL
 Race: ALL
 |
 These are found in various low-level zones and are a step up from decaying skeletons that haunt ... |
+A woodland lioness
+|
+Cat |
+|
+6 |
+(351, 1504) |
+Various |
+|
 Altunic Jartin
 |
 Qeynos Citizen |
@@ -619,6 +639,15 @@ Merchant |
 (-182, 162) |
 |
 Description needed. |
+Jimble Woodentoe
+|
+|
+|
+12 |
+(16, 78) |
+Various |
+:You say, 'Hail Jimble Woodentoe'
+Jimble Woodentoe says, 'Hail! I'd love to stop and chat with ya but I'm running late ... |
 Joryd Longarms
 |
 Qeynos Citizen |

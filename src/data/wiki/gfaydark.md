@@ -1,5 +1,5 @@
 # Greater_Faydark (eqlwiki.com)
-fetched: 2026-11-21
+fetched: 2026-11-22
 
 Greater Faydark - EQ Legends Wiki
 Jump to content
@@ -767,7 +767,7 @@ a drunkard |
 All |
 None |
 None |
-NPCs - Found 144 NPCs that spawn in Greater Faydark:
+NPCs - Found 145 NPCs that spawn in Greater Faydark:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Black Wolf
 |
@@ -1122,6 +1122,24 @@ Class: ALL
 Race: ALL
 |
 Description needed. |
+A lantern beetle
+|
+|
+|
+2 |
+(1769, -595) |
+Fire Beetle EyeFire Beetle Eye
+Quest, Placeable
+Slot: PRIMARY SECONDARY
+WT: 0.2 Size: TINY
+Class: ALL
+Race: ALL
+, Fire Beetle LegFire Beetle Leg
+WT: 0.1 Size: SMALL
+Class: ALL
+Race: ALL
+|
+|
 Alania Peaceheart
 |
 Wood Elf |

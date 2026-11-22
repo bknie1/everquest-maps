@@ -1,5 +1,5 @@
 # Western_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-11-14
+fetched: 2026-11-22
 
 Western Karana - EverQuest Legends Wiki
 Jump to content
@@ -375,7 +375,7 @@ Ryshon Hunsti |
 Paladin |
 Butcherblock Mountains, Dagnor's Cauldron, The Estate of Unrest, High Keep, Lavastorm Mountains, Najena |
 Kanthuk Ogrebane, Llara, Ruathey, a crazed ghoul, A crazed goblin (Butcherblock), a skeleton |
-NPCs - Found 110 NPCs that spawn in Western Plains of Karana:
+NPCs - Found 111 NPCs that spawn in Western Plains of Karana:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Black Wolf
 |
@@ -653,6 +653,24 @@ Class: ALL
 Race: ALL
 |
 Possible WK spawn locs: (480, -13137), (-1129, -3729), (150, -7829, 199). in WK one spawns @ 782, -3353, 7 & remains sta... |
+A giant fire beetle
+|
+Beetle |
+|
+9-11 |
+(-1903, 385) |
+Giant Fire Beetle EyeGiant Fire Beetle Eye
+Quest
+Size: SMALL WT: 0.1
+Class: ALL
+Race: ALL
+, Giant Fire Beetle LegGiant Fire Beetle Leg
+Quest
+Size: SMALL WT: 0.1
+Class: ALL
+Race: ALL
+|
+|
 A plains lion
 |
 Animal |

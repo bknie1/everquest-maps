@@ -1,5 +1,5 @@
 # The_Feerrott (eqlwiki.com)
-fetched: 2026-11-21
+fetched: 2026-11-22
 
 The Feerrott - EQ Legends Wiki
 Jump to content
@@ -385,7 +385,7 @@ A lizardman broodling
 |
 1 |
 (565, 258), (667, 134), (1020, -2514) |
-Various |
+0 - 0 Platinums, 0 - 0 Golds, 0 - 3 Silvers, 0 - 8 Coppers |
 |
 A lizardman forager
 |
@@ -401,7 +401,14 @@ Lizard Man |
 Warrior |
 3 |
 100% @ (984, 2323), 100% @ (-956, -2626), 100% @ (-537, 2638), 100% @ (205, 2395), 100% @ (1261, 2286), 100% @ (-376, -2564), 100% @ (-844, -1276), 100% @ (-201, 1412), 100% @ (117, 2768), 100% @ (-362, -664), 100% @ (-209, 2635), 100% @ (-894, 1979), 100% @ (-730, 2267), 100% @ (-825, 2074), 100% @ (-930, 1531), 100% @ (-854, -1300), 100% @ (-842, -1300), 100% @ (-351, -638), 100% @ (368, 460), 100% @ (382, 469), 100% @ (894, -872), 100% @ (899, -854), 100% @ (877, -847), 100% @ (-380, -644) |
-Various |
+* Lizardman Scout Fife (Uncommon)
+Pristine Lizard Scale (Rare)
+Large Cloth Armor (Rare)
+Rusty Weapons (Rare)
+Rusty Knuckles (Ultra Rare)
+Worn Weighted Gloves (Ultra Rare)
+Lizard Meat (Rare)
+|
 Description needed. |
 A lizardman watcher
 |
@@ -553,7 +560,50 @@ Erudite |
 Necromancer |
 40 |
 100% @ (-2370, 2604) |
-Various |
+* Cloth Cap (Ultra Rare)
+Cloth Veil (Ultra Rare)
+Cloth Choker (Ultra Rare)
+Cloth Shirt (Ultra Rare)
+Cloth Shawl (Ultra Rare)
+Cloth Cape (Ultra Rare)
+Cloth Cord (Ultra Rare)
+Cloth Sleeves (Ultra Rare)
+Cloth Wristband (Ultra Rare)
+Cloth Gloves (Ultra Rare)
+Cloth Pants (Ultra Rare)
+Cloth Sandals (Ultra Rare)
+Crystallized Sulfur
+Bronze Short Sword (Ultra Rare)
+Bronze Bastard Sword (Ultra Rare)
+Bronze Axe (Ultra Rare)
+Bronze Scimitar (Ultra Rare)
+Bronze Flail (Ultra Rare)
+Bronze Morning Star (Ultra Rare)
+Bronze Warclub (Ultra Rare)
+Bronze Jutte (Ultra Rare)
+Dagger (Common)
+Rusty Dagger (Ultra Rare)
+Bronze Dagger (Ultra Rare)
+Bronze Rapier (Ultra Rare)
+Bronze Spear (Ultra Rare)
+Bronze Main Gauche (Ultra Rare)
+Bronze Shortened Spear (Ultra Rare)
+Bronze Brazier (Rare)
+Pearl Necklace
+Emerald Ring (Ultra Rare)
+Opal Bracelet (Ultra Rare)
+Mithril Amulet (Ultra Rare)
+Star Ruby Earring (Ultra Rare)
+Fire Emerald (Rare)
+Sapphire (Rare)
+Peridot (Rare)
+Salil's Writ Pg. 153 (Left) (Rare)
+Rune of Al'Kabor (Rare)
+Rune of Infraction (Rare)
+Words of Descrying (Rare)
+Words of Cazic-Thule (Rare)
+Words of Disillusionment (Rare)
+|
 Casts Cancel Magic, Boil Blood, Venom of the Snake, and Scourge. Flees at low health. Blue through level... |
 Drizda Tunesinger
 |

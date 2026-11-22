@@ -1,5 +1,5 @@
 # Toxxulia_Forest (eqlwiki.com)
-fetched: 2026-11-21
+fetched: 2026-11-22
 
 Toxxulia Forest - EQ Legends Wiki
 Jump to content
@@ -221,7 +221,7 @@ a skeleton (miner) |
 All |
 Toxxulia Forest |
 a kobold scout |
-NPCs - Found 62 NPCs that spawn in Toxxulia Forest:
+NPCs - Found 63 NPCs that spawn in Toxxulia Forest:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Boat
 |
@@ -501,6 +501,24 @@ Class: ALL
 Race: ALL
 |
 Description needed. |
+A giant fire beetle
+|
+Beetle |
+|
+9-11 |
+(-1903, 385) |
+Giant Fire Beetle EyeGiant Fire Beetle Eye
+Quest
+Size: SMALL WT: 0.1
+Class: ALL
+Race: ALL
+, Giant Fire Beetle LegGiant Fire Beetle Leg
+Quest
+Size: SMALL WT: 0.1
+Class: ALL
+Race: ALL
+|
+|
 A giant thistle snake
 |
 Giant Snake |

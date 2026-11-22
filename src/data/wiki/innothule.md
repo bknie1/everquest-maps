@@ -1,5 +1,5 @@
 # Innothule_Swamp (eqlwiki.com)
-fetched: 2026-11-21
+fetched: 2026-11-22
 
 Innothule Swamp - EQ Legends Wiki
 Jump to content
@@ -218,7 +218,35 @@ Old Froglok |
 Warrior |
 4-6, ~12 |
 (500, 165), See Discussion |
-Various |
+* Netted Cap (Ultra Rare)
+Netted Mask (Ultra Rare)
+Netted Choker (Ultra Rare)
+Netted Shirt (Ultra Rare)
+Netted Mantle (Ultra Rare)
+Netted Cape (Ultra Rare)
+Netted Girth (Ultra Rare)
+Netted Sleeves (Ultra Rare)
+Netted Wristband (Ultra Rare)
+Netted Gloves (Ultra Rare)
+Netted Pants (Ultra Rare)
+Woven Cap (Ultra Rare)
+Woven Collar (Ultra Rare)
+Woven Tunic (Ultra Rare)
+Woven Mantle (Ultra Rare)
+Woven Cape (Ultra Rare)
+Woven Girth (Ultra Rare)
+Woven Sleeves (Ultra Rare)
+Woven Wristbands (Ultra Rare)
+Woven Gloves (Ultra Rare)
+Woven Leggings (Ultra Rare)
+Mesh Helm (Ultra Rare)
+Mesh Gorget (Ultra Rare)
+Mesh Mantle (Ultra Rare)
+Mesh Leggings (Ultra Rare)
+Rusty Warhammer (Ultra Rare)
+Froglok Meat (Always)
+Froglok Blood (Always)
+|
 There are two kinds of Froglok Guards: the lower-level variety can be found just outside Guk, while the higher-level var... |
 A Giant Rat
 |
