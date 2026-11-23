@@ -1,5 +1,5 @@
 # Plane_of_Hate (eqlwiki.com)
-fetched: 2026-11-16
+fetched: 2026-11-23
 
 Plane of Hate - EverQuest Legends Wiki
 Jump to content
@@ -1400,7 +1400,7 @@ Cleric |
 5% @ (409, 31) |
 Various |
 Description needed. |
-Items - Found 242 items that drop in Plane of Hate:
+Items - Found 243 items that drop in Plane of Hate:
 Item Name | Drops From | Slot | Stats |
 Anthemion ArmbandsAnthemion Armbands
 Lore Equipped, No Trade, Quest
@@ -2279,6 +2279,15 @@ Corrupter of Life |
 (None) |
 No Trade, Quest WT: 1.0 Size: MEDIUM Class: ALL Race: ALL |
 Fragment of Greater PotentialFragment of Greater Potential
+No Trade
+Size: TINY
+Class: ALL
+Race: ALL
+|
+None? |
+(None) |
+No Trade Size: TINY Class: ALL Race: ALL |
+Fragment of Infinitesimal PotentialFragment of Infinitesimal Potential
 No Trade
 Size: TINY
 Class: ALL

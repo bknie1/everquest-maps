@@ -1,5 +1,5 @@
 # Permafrost_Keep (eqlwiki.com)
-fetched: 2026-11-14
+fetched: 2026-11-23
 
 Permafrost - EverQuest Legends Wiki
 Jump to content
@@ -966,7 +966,7 @@ Wizard |
 50% @ (664, -296) |
 Various |
 If you are facing North in King's Room, the spawn location is directly right of the clump of snow with a rock sticking o... |
-Items - Found 50 items that drop in Permafrost:
+Items - Found 51 items that drop in Permafrost:
 Item Name | Drops From | Slot | Stats |
 Archaeologist PackArchaeologist Pack
 LORE ITEM
@@ -1083,6 +1083,15 @@ Race: ALL
 a goblin jailmaster |
 Neck |
 AC: 5 STR: +2 WIS: +2 INT: +2 WT: 0.5 Size: SMALL Class: ALL except NEC WIZ MAG ENC Race: ALL |
+Fragment of Infinitesimal PotentialFragment of Infinitesimal Potential
+No Trade
+Size: TINY
+Class: ALL
+Race: ALL
+|
+None? |
+(None) |
+No Trade Size: TINY Class: ALL Race: ALL |
 Giant Dire Wolf SkinGiant Dire Wolf Skin
 WT: 6.0 Size: LARGE
 Class: ALL

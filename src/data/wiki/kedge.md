@@ -1,5 +1,5 @@
 # Kedge_Keep (eqlwiki.com)
-fetched: 2026-11-14
+fetched: 2026-11-23
 
 Kedge Keep - EverQuest Legends Wiki
 Jump to content
@@ -1317,7 +1317,7 @@ Class: ALL
 Race: ALL
 |
 A powerful seahorse Wizard in the depths of Kedge Keep. In classic, its Squallsurge Shawl was best in slot f... |
-Items - Found 39 items that drop in Kedge Keep:
+Items - Found 40 items that drop in Kedge Keep:
 Item Name | Drops From | Slot | Stats |
 Abalone GorgetAbalone Gorget
 MAGIC ITEM
@@ -1398,6 +1398,15 @@ Race: ALL
 Ground Spawn - Phinigel Autropos's room, in an alcove on the SOUTH WALL, on TOP of a rock, (-143, 146, -251) |
 (None) |
 No Trade WT: 0.1 Size: TINY Class: ALL Race: ALL |
+Fragment of Infinitesimal PotentialFragment of Infinitesimal Potential
+No Trade
+Size: TINY
+Class: ALL
+Race: ALL
+|
+None? |
+(None) |
+No Trade Size: TINY Class: ALL Race: ALL |
 Fusible Coral OreFusible Coral Ore
 MAGIC ITEM LORE ITEM NO DROP
 WT: 0.1 Size: TINY

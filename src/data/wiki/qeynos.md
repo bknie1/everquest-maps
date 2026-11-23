@@ -1,5 +1,5 @@
 # Qeynos (eqlwiki.com)
-fetched: 2026-11-21
+fetched: 2026-11-23
 
 Qeynos - EQ Legends Wiki
 Jump to content
@@ -3269,21 +3269,7 @@ Gnoll |
 Monster |
 4-6 |
 100% @ (1210, 480) |
-Rusty Weapons, Patch of Gnoll FurPatch of Gnoll Fur
-QUEST ITEM
-WT: 0.3 Size: SMALL
-Class: ALL
-Race: ALL
-, Gnoll FangGnoll Fang
-No Trade, Quest
-WT: 0.1 Size: SMALL
-Class: ALL
-Race: ALL
-, High Quality Gnoll FurHigh Quality Gnoll Fur
-WT: 0.2 Size: SMALL
-Class: ALL
-Race: ALL
-|
+Various |
 Named gnoll that respawns every 7 minutes in the heavy newbie area in front of North Qeynos and then charges the gat... |
 Flynn Merrington
 |

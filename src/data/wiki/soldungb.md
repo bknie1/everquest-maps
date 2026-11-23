@@ -1,5 +1,5 @@
 # Nagafen's_Lair (eqlwiki.com)
-fetched: 2026-11-14
+fetched: 2026-11-23
 
 Nagafen's Lair - EverQuest Legends Wiki
 Jump to content
@@ -994,7 +994,7 @@ Lair |
 Various |
 This is the aggressive, dragon version of Zordak, part of the Cleric epic.
 He is a triggered spawn from turning in a [[... |
-Items - Found 58 items that drop in Nagafen's Lair:
+Items - Found 59 items that drop in Nagafen's Lair:
 Item Name | Drops From | Slot | Stats |
 A Burnt SashA Burnt Sash
 LORE ITEM NO DROP
@@ -1322,6 +1322,15 @@ Race: ALLDMG Bonus: 28 @ lvl 50
 Solusek kobold king |
 2H Slashing |
 Atk Delay: 42 DMG: 20 Effect: Word of Shadow (Combat, Casting Time: Instant) at Level 35 WT: 11.0 Size: LARGE Class: WAR SHD BER Race: ALL |
+Fragment of Infinitesimal PotentialFragment of Infinitesimal Potential
+No Trade
+Size: TINY
+Class: ALL
+Race: ALL
+|
+None? |
+(None) |
+No Trade Size: TINY Class: ALL Race: ALL |
 Gauntlets of Fiery MightGauntlets of Fiery Might
 Attunable
 Slot: HANDS

@@ -1,5 +1,5 @@
 # Southern_Plains_of_Karana (eqlwiki.com)
-fetched: 2026-11-14
+fetched: 2026-11-23
 
 Southern Karana - EverQuest Legends Wiki
 Jump to content
@@ -1332,7 +1332,7 @@ WT: 3.5 Size: MEDIUM
 Class: WAR PAL RNG SHD DRU BRD ROG
 Race: ALLDMG Bonus: 11 @ lvl 50
 |
-A placeholder for Brother Qwinn. |
+A placeholder for Brother Qwinn. Additional placeholders include a mist wolf, an adult elephant, [[a liones... |
 Quillmane
 |
 Pegasus |

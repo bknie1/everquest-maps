@@ -1,5 +1,5 @@
 # Lower_Guk (eqlwiki.com)
-fetched: 2026-11-22
+fetched: 2026-11-23
 
 Lower Guk - EverQuest Legends Wiki
 Jump to content
@@ -2007,7 +2007,7 @@ Class: CLR DRU BRD SHM NEC WIZ MAG ENC
 Race: ALL
 |
 The arch mage is an excellent hunt for high level casters in LGuk. PH is a jin ghoul wizard or [[a kor ghoul wizard]... |
-Items - Found 76 items that drop in Lower Guk:
+Items - Found 77 items that drop in Lower Guk:
 Item Name | Drops From | Slot | Stats |
 Adamantite BandAdamantite Band
 Attunable, Quest
@@ -2325,6 +2325,15 @@ Race: ALL
 a frenzied ghoul |
 Waist |
 Haste: +21% WT: 0.1 Size: SMALL Class: ALL Race: ALL |
+Fragment of Infinitesimal PotentialFragment of Infinitesimal Potential
+No Trade
+Size: TINY
+Class: ALL
+Race: ALL
+|
+None? |
+(None) |
+No Trade Size: TINY Class: ALL Race: ALL |
 Froglok EyeFroglok Eye
 QUEST ITEM
 WT: 0.1 Size: SMALL
