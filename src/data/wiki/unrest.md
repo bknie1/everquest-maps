@@ -1,5 +1,5 @@
 # Estate_of_Unrest (eqlwiki.com)
-fetched: 2026-11-21
+fetched: 2026-11-25
 
 The Estate of Unrest - EQ Legends Wiki
 Jump to content
@@ -711,7 +711,7 @@ Overall, Unrest is a great XP zone that someone can stay at until about level 35
 Traveling To and From
 The Estate of Unrest is reached by passing through the length of Dagnor's Cauldron to a small tunnel on the south end. Most people run along the west end of the lake close to the water, but you need to be careful of the numerous aqua goblins moving throughout the area. At least one swims out a little bit into the lake.
 What's in this zone?
-NPCs - Found 35 NPCs that spawn in The Estate of Unrest:
+NPCs - Found 36 NPCs that spawn in The Estate of Unrest:
 NPC Name | Race | Class | Level | Location | Known Loot | Description |
 A Crazed Ghoul
 |
@@ -968,6 +968,14 @@ Warrior |
 25% @ (496, 119) |
 Various |
 Description needed. |
+A tormented dead
+|
+? |
+? |
+? |
+49.69, 1.69, 5.69 |
+? |
+? |
 A werebat
 |
 Kobold |

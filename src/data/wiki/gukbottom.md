@@ -1,5 +1,5 @@
 # Lower_Guk (eqlwiki.com)
-fetched: 2026-11-23
+fetched: 2026-11-25
 
 Lower Guk - EverQuest Legends Wiki
 Jump to content
@@ -170,8 +170,8 @@ WT: 6.5 Size: MEDIUM
 Class: WAR CLR PAL RNG SHD BRD ROG SHM BER
 Race: ALL
 , Broken Bow Part BBroken Bow Part B
-LORE ITEM NO DROP
-WT: 0.6 Size: SMALL
+No Trade, Quest
+Size: SMALL WT: 0.6
 Class: ALL
 Race: ALL
 , Carved Ivory MaskCarved Ivory Mask
@@ -1915,8 +1915,8 @@ Warrior |
 32 |
 25% @ (755, -224) |
 Broken Bow Part BBroken Bow Part B
-LORE ITEM NO DROP
-WT: 0.6 Size: SMALL
+No Trade, Quest
+Size: SMALL WT: 0.6
 Class: ALL
 Race: ALL
 |
@@ -2121,14 +2121,14 @@ a ghoul sentinel |
 Chest |
 AC: 17 END: +10 STR: +7 STA: +4 WT: 6.5 Size: MEDIUM Class: WAR CLR PAL RNG SHD BRD ROG SHM BER Race: ALL |
 Broken Bow Part BBroken Bow Part B
-LORE ITEM NO DROP
-WT: 0.6 Size: SMALL
+No Trade, Quest
+Size: SMALL WT: 0.6
 Class: ALL
 Race: ALL
 |
 Slaythe the Slayer |
 (None) |
-LORE ITEM NO DROP WT: 0.6 Size: SMALL Class: ALL Race: ALL |
+No Trade, Quest Size: SMALL WT: 0.6 Class: ALL Race: ALL |
 Bunch of Optic NervesBunch of Optic Nerves
 Quest
 Size: SMALL WT: 0.2
